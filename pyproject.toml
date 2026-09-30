@@ -1,0 +1,9 @@
+[project]
+name = "exportscout"
+version = "0.1.0"
+description = "Find UK buyers, a quote range and a pitch from one product photo, using live SerpApi search data."
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

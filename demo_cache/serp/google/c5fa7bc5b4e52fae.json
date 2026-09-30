@@ -1,0 +1,395 @@
+{
+ "engine": "google",
+ "params": {
+  "q": "Crocus.co.uk UK",
+  "gl": "uk",
+  "hl": "en",
+  "google_domain": "google.co.uk"
+ },
+ "fetched_at": "2026-09-30T10:56:06+00:00",
+ "data": {
+  "search_metadata": {
+   "id": "6abceac56539a278c984dee6",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/G43VdjSTg_IcVCV5-WNbijbn_5RtlA8loRTsvJClbJk/6abceac56539a278c984dee6.json",
+   "markdown_endpoint": "https://serpapi.com/searches/G43VdjSTg_IcVCV5-WNbijbn_5RtlA8loRTsvJClbJk/6abceac56539a278c984dee6.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/G43VdjSTg_IcVCV5-WNbijbn_5RtlA8loRTsvJClbJk/6abceac56539a278c984dee6.json_with_pixel_position",
+   "created_at": "2026-09-30 10:56:05 UTC",
+   "processed_at": "2026-09-30 10:56:05 UTC",
+   "google_url": "https://www.google.co.uk/search?q=Crocus.co.uk+UK&oq=Crocus.co.uk+UK&hl=en&gl=uk&sourceid=chrome&ie=UTF-8",
+   "raw_html_file": "https://serpapi.com/searches/G43VdjSTg_IcVCV5-WNbijbn_5RtlA8loRTsvJClbJk/6abceac56539a278c984dee6.html",
+   "total_time_taken": 0.84
+  },
+  "search_parameters": {
+   "engine": "google",
+   "q": "Crocus.co.uk UK",
+   "google_domain": "google.co.uk",
+   "hl": "en",
+   "gl": "uk",
+   "device": "desktop"
+  },
+  "search_information": {
+   "query_displayed": "Crocus.co.uk UK",
+   "total_results": 6050000000,
+   "time_taken_displayed": 0.38,
+   "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+   {
+    "question": "Where can I find a legislation tracker for the UK?",
+    "type": "ai_overview",
+    "page_token": "O69JCXicHdBLjtowAABQ9TKzBJwQ2kFCldzEGaLGbRx_Ym8qYwOe2PkIGDJkN3foEXqqnqZS3xHex5_w2vu_n3672228bpfLaZoW52E4h-PCDIs3v9TXR2-WRodw0MZvN5834OvJ7LK7gd8uBlZsHHlKVvQFcRvbWK6-JFSgiDehPnKEWAc2iqmraB2ULb7SxinKCmh4OesXXpe5fZM9nHhmQMmfYdkVgEYjOQil5Mxmm_JQiULVPgASY69E0tsQwHdhJW5gwZm9VNxVx14JniOpOtyqjDudhpT65IQzW-tV8rBzscYBvxtPptKjnxoRIDmbMPBRHRV7y56h4EqrOWhDCyxjt__BEnEUANV0_46R28vOzSQiRebsWjXZWjbscfAOGzFOFqHKZquZ5RbWZHitGJlNGzrGs3XZwpan6k4BHqqWdJglN5PjvBSjYjEZWfV0Mvdd_PT_evfr1N2242U4_wPJso0a",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=O69JCXicHdBLjtowAABQ9TKzBJwQ2kFCldzEGaLGbRx_Ym8qYwOe2PkIGDJkN3foEXqqnqZS3xHex5_w2vu_n3672228bpfLaZoW52E4h-PCDIs3v9TXR2-WRodw0MZvN5834OvJ7LK7gd8uBlZsHHlKVvQFcRvbWK6-JFSgiDehPnKEWAc2iqmraB2ULb7SxinKCmh4OesXXpe5fZM9nHhmQMmfYdkVgEYjOQil5Mxmm_JQiULVPgASY69E0tsQwHdhJW5gwZm9VNxVx14JniOpOtyqjDudhpT65IQzW-tV8rBzscYBvxtPptKjnxoRIDmbMPBRHRV7y56h4EqrOWhDCyxjt__BEnEUANV0_46R28vOzSQiRebsWjXZWjbscfAOGzFOFqHKZquZ5RbWZHitGJlNGzrGs3XZwpan6k4BHqqWdJglN5PjvBSjYjEZWfV0Mvdd_PT_evfr1N2242U4_wPJso0a",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFgwRlVjVnBOUm5SRVNVSjRkRmx5TWtOVU5tVklOVXBIV1V0WldrSXlNems0WkVZM2VrbHdVMDlhUjFaMU56Y3pjV3gyWlZseVFrcEdUMWd5TUhOTlZuTjVla2hvZFRSelNFSkdiWEp6TkdWVFVtZFhia3hSUm5Wc1p4SVhlR1Z4T0dGMU1tNUlUWEZxY0hSUlVIUk5NMUJuUVVrYUlrRkVjM0k1WmxGaFRXZHVSVE15UlU4NGIyRmFjVloyVTJKVlMyVndOVzAzVVVFIiwiZmN2IjoiMyIsImVpIjoieGVxOGF1Mm5ITXFqcHRRUHRNM1BnQUkiLCJxYyI6IkNnOWpjbTlqZFhNZ1kyOGdkV3NnZFdzUUFIMVdJbThfIiwicXVlc3Rpb24iOiJXaGVyZSBjYW4gSSBmaW5kIGEgbGVnaXNsYXRpb24gdHJhY2tlciBmb3IgdGhlIFVLPyIsImxrIjoiR2hac1pXZHBjMnhoZEdsdmJpQjBjbUZqYTJWeUlIVnIiLCJicyI6ImMyM09NUXZDTUJBRllGd2pncE5JRjhfTnVadFRRUVNSZ3B0MHZqYVg5a2k4UXBMYXYyOU54VVhuOTkxN3AyNHFyenJ5QkEwS1hNR3dhRUJ3MUhKd0dMa1hpQjRiU3g1TTd5RjJCUGV5eUxmWjVoOFpyR0oxcmpxTXdDRmh6Y1pNN2RJUTFCUkhJcGs3aENOcEtGbGEzVDhBcDlHTHAtbnM1RGtpUzVIdnM5MHdJX3RCendCdE12VnMxRkVkZmw5M0xnMDRIQU93ZkI5ZVpjdDNOTmlVckJjdiIsImlkIjoiZmNfeGVxOGF1Mm5ITXFqcHRRUHRNM1BnQUlfNCJ9",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFgwRlVjVnBOUm5SRVNVSjRkRmx5TWtOVU5tVklOVXBIV1V0WldrSXlNems0WkVZM2VrbHdVMDlhUjFaMU56Y3pjV3gyWlZseVFrcEdUMWd5TUhOTlZuTjVla2hvZFRSelNFSkdiWEp6TkdWVFVtZFhia3hSUm5Wc1p4SVhlR1Z4T0dGMU1tNUlUWEZxY0hSUlVIUk5NMUJuUVVrYUlrRkVjM0k1WmxGaFRXZHVSVE15UlU4NGIyRmFjVloyVTJKVlMyVndOVzAzVVVFIiwiZmN2IjoiMyIsImVpIjoieGVxOGF1Mm5ITXFqcHRRUHRNM1BnQUkiLCJxYyI6IkNnOWpjbTlqZFhNZ1kyOGdkV3NnZFdzUUFIMVdJbThfIiwicXVlc3Rpb24iOiJXaGVyZSBjYW4gSSBmaW5kIGEgbGVnaXNsYXRpb24gdHJhY2tlciBmb3IgdGhlIFVLPyIsImxrIjoiR2hac1pXZHBjMnhoZEdsdmJpQjBjbUZqYTJWeUlIVnIiLCJicyI6ImMyM09NUXZDTUJBRllGd2pncE5JRjhfTnVadFRRUVNSZ3B0MHZqYVg5a2k4UXBMYXYyOU54VVhuOTkxN3AyNHFyenJ5QkEwS1hNR3dhRUJ3MUhKd0dMa1hpQjRiU3g1TTd5RjJCUGV5eUxmWjVoOFpyR0oxcmpxTXdDRmh6Y1pNN2RJUTFCUkhJcGs3aENOcEtGbGEzVDhBcDlHTHAtbnM1RGtpUzVIdnM5MHdJX3RCendCdE12VnMxRkVkZmw5M0xnMDRIQU93ZkI5ZVpjdDNOTmlVckJjdiIsImlkIjoiZmNfeGVxOGF1Mm5ITXFqcHRRUHRNM1BnQUlfNCJ9"
+   },
+   {
+    "question": "What is the difference between the United Kingdom and Great Britain?",
+    "type": "ai_overview",
+    "page_token": "A3z-63icHdFRbpswAABQ7TL9TDAEJiJFk0JsojS4wmA78DMRu4mDTXEXZyb56112gJ1np2m1A7yv9_HHXN70v29_lXP2upzPvfez8ziezetMjLObnnfX-5uYi86YYyf0MvmegB8nsYKjz7KrX5fUWrYhQQ2BIRptMZQ3MUye5dYRaF2h04H060gyM9Q8XZNDW-Ih3hdAPUSQLmqAnw8A9VRb9QJJVXEDG-7iV73LisgMDVPbboteugBURE8O5-7GjNpXyPaFZqimyFeoTQ6RfD_mMT5CcqcR6sqI4TZvyypATmTBgnEVSmMjFsZll6e-5mhPchXSwCSYY86HAtQ1C2iPpmNvrm1omy_TdNDfO0NiCe2ebJSvmEoaDjI6-AnnaSho7GieggrKqQ12O6jkoj3ARXOg96NWWHDrJUKlhMGD5nJdkfFSUvIQvRkoN7c2d1oCvCnYDtJQvlN6nTqAdXkBoYjkc-ufTuL3Knr6_7D6eRrc0v4az5_kAZY5",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=A3z-63icHdFRbpswAABQ7TL9TDAEJiJFk0JsojS4wmA78DMRu4mDTXEXZyb56112gJ1np2m1A7yv9_HHXN70v29_lXP2upzPvfez8ziezetMjLObnnfX-5uYi86YYyf0MvmegB8nsYKjz7KrX5fUWrYhQQ2BIRptMZQ3MUye5dYRaF2h04H060gyM9Q8XZNDW-Ih3hdAPUSQLmqAnw8A9VRb9QJJVXEDG-7iV73LisgMDVPbboteugBURE8O5-7GjNpXyPaFZqimyFeoTQ6RfD_mMT5CcqcR6sqI4TZvyypATmTBgnEVSmMjFsZll6e-5mhPchXSwCSYY86HAtQ1C2iPpmNvrm1omy_TdNDfO0NiCe2ebJSvmEoaDjI6-AnnaSho7GieggrKqQ12O6jkoj3ARXOg96NWWHDrJUKlhMGD5nJdkfFSUvIQvRkoN7c2d1oCvCnYDtJQvlN6nTqAdXkBoYjkc-ufTuL3Knr6_7D6eRrc0v4az5_kAZY5",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFgwRlVjVnBOUm5SRVNVSjRkRmx5TWtOVU5tVklOVXBIV1V0WldrSXlNems0WkVZM2VrbHdVMDlhUjFaMU56Y3pjV3gyWlZseVFrcEdUMWd5TUhOTlZuTjVla2hvZFRSelNFSkdiWEp6TkdWVFVtZFhia3hSUm5Wc1p4SVhlR1Z4T0dGMU1tNUlUWEZxY0hSUlVIUk5NMUJuUVVrYUlrRkVjM0k1WmxGaFRXZHVSVE15UlU4NGIyRmFjVloyVTJKVlMyVndOVzAzVVVFIiwiZmN2IjoiMyIsImVpIjoieGVxOGF1Mm5ITXFqcHRRUHRNM1BnQUkiLCJxYyI6IkNnOWpjbTlqZFhNZ1kyOGdkV3NnZFdzUUFIMVdJbThfIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBkaWZmZXJlbmNlIGJldHdlZW4gdGhlIFVuaXRlZCBLaW5nZG9tIGFuZCBHcmVhdCBCcml0YWluPyIsImxrIjoiR2g5MWJtbDBaV1FnYTJsdVoyUnZiU0IyY3lCbmNtVmhkQ0JpY21sMFlXbHUiLCJicyI6ImMyM09NUXZDTUJBRllGd2pncE5JRjhfTnVadFRRUVNSZ3B0MHZqYVg5a2k4UXBMYXYyOU54VVhuOTkxN3AyNHFyenJ5QkEwS1hNR3dhRUJ3MUhKd0dMa1hpQjRiU3g1TTd5RjJCUGV5eUxmWjVoOFpyR0oxcmpxTXdDRmh6Y1pNN2RJUTFCUkhJcGs3aENOcEtGbGEzVDhBcDlHTHAtbnM1RGtpUzVIdnM5MHdJX3RCendCdE12VnMxRkVkZmw5M0xnMDRIQU93ZkI5ZVpjdDNOTmlVckJjdiIsImlkIjoiZmNfeGVxOGF1Mm5ITXFqcHRRUHRNM1BnQUlfNCJ9",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFgwRlVjVnBOUm5SRVNVSjRkRmx5TWtOVU5tVklOVXBIV1V0WldrSXlNems0WkVZM2VrbHdVMDlhUjFaMU56Y3pjV3gyWlZseVFrcEdUMWd5TUhOTlZuTjVla2hvZFRSelNFSkdiWEp6TkdWVFVtZFhia3hSUm5Wc1p4SVhlR1Z4T0dGMU1tNUlUWEZxY0hSUlVIUk5NMUJuUVVrYUlrRkVjM0k1WmxGaFRXZHVSVE15UlU4NGIyRmFjVloyVTJKVlMyVndOVzAzVVVFIiwiZmN2IjoiMyIsImVpIjoieGVxOGF1Mm5ITXFqcHRRUHRNM1BnQUkiLCJxYyI6IkNnOWpjbTlqZFhNZ1kyOGdkV3NnZFdzUUFIMVdJbThfIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBkaWZmZXJlbmNlIGJldHdlZW4gdGhlIFVuaXRlZCBLaW5nZG9tIGFuZCBHcmVhdCBCcml0YWluPyIsImxrIjoiR2g5MWJtbDBaV1FnYTJsdVoyUnZiU0IyY3lCbmNtVmhkQ0JpY21sMFlXbHUiLCJicyI6ImMyM09NUXZDTUJBRllGd2pncE5JRjhfTnVadFRRUVNSZ3B0MHZqYVg5a2k4UXBMYXYyOU54VVhuOTkxN3AyNHFyenJ5QkEwS1hNR3dhRUJ3MUhKd0dMa1hpQjRiU3g1TTd5RjJCUGV5eUxmWjVoOFpyR0oxcmpxTXdDRmh6Y1pNN2RJUTFCUkhJcGs3aENOcEtGbGEzVDhBcDlHTHAtbnM1RGtpUzVIdnM5MHdJX3RCendCdE12VnMxRkVkZmw5M0xnMDRIQU93ZkI5ZVpjdDNOTmlVckJjdiIsImlkIjoiZmNfeGVxOGF1Mm5ITXFqcHRRUHRNM1BnQUlfNCJ9"
+   },
+   {
+    "question": "Where can I find all the laws in the UK?",
+    "type": "ai_overview",
+    "page_token": "nubu5nicHdBfboIwHADg7DI-KhVxi4lZwgSFDQzFXwt9WUoRkJY_EybI2-6yU-00W3aDL9_Xt7rU8udhLPq-7TaLxTAM87xpcnWei2b-KRe8u9diIbhSCRdys35co-dMbK1Px3z5cMwA2pbssBZGvudJw_R27p3v21tMxy4Ack0qB2GJxmTv6N5O9PHS0UOibgDxnVfFEFr56g3GIwelyMkGorsRJqJPrbynCo-wTyWlJDqeyORp3TKpUEssPEHpRgllJwYoS4CtKVHrkDCNSNSHqDFAxzQmT2NaaXpcMh5QjBlFmBKXiCWq4WAafCJdXLnL8OBzrjujqO2OUan5NNWtIl2xyFrFEdwTWfiCtkNq20FqadOfyQxxcwkAT6JUFUgFQekMPhgmsz2DabY8K2cIpf2aaLgGKKJ0mGXittVn_5_b96zqN-21yX8BuYeEjg",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=nubu5nicHdBfboIwHADg7DI-KhVxi4lZwgSFDQzFXwt9WUoRkJY_EybI2-6yU-00W3aDL9_Xt7rU8udhLPq-7TaLxTAM87xpcnWei2b-KRe8u9diIbhSCRdys35co-dMbK1Px3z5cMwA2pbssBZGvudJw_R27p3v21tMxy4Ack0qB2GJxmTv6N5O9PHS0UOibgDxnVfFEFr56g3GIwelyMkGorsRJqJPrbynCo-wTyWlJDqeyORp3TKpUEssPEHpRgllJwYoS4CtKVHrkDCNSNSHqDFAxzQmT2NaaXpcMh5QjBlFmBKXiCWq4WAafCJdXLnL8OBzrjujqO2OUan5NNWtIl2xyFrFEdwTWfiCtkNq20FqadOfyQxxcwkAT6JUFUgFQekMPhgmsz2DabY8K2cIpf2aaLgGKKJ0mGXittVn_5_b96zqN-21yX8BuYeEjg",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFgwRlVjVnBOUm5SRVNVSjRkRmx5TWtOVU5tVklOVXBIV1V0WldrSXlNems0WkVZM2VrbHdVMDlhUjFaMU56Y3pjV3gyWlZseVFrcEdUMWd5TUhOTlZuTjVla2hvZFRSelNFSkdiWEp6TkdWVFVtZFhia3hSUm5Wc1p4SVhlR1Z4T0dGMU1tNUlUWEZxY0hSUlVIUk5NMUJuUVVrYUlrRkVjM0k1WmxGaFRXZHVSVE15UlU4NGIyRmFjVloyVTJKVlMyVndOVzAzVVVFIiwiZmN2IjoiMyIsImVpIjoieGVxOGF1Mm5ITXFqcHRRUHRNM1BnQUkiLCJxYyI6IkNnOWpjbTlqZFhNZ1kyOGdkV3NnZFdzUUFIMVdJbThfIiwicXVlc3Rpb24iOiJXaGVyZSBjYW4gSSBmaW5kIGFsbCB0aGUgbGF3cyBpbiB0aGUgVUs/IiwibGsiOiJHZ3RoYkd3Z2RXc2diR0YzY3ciLCJicyI6ImMyM09NUXZDTUJBRllGd2pncE5JRjhfTnVadFRRUVNSZ3B0MHZqYVg5a2k4UXBMYXYyOU54VVhuOTkxN3AyNHFyenJ5QkEwS1hNR3dhRUJ3MUhKd0dMa1hpQjRiU3g1TTd5RjJCUGV5eUxmWjVoOFpyR0oxcmpxTXdDRmh6Y1pNN2RJUTFCUkhJcGs3aENOcEtGbGEzVDhBcDlHTHAtbnM1RGtpUzVIdnM5MHdJX3RCendCdE12VnMxRkVkZmw5M0xnMDRIQU93ZkI5ZVpjdDNOTmlVckJjdiIsImlkIjoiZmNfeGVxOGF1Mm5ITXFqcHRRUHRNM1BnQUlfNCJ9",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFgwRlVjVnBOUm5SRVNVSjRkRmx5TWtOVU5tVklOVXBIV1V0WldrSXlNems0WkVZM2VrbHdVMDlhUjFaMU56Y3pjV3gyWlZseVFrcEdUMWd5TUhOTlZuTjVla2hvZFRSelNFSkdiWEp6TkdWVFVtZFhia3hSUm5Wc1p4SVhlR1Z4T0dGMU1tNUlUWEZxY0hSUlVIUk5NMUJuUVVrYUlrRkVjM0k1WmxGaFRXZHVSVE15UlU4NGIyRmFjVloyVTJKVlMyVndOVzAzVVVFIiwiZmN2IjoiMyIsImVpIjoieGVxOGF1Mm5ITXFqcHRRUHRNM1BnQUkiLCJxYyI6IkNnOWpjbTlqZFhNZ1kyOGdkV3NnZFdzUUFIMVdJbThfIiwicXVlc3Rpb24iOiJXaGVyZSBjYW4gSSBmaW5kIGFsbCB0aGUgbGF3cyBpbiB0aGUgVUs%2FIiwibGsiOiJHZ3RoYkd3Z2RXc2diR0YzY3ciLCJicyI6ImMyM09NUXZDTUJBRllGd2pncE5JRjhfTnVadFRRUVNSZ3B0MHZqYVg5a2k4UXBMYXYyOU54VVhuOTkxN3AyNHFyenJ5QkEwS1hNR3dhRUJ3MUhKd0dMa1hpQjRiU3g1TTd5RjJCUGV5eUxmWjVoOFpyR0oxcmpxTXdDRmh6Y1pNN2RJUTFCUkhJcGs3aENOcEtGbGEzVDhBcDlHTHAtbnM1RGtpUzVIdnM5MHdJX3RCendCdE12VnMxRkVkZmw5M0xnMDRIQU93ZkI5ZVpjdDNOTmlVckJjdiIsImlkIjoiZmNfeGVxOGF1Mm5ITXFqcHRRUHRNM1BnQUlfNCJ9"
+   }
+  ],
+  "ai_overview": {
+   "page_token": "NYXw3HiczVbddqo4FH6AeY7hZloB_-1arLOSSJVjrVKktXPD4q-BgkYNFundeYF5inmqeZoJIIpW2nXOxayJQkyy987eO_vL54-_Q38Z_PPbX14UregNz8dxXMOE4NCt2aS2DXiTJkubfyEh3djeNxxK24DzQsldcsmb1OBsKgmc60s7d901t_XlcLx-XUXqNBo3phgoXKYuGZZJ3Vdmf_dKeYNnr-D3Rp8NarTmLo0BrEEat-CgropNXKsLYq824c0FkwH_YVNloADI-ryraggA-WtjqYgKUGqraBgdl_LWz-2le-JsYlS5pZJqQfZRQCY6be5aHmUm9EJIq_ZYZa_nYhBnHYT5jlrqFP46nn2DYJ8aqB5cq2zK5elcE5U2ff6wesna-HRMAOw3garCwoWzU9HKUUE5jTKVYMm47u8AjP2KZO8V2HcGhgH5PMTMEaR0i3SAW8oOVeEdzIpX4K0N60Tetz07-7GhaU2jWU8gA2duTx9lfR492N1H2r8eUG27pv6kp6q8bTG5kJiO6xieIXzLxmJdbAm9Rqd7leHJpgdA0TKgJuQhvl-LPTqWa3c1KBZQQocDOQtIZmN06axYZtElhYOVIuMlZR-Vq6koTlbegcLElPi4hmVlmvaDYmLCDhRA2yu7VsiCHJYHXXRBaA-lrLCUvFeO6gcRXTkawuWlfvAxyA_3AEIgzstV7Wd5gbhwQD1LEwKawtaKWXiKMhUC35PTsKDG4qGZmH2sfwJkQX5QStb2_qQFL--31A8h5mpKCUqI1TfKKv4-lQkQDqDCnIWZHJBxBop8L3x2_HLFFYdYjFCvhOinDVfdBydNKTBzBoEydGRTb1rw8e7W1BN3FBtBe-hPgTEOW4l6GSpkYf0c-dj_LzwV1KTvqakaT_LXeEqvws-oKXsdqUnL8TSqxpOsHKkJl6hJKISO1HSOJ6SV8ISSVALD28vU9LN4Qp_gSfkMT2mkl_CkVuEppaZTPH0_p6YTPB2oqcDTr1GT8mvUlMHLzbtTntq-4mq-UpvyajaaNubtJ_FJ3CWTaG6R7oz0Ol_z1csiulmYTnhl-M4NrH-PEufKYBPkxnW4tYQ2xN7S_B_nH_qIW4QbIglm2wrqjjVqPF3PgzcC2u04fnqdxdM_h9ais30fr7zZYw9r42SkRS8TZUrFZvwetajsDd-9jmGEt0N9PVwR1WsFu2H3TXifOJ0WnQ7EIZnPJ2bDWt-TZ1X0e7fiZKqHdXfgzsbac19dh4k5S3Q4J7P58Lu2a17XSeYVlUJfWw2j9p3XjTkWAXUlkVtsbIkdRRODexU8YVZ26JnRAWYPYU_MnjbDMOSobRoufZMcwW50Oz27YVqmaHfq3AJHyUrqCRxdbiTxXyjiRCU",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=NYXw3HiczVbddqo4FH6AeY7hZloB_-1arLOSSJVjrVKktXPD4q-BgkYNFundeYF5inmqeZoJIIpW2nXOxayJQkyy987eO_vL54-_Q38Z_PPbX14UregNz8dxXMOE4NCt2aS2DXiTJkubfyEh3djeNxxK24DzQsldcsmb1OBsKgmc60s7d901t_XlcLx-XUXqNBo3phgoXKYuGZZJ3Vdmf_dKeYNnr-D3Rp8NarTmLo0BrEEat-CgropNXKsLYq824c0FkwH_YVNloADI-ryraggA-WtjqYgKUGqraBgdl_LWz-2le-JsYlS5pZJqQfZRQCY6be5aHmUm9EJIq_ZYZa_nYhBnHYT5jlrqFP46nn2DYJ8aqB5cq2zK5elcE5U2ff6wesna-HRMAOw3garCwoWzU9HKUUE5jTKVYMm47u8AjP2KZO8V2HcGhgH5PMTMEaR0i3SAW8oOVeEdzIpX4K0N60Tetz07-7GhaU2jWU8gA2duTx9lfR492N1H2r8eUG27pv6kp6q8bTG5kJiO6xieIXzLxmJdbAm9Rqd7leHJpgdA0TKgJuQhvl-LPTqWa3c1KBZQQocDOQtIZmN06axYZtElhYOVIuMlZR-Vq6koTlbegcLElPi4hmVlmvaDYmLCDhRA2yu7VsiCHJYHXXRBaA-lrLCUvFeO6gcRXTkawuWlfvAxyA_3AEIgzstV7Wd5gbhwQD1LEwKawtaKWXiKMhUC35PTsKDG4qGZmH2sfwJkQX5QStb2_qQFL--31A8h5mpKCUqI1TfKKv4-lQkQDqDCnIWZHJBxBop8L3x2_HLFFYdYjFCvhOinDVfdBydNKTBzBoEydGRTb1rw8e7W1BN3FBtBe-hPgTEOW4l6GSpkYf0c-dj_LzwV1KTvqakaT_LXeEqvws-oKXsdqUnL8TSqxpOsHKkJl6hJKISO1HSOJ6SV8ISSVALD28vU9LN4Qp_gSfkMT2mkl_CkVuEppaZTPH0_p6YTPB2oqcDTr1GT8mvUlMHLzbtTntq-4mq-UpvyajaaNubtJ_FJ3CWTaG6R7oz0Ol_z1csiulmYTnhl-M4NrH-PEufKYBPkxnW4tYQ2xN7S_B_nH_qIW4QbIglm2wrqjjVqPF3PgzcC2u04fnqdxdM_h9ais30fr7zZYw9r42SkRS8TZUrFZvwetajsDd-9jmGEt0N9PVwR1WsFu2H3TXifOJ0WnQ7EIZnPJ2bDWt-TZ1X0e7fiZKqHdXfgzsbac19dh4k5S3Q4J7P58Lu2a17XSeYVlUJfWw2j9p3XjTkWAXUlkVtsbIkdRRODexU8YVZ26JnRAWYPYU_MnjbDMOSobRoufZMcwW50Oz27YVqmaHfq3AJHyUrqCRxdbiTxXyjiRCU"
+  },
+  "organic_results": [
+   {
+    "position": 1,
+    "title": "United Kingdom",
+    "link": "https://en.wikipedia.org/wiki/United_Kingdom",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZwHrOzAVPPvZepdOmPocXey_0WEt1UelWr_cihWGTSMTJ1YNOBS7JVrQv1v1eDdl0PTqTYSC6xGt9j1TYRPKAZYwUr7hasR1C2JhCEXJtuV5FKMYZ9OwGxhav9K4lORQnHycDUaTKjw&ved=2ahUKEwitns6qkpaXAxXKkYkEHbTmEyAQFnoECCEQAQ&uoh=1",
+    "displayed_link": "https://en.wikipedia.org › wiki › United_Kingdom",
+    "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+    "snippet": "The UK is a constitutional monarchy and parliamentary democracy with three distinct jurisdictions: England and Wales, Scotland, and Northern Ireland. Scotland, ...",
+    "snippet_highlighted_words": [
+     "UK",
+     "England"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "The UK is a constitutional monarchy and parliamentary democracy with three distinct jurisdictions: England and Wales, Scotland, and Northern Ireland. Scotland, ...",
+      "source_info_link": "https://en.wikipedia.org/wiki/United_Kingdom",
+      "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CpkBL2dvdG8_dXJsPUNBRVNad0hyT3pBVlBQdlplcGRPbVBvY1hleV8wV0V0MVVlbFdyX2NpaFdHVFNNVEoxWU5PQlM3SlZyUXYxdjFlRGRsMFBUcVRZU0M2eEd0OWoxVFlSUEtBWll3VXI3aGFzUjFDMkpoQ0VYSnR1VjVGS01ZWjlPd0d4aGF2OUs0bE9SUW5IeWNEVWFUS2p3EgQaAggAGrsDEgIIARoAIgAqADIGCAMSAnVrOgBCBAgBEABKAFoAcgB6AIJAlQMIABAAGAAgACoaCgZjcm9jdXMVV6yZPxoLaXY7cDtjcm9jdXMymQEvZ290bz91cmw9Q0FFU1p3SHJPekFWUFB2WmVwZE9tUG9jWGV5XzBXRXQxVWVsV3JfY2loV0dUU01USjFZTk9CUzdKVnJRdjF2MWVEZGwwUFRxVFlTQzZ4R3Q5ajFUWVJQS0FaWXdVcjdoYXNSMUMySmhDRVhKdHVWNUZLTVlaOU93R3hoYXY5SzRsT1JRbkh5Y0RVYVRLanc6GlVuaXRlZCBLaW5nZG9tIC0gV2lraXBlZGlhQrYBVGhlIDxiPlVLPC9iPiBpcyBhIGNvbnN0aXR1dGlvbmFsIG1vbmFyY2h5IGFuZCBwYXJsaWFtZW50YXJ5IGRlbW9jcmFjeSB3aXRoIHRocmVlIGRpc3RpbmN0IGp1cmlzZGljdGlvbnM6IDxiPkVuZ2xhbmQ8L2I-IGFuZCBXYWxlcywgU2NvdGxhbmQsIGFuZCBOb3J0aGVybiBJcmVsYW5kLiBTY290bGFuZCwmbmJzcDsuLi4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CpkBL2dvdG8_dXJsPUNBRVNad0hyT3pBVlBQdlplcGRPbVBvY1hleV8wV0V0MVVlbFdyX2NpaFdHVFNNVEoxWU5PQlM3SlZyUXYxdjFlRGRsMFBUcVRZU0M2eEd0OWoxVFlSUEtBWll3VXI3aGFzUjFDMkpoQ0VYSnR1VjVGS01ZWjlPd0d4aGF2OUs0bE9SUW5IeWNEVWFUS2p3EgQaAggAGrsDEgIIARoAIgAqADIGCAMSAnVrOgBCBAgBEABKAFoAcgB6AIJAlQMIABAAGAAgACoaCgZjcm9jdXMVV6yZPxoLaXY7cDtjcm9jdXMymQEvZ290bz91cmw9Q0FFU1p3SHJPekFWUFB2WmVwZE9tUG9jWGV5XzBXRXQxVWVsV3JfY2loV0dUU01USjFZTk9CUzdKVnJRdjF2MWVEZGwwUFRxVFlTQzZ4R3Q5ajFUWVJQS0FaWXdVcjdoYXNSMUMySmhDRVhKdHVWNUZLTVlaOU93R3hoYXY5SzRsT1JRbkh5Y0RVYVRLanc6GlVuaXRlZCBLaW5nZG9tIC0gV2lraXBlZGlhQrYBVGhlIDxiPlVLPC9iPiBpcyBhIGNvbnN0aXR1dGlvbmFsIG1vbmFyY2h5IGFuZCBwYXJsaWFtZW50YXJ5IGRlbW9jcmFjeSB3aXRoIHRocmVlIGRpc3RpbmN0IGp1cmlzZGljdGlvbnM6IDxiPkVuZ2xhbmQ8L2I-IGFuZCBXYWxlcywgU2NvdGxhbmQsIGFuZCBOb3J0aGVybiBJcmVsYW5kLiBTY290bGFuZCwmbmJzcDsuLi4iAhABSABYAGgA",
+    "source": "Wikipedia",
+    "read_more_link": "https://en.wikipedia.org/wiki/United_Kingdom#:~:text=The%20UK%20is%20a%20constitutional,Scotland%2C%20and%20Northern%20Ireland.%20Scotland%2C"
+   },
+   {
+    "position": 2,
+    "title": "Welcome to GOV.UK",
+    "link": "https://www.gov.uk/",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESTgHrOzAVpYQTX9ZXHy7_OU7roaizvnnmfscpUFKEjui8GY_S5fFPG711WeU3DqQ_hFtlfgCUc-4IzUOhow_QfPPbjw0htEDvTIngCKWENA&ved=2ahUKEwitns6qkpaXAxXKkYkEHbTmEyAQFnoECBUQAQ&uoh=1",
+    "displayed_link": "https://www.gov.uk",
+    "favicon": "https://serpapi.com/images/i/UklGRhgBAABXRUJQVlA4IAwBAAAwBgCdASocABwAPtE-tFooIigoFAEAGgloAJ0yhHp496oAiAFWyZytQAMtBxxeoo0v-ukyi91RSUmAAP5tq_b9aeTUksslz1bykvnoSeNsDcPyo5M_1_OL_N6zZIdLehoX_zUl-ET4KtFrXLBT8kc4tQu5oC8i_ugLTiU5sHmdS6vQ9o-_zd3Trc_rtaTl4-ncTsepxs0eCTVPA9c0v4EPxd1_zGFFZTm-3TgDWGON9_V8467cPT_lIoXVJCYHBvAamqBBmH12TC3ezccMwXyjcyz50b6euvyUReqT5RY2mJ-Kuu3NW7x52cE5EN9f1Y-44VHb19inO6ikqhd0FPC5piGcBUzPXX0ogAAA.webp",
+    "snippet": "The best place to find government services and information. Citizenship and living in the UK. Search and apply for jobs in England, Scotland and Wales.",
+    "snippet_highlighted_words": [
+     "UK",
+     "England"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "The best place to find government services and information. Citizenship and living in the UK. Search and apply for jobs in England, Scotland and Wales.",
+      "source_info_link": "https://www.gov.uk/",
+      "icon": "https://serpapi.com/images/i/UklGRhgBAABXRUJQVlA4IAwBAAAwBgCdASocABwAPtE-tFooIigoFAEAGgloAJ0yhHp496oAiAFWyZytQAMtBxxeoo0v-ukyi91RSUmAAP5tq_b9aeTUksslz1bykvnoSeNsDcPyo5M_1_OL_N6zZIdLehoX_zUl-ET4KtFrXLBT8kc4tQu5oC8i_ugLTiU5sHmdS6vQ9o-_zd3Trc_rtaTl4-ncTsepxs0eCTVPA9c0v4EPxd1_zGFFZTm-3TgDWGON9_V8467cPT_lIoXVJCYHBvAamqBBmH12TC3ezccMwXyjcyz50b6euvyUReqT5RY2mJ-Kuu3NW7x52cE5EN9f1Y-44VHb19inO6ikqhd0FPC5piGcBUzPXX0ogAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CngvZ290bz91cmw9Q0FFU1RnSHJPekFWcFlRVFg5WlhIeTdfT1U3cm9haXp2bm5tZnNjcFVGS0VqdWk4R1lfUzVmRlBHNzExV2VVM0RxUV9oRnRsZmdDVWMtNEl6VU9ob3dfUWZQUGJqdzBodEVEdlRJbmdDS1dFTkESBBoCCAAahgMSAggBGgAiACoAMgYIARICdWs6AEIECAEQAEoAWgByAHoAgkDgAggAEAAYACAAKhoKBmNyb2N1cxUMRZ5AGgtpdjtwO2Nyb2N1czJ4L2dvdG8_dXJsPUNBRVNUZ0hyT3pBVnBZUVRYOVpYSHk3X09VN3JvYWl6dm5ubWZzY3BVRktFanVpOEdZX1M1ZkZQRzcxMVdlVTNEcVFfaEZ0bGZnQ1VjLTRJelVPaG93X1FmUFBiancwaHRFRHZUSW5nQ0tXRU5BOhhXZWxjb21lIHRvIEdPVi48Yj5VSzwvYj5CpQFUaGUgYmVzdCBwbGFjZSB0byBmaW5kIGdvdmVybm1lbnQgc2VydmljZXMgYW5kIGluZm9ybWF0aW9uLiBDaXRpemVuc2hpcCBhbmQgbGl2aW5nIGluIHRoZSA8Yj5VSzwvYj4uIFNlYXJjaCBhbmQgYXBwbHkgZm9yIGpvYnMgaW4gPGI-RW5nbGFuZDwvYj4sIFNjb3RsYW5kIGFuZCBXYWxlcy4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CngvZ290bz91cmw9Q0FFU1RnSHJPekFWcFlRVFg5WlhIeTdfT1U3cm9haXp2bm5tZnNjcFVGS0VqdWk4R1lfUzVmRlBHNzExV2VVM0RxUV9oRnRsZmdDVWMtNEl6VU9ob3dfUWZQUGJqdzBodEVEdlRJbmdDS1dFTkESBBoCCAAahgMSAggBGgAiACoAMgYIARICdWs6AEIECAEQAEoAWgByAHoAgkDgAggAEAAYACAAKhoKBmNyb2N1cxUMRZ5AGgtpdjtwO2Nyb2N1czJ4L2dvdG8_dXJsPUNBRVNUZ0hyT3pBVnBZUVRYOVpYSHk3X09VN3JvYWl6dm5ubWZzY3BVRktFanVpOEdZX1M1ZkZQRzcxMVdlVTNEcVFfaEZ0bGZnQ1VjLTRJelVPaG93X1FmUFBiancwaHRFRHZUSW5nQ0tXRU5BOhhXZWxjb21lIHRvIEdPVi48Yj5VSzwvYj5CpQFUaGUgYmVzdCBwbGFjZSB0byBmaW5kIGdvdmVybm1lbnQgc2VydmljZXMgYW5kIGluZm9ybWF0aW9uLiBDaXRpemVuc2hpcCBhbmQgbGl2aW5nIGluIHRoZSA8Yj5VSzwvYj4uIFNlYXJjaCBhbmQgYXBwbHkgZm9yIGpvYnMgaW4gPGI-RW5nbGFuZDwvYj4sIFNjb3RsYW5kIGFuZCBXYWxlcy4iAhABSABYAGgA",
+    "source": "GOV.UK"
+   },
+   {
+    "position": 3,
+    "title": "Papyrus Prevention of Young Suicide (in Administration)",
+    "link": "https://opusllp.com/restructuring-insolvency/case-papyrus-in-administration/",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShwEB6zswFT2y_uKYcIaADFfQsWiVbnMiO5wx-q6aoxL81xUyy8Z27yIh3aUXk-en7QxWd0o-lgM6_2kmbVymkzmwtG_wdkMQnqZAjWuHQy2oTrtG6XN-ui-Ie9Y2pvTu4X7GvVhCWYoaDABQRi0chgh2oPmeEgwB_4DUR9OZOsiLHXoFoILWNLM&ved=2ahUKEwitns6qkpaXAxXKkYkEHbTmEyAQFnoECBkQAQ&uoh=1",
+    "displayed_link": "https://opusllp.com › restructuring-insolvency › case-pa...",
+    "favicon": "https://serpapi.com/images/i/UklGRj4BAABXRUJQVlA4IDIBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHAmgrwG2A5jPUAPQA_WbrV0aCEAL-8dqHkhWWa1sHGW7oAouspFFHagAAD-_S-pUdt2GXlraxD2gUwt_RfC-BsZtlRD9gb25zJZ0pOcEkO2hCxyIjXH4DGWtMsf0nPSr1b_hj2DqdjUsgzDAU98lpWdXMduzc-b-dHB92YY2jBNVzc9rBjXmGa7TUjJUiCrjPv8YJTCoeA1hqSs9reX3Y8Afg_uzH_T_kJFtOVLzga2OhKfUCH8-Z3r6BorvpZlH1iyPFoMWvFkLA3JQW2Gi0ZCKQT8oWUHt3KAcAPNnJx9w7TS_pcGV01EokwU0gDHZvC7XQNGKDSsOqFtU5iFi2tPIxBqhkKRXd1oOKLFc6GKpy-NAAA.webp",
+    "date": "7 Sept 2026",
+    "snippet": "For almost 30 years, Papyrus has worked to prevent young suicide in the UK through its campaign work, education, training and direct service ...",
+    "snippet_highlighted_words": [
+     "Papyrus has worked to prevent young suicide in the UK"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "For almost 30 years, Papyrus has worked to prevent young suicide in the UK through its campaign work, education, training and direct service ...",
+      "source_info_link": "https://opusllp.com/restructuring-insolvency/case-papyrus-in-administration/",
+      "icon": "https://serpapi.com/images/i/UklGRj4BAABXRUJQVlA4IDIBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHAmgrwG2A5jPUAPQA_WbrV0aCEAL-8dqHkhWWa1sHGW7oAouspFFHagAAD-_S-pUdt2GXlraxD2gUwt_RfC-BsZtlRD9gb25zJZ0pOcEkO2hCxyIjXH4DGWtMsf0nPSr1b_hj2DqdjUsgzDAU98lpWdXMduzc-b-dHB92YY2jBNVzc9rBjXmGa7TUjJUiCrjPv8YJTCoeA1hqSs9reX3Y8Afg_uzH_T_kJFtOVLzga2OhKfUCH8-Z3r6BorvpZlH1iyPFoMWvFkLA3JQW2Gi0ZCKQT8oWUHt3KAcAPNnJx9w7TS_pcGV01EokwU0gDHZvC7XQNGKDSsOqFtU5iFi2tPIxBqhkKRXd1oOKLFc6GKpy-NAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CsUBL2dvdG8_dXJsPUNBRVNod0VCNnpzd0ZUMnlfdUtZY0lhQURGZlFzV2lWYm5NaU81d3gtcTZhb3hMODF4VXl5OFoyN3lJaDNhVVhrLWVuN1F4V2Qwby1sZ002XzJrbWJWeW1rem13dEdfd2RrTVFucVpBald1SFF5Mm9UcnRHNlhOLXVpLUllOVkycHZUdTRYN0d2VmhDV1lvYURBQlFSaTBjaGdoMm9QbWVFZ3dCXzREVVI5T1pPc2lMSFhvRm9JTFdOTE0SBBoCCAAa6gMSAggBGgAiACoAMgYIARICdWs6AEIECAEQAEoAWgByAHoAgkDEAwgAEAAYACAAKhoKBmNyb2N1cxXmSb4_GgtpdjtwO2Nyb2N1czLFAS9nb3RvP3VybD1DQUVTaHdFQjZ6c3dGVDJ5X3VLWWNJYUFERmZRc1dpVmJuTWlPNXd4LXE2YW94TDgxeFV5eThaMjd5SWgzYVVYay1lbjdReFdkMG8tbGdNNl8ya21iVnlta3ptd3RHX3dka01RbnFaQWpXdUhReTJvVHJ0RzZYTi11aS1JZTlZMnB2VHU0WDdHdlZoQ1dZb2FEQUJRUmkwY2hnaDJvUG1lRWd3Ql80RFVSOU9aT3NpTEhYb0ZvSUxXTkxNOjdQYXB5cnVzIFByZXZlbnRpb24gb2YgWW91bmcgU3VpY2lkZSAoaW4gQWRtaW5pc3RyYXRpb24pQpwBRm9yIGFsbW9zdCAzMCB5ZWFycywgPGI-UGFweXJ1cyBoYXMgd29ya2VkIHRvIHByZXZlbnQgeW91bmcgc3VpY2lkZSBpbiB0aGUgVUs8L2I-IHRocm91Z2ggaXRzIGNhbXBhaWduIHdvcmssIGVkdWNhdGlvbiwgdHJhaW5pbmcgYW5kIGRpcmVjdCBzZXJ2aWNlJm5ic3A7Li4uIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CsUBL2dvdG8_dXJsPUNBRVNod0VCNnpzd0ZUMnlfdUtZY0lhQURGZlFzV2lWYm5NaU81d3gtcTZhb3hMODF4VXl5OFoyN3lJaDNhVVhrLWVuN1F4V2Qwby1sZ002XzJrbWJWeW1rem13dEdfd2RrTVFucVpBald1SFF5Mm9UcnRHNlhOLXVpLUllOVkycHZUdTRYN0d2VmhDV1lvYURBQlFSaTBjaGdoMm9QbWVFZ3dCXzREVVI5T1pPc2lMSFhvRm9JTFdOTE0SBBoCCAAa6gMSAggBGgAiACoAMgYIARICdWs6AEIECAEQAEoAWgByAHoAgkDEAwgAEAAYACAAKhoKBmNyb2N1cxXmSb4_GgtpdjtwO2Nyb2N1czLFAS9nb3RvP3VybD1DQUVTaHdFQjZ6c3dGVDJ5X3VLWWNJYUFERmZRc1dpVmJuTWlPNXd4LXE2YW94TDgxeFV5eThaMjd5SWgzYVVYay1lbjdReFdkMG8tbGdNNl8ya21iVnlta3ptd3RHX3dka01RbnFaQWpXdUhReTJvVHJ0RzZYTi11aS1JZTlZMnB2VHU0WDdHdlZoQ1dZb2FEQUJRUmkwY2hnaDJvUG1lRWd3Ql80RFVSOU9aT3NpTEhYb0ZvSUxXTkxNOjdQYXB5cnVzIFByZXZlbnRpb24gb2YgWW91bmcgU3VpY2lkZSAoaW4gQWRtaW5pc3RyYXRpb24pQpwBRm9yIGFsbW9zdCAzMCB5ZWFycywgPGI-UGFweXJ1cyBoYXMgd29ya2VkIHRvIHByZXZlbnQgeW91bmcgc3VpY2lkZSBpbiB0aGUgVUs8L2I-IHRocm91Z2ggaXRzIGNhbXBhaWduIHdvcmssIGVkdWNhdGlvbiwgdHJhaW5pbmcgYW5kIGRpcmVjdCBzZXJ2aWNlJm5ic3A7Li4uIgIQAUgAWABoAA",
+    "source": "Opus Business Advisory Group",
+    "read_more_link": "https://opusllp.com/restructuring-insolvency/case-papyrus-in-administration/#:~:text=For%20almost%2030%20years%2C%20Papyrus,training%20and%20direct%20service%20provision."
+   },
+   {
+    "position": 4,
+    "title": "Carers UK",
+    "link": "https://www.carersuk.org/",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVAHrOzAVLGEGTEep36gumqE3DniLzafPodkeTstaCWaFq03ph3_Q5GT9cepYcM9LrVFfcGZo1PdHWLhdidOcHzlrqH2k2k0jwqWAvtN3WAxBbP3dQw&ved=2ahUKEwitns6qkpaXAxXKkYkEHbTmEyAQFnoECBYQAQ&uoh=1",
+    "displayed_link": "https://www.carersuk.org",
+    "favicon": "https://serpapi.com/images/i/UklGRgACAABXRUJQVlA4IPQBAADQCgCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3uluFSA3DHkZ9ar6AH7AemF7JH2ANQApgHdN_ytaB5yn3n0VRh0jKLI6dxzeh6_yHCyMgJRBan3h9RuG1CsuwAAD-8K-Va1siyeeju0KE4qJg_3S8PhLp2iRqep0NEsP3WI1-6iStMStV0JWAD52d9Ec8oKKozK_VLeCJrouoXu_dOA7rwMLJrNEAUYIgcAceBEMq951buV3J0vcXZC6YEy_1f9pbwLUi3ODOWFFMG3Pq5DOz3Vi6i_j6mHJuMhpsXWuTNPkOicfgF00B30qWXxD46VAnwfrtsMC8S1ch1F6f_nSxryCABD7z2zEVuTx0-npK9WXeYPPwH6GpqPh8yS63xEaZ7NDepmYYoMfmWGJMwvDbYI3lVz12xA2Z6KPDfiMhQkBRSck_tFP9mlUnNqREyExZGNl5Qgs3_3rzZ3yCAsjflLoAFg-88f-a_cIp59vFyrlc_TyAWorwZeRFtGFO_Tf4fXuf-s7LoBqJfyQjUhks_nYv__H6qFIM8HsHPDt-cYxcIu4lAyIYr_Ns8LpyistDU7SJn4jK-8ftVv-E6CZ_yyLY81Y46eUdMl82e7My4Il10WbQ8Xpzq7u6B8VhDQB_53AGc15i9M692HAv2zAAAA.webp",
+    "snippet": "We're here for unpaid carers with expert information, advice and support. Carers UK is free … 20 Great Dover Street, London SE1 4LX Registered charity number ...",
+    "snippet_highlighted_words": [
+     "UK"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "We're here for unpaid carers with expert information, advice and support. Carers UK is free … 20 Great Dover Street, London SE1 4LX Registered charity number ...",
+      "source_info_link": "https://www.carersuk.org/",
+      "icon": "https://serpapi.com/images/i/UklGRgACAABXRUJQVlA4IPQBAADQCgCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3uluFSA3DHkZ9ar6AH7AemF7JH2ANQApgHdN_ytaB5yn3n0VRh0jKLI6dxzeh6_yHCyMgJRBan3h9RuG1CsuwAAD-8K-Va1siyeeju0KE4qJg_3S8PhLp2iRqep0NEsP3WI1-6iStMStV0JWAD52d9Ec8oKKozK_VLeCJrouoXu_dOA7rwMLJrNEAUYIgcAceBEMq951buV3J0vcXZC6YEy_1f9pbwLUi3ODOWFFMG3Pq5DOz3Vi6i_j6mHJuMhpsXWuTNPkOicfgF00B30qWXxD46VAnwfrtsMC8S1ch1F6f_nSxryCABD7z2zEVuTx0-npK9WXeYPPwH6GpqPh8yS63xEaZ7NDepmYYoMfmWGJMwvDbYI3lVz12xA2Z6KPDfiMhQkBRSck_tFP9mlUnNqREyExZGNl5Qgs3_3rzZ3yCAsjflLoAFg-88f-a_cIp59vFyrlc_TyAWorwZeRFtGFO_Tf4fXuf-s7LoBqJfyQjUhks_nYv__H6qFIM8HsHPDt-cYxcIu4lAyIYr_Ns8LpyistDU7SJn4jK-8ftVv-E6CZ_yyLY81Y46eUdMl82e7My4Il10WbQ8Xpzq7u6B8VhDQB_53AGc15i9M692HAv2zAAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CoABL2dvdG8_dXJsPUNBRVNWQUhyT3pBVkxHRUdURWVwMzZndW1xRTNEbmlMemFmUG9ka2VUc3RhQ1dhRnEwM3BoM19RNUdUOWNlcFljTTlMclZGZmNHWm8xUGRIV0xoZGlkT2NIemxycUgyazJrMGp3cVdBdnROM1dBeEJiUDNkUXcSBBoCCAAalQMSAggBGgAiACoAMgYIARICdWs6AEIECAEQAEoAWgByAHoAgkDvAggAEAAYACAAKhoKBmNyb2N1cxU-crpAGgtpdjtwO2Nyb2N1czKAAS9nb3RvP3VybD1DQUVTVkFIck96QVZMR0VHVEVlcDM2Z3VtcUUzRG5pTHphZlBvZGtlVHN0YUNXYUZxMDNwaDNfUTVHVDljZXBZY005THJWRmZjR1pvMVBkSFdMaGRpZE9jSHpscnFIMmsyazBqd3FXQXZ0TjNXQXhCYlAzZFF3OhBDYXJlcnMgPGI-VUs8L2I-QrMBV2UmIzM5O3JlIGhlcmUgZm9yIHVucGFpZCBjYXJlcnMgd2l0aCBleHBlcnQgaW5mb3JtYXRpb24sIGFkdmljZSBhbmQgc3VwcG9ydC4gQ2FyZXJzIDxiPlVLPC9iPiBpcyBmcmVlIOKApiAyMCBHcmVhdCBEb3ZlciBTdHJlZXQsIExvbmRvbiBTRTEgNExYIFJlZ2lzdGVyZWQgY2hhcml0eSBudW1iZXImbmJzcDsuLi4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CoABL2dvdG8_dXJsPUNBRVNWQUhyT3pBVkxHRUdURWVwMzZndW1xRTNEbmlMemFmUG9ka2VUc3RhQ1dhRnEwM3BoM19RNUdUOWNlcFljTTlMclZGZmNHWm8xUGRIV0xoZGlkT2NIemxycUgyazJrMGp3cVdBdnROM1dBeEJiUDNkUXcSBBoCCAAalQMSAggBGgAiACoAMgYIARICdWs6AEIECAEQAEoAWgByAHoAgkDvAggAEAAYACAAKhoKBmNyb2N1cxU-crpAGgtpdjtwO2Nyb2N1czKAAS9nb3RvP3VybD1DQUVTVkFIck96QVZMR0VHVEVlcDM2Z3VtcUUzRG5pTHphZlBvZGtlVHN0YUNXYUZxMDNwaDNfUTVHVDljZXBZY005THJWRmZjR1pvMVBkSFdMaGRpZE9jSHpscnFIMmsyazBqd3FXQXZ0TjNXQXhCYlAzZFF3OhBDYXJlcnMgPGI-VUs8L2I-QrMBV2UmIzM5O3JlIGhlcmUgZm9yIHVucGFpZCBjYXJlcnMgd2l0aCBleHBlcnQgaW5mb3JtYXRpb24sIGFkdmljZSBhbmQgc3VwcG9ydC4gQ2FyZXJzIDxiPlVLPC9iPiBpcyBmcmVlIOKApiAyMCBHcmVhdCBEb3ZlciBTdHJlZXQsIExvbmRvbiBTRTEgNExYIFJlZ2lzdGVyZWQgY2hhcml0eSBudW1iZXImbmJzcDsuLi4iAhABSABYAGgA",
+    "source": "Carers UK"
+   },
+   {
+    "position": 5,
+    "title": "UK Parliament",
+    "link": "https://www.parliament.uk/",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVQHrOzAVBabsjoZIVZfo0u6-PO33--_CU6Q1awZ7goKZ4gbBXJbC0xCP9ds92u_hNuPtgdm9XmrtJLLpKOxgEfeBuSkjbUDUrtXmyj1cbE0H9oCltxA&ved=2ahUKEwitns6qkpaXAxXKkYkEHbTmEyAQFnoECBgQAQ&uoh=1",
+    "displayed_link": "https://www.parliament.uk",
+    "favicon": "https://serpapi.com/images/i/UklGRvQBAABXRUJQVlA4IOgBAADQCQCdASogACAAPtEutFooIagoGAEAGgllAMdB_-3QP5z0Nfdr1vyb2BH-h_iXMj_61-Rl3A8ub9y_LX1v_TfsCCqFHglGHh3HUnDCBJzGyVFSMm6MSgAA_vUnN4nccMI83gHyrOyWOLIU7wUCw89ov5cHgXyoaG2pR4mwtCYRhj5nV6-xz4o_8CE2OhXiXgbhmdEZdXEuiy0TWovJK3mC9C76ODZCrjSWQ35eNrfCyZ4a-hrOG7hEF-kR3pifPywcltEdXKk53m7Hf2bJpcJzN1Ovj4Y_J82SJbSA3Dxw61C8mpZ04hulwA9dGjdxhtkoXcpxnFxx_I7kbpkjCxIJaZhvUgM49_gQ8XhrbzG17yAd6G8fdoIczvprLnTrkzKmx_pDXfnjb6Q13543HYu_YGIOgplpgFceWRpp6tkaQLZTjCT5i0CdnCUNgK46k_p7TIDadlzbGWc4Q7bIe1hD7Ds53LfZt9Ffl0xBq_NtebyYs33C4_5u4dvWdgraOfBSSHylDd09pkBzJxWAIe0L3SGncEE5bgYEhLNd-eMYG9uHx42phufbj1Xly1QMEZa5Np_8jTTzZMmZi_SpVruVCJbD-w67nZ-Ew8RGRjwICvuX-N_0gOYBOTRk-bCaQNjQU7qQP8AAAA.webp",
+    "snippet": "ParliamentNow presents information from the UK Parliament annunciator system, covering both the House of Commons and House of Lords.",
+    "snippet_highlighted_words": [
+     "UK"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "ParliamentNow presents information from the UK Parliament annunciator system, covering both the House of Commons and House of Lords.",
+      "source_info_link": "https://www.parliament.uk/",
+      "icon": "https://serpapi.com/images/i/UklGRvQBAABXRUJQVlA4IOgBAADQCQCdASogACAAPtEutFooIagoGAEAGgllAMdB_-3QP5z0Nfdr1vyb2BH-h_iXMj_61-Rl3A8ub9y_LX1v_TfsCCqFHglGHh3HUnDCBJzGyVFSMm6MSgAA_vUnN4nccMI83gHyrOyWOLIU7wUCw89ov5cHgXyoaG2pR4mwtCYRhj5nV6-xz4o_8CE2OhXiXgbhmdEZdXEuiy0TWovJK3mC9C76ODZCrjSWQ35eNrfCyZ4a-hrOG7hEF-kR3pifPywcltEdXKk53m7Hf2bJpcJzN1Ovj4Y_J82SJbSA3Dxw61C8mpZ04hulwA9dGjdxhtkoXcpxnFxx_I7kbpkjCxIJaZhvUgM49_gQ8XhrbzG17yAd6G8fdoIczvprLnTrkzKmx_pDXfnjb6Q13543HYu_YGIOgplpgFceWRpp6tkaQLZTjCT5i0CdnCUNgK46k_p7TIDadlzbGWc4Q7bIe1hD7Ds53LfZt9Ffl0xBq_NtebyYs33C4_5u4dvWdgraOfBSSHylDd09pkBzJxWAIe0L3SGncEE5bgYEhLNd-eMYG9uHx42phufbj1Xly1QMEZa5Np_8jTTzZMmZi_SpVruVCJbD-w67nZ-Ew8RGRjwICvuX-N_0gOYBOTRk-bCaQNjQU7qQP8AAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CoEBL2dvdG8_dXJsPUNBRVNWUUhyT3pBVkJhYnNqb1pJVlpmbzB1Ni1QTzMzLS1fQ1U2UTFhd1o3Z29LWjRnYkJYSmJDMHhDUDlkczkydV9oTnVQdGdkbTlYbXJ0SkxMcEtPeGdFZmVCdVNramJVRFVydFhteWoxY2JFMEg5b0NsdHhBEgQaAggAGvICEgIIARoAIgAqADIGCAESAnVrOgBCBAgBEABKAFoAcgB6AIJAzAIIABAAGAAgACoaCgZjcm9jdXMVmm2YQBoLaXY7cDtjcm9jdXMygQEvZ290bz91cmw9Q0FFU1ZRSHJPekFWQmFic2pvWklWWmZvMHU2LVBPMzMtLV9DVTZRMWF3Wjdnb0taNGdiQlhKYkMweENQOWRzOTJ1X2hOdVB0Z2RtOVhtcnRKTExwS094Z0VmZUJ1U2tqYlVEVXJ0WG15ajFjYkUwSDlvQ2x0eEE6FDxiPlVLPC9iPiBQYXJsaWFtZW50QosBUGFybGlhbWVudE5vdyBwcmVzZW50cyBpbmZvcm1hdGlvbiBmcm9tIHRoZSA8Yj5VSzwvYj4gUGFybGlhbWVudCBhbm51bmNpYXRvciBzeXN0ZW0sIGNvdmVyaW5nIGJvdGggdGhlIEhvdXNlIG9mIENvbW1vbnMgYW5kIEhvdXNlIG9mIExvcmRzLiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CoEBL2dvdG8_dXJsPUNBRVNWUUhyT3pBVkJhYnNqb1pJVlpmbzB1Ni1QTzMzLS1fQ1U2UTFhd1o3Z29LWjRnYkJYSmJDMHhDUDlkczkydV9oTnVQdGdkbTlYbXJ0SkxMcEtPeGdFZmVCdVNramJVRFVydFhteWoxY2JFMEg5b0NsdHhBEgQaAggAGvICEgIIARoAIgAqADIGCAESAnVrOgBCBAgBEABKAFoAcgB6AIJAzAIIABAAGAAgACoaCgZjcm9jdXMVmm2YQBoLaXY7cDtjcm9jdXMygQEvZ290bz91cmw9Q0FFU1ZRSHJPekFWQmFic2pvWklWWmZvMHU2LVBPMzMtLV9DVTZRMWF3Wjdnb0taNGdiQlhKYkMweENQOWRzOTJ1X2hOdVB0Z2RtOVhtcnRKTExwS094Z0VmZUJ1U2tqYlVEVXJ0WG15ajFjYkUwSDlvQ2x0eEE6FDxiPlVLPC9iPiBQYXJsaWFtZW50QosBUGFybGlhbWVudE5vdyBwcmVzZW50cyBpbmZvcm1hdGlvbiBmcm9tIHRoZSA8Yj5VSzwvYj4gUGFybGlhbWVudCBhbm51bmNpYXRvciBzeXN0ZW0sIGNvdmVyaW5nIGJvdGggdGhlIEhvdXNlIG9mIENvbW1vbnMgYW5kIEhvdXNlIG9mIExvcmRzLiICEAFIAFgAaAA",
+    "source": "UK Parliament",
+    "read_more_link": "https://www.parliament.uk/#:~:text=ParliamentNow%20presents%20information%20from%20the"
+   },
+   {
+    "position": 6,
+    "title": "Information Commissioner's Office",
+    "link": "https://ico.org.uk/",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESTgHrOzAVLAJhDkjCt7TOMqnyQJuiI1Za0BNO0M1g2ADqxlBMcW0kqSVDIHJKWPoe6wsMelMzf7OPPp3HQ-yzTtOG-Pjsq-GbjirPiaSenA&ved=2ahUKEwitns6qkpaXAxXKkYkEHbTmEyAQFnoECBcQAQ&uoh=1",
+    "displayed_link": "https://ico.org.uk",
+    "favicon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAABQBgCdASocABwAPtE-tFooIigoFAEAGgloAJ0ygzxMgB-SVXLHGy4aN9ahWM97l5q7DM_9E2x_UhSCAAD-6_Cydf4a9CnIU1abwaaO1WPU1KHlB9BbQSzko3xRE8w-68M4md9lmoCQG82LMiPhnq_61tAXTZ90820rHcnBONiu9PxbM38wRSGpg7mAPhZ-01kP8oC_U6I8W071HWGJwbHWmrUrurmPORNvwHtvVckwsKd0Blu9bPhgfM9w1MpF_Mlyk2nG_VPUaxaNo_UpcT31rioj18lSckxW6SVIouV9fR63O9gNOxiDBSf72AKI7Fn2AAAA.webp",
+    "snippet": "The ICO exists to empower you through information. Guidance and resources for public bodies, private and third sector organisations and sole traders UK",
+    "snippet_highlighted_words": [
+     "UK"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "The ICO exists to empower you through information. Guidance and resources for public bodies, private and third sector organisations and sole traders UK",
+      "source_info_link": "https://ico.org.uk/",
+      "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAABQBgCdASocABwAPtE-tFooIigoFAEAGgloAJ0ygzxMgB-SVXLHGy4aN9ahWM97l5q7DM_9E2x_UhSCAAD-6_Cydf4a9CnIU1abwaaO1WPU1KHlB9BbQSzko3xRE8w-68M4md9lmoCQG82LMiPhnq_61tAXTZ90820rHcnBONiu9PxbM38wRSGpg7mAPhZ-01kP8oC_U6I8W071HWGJwbHWmrUrurmPORNvwHtvVckwsKd0Blu9bPhgfM9w1MpF_Mlyk2nG_VPUaxaNo_UpcT31rioj18lSckxW6SVIouV9fR63O9gNOxiDBSf72AKI7Fn2AAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CngvZ290bz91cmw9Q0FFU1RnSHJPekFWTEFKaERrakN0N1RPTXFueVFKdWlJMVphMEJOTzBNMWcyQURxeGxCTWNXMGtxU1ZESUhKS1dQb2U2d3NNZWxNemY3T1BQcDNIUS15elR0T0ctUGpzcS1HYmppclBpYVNlbkESBBoCCAAajAMSAggBGgAiACoAMgYIARICdWs6AEIECAEQAEoAWgByAHoAgkDmAggAEAAYACAAKhoKBmNyb2N1cxXZYPo_GgtpdjtwO2Nyb2N1czJ4L2dvdG8_dXJsPUNBRVNUZ0hyT3pBVkxBSmhEa2pDdDdUT01xbnlRSnVpSTFaYTBCTk8wTTFnMkFEcXhsQk1jVzBrcVNWRElISktXUG9lNndzTWVsTXpmN09QUHAzSFEteXpUdE9HLVBqc3EtR2JqaXJQaWFTZW5BOiVJbmZvcm1hdGlvbiBDb21taXNzaW9uZXImIzM5O3MgT2ZmaWNlQp4BVGhlIElDTyBleGlzdHMgdG8gZW1wb3dlciB5b3UgdGhyb3VnaCBpbmZvcm1hdGlvbi4gR3VpZGFuY2UgYW5kIHJlc291cmNlcyBmb3IgcHVibGljIGJvZGllcywgcHJpdmF0ZSBhbmQgdGhpcmQgc2VjdG9yIG9yZ2FuaXNhdGlvbnMgYW5kIHNvbGUgdHJhZGVycyA8Yj5VSzwvYj4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CngvZ290bz91cmw9Q0FFU1RnSHJPekFWTEFKaERrakN0N1RPTXFueVFKdWlJMVphMEJOTzBNMWcyQURxeGxCTWNXMGtxU1ZESUhKS1dQb2U2d3NNZWxNemY3T1BQcDNIUS15elR0T0ctUGpzcS1HYmppclBpYVNlbkESBBoCCAAajAMSAggBGgAiACoAMgYIARICdWs6AEIECAEQAEoAWgByAHoAgkDmAggAEAAYACAAKhoKBmNyb2N1cxXZYPo_GgtpdjtwO2Nyb2N1czJ4L2dvdG8_dXJsPUNBRVNUZ0hyT3pBVkxBSmhEa2pDdDdUT01xbnlRSnVpSTFaYTBCTk8wTTFnMkFEcXhsQk1jVzBrcVNWRElISktXUG9lNndzTWVsTXpmN09QUHAzSFEteXpUdE9HLVBqc3EtR2JqaXJQaWFTZW5BOiVJbmZvcm1hdGlvbiBDb21taXNzaW9uZXImIzM5O3MgT2ZmaWNlQp4BVGhlIElDTyBleGlzdHMgdG8gZW1wb3dlciB5b3UgdGhyb3VnaCBpbmZvcm1hdGlvbi4gR3VpZGFuY2UgYW5kIHJlc291cmNlcyBmb3IgcHVibGljIGJvZGllcywgcHJpdmF0ZSBhbmQgdGhpcmQgc2VjdG9yIG9yZ2FuaXNhdGlvbnMgYW5kIHNvbGUgdHJhZGVycyA8Yj5VSzwvYj4iAhABSABYAGgA",
+    "source": "Information Commissioner's Office"
+   },
+   {
+    "position": 7,
+    "title": "Labour market overview, UK: September 2026",
+    "link": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/uklabourmarket/september2026",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESugEB6zswFfp_zWyNvy0OOI3KOI89jygQA-q6YN6tMH_JeXrCOnbi08CKpjS_7RMOsF8z5fq3M2s35VI-4oIX55imHtQhi32QMFGM0xqsvdEoiKTxpPRbQhb_13r5UOWQ_ExH0b7i0IC44I6Hjt5iBrY8htxG8k4F43Axhg12UQx8w28Ch5y95akgNrMyw3pEXD-f_R4m8rMt60sUkRg2SBoMeF-FCcgBUeioR3365768esFwwm4tPHiOzHM&ved=2ahUKEwitns6qkpaXAxXKkYkEHbTmEyAQFnoECBoQAQ&uoh=1",
+    "displayed_link": "https://www.ons.gov.uk › peopleinwork › bulletins › sep...",
+    "favicon": "https://serpapi.com/images/i/UklGRjYBAABXRUJQVlA4ICoBAADwBQCdASogACAAPtEutFooIagoGAEAGglsALb6gyOhwAgiBf6QvbHMkA5_-ay1zMr5soHfV0tp8AD-8_ncu-ifMm4tKrNUzvokIxy9SvyovxJtNlGem2t-F4TIams2MJbH_8IKPjme-194gjfxYiAeDmzftPCLnPhLMfod8ZxcURWWD1xkV4zSqQCc2TtFw6tafPrEkgDvFC9DAAk5v-r_9_yewX5xvp_-jpM9sgl5FN2jgXDYSMOycEcOdu57vxCy8tN11glGuMNUmWDA_70wbBdkfsrLqT48TlNR1i_TM3VNerbk8XVNQYbiuylbn17uiNvAKmEtDysBDBwebJuG8Loe4q6VyX6RE0WMo_Iz7hs1qfBwvIYa_wdE4AMk8OEjPASyX23FoqAA.webp",
+    "date": "15 Sept 2026",
+    "snippet": "Estimates of employment, unemployment, economic inactivity, and other employment-related statistics for the UK.",
+    "snippet_highlighted_words": [
+     "UK"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Estimates of employment, unemployment, economic inactivity, and other employment-related statistics for the UK.",
+      "source_info_link": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/uklabourmarket/september2026",
+      "icon": "https://serpapi.com/images/i/UklGRjYBAABXRUJQVlA4ICoBAADwBQCdASogACAAPtEutFooIagoGAEAGglsALb6gyOhwAgiBf6QvbHMkA5_-ay1zMr5soHfV0tp8AD-8_ncu-ifMm4tKrNUzvokIxy9SvyovxJtNlGem2t-F4TIams2MJbH_8IKPjme-194gjfxYiAeDmzftPCLnPhLMfod8ZxcURWWD1xkV4zSqQCc2TtFw6tafPrEkgDvFC9DAAk5v-r_9_yewX5xvp_-jpM9sgl5FN2jgXDYSMOycEcOdu57vxCy8tN11glGuMNUmWDA_70wbBdkfsrLqT48TlNR1i_TM3VNerbk8XVNQYbiuylbn17uiNvAKmEtDysBDBwebJuG8Loe4q6VyX6RE0WMo_Iz7hs1qfBwvIYa_wdE4AMk8OEjPASyX23FoqAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CokCL2dvdG8_dXJsPUNBRVN1Z0VCNnpzd0ZmcF96V3lOdnkwT09JM0tPSTg5anlnUUEtcTZZTjZ0TUhfSmVYckNPbmJpMDhDS3BqU183Uk1Pc0Y4ejVmcTNNMnMzNVZJLTRvSVg1NWltSHRRaGkzMlFNRkdNMHhxc3ZkRW9pS1R4cFBSYlFoYl8xM3I1VU9XUV9FeEgwYjdpMElDNDRJNkhqdDVpQnJZOGh0eEc4azRGNDNBeGhnMTJVUXg4dzI4Q2g1eTk1YWtnTnJNeXczcEVYRC1mX1I0bThyTXQ2MHNVa1JnMlNCb01lRi1GQ2NnQlVlaW9SMzM2NTc2OGVzRnd3bTR0UEhpT3pITRIEGgIIABqBBBICCAEaACIAKgAyBggBEgJ1azoAQgQIARAASgBaAHIAegCCQNsDCAAQABgAIAAqGgoGY3JvY3VzFdUXmUAaC2l2O3A7Y3JvY3VzMokCL2dvdG8_dXJsPUNBRVN1Z0VCNnpzd0ZmcF96V3lOdnkwT09JM0tPSTg5anlnUUEtcTZZTjZ0TUhfSmVYckNPbmJpMDhDS3BqU183Uk1Pc0Y4ejVmcTNNMnMzNVZJLTRvSVg1NWltSHRRaGkzMlFNRkdNMHhxc3ZkRW9pS1R4cFBSYlFoYl8xM3I1VU9XUV9FeEgwYjdpMElDNDRJNkhqdDVpQnJZOGh0eEc4azRGNDNBeGhnMTJVUXg4dzI4Q2g1eTk1YWtnTnJNeXczcEVYRC1mX1I0bThyTXQ2MHNVa1JnMlNCb01lRi1GQ2NnQlVlaW9SMzM2NTc2OGVzRnd3bTR0UEhpT3pITToxTGFib3VyIG1hcmtldCBvdmVydmlldywgPGI-VUs8L2I-OiBTZXB0ZW1iZXIgMjAyNkJ2RXN0aW1hdGVzIG9mIGVtcGxveW1lbnQsIHVuZW1wbG95bWVudCwgZWNvbm9taWMgaW5hY3Rpdml0eSwgYW5kIG90aGVyIGVtcGxveW1lbnQtcmVsYXRlZCBzdGF0aXN0aWNzIGZvciB0aGUgPGI-VUs8L2I-LiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CokCL2dvdG8_dXJsPUNBRVN1Z0VCNnpzd0ZmcF96V3lOdnkwT09JM0tPSTg5anlnUUEtcTZZTjZ0TUhfSmVYckNPbmJpMDhDS3BqU183Uk1Pc0Y4ejVmcTNNMnMzNVZJLTRvSVg1NWltSHRRaGkzMlFNRkdNMHhxc3ZkRW9pS1R4cFBSYlFoYl8xM3I1VU9XUV9FeEgwYjdpMElDNDRJNkhqdDVpQnJZOGh0eEc4azRGNDNBeGhnMTJVUXg4dzI4Q2g1eTk1YWtnTnJNeXczcEVYRC1mX1I0bThyTXQ2MHNVa1JnMlNCb01lRi1GQ2NnQlVlaW9SMzM2NTc2OGVzRnd3bTR0UEhpT3pITRIEGgIIABqBBBICCAEaACIAKgAyBggBEgJ1azoAQgQIARAASgBaAHIAegCCQNsDCAAQABgAIAAqGgoGY3JvY3VzFdUXmUAaC2l2O3A7Y3JvY3VzMokCL2dvdG8_dXJsPUNBRVN1Z0VCNnpzd0ZmcF96V3lOdnkwT09JM0tPSTg5anlnUUEtcTZZTjZ0TUhfSmVYckNPbmJpMDhDS3BqU183Uk1Pc0Y4ejVmcTNNMnMzNVZJLTRvSVg1NWltSHRRaGkzMlFNRkdNMHhxc3ZkRW9pS1R4cFBSYlFoYl8xM3I1VU9XUV9FeEgwYjdpMElDNDRJNkhqdDVpQnJZOGh0eEc4azRGNDNBeGhnMTJVUXg4dzI4Q2g1eTk1YWtnTnJNeXczcEVYRC1mX1I0bThyTXQ2MHNVa1JnMlNCb01lRi1GQ2NnQlVlaW9SMzM2NTc2OGVzRnd3bTR0UEhpT3pITToxTGFib3VyIG1hcmtldCBvdmVydmlldywgPGI-VUs8L2I-OiBTZXB0ZW1iZXIgMjAyNkJ2RXN0aW1hdGVzIG9mIGVtcGxveW1lbnQsIHVuZW1wbG95bWVudCwgZWNvbm9taWMgaW5hY3Rpdml0eSwgYW5kIG90aGVyIGVtcGxveW1lbnQtcmVsYXRlZCBzdGF0aXN0aWNzIGZvciB0aGUgPGI-VUs8L2I-LiICEAFIAFgAaAA",
+    "source": "Office for National Statistics"
+   },
+   {
+    "position": 8,
+    "title": "Teacher training bursaries | Get Into Teaching GOV.UK",
+    "link": "https://getintoteaching.education.gov.uk/funding-and-support/bursaries",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgQEB6zswFYfAt8cf4JTzE9_ExsRo3xAMuiahTal4yGj9LMn5Oo8ZGGaQQ-Nmn6Ef7hWR4VRzhIztW7DvT8kcrCvA3V7dtI2X7BlPoRv0f5ZghLxNgwQYAFQ7ueBunx_X3i4fFKupTuaAUkfZR1NahU40WacAYD-f60_HHRxgg8lSx7U&ved=2ahUKEwitns6qkpaXAxXKkYkEHbTmEyAQFnoECEMQAQ&uoh=1",
+    "displayed_link": "https://getintoteaching.education.gov.uk › bursaries",
+    "favicon": "https://serpapi.com/images/i/UklGRkgBAABXRUJQVlA4IDwBAAAwBwCdASocABwAPtFAtFooIqgoFAEAGglsAJ0yhIFfJnULpEg7qv9M0X_ziPtbBk6j9EoxYZYDEty1ZsTpw8F00AAA_vzY3_UtKkbW203FzH1VR_2acMk4Rf_G897gWYCmzd5sGZxJumxbziPqECPllq8jNSlKtBN-18dptmPPYWA_nTJcnQmf_BK_jcrYl4z4R9nAsdavbBep9gr_vH_t0Lm37ve6P4wlMWTv67QUT_ufXsa_NVGMqY_cSgKhJB0c9aynt_7aH-De04bJTEMy_VpKWJJjkNnj6kMKYX28R6C224LIX5hnmJ0GdKvLI-qkAFviZ3msGxuaSQWdu_qQqPZZktpTPSDlWezn0vJhhbQGni1KgNEJ_D25Cn44tBLxyj3344L1roL43wwwuHwgfv99GGJ6wD2Or6AA.webp",
+    "snippet": "If you want to do postgraduate teacher training in England that leads to qualified teacher status (QTS), you may be eligible for a bursary. What are bursaries?",
+    "snippet_highlighted_words": [
+     "England"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "If you want to do postgraduate teacher training in England that leads to qualified teacher status (QTS), you may be eligible for a bursary. What are bursaries?",
+      "source_info_link": "https://getintoteaching.education.gov.uk/funding-and-support/bursaries",
+      "icon": "https://serpapi.com/images/i/UklGRkgBAABXRUJQVlA4IDwBAAAwBwCdASocABwAPtFAtFooIqgoFAEAGglsAJ0yhIFfJnULpEg7qv9M0X_ziPtbBk6j9EoxYZYDEty1ZsTpw8F00AAA_vzY3_UtKkbW203FzH1VR_2acMk4Rf_G897gWYCmzd5sGZxJumxbziPqECPllq8jNSlKtBN-18dptmPPYWA_nTJcnQmf_BK_jcrYl4z4R9nAsdavbBep9gr_vH_t0Lm37ve6P4wlMWTv67QUT_ufXsa_NVGMqY_cSgKhJB0c9aynt_7aH-De04bJTEMy_VpKWJJjkNnj6kMKYX28R6C224LIX5hnmJ0GdKvLI-qkAFviZ3msGxuaSQWdu_qQqPZZktpTPSDlWezn0vJhhbQGni1KgNEJ_D25Cn44tBLxyj3344L1roL43wwwuHwgfv99GGJ6wD2Or6AA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=Cr0BL2dvdG8_dXJsPUNBRVNnUUVCNnpzd0ZZZkF0OGNmNEpUekU5X0V4c1JvM3hBTXVpYWhUYWw0eUdqOUxNbjVPbzhaR0dhUVEtTm1uNkVmN2hXUjRWUnpoSXp0VzdEdlQ4a2NyQ3ZBM1Y3ZHRJMlg3QmxQb1J2MGY1WmdoTHhOZ3dRWUFGUTd1ZUJ1bnhfWDNpNGZGS3VwVHVhQVVrZlpSMU5haFU0MFdhY0FZRC1mNjBfSEhSeGdnOGxTeDdVEgQaAggAGvEDEgIIARoAIgAqADIGCAESAnVrOgBCBAgBEABKAFoAcgB6AIJAywMIABAAGAAgACoaCgZjcm9jdXMVYj5vQBoLaXY7cDtjcm9jdXMyvQEvZ290bz91cmw9Q0FFU2dRRUI2enN3RllmQXQ4Y2Y0SlR6RTlfRXhzUm8zeEFNdWlhaFRhbDR5R2o5TE1uNU9vOFpHR2FRUS1ObW42RWY3aFdSNFZSemhJenRXN0R2VDhrY3JDdkEzVjdkdEkyWDdCbFBvUnYwZjVaZ2hMeE5nd1FZQUZRN3VlQnVueF9YM2k0ZkZLdXBUdWFBVWtmWlIxTmFoVTQwV2FjQVlELWY2MF9ISFJ4Z2c4bFN4N1U6PFRlYWNoZXIgdHJhaW5pbmcgYnVyc2FyaWVzIHwgR2V0IEludG8gVGVhY2hpbmcgR09WLjxiPlVLPC9iPkKmAUlmIHlvdSB3YW50IHRvIGRvIHBvc3RncmFkdWF0ZSB0ZWFjaGVyIHRyYWluaW5nIGluIDxiPkVuZ2xhbmQ8L2I-IHRoYXQgbGVhZHMgdG8gcXVhbGlmaWVkIHRlYWNoZXIgc3RhdHVzIChRVFMpLCB5b3UgbWF5IGJlIGVsaWdpYmxlIGZvciBhIGJ1cnNhcnkuIFdoYXQgYXJlIGJ1cnNhcmllcz8iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=Cr0BL2dvdG8_dXJsPUNBRVNnUUVCNnpzd0ZZZkF0OGNmNEpUekU5X0V4c1JvM3hBTXVpYWhUYWw0eUdqOUxNbjVPbzhaR0dhUVEtTm1uNkVmN2hXUjRWUnpoSXp0VzdEdlQ4a2NyQ3ZBM1Y3ZHRJMlg3QmxQb1J2MGY1WmdoTHhOZ3dRWUFGUTd1ZUJ1bnhfWDNpNGZGS3VwVHVhQVVrZlpSMU5haFU0MFdhY0FZRC1mNjBfSEhSeGdnOGxTeDdVEgQaAggAGvEDEgIIARoAIgAqADIGCAESAnVrOgBCBAgBEABKAFoAcgB6AIJAywMIABAAGAAgACoaCgZjcm9jdXMVYj5vQBoLaXY7cDtjcm9jdXMyvQEvZ290bz91cmw9Q0FFU2dRRUI2enN3RllmQXQ4Y2Y0SlR6RTlfRXhzUm8zeEFNdWlhaFRhbDR5R2o5TE1uNU9vOFpHR2FRUS1ObW42RWY3aFdSNFZSemhJenRXN0R2VDhrY3JDdkEzVjdkdEkyWDdCbFBvUnYwZjVaZ2hMeE5nd1FZQUZRN3VlQnVueF9YM2k0ZkZLdXBUdWFBVWtmWlIxTmFoVTQwV2FjQVlELWY2MF9ISFJ4Z2c4bFN4N1U6PFRlYWNoZXIgdHJhaW5pbmcgYnVyc2FyaWVzIHwgR2V0IEludG8gVGVhY2hpbmcgR09WLjxiPlVLPC9iPkKmAUlmIHlvdSB3YW50IHRvIGRvIHBvc3RncmFkdWF0ZSB0ZWFjaGVyIHRyYWluaW5nIGluIDxiPkVuZ2xhbmQ8L2I-IHRoYXQgbGVhZHMgdG8gcXVhbGlmaWVkIHRlYWNoZXIgc3RhdHVzIChRVFMpLCB5b3UgbWF5IGJlIGVsaWdpYmxlIGZvciBhIGJ1cnNhcnkuIFdoYXQgYXJlIGJ1cnNhcmllcz8iAhABSABYAGgA",
+    "source": "GOV.UK",
+    "read_more_link": "https://getintoteaching.education.gov.uk/funding-and-support/bursaries#:~:text=If%20you%20want%20to%20do,What%20are%20bursaries%3F"
+   },
+   {
+    "position": 9,
+    "title": "Legislation.gov.uk",
+    "link": "https://www.legislation.gov.uk/",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWgHrOzAVrquPDLAdexLgASchAqWsgUgHIGdm_Efi5B0_0ivaYcZ6Zp_0z3DCYsrI4CLI7_ytvUnhWlNHGIZ1-N2g0KScO2RLSsEUjnC6o86RhkurVvZiTH7KFg&ved=2ahUKEwitns6qkpaXAxXKkYkEHbTmEyAQFnoECEIQAQ&uoh=1",
+    "displayed_link": "https://www.legislation.gov.uk",
+    "favicon": "https://serpapi.com/images/i/UklGRkIBAABXRUJQVlA4IDYBAACQBgCdASocABwAPtEutFooIagoGAEAGglkALEbsFYDbnjPBdgG1LQcAO0J-0ClG3Hiz49dVEkVKp1VTzgAAP7YxKbhnwbNcPIQZ74cU2eVM3Khk0vxUvN0Re8pFlDswBoxaIE4voOvi8JMr6_X-7Bso56yD-IinfxJZ9bKOiROMrxIzsrT4AfdtrOqMG7JSXlKYBFTgeJ8lXIjzjmL2Q9BoMHnnGRflvjhq6Y2Xbh4gyn3ZVF2sa8THfsNpat8UxnQp9pM_IOb5k_dewOsR9oH_P-vxsu-TBcjiMe7l-p7w8kFX9EMN-dtvJ183DXkJc2YMD-X1wyOeO2x9K4sclMWf3jIFsN6hiZ1eP2K-SLa2-F0UQWa7P-tYhphWOV9tKXtr-p9ZK4xn7MwE0VLUWtsYEiCLAAA.webp",
+    "snippet": "The official home of UK legislation, revised and as enacted 1267-present. This website is managed by The National Archives on behalf of HM Government.",
+    "snippet_highlighted_words": [
+     "UK"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "The official home of UK legislation, revised and as enacted 1267-present. This website is managed by The National Archives on behalf of HM Government.",
+      "source_info_link": "https://www.legislation.gov.uk/",
+      "icon": "https://serpapi.com/images/i/UklGRkIBAABXRUJQVlA4IDYBAACQBgCdASocABwAPtEutFooIagoGAEAGglkALEbsFYDbnjPBdgG1LQcAO0J-0ClG3Hiz49dVEkVKp1VTzgAAP7YxKbhnwbNcPIQZ74cU2eVM3Khk0vxUvN0Re8pFlDswBoxaIE4voOvi8JMr6_X-7Bso56yD-IinfxJZ9bKOiROMrxIzsrT4AfdtrOqMG7JSXlKYBFTgeJ8lXIjzjmL2Q9BoMHnnGRflvjhq6Y2Xbh4gyn3ZVF2sa8THfsNpat8UxnQp9pM_IOb5k_dewOsR9oH_P-vxsu-TBcjiMe7l-p7w8kFX9EMN-dtvJ183DXkJc2YMD-X1wyOeO2x9K4sclMWf3jIFsN6hiZ1eP2K-SLa2-F0UQWa7P-tYhphWOV9tKXtr-p9ZK4xn7MwE0VLUWtsYEiCLAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CogBL2dvdG8_dXJsPUNBRVNXZ0hyT3pBVnJxdVBETEFkZXhMZ0FTY2hBcVdzZ1VnSElHZG1fRWZpNUIwXzBpdmFZY1o2WnBfMHozRENZc3JJNENMSTdfeXR2VW5oV2xOSEdJWjEtTjJnMEtTY08yUkxTc0VVam5DNm84NlJoa3VyVnZaaVRIN0tGZxIEGgIIABqQAxICCAEaACIAKgAyBggBEgJ1azoAQgQIARAASgBaAHIAegCCQOoCCAAQABgAIAAqGgoGY3JvY3VzFeKL2UAaC2l2O3A7Y3JvY3VzMogBL2dvdG8_dXJsPUNBRVNXZ0hyT3pBVnJxdVBETEFkZXhMZ0FTY2hBcVdzZ1VnSElHZG1fRWZpNUIwXzBpdmFZY1o2WnBfMHozRENZc3JJNENMSTdfeXR2VW5oV2xOSEdJWjEtTjJnMEtTY08yUkxTc0VVam5DNm84NlJoa3VyVnZaaVRIN0tGZzoZTGVnaXNsYXRpb24uZ292LjxiPnVrPC9iPkKdAVRoZSBvZmZpY2lhbCBob21lIG9mIDxiPlVLPC9iPiBsZWdpc2xhdGlvbiwgcmV2aXNlZCBhbmQgYXMgZW5hY3RlZCAxMjY3LXByZXNlbnQuIFRoaXMgd2Vic2l0ZSBpcyBtYW5hZ2VkIGJ5IFRoZSBOYXRpb25hbCBBcmNoaXZlcyBvbiBiZWhhbGYgb2YgSE0gR292ZXJubWVudC4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CogBL2dvdG8_dXJsPUNBRVNXZ0hyT3pBVnJxdVBETEFkZXhMZ0FTY2hBcVdzZ1VnSElHZG1fRWZpNUIwXzBpdmFZY1o2WnBfMHozRENZc3JJNENMSTdfeXR2VW5oV2xOSEdJWjEtTjJnMEtTY08yUkxTc0VVam5DNm84NlJoa3VyVnZaaVRIN0tGZxIEGgIIABqQAxICCAEaACIAKgAyBggBEgJ1azoAQgQIARAASgBaAHIAegCCQOoCCAAQABgAIAAqGgoGY3JvY3VzFeKL2UAaC2l2O3A7Y3JvY3VzMogBL2dvdG8_dXJsPUNBRVNXZ0hyT3pBVnJxdVBETEFkZXhMZ0FTY2hBcVdzZ1VnSElHZG1fRWZpNUIwXzBpdmFZY1o2WnBfMHozRENZc3JJNENMSTdfeXR2VW5oV2xOSEdJWjEtTjJnMEtTY08yUkxTc0VVam5DNm84NlJoa3VyVnZaaVRIN0tGZzoZTGVnaXNsYXRpb24uZ292LjxiPnVrPC9iPkKdAVRoZSBvZmZpY2lhbCBob21lIG9mIDxiPlVLPC9iPiBsZWdpc2xhdGlvbiwgcmV2aXNlZCBhbmQgYXMgZW5hY3RlZCAxMjY3LXByZXNlbnQuIFRoaXMgd2Vic2l0ZSBpcyBtYW5hZ2VkIGJ5IFRoZSBOYXRpb25hbCBBcmNoaXZlcyBvbiBiZWhhbGYgb2YgSE0gR292ZXJubWVudC4iAhABSABYAGgA",
+    "source": "Legislation.gov"
+   }
+  ],
+  "related_searches": [
+   {
+    "block_position": 1,
+    "query": "UK Government Gateway Login",
+    "link": "https://www.google.co.uk/search?sca_esv=d0c3879c3aba1c72&gl=uk&hl=en&sxsrf=APpeQnv-dxrSeHPLNdrKXvcAdI1lmuuMFQ:1790765765469&q=UK+Government+Gateway+Login&sa=X&ved=2ahUKEwitns6qkpaXAxXKkYkEHbTmEyAQ1QJ6BAg-EAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&q=UK+Government+Gateway+Login"
+   },
+   {
+    "block_position": 1,
+    "query": "UK which country",
+    "link": "https://www.google.co.uk/search?sca_esv=d0c3879c3aba1c72&gl=uk&hl=en&sxsrf=APpeQnv-dxrSeHPLNdrKXvcAdI1lmuuMFQ:1790765765469&q=UK+which+country&sa=X&ved=2ahUKEwitns6qkpaXAxXKkYkEHbTmEyAQ1QJ6BAhBEAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&q=UK+which+country"
+   },
+   {
+    "block_position": 1,
+    "query": "UK and England are same",
+    "link": "https://www.google.co.uk/search?sca_esv=d0c3879c3aba1c72&gl=uk&hl=en&sxsrf=APpeQnv-dxrSeHPLNdrKXvcAdI1lmuuMFQ:1790765765469&q=UK+and+England+are+same&sa=X&ved=2ahUKEwitns6qkpaXAxXKkYkEHbTmEyAQ1QJ6BAhAEAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&q=UK+and+England+are+same"
+   },
+   {
+    "block_position": 1,
+    "query": "UK flag",
+    "link": "https://www.google.co.uk/search?sca_esv=d0c3879c3aba1c72&gl=uk&hl=en&sxsrf=APpeQnv-dxrSeHPLNdrKXvcAdI1lmuuMFQ:1790765765469&q=UK+flag&sa=X&ved=2ahUKEwitns6qkpaXAxXKkYkEHbTmEyAQ1QJ6BAg7EAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&q=UK+flag"
+   },
+   {
+    "block_position": 1,
+    "query": "UK capital",
+    "link": "https://www.google.co.uk/search?sca_esv=d0c3879c3aba1c72&gl=uk&hl=en&sxsrf=APpeQnv-dxrSeHPLNdrKXvcAdI1lmuuMFQ:1790765765469&q=UK+capital&sa=X&ved=2ahUKEwitns6qkpaXAxXKkYkEHbTmEyAQ1QJ6BAg9EAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&q=UK+capital"
+   },
+   {
+    "block_position": 1,
+    "query": "UK land area in km",
+    "link": "https://www.google.co.uk/search?sca_esv=d0c3879c3aba1c72&gl=uk&hl=en&sxsrf=APpeQnv-dxrSeHPLNdrKXvcAdI1lmuuMFQ:1790765765469&q=UK+land+area+in+km&sa=X&ved=2ahUKEwitns6qkpaXAxXKkYkEHbTmEyAQ1QJ6BAg8EAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&q=UK+land+area+in+km"
+   },
+   {
+    "block_position": 1,
+    "query": "UK country size",
+    "link": "https://www.google.co.uk/search?sca_esv=d0c3879c3aba1c72&gl=uk&hl=en&sxsrf=APpeQnv-dxrSeHPLNdrKXvcAdI1lmuuMFQ:1790765765469&q=UK+country+size&sa=X&ved=2ahUKEwitns6qkpaXAxXKkYkEHbTmEyAQ1QJ6BAg6EAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&q=UK+country+size"
+   },
+   {
+    "block_position": 1,
+    "query": "Www UK gov in Login",
+    "link": "https://www.google.co.uk/search?sca_esv=d0c3879c3aba1c72&gl=uk&hl=en&sxsrf=APpeQnv-dxrSeHPLNdrKXvcAdI1lmuuMFQ:1790765765469&q=Www+UK+gov+in+Login&sa=X&ved=2ahUKEwitns6qkpaXAxXKkYkEHbTmEyAQ1QJ6BAg_EAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&q=Www+UK+gov+in+Login"
+   }
+  ],
+  "pagination": {
+   "current": 1,
+   "next": "https://www.google.co.uk/search?q=Crocus.co.uk+UK&sca_esv=d0c3879c3aba1c72&gl=uk&hl=en&sxsrf=APpeQnv-dxrSeHPLNdrKXvcAdI1lmuuMFQ:1790765765469&ei=xeq8au2nHMqjptQPtM3PgAI&start=10&sa=N&sstk=AS6-VmI2-Jbo5hAa1krJnFE1-8ty3EL8EC0CnrBoXRm-VHvbllouTkXBhPX-UUMiFLAg3mEZmKvSu9AHAIQza_5yr8uyke_uJdSCzw&ved=2ahUKEwitns6qkpaXAxXKkYkEHbTmEyAQ8NMDegQIOBAG",
+   "other_pages": {
+    "2": "https://www.google.co.uk/search?q=Crocus.co.uk+UK&sca_esv=d0c3879c3aba1c72&gl=uk&hl=en&sxsrf=APpeQnv-dxrSeHPLNdrKXvcAdI1lmuuMFQ:1790765765469&ei=xeq8au2nHMqjptQPtM3PgAI&start=10&sa=N&sstk=AS6-VmI2-Jbo5hAa1krJnFE1-8ty3EL8EC0CnrBoXRm-VHvbllouTkXBhPX-UUMiFLAg3mEZmKvSu9AHAIQza_5yr8uyke_uJdSCzw&ved=2ahUKEwitns6qkpaXAxXKkYkEHbTmEyAQ8tMDegQIOBAE"
+   }
+  },
+  "serpapi_pagination": {
+   "current": 1,
+   "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&q=Crocus.co.uk+UK&start=10",
+   "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&q=Crocus.co.uk+UK&start=10",
+   "other_pages": {
+    "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&q=Crocus.co.uk+UK&start=10"
+   }
+  }
+ }
+}

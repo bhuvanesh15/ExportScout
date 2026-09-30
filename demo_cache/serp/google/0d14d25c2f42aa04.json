@@ -1,0 +1,678 @@
+{
+ "engine": "google",
+ "params": {
+  "q": "Pooky UK",
+  "gl": "uk",
+  "hl": "en",
+  "google_domain": "google.co.uk"
+ },
+ "fetched_at": "2026-09-30T10:51:33+00:00",
+ "data": {
+  "search_metadata": {
+   "id": "6abce9af4632b5fc767a6ada",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/xH40L9KsNyIRl59x5MkeO2pEOaf-w9_JMA5dnD6-UHA/6abce9af4632b5fc767a6ada.json",
+   "markdown_endpoint": "https://serpapi.com/searches/xH40L9KsNyIRl59x5MkeO2pEOaf-w9_JMA5dnD6-UHA/6abce9af4632b5fc767a6ada.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/xH40L9KsNyIRl59x5MkeO2pEOaf-w9_JMA5dnD6-UHA/6abce9af4632b5fc767a6ada.json_with_pixel_position",
+   "created_at": "2026-09-30 10:51:27 UTC",
+   "processed_at": "2026-09-30 10:51:27 UTC",
+   "google_url": "https://www.google.co.uk/search?q=Pooky+UK&oq=Pooky+UK&hl=en&gl=uk&sourceid=chrome&ie=UTF-8",
+   "raw_html_file": "https://serpapi.com/searches/xH40L9KsNyIRl59x5MkeO2pEOaf-w9_JMA5dnD6-UHA/6abce9af4632b5fc767a6ada.html",
+   "total_time_taken": 5.05
+  },
+  "search_parameters": {
+   "engine": "google",
+   "q": "Pooky UK",
+   "google_domain": "google.co.uk",
+   "hl": "en",
+   "gl": "uk",
+   "device": "desktop"
+  },
+  "search_information": {
+   "query_displayed": "Pooky UK",
+   "total_results": 59200,
+   "time_taken_displayed": 0.75,
+   "organic_results_state": "Results for exact spelling"
+  },
+  "ads": [
+   {
+    "position": 1,
+    "block_position": "bottom",
+    "title": "Free UK Delivery Over £30+ | Exterior Lighting Fixtures",
+    "link": "https://www.soholighting.com/lighting/outdoor-lighting",
+    "displayed_link": "https://www.soholighting.com",
+    "thumbnail": "https://tpc.googlesyndication.com/simgad/4774468794773340981?sqp=-oaymwEKCFwQXCABUAFYAQ&rs=AOga4qkLiT9LM8YxPnohZEime_nQVcdzLA",
+    "tracking_link": "https://www.google.co.uk/aclk?sa=L&ai=DChsSEwj3n_2nkZaXAxU5nWgJHXm6IMQYACICCAIQAxoCd2Y&co=1&ase=2&gclid=EAIaIQobChMI95_9p5GWlwMVOZ1oCR15uiDEEAMYASADEgKx7vD_BwE&cid=CAASuwHkaEv_5CEQ5h3d9nuC2EKDQHEW6-Fh4Ov4V6B061-d5s6-vGKq22IQTepE-MX6k-j40gUf6V2xg7BGj3DHHSrk3g7VISyeSSqCf4IVV8_TZHlCtLdLLXVjvA55EoUk55VR4wteyTlh4jfHiF42mYdyqPyWDW7EStDP-MJXbIhIiIuu3px651oAgu6PiycUwgjQmnPFzzDCAddJa5_HrmMYDgZF6uiFkf_CE7yBNlfpTm7uJJTFPHOLTbW4&cce=2&category=acrcp_v1_32&sig=AOD64_3yPKRCymBHuYgEIbReYXIUIRh-2g&q=&nis=4&ved=2ahUKEwjn7PCnkZaXAxURQ_EDHcKIHk8Qh78CegQIeRAB&adurl=",
+    "description": "Outdoor Lighting Plays A Crucial Role In Enhancing Both Safety And Aesthetics.",
+    "extensions": [
+     "10K+ visits in past month"
+    ],
+    "source": "The Soho Lighting Company",
+    "sitelinks": [
+     {
+      "title": "Lighting",
+      "link": "https://www.soholighting.com/lighting"
+     },
+     {
+      "title": "Read The FAQs",
+      "link": "https://www.soholighting.com/frequently-asked-questions"
+     },
+     {
+      "title": "Sockets & Switches",
+      "link": "https://www.soholighting.com/socketsandswitches"
+     },
+     {
+      "title": "High Quality Products",
+      "link": "https://www.google.co.uk/aclk?sa=L&ai=DChsSEwj3n_2nkZaXAxU5nWgJHXm6IMQYACICCAIQBRoCd2Y&co=1&ase=2&gclid=EAIaIQobChMI95_9p5GWlwMVOZ1oCR15uiDEEAMYASAFEgKwO_D_BwE&cid=CAASuwHkaEv_5CEQ5h3d9nuC2EKDQHEW6-Fh4Ov4V6B061-d5s6-vGKq22IQTepE-MX6k-j40gUf6V2xg7BGj3DHHSrk3g7VISyeSSqCf4IVV8_TZHlCtLdLLXVjvA55EoUk55VR4wteyTlh4jfHiF42mYdyqPyWDW7EStDP-MJXbIhIiIuu3px651oAgu6PiycUwgjQmnPFzzDCAddJa5_HrmMYDgZF6uiFkf_CE7yBNlfpTm7uJJTFPHOLTbW4&cce=2&category=acrcp_v1_32&sig=AOD64_10R1kTvu7-Cc0iwnH3oI3e8MReig&adurl=&q="
+     },
+     {
+      "title": "Wide Range Of Products",
+      "link": "https://www.google.co.uk/aclk?sa=L&ai=DChsSEwj3n_2nkZaXAxU5nWgJHXm6IMQYACICCAIQBhoCd2Y&co=1&ase=2&gclid=EAIaIQobChMI95_9p5GWlwMVOZ1oCR15uiDEEAMYASAGEgISZvD_BwE&cid=CAASuwHkaEv_5CEQ5h3d9nuC2EKDQHEW6-Fh4Ov4V6B061-d5s6-vGKq22IQTepE-MX6k-j40gUf6V2xg7BGj3DHHSrk3g7VISyeSSqCf4IVV8_TZHlCtLdLLXVjvA55EoUk55VR4wteyTlh4jfHiF42mYdyqPyWDW7EStDP-MJXbIhIiIuu3px651oAgu6PiycUwgjQmnPFzzDCAddJa5_HrmMYDgZF6uiFkf_CE7yBNlfpTm7uJJTFPHOLTbW4&cce=2&category=acrcp_v1_32&sig=AOD64_06m0DvzrhqY9rd7xgWB4t7hWPAgA&adurl=&q="
+     }
+    ]
+   }
+  ],
+  "knowledge_graph": {
+   "title": "Pooky Lighting",
+   "type": "Lighting shop in London, England",
+   "entity_type": "local_nav",
+   "kgmid": "/g/11b7q77xhl",
+   "knowledge_graph_search_link": "https://www.google.co.uk/search?kgmid=/g/11b7q77xhl&hl=en-GB&q=Pooky+Lighting",
+   "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en-GB&kgmid=%2Fg%2F11b7q77xhl&q=Pooky+Lighting",
+   "place_id": "ChIJPcVpynsFdkgRIw_oSKxiX7I",
+   "website": "https://www.pooky.com/?utm_source=gmb&utm_medium=organic&utm_campaign=pooky-gloucester-gmb",
+   "local_map": {
+    "image": "https://serpapi.com/searches/6abce9af4632b5fc767a6ada/images/ArtLThdjuYkQ8MbU-Y7SHRguXAGrHhdPFXhhpXLh0-U.webp",
+    "link": "https://www.google.co.uk/maps/place/Pooky+Lighting/data=!4m2!3m1!1s0x0:0xb25f62ac48e80f23?sa=X&ved=2ahUKEwjn7PCnkZaXAxURQ_EDHcKIHk8Q_BJ6BAgvEAA&hl=en&gl=uk"
+   },
+   "rating": 4.0,
+   "review_count": 177,
+   "located_in": "Furniture and Arts Building",
+   "located_in_links": [
+    {
+     "text": "Furniture and Arts Building",
+     "link": "https://www.google.co.uk/search?sca_esv=d0c3879c3aba1c72&hl=en&gl=uk&sxsrf=APpeQnur4k5GclzAFBTz70zKUbDCq64s9Q:1790765491311&q=Furniture+and+Arts+Building&ludocid=5701049984875822051&lsig=AB86z5XWlG5gWedowHkudS0QNiAg&sa=X&ved=2ahUKEwjn7PCnkZaXAxURQ_EDHcKIHk8Q8G0oAHoECCwQAQ"
+    }
+   ],
+   "address": "Unit 9, The Furniture & Arts Building, 533 King's Rd, London SW10 0TZ",
+   "address_links": [
+    {
+     "text": "Address",
+     "link": "https://www.google.co.uk/search?sca_esv=d0c3879c3aba1c72&hl=en&gl=uk&sxsrf=APpeQnur4k5GclzAFBTz70zKUbDCq64s9Q:1790765491311&q=pooky+lighting+london+address&ludocid=12853100353635749667&sa=X&ved=2ahUKEwjn7PCnkZaXAxURQ_EDHcKIHk8Q6BN6BAgtEAI"
+    }
+   ],
+   "phone": "020 7351 3003",
+   "phone_links": [
+    {
+     "text": "Phone",
+     "link": "https://www.google.co.uk/search?sca_esv=d0c3879c3aba1c72&hl=en&gl=uk&sxsrf=APpeQnur4k5GclzAFBTz70zKUbDCq64s9Q:1790765491311&q=pooky+lighting+london+phone&ludocid=12853100353635749667&sa=X&ved=2ahUKEwjn7PCnkZaXAxURQ_EDHcKIHk8Q6BN6BAgqEAI"
+    }
+   ],
+   "raw_hours": "Open · Closes 6 pm",
+   "hours": {
+    "wednesday": {
+     "opens": "9 am",
+     "closes": "6 pm"
+    },
+    "thursday": {
+     "opens": "9 am",
+     "closes": "6 pm"
+    },
+    "friday": {
+     "opens": "9 am",
+     "closes": "5 pm"
+    },
+    "saturday": {
+     "opens": "10 am",
+     "closes": "5 pm"
+    },
+    "sunday": {
+     "opens": "11 am",
+     "closes": "4 pm"
+    },
+    "monday": {
+     "opens": "9 am",
+     "closes": "6 pm"
+    },
+    "tuesday": {
+     "opens": "9 am",
+     "closes": "6 pm"
+    }
+   },
+   "merchant_description": "\"Looking for lighting that’s full of character? Pooky offers beautifully designed lights that bring style and charm to every space. From bold ceiling lights and elegant table lamps to bathroom wall lights and outdoor lanterns, our collection combines great design with lasting quality. Whether you’re redecorating a single room or your whole home, you’ll find unique pieces to suit every look. Enjoy easy online ordering today!\"",
+   "products_link": "https://www.google.co.uk/local/place/products/catalog?g2lb=100825126&hl=en-GB&gl=uk&ssta=1&ludocid=12853100353635749667&origin=https://www.google.co.uk",
+   "products": [
+    {
+     "name": "Pooky's Summer Sale",
+     "link": "https://www.google.co.uk/local/place/products/product?g2lb=100825126&hl=en-GB&gl=uk&ssta=1&ludocid=12853100353635749667&origin=https://www.google.co.uk&entry_id=-7060879756994934684",
+     "description": "From Product Posts",
+     "image": "https://serpapi.com/searches/6abce9af4632b5fc767a6ada/images/ArtLThdjuYkQ8MbU-Y7SHUwJ9Cj9nvM2ySLWu346GX7dk1bluFcOCQ4PVj5xrfBp.jpeg"
+    },
+    {
+     "name": "Last few days of Pooky Summer Sale",
+     "link": "https://www.google.co.uk/local/place/products/product?g2lb=100825126&hl=en-GB&gl=uk&ssta=1&ludocid=12853100353635749667&origin=https://www.google.co.uk&entry_id=-2512667747480288586",
+     "description": "From Product Posts",
+     "image": "https://serpapi.com/searches/6abce9af4632b5fc767a6ada/images/ArtLThdjuYkQ8MbU-Y7SHRG0y-BUA4Xx9yyvdYoBkAuhVpIrdEKGfj34sdOyoHMG.jpeg"
+    }
+   ],
+   "posts": [
+    {
+     "media": "https://lh3.googleusercontent.com/geougc/AF1QipO2fQiSEoY_qnFTI7_OdHMln8r1zomRqLhF60U3=h305-no",
+     "cta": "Learn more",
+     "link": "https://www.pooky.com/blogs/inspiration/language-materials-brass-lighting?utm_source=gmb&utm_medium=organic&utm_campaign=brass-lighting-blog-spetember-2026",
+     "post_link": "https://search.google.com/local/posts?q=Pooky+Lighting&ludocid=12853100353635749667&lpsid=CIHM0ogKEJXX7Mnz4IXIdA&source=sh/x/loc/post/m1/1&lsig=AB86z5VA_oIncO4DHAvQnUoKIkrP&shem=epsd1,esd2e,rimspwouoe&shndl=-1",
+     "description": "We are rather fond of brass. And, as it turns out, people have been for a very long time.\n\nFrom Roman coins and Georgian chandeliers to Art Deco lamps and contemporary lighting, brass has spent roughly two thousand years proving just how adaptable it can be. Polished, brushed or left to mellow into a warm patina, it brings character wherever it goes.\n\nOur Language of Materials guide takes a wander through its history, craftsmanship and enduring place in the home, with plenty of lovely lighting along the way.\n\nPour yourself something nice and have a read.",
+     "date": "23 Sept 2026"
+    },
+    {
+     "media": "https://lh3.googleusercontent.com/geougc/AF1QipM3i1oNL4pSeDOlYCWZinrz4j4nOioSyZ3aimkx=h305-no",
+     "cta": "Buy",
+     "link": "https://www.pooky.com/collections/natural-wonders?utm_source=gmb&utm_medium=organic&utm_campaign=natural-wonders-september-2026",
+     "post_link": "https://search.google.com/local/posts?q=Pooky+Lighting&ludocid=12853100353635749667&lpsid=CIHM0ogKEJuw-rXOucLTkAE&source=sh/x/loc/post/m1/1&lsig=AB86z5VA_oIncO4DHAvQnUoKIkrP&shem=epsd1,esd2e,rimspwouoe&shndl=-1",
+     "description": "Natural wonders, with a rather lovely glow.\n\nOur wooden lighting collection brings warmth, texture and sculptural character into a room, with natural materials doing what they do best: making everything feel a little softer and more settled.\n\nThe Stave pendant is a particularly handsome example, with its layered wooden form bringing just enough presence above dining tables, kitchen spaces and anywhere that could do with a more tactile focal point.\n\nHave a browse through the Natural Wonders collection and discover lighting that lets the material do the talking.",
+     "date": "18 Sept 2026"
+    },
+    {
+     "media": "https://lh3.googleusercontent.com/geougc/AF1QipOfNVsqFCMCezbga3xQ60yKq80mneOKftz5Zq_a=h305-no",
+     "cta": "Buy",
+     "link": "https://www.pooky.com/collections/picture-lights?utm_source=gmb&utm_medium=organic&utm_campaign=picture-lights-august-2026",
+     "post_link": "https://search.google.com/local/posts?q=Pooky+Lighting&ludocid=12853100353635749667&lpsid=CIHM0ogKEPGX38-q2pz2EQ&source=sh/x/loc/post/m1/1&lsig=AB86z5VA_oIncO4DHAvQnUoKIkrP&shem=epsd1,esd2e,rimspwouoe&shndl=-1",
+     "description": "Give your favourite pieces the spotlight they deserve.\n\nA well-placed picture light can turn a painting, photograph or print into the focal point of a room, casting a warm, flattering glow that does wonders after dark. From the sculptural Clyfford and Pitcheroo in antiqued brass to Pixii's rechargeable design (no wiring required), there's a finish and fitting for every kind of frame.\n\nIt's a small addition that makes a surprisingly big difference, especially now the evenings are starting to draw in.\n\nHave a browse through the range and find the light your favourite piece has been waiting for.",
+     "date": "24 Aug 2026"
+    },
+    {
+     "media": "https://lh3.googleusercontent.com/geougc/AF1QipOzUYJpVFDQRPkTPsEyoNwjp0iazyhpzLqd6AZr=h305-no",
+     "cta": "Buy",
+     "link": "https://www.pooky.com/collections/pookys-most-loved?utm_source=gmb&utm_medium=organic&utm_campaign=pookys-most-loved-august-2026",
+     "post_link": "https://search.google.com/local/posts?q=Pooky+Lighting&ludocid=12853100353635749667&lpsid=CIHM0ogKEOH5sZ_f_PGeQw&source=sh/x/loc/post/m1/1&lsig=AB86z5VA_oIncO4DHAvQnUoKIkrP&shem=epsd1,esd2e,rimspwouoe&shndl=-1",
+     "description": "The favourites everyone keeps coming back to.\n\nSome lights just have a knack for stealing the show, and these are the pieces our customers can't stop falling for. From the endlessly versatile Twinky rechargeable table lamp to statement pieces like the Athena chandelier and ever-popular ceramic bases like Stucco and Ambrose, these are the designs that turn up in living rooms, hallways and bedrooms again and again.\n\nThere's a reason they're loved: proper craftsmanship, an art for making a room feel finished, and just the right amount of character.\n\nHave a browse through our most loved lights and see which one earns a permanent place in your home too.",
+     "date": "19 Aug 2026"
+    },
+    {
+     "media": "https://lh3.googleusercontent.com/geougc/AF1QipMQxROaZzsnZExFzVVnKSyFicaX7i3lRgFQrrjP=h305-no",
+     "cta": "Buy",
+     "link": "https://www.pooky.com/collections/office-desk-lights?utm_source=gmb&utm_medium=organic&utm_campaign=desk-lighting-august-2026",
+     "post_link": "https://search.google.com/local/posts?q=Pooky+Lighting&ludocid=12853100353635749667&lpsid=CIHM0ogKEMuexevxn6Pg5wE&source=sh/x/loc/post/m1/1&lsig=AB86z5VA_oIncO4DHAvQnUoKIkrP&shem=epsd1,esd2e,rimspwouoe&shndl=-1",
+     "description": "New term, new glow.\n\nSeptember's creeping closer, and there's nothing like a proper desk lamp to make the return to books (or the back-to-work slump) feel a little more civilised.\n\nOur rechargeable desk lights are wonderfully good company: cordless, quick to charge, and just as at home on a console table as they are lighting up a stack of homework. Think warm brass hoods, cheerful colours, and a glow that makes even the dullest to-do list look rather more appealing.\n\nWhether it's a studious corner, a home office, or a desk that's been begging for an upgrade all summer, there's a Pooky lamp that knows how to set the mood.\n\nHave a browse and find the desk light that makes getting down to work feel a little less like a chore.",
+     "date": "17 Aug 2026"
+    },
+    {
+     "media": "https://lh3.googleusercontent.com/geougc/AF1QipOlccnaht6RNpl1qjWheJcPtgFjLA8H73AwlNp4=h305-no",
+     "cta": "Buy",
+     "link": "https://www.pooky.com/collections/rechargeable-lighting?utm_source=gmb&utm_medium=organic&utm_campaign=bookcase-lighting-july-2026",
+     "post_link": "https://search.google.com/local/posts?q=Pooky+Lighting&ludocid=12853100353635749667&lpsid=CIHM0ogKEJL989DhgIK9Aw&source=sh/x/loc/post/m1/1&lsig=AB86z5VA_oIncO4DHAvQnUoKIkrP&shem=epsd1,esd2e,rimspwouoe&shndl=-1",
+     "description": "Brighten up your bookcase.\n\nRechargeable shelf lights are a wonderfully easy way to give your favourite books, bits and pieces their moment in the spotlight.\n\nThey are particularly good on shelves, bookcases and those awkward little corners where a cord would only get in the way. Warm, portable and pleasingly unfaffy, they bring a cosy glow exactly where it is needed and make the whole thing look far more considered.\n\nHave a little browse and see which one your shelves have been waiting for.",
+     "date": "30 Jul 2026"
+    },
+    {
+     "media": "https://lh3.googleusercontent.com/geougc/AF1QipNmoGicLPt8V8wo6RU5XZClEIxCir-WIi3Dn7B8=h305-no",
+     "cta": "Buy",
+     "link": "https://www.pooky.com/collections/outdoor-lighting?utm_source=gmb&utm_medium=organic&utm_campaign=outdoor-lighting-july-2026",
+     "post_link": "https://search.google.com/local/posts?q=Pooky+Lighting&ludocid=12853100353635749667&lpsid=CIHM0ogKEIvr5bbypqrvPg&source=sh/x/loc/post/m1/1&lsig=AB86z5VA_oIncO4DHAvQnUoKIkrP&shem=epsd1,esd2e,rimspwouoe&shndl=-1",
+     "description": "Evening glow, but make it rather lovely.\n\nExtend your summer evenings in the garden with outdoor lighting that keeps the mood going, from spike lights in the hedgerows to lanterns on the walls and charming little glows for the table.\n\nThe right outdoor lights are awfully good at making a garden feel settled after dark. Perfect for those moments when supper drifts into drinks and nobody is quite ready to go in yet.\n\nHave a browse through the range and find the piece that keeps your garden glowing a little longer.",
+     "date": "24 Jul 2026"
+    },
+    {
+     "media": "https://lh3.googleusercontent.com/geougc/AF1QipMz-mAKkWc8n9PVjkrCXtsq3JSFRgxBlT2518eV=h305-no",
+     "cta": "Buy",
+     "link": "https://www.pooky.com/?utm_source=gmb&utm_medium=organic&utm_campaign=summer-sale-july-2026",
+     "post_link": "https://search.google.com/local/posts?q=Pooky+Lighting&ludocid=12853100353635749667&lpsid=CIHM0ogKEICN-LLxg-SfjwE&source=sh/x/loc/post/m1/1&lsig=AB86z5VA_oIncO4DHAvQnUoKIkrP&shem=epsd1,esd2e,rimspwouoe&shndl=-1",
+     "description": "Our Summer Sale is here to brighten up the season.\n\nThe prettiest picks of the summer are now up to 70% off selected lines, which feels like a rather good excuse to revisit anything that may have been waiting in your favourites.\n\nFrom characterful lamps and cheerful shades to those lovely finishing touches that make a room feel more settled, there is plenty to browse. Whether you are refreshing a corner, rethinking a whole room, or simply in the mood for something bright and charming, now is a very good time to have a look.\n\nHave a little wander through the sale and see what catches your eye before it disappears.",
+     "date": "7 Jul 2026"
+    },
+    {
+     "media": "https://lh3.googleusercontent.com/geougc/AF1QipNlpCcnPITeaTy__A82mQya9IbPumRr6rQEhoPm=h305-no",
+     "cta": "Buy",
+     "link": "https://www.pooky.com/collections/lampshades?utm_source=gmb&utm_medium=organic&utm_campaign=lampshades-june-2026",
+     "post_link": "https://search.google.com/local/posts?q=Pooky+Lighting&ludocid=12853100353635749667&lpsid=CIHM0ogKEIDI1ZvPgrTqqwE&source=sh/x/loc/post/m1/1&lsig=AB86z5VA_oIncO4DHAvQnUoKIkrP&shem=epsd1,esd2e,rimspwouoe&shndl=-1",
+     "description": "A new lampshade can do quite a lot with very little effort.\n\nSame lamp base, entirely different mood. Softer, brighter, bolder, calmer: it all changes with one rather clever switch.\n\nFrom pleated favourites to printed beauties and timeless neutrals, our lampshades are awfully good at bringing personality to a room without a full redesign.\n\nGo on. Your lamp may be ready for a new outfit.",
+     "date": "2 Jul 2026"
+    },
+    {
+     "media": "https://lh3.googleusercontent.com/geougc/AF1QipMwx8A5ORS2DBoASlua2JA_COKk80J17FtMN8Bn=h305-no",
+     "cta": "Buy",
+     "link": "https://www.pooky.com/pages/novogratz-x-pooky?utm_source=gmb&utm_medium=organic&utm_campaign=novogratz-july-2026",
+     "post_link": "https://search.google.com/local/posts?q=Pooky+Lighting&ludocid=12853100353635749667&lpsid=CIHM0ogKEJnur6r8ur-ZIg&source=sh/x/loc/post/m1/1&lsig=AB86z5VA_oIncO4DHAvQnUoKIkrP&shem=epsd1,esd2e,rimspwouoe&shndl=-1",
+     "description": "Novogratz x Pooky has arrived, and it’s awfully good fun.\n\nCreated with Bob and Cortney Novogratz, this cheerful new collection brings together playful colour, portable outdoor lighting and a wonderfully easy sort of summer style.\n\nThink rechargeable pieces designed for gardens, terraces and alfresco tables, along with shades full of pattern, warmth and personality. It is all about making outdoor spaces feel more inviting, more expressive, and much better dressed for long lunches and evenings that drift on rather nicely.\n\nPortable, charming and full of character, this is lighting made for outdoor entertaining with a little more joy in it.\n\nHave a browse through the range and see what catches your eye.",
+     "date": "30 Jun 2026"
+    }
+   ],
+   "user_reviews": [
+    {
+     "summary": "Amazing quality and designs for a great price.",
+     "link": "https://www.google.com/maps/reviews/data=!4m5!14m4!1m3!1m2!1s102243473041649098957!2s0x4876057bca69c53d:0xb25f62ac48e80f23?ved=1t:31295&ictx=111",
+     "rating": 5.0,
+     "user": {
+      "name": "Bublik Swiss",
+      "link": "https://www.google.com/maps/contrib/102243473041649098957?hl=en-GB&ved=1t:31296&ictx=111",
+      "thumbnail": "https://serpapi.com/searches/6abce9af4632b5fc767a6ada/images/ArtLThdjuYkQ8MbU-Y7SHXQkpxqeckDQ9FuJfeFRrtDl4IZNoyqXr_fYoTVlJkO5.png"
+     }
+    },
+    {
+     "summary": "Great customer service experience and great products alike.",
+     "link": "https://www.google.com/maps/reviews/data=!4m5!14m4!1m3!1m2!1s113963627938899940621!2s0x4876057bca69c53d:0xb25f62ac48e80f23?ved=1t:31295&ictx=111",
+     "rating": 5.0,
+     "user": {
+      "name": "Natalia Gaitani",
+      "link": "https://www.google.com/maps/contrib/113963627938899940621?hl=en-GB&ved=1t:31296&ictx=111",
+      "thumbnail": "https://serpapi.com/searches/6abce9af4632b5fc767a6ada/images/ArtLThdjuYkQ8MbU-Y7SHbJ59LYts8kANoVEZDhyIHlbY1Z-Jfw64zRV0dpJsjxc.png"
+     }
+    }
+   ],
+   "unclaimed_listing": true,
+   "profiles": [
+    {
+     "name": "Facebook",
+     "link": "https://www.facebook.com/pookylights",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&q=Pooky+UK",
+     "image": "https://ssl.gstatic.com/kpui/social/fb_32x32.png"
+    },
+    {
+     "name": "Instagram",
+     "link": "https://www.instagram.com/pookylights/",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&q=Pooky+UK",
+     "image": "https://ssl.gstatic.com/kpui/social/instagram_32x32.png"
+    },
+    {
+     "name": "X (Twitter)",
+     "link": "https://twitter.com/pookylights",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&q=Pooky+UK",
+     "image": "https://ssl.gstatic.com/kpui/social/x_32x32.png"
+    }
+   ]
+  },
+  "inline_images": [
+   {
+    "source": "https://www.pooky.com/blogs/inspiration/best-selling-pooky-lamps",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwYIpKhoZOaUvqxkOKRFwYfOVOS9GHNneET-grgdpVRz0EQAb5pGm2QEw&s",
+    "original": "https://cdn.shopify.com/s/files/1/0550/1075/4765/files/UK_BESTSELLERS_25_HOMEPAGE_MOBILE_2.jpg?v=1768553069",
+    "title": "Best-Selling Pooky Lamps: Timeless Designs for Your Home | Pooky",
+    "source_name": "Pooky Lighting"
+   },
+   {
+    "source": "https://www.pooky.com/products/sophie-table-lamp-in-ebony",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjJSuEcD1RaWZCPhy0NRxjVSK1Tx-rimMofxV7_ZPiDejqf2Qjb6YmKEE&s",
+    "original": "https://www.pooky.com/cdn/shop/products/tlsop100wooebo_1.png?v=1656093088",
+    "title": "Sophie table lamp in ebony",
+    "source_name": "Pooky Lighting"
+   },
+   {
+    "source": "https://www.pooky.com/pages/showrooms",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIpf74qpIzY3K1wDiEtrrsUTiPnwQ0_drQdxKW9j1FnZz3THo8q9pErjg&s",
+    "original": "https://www.pooky.com/cdn/shop/files/477A2438_31b6777d-9c32-442e-ba44-507254ddf5a9.jpg?v=1761042511",
+    "title": "Pooky Lighting Showrooms",
+    "source_name": "Pooky Lighting"
+   },
+   {
+    "source": "https://www.pooky.com/",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ81k8_Th7jR7J4y3FtvM612-2ROgo-m84JC5b3Rap8TlIFD_wYamIUj-o&s",
+    "original": "https://www.pooky.com/cdn/shop/files/UK_NOVOGRATZ_26_HOMEPAGE_DESKTOP.webp?format=pjpg&v=1782724506&width=1920%201x,%20//www.pooky.com/cdn/shop/files/UK_NOVOGRATZ_26_HOMEPAGE_DESKTOP.webp?format=pjpg&v=1782724506&width=3840%202x",
+    "title": "Pooky.com - Beautiful decorative lighting",
+    "source_name": "www.pooky.com"
+   },
+   {
+    "source": "https://www.pooky.com/",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJfznOUFmuHOX9XGx6Kz0R3DIgkCYnfrNpwpFKDoBA7Hby2iFay1sTFNTxtQ&s",
+    "original": "https://www.pooky.com/cdn/shop/files/NewMegaNavImage-01.jpg?v=1741019326",
+    "title": "Pooky.com - Beautiful decorative lighting",
+    "source_name": "www.pooky.com"
+   },
+   {
+    "source": "https://www.pooky.com/products/wobster-rechargeable-table-lamp-in-pink",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ4ALe4oBmhbxaoZOlQWmFJd70w7Lqfka8lyKySYbvmuPlIqQZRRieIc8&s",
+    "original": "https://www.pooky.com/cdn/shop/files/TLRLWOBBUN100WOOPIN_L_1.jpg?v=1751984197",
+    "title": "Wobster rechargeable table lamp in pink",
+    "source_name": "Pooky Lighting"
+   },
+   {
+    "source": "https://www.pooky.com/",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzALTceRpA7vguYjTCrIXMyZEKrmzfOJYbMK27d0EF73_YTGH8dxTmG38&s",
+    "original": "https://www.pooky.com/cdn/shop/files/UK_BOOKCASE_WHITE_LIGHTS_26_HOMEPAGE_DESKTOP.webp?format=pjpg&v=1790089777&width=1920%201x,%20//www.pooky.com/cdn/shop/files/UK_BOOKCASE_WHITE_LIGHTS_26_HOMEPAGE_DESKTOP.webp?format=pjpg&v=1790089777&width=3840%202x",
+    "title": "Pooky.com - Beautiful decorative lighting",
+    "source_name": "www.pooky.com"
+   },
+   {
+    "source": "https://www.pooky.com/",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDPQj3i38oDGXaJiTZ7W0ryBHAyBZ_iTjBSJjVm1lAFZ8BYcb-kEwHgOU&s",
+    "original": "https://www.pooky.com/cdn/shop/files/MASONRY.webp?crop=center&height=400&v=1785323819&width=600",
+    "title": "Pooky.com - Beautiful decorative lighting",
+    "source_name": "www.pooky.com"
+   },
+   {
+    "source": "https://www.pooky.com/",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgsMBa_vQLsngs0YU-EaYo4b1Lq5o80LiUquyhA-P5F0CtSHHsfDHafEk&s",
+    "original": "https://www.pooky.com/cdn/shop/files/New_In_Rattan_450x300_crop_center.progressive.jpg?v=1767625774%201x,%20//www.pooky.com/cdn/shop/files/New_In_Rattan_450x300_crop_center@2x.progressive.jpg?v=1767625774%202x",
+    "title": "Pooky.com - Beautiful decorative lighting",
+    "source_name": "www.pooky.com"
+   }
+  ],
+  "related_questions": [
+   {
+    "question": "Is Pooky a good brand?",
+    "type": "ai_overview",
+    "page_token": "u9asd3icHdDBboIwAADQ7Gc8ChRl08QsQyjIpMRKC_SyQEEQUJpRBbntX_ZV-5otO737-_puz9fm54lVUop-rSjDMMzLrivbYs67-a1R0v5x5QpP2zZLebM2ng3t9cQ3dj-Y224wD0QIamH1qMGegJVHLuhAJipDt1n4NURUoyNzcqNwqZ3VlbuPxK0gKOFQbNnFA0GI6TE2a04kSgCM2fQ2EiJ2RSPHqBlvgeNPzEKfIRhtBHMrb1cBc5AIoUBYtyekChwDtIvBYeJqs0xbj2WQtn9qmeYZqZ7okbN8x0DEKXxZ0DCXocpQvlWPUPdlFlYVj9gOx6aL9aoOoKlzuwR7ArFz9kzsokcQsTCIVncU04k5y4EAFLCIIkw0lVg4SeI88W2oz078vtFn_2Obj9NFrsVnV_4CwMt3MQ",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=u9asd3icHdDBboIwAADQ7Gc8ChRl08QsQyjIpMRKC_SyQEEQUJpRBbntX_ZV-5otO737-_puz9fm54lVUop-rSjDMMzLrivbYs67-a1R0v5x5QpP2zZLebM2ng3t9cQ3dj-Y224wD0QIamH1qMGegJVHLuhAJipDt1n4NURUoyNzcqNwqZ3VlbuPxK0gKOFQbNnFA0GI6TE2a04kSgCM2fQ2EiJ2RSPHqBlvgeNPzEKfIRhtBHMrb1cBc5AIoUBYtyekChwDtIvBYeJqs0xbj2WQtn9qmeYZqZ7okbN8x0DEKXxZ0DCXocpQvlWPUPdlFlYVj9gOx6aL9aoOoKlzuwR7ArFz9kzsokcQsTCIVncU04k5y4EAFLCIIkw0lVg4SeI88W2oz078vtFn_2Obj9NFrsVnV_4CwMt3MQ",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2MyRnhjRmRQYjJKT2NWaHpUMVJOTm5ONk5sZGFiVlZsTUdaTVdYTlBVSEV5U0RkbmVqSlRRMkZuYnpGeVpUUkVORTlXTlROVVdVOU1RV0p0ZW14R1lXUk1lRlpoYTJWdGVFNWlhM1V4WVV0VFNUTldVVFJDZWs1d2R4SVhjeTF0T0dGeFpraEZjRWRIZUdNNFVIZHdTRFl0UVZFYUlrRkVjM0k1WmxGMGIydHdjMXBoY0RCMVJGaENiRmh4WDAxRFVqWjNOa0o1TW5jIiwiZmN2IjoiMyIsImVpIjoicy1tOGFxZkhFcEdHeGM4UHdwSDYtQVEiLCJxYyI6IkNnaHdiMjlyZVNCMWF4QUFmWkpLSlQ4IiwicXVlc3Rpb24iOiJJcyBQb29reSBhIGdvb2QgYnJhbmQ/IiwibGsiOiJHaFZwY3lCd2IyOXJlU0JoSUdkdmIyUWdZbkpoYm1RIiwiYnMiOiJjMjJQdlE2Q1FCQ0VZN3VWalQ4NVJmY1ZwTEl4eE1SQ1kyT2oxZ2QzWVNfQTdZVkRDVzh2b0lVUnU4MS1NenV6c0lIcHllT0ZPV3RRWXNxc01DNmxWVkU0RXhQajBRMEkzR0I3SjVNUTVpYWx5dGdVRXk2Y3RBMGFpeFZwdko2eGRTWnN2Vkc2MUtwZnh0cFhVU2pFdkJ1RzFrY0dPMWdlV0xfTEdJMGtuN29OOXNSMXlWeEVZU0FXcXVQdUw0YzlySTVjWTg3dFZjV2ZsX29jajduc3d0Y2lvQy1GLTFXTVJ5OCIsImlkIjoiZmNfcy1tOGFxZkhFcEdHeGM4UHdwSDYtQVFfNSJ9",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2MyRnhjRmRQYjJKT2NWaHpUMVJOTm5ONk5sZGFiVlZsTUdaTVdYTlBVSEV5U0RkbmVqSlRRMkZuYnpGeVpUUkVORTlXTlROVVdVOU1RV0p0ZW14R1lXUk1lRlpoYTJWdGVFNWlhM1V4WVV0VFNUTldVVFJDZWs1d2R4SVhjeTF0T0dGeFpraEZjRWRIZUdNNFVIZHdTRFl0UVZFYUlrRkVjM0k1WmxGMGIydHdjMXBoY0RCMVJGaENiRmh4WDAxRFVqWjNOa0o1TW5jIiwiZmN2IjoiMyIsImVpIjoicy1tOGFxZkhFcEdHeGM4UHdwSDYtQVEiLCJxYyI6IkNnaHdiMjlyZVNCMWF4QUFmWkpLSlQ4IiwicXVlc3Rpb24iOiJJcyBQb29reSBhIGdvb2QgYnJhbmQ%2FIiwibGsiOiJHaFZwY3lCd2IyOXJlU0JoSUdkdmIyUWdZbkpoYm1RIiwiYnMiOiJjMjJQdlE2Q1FCQ0VZN3VWalQ4NVJmY1ZwTEl4eE1SQ1kyT2oxZ2QzWVNfQTdZVkRDVzh2b0lVUnU4MS1NenV6c0lIcHllT0ZPV3RRWXNxc01DNmxWVkU0RXhQajBRMEkzR0I3SjVNUTVpYWx5dGdVRXk2Y3RBMGFpeFZwdko2eGRTWnN2Vkc2MUtwZnh0cFhVU2pFdkJ1RzFrY0dPMWdlV0xfTEdJMGtuN29OOXNSMXlWeEVZU0FXcXVQdUw0YzlySTVjWTg3dFZjV2ZsX29jajduc3d0Y2lvQy1GLTFXTVJ5OCIsImlkIjoiZmNfcy1tOGFxZkhFcEdHeGM4UHdwSDYtQVFfNSJ9"
+   },
+   {
+    "question": "Which lighting company in the UK is considered the best?",
+    "type": "ai_overview",
+    "page_token": "iCX7q3icHdBdjqIwAADg7GXmUVsEJ2tiJkF-1FiYFlugLxNsUX5aqMiI-rZ32CPsqfY0m-x3hO_XH1V37d8fv6txNLfVfD5N0-zS9xdVzkQ_-27nxe3ZibkolDoVol0t35fw4yzW_l24m0G4mBrDPAIS5S8OKbsh6tyPQA453DdJo-KkkTtsOX5hORplxiDfnk46cLjlxAV0XdSxGLX4IbZyyCxOY8_V0quicruPeGsGpOQ11zngwc-Ap9OTesQcAbsmrTPSQB1k2D4Q4IRZGJSsssuU17EPN1QrXXS84ht4LtLqU2YuOVnIFgqByCMj9QNSJhCwELYRUFvOpBVRBImOQnTETx7KB_HULtd7lEP5jZ4wYx2yk9cF-JV8HVJg51mgE59NBEg7f1VYLtxdVEOXkr7GlLxEozRNVZ2DPWHb6kpVZXDjfqYex0lo6lzLJWmCgOK3s7ivF2__r9dfZz2uzNBf_gEshYwl",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=iCX7q3icHdBdjqIwAADg7GXmUVsEJ2tiJkF-1FiYFlugLxNsUX5aqMiI-rZ32CPsqfY0m-x3hO_XH1V37d8fv6txNLfVfD5N0-zS9xdVzkQ_-27nxe3ZibkolDoVol0t35fw4yzW_l24m0G4mBrDPAIS5S8OKbsh6tyPQA453DdJo-KkkTtsOX5hORplxiDfnk46cLjlxAV0XdSxGLX4IbZyyCxOY8_V0quicruPeGsGpOQ11zngwc-Ap9OTesQcAbsmrTPSQB1k2D4Q4IRZGJSsssuU17EPN1QrXXS84ht4LtLqU2YuOVnIFgqByCMj9QNSJhCwELYRUFvOpBVRBImOQnTETx7KB_HULtd7lEP5jZ4wYx2yk9cF-JV8HVJg51mgE59NBEg7f1VYLtxdVEOXkr7GlLxEozRNVZ2DPWHb6kpVZXDjfqYex0lo6lzLJWmCgOK3s7ivF2__r9dfZz2uzNBf_gEshYwl",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2MyRnhjRmRQYjJKT2NWaHpUMVJOTm5ONk5sZGFiVlZsTUdaTVdYTlBVSEV5U0RkbmVqSlRRMkZuYnpGeVpUUkVORTlXTlROVVdVOU1RV0p0ZW14R1lXUk1lRlpoYTJWdGVFNWlhM1V4WVV0VFNUTldVVFJDZWs1d2R4SVhjeTF0T0dGeFpraEZjRWRIZUdNNFVIZHdTRFl0UVZFYUlrRkVjM0k1WmxGMGIydHdjMXBoY0RCMVJGaENiRmh4WDAxRFVqWjNOa0o1TW5jIiwiZmN2IjoiMyIsImVpIjoicy1tOGFxZkhFcEdHeGM4UHdwSDYtQVEiLCJxYyI6IkNnaHdiMjlyZVNCMWF4QUFmWkpLSlQ4IiwicXVlc3Rpb24iOiJXaGljaCBsaWdodGluZyBjb21wYW55IGluIHRoZSBVSyBpcyBjb25zaWRlcmVkIHRoZSBiZXN0PyIsImxrIjoiR2hoaVpYTjBJR3hwWjJoMGFXNW5JR052YlhCaGJua2dkV3MiLCJicyI6ImMyMlB2UTZDUUJDRVk3dVZqVDg1UmZjVnBMSXh4TVJDWTJPajFnZDNZU19BN1lWRENXOHZvSVVSdTgxLU16dXpzSUhweWVPRk9XdFFZc3FzTUM2bFZWRTRFeFBqMFEwSTNHQjdKNU1RNWlhbHl0Z1VFeTZjdEEwYWl4VnB2SjZ4ZFNac3ZWRzYxS3BmeHRwWFVTakV2QnVHMWtjR08xZ2VXTF9MR0kwa243b045c1IxeVZ4RVlTQVdxdVB1TDRjOXJJNWNZODd0VmNXZmxfb2NqN25zd3RjaW9DLUYtMVdNUnk4IiwiaWQiOiJmY19zLW04YXFmSEVwR0d4YzhQd3BINi1BUV81In0=",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2MyRnhjRmRQYjJKT2NWaHpUMVJOTm5ONk5sZGFiVlZsTUdaTVdYTlBVSEV5U0RkbmVqSlRRMkZuYnpGeVpUUkVORTlXTlROVVdVOU1RV0p0ZW14R1lXUk1lRlpoYTJWdGVFNWlhM1V4WVV0VFNUTldVVFJDZWs1d2R4SVhjeTF0T0dGeFpraEZjRWRIZUdNNFVIZHdTRFl0UVZFYUlrRkVjM0k1WmxGMGIydHdjMXBoY0RCMVJGaENiRmh4WDAxRFVqWjNOa0o1TW5jIiwiZmN2IjoiMyIsImVpIjoicy1tOGFxZkhFcEdHeGM4UHdwSDYtQVEiLCJxYyI6IkNnaHdiMjlyZVNCMWF4QUFmWkpLSlQ4IiwicXVlc3Rpb24iOiJXaGljaCBsaWdodGluZyBjb21wYW55IGluIHRoZSBVSyBpcyBjb25zaWRlcmVkIHRoZSBiZXN0PyIsImxrIjoiR2hoaVpYTjBJR3hwWjJoMGFXNW5JR052YlhCaGJua2dkV3MiLCJicyI6ImMyMlB2UTZDUUJDRVk3dVZqVDg1UmZjVnBMSXh4TVJDWTJPajFnZDNZU19BN1lWRENXOHZvSVVSdTgxLU16dXpzSUhweWVPRk9XdFFZc3FzTUM2bFZWRTRFeFBqMFEwSTNHQjdKNU1RNWlhbHl0Z1VFeTZjdEEwYWl4VnB2SjZ4ZFNac3ZWRzYxS3BmeHRwWFVTakV2QnVHMWtjR08xZ2VXTF9MR0kwa243b045c1IxeVZ4RVlTQVdxdVB1TDRjOXJJNWNZODd0VmNXZmxfb2NqN25zd3RjaW9DLUYtMVdNUnk4IiwiaWQiOiJmY19zLW04YXFmSEVwR0d4YzhQd3BINi1BUV81In0%3D"
+   },
+   {
+    "question": "Does Pookie have a showroom?",
+    "type": "ai_overview",
+    "page_token": "avuOEnicHdBRToMwAADQeJl9DrBzmiWLEUZhZHTSlhb6Y7oyYGsZ6JgIf97FU3kaE98R3vePOV30752o-767rixrGIZ51baVOc5VO79pS17Hi7KUNOYglV4tH5fOc6nW_nVwvXZwk7Tr2AbbRPdloRdfErD3OGBeboQRdgoI7zzC2MAojuXkxmkmbojDxdG8jPkUhdR_sjMgNrkTuYk2kIBaF7BeSgjh0e_OByNkPrmeatREGwgYFRLd-w9xlo8JY0HMHbJLHVo42il4H_K0ToRGNxIyIrIKsKCfVBC98tScd1nks7DbUgePBUwJBHF_oHWtuNjizA0xqM976ALlV_e7FOLgFLk4ROOeC0wvOBeNPcV-lEsOBx6gCwoKRCfBMINb3iAwK9XnGsz-x9ZvZdOvuo-2-gMqIHi5",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=avuOEnicHdBRToMwAADQeJl9DrBzmiWLEUZhZHTSlhb6Y7oyYGsZ6JgIf97FU3kaE98R3vePOV30752o-767rixrGIZ51baVOc5VO79pS17Hi7KUNOYglV4tH5fOc6nW_nVwvXZwk7Tr2AbbRPdloRdfErD3OGBeboQRdgoI7zzC2MAojuXkxmkmbojDxdG8jPkUhdR_sjMgNrkTuYk2kIBaF7BeSgjh0e_OByNkPrmeatREGwgYFRLd-w9xlo8JY0HMHbJLHVo42il4H_K0ToRGNxIyIrIKsKCfVBC98tScd1nks7DbUgePBUwJBHF_oHWtuNjizA0xqM976ALlV_e7FOLgFLk4ROOeC0wvOBeNPcV-lEsOBx6gCwoKRCfBMINb3iAwK9XnGsz-x9ZvZdOvuo-2-gMqIHi5",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2MyRnhjRmRQYjJKT2NWaHpUMVJOTm5ONk5sZGFiVlZsTUdaTVdYTlBVSEV5U0RkbmVqSlRRMkZuYnpGeVpUUkVORTlXTlROVVdVOU1RV0p0ZW14R1lXUk1lRlpoYTJWdGVFNWlhM1V4WVV0VFNUTldVVFJDZWs1d2R4SVhjeTF0T0dGeFpraEZjRWRIZUdNNFVIZHdTRFl0UVZFYUlrRkVjM0k1WmxGMGIydHdjMXBoY0RCMVJGaENiRmh4WDAxRFVqWjNOa0o1TW5jIiwiZmN2IjoiMyIsImVpIjoicy1tOGFxZkhFcEdHeGM4UHdwSDYtQVEiLCJxYyI6IkNnaHdiMjlyZVNCMWF4QUFmWkpLSlQ4IiwicXVlc3Rpb24iOiJEb2VzIFBvb2tpZSBoYXZlIGEgc2hvd3Jvb20/IiwibGsiOiJHaHRrYjJWeklIQnZiMnRwWlNCb1lYWmxJR0VnYzJodmQzSnZiMjAiLCJicyI6ImMyMlB2UTZDUUJDRVk3dVZqVDg1UmZjVnBMSXh4TVJDWTJPajFnZDNZU19BN1lWRENXOHZvSVVSdTgxLU16dXpzSUhweWVPRk9XdFFZc3FzTUM2bFZWRTRFeFBqMFEwSTNHQjdKNU1RNWlhbHl0Z1VFeTZjdEEwYWl4VnB2SjZ4ZFNac3ZWRzYxS3BmeHRwWFVTakV2QnVHMWtjR08xZ2VXTF9MR0kwa243b045c1IxeVZ4RVlTQVdxdVB1TDRjOXJJNWNZODd0VmNXZmxfb2NqN25zd3RjaW9DLUYtMVdNUnk4IiwiaWQiOiJmY19zLW04YXFmSEVwR0d4YzhQd3BINi1BUV81In0=",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2MyRnhjRmRQYjJKT2NWaHpUMVJOTm5ONk5sZGFiVlZsTUdaTVdYTlBVSEV5U0RkbmVqSlRRMkZuYnpGeVpUUkVORTlXTlROVVdVOU1RV0p0ZW14R1lXUk1lRlpoYTJWdGVFNWlhM1V4WVV0VFNUTldVVFJDZWs1d2R4SVhjeTF0T0dGeFpraEZjRWRIZUdNNFVIZHdTRFl0UVZFYUlrRkVjM0k1WmxGMGIydHdjMXBoY0RCMVJGaENiRmh4WDAxRFVqWjNOa0o1TW5jIiwiZmN2IjoiMyIsImVpIjoicy1tOGFxZkhFcEdHeGM4UHdwSDYtQVEiLCJxYyI6IkNnaHdiMjlyZVNCMWF4QUFmWkpLSlQ4IiwicXVlc3Rpb24iOiJEb2VzIFBvb2tpZSBoYXZlIGEgc2hvd3Jvb20%2FIiwibGsiOiJHaHRrYjJWeklIQnZiMnRwWlNCb1lYWmxJR0VnYzJodmQzSnZiMjAiLCJicyI6ImMyMlB2UTZDUUJDRVk3dVZqVDg1UmZjVnBMSXh4TVJDWTJPajFnZDNZU19BN1lWRENXOHZvSVVSdTgxLU16dXpzSUhweWVPRk9XdFFZc3FzTUM2bFZWRTRFeFBqMFEwSTNHQjdKNU1RNWlhbHl0Z1VFeTZjdEEwYWl4VnB2SjZ4ZFNac3ZWRzYxS3BmeHRwWFVTakV2QnVHMWtjR08xZ2VXTF9MR0kwa243b045c1IxeVZ4RVlTQVdxdVB1TDRjOXJJNWNZODd0VmNXZmxfb2NqN25zd3RjaW9DLUYtMVdNUnk4IiwiaWQiOiJmY19zLW04YXFmSEVwR0d4YzhQd3BINi1BUV81In0%3D"
+   },
+   {
+    "question": "How long do Pooky lights last?",
+    "type": "ai_overview",
+    "page_token": "430ey3icHdBRboIwAIDh7DI-KqXqMhOzhFkFJiVQ2iIvC7YoQoE60TredpedaqeZ2QX-fPm_f9SprX-f7mXf68tiMjHGjI9dd1TFWHTjaz3JL1-tmIhcqX0u6sX8eQ5eD2KJrp7zdvaciGrNVrFFoByyurRlpQbs7mYBVSGF-iTaDAgX-5TLlaQg3a9KnnBdcY7nYvPiEcg0WakrbbRDXHwuGg3zyvEwR1YCdMOa-41wrOSA7Nzy3_cV6vcI2wUCLOTYE0B7GZ2Z1PbDxPJpuGFJhmQmIYKYs6RoAyCHwDwaEUcYEhDnhcpIXGc9TrGf2rN56MYkAp1JQImDpjOijltUymHLrekuXTcEMRNbcrobykjCh-0EHBp3p4jGg6hU87AbYR1tsmZpkAjIXQcz5G-jNkM0dTRJhEWj0UHclnD0_3P5cWj6hf7sjn-Sg4Jv",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=430ey3icHdBRboIwAIDh7DI-KqXqMhOzhFkFJiVQ2iIvC7YoQoE60TredpedaqeZ2QX-fPm_f9SprX-f7mXf68tiMjHGjI9dd1TFWHTjaz3JL1-tmIhcqX0u6sX8eQ5eD2KJrp7zdvaciGrNVrFFoByyurRlpQbs7mYBVSGF-iTaDAgX-5TLlaQg3a9KnnBdcY7nYvPiEcg0WakrbbRDXHwuGg3zyvEwR1YCdMOa-41wrOSA7Nzy3_cV6vcI2wUCLOTYE0B7GZ2Z1PbDxPJpuGFJhmQmIYKYs6RoAyCHwDwaEUcYEhDnhcpIXGc9TrGf2rN56MYkAp1JQImDpjOijltUymHLrekuXTcEMRNbcrobykjCh-0EHBp3p4jGg6hU87AbYR1tsmZpkAjIXQcz5G-jNkM0dTRJhEWj0UHclnD0_3P5cWj6hf7sjn-Sg4Jv",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2MyRnhjRmRQYjJKT2NWaHpUMVJOTm5ONk5sZGFiVlZsTUdaTVdYTlBVSEV5U0RkbmVqSlRRMkZuYnpGeVpUUkVORTlXTlROVVdVOU1RV0p0ZW14R1lXUk1lRlpoYTJWdGVFNWlhM1V4WVV0VFNUTldVVFJDZWs1d2R4SVhjeTF0T0dGeFpraEZjRWRIZUdNNFVIZHdTRFl0UVZFYUlrRkVjM0k1WmxGMGIydHdjMXBoY0RCMVJGaENiRmh4WDAxRFVqWjNOa0o1TW5jIiwiZmN2IjoiMyIsImVpIjoicy1tOGFxZkhFcEdHeGM4UHdwSDYtQVEiLCJxYyI6IkNnaHdiMjlyZVNCMWF4QUFmWkpLSlQ4IiwicXVlc3Rpb24iOiJIb3cgbG9uZyBkbyBQb29reSBsaWdodHMgbGFzdD8iLCJsayI6IkdoMW9iM2NnYkc5dVp5QmtieUJ3YjI5cmVTQnNhV2RvZEhNZ2JHRnpkQSIsImJzIjoiYzIyUHZRNkNRQkNFWTd1VmpUODVSZmNWcExJeHhNUkNZMk9qMWdkM1lTX0E3WVZEQ1c4dm9JVVJ1ODEtTXp1enNJSHB5ZU9GT1d0UVlzcXNNQzZsVlZFNEV4UGowUTBJM0dCN0o1TVE1aWFseXRnVUV5NmN0QTBhaXhWcHZKNnhkU1pzdlZHNjFLcGZ4dHBYVVNqRXZCdUcxa2NHTzFnZVdMX0xHSTBrbjdvTjlzUjF5VnhFWVNBV3F1UHVMNGM5ckk1Y1k4N3RWY1dmbF9vY2o3bnN3dGNpb0MtRi0xV01SeTgiLCJpZCI6ImZjX3MtbThhcWZIRXBHR3hjOFB3cEg2LUFRXzUifQ==",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2MyRnhjRmRQYjJKT2NWaHpUMVJOTm5ONk5sZGFiVlZsTUdaTVdYTlBVSEV5U0RkbmVqSlRRMkZuYnpGeVpUUkVORTlXTlROVVdVOU1RV0p0ZW14R1lXUk1lRlpoYTJWdGVFNWlhM1V4WVV0VFNUTldVVFJDZWs1d2R4SVhjeTF0T0dGeFpraEZjRWRIZUdNNFVIZHdTRFl0UVZFYUlrRkVjM0k1WmxGMGIydHdjMXBoY0RCMVJGaENiRmh4WDAxRFVqWjNOa0o1TW5jIiwiZmN2IjoiMyIsImVpIjoicy1tOGFxZkhFcEdHeGM4UHdwSDYtQVEiLCJxYyI6IkNnaHdiMjlyZVNCMWF4QUFmWkpLSlQ4IiwicXVlc3Rpb24iOiJIb3cgbG9uZyBkbyBQb29reSBsaWdodHMgbGFzdD8iLCJsayI6IkdoMW9iM2NnYkc5dVp5QmtieUJ3YjI5cmVTQnNhV2RvZEhNZ2JHRnpkQSIsImJzIjoiYzIyUHZRNkNRQkNFWTd1VmpUODVSZmNWcExJeHhNUkNZMk9qMWdkM1lTX0E3WVZEQ1c4dm9JVVJ1ODEtTXp1enNJSHB5ZU9GT1d0UVlzcXNNQzZsVlZFNEV4UGowUTBJM0dCN0o1TVE1aWFseXRnVUV5NmN0QTBhaXhWcHZKNnhkU1pzdlZHNjFLcGZ4dHBYVVNqRXZCdUcxa2NHTzFnZVdMX0xHSTBrbjdvTjlzUjF5VnhFWVNBV3F1UHVMNGM5ckk1Y1k4N3RWY1dmbF9vY2o3bnN3dGNpb0MtRi0xV01SeTgiLCJpZCI6ImZjX3MtbThhcWZIRXBHR3hjOFB3cEg2LUFRXzUifQ%3D%3D"
+   }
+  ],
+  "ai_overview": {
+   "page_token": "ZWgmbniczVXdkqo4EH6AfY7lZkf58X-qqFNJQI2eURl05-fGQsCAqCjRAefuvMt5qn2aDSAOOuLUORdb2w5kknR3ujv98f34uXTX3j9__HB2uw295_kwDMvE98nSLpt-ee_xBj2sTX7uL2lgOt-cpWyvObKU9x53eJMrnEllgbNdmZZWTWM776qbTicym6Nw062XgMYl5vJ0ZlB7wfxHC8pPefby_qwobFKmZXs97cAypGENdiRNrJKyJIit8pA3VkwH_IcSAoABBEBLhyJBAKhfO4tVNIBiX5kQ9LGVipL6i88kyUK_8EgcW0H2wyBRHVWjmkOZi0mmpBdHrLHXSzYJkwHC9EQ9Dop8nc9RIDiWBmqn0AoFX19OLVHu0JdPu9e8PZzPfQCVKtA0mIVwcSt6PiuoxlnGGqwYJSUCMHQLin00YH9j0PX82ykmgSDczMoB2pRdKuYtwppX4GcBG0TeNR0z-SegcU-jcUvwu0NtWyo53-eROB9u1eFqoemRPRuJrxXAmzOmt_QNy7amzlT4lsxFSawJrUqjeZfgyaQnQNE8oIb-YzjYii36oJa_l6GYQQmdLuQiIZXN0bW7YpVF1wwSITkc5IxdlO-mrDlZe3uYqeEw50DFo3jsZAtDdqEAmnnoZQfELq9B6UwphRJJGgunDYY_zE8qExZG5onktxTvc5afvgMIgTBtV01J6gJJFoB2USYEdMz2slV4jjINAtdR47SgzoKmiZp51v-C-viRMsriiRtePR45OaWYmuEclBDrb5R0_CDW8RDxIGbBQpAakQQUifjk4vrVgk8cYjnCSSFEbwop-h6cCc4wcwGBPHTU-aFn4nHUWHTVcaSrykR4akuYbJ4DcB0q_mr2a-Rj_r_wlFHT5EhNxXhSv8ZT_Cm8RU3J60RNRE_x1C_Gk4rxiZpIjpqETOmDmi7xhPQcntAh1iCwfZ2afhVP6Aae8C08xZlew5NWhKeEms7w1LukpjM8nagpw9PvURP-PWpK4GWnwzlP7RekkK_ajZr3pmJR2lcqO-RWiKKUelGjU22K2pd8NV_t7leGtbybutY9lHq7g3U3ZQv-vW1xW3nk-97hr0mfWy0DXxaMxnz7ILr9qhI-6nV97EnvL12yf5f2lPZ6C7ye-v0e6g7wsKRL2my2aAyqXVJ_9epS4D53hk8Nv9ta7Gs7ouyee2tnDr3qc9AJHDyri8buEdCgZIkuWgbWHgoRpeuR3W6BWelvYf2O9dXyfWM8vYZbrwb81riuaklcVA7R24M37c8XUZNbBabMql8lYKCBJ8I6Db0wBiDs8dkTsqcONBVy1DSmNn2TLcGsNBsts2LMDNFsSNyK7A4buSpydB3I4r9LQT3I",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ZWgmbniczVXdkqo4EH6AfY7lZkf58X-qqFNJQI2eURl05-fGQsCAqCjRAefuvMt5qn2aDSAOOuLUORdb2w5kknR3ujv98f34uXTX3j9__HB2uw295_kwDMvE98nSLpt-ee_xBj2sTX7uL2lgOt-cpWyvObKU9x53eJMrnEllgbNdmZZWTWM776qbTicym6Nw062XgMYl5vJ0ZlB7wfxHC8pPefby_qwobFKmZXs97cAypGENdiRNrJKyJIit8pA3VkwH_IcSAoABBEBLhyJBAKhfO4tVNIBiX5kQ9LGVipL6i88kyUK_8EgcW0H2wyBRHVWjmkOZi0mmpBdHrLHXSzYJkwHC9EQ9Dop8nc9RIDiWBmqn0AoFX19OLVHu0JdPu9e8PZzPfQCVKtA0mIVwcSt6PiuoxlnGGqwYJSUCMHQLin00YH9j0PX82ykmgSDczMoB2pRdKuYtwppX4GcBG0TeNR0z-SegcU-jcUvwu0NtWyo53-eROB9u1eFqoemRPRuJrxXAmzOmt_QNy7amzlT4lsxFSawJrUqjeZfgyaQnQNE8oIb-YzjYii36oJa_l6GYQQmdLuQiIZXN0bW7YpVF1wwSITkc5IxdlO-mrDlZe3uYqeEw50DFo3jsZAtDdqEAmnnoZQfELq9B6UwphRJJGgunDYY_zE8qExZG5onktxTvc5afvgMIgTBtV01J6gJJFoB2USYEdMz2slV4jjINAtdR47SgzoKmiZp51v-C-viRMsriiRtePR45OaWYmuEclBDrb5R0_CDW8RDxIGbBQpAakQQUifjk4vrVgk8cYjnCSSFEbwop-h6cCc4wcwGBPHTU-aFn4nHUWHTVcaSrykR4akuYbJ4DcB0q_mr2a-Rj_r_wlFHT5EhNxXhSv8ZT_Cm8RU3J60RNRE_x1C_Gk4rxiZpIjpqETOmDmi7xhPQcntAh1iCwfZ2afhVP6Aae8C08xZlew5NWhKeEms7w1LukpjM8nagpw9PvURP-PWpK4GWnwzlP7RekkK_ajZr3pmJR2lcqO-RWiKKUelGjU22K2pd8NV_t7leGtbybutY9lHq7g3U3ZQv-vW1xW3nk-97hr0mfWy0DXxaMxnz7ILr9qhI-6nV97EnvL12yf5f2lPZ6C7ye-v0e6g7wsKRL2my2aAyqXVJ_9epS4D53hk8Nv9ta7Gs7ouyee2tnDr3qc9AJHDyri8buEdCgZIkuWgbWHgoRpeuR3W6BWelvYf2O9dXyfWM8vYZbrwb81riuaklcVA7R24M37c8XUZNbBabMql8lYKCBJ8I6Db0wBiDs8dkTsqcONBVy1DSmNn2TLcGsNBsts2LMDNFsSNyK7A4buSpydB3I4r9LQT3I"
+  },
+  "organic_results": [
+   {
+    "position": 1,
+    "title": "The Pooky Party Lighting Guide",
+    "link": "https://merimeri.co.uk/blogs/stories/the-pooky-party-lighting-guide?srsltid=AU7gw4VnxMH5jVct39j1lPrlpjfZaEVryid2YjtpJyJte4fpeU78aMof",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESwAEB6zswFX_5sacPjvRi-IxusPH0vUyc0l4GgwZWzO1Xz83ZjHxUrJGQSWS5mCrx35D7mxJLyltO1fFcVLnLMbJmyO-FsP2_m1wlU7qqN37f1NgK8_JxtKyy2EcMDrNnt_Bc4IO-6oYmFt1yrsQpGH5upKTQprq9MD6OEvB_LbBmrNJ4xXZnO9x49xPPGFw28UmCmUH82riNjz6EQQTAbHQXdYBIn5-4GroybVs9YeN0ZBRqTZzFv1gD8thCFlUYNYQ&ved=2ahUKEwjn7PCnkZaXAxURQ_EDHcKIHk8QFnoECEkQAQ&uoh=1",
+    "displayed_link": "https://merimeri.co.uk › blogs › stories › the-pooky-par...",
+    "favicon": "https://serpapi.com/images/i/UklGRvIAAABXRUJQVlA4IOYAAABQBgCdASocABwAPtEwtFooIigoGAEAGgljAJ0zgTZyc5pnXeedJAHagkzht39r_zJ3-644Ljvxot_RAAD-ilsICRb7vyPhBEHPPIsrTFUQda47oBAC4fowlBgcTNIF_zuWDgJuUVhkYscZh34UxnLn3ADns4ro0ENMOtF84xKDGWC9wq4JVWsAa4f-dN3UQU468K_jJPTPr7smKZF9S1MDV1QWU9Ks7i8Y0hHqLfm4kVAOYA529BHMivq85W_q6-9mHF-lh2NAKrrIPu2gZ5jRtWLZgNylauorMEZ6QCIotAdrdAAAAA.webp",
+    "snippet": "The Pooky Party Lighting Guide. Discover top tips for lighting any kind of party, indoor or outdoor, from the experts at Pooky Lighting.",
+    "snippet_highlighted_words": [
+     "The Pooky Party Lighting Guide"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "The Pooky Party Lighting Guide. Discover top tips for lighting any kind of party, indoor or outdoor, from the experts at Pooky Lighting.",
+      "source_info_link": "https://merimeri.co.uk/blogs/stories/the-pooky-party-lighting-guide?srsltid=AU7gw4VnxMH5jVct39j1lPrlpjfZaEVryid2YjtpJyJte4fpeU78aMof",
+      "icon": "https://serpapi.com/images/i/UklGRvIAAABXRUJQVlA4IOYAAABQBgCdASocABwAPtEwtFooIigoGAEAGgljAJ0zgTZyc5pnXeedJAHagkzht39r_zJ3-644Ljvxot_RAAD-ilsICRb7vyPhBEHPPIsrTFUQda47oBAC4fowlBgcTNIF_zuWDgJuUVhkYscZh34UxnLn3ADns4ro0ENMOtF84xKDGWC9wq4JVWsAa4f-dN3UQU468K_jJPTPr7smKZF9S1MDV1QWU9Ks7i8Y0hHqLfm4kVAOYA529BHMivq85W_q6-9mHF-lh2NAKrrIPu2gZ5jRtWLZgNylauorMEZ6QCIotAdrdAAAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CpECL2dvdG8_dXJsPUNBRVN3QUVCNnpzd0ZYXzVzYWNQanZSaS1JeHVzUEgwdlV5YzBsNEdnd1pXek8xWHo4M1pqSHhVckpHUVNXUzVtQ3J4MzVEN214Skx5bHRPMWZGY1ZMbkxNYkpteU8tRnNQMl9tMXdsVTdxcU4zN2YxTmdLOF9KeHRLeXkyRWNNRHJObnRfQmM0SU8tNm9ZbUZ0MXlyc1FwR0g1dXBLVFFwcnE5TUQ2T0V2Ql9MYkJtck5KNHhYWm5POXg0OXhQUEdGdzI4VW1DbVVIODJyaU5qejZFUVFUQWJIUVhkWUJJbjUtNEdyb3liVnM5WWVOMFpCUnFUWnpGdjFnRDh0aENGbFVZTllREgQaAggAGtUDEgAaACIAKgAyBggBEgJ1azoAQgQIARAASgBaAHIAegCCQLEDCAAQABgAIAAqGAoFcG9va3kVfCiGQBoKaXY7cDtwb29reSoZCgJ1axWSMnlAGg51bml0ZWQga2luZ2RvbTK4AS9nb3RvP3VybD1DQUVTZmdIck96QVY4ckg0NEdmUTJia0M4QXIwOG05QnJtaDVNckUzT2Fpa2MxNTdLQ0g3MHc5eC11RzF0bC1LcU1YejcwZndWYzVJZ0VuRkxHTTFzMU9vMnFZUzJGbmE2UXIxMVBlX056ODk0eDc0a0d1YUl4d3ZmdkN0Unk2T0hGVDZWX1VWMXFlRGZQT09QN0F6QzhhWU9TcktrT1Fwa1BxbG9tdjl0dHI5Y0E6JVRoZSA8Yj5Qb29reTwvYj4gUGFydHkgTGlnaHRpbmcgR3VpZGVCjwE8Yj5UaGUgUG9va3kgUGFydHkgTGlnaHRpbmcgR3VpZGU8L2I-LiBEaXNjb3ZlciB0b3AgdGlwcyBmb3IgbGlnaHRpbmcgYW55IGtpbmQgb2YgcGFydHksIGluZG9vciBvciBvdXRkb29yLCBmcm9tIHRoZSBleHBlcnRzIGF0IFBvb2t5IExpZ2h0aW5nLiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CpECL2dvdG8_dXJsPUNBRVN3QUVCNnpzd0ZYXzVzYWNQanZSaS1JeHVzUEgwdlV5YzBsNEdnd1pXek8xWHo4M1pqSHhVckpHUVNXUzVtQ3J4MzVEN214Skx5bHRPMWZGY1ZMbkxNYkpteU8tRnNQMl9tMXdsVTdxcU4zN2YxTmdLOF9KeHRLeXkyRWNNRHJObnRfQmM0SU8tNm9ZbUZ0MXlyc1FwR0g1dXBLVFFwcnE5TUQ2T0V2Ql9MYkJtck5KNHhYWm5POXg0OXhQUEdGdzI4VW1DbVVIODJyaU5qejZFUVFUQWJIUVhkWUJJbjUtNEdyb3liVnM5WWVOMFpCUnFUWnpGdjFnRDh0aENGbFVZTllREgQaAggAGtUDEgAaACIAKgAyBggBEgJ1azoAQgQIARAASgBaAHIAegCCQLEDCAAQABgAIAAqGAoFcG9va3kVfCiGQBoKaXY7cDtwb29reSoZCgJ1axWSMnlAGg51bml0ZWQga2luZ2RvbTK4AS9nb3RvP3VybD1DQUVTZmdIck96QVY4ckg0NEdmUTJia0M4QXIwOG05QnJtaDVNckUzT2Fpa2MxNTdLQ0g3MHc5eC11RzF0bC1LcU1YejcwZndWYzVJZ0VuRkxHTTFzMU9vMnFZUzJGbmE2UXIxMVBlX056ODk0eDc0a0d1YUl4d3ZmdkN0Unk2T0hGVDZWX1VWMXFlRGZQT09QN0F6QzhhWU9TcktrT1Fwa1BxbG9tdjl0dHI5Y0E6JVRoZSA8Yj5Qb29reTwvYj4gUGFydHkgTGlnaHRpbmcgR3VpZGVCjwE8Yj5UaGUgUG9va3kgUGFydHkgTGlnaHRpbmcgR3VpZGU8L2I-LiBEaXNjb3ZlciB0b3AgdGlwcyBmb3IgbGlnaHRpbmcgYW55IGtpbmQgb2YgcGFydHksIGluZG9vciBvciBvdXRkb29yLCBmcm9tIHRoZSBleHBlcnRzIGF0IFBvb2t5IExpZ2h0aW5nLiICEAFIAFgAaAA",
+    "source": "Meri Meri UK",
+    "read_more_link": "https://merimeri.co.uk/blogs/stories/the-pooky-party-lighting-guide?srsltid=AU7gw4VnxMH5jVct39j1lPrlpjfZaEVryid2YjtpJyJte4fpeU78aMof#:~:text=The%20Pooky%20Party%20Lighting%20Guide,the%20experts%20at%20Pooky%20Lighting"
+   },
+   {
+    "position": 2,
+    "title": "Read Customer Service Reviews of pooky.com | 7 of 67",
+    "link": "https://au.trustpilot.com/review/pooky.com?page=7",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbAHrOzAVkNpXg9OhUHttPu_VLFGlYIxlCAdRNMiyAEp1iZ6s2mc93g_fHwvwIgMlEzi6NbgYVOyk2ygGfNBXEKoDoqleEUnugh6PYYALf3GOvNwaCKbTKzAPGhBFyfD6gO3HU53Y2mGDxtqH4w&ved=2ahUKEwjn7PCnkZaXAxURQ_EDHcKIHk8QFnoECEcQAQ&uoh=1",
+    "displayed_link": "https://au.trustpilot.com › ... › Lighting Store",
+    "favicon": "https://serpapi.com/images/i/UklGRsoAAABXRUJQVlA4IL4AAABQBQCdASocABwAPtFAtFooIqgoFAEAGglsAJ0y4sr21NIh0L_Wc9XnY51oZjrqPOOkIAAA_vaB2ebx-ZQJY40G7Ms4VgSg_dfZaQYtJgcWU-beznyIjhN1wYpjmozZyeMKizLM67K23cWxCdiZlwba-kk7-n1oZp5KD3cICp5uViEzGYmX6Luef9vGzPW-lMxUcuiCxFIiXQcD3jRZPkF5WMyiAjvwk-ss_LXRvy5ZDZMeqRp7EsP_UXPsgAAA.webp",
+    "snippet": "I love Pooky, my go-to retailer for lighting, slowly but surely taking over my house! Not necessarily the cheapest although their sales are well worth ...",
+    "snippet_highlighted_words": [
+     "my go-to retailer for lighting"
+    ],
+    "rich_snippet": {
+     "top": {
+      "detected_extensions": {
+       "rating": 4.6,
+       "reviews": 1359
+      },
+      "extensions": [
+       "4.6(1,359)"
+      ]
+     }
+    },
+    "about_this_result": {
+     "source": {
+      "description": "I love Pooky, my go-to retailer for lighting, slowly but surely taking over my house! Not necessarily the cheapest although their sales are well worth ...",
+      "source_info_link": "https://au.trustpilot.com/review/pooky.com?page=7",
+      "icon": "https://serpapi.com/images/i/UklGRsoAAABXRUJQVlA4IL4AAABQBQCdASocABwAPtFAtFooIqgoFAEAGglsAJ0y4sr21NIh0L_Wc9XnY51oZjrqPOOkIAAA_vaB2ebx-ZQJY40G7Ms4VgSg_dfZaQYtJgcWU-beznyIjhN1wYpjmozZyeMKizLM67K23cWxCdiZlwba-kk7-n1oZp5KD3cICp5uViEzGYmX6Luef9vGzPW-lMxUcuiCxFIiXQcD3jRZPkF5WMyiAjvwk-ss_LXRvy5ZDZMeqRp7EsP_UXPsgAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVmtOcFhnOU9oVUh0dFB1X1ZMRkdsWUl4bENBZFJOTWl5QUVwMWlaNnMybWM5M2dfZkh3dndJZ01sRXppNk5iZ1lWT3lrMnlnR2ZOQlhFS29Eb3FsZUVVbnVnaDZQWVlBTGYzR092TndhQ0tiVEt6QVBHaEJGeWZENmdPM0hVNTNZMm1HRHh0cUg0dxIEGgIIABrtAxIAGgAiACoAMgYIAxICdWs6AEIECAEQAEoAWgByAHoAgkDJAwgAEAAYACAAKhgKBXBvb2t5FdY2YkAaCml2O3A7cG9va3kqGQoCdWsVbZjCPxoOdW5pdGVkIGtpbmdkb20yoAEvZ290bz91cmw9Q0FFU2JBSHJPekFWa05wWGc5T2hVSHR0UHVfVkxGR2xZSXhsQ0FkUk5NaXlBRXAxaVo2czJtYzkzZ19mSHd2d0lnTWxFemk2TmJnWVZPeWsyeWdHZk5CWEVLb0RvcWxlRVVudWdoNlBZWUFMZjNHT3ZOd2FDS2JUS3pBUEdoQkZ5ZkQ2Z08zSFU1M1kybUdEeHRxSDR3Oj5SZWFkIEN1c3RvbWVyIFNlcnZpY2UgUmV2aWV3cyBvZiA8Yj5wb29reTwvYj4uY29tIC0gVHJ1c3RwaWxvdEKmAUkgbG92ZSBQb29reSwgPGI-bXkgZ28tdG8gcmV0YWlsZXIgZm9yIGxpZ2h0aW5nPC9iPiwgc2xvd2x5IGJ1dCBzdXJlbHkgdGFraW5nIG92ZXIgbXkgaG91c2UhIE5vdCBuZWNlc3NhcmlseSB0aGUgY2hlYXBlc3QgYWx0aG91Z2ggdGhlaXIgc2FsZXMgYXJlIHdlbGwgd29ydGgmbmJzcDsuLi4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVmtOcFhnOU9oVUh0dFB1X1ZMRkdsWUl4bENBZFJOTWl5QUVwMWlaNnMybWM5M2dfZkh3dndJZ01sRXppNk5iZ1lWT3lrMnlnR2ZOQlhFS29Eb3FsZUVVbnVnaDZQWVlBTGYzR092TndhQ0tiVEt6QVBHaEJGeWZENmdPM0hVNTNZMm1HRHh0cUg0dxIEGgIIABrtAxIAGgAiACoAMgYIAxICdWs6AEIECAEQAEoAWgByAHoAgkDJAwgAEAAYACAAKhgKBXBvb2t5FdY2YkAaCml2O3A7cG9va3kqGQoCdWsVbZjCPxoOdW5pdGVkIGtpbmdkb20yoAEvZ290bz91cmw9Q0FFU2JBSHJPekFWa05wWGc5T2hVSHR0UHVfVkxGR2xZSXhsQ0FkUk5NaXlBRXAxaVo2czJtYzkzZ19mSHd2d0lnTWxFemk2TmJnWVZPeWsyeWdHZk5CWEVLb0RvcWxlRVVudWdoNlBZWUFMZjNHT3ZOd2FDS2JUS3pBUEdoQkZ5ZkQ2Z08zSFU1M1kybUdEeHRxSDR3Oj5SZWFkIEN1c3RvbWVyIFNlcnZpY2UgUmV2aWV3cyBvZiA8Yj5wb29reTwvYj4uY29tIC0gVHJ1c3RwaWxvdEKmAUkgbG92ZSBQb29reSwgPGI-bXkgZ28tdG8gcmV0YWlsZXIgZm9yIGxpZ2h0aW5nPC9iPiwgc2xvd2x5IGJ1dCBzdXJlbHkgdGFraW5nIG92ZXIgbXkgaG91c2UhIE5vdCBuZWNlc3NhcmlseSB0aGUgY2hlYXBlc3QgYWx0aG91Z2ggdGhlaXIgc2FsZXMgYXJlIHdlbGwgd29ydGgmbmJzcDsuLi4iAhABSABYAGgA",
+    "source": "Trustpilot",
+    "read_more_link": "https://au.trustpilot.com/review/pooky.com?page=7#:~:text=I%20love%20Pooky%2C%20my%20go%2Dto,but%20the%20choice%20is%20amazing."
+   },
+   {
+    "position": 3,
+    "title": "Pooky Wall Light",
+    "link": "https://www.wayfair.co.uk/keyword.php?keyword=pooky+wall+light",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeQHrOzAVLngahuhlJp7M9hE3sPXgOPQFYoNnIhZ3zwlKam1DFRIu9vAFTckeWbGgigziXKDqJi2hnH5KZ-DpxeDNPJlIyVxG9HkORdT14iF69ylfHdQ5W2VhpbmHmi594jo4Vp7_lWQLGBsvbFpvCP1n4fimIVarWUA&ved=2ahUKEwjn7PCnkZaXAxURQ_EDHcKIHk8QFnoECEoQAQ&uoh=1",
+    "displayed_link": "https://www.wayfair.co.uk › keyword › keyword=pook...",
+    "favicon": "https://serpapi.com/images/i/UklGRjgBAABXRUJQVlA4ICwBAADQBgCdASocABwAPtE-tFooIigoFAEAGglsAJ0y42AIkBtgJpjb8vV_c1P7AHG1J7dQ_0hDVutFZoA-64YygAAA_tihOBQk-8-awQaKvrgmLkC8l6Y6taBgJdiU4O3CjblGsHKpBfRNfeWpubfuYD40kV9EDv-oGmZN_iktnkD3q62cooool6OkOsdBrgjYrcYKDfXlCL8_kcWWP-NO3Lb45cTwuZbjuLkUaTj_RQBpUL-0bGMIFbBQZ6BspAfy-zSTmn80rYFNh1MmykG85cIGY_HqMWIUR_luXDUFyy-NDTGL9z3dXyMwmzvNAl-82VFphrEM81L9efu7yV4N8T3LEZaR_qfH3_7MDv_W42orX1z34fdXr7tKbvBuU35FLVvr79gX6n-13UiQAAA.webp",
+    "snippet": "Add a touch of style to your lighting situation with this one-light wall sconce, which features a black and brass finish and an amber-tinted glass shade.",
+    "snippet_highlighted_words": [
+     "one-light wall sconce"
+    ],
+    "rich_snippet": {
+     "top": {
+      "detected_extensions": {
+       "rating": 4.1,
+       "day_returns": 30
+      },
+      "extensions": [
+       "4.1",
+       "store rating (51k)",
+       "30-day returns"
+      ]
+     }
+    },
+    "about_this_result": {
+     "source": {
+      "description": "Add a touch of style to your lighting situation with this one-light wall sconce, which features a black and brass finish and an amber-tinted glass shade.",
+      "source_info_link": "https://www.wayfair.co.uk/keyword.php?keyword=pooky+wall+light",
+      "icon": "https://serpapi.com/images/i/UklGRjgBAABXRUJQVlA4ICwBAADQBgCdASocABwAPtE-tFooIigoFAEAGglsAJ0y42AIkBtgJpjb8vV_c1P7AHG1J7dQ_0hDVutFZoA-64YygAAA_tihOBQk-8-awQaKvrgmLkC8l6Y6taBgJdiU4O3CjblGsHKpBfRNfeWpubfuYD40kV9EDv-oGmZN_iktnkD3q62cooool6OkOsdBrgjYrcYKDfXlCL8_kcWWP-NO3Lb45cTwuZbjuLkUaTj_RQBpUL-0bGMIFbBQZ6BspAfy-zSTmn80rYFNh1MmykG85cIGY_HqMWIUR_luXDUFyy-NDTGL9z3dXyMwmzvNAl-82VFphrEM81L9efu7yV4N8T3LEZaR_qfH3_7MDv_W42orX1z34fdXr7tKbvBuU35FLVvr79gX6n-13UiQAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVkxuZ2FodWhsSnA3TTloRTNzUFhnT1BRRllvTm5JaFozendsS2FtMURGUkl1OXZBRlRja2VXYkdnaWd6aVhLRHFKaTJobkg1S1otRHB4ZUROUEpsSXlWeEc5SGtPUmRUMTRpRjY5eWxmSGRRNVcyVmhwYm1IbWk1OTRqbzRWcDdfbFdRTEdCc3ZiRnB2Q1AxbjRmaW1JVmFyV1VBEgQaAggAGugDEgAaACIAKgAyBggBEgJ1azoAQgQIARAASgBaAHIAegCCQMQDCAAQABgAIAAqGAoFcG9va3kVAHIxQBoKaXY7cDtwb29reSoZCgJ1axWJNDBAGg51bml0ZWQga2luZ2RvbTKxAS9nb3RvP3VybD1DQUVTZVFIck96QVZMbmdhaHVobEpwN005aEUzc1BYZ09QUUZZb05uSWhaM3p3bEthbTFERlJJdTl2QUZUY2tlV2JHZ2lnemlYS0RxSmkyaG5INUtaLURweGVETlBKbEl5VnhHOUhrT1JkVDE0aUY2OXlsZkhkUTVXMlZocGJtSG1pNTk0am80VnA3X2xXUUxHQnN2YkZwdkNQMW40ZmltSVZhcldVQTouPGI-UG9va3k8L2I-IFdhbGwgTGlnaHQgfCBXYXlmYWlyLmNvLjxiPnVrPC9iPkKgAUFkZCBhIHRvdWNoIG9mIHN0eWxlIHRvIHlvdXIgbGlnaHRpbmcgc2l0dWF0aW9uIHdpdGggdGhpcyA8Yj5vbmUtbGlnaHQgd2FsbCBzY29uY2U8L2I-LCB3aGljaCBmZWF0dXJlcyBhIGJsYWNrIGFuZCBicmFzcyBmaW5pc2ggYW5kIGFuIGFtYmVyLXRpbnRlZCBnbGFzcyBzaGFkZS4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVkxuZ2FodWhsSnA3TTloRTNzUFhnT1BRRllvTm5JaFozendsS2FtMURGUkl1OXZBRlRja2VXYkdnaWd6aVhLRHFKaTJobkg1S1otRHB4ZUROUEpsSXlWeEc5SGtPUmRUMTRpRjY5eWxmSGRRNVcyVmhwYm1IbWk1OTRqbzRWcDdfbFdRTEdCc3ZiRnB2Q1AxbjRmaW1JVmFyV1VBEgQaAggAGugDEgAaACIAKgAyBggBEgJ1azoAQgQIARAASgBaAHIAegCCQMQDCAAQABgAIAAqGAoFcG9va3kVAHIxQBoKaXY7cDtwb29reSoZCgJ1axWJNDBAGg51bml0ZWQga2luZ2RvbTKxAS9nb3RvP3VybD1DQUVTZVFIck96QVZMbmdhaHVobEpwN005aEUzc1BYZ09QUUZZb05uSWhaM3p3bEthbTFERlJJdTl2QUZUY2tlV2JHZ2lnemlYS0RxSmkyaG5INUtaLURweGVETlBKbEl5VnhHOUhrT1JkVDE0aUY2OXlsZkhkUTVXMlZocGJtSG1pNTk0am80VnA3X2xXUUxHQnN2YkZwdkNQMW40ZmltSVZhcldVQTouPGI-UG9va3k8L2I-IFdhbGwgTGlnaHQgfCBXYXlmYWlyLmNvLjxiPnVrPC9iPkKgAUFkZCBhIHRvdWNoIG9mIHN0eWxlIHRvIHlvdXIgbGlnaHRpbmcgc2l0dWF0aW9uIHdpdGggdGhpcyA8Yj5vbmUtbGlnaHQgd2FsbCBzY29uY2U8L2I-LCB3aGljaCBmZWF0dXJlcyBhIGJsYWNrIGFuZCBicmFzcyBmaW5pc2ggYW5kIGFuIGFtYmVyLXRpbnRlZCBnbGFzcyBzaGFkZS4iAhABSABYAGgA",
+    "source": "Wayfair.co.uk",
+    "read_more_link": "https://www.wayfair.co.uk/keyword.php?keyword=pooky+wall+light#:~:text=Add%20to%20Basket"
+   },
+   {
+    "position": 4,
+    "title": "Pooky - Twister Wall Light",
+    "link": "https://ombralighting.co.uk/products/pooky-twister-wall-light",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeAHrOzAVoy6iTN-XZOGAzbGx-l0TbYnlnJ8_00JczxU0fCQ1PCWx4rX-GjRN4QMyEQY8571A5VjsRvKCCPMf05h2-sUbyGv6fN7it0dI4D-NlCkJFN3TjjJ4eVEXrKfWy2JhjZiM4pVH-O37ZHTTjyuV6Ks09g_8Bg&ved=2ahUKEwjn7PCnkZaXAxURQ_EDHcKIHk8QFnoECEgQAQ&uoh=1",
+    "displayed_link": "https://ombralighting.co.uk › products › pooky-twister-...",
+    "favicon": "https://serpapi.com/images/i/UklGRggBAABXRUJQVlA4IPwAAACQBQCdASocABwAPtEutFooIagoGAEAGglpAAUQHt0TAP1AHZqRBOwd_6QsSylcWNH2quGTAAD-9gm_giDNdojFVMIiW334g_peamOm1VjD2XMWF8qVtZu-04jnEnJ7Q4dNLfoKvLUT2vg38R48B8R_E3tB1Acb_EV_yfCjrE2HK5-NTtB1YKu0Pnnv_2wA18kFZE5Hs6_eO38YxAAdVnEc19mACwCLQrLVYnNHcHXS7kaT5afutrrxe9F5F-gMHazrnreSs9ALRss0Xr8aPxECh_2NX2yBfhn7Gt5YNYnww4smTtjCZ6miqeFE6ehD3cfJE7NKyFyAIzfsgAA.webp",
+    "snippet": "A cylinder of rippled glass swirls light into a shimmering dance, while the brass top and bottom add just the right amount of golden glamour.",
+    "snippet_highlighted_words": [
+     "A cylinder of rippled glass swirls light into a shimmering dance"
+    ],
+    "rich_snippet": {
+     "bottom": {
+      "detected_extensions": {
+       "price": 175.5,
+       "currency": "££",
+       "£_delivery": 4.99,
+       "day_returns": 14
+      },
+      "extensions": [
+       "£175.50£195",
+       "In stock",
+       "£4.99 delivery",
+       "14-day returns"
+      ]
+     }
+    },
+    "about_this_result": {
+     "source": {
+      "description": "A cylinder of rippled glass swirls light into a shimmering dance, while the brass top and bottom add just the right amount of golden glamour.",
+      "source_info_link": "https://ombralighting.co.uk/products/pooky-twister-wall-light",
+      "icon": "https://serpapi.com/images/i/UklGRggBAABXRUJQVlA4IPwAAACQBQCdASocABwAPtEutFooIagoGAEAGglpAAUQHt0TAP1AHZqRBOwd_6QsSylcWNH2quGTAAD-9gm_giDNdojFVMIiW334g_peamOm1VjD2XMWF8qVtZu-04jnEnJ7Q4dNLfoKvLUT2vg38R48B8R_E3tB1Acb_EV_yfCjrE2HK5-NTtB1YKu0Pnnv_2wA18kFZE5Hs6_eO38YxAAdVnEc19mACwCLQrLVYnNHcHXS7kaT5afutrrxe9F5F-gMHazrnreSs9ALRss0Xr8aPxECh_2NX2yBfhn7Gt5YNYnww4smTtjCZ6miqeFE6ehD3cfJE7NKyFyAIzfsgAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CrABL2dvdG8_dXJsPUNBRVNlQUhyT3pBVm95NmlUTi1YWk9HQXpiR3gtbDBUYllubG5KOF8wMEpjenhVMGZDUTFQQ1d4NHJYLUdqUk40UU15RVFZODU3MUE1VmpzUnZLQ0NQTWYwNWgyLXNVYnlHdjZmTjdpdDBkSTRELU5sQ2tKRk4zVGpqSjRlVkVYcktmV3kySmhqWmlNNHBWSC1PMzdaSFRUanl1VjZLczA5Z184QmcSBBoCCAAazgMSABoAIgAqADIGCAESAnVrOgBCBAgBEABKAFoAcgB6AIJAqgMIABAAGAAgACoYCgVwb29reRWOK3hAGgppdjtwO3Bvb2t5KhkKAnVrFSKPRj8aDnVuaXRlZCBraW5nZG9tMrABL2dvdG8_dXJsPUNBRVNlQUhyT3pBVm95NmlUTi1YWk9HQXpiR3gtbDBUYllubG5KOF8wMEpjenhVMGZDUTFQQ1d4NHJYLUdqUk40UU15RVFZODU3MUE1VmpzUnZLQ0NQTWYwNWgyLXNVYnlHdjZmTjdpdDBkSTRELU5sQ2tKRk4zVGpqSjRlVkVYcktmV3kySmhqWmlNNHBWSC1PMzdaSFRUanl1VjZLczA5Z184Qmc6ITxiPlBvb2t5PC9iPiAtIFR3aXN0ZXIgV2FsbCBMaWdodEKUATxiPkEgY3lsaW5kZXIgb2YgcmlwcGxlZCBnbGFzcyBzd2lybHMgbGlnaHQgaW50byBhIHNoaW1tZXJpbmcgZGFuY2U8L2I-LCB3aGlsZSB0aGUgYnJhc3MgdG9wIGFuZCBib3R0b20gYWRkIGp1c3QgdGhlIHJpZ2h0IGFtb3VudCBvZiBnb2xkZW4gZ2xhbW91ci4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CrABL2dvdG8_dXJsPUNBRVNlQUhyT3pBVm95NmlUTi1YWk9HQXpiR3gtbDBUYllubG5KOF8wMEpjenhVMGZDUTFQQ1d4NHJYLUdqUk40UU15RVFZODU3MUE1VmpzUnZLQ0NQTWYwNWgyLXNVYnlHdjZmTjdpdDBkSTRELU5sQ2tKRk4zVGpqSjRlVkVYcktmV3kySmhqWmlNNHBWSC1PMzdaSFRUanl1VjZLczA5Z184QmcSBBoCCAAazgMSABoAIgAqADIGCAESAnVrOgBCBAgBEABKAFoAcgB6AIJAqgMIABAAGAAgACoYCgVwb29reRWOK3hAGgppdjtwO3Bvb2t5KhkKAnVrFSKPRj8aDnVuaXRlZCBraW5nZG9tMrABL2dvdG8_dXJsPUNBRVNlQUhyT3pBVm95NmlUTi1YWk9HQXpiR3gtbDBUYllubG5KOF8wMEpjenhVMGZDUTFQQ1d4NHJYLUdqUk40UU15RVFZODU3MUE1VmpzUnZLQ0NQTWYwNWgyLXNVYnlHdjZmTjdpdDBkSTRELU5sQ2tKRk4zVGpqSjRlVkVYcktmV3kySmhqWmlNNHBWSC1PMzdaSFRUanl1VjZLczA5Z184Qmc6ITxiPlBvb2t5PC9iPiAtIFR3aXN0ZXIgV2FsbCBMaWdodEKUATxiPkEgY3lsaW5kZXIgb2YgcmlwcGxlZCBnbGFzcyBzd2lybHMgbGlnaHQgaW50byBhIHNoaW1tZXJpbmcgZGFuY2U8L2I-LCB3aGlsZSB0aGUgYnJhc3MgdG9wIGFuZCBib3R0b20gYWRkIGp1c3QgdGhlIHJpZ2h0IGFtb3VudCBvZiBnb2xkZW4gZ2xhbW91ci4iAhABSABYAGgA",
+    "source": "Ombra Lighting"
+   },
+   {
+    "position": 5,
+    "title": "Pooky a Lighting Store in London for Lamp Light and Lighting ...",
+    "link": "https://www.youtube.com/watch?v=1pxJN9IqAk0",
+    "displayed_link": "150+ views · 9 years ago",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpXiD8xYbZ7w83tbxppVGVDGYyDj333xdwN99IK71oSR_Jpg7gNt74fA&s",
+    "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+    "snippet": "Pooky is a new lighting brand offering stylish and affordable table and floor lamps, combined with unbeatable customer service. 5 Chelsea Wharf ...",
+    "duration": "0:42",
+    "about_this_result": {
+     "source": {
+      "description": "Pooky is a new lighting brand offering stylish and affordable table and floor lamps, combined with unbeatable customer service. 5 Chelsea Wharf ...",
+      "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+     }
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVmt1RFYyRHZ2NzFYWWFYQkxTQWpmN3pZX3E5a2RFSjJPU3JHSjFfVUZNMUREUHpMZEpaM0tlVjhsUTY2akt3ZHhkWlFRRU9xTXlicnhBamhNdHZTckZmRWRYVHBiNVpMakR3NWI4Zjd6SHA5dG95NXlfeFRacGZXRkRiTnNINjBHRkESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVmt1RFYyRHZ2NzFYWWFYQkxTQWpmN3pZX3E5a2RFSjJPU3JHSjFfVUZNMUREUHpMZEpaM0tlVjhsUTY2akt3ZHhkWlFRRU9xTXlicnhBamhNdHZTckZmRWRYVHBiNVpMakR3NWI4Zjd6SHA5dG95NXlfeFRacGZXRkRiTnNINjBHRkESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+    "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQ81_vfevuU-YLdIZFAvGCLyKSmvy0qScUp6g",
+    "source": "YouTube · Big Review TV"
+   },
+   {
+    "position": 6,
+    "title": "POOKY LIMITED more information - Companies House",
+    "link": "https://find-and-update.company-information.service.gov.uk/company/08290145/more",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiwEB6zswFRRYWXOReqzslwqGJ1gzXoOouO22E7nb-0TS63A0yxkiYlJU2oDKqIPC9WAMfWYLGmGgMQU-JYZzM9ejyTWSqPOnYDMbv1tx4OnmnKZItVmP-AwJ-hcbmlt5v92Q14TDpr-cs7-Qbf6U87eD3mG74FehMpJtAmWaY_OOXUxcnvGQ-w__oDJ9&ved=2ahUKEwjn7PCnkZaXAxURQ_EDHcKIHk8QFnoECEYQAQ&uoh=1",
+    "displayed_link": "https://find-and-update.company-information.service.gov.uk › ...",
+    "favicon": "https://serpapi.com/images/i/UklGRhgBAABXRUJQVlA4IAwBAAAwBgCdASocABwAPtE-tFooIigoFAEAGgloAJ0yhHp496oAiAFWyZytQAMtBxxeoo0v-ukyi91RSUmAAP5tq_b9aeTUksslz1bykvnoSeNsDcPyo5M_1_OL_N6zZIdLehoX_zUl-ET4KtFrXLBT8kc4tQu5oC8i_ugLTiU5sHmdS6vQ9o-_zd3Trc_rtaTl4-ncTsepxs0eCTVPA9c0v4EPxd1_zGFFZTm-3TgDWGON9_V8467cPT_lIoXVJCYHBvAamqBBmH12TC3ezccMwXyjcyz50b6euvyUReqT5RY2mJ-Kuu3NW7x52cE5EN9f1Y-44VHb19inO6ikqhd0FPC5piGcBUzPXX0ogAAA.webp",
+    "snippet": "POOKY LIMITED - Free company information from Companies House including registered office address, filing history, accounts, annual return, officers, ...",
+    "snippet_highlighted_words": [
+     "POOKY LIMITED"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "POOKY LIMITED - Free company information from Companies House including registered office address, filing history, accounts, annual return, officers, ...",
+      "source_info_link": "https://find-and-update.company-information.service.gov.uk/company/08290145/more",
+      "icon": "https://serpapi.com/images/i/UklGRhgBAABXRUJQVlA4IAwBAAAwBgCdASocABwAPtE-tFooIigoFAEAGgloAJ0yhHp496oAiAFWyZytQAMtBxxeoo0v-ukyi91RSUmAAP5tq_b9aeTUksslz1bykvnoSeNsDcPyo5M_1_OL_N6zZIdLehoX_zUl-ET4KtFrXLBT8kc4tQu5oC8i_ugLTiU5sHmdS6vQ9o-_zd3Trc_rtaTl4-ncTsepxs0eCTVPA9c0v4EPxd1_zGFFZTm-3TgDWGON9_V8467cPT_lIoXVJCYHBvAamqBBmH12TC3ezccMwXyjcyz50b6euvyUReqT5RY2mJ-Kuu3NW7x52cE5EN9f1Y-44VHb19inO6ikqhd0FPC5piGcBUzPXX0ogAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CsoBL2dvdG8_dXJsPUNBRVNpd0VCNnpzd0ZSUllXWE9SZXF6c2x3cUdKMWd6WG9Pb3VPMjJFN25iLTBUUzYzQTB5eGtpWWxKVTJvREtxSVBDOVdBTWZXWUxHbUdnTVFVLUpZWnpNOWVqeVRXU3FQT25ZRE1idjF0eDRPbm1uS1pJdFZtUC1Bd0otaGNibWx0NXY5MlExNFREcHItY3M3LVFiZjZVODdlRDNtRzc0RmVoTXBKdEFtV2FZX09PWFV4Y252R1Etd19fb0RKORIEGgIIABqPBBIAGgAiACoAMgYIARICdWs6AEIECAEQAEoAWgByAHoAgkDrAwgAEAAYACAAKhgKBXBvb2t5FVSLeEAaCml2O3A7cG9va3kqGQoCdWsVVQxTQBoOdW5pdGVkIGtpbmdkb20yygEvZ290bz91cmw9Q0FFU2l3RUI2enN3RlJSWVdYT1JlcXpzbHdxR0oxZ3pYb09vdU8yMkU3bmItMFRTNjNBMHl4a2lZbEpVMm9ES3FJUEM5V0FNZldZTEdtR2dNUVUtSllaek05ZWp5VFdTcVBPbllETWJ2MXR4NE9ubW5LWkl0Vm1QLUF3Si1oY2JtbHQ1djkyUTE0VERwci1jczctUWJmNlU4N2VEM21HNzRGZWhNcEp0QW1XYVlfT09YVXhjbnZHUS13X19vREo5Ojc8Yj5QT09LWTwvYj4gTElNSVRFRCBtb3JlIGluZm9ybWF0aW9uIC0gQ29tcGFuaWVzIEhvdXNlQqUBPGI-UE9PS1kgTElNSVRFRDwvYj4gLSBGcmVlIGNvbXBhbnkgaW5mb3JtYXRpb24gZnJvbSBDb21wYW5pZXMgSG91c2UgaW5jbHVkaW5nIHJlZ2lzdGVyZWQgb2ZmaWNlIGFkZHJlc3MsIGZpbGluZyBoaXN0b3J5LCBhY2NvdW50cywgYW5udWFsIHJldHVybiwgb2ZmaWNlcnMsJm5ic3A7Li4uIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CsoBL2dvdG8_dXJsPUNBRVNpd0VCNnpzd0ZSUllXWE9SZXF6c2x3cUdKMWd6WG9Pb3VPMjJFN25iLTBUUzYzQTB5eGtpWWxKVTJvREtxSVBDOVdBTWZXWUxHbUdnTVFVLUpZWnpNOWVqeVRXU3FQT25ZRE1idjF0eDRPbm1uS1pJdFZtUC1Bd0otaGNibWx0NXY5MlExNFREcHItY3M3LVFiZjZVODdlRDNtRzc0RmVoTXBKdEFtV2FZX09PWFV4Y252R1Etd19fb0RKORIEGgIIABqPBBIAGgAiACoAMgYIARICdWs6AEIECAEQAEoAWgByAHoAgkDrAwgAEAAYACAAKhgKBXBvb2t5FVSLeEAaCml2O3A7cG9va3kqGQoCdWsVVQxTQBoOdW5pdGVkIGtpbmdkb20yygEvZ290bz91cmw9Q0FFU2l3RUI2enN3RlJSWVdYT1JlcXpzbHdxR0oxZ3pYb09vdU8yMkU3bmItMFRTNjNBMHl4a2lZbEpVMm9ES3FJUEM5V0FNZldZTEdtR2dNUVUtSllaek05ZWp5VFdTcVBPbllETWJ2MXR4NE9ubW5LWkl0Vm1QLUF3Si1oY2JtbHQ1djkyUTE0VERwci1jczctUWJmNlU4N2VEM21HNzRGZWhNcEp0QW1XYVlfT09YVXhjbnZHUS13X19vREo5Ojc8Yj5QT09LWTwvYj4gTElNSVRFRCBtb3JlIGluZm9ybWF0aW9uIC0gQ29tcGFuaWVzIEhvdXNlQqUBPGI-UE9PS1kgTElNSVRFRDwvYj4gLSBGcmVlIGNvbXBhbnkgaW5mb3JtYXRpb24gZnJvbSBDb21wYW5pZXMgSG91c2UgaW5jbHVkaW5nIHJlZ2lzdGVyZWQgb2ZmaWNlIGFkZHJlc3MsIGZpbGluZyBoaXN0b3J5LCBhY2NvdW50cywgYW5udWFsIHJldHVybiwgb2ZmaWNlcnMsJm5ic3A7Li4uIgIQAUgAWABoAA",
+    "source": "Find and update company information"
+   },
+   {
+    "position": 7,
+    "title": "Kips Bay Decorator Show House | Pooky Lighting, a UK ...",
+    "link": "https://www.instagram.com/p/DUqs7C8ls_N/",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVNOdfsn0wUxAFIiARWe0Fk3wCfkDNctm_ZZPP5p7jWrmYjNVNw6sNF_otMIPk1ACeEwXV_GldDHQ8idLe8w0GYKfxZg_1yMQpewLYWd7eYchI9_OZCLq_a4Q9o1T4IA&ved=2ahUKEwjn7PCnkZaXAxURQ_EDHcKIHk8QFnoECEwQAQ&uoh=1",
+    "displayed_link": "100+ likes · 7 months ago",
+    "favicon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+    "snippet": "Pooky Lighting, a UK-based brand that made its U.S. debut last year, is renowned for delivering beautifully crafted, affordable lighting",
+    "snippet_highlighted_words": [
+     "Pooky Lighting, a UK-based brand"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Pooky Lighting, a UK-based brand that made its U.S. debut last year, is renowned for delivering beautifully crafted, affordable lighting",
+      "source_info_link": "https://www.instagram.com/p/DUqs7C8ls_N/",
+      "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVk5PZGZzbjB3VXhBRklpQVJXZTBGazN3Q2ZrRE5jdG1fWlpQUDVwN2pXcm1Zak5WTnc2c05GX290TUlQazFBQ2VFd1hWX0dsZERIUThpZExlOHcwR1lLZnhaZ18xeU1RcGV3TFlXZDdlWWNoSTlfT1pDTHFfYTRROW8xVDRJQRIEGgIIABrSAxIAGgAiACoAMgYIAhICdWs6AEIECAEQAEoAWgByAHoAgkCuAwgAEAAYACAAKhgKBXBvb2t5FRqTgUAaCml2O3A7cG9va3kqGQoCdWsV-HxIQBoOdW5pdGVkIGtpbmdkb20ylAEvZ290bz91cmw9Q0FFU1l3SHJPekFWTk9kZnNuMHdVeEFGSWlBUldlMEZrM3dDZmtETmN0bV9aWlBQNXA3aldybVlqTlZOdzZzTkZfb3RNSVBrMUFDZUV3WFZfR2xkREhROGlkTGU4dzBHWUtmeFpnXzF5TVFwZXdMWVdkN2VZY2hJOV9PWkNMcV9hNFE5bzFUNElBOkZLaXBzIEJheSBEZWNvcmF0b3IgU2hvdyBIb3VzZSB8IDxiPlBvb2t5PC9iPiBMaWdodGluZywgYSA8Yj5VSzwvYj4gLi4uQo8BPGI-UG9va3kgTGlnaHRpbmcsIGEgVUstYmFzZWQgYnJhbmQ8L2I-IHRoYXQgbWFkZSBpdHMgVS5TLiBkZWJ1dCBsYXN0IHllYXIsIGlzIHJlbm93bmVkIGZvciBkZWxpdmVyaW5nIGJlYXV0aWZ1bGx5IGNyYWZ0ZWQsIGFmZm9yZGFibGUgbGlnaHRpbmciAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVk5PZGZzbjB3VXhBRklpQVJXZTBGazN3Q2ZrRE5jdG1fWlpQUDVwN2pXcm1Zak5WTnc2c05GX290TUlQazFBQ2VFd1hWX0dsZERIUThpZExlOHcwR1lLZnhaZ18xeU1RcGV3TFlXZDdlWWNoSTlfT1pDTHFfYTRROW8xVDRJQRIEGgIIABrSAxIAGgAiACoAMgYIAhICdWs6AEIECAEQAEoAWgByAHoAgkCuAwgAEAAYACAAKhgKBXBvb2t5FRqTgUAaCml2O3A7cG9va3kqGQoCdWsV-HxIQBoOdW5pdGVkIGtpbmdkb20ylAEvZ290bz91cmw9Q0FFU1l3SHJPekFWTk9kZnNuMHdVeEFGSWlBUldlMEZrM3dDZmtETmN0bV9aWlBQNXA3aldybVlqTlZOdzZzTkZfb3RNSVBrMUFDZUV3WFZfR2xkREhROGlkTGU4dzBHWUtmeFpnXzF5TVFwZXdMWVdkN2VZY2hJOV9PWkNMcV9hNFE5bzFUNElBOkZLaXBzIEJheSBEZWNvcmF0b3IgU2hvdyBIb3VzZSB8IDxiPlBvb2t5PC9iPiBMaWdodGluZywgYSA8Yj5VSzwvYj4gLi4uQo8BPGI-UG9va3kgTGlnaHRpbmcsIGEgVUstYmFzZWQgYnJhbmQ8L2I-IHRoYXQgbWFkZSBpdHMgVS5TLiBkZWJ1dCBsYXN0IHllYXIsIGlzIHJlbm93bmVkIGZvciBkZWxpdmVyaW5nIGJlYXV0aWZ1bGx5IGNyYWZ0ZWQsIGFmZm9yZGFibGUgbGlnaHRpbmciAhABSABYAGgA",
+    "source": "Instagram · kbshowhouse"
+   },
+   {
+    "position": 8,
+    "title": "Pooky Brass Lamp Size 40cm",
+    "link": "https://www.ebay.co.uk/itm/158166066434",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYgHrOzAVP9T-dP6593h3Wb8GqHDYN8ZKcnsv4TKiVQV5HkEc5NK_G9CocLye8SGApWR_MvgZuLDoIm0aT789HmKtccOUIS2URA3au5rHh-7Clz24JoObBDgRYzL1mc9aCb-T&ved=2ahUKEwjn7PCnkZaXAxURQ_EDHcKIHk8QFnoECE8QAQ&uoh=1",
+    "displayed_link": "https://www.ebay.co.uk › ... › Lighting › Lamps",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAYElEQVR4AWPAAdSBeDsQf4bi7WAxIoEKEL8C4kwg5oHiTKiYCjEGrAPiHCzi-RA5wuAz2FZMIAGRwwT_KcGUG_DUyOI_MmZIuYSCv65nQsFtO8SR8WAwYNQAytPBwBsAAPa7ZDmnz9wtAAAAAElFTkSuQmCC.png",
+    "snippet": "The Pooky Brass Lamp, measuring 40cm in size, is a stylish and energy-efficient ceiling light. Made from high-quality brass. Price £62.58or",
+    "snippet_highlighted_words": [
+     "stylish and energy-efficient ceiling light"
+    ],
+    "rich_snippet": {
+     "bottom": {
+      "detected_extensions": {
+       "price": 60.0,
+       "currency": "£"
+      },
+      "extensions": [
+       "£60.00",
+       "Out of stock"
+      ]
+     }
+    },
+    "about_this_result": {
+     "source": {
+      "description": "The Pooky Brass Lamp, measuring 40cm in size, is a stylish and energy-efficient ceiling light. Made from high-quality brass. Price £62.58or",
+      "source_info_link": "https://www.ebay.co.uk/itm/158166066434",
+      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAYElEQVR4AWPAAdSBeDsQf4bi7WAxIoEKEL8C4kwg5oHiTKiYCjEGrAPiHCzi-RA5wuAz2FZMIAGRwwT_KcGUG_DUyOI_MmZIuYSCv65nQsFtO8SR8WAwYNQAytPBwBsAAPa7ZDmnz9wtAAAAAElFTkSuQmCC.png"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CpIBL2dvdG8_dXJsPUNBRVNZZ0hyT3pBVlA5VC1kUDY1OTNoM1diOEdxSERZTjhaS2Nuc3Y0VEtpVlFWNUhrRWM1TktfRzlDb2NMeWU4U0dBcFdSX012Z1p1TERvSW0wYVQ3ODlIbUt0Y2NPVUlTMlVSQTNhdTVySGgtN0NsejI0Sm9PYkJEZ1JZekwxbWM5YUNiLVQSBBoCCAAauQMSABoAIgAqADIGCAESAnVrOgBCBAgBEABKAFoAcgB6AIJAlQMIABAAGAAgACoYCgVwb29reRVq8YFAGgppdjtwO3Bvb2t5KhkKAnVrFeJGQ0AaDnVuaXRlZCBraW5nZG9tMpIBL2dvdG8_dXJsPUNBRVNZZ0hyT3pBVlA5VC1kUDY1OTNoM1diOEdxSERZTjhaS2Nuc3Y0VEtpVlFWNUhrRWM1TktfRzlDb2NMeWU4U0dBcFdSX012Z1p1TERvSW0wYVQ3ODlIbUt0Y2NPVUlTMlVSQTNhdTVySGgtN0NsejI0Sm9PYkJEZ1JZekwxbWM5YUNiLVQ6KzxiPlBvb2t5PC9iPiBCcmFzcyBMYW1wIFNpemUgNDBjbSAtIGVCYXkgVUtCkwFUaGUgUG9va3kgQnJhc3MgTGFtcCwgbWVhc3VyaW5nIDQwY20gaW4gc2l6ZSwgaXMgYSA8Yj5zdHlsaXNoIGFuZCBlbmVyZ3ktZWZmaWNpZW50IGNlaWxpbmcgbGlnaHQ8L2I-LiBNYWRlIGZyb20gaGlnaC1xdWFsaXR5IGJyYXNzLiBQcmljZSDCozYyLjU4b3IiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CpIBL2dvdG8_dXJsPUNBRVNZZ0hyT3pBVlA5VC1kUDY1OTNoM1diOEdxSERZTjhaS2Nuc3Y0VEtpVlFWNUhrRWM1TktfRzlDb2NMeWU4U0dBcFdSX012Z1p1TERvSW0wYVQ3ODlIbUt0Y2NPVUlTMlVSQTNhdTVySGgtN0NsejI0Sm9PYkJEZ1JZekwxbWM5YUNiLVQSBBoCCAAauQMSABoAIgAqADIGCAESAnVrOgBCBAgBEABKAFoAcgB6AIJAlQMIABAAGAAgACoYCgVwb29reRVq8YFAGgppdjtwO3Bvb2t5KhkKAnVrFeJGQ0AaDnVuaXRlZCBraW5nZG9tMpIBL2dvdG8_dXJsPUNBRVNZZ0hyT3pBVlA5VC1kUDY1OTNoM1diOEdxSERZTjhaS2Nuc3Y0VEtpVlFWNUhrRWM1TktfRzlDb2NMeWU4U0dBcFdSX012Z1p1TERvSW0wYVQ3ODlIbUt0Y2NPVUlTMlVSQTNhdTVySGgtN0NsejI0Sm9PYkJEZ1JZekwxbWM5YUNiLVQ6KzxiPlBvb2t5PC9iPiBCcmFzcyBMYW1wIFNpemUgNDBjbSAtIGVCYXkgVUtCkwFUaGUgUG9va3kgQnJhc3MgTGFtcCwgbWVhc3VyaW5nIDQwY20gaW4gc2l6ZSwgaXMgYSA8Yj5zdHlsaXNoIGFuZCBlbmVyZ3ktZWZmaWNpZW50IGNlaWxpbmcgbGlnaHQ8L2I-LiBNYWRlIGZyb20gaGlnaC1xdWFsaXR5IGJyYXNzLiBQcmljZSDCozYyLjU4b3IiAhABSABYAGgA",
+    "source": "eBay UK"
+   }
+  ],
+  "pagination": {
+   "current": 1,
+   "next": "https://www.google.co.uk/search?q=Pooky+UK&sca_esv=d0c3879c3aba1c72&hl=en&gl=uk&sxsrf=APpeQnur4k5GclzAFBTz70zKUbDCq64s9Q:1790765491311&ei=s-m8aqfHEpGGxc8PwpH6-AQ&start=10&sa=N&sstk=AS6-VmJ5tGpEnkgUWG04JZATKy9CQqyGqSkzYiDT-nORV_SybOqF_4bVRaVSNfI0GBHockpbi5PsYycLiCSSBnBsQfMeQCxDGceGZQ&ved=2ahUKEwjn7PCnkZaXAxURQ_EDHcKIHk8Q8NMDegQIZhAI",
+   "other_pages": {
+    "2": "https://www.google.co.uk/search?q=Pooky+UK&sca_esv=d0c3879c3aba1c72&hl=en&gl=uk&sxsrf=APpeQnur4k5GclzAFBTz70zKUbDCq64s9Q:1790765491311&ei=s-m8aqfHEpGGxc8PwpH6-AQ&start=10&sa=N&sstk=AS6-VmJ5tGpEnkgUWG04JZATKy9CQqyGqSkzYiDT-nORV_SybOqF_4bVRaVSNfI0GBHockpbi5PsYycLiCSSBnBsQfMeQCxDGceGZQ&ved=2ahUKEwjn7PCnkZaXAxURQ_EDHcKIHk8Q8tMDegQIZhAE",
+    "3": "https://www.google.co.uk/search?q=Pooky+UK&sca_esv=d0c3879c3aba1c72&hl=en&gl=uk&sxsrf=APpeQnur4k5GclzAFBTz70zKUbDCq64s9Q:1790765491311&ei=s-m8aqfHEpGGxc8PwpH6-AQ&start=20&sa=N&sstk=AS6-VmJ5tGpEnkgUWG04JZATKy9CQqyGqSkzYiDT-nORV_SybOqF_4bVRaVSNfI0GBHockpbi5PsYycLiCSSBnBsQfMeQCxDGceGZQ&ved=2ahUKEwjn7PCnkZaXAxURQ_EDHcKIHk8Q8tMDegQIZhAG"
+   }
+  },
+  "serpapi_pagination": {
+   "current": 1,
+   "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&q=Pooky+UK&start=10",
+   "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&q=Pooky+UK&start=10",
+   "other_pages": {
+    "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&q=Pooky+UK&start=10",
+    "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&q=Pooky+UK&start=20"
+   }
+  }
+ }
+}

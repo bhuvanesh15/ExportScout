@@ -1,0 +1,22 @@
+# Demo Mode products. Costs are illustrative inputs for the demo, not real quotes.
+# image_path is relative to demo_cache/.
+- id: lantern
+  label: Brass hurricane lantern
+  inputs:
+    # image_path: images/lantern.jpg   # add once the photo is in demo_cache/images/
+    description: brass hurricane lantern
+    unit_cost_inr: 650
+    extra_costs_inr: 60
+    moq: 200
+    material: brass
+    finish: antique gold
+- id: planter
+  label: Hammered brass planter
+  inputs:
+    # image_path: images/planter.jpg
+    description: hammered brass planter
+    unit_cost_inr: 420
+    extra_costs_inr: 40
+    moq: 300
+    material: brass
+    finish: hammered gold

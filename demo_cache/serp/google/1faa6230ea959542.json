@@ -1,0 +1,495 @@
+{
+ "engine": "google",
+ "params": {
+  "q": "Gravel Pit UK",
+  "gl": "uk",
+  "hl": "en",
+  "google_domain": "google.co.uk"
+ },
+ "fetched_at": "2026-09-30T10:56:06+00:00",
+ "data": {
+  "search_metadata": {
+   "id": "6abceac53c99ba8c78748d2e",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/J2qQMnlH7BjnLH124G4ldA3FqhcFd2ojCF5x_fvHcro/6abceac53c99ba8c78748d2e.json",
+   "markdown_endpoint": "https://serpapi.com/searches/J2qQMnlH7BjnLH124G4ldA3FqhcFd2ojCF5x_fvHcro/6abceac53c99ba8c78748d2e.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/J2qQMnlH7BjnLH124G4ldA3FqhcFd2ojCF5x_fvHcro/6abceac53c99ba8c78748d2e.json_with_pixel_position",
+   "created_at": "2026-09-30 10:56:05 UTC",
+   "processed_at": "2026-09-30 10:56:05 UTC",
+   "google_url": "https://www.google.co.uk/search?q=Gravel+Pit+UK&oq=Gravel+Pit+UK&hl=en&gl=uk&sourceid=chrome&ie=UTF-8",
+   "raw_html_file": "https://serpapi.com/searches/J2qQMnlH7BjnLH124G4ldA3FqhcFd2ojCF5x_fvHcro/6abceac53c99ba8c78748d2e.html",
+   "total_time_taken": 0.73
+  },
+  "search_parameters": {
+   "engine": "google",
+   "q": "Gravel Pit UK",
+   "google_domain": "google.co.uk",
+   "hl": "en",
+   "gl": "uk",
+   "device": "desktop"
+  },
+  "search_information": {
+   "query_displayed": "Gravel Pit UK",
+   "total_results": 104000,
+   "time_taken_displayed": 0.43,
+   "organic_results_state": "Results for exact spelling"
+  },
+  "local_map": {
+   "link": "https://www.google.co.uk/search?q=Gravel+Pit+UK&sca_esv=d0c3879c3aba1c72&hl=en&gl=uk&sxsrf=APpeQntYb5f0kmJCrsihSYKu7ZOCbIMVFg:1790765765482&udm=local&lsack=xeq8aqD8HOjS5NoPlKi54AU&sa=X&ved=2ahUKEwjg8s6qkpaXAxVoKVkFHRRUDlwQtgN6BAg0EAM",
+   "image": "https://serpapi.com/searches/6abceac53c99ba8c78748d2e/images/KmchncPI2DDSz6BwNBunxQ.png",
+   "gps_coordinates": {
+    "latitude": 53.30462107510271,
+    "longitude": -1.29638671875
+   }
+  },
+  "local_results": {
+   "places": [
+    {
+     "position": 1,
+     "title": "Heidelberg Materials Aggregates - Pottal Pool Quarry",
+     "type": "Sand and Gravel Supplier",
+     "rating": 4.2,
+     "reviews": 27,
+     "links": {
+      "phone": "tel:0330 123 0762",
+      "website": "https://www.heidelbergmaterials.co.uk/en/aggregates/pottal-pool-quarry?utm_source=ExtNet&utm_medium=Yext"
+     },
+     "place_id": "7147864633968616864",
+     "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&ludocid=7147864633968616864&q=Gravel+Pit+UK",
+     "provider_id": "/g/11bc7cgg_s",
+     "gps_coordinates": {
+      "latitude": 52.732947,
+      "longitude": -2.036568
+     },
+     "address": "Staffordshire, Penkridge, Stafford ST19 5RR",
+     "hours": "Open · Closes 5 pm",
+     "phone": "0330 123 0762"
+    },
+    {
+     "position": 2,
+     "title": "Sand Hutton Gravel Pits",
+     "type": "Fishing pond",
+     "rating": 3.8,
+     "reviews": 16,
+     "links": {
+      "phone": "tel:01904 612990",
+      "website": "http://www.ydaa.org.uk/"
+     },
+     "place_id": "3314738799118353513",
+     "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&ludocid=3314738799118353513&q=Gravel+Pit+UK",
+     "provider_id": "/g/11c0rpmtkn",
+     "gps_coordinates": {
+      "latitude": 54.01642,
+      "longitude": -0.952667
+     },
+     "address": "Unnamed Rd, Sand Hutton, York",
+     "phone": "01904 612990"
+    },
+    {
+     "position": 3,
+     "title": "Quarry Walk Park",
+     "type": "Holiday park",
+     "rating": 4.4,
+     "reviews": 598,
+     "description": "Rustic cabins with hot tubs",
+     "links": {
+      "phone": "tel:01538 723412",
+      "website": "http://www.quarrywalkpark.co.uk/"
+     },
+     "place_id": "11740423278010883727",
+     "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&ludocid=11740423278010883727&q=Gravel+Pit+UK",
+     "provider_id": "/g/1tl9m31b",
+     "gps_coordinates": {
+      "latitude": 52.961097,
+      "longitude": -1.937229
+     },
+     "address": "Coppice Ln, Freehay, Alton, Stoke-on-Trent ST10 1RQ",
+     "phone": "01538 723412"
+    }
+   ],
+   "more_locations_link": "https://www.google.co.uk/search?q=Gravel+Pit+UK&sca_esv=d0c3879c3aba1c72&hl=en&gl=uk&sxsrf=APpeQntYb5f0kmJCrsihSYKu7ZOCbIMVFg:1790765765482&udm=local&lsack=xeq8aqD8HOjS5NoPlKi54AU&sa=X&ved=2ahUKEwjg8s6qkpaXAxVoKVkFHRRUDlwQjGp6BAgzEAE"
+  },
+  "knowledge_graph": {
+   "place_id": "ChIJnW1-FgJ1ekgRoOVGegNRMmM"
+  },
+  "related_questions": [
+   {
+    "question": "What does the slang term \"gravel pit\" mean?",
+    "type": "ai_overview",
+    "page_token": "8JMxe3icHdBRcqIwAADQ6WX6qUaFHZ1xdhYNIGuwBBKS_OyEpAolhLTFYvnbu-ypeprO7DvC-_vPNLb9erjXw-Det_P5OI6za99fzfNM9bNbO5fvn1bNlTSmkqrd-j988POidvB2DPavxyAjztEDXuRM54gav7J0zYv6VJaeL1qyOJXtdGIh0BEFKNTFOU5a3R0HFDlL9gBxoAcUO5xHfJDMyOIAx8LySVIyyuLXnUy0ycs7S0vvkkLsnaN7UC2TPKNpxEuvxys1qrjecxr4ebgpRXQcNQSQRJjpZR3rQvzmnaAyDm6oE011CDIBN7aajJcV9BMxQXUcHLjRLF96p2fmiMyBhbVeCwbXnIXwDOsnaRAouk1WwcGlBQ4o7puM4Em9mI4skkEsRcJA2pUv1zWOXFPR8I3bwKpVgs4QlHp8vKiP3erx_-fuz6Ubtu6tv34DigOC5Q",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=8JMxe3icHdBRcqIwAADQ6WX6qUaFHZ1xdhYNIGuwBBKS_OyEpAolhLTFYvnbu-ypeprO7DvC-_vPNLb9erjXw-Det_P5OI6za99fzfNM9bNbO5fvn1bNlTSmkqrd-j988POidvB2DPavxyAjztEDXuRM54gav7J0zYv6VJaeL1qyOJXtdGIh0BEFKNTFOU5a3R0HFDlL9gBxoAcUO5xHfJDMyOIAx8LySVIyyuLXnUy0ycs7S0vvkkLsnaN7UC2TPKNpxEuvxys1qrjecxr4ebgpRXQcNQSQRJjpZR3rQvzmnaAyDm6oE011CDIBN7aajJcV9BMxQXUcHLjRLF96p2fmiMyBhbVeCwbXnIXwDOsnaRAouk1WwcGlBQ4o7puM4Em9mI4skkEsRcJA2pUv1zWOXFPR8I3bwKpVgs4QlHp8vKiP3erx_-fuz6Ubtu6tv34DigOC5Q",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1lsb3dRekZJTlc5U1FVZzJjMTl3YVZkWWFVcEtaMnB0YldwUGFsSkpWRFpQVjJ4cVJrNUJWRE5MYTFoQlZHSXpYM1l0VkhCcVVrTjRUSHBLY0dOM2VXUlBhRTk1Y214U2VFTjVZelI2WjJFMmVFaHpYMjA0UVhaMmR4SVhlR1Z4T0dGeFJEaElUMnBUTlU1dlVHeExhVFUwUVZVYUlrRkVjM0k1WmxKc2RGOTNkVmQxYzJGelgyWTNUR0Z0UjBWbVZVVjJMVEJwU0ZFIiwiZmN2IjoiMyIsImVpIjoieGVxOGFxRDhIT2pTNU5vUGxLaTU0QVUiLCJxYyI6IkNnMW5jbUYyWld3Z2NHbDBJSFZyRUFCOUZJTlRQdyIsInF1ZXN0aW9uIjoiV2hhdCBkb2VzIHRoZSBzbGFuZyB0ZXJtIFwiZ3JhdmVsIHBpdFwiIG1lYW4/IiwibGsiOiJHaGhuY21GMlpXd2djR2wwSUcxbFlXNXBibWNnYzJ4aGJtYyIsImJzIjoiYzMyT3NRckNNQlJGY1gyVGc0by1VUzlkT3dqWm5JS2Jmb0Z6SUktbTBDU2xDZWIzbFE1V1FWM3ZPUWN1WGFtLU9aTmhveVJrSjBpZENRMnlEQjVWTTVpN2RPamJYTUdMQ1ZveHI2ZHgzTnFuUFRaMHB2MGxGbGlSSG1ZUS1KZ3lKanRwZGVDZC0yZlFpWGg4MHlhWWdOalpONnJWbGpmbEY2VWpMVl9wUjdYaVJma0M1ck1IIiwiaWQiOiJmY194ZXE4YXFEOEhPalM1Tm9QbEtpNTRBVV8zIn0=",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1lsb3dRekZJTlc5U1FVZzJjMTl3YVZkWWFVcEtaMnB0YldwUGFsSkpWRFpQVjJ4cVJrNUJWRE5MYTFoQlZHSXpYM1l0VkhCcVVrTjRUSHBLY0dOM2VXUlBhRTk1Y214U2VFTjVZelI2WjJFMmVFaHpYMjA0UVhaMmR4SVhlR1Z4T0dGeFJEaElUMnBUTlU1dlVHeExhVFUwUVZVYUlrRkVjM0k1WmxKc2RGOTNkVmQxYzJGelgyWTNUR0Z0UjBWbVZVVjJMVEJwU0ZFIiwiZmN2IjoiMyIsImVpIjoieGVxOGFxRDhIT2pTNU5vUGxLaTU0QVUiLCJxYyI6IkNnMW5jbUYyWld3Z2NHbDBJSFZyRUFCOUZJTlRQdyIsInF1ZXN0aW9uIjoiV2hhdCBkb2VzIHRoZSBzbGFuZyB0ZXJtIFwiZ3JhdmVsIHBpdFwiIG1lYW4%2FIiwibGsiOiJHaGhuY21GMlpXd2djR2wwSUcxbFlXNXBibWNnYzJ4aGJtYyIsImJzIjoiYzMyT3NRckNNQlJGY1gyVGc0by1VUzlkT3dqWm5JS2Jmb0Z6SUktbTBDU2xDZWIzbFE1V1FWM3ZPUWN1WGFtLU9aTmhveVJrSjBpZENRMnlEQjVWTTVpN2RPamJYTUdMQ1ZveHI2ZHgzTnFuUFRaMHB2MGxGbGlSSG1ZUS1KZ3lKanRwZGVDZC0yZlFpWGg4MHlhWWdOalpONnJWbGpmbEY2VWpMVl9wUjdYaVJma0M1ck1IIiwiaWQiOiJmY194ZXE4YXFEOEhPalM1Tm9QbEtpNTRBVV8zIn0%3D"
+   },
+   {
+    "question": "How deep are most gravel pits?",
+    "type": "ai_overview",
+    "page_token": "c8j_UHicHdDdboIwGIDh7GY8VH7UBROzDCkIGXWUtiAnS_lQqxRhAxU5273sqnY1M7uBN0_e7x91PJe_T73suqZdTCa32218qOuD2o2hHl_KiWjvZ5iAUCoXUC7mz3P9ZQ9LdPHt1advR6xpuEM06nVxHOt4R8kb6NjJNXcfUz4FQ5G3JCC7klBY-wM2JOOUCzFkjFXFFcq-DE17Gxl9vVnbAUmzjA6K48o6haa8c93vk_NrL5D6Ck-BA6mcE8_VQjNQ2Vo2NFGCJ8zIjZkLa9ZvtaDjjnvfsS4Fr0gfbYM55ZBx3MIZmWRwT5xFt4RbsRiwDZ5UWLfavGpnhaaTVFNmZMxsJItplqLpNnXRBsl3oUKdVlaUo67BlNic1MeIkQFOquKe5eeMPGzqPa4ylGuzVehgWlA5BdfyM725RtFoD9elOfr_ufzYV92i-aoPf4vEgkg",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=c8j_UHicHdDdboIwGIDh7GY8VH7UBROzDCkIGXWUtiAnS_lQqxRhAxU5273sqnY1M7uBN0_e7x91PJe_T73suqZdTCa32218qOuD2o2hHl_KiWjvZ5iAUCoXUC7mz3P9ZQ9LdPHt1advR6xpuEM06nVxHOt4R8kb6NjJNXcfUz4FQ5G3JCC7klBY-wM2JOOUCzFkjFXFFcq-DE17Gxl9vVnbAUmzjA6K48o6haa8c93vk_NrL5D6Ck-BA6mcE8_VQjNQ2Vo2NFGCJ8zIjZkLa9ZvtaDjjnvfsS4Fr0gfbYM55ZBx3MIZmWRwT5xFt4RbsRiwDZ5UWLfavGpnhaaTVFNmZMxsJItplqLpNnXRBsl3oUKdVlaUo67BlNic1MeIkQFOquKe5eeMPGzqPa4ylGuzVehgWlA5BdfyM725RtFoD9elOfr_ufzYV92i-aoPf4vEgkg",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1lsb3dRekZJTlc5U1FVZzJjMTl3YVZkWWFVcEtaMnB0YldwUGFsSkpWRFpQVjJ4cVJrNUJWRE5MYTFoQlZHSXpYM1l0VkhCcVVrTjRUSHBLY0dOM2VXUlBhRTk1Y214U2VFTjVZelI2WjJFMmVFaHpYMjA0UVhaMmR4SVhlR1Z4T0dGeFJEaElUMnBUTlU1dlVHeExhVFUwUVZVYUlrRkVjM0k1WmxKc2RGOTNkVmQxYzJGelgyWTNUR0Z0UjBWbVZVVjJMVEJwU0ZFIiwiZmN2IjoiMyIsImVpIjoieGVxOGFxRDhIT2pTNU5vUGxLaTU0QVUiLCJxYyI6IkNnMW5jbUYyWld3Z2NHbDBJSFZyRUFCOUZJTlRQdyIsInF1ZXN0aW9uIjoiSG93IGRlZXAgYXJlIG1vc3QgZ3JhdmVsIHBpdHM/IiwibGsiOiJHaDFvYjNjZ1pHVmxjQ0JoY21VZ2JXOXpkQ0JuY21GMlpXd2djR2wwY3ciLCJicyI6ImMzMk9zUXJDTUJSRmNYMlRnNG8tVVM5ZE93alpuSUtiZm9GeklJLW0wQ1NsQ2ViM2xRNVdRVjN2T1FjdVhhbS1PWk5ob3lSa0owaWRDUTJ5REI1Vk01aTdkT2piWE1HTENWb3hyNmR4M05xblBUWjBwdjBsRmxpUkhtWVEtSmd5Smp0cGRlQ2QtMmZRaVhoODB5YVlnTmpaTjZyVmxqZmxGNlVqTFZfcFI3WGlSZmtDNXJNSCIsImlkIjoiZmNfeGVxOGFxRDhIT2pTNU5vUGxLaTU0QVVfMyJ9",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1lsb3dRekZJTlc5U1FVZzJjMTl3YVZkWWFVcEtaMnB0YldwUGFsSkpWRFpQVjJ4cVJrNUJWRE5MYTFoQlZHSXpYM1l0VkhCcVVrTjRUSHBLY0dOM2VXUlBhRTk1Y214U2VFTjVZelI2WjJFMmVFaHpYMjA0UVhaMmR4SVhlR1Z4T0dGeFJEaElUMnBUTlU1dlVHeExhVFUwUVZVYUlrRkVjM0k1WmxKc2RGOTNkVmQxYzJGelgyWTNUR0Z0UjBWbVZVVjJMVEJwU0ZFIiwiZmN2IjoiMyIsImVpIjoieGVxOGFxRDhIT2pTNU5vUGxLaTU0QVUiLCJxYyI6IkNnMW5jbUYyWld3Z2NHbDBJSFZyRUFCOUZJTlRQdyIsInF1ZXN0aW9uIjoiSG93IGRlZXAgYXJlIG1vc3QgZ3JhdmVsIHBpdHM%2FIiwibGsiOiJHaDFvYjNjZ1pHVmxjQ0JoY21VZ2JXOXpkQ0JuY21GMlpXd2djR2wwY3ciLCJicyI6ImMzMk9zUXJDTUJSRmNYMlRnNG8tVVM5ZE93alpuSUtiZm9GeklJLW0wQ1NsQ2ViM2xRNVdRVjN2T1FjdVhhbS1PWk5ob3lSa0owaWRDUTJ5REI1Vk01aTdkT2piWE1HTENWb3hyNmR4M05xblBUWjBwdjBsRmxpUkhtWVEtSmd5Smp0cGRlQ2QtMmZRaVhoODB5YVlnTmpaTjZyVmxqZmxGNlVqTFZfcFI3WGlSZmtDNXJNSCIsImlkIjoiZmNfeGVxOGFxRDhIT2pTNU5vUGxLaTU0QVVfMyJ9"
+   },
+   {
+    "question": "What is an old gravel pit?",
+    "type": "ai_overview",
+    "page_token": "Fx3PGHicHdDbboIwAADQ7Gd8FArMqYlZRChGpY5Li_RloUVEWi4OHZe3_cu-al-zZX9wcr6-5bUSP080v9-bdqkoXddNL3V9kecpr6cPoSTtUHGFJ1KyhIvl7GUGXjO-stvO3NSd6eGmIZavBgUUPmlAWKR7IhdWaLmjK-sBaamLLHok5cJwJfGIlRupCiA_QfMQIduHZhRHaU_KueGNqHYLGbBtnp20BQ4LSsOyb5HwkasLgxXrIRZpnAA4oyrpWNkI3zJ17PR7v6IaBjVwnecCa_SN6WlIt3TDInlzVeJE-E-h9Qemr40AzAcu4wDqueRhnnPsGYG9uOGRHBkw20ATANmQONed6W_RcIwoZiPEXgQ3KJQ7JP3xXO5IsjX1sEKPcyXugaD6JOOfK33yP7Z6z8r7svmoL7-JKXhG",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Fx3PGHicHdDbboIwAADQ7Gd8FArMqYlZRChGpY5Li_RloUVEWi4OHZe3_cu-al-zZX9wcr6-5bUSP080v9-bdqkoXddNL3V9kecpr6cPoSTtUHGFJ1KyhIvl7GUGXjO-stvO3NSd6eGmIZavBgUUPmlAWKR7IhdWaLmjK-sBaamLLHok5cJwJfGIlRupCiA_QfMQIduHZhRHaU_KueGNqHYLGbBtnp20BQ4LSsOyb5HwkasLgxXrIRZpnAA4oyrpWNkI3zJ17PR7v6IaBjVwnecCa_SN6WlIt3TDInlzVeJE-E-h9Qemr40AzAcu4wDqueRhnnPsGYG9uOGRHBkw20ATANmQONed6W_RcIwoZiPEXgQ3KJQ7JP3xXO5IsjX1sEKPcyXugaD6JOOfK33yP7Z6z8r7svmoL7-JKXhG",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1lsb3dRekZJTlc5U1FVZzJjMTl3YVZkWWFVcEtaMnB0YldwUGFsSkpWRFpQVjJ4cVJrNUJWRE5MYTFoQlZHSXpYM1l0VkhCcVVrTjRUSHBLY0dOM2VXUlBhRTk1Y214U2VFTjVZelI2WjJFMmVFaHpYMjA0UVhaMmR4SVhlR1Z4T0dGeFJEaElUMnBUTlU1dlVHeExhVFUwUVZVYUlrRkVjM0k1WmxKc2RGOTNkVmQxYzJGelgyWTNUR0Z0UjBWbVZVVjJMVEJwU0ZFIiwiZmN2IjoiMyIsImVpIjoieGVxOGFxRDhIT2pTNU5vUGxLaTU0QVUiLCJxYyI6IkNnMW5jbUYyWld3Z2NHbDBJSFZyRUFCOUZJTlRQdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBhbiBvbGQgZ3JhdmVsIHBpdD8iLCJsayI6IkdobDNhR0YwSUdseklHRnVJRzlzWkNCbmNtRjJaV3dnY0dsMCIsImJzIjoiYzMyT3NRckNNQlJGY1gyVGc0by1VUzlkT3dqWm5JS2Jmb0Z6SUktbTBDU2xDZWIzbFE1V1FWM3ZPUWN1WGFtLU9aTmhveVJrSjBpZENRMnlEQjVWTTVpN2RPamJYTUdMQ1ZveHI2ZHgzTnFuUFRaMHB2MGxGbGlSSG1ZUS1KZ3lKanRwZGVDZC0yZlFpWGg4MHlhWWdOalpONnJWbGpmbEY2VWpMVl9wUjdYaVJma0M1ck1IIiwiaWQiOiJmY194ZXE4YXFEOEhPalM1Tm9QbEtpNTRBVV8zIn0=",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1lsb3dRekZJTlc5U1FVZzJjMTl3YVZkWWFVcEtaMnB0YldwUGFsSkpWRFpQVjJ4cVJrNUJWRE5MYTFoQlZHSXpYM1l0VkhCcVVrTjRUSHBLY0dOM2VXUlBhRTk1Y214U2VFTjVZelI2WjJFMmVFaHpYMjA0UVhaMmR4SVhlR1Z4T0dGeFJEaElUMnBUTlU1dlVHeExhVFUwUVZVYUlrRkVjM0k1WmxKc2RGOTNkVmQxYzJGelgyWTNUR0Z0UjBWbVZVVjJMVEJwU0ZFIiwiZmN2IjoiMyIsImVpIjoieGVxOGFxRDhIT2pTNU5vUGxLaTU0QVUiLCJxYyI6IkNnMW5jbUYyWld3Z2NHbDBJSFZyRUFCOUZJTlRQdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBhbiBvbGQgZ3JhdmVsIHBpdD8iLCJsayI6IkdobDNhR0YwSUdseklHRnVJRzlzWkNCbmNtRjJaV3dnY0dsMCIsImJzIjoiYzMyT3NRckNNQlJGY1gyVGc0by1VUzlkT3dqWm5JS2Jmb0Z6SUktbTBDU2xDZWIzbFE1V1FWM3ZPUWN1WGFtLU9aTmhveVJrSjBpZENRMnlEQjVWTTVpN2RPamJYTUdMQ1ZveHI2ZHgzTnFuUFRaMHB2MGxGbGlSSG1ZUS1KZ3lKanRwZGVDZC0yZlFpWGg4MHlhWWdOalpONnJWbGpmbEY2VWpMVl9wUjdYaVJma0M1ck1IIiwiaWQiOiJmY194ZXE4YXFEOEhPalM1Tm9QbEtpNTRBVV8zIn0%3D"
+   },
+   {
+    "question": "What is a gravel pit?",
+    "type": "ai_overview",
+    "page_token": "Jh3INXicHdBdboIwAADg7DI-KgV1mYlZhhaUBNT-AX1ZoKA1LYLCLPC2u-xUO82SfUf4vn_09aZ-X7jsuqZdzWbGmOmlri-6nIp6-qVmWTvcxExkWueZUKvl6xK8n8Uatsbd1MY90aZhW2Rh4N5wFey51WQ5DAemigrfXFNS5Gd276VJvQht5mdaevnIjjlBlPlcxz4fERDzg98OacKcECJD474hRCbYZo9Q9c-UeWOcpFZKF37mL1puh1ZElVOw1CR22jNL45MC9wzWI0vQU6humcfgSLa8IrsCEKr6wgmGZERz7HHNgGdz8oE9R2pBpBT0NMfw7U5HdsiB22JbgQh6zL8GLtpFwyHmNK28jsLelESCEhZ7askNVcGJ76KF2MIhiiWanMVz7Uz-x9af56pbNY_68gfYyXmo",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Jh3INXicHdBdboIwAADg7DI-KgV1mYlZhhaUBNT-AX1ZoKA1LYLCLPC2u-xUO82SfUf4vn_09aZ-X7jsuqZdzWbGmOmlri-6nIp6-qVmWTvcxExkWueZUKvl6xK8n8Uatsbd1MY90aZhW2Rh4N5wFey51WQ5DAemigrfXFNS5Gd276VJvQht5mdaevnIjjlBlPlcxz4fERDzg98OacKcECJD474hRCbYZo9Q9c-UeWOcpFZKF37mL1puh1ZElVOw1CR22jNL45MC9wzWI0vQU6humcfgSLa8IrsCEKr6wgmGZERz7HHNgGdz8oE9R2pBpBT0NMfw7U5HdsiB22JbgQh6zL8GLtpFwyHmNK28jsLelESCEhZ7askNVcGJ76KF2MIhiiWanMVz7Uz-x9af56pbNY_68gfYyXmo",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1lsb3dRekZJTlc5U1FVZzJjMTl3YVZkWWFVcEtaMnB0YldwUGFsSkpWRFpQVjJ4cVJrNUJWRE5MYTFoQlZHSXpYM1l0VkhCcVVrTjRUSHBLY0dOM2VXUlBhRTk1Y214U2VFTjVZelI2WjJFMmVFaHpYMjA0UVhaMmR4SVhlR1Z4T0dGeFJEaElUMnBUTlU1dlVHeExhVFUwUVZVYUlrRkVjM0k1WmxKc2RGOTNkVmQxYzJGelgyWTNUR0Z0UjBWbVZVVjJMVEJwU0ZFIiwiZmN2IjoiMyIsImVpIjoieGVxOGFxRDhIT2pTNU5vUGxLaTU0QVUiLCJxYyI6IkNnMW5jbUYyWld3Z2NHbDBJSFZyRUFCOUZJTlRQdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBhIGdyYXZlbCBwaXQ/IiwibGsiOiJHaFIzYUdGMElHbHpJR0VnWjNKaGRtVnNJSEJwZEEiLCJicyI6ImMzMk9zUXJDTUJSRmNYMlRnNG8tVVM5ZE93alpuSUtiZm9GeklJLW0wQ1NsQ2ViM2xRNVdRVjN2T1FjdVhhbS1PWk5ob3lSa0owaWRDUTJ5REI1Vk01aTdkT2piWE1HTENWb3hyNmR4M05xblBUWjBwdjBsRmxpUkhtWVEtSmd5Smp0cGRlQ2QtMmZRaVhoODB5YVlnTmpaTjZyVmxqZmxGNlVqTFZfcFI3WGlSZmtDNXJNSCIsImlkIjoiZmNfeGVxOGFxRDhIT2pTNU5vUGxLaTU0QVVfMyJ9",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1lsb3dRekZJTlc5U1FVZzJjMTl3YVZkWWFVcEtaMnB0YldwUGFsSkpWRFpQVjJ4cVJrNUJWRE5MYTFoQlZHSXpYM1l0VkhCcVVrTjRUSHBLY0dOM2VXUlBhRTk1Y214U2VFTjVZelI2WjJFMmVFaHpYMjA0UVhaMmR4SVhlR1Z4T0dGeFJEaElUMnBUTlU1dlVHeExhVFUwUVZVYUlrRkVjM0k1WmxKc2RGOTNkVmQxYzJGelgyWTNUR0Z0UjBWbVZVVjJMVEJwU0ZFIiwiZmN2IjoiMyIsImVpIjoieGVxOGFxRDhIT2pTNU5vUGxLaTU0QVUiLCJxYyI6IkNnMW5jbUYyWld3Z2NHbDBJSFZyRUFCOUZJTlRQdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBhIGdyYXZlbCBwaXQ%2FIiwibGsiOiJHaFIzYUdGMElHbHpJR0VnWjNKaGRtVnNJSEJwZEEiLCJicyI6ImMzMk9zUXJDTUJSRmNYMlRnNG8tVVM5ZE93alpuSUtiZm9GeklJLW0wQ1NsQ2ViM2xRNVdRVjN2T1FjdVhhbS1PWk5ob3lSa0owaWRDUTJ5REI1Vk01aTdkT2piWE1HTENWb3hyNmR4M05xblBUWjBwdjBsRmxpUkhtWVEtSmd5Smp0cGRlQ2QtMmZRaVhoODB5YVlnTmpaTjZyVmxqZmxGNlVqTFZfcFI3WGlSZmtDNXJNSCIsImlkIjoiZmNfeGVxOGFxRDhIT2pTNU5vUGxLaTU0QVVfMyJ9"
+   }
+  ],
+  "ai_overview": {
+   "page_token": "pb7O7niczVXddqo4FH6AeY7h5rTyI7bYtVhnJZEq9fhDrbXODQsDDRQQJSi1d_MU8wLzVPM0E6AoWmnXORezZiOJSXZ29t7ZH9-ffwfe0v_nt7_cJFnRG55P07RBoogETgNHjY3PW3S3xPxzFNAYu9_dQHWWHAnUjc_RaBNjx7NV7MZR6HC7rdrkMFUFzvHUV2etWOuO0hu9TFrDaBz0vZYMplxuTjUXFnVe2HmvL5Q3edb4vzc7bNCgDWdpdmED0rQFu5IhyqQhCWK7MeKtkOmA_1AMDegAsr7o6gQBoH1tLFMxAMpslULQYamQTmEvO5PkE_3aI_VsF2SPDnLVsfzacikzMS2VJvUeG6yZl4M07yAsTpxkTpGv43kXCN5TA429a7Win58udqLKofMPq-esDY7HEYAdGRgGLF04uZVJNSqoZVFmGiwZl51XAFOvJtnvG9jvAfT86PMQc0eQrpTpALeUXarO24QVr8AvYtaJvIddnP-JaVbT6KEtRF37CY8ftelTco-VR9q57NLJZk29UdsweLxgekFk2Y5tuqbwPR-LktgS2s1r5SLHE6Z7QNEqoEbRfTpci2060Bo_GlAsoYT2F3ISkMbG6Nxdscyicxv2VsqMVzZ7qFpNZXGy8vZ1pqanhzWi6eOs75YTI3ahAOIq9MoDMpPnoHSkVECJ5IWlFwWmH7bvVab6wRCpLnX8j0F--A4gBNKiXI1OnhdISgeMkzQhMNHZWjkLj1FmQOC5WhYWnDCnaa6Gj-pf0O4PIaPSn6zgtfcjpwdzeatXoIRYfaO84oeZFR8RH-rMWQiKvJAcFLlE5OT6tSqYKh4hFiOc1kL0UyF134Mj0UvMnECgCp1ecOW4AXrcPA7wLfQfm5I13fb6z3FLAuehEoWLnyMf_P_CU0lN03dqqseT9jWesk_hZ9SUN3tqIpMCT_16PGn6gZpIhZqEUulATad4QpMKntAu0yDw9jw1_Sye0Cd40j_DUxbpOTwZdXjKqekIT3en1HSEpz01lXj6NWrSf42acng5RXfMU5sXUstXmiDhvvxmueGcJpuQWtKls5BiIYE--JKvnsPkJrTs4ML07Bso3SU7-8JkE9GNY3NrtRtbWyf4NvaSb9M-FwZxpAqWfGldtYxuU1maE2nTJOO5FerpcD6TB2KIvJUlm_LWXfVXrjuaoT_gUzhYJO3njd7xUdejynrW3eJVH9z3tk-JoChCi1hXpmzc7ZLrhx5aty8VvFaaI6s3DjdvO_tKf1sFP9pvO7nnAFcY3-FV8DJb9voP4mCh3I5o7hhVd85sPfWeZ_czgwtjrLI7kAkYGmBGWL2hOeMBwt6IvSl7rxh4IUexZTp0q9oCbirXbdy0FpaIryUuJMlupcoiR5exKv4LA6lGWw",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=pb7O7niczVXddqo4FH6AeY7h5rTyI7bYtVhnJZEq9fhDrbXODQsDDRQQJSi1d_MU8wLzVPM0E6AoWmnXORezZiOJSXZ29t7ZH9-ffwfe0v_nt7_cJFnRG55P07RBoogETgNHjY3PW3S3xPxzFNAYu9_dQHWWHAnUjc_RaBNjx7NV7MZR6HC7rdrkMFUFzvHUV2etWOuO0hu9TFrDaBz0vZYMplxuTjUXFnVe2HmvL5Q3edb4vzc7bNCgDWdpdmED0rQFu5IhyqQhCWK7MeKtkOmA_1AMDegAsr7o6gQBoH1tLFMxAMpslULQYamQTmEvO5PkE_3aI_VsF2SPDnLVsfzacikzMS2VJvUeG6yZl4M07yAsTpxkTpGv43kXCN5TA429a7Win58udqLKofMPq-esDY7HEYAdGRgGLF04uZVJNSqoZVFmGiwZl51XAFOvJtnvG9jvAfT86PMQc0eQrpTpALeUXarO24QVr8AvYtaJvIddnP-JaVbT6KEtRF37CY8ftelTco-VR9q57NLJZk29UdsweLxgekFk2Y5tuqbwPR-LktgS2s1r5SLHE6Z7QNEqoEbRfTpci2060Bo_GlAsoYT2F3ISkMbG6Nxdscyicxv2VsqMVzZ7qFpNZXGy8vZ1pqanhzWi6eOs75YTI3ahAOIq9MoDMpPnoHSkVECJ5IWlFwWmH7bvVab6wRCpLnX8j0F--A4gBNKiXI1OnhdISgeMkzQhMNHZWjkLj1FmQOC5WhYWnDCnaa6Gj-pf0O4PIaPSn6zgtfcjpwdzeatXoIRYfaO84oeZFR8RH-rMWQiKvJAcFLlE5OT6tSqYKh4hFiOc1kL0UyF134Mj0UvMnECgCp1ecOW4AXrcPA7wLfQfm5I13fb6z3FLAuehEoWLnyMf_P_CU0lN03dqqseT9jWesk_hZ9SUN3tqIpMCT_16PGn6gZpIhZqEUulATad4QpMKntAu0yDw9jw1_Sye0Cd40j_DUxbpOTwZdXjKqekIT3en1HSEpz01lXj6NWrSf42acng5RXfMU5sXUstXmiDhvvxmueGcJpuQWtKls5BiIYE--JKvnsPkJrTs4ML07Bso3SU7-8JkE9GNY3NrtRtbWyf4NvaSb9M-FwZxpAqWfGldtYxuU1maE2nTJOO5FerpcD6TB2KIvJUlm_LWXfVXrjuaoT_gUzhYJO3njd7xUdejynrW3eJVH9z3tk-JoChCi1hXpmzc7ZLrhx5aty8VvFaaI6s3DjdvO_tKf1sFP9pvO7nnAFcY3-FV8DJb9voP4mCh3I5o7hhVd85sPfWeZ_czgwtjrLI7kAkYGmBGWL2hOeMBwt6IvSl7rxh4IUexZTp0q9oCbirXbdy0FpaIryUuJMlupcoiR5exKv4LA6lGWw"
+  },
+  "organic_results": [
+   {
+    "position": 1,
+    "title": "GRAVEL PIT - Heritage Gateway Record",
+    "link": "https://historicengland.org.uk/listing/heritage-gateway/results/record/00514065-b008-44ba-a64b-c2fc78241ee5/MBD2878",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESrgEB6zswFfXoBfAGie46cGWVliWC_Y06VINYVABv-5dAkOvbdv4aiQdl4oDGJhtwDMkimRAOBYb-bbMef-zAu0aEVOlcVPXjfykEZkOXUPTS6PB57MFSNTZziPywMfBpkO2HfjZu4foqiGa4ajSYC1tONXeAfo_YaFq6_DQxt3nKD9CS5bpGb_OxcFFVr8G96QlMKoMPUXgrs2pDrJq-rdhXby_9BbK75LwyO5Huos0&ved=2ahUKEwjg8s6qkpaXAxVoKVkFHRRUDlwQFnoECCgQAQ&uoh=1",
+    "displayed_link": "https://historicengland.org.uk › record › MBD2878",
+    "favicon": "https://serpapi.com/images/i/UklGRjABAABXRUJQVlA4ICQBAAAwBgCdASocABwAPtEutFooIagoGAEAGglsAHeTcVxYBvNZKqPHo9g_WYcbXjv5OzoIONqZYPswBNgAAP72Av_Usl6cGrCO9gCbDepEspzB9pebS0-haemGk5p8nKIoOaCWMokW06VkEZFj-lXWAHqDioeGvyoc6Bof_ycD9RqoL8GdpoLL037f5TDFgT4ZV2MpBpI5-stskkmom4RLpDBIXrT307ZcDx0f8xUyE3hEBH4ECFj8jxpn83_v_n_n7eUd9qcfg3rnF-bQQHwz8wLnSonLgB6o1v4vioKNe19G7MPowrzI69ZPNBanNwfwPrWMsVr6uXf663UdRu4FOoONKPH9f9x2CjM_tKxeiSeNJeGw0SPf8vTuHAiLxe3LV52yqAAA.webp",
+    "snippet": "Gravel Pit ; County: Bedfordshire ; District: Bedford ; Parish: Bletsoe ; Easting / Northing: 502090, 258880 ; Latitude / Longitude: 52.218682, -0.507031.",
+    "snippet_highlighted_words": [
+     "Gravel Pit"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Gravel Pit ; County: Bedfordshire ; District: Bedford ; Parish: Bletsoe ; Easting / Northing: 502090, 258880 ; Latitude / Longitude: 52.218682, -0.507031.",
+      "source_info_link": "https://historicengland.org.uk/listing/heritage-gateway/results/record/00514065-b008-44ba-a64b-c2fc78241ee5/MBD2878",
+      "icon": "https://serpapi.com/images/i/UklGRjABAABXRUJQVlA4ICQBAAAwBgCdASocABwAPtEutFooIagoGAEAGglsAHeTcVxYBvNZKqPHo9g_WYcbXjv5OzoIONqZYPswBNgAAP72Av_Usl6cGrCO9gCbDepEspzB9pebS0-haemGk5p8nKIoOaCWMokW06VkEZFj-lXWAHqDioeGvyoc6Bof_ycD9RqoL8GdpoLL037f5TDFgT4ZV2MpBpI5-stskkmom4RLpDBIXrT307ZcDx0f8xUyE3hEBH4ECFj8jxpn83_v_n_n7eUd9qcfg3rnF-bQQHwz8wLnSonLgB6o1v4vioKNe19G7MPowrzI69ZPNBanNwfwPrWMsVr6uXf663UdRu4FOoONKPH9f9x2CjM_tKxeiSeNJeGw0SPf8vTuHAiLxe3LV52yqAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CvkBL2dvdG8_dXJsPUNBRVNyZ0VCNnpzd0ZmWG9CZkFHaWU0NmNHV1ZsaVdDX1kwNlZJTllWQUJ2LTVkQWtPdmJkdjRhaVFkbDRvREdKaHR3RE1raW1SQU9CWWItYmJNZWYtekF1MGFFVk9sY1ZQWGpmeWtFWmtPWFVQVFM2UEI1N01GU05UWnppUHl3TWZCcGtPMkhmalp1NGZvcWlHYTRhalNZQzF0T05YZUFmb19ZYUZxNl9EUXh0M25LRDlDUzVicEdiX094Y0ZGVnI4Rzk2UWxNS29NUFVYZ3JzMnBEckpxLXJkaFhieV85QmJLNzVMd3lPNUh1b3MwEgQaAggAGqMFEgAaACIAKgAyBggBEgJ1azoAQgQIARAASgBaAHIAegCCQP8ECAAQABgAIAAqLQoGZ3JhdmVsFSNmWkAaBnF1YXJyeRoJZ3JhdmVscGl0GgtpdjtwO2dyYXZlbCo0CgNwaXQVI2ZaQBoEcGl0cxoGcXVhcnJ5GglncmF2ZWxwaXQaBXBpdHVrGghpdjtwO3BpdCopCgJ1axUEhZQ_GgdlbmdsYW5kGg51bml0ZWQga2luZ2RvbRoFcGl0dWsy-QEvZ290bz91cmw9Q0FFU3JnRUI2enN3RmZYb0JmQUdpZTQ2Y0dXVmxpV0NfWTA2VklOWVZBQnYtNWRBa092YmR2NGFpUWRsNG9ER0podHdETWtpbVJBT0JZYi1iYk1lZi16QXUwYUVWT2xjVlBYamZ5a0Vaa09YVVBUUzZQQjU3TUZTTlRaemlQeXdNZkJwa08ySGZqWnU0Zm9xaUdhNGFqU1lDMXRPTlhlQWZvX1lhRnE2X0RReHQzbktEOUNTNWJwR2JfT3hjRkZWcjhHOTZRbE1Lb01QVVhncnMycERySnEtcmRoWGJ5XzlCYks3NUx3eU81SHVvczA6RTxiPkdSQVZFTCBQSVQ8L2I-IC0gSGVyaXRhZ2UgR2F0ZXdheSBSZWNvcmQgfCBIaXN0b3JpYyA8Yj5FbmdsYW5kPC9iPkKhATxiPkdyYXZlbCBQaXQ8L2I-IDsgQ291bnR5OiBCZWRmb3Jkc2hpcmUgOyBEaXN0cmljdDogQmVkZm9yZCA7IFBhcmlzaDogQmxldHNvZSA7IEVhc3RpbmcgLyBOb3J0aGluZzogNTAyMDkwLCAyNTg4ODAgOyBMYXRpdHVkZSAvIExvbmdpdHVkZTogNTIuMjE4NjgyLCAtMC41MDcwMzEuIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CvkBL2dvdG8_dXJsPUNBRVNyZ0VCNnpzd0ZmWG9CZkFHaWU0NmNHV1ZsaVdDX1kwNlZJTllWQUJ2LTVkQWtPdmJkdjRhaVFkbDRvREdKaHR3RE1raW1SQU9CWWItYmJNZWYtekF1MGFFVk9sY1ZQWGpmeWtFWmtPWFVQVFM2UEI1N01GU05UWnppUHl3TWZCcGtPMkhmalp1NGZvcWlHYTRhalNZQzF0T05YZUFmb19ZYUZxNl9EUXh0M25LRDlDUzVicEdiX094Y0ZGVnI4Rzk2UWxNS29NUFVYZ3JzMnBEckpxLXJkaFhieV85QmJLNzVMd3lPNUh1b3MwEgQaAggAGqMFEgAaACIAKgAyBggBEgJ1azoAQgQIARAASgBaAHIAegCCQP8ECAAQABgAIAAqLQoGZ3JhdmVsFSNmWkAaBnF1YXJyeRoJZ3JhdmVscGl0GgtpdjtwO2dyYXZlbCo0CgNwaXQVI2ZaQBoEcGl0cxoGcXVhcnJ5GglncmF2ZWxwaXQaBXBpdHVrGghpdjtwO3BpdCopCgJ1axUEhZQ_GgdlbmdsYW5kGg51bml0ZWQga2luZ2RvbRoFcGl0dWsy-QEvZ290bz91cmw9Q0FFU3JnRUI2enN3RmZYb0JmQUdpZTQ2Y0dXVmxpV0NfWTA2VklOWVZBQnYtNWRBa092YmR2NGFpUWRsNG9ER0podHdETWtpbVJBT0JZYi1iYk1lZi16QXUwYUVWT2xjVlBYamZ5a0Vaa09YVVBUUzZQQjU3TUZTTlRaemlQeXdNZkJwa08ySGZqWnU0Zm9xaUdhNGFqU1lDMXRPTlhlQWZvX1lhRnE2X0RReHQzbktEOUNTNWJwR2JfT3hjRkZWcjhHOTZRbE1Lb01QVVhncnMycERySnEtcmRoWGJ5XzlCYks3NUx3eU81SHVvczA6RTxiPkdSQVZFTCBQSVQ8L2I-IC0gSGVyaXRhZ2UgR2F0ZXdheSBSZWNvcmQgfCBIaXN0b3JpYyA8Yj5FbmdsYW5kPC9iPkKhATxiPkdyYXZlbCBQaXQ8L2I-IDsgQ291bnR5OiBCZWRmb3Jkc2hpcmUgOyBEaXN0cmljdDogQmVkZm9yZCA7IFBhcmlzaDogQmxldHNvZSA7IEVhc3RpbmcgLyBOb3J0aGluZzogNTAyMDkwLCAyNTg4ODAgOyBMYXRpdHVkZSAvIExvbmdpdHVkZTogNTIuMjE4NjgyLCAtMC41MDcwMzEuIgIQAUgAWABoAA",
+    "source": "Historic England",
+    "read_more_link": "https://historicengland.org.uk/listing/heritage-gateway/results/record/00514065-b008-44ba-a64b-c2fc78241ee5/MBD2878#:~:text=Gravel%20Pit&text=County,Bedfordshire&text=District,Bedford&text=Parish,Bletsoe&text=Easting%20%2F%20Northing,502090%2C%20258880&text=Latitude%20%2F%20Longitude,52.218682%2C%20%2D0.507031"
+   },
+   {
+    "position": 2,
+    "title": "Gravel Pit Farm, Maidstone, Kent - Updated 2027 prices",
+    "link": "https://www.pitchup.com/campsites/England/South_East/Kent/Maidstone/gravel-pit-farm/",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjwEB6zswFRUbNOPDLjsGB6DmMWnyN6iGvEySYBkGafrICBzhKPOUAFphoitWYFIm9hJQhfjrYJwHbCGlfSnPzyCur7SnQAIgizUdG-kziFVrZyPpzlNihxTh-GXDIZE1nCT7GJ9RF_t6n9ie-jSNfGL5TwJWVYow4XxtPe07P2-K5j-M_LLO1I16ZXFP4jGAkA&ved=2ahUKEwjg8s6qkpaXAxVoKVkFHRRUDlwQFnoECCkQAQ&uoh=1",
+    "displayed_link": "https://www.pitchup.com › ... › Kent › Maidstone",
+    "favicon": "https://serpapi.com/images/i/UklGRqIBAABXRUJQVlA4IJYBAADQCACdASogACAAPrUurVanIacnG_DgFolsAJ0ygx8lgQY_bH3btvNFdNJAZZmkvaAI1cZipHcbiyKt_YpGagUUAWFXxn_1346UdJYyYRagAP73PnoEo_5umSBWxY_rGl7Ongi3y31yIueFcPii-IkWpkyKOmznrFey7YHVm_1zyodpCMSuD9Af-61yeXqPTsduPP-a_IV5lda_c9-l663709qXT3R-FOCjk3hp2NOvDeyJ8hM3itEmOv5w1ztFNKfnf8qvyeqJQdHtGmkdZPwub0yp40yhBqJxTgBJvPWaq7hc0_RY81vxJ0DSYSzUvQhBemR94UNnThEn2GsuUPADQ9xRue0_f3Gxh7lpdpUbGapBsXe78SWJ_CI1UzmmsWVBsndxF6rCa1DnXrd3So96iPfam18RnmTTv53yS_XITG6lSfq_jJotW0qbYEgyzfvWJ_kWLtm63StO3dZ0zgbcLzRk1S2lW91HCRh7gVhKKxk9y3SDoKERqknqnUy3vn1AbpE0BTls_B48sXwfxbwU5xi9UAAA.webp",
+    "date": "1 Mar 2026",
+    "snippet": "Book Gravel Pit Farm in Kent from £200/nt. Family friendly, dogs allowed, campfires allowed and toilet block. Best prices, easy booking, ...",
+    "snippet_highlighted_words": [
+     "Book Gravel Pit Farm in Kent from £200/nt"
+    ],
+    "rich_snippet": {
+     "top": {
+      "detected_extensions": {
+       "rating": 10,
+       "reviews": 1,
+       "price": 200
+      },
+      "extensions": [
+       "10/10(1)",
+       "Price range: From £200/night for accommodation (based on 2 persons)"
+      ]
+     }
+    },
+    "about_this_result": {
+     "source": {
+      "description": "Book Gravel Pit Farm in Kent from £200/nt. Family friendly, dogs allowed, campfires allowed and toilet block. Best prices, easy booking, ...",
+      "source_info_link": "https://www.pitchup.com/campsites/England/South_East/Kent/Maidstone/gravel-pit-farm/",
+      "icon": "https://serpapi.com/images/i/UklGRqIBAABXRUJQVlA4IJYBAADQCACdASogACAAPrUurVanIacnG_DgFolsAJ0ygx8lgQY_bH3btvNFdNJAZZmkvaAI1cZipHcbiyKt_YpGagUUAWFXxn_1346UdJYyYRagAP73PnoEo_5umSBWxY_rGl7Ongi3y31yIueFcPii-IkWpkyKOmznrFey7YHVm_1zyodpCMSuD9Af-61yeXqPTsduPP-a_IV5lda_c9-l663709qXT3R-FOCjk3hp2NOvDeyJ8hM3itEmOv5w1ztFNKfnf8qvyeqJQdHtGmkdZPwub0yp40yhBqJxTgBJvPWaq7hc0_RY81vxJ0DSYSzUvQhBemR94UNnThEn2GsuUPADQ9xRue0_f3Gxh7lpdpUbGapBsXe78SWJ_CI1UzmmsWVBsndxF6rCa1DnXrd3So96iPfam18RnmTTv53yS_XITG6lSfq_jJotW0qbYEgyzfvWJ_kWLtm63StO3dZ0zgbcLzRk1S2lW91HCRh7gVhKKxk9y3SDoKERqknqnUy3vn1AbpE0BTls_B48sXwfxbwU5xi9UAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CtABL2dvdG8_dXJsPUNBRVNqd0VCNnpzd0ZSVWJOT1BETGpzR0I2RG1NV255TjZpR3ZFeVNZQmtHYWZySUNCemhLUE9VQUZwaG9pdFdZRkltOWhKUWhmanJZSndIYkNHbGZTblB6eUN1cjdTblFBSWdpelVkRy1remlGVnJaeVBwemxOaWh4VGgtR1hESVpFMW5DVDdHSjlSRl90Nm45aWUtalNOZkdMNVR3SldWWW93NFh4dFBlMDdQMi1LNWotTV9MTE8xSTE2WlhGUDRqR0FrQRIEGgIIABrsBBICCAAaACIAKgAyBggBEgJ1azoAQgQIARAASgBaAHIAegCCQMYECAAQABgAIAAqLQoGZ3JhdmVsFc1pYUAaBnF1YXJyeRoJZ3JhdmVscGl0GgtpdjtwO2dyYXZlbCo0CgNwaXQVrdhtQBoEcGl0cxoGcXVhcnJ5GglncmF2ZWxwaXQaBXBpdHVrGghpdjtwO3BpdCopCgJ1axWi2qo9GgdlbmdsYW5kGg51bml0ZWQga2luZ2RvbRoFcGl0dWsy0AEvZ290bz91cmw9Q0FFU2p3RUI2enN3RlJVYk5PUERManNHQjZEbU1XbnlONmlHdkV5U1lCa0dhZnJJQ0J6aEtQT1VBRnBob2l0V1lGSW05aEpRaGZqcllKd0hiQ0dsZlNuUHp5Q3VyN1NuUUFJZ2l6VWRHLWt6aUZWclp5UHB6bE5paHhUaC1HWERJWkUxbkNUN0dKOVJGX3Q2bjlpZS1qU05mR0w1VHdKV1ZZb3c0WHh0UGUwN1AyLUs1ai1NX0xMTzFJMTZaWEZQNGpHQWtBOj08Yj5HcmF2ZWwgUGl0PC9iPiBGYXJtLCBNYWlkc3RvbmUsIEtlbnQgLSBVcGRhdGVkIDIwMjcgcHJpY2VzQpkBPGI-Qm9vayBHcmF2ZWwgUGl0IEZhcm0gaW4gS2VudCBmcm9tIMKjMjAwL250PC9iPi4gRmFtaWx5IGZyaWVuZGx5LCBkb2dzIGFsbG93ZWQsIGNhbXBmaXJlcyBhbGxvd2VkIGFuZCB0b2lsZXQgYmxvY2suIEJlc3QgcHJpY2VzLCBlYXN5IGJvb2tpbmcsJm5ic3A7Li4uIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CtABL2dvdG8_dXJsPUNBRVNqd0VCNnpzd0ZSVWJOT1BETGpzR0I2RG1NV255TjZpR3ZFeVNZQmtHYWZySUNCemhLUE9VQUZwaG9pdFdZRkltOWhKUWhmanJZSndIYkNHbGZTblB6eUN1cjdTblFBSWdpelVkRy1remlGVnJaeVBwemxOaWh4VGgtR1hESVpFMW5DVDdHSjlSRl90Nm45aWUtalNOZkdMNVR3SldWWW93NFh4dFBlMDdQMi1LNWotTV9MTE8xSTE2WlhGUDRqR0FrQRIEGgIIABrsBBICCAAaACIAKgAyBggBEgJ1azoAQgQIARAASgBaAHIAegCCQMYECAAQABgAIAAqLQoGZ3JhdmVsFc1pYUAaBnF1YXJyeRoJZ3JhdmVscGl0GgtpdjtwO2dyYXZlbCo0CgNwaXQVrdhtQBoEcGl0cxoGcXVhcnJ5GglncmF2ZWxwaXQaBXBpdHVrGghpdjtwO3BpdCopCgJ1axWi2qo9GgdlbmdsYW5kGg51bml0ZWQga2luZ2RvbRoFcGl0dWsy0AEvZ290bz91cmw9Q0FFU2p3RUI2enN3RlJVYk5PUERManNHQjZEbU1XbnlONmlHdkV5U1lCa0dhZnJJQ0J6aEtQT1VBRnBob2l0V1lGSW05aEpRaGZqcllKd0hiQ0dsZlNuUHp5Q3VyN1NuUUFJZ2l6VWRHLWt6aUZWclp5UHB6bE5paHhUaC1HWERJWkUxbkNUN0dKOVJGX3Q2bjlpZS1qU05mR0w1VHdKV1ZZb3c0WHh0UGUwN1AyLUs1ai1NX0xMTzFJMTZaWEZQNGpHQWtBOj08Yj5HcmF2ZWwgUGl0PC9iPiBGYXJtLCBNYWlkc3RvbmUsIEtlbnQgLSBVcGRhdGVkIDIwMjcgcHJpY2VzQpkBPGI-Qm9vayBHcmF2ZWwgUGl0IEZhcm0gaW4gS2VudCBmcm9tIMKjMjAwL250PC9iPi4gRmFtaWx5IGZyaWVuZGx5LCBkb2dzIGFsbG93ZWQsIGNhbXBmaXJlcyBhbGxvd2VkIGFuZCB0b2lsZXQgYmxvY2suIEJlc3QgcHJpY2VzLCBlYXN5IGJvb2tpbmcsJm5ic3A7Li4uIgIQAUgAWABoAA",
+    "source": "Pitchup.com"
+   },
+   {
+    "position": 3,
+    "title": "GRAVEL PIT - Heritage Gateway Record",
+    "link": "https://historicengland.org.uk/listing/heritage-gateway/results/record/00514065-b008-44ba-a64b-c2fc78241ee5/MBD8419",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESrgEB6zswFXG6exE_7Dwgj8IVa7oBv2HefgJS75TMclzjpsQ7YGg0wecn2OIYro6Pbw55ud5S_J_S3FrSy4GIIUa0DzDYpBF1oedmYlLxwLGBThqkoAXb2HZvzzxCtcwyfkDkxJpV8yUHUPMrSLIufvJmxmyJd5oNGvDHn-IpUMWz1RGrZmKkEV46WbgwRwnHPK6kNlNO99OLsEEHPKJeBXdU5v1trCnC2Thh3JtDq98&ved=2ahUKEwjg8s6qkpaXAxVoKVkFHRRUDlwQFnoECD8QAQ&uoh=1",
+    "displayed_link": "https://historicengland.org.uk › record › MBD8419",
+    "favicon": "https://serpapi.com/images/i/UklGRjABAABXRUJQVlA4ICQBAAAwBgCdASocABwAPtEutFooIagoGAEAGglsAHeTcVxYBvNZKqPHo9g_WYcbXjv5OzoIONqZYPswBNgAAP72Av_Usl6cGrCO9gCbDepEspzB9pebS0-haemGk5p8nKIoOaCWMokW06VkEZFj-lXWAHqDioeGvyoc6Bof_ycD9RqoL8GdpoLL037f5TDFgT4ZV2MpBpI5-stskkmom4RLpDBIXrT307ZcDx0f8xUyE3hEBH4ECFj8jxpn83_v_n_n7eUd9qcfg3rnF-bQQHwz8wLnSonLgB6o1v4vioKNe19G7MPowrzI69ZPNBanNwfwPrWMsVr6uXf663UdRu4FOoONKPH9f9x2CjM_tKxeiSeNJeGw0SPf8vTuHAiLxe3LV52yqAAA.webp",
+    "snippet": "Gravel Pit ; County: Bedfordshire ; District: Bedford ; Parish: Pertenhall ; Easting / Northing: 508400, 264500 ; Latitude / Longitude: 52.267984, -0.412902.",
+    "snippet_highlighted_words": [
+     "Gravel Pit"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Gravel Pit ; County: Bedfordshire ; District: Bedford ; Parish: Pertenhall ; Easting / Northing: 508400, 264500 ; Latitude / Longitude: 52.267984, -0.412902.",
+      "source_info_link": "https://historicengland.org.uk/listing/heritage-gateway/results/record/00514065-b008-44ba-a64b-c2fc78241ee5/MBD8419",
+      "icon": "https://serpapi.com/images/i/UklGRjABAABXRUJQVlA4ICQBAAAwBgCdASocABwAPtEutFooIagoGAEAGglsAHeTcVxYBvNZKqPHo9g_WYcbXjv5OzoIONqZYPswBNgAAP72Av_Usl6cGrCO9gCbDepEspzB9pebS0-haemGk5p8nKIoOaCWMokW06VkEZFj-lXWAHqDioeGvyoc6Bof_ycD9RqoL8GdpoLL037f5TDFgT4ZV2MpBpI5-stskkmom4RLpDBIXrT307ZcDx0f8xUyE3hEBH4ECFj8jxpn83_v_n_n7eUd9qcfg3rnF-bQQHwz8wLnSonLgB6o1v4vioKNe19G7MPowrzI69ZPNBanNwfwPrWMsVr6uXf663UdRu4FOoONKPH9f9x2CjM_tKxeiSeNJeGw0SPf8vTuHAiLxe3LV52yqAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CvkBL2dvdG8_dXJsPUNBRVNyZ0VCNnpzd0ZYRzZleEVfN0R3Z2o4SVZhN29CdjJIZWZnSlM3NVRNY2x6anBzUTdZR2cwd2VjbjJPSVlybzZQYnc1NXVkNVNfSl9TM0ZyU3k0R0lJVWEwRHpEWXBCRjFvZWRtWWxMeHdMR0JUaHFrb0FYYjJIWnZ6enhDdGN3eWZrRGt4SnBWOHlVSFVQTXJTTEl1ZnZKbXhteUpkNW9OR3ZESG4tSXBVTVd6MVJHclptS2tFVjQ2V2Jnd1J3bkhQSzZrTmxOTzk5T0xzRUVIUEtKZUJYZFU1djF0ckNuQzJUaGgzSnREcTk4EgQaAggAGqYFEgAaACIAKgAyBggBEgJ1azoAQgQIARAASgBaAHIAegCCQIIFCAAQABgAIAAqLQoGZ3JhdmVsFaw3XUAaBnF1YXJyeRoJZ3JhdmVscGl0GgtpdjtwO2dyYXZlbCo0CgNwaXQVPyRXQBoEcGl0cxoGcXVhcnJ5GglncmF2ZWxwaXQaBXBpdHVrGghpdjtwO3BpdCopCgJ1axXYHZY_GgdlbmdsYW5kGg51bml0ZWQga2luZ2RvbRoFcGl0dWsy-QEvZ290bz91cmw9Q0FFU3JnRUI2enN3RlhHNmV4RV83RHdnajhJVmE3b0J2MkhlZmdKUzc1VE1jbHpqcHNRN1lHZzB3ZWNuMk9JWXJvNlBidzU1dWQ1U19KX1MzRnJTeTRHSUlVYTBEekRZcEJGMW9lZG1ZbEx4d0xHQlRocWtvQVhiMkhadnp6eEN0Y3d5ZmtEa3hKcFY4eVVIVVBNclNMSXVmdkpteG15SmQ1b05HdkRIbi1JcFVNV3oxUkdyWm1La0VWNDZXYmd3UnduSFBLNmtObE5POTlPTHNFRUhQS0plQlhkVTV2MXRyQ25DMlRoaDNKdERxOTg6RTxiPkdSQVZFTCBQSVQ8L2I-IC0gSGVyaXRhZ2UgR2F0ZXdheSBSZWNvcmQgLSBIaXN0b3JpYyA8Yj5FbmdsYW5kPC9iPkKkATxiPkdyYXZlbCBQaXQ8L2I-IDsgQ291bnR5OiBCZWRmb3Jkc2hpcmUgOyBEaXN0cmljdDogQmVkZm9yZCA7IFBhcmlzaDogUGVydGVuaGFsbCA7IEVhc3RpbmcgLyBOb3J0aGluZzogNTA4NDAwLCAyNjQ1MDAgOyBMYXRpdHVkZSAvIExvbmdpdHVkZTogNTIuMjY3OTg0LCAtMC40MTI5MDIuIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CvkBL2dvdG8_dXJsPUNBRVNyZ0VCNnpzd0ZYRzZleEVfN0R3Z2o4SVZhN29CdjJIZWZnSlM3NVRNY2x6anBzUTdZR2cwd2VjbjJPSVlybzZQYnc1NXVkNVNfSl9TM0ZyU3k0R0lJVWEwRHpEWXBCRjFvZWRtWWxMeHdMR0JUaHFrb0FYYjJIWnZ6enhDdGN3eWZrRGt4SnBWOHlVSFVQTXJTTEl1ZnZKbXhteUpkNW9OR3ZESG4tSXBVTVd6MVJHclptS2tFVjQ2V2Jnd1J3bkhQSzZrTmxOTzk5T0xzRUVIUEtKZUJYZFU1djF0ckNuQzJUaGgzSnREcTk4EgQaAggAGqYFEgAaACIAKgAyBggBEgJ1azoAQgQIARAASgBaAHIAegCCQIIFCAAQABgAIAAqLQoGZ3JhdmVsFaw3XUAaBnF1YXJyeRoJZ3JhdmVscGl0GgtpdjtwO2dyYXZlbCo0CgNwaXQVPyRXQBoEcGl0cxoGcXVhcnJ5GglncmF2ZWxwaXQaBXBpdHVrGghpdjtwO3BpdCopCgJ1axXYHZY_GgdlbmdsYW5kGg51bml0ZWQga2luZ2RvbRoFcGl0dWsy-QEvZ290bz91cmw9Q0FFU3JnRUI2enN3RlhHNmV4RV83RHdnajhJVmE3b0J2MkhlZmdKUzc1VE1jbHpqcHNRN1lHZzB3ZWNuMk9JWXJvNlBidzU1dWQ1U19KX1MzRnJTeTRHSUlVYTBEekRZcEJGMW9lZG1ZbEx4d0xHQlRocWtvQVhiMkhadnp6eEN0Y3d5ZmtEa3hKcFY4eVVIVVBNclNMSXVmdkpteG15SmQ1b05HdkRIbi1JcFVNV3oxUkdyWm1La0VWNDZXYmd3UnduSFBLNmtObE5POTlPTHNFRUhQS0plQlhkVTV2MXRyQ25DMlRoaDNKdERxOTg6RTxiPkdSQVZFTCBQSVQ8L2I-IC0gSGVyaXRhZ2UgR2F0ZXdheSBSZWNvcmQgLSBIaXN0b3JpYyA8Yj5FbmdsYW5kPC9iPkKkATxiPkdyYXZlbCBQaXQ8L2I-IDsgQ291bnR5OiBCZWRmb3Jkc2hpcmUgOyBEaXN0cmljdDogQmVkZm9yZCA7IFBhcmlzaDogUGVydGVuaGFsbCA7IEVhc3RpbmcgLyBOb3J0aGluZzogNTA4NDAwLCAyNjQ1MDAgOyBMYXRpdHVkZSAvIExvbmdpdHVkZTogNTIuMjY3OTg0LCAtMC40MTI5MDIuIgIQAUgAWABoAA",
+    "source": "Historic England",
+    "read_more_link": "https://historicengland.org.uk/listing/heritage-gateway/results/record/00514065-b008-44ba-a64b-c2fc78241ee5/MBD8419#:~:text=Gravel%20Pit&text=County,Bedfordshire&text=District,Bedford&text=Parish,Pertenhall&text=Easting%20%2F%20Northing,508400%2C%20264500&text=Latitude%20%2F%20Longitude,52.267984%2C%20%2D0.412902"
+   },
+   {
+    "position": 4,
+    "title": "GRAVEL PIT LTD filing history - Companies House - GOV.UK",
+    "link": "https://find-and-update.company-information.service.gov.uk/company/14145860/filing-history",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlQEB6zswFUQqtPOcqkKT_PfghUVa4mBm1KyF1XXWYYO4TQdOIynocEiB5vi8lkRLwzbPi1_c5nzpd4kez5WqjHd8A1I0TMdZj6GY2CnOAa7o1OCfCHHWKhO0KCSwuz33E7QW5vJTQa9GdFRD6JPzOYH7pHjUigpQcbNB3XIl98YuUiZjuvgOXKiSP0-nlPz5rECGmUbclQ&ved=2ahUKEwjg8s6qkpaXAxVoKVkFHRRUDlwQFnoECD0QAQ&uoh=1",
+    "displayed_link": "https://find-and-update.company-information.service.gov.uk › ...",
+    "favicon": "https://serpapi.com/images/i/UklGRhgBAABXRUJQVlA4IAwBAAAwBgCdASocABwAPtE-tFooIigoFAEAGgloAJ0yhHp496oAiAFWyZytQAMtBxxeoo0v-ukyi91RSUmAAP5tq_b9aeTUksslz1bykvnoSeNsDcPyo5M_1_OL_N6zZIdLehoX_zUl-ET4KtFrXLBT8kc4tQu5oC8i_ugLTiU5sHmdS6vQ9o-_zd3Trc_rtaTl4-ncTsepxs0eCTVPA9c0v4EPxd1_zGFFZTm-3TgDWGON9_V8467cPT_lIoXVJCYHBvAamqBBmH12TC3ezccMwXyjcyz50b6euvyUReqT5RY2mJ-Kuu3NW7x52cE5EN9f1Y-44VHb19inO6ikqhd0FPC5piGcBUzPXX0ogAAA.webp",
+    "snippet": "GRAVEL PIT LTD - Free company information from Companies House including registered office address, filing history, accounts, annual return, officers, ...",
+    "snippet_highlighted_words": [
+     "GRAVEL PIT LTD"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "GRAVEL PIT LTD - Free company information from Companies House including registered office address, filing history, accounts, annual return, officers, ...",
+      "source_info_link": "https://find-and-update.company-information.service.gov.uk/company/14145860/filing-history",
+      "icon": "https://serpapi.com/images/i/UklGRhgBAABXRUJQVlA4IAwBAAAwBgCdASocABwAPtE-tFooIigoFAEAGgloAJ0yhHp496oAiAFWyZytQAMtBxxeoo0v-ukyi91RSUmAAP5tq_b9aeTUksslz1bykvnoSeNsDcPyo5M_1_OL_N6zZIdLehoX_zUl-ET4KtFrXLBT8kc4tQu5oC8i_ugLTiU5sHmdS6vQ9o-_zd3Trc_rtaTl4-ncTsepxs0eCTVPA9c0v4EPxd1_zGFFZTm-3TgDWGON9_V8467cPT_lIoXVJCYHBvAamqBBmH12TC3ezccMwXyjcyz50b6euvyUReqT5RY2mJ-Kuu3NW7x52cE5EN9f1Y-44VHb19inO6ikqhd0FPC5piGcBUzPXX0ogAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CtgBL2dvdG8_dXJsPUNBRVNsUUVCNnpzd0ZVUXF0UE9jcWtLVF9QZmdoVVZhNG1CbTFLeUYxWFhXWVlPNFRRZE9JeW5vY0VpQjV2aThsa1JMd3piUGkxX2M1bnpwZDRrZXo1V3FqSGQ4QTFJMFRNZFpqNkdZMkNuT0FhN28xT0NmQ0hIV0toTzBLQ1N3dXozM0U3UVc1dkpUUWE5R2RGUkQ2SlB6T1lIN3BIalVpZ3BRY2JOQjNYSWw5OFl1VWlaanV2Z09YS2lTUDAtbmxQejVyRUNHbVViY2xREgQaAggAGoEFEgAaACIAKgAyBggBEgJ1azoAQgQIARAASgBaAHIAegCCQN0ECAAQABgAIAAqLQoGZ3JhdmVsFW6rh0AaBnF1YXJyeRoJZ3JhdmVscGl0GgtpdjtwO2dyYXZlbCo0CgNwaXQVbquHQBoEcGl0cxoGcXVhcnJ5GglncmF2ZWxwaXQaBXBpdHVrGghpdjtwO3BpdCopCgJ1axUAAB5AGgdlbmdsYW5kGg51bml0ZWQga2luZ2RvbRoFcGl0dWsy2AEvZ290bz91cmw9Q0FFU2xRRUI2enN3RlVRcXRQT2Nxa0tUX1BmZ2hVVmE0bUJtMUt5RjFYWFdZWU80VFFkT0l5bm9jRWlCNXZpOGxrUkx3emJQaTFfYzVuenBkNGtlejVXcWpIZDhBMUkwVE1kWmo2R1kyQ25PQWE3bzFPQ2ZDSEhXS2hPMEtDU3d1ejMzRTdRVzV2SlRRYTlHZEZSRDZKUHpPWUg3cEhqVWlncFFjYk5CM1hJbDk4WXVVaVpqdXZnT1hLaVNQMC1ubFB6NXJFQ0dtVWJjbFE6PzxiPkdSQVZFTCBQSVQ8L2I-IExURCBmaWxpbmcgaGlzdG9yeSAtIENvbXBhbmllcyBIb3VzZSAtIEdPVi5VS0KmATxiPkdSQVZFTCBQSVQgTFREPC9iPiAtIEZyZWUgY29tcGFueSBpbmZvcm1hdGlvbiBmcm9tIENvbXBhbmllcyBIb3VzZSBpbmNsdWRpbmcgcmVnaXN0ZXJlZCBvZmZpY2UgYWRkcmVzcywgZmlsaW5nIGhpc3RvcnksIGFjY291bnRzLCBhbm51YWwgcmV0dXJuLCBvZmZpY2VycywmbmJzcDsuLi4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CtgBL2dvdG8_dXJsPUNBRVNsUUVCNnpzd0ZVUXF0UE9jcWtLVF9QZmdoVVZhNG1CbTFLeUYxWFhXWVlPNFRRZE9JeW5vY0VpQjV2aThsa1JMd3piUGkxX2M1bnpwZDRrZXo1V3FqSGQ4QTFJMFRNZFpqNkdZMkNuT0FhN28xT0NmQ0hIV0toTzBLQ1N3dXozM0U3UVc1dkpUUWE5R2RGUkQ2SlB6T1lIN3BIalVpZ3BRY2JOQjNYSWw5OFl1VWlaanV2Z09YS2lTUDAtbmxQejVyRUNHbVViY2xREgQaAggAGoEFEgAaACIAKgAyBggBEgJ1azoAQgQIARAASgBaAHIAegCCQN0ECAAQABgAIAAqLQoGZ3JhdmVsFW6rh0AaBnF1YXJyeRoJZ3JhdmVscGl0GgtpdjtwO2dyYXZlbCo0CgNwaXQVbquHQBoEcGl0cxoGcXVhcnJ5GglncmF2ZWxwaXQaBXBpdHVrGghpdjtwO3BpdCopCgJ1axUAAB5AGgdlbmdsYW5kGg51bml0ZWQga2luZ2RvbRoFcGl0dWsy2AEvZ290bz91cmw9Q0FFU2xRRUI2enN3RlVRcXRQT2Nxa0tUX1BmZ2hVVmE0bUJtMUt5RjFYWFdZWU80VFFkT0l5bm9jRWlCNXZpOGxrUkx3emJQaTFfYzVuenBkNGtlejVXcWpIZDhBMUkwVE1kWmo2R1kyQ25PQWE3bzFPQ2ZDSEhXS2hPMEtDU3d1ejMzRTdRVzV2SlRRYTlHZEZSRDZKUHpPWUg3cEhqVWlncFFjYk5CM1hJbDk4WXVVaVpqdXZnT1hLaVNQMC1ubFB6NXJFQ0dtVWJjbFE6PzxiPkdSQVZFTCBQSVQ8L2I-IExURCBmaWxpbmcgaGlzdG9yeSAtIENvbXBhbmllcyBIb3VzZSAtIEdPVi5VS0KmATxiPkdSQVZFTCBQSVQgTFREPC9iPiAtIEZyZWUgY29tcGFueSBpbmZvcm1hdGlvbiBmcm9tIENvbXBhbmllcyBIb3VzZSBpbmNsdWRpbmcgcmVnaXN0ZXJlZCBvZmZpY2UgYWRkcmVzcywgZmlsaW5nIGhpc3RvcnksIGFjY291bnRzLCBhbm51YWwgcmV0dXJuLCBvZmZpY2VycywmbmJzcDsuLi4iAhABSABYAGgA",
+    "source": "Find and update company information"
+   },
+   {
+    "position": 5,
+    "title": "YO41 1LN, Gravel Pit Biogas Limited: environmental permit ...",
+    "link": "https://www.gov.uk/government/publications/yo41-1ln-gravel-pit-biogas-limited-environmental-permit-application-advertisement/yo41-1ln-gravel-pit-biogas-limited-environmental-permit-application-advertisement",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESigIB6zswFXOuNU6C_yS27NVIeY7TbegPT9ZLAktsfS347-Nrzvt0ZEQiQopT4oV8DajjJIcm0MBw6_eQdfiO3E9Swzcp6amxljUw00owNypbWmDNYrl-4wCz96xZCHAZ7SZNR4GKYVoQBQEEMNAK8TnAX6eoDvPPtQ43OpaQ-1gSn2wCZKA-AYrCpXqaU325Dv1GNcszvfLxVJvuTnpO93ghh6KaWzhhE77t4SYChw2iyFLXPDywJi42LYp_UdwoPsI7fbzpf-R1y1t5a_yxRp4AwB6KX5mkPMrh6rTSxijkq0md23g6sPWfibYnDBpYWqfzPwMP5FC5Mkn9M7Va3r_2VIuZqO9iOQJ7Aw&ved=2ahUKEwjg8s6qkpaXAxVoKVkFHRRUDlwQFnoECD4QAQ&uoh=1",
+    "displayed_link": "https://www.gov.uk › government › publications › yo4...",
+    "favicon": "https://serpapi.com/images/i/UklGRhgBAABXRUJQVlA4IAwBAAAwBgCdASocABwAPtE-tFooIigoFAEAGgloAJ0yhHp496oAiAFWyZytQAMtBxxeoo0v-ukyi91RSUmAAP5tq_b9aeTUksslz1bykvnoSeNsDcPyo5M_1_OL_N6zZIdLehoX_zUl-ET4KtFrXLBT8kc4tQu5oC8i_ugLTiU5sHmdS6vQ9o-_zd3Trc_rtaTl4-ncTsepxs0eCTVPA9c0v4EPxd1_zGFFZTm-3TgDWGON9_V8467cPT_lIoXVJCYHBvAamqBBmH12TC3ezccMwXyjcyz50b6euvyUReqT5RY2mJ-Kuu3NW7x52cE5EN9f1Y-44VHb19inO6ikqhd0FPC5piGcBUzPXX0ogAAA.webp",
+    "date": "30 Jun 2017",
+    "snippet": "This notice was withdrawn on 30 June 2017 · Applies to England · Contents · Details of the application · How to view the application · How to comment ...",
+    "snippet_highlighted_words": [
+     "England"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "This notice was withdrawn on 30 June 2017 · Applies to England · Contents · Details of the application · How to view the application · How to comment ...",
+      "source_info_link": "https://www.gov.uk/government/publications/yo41-1ln-gravel-pit-biogas-limited-environmental-permit-application-advertisement/yo41-1ln-gravel-pit-biogas-limited-environmental-permit-application-advertisement",
+      "icon": "https://serpapi.com/images/i/UklGRhgBAABXRUJQVlA4IAwBAAAwBgCdASocABwAPtE-tFooIigoFAEAGgloAJ0yhHp496oAiAFWyZytQAMtBxxeoo0v-ukyi91RSUmAAP5tq_b9aeTUksslz1bykvnoSeNsDcPyo5M_1_OL_N6zZIdLehoX_zUl-ET4KtFrXLBT8kc4tQu5oC8i_ugLTiU5sHmdS6vQ9o-_zd3Trc_rtaTl4-ncTsepxs0eCTVPA9c0v4EPxd1_zGFFZTm-3TgDWGON9_V8467cPT_lIoXVJCYHBvAamqBBmH12TC3ezccMwXyjcyz50b6euvyUReqT5RY2mJ-Kuu3NW7x52cE5EN9f1Y-44VHb19inO6ikqhd0FPC5piGcBUzPXX0ogAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CvQCL2dvdG8_dXJsPUNBRVNpZ0lCNnpzd0ZYT3VOVTZDX3lTMjdOVkllWTdUYmVnUFQ5WkxBa3RzZlMzNDctTnJ6dnQwWkVRaVFvcFQ0b1Y4RGFqakpJY20wTUJ3Nl9lUWRmaU8zRTlTd3pjcDZhbXhsalV3MDBvd055cGJXbUROWXJsLTR3Q3o5NnhaQ0hBWjdTWk5SNEdLWVZvUUJRRUVNTkFLOFRuQVg2ZW9EdlBQdFE0M09wYVEtMWdTbjJ3Q1pLQS1BWXJDcFhxYVUzMjVEdjFHTmNzenZmTHhWSnZ1VG5wTzkzZ2hoNkthV3poaEU3N3Q0U1lDaHcyaXlGTFhQRHl3Smk0MkxZcF9VZHdvUHNJN2ZienBmLVIxeTF0NWFfeXhScDRBd0I2S1g1bWtQTXJoNnJUU3hpamtxMG1kMjNnNnNQV2ZpYlluREJwWVdxZnpQd01QNUZDNU1rbjlNN1ZhM3JfMlZJdVpxTzlpT1FKN0F3EgQaAggAGsQGEgAaACIAKgAyBggBEgJ1azoAQgQIARAASgBaAHIAegCCQKAGCAAQABgAIAAqLQoGZ3JhdmVsFbj0jEAaBnF1YXJyeRoJZ3JhdmVscGl0GgtpdjtwO2dyYXZlbCo0CgNwaXQVuPSMQBoEcGl0cxoGcXVhcnJ5GglncmF2ZWxwaXQaBXBpdHVrGghpdjtwO3BpdCopCgJ1axWGuh1AGgdlbmdsYW5kGg51bml0ZWQga2luZ2RvbRoFcGl0dWsy9AIvZ290bz91cmw9Q0FFU2lnSUI2enN3RlhPdU5VNkNfeVMyN05WSWVZN1RiZWdQVDlaTEFrdHNmUzM0Ny1Ocnp2dDBaRVFpUW9wVDRvVjhEYWpqSkljbTBNQnc2X2VRZGZpTzNFOVN3emNwNmFteGxqVXcwMG93TnlwYldtRE5ZcmwtNHdDejk2eFpDSEFaN1NaTlI0R0tZVm9RQlFFRU1OQUs4VG5BWDZlb0R2UFB0UTQzT3BhUS0xZ1NuMndDWktBLUFZckNwWHFhVTMyNUR2MUdOY3N6dmZMeFZKdnVUbnBPOTNnaGg2S2FXemhoRTc3dDRTWUNodzJpeUZMWFBEeXdKaTQyTFlwX1Vkd29Qc0k3ZmJ6cGYtUjF5MXQ1YV95eFJwNEF3QjZLWDVta1BNcmg2clRTeGlqa3EwbWQyM2c2c1BXZmliWW5EQnBZV3FmelB3TVA1RkM1TWtuOU03VmEzcl8yVkl1WnFPOWlPUUo3QXc6RFlPNDEgMUxOLCA8Yj5HcmF2ZWwgUGl0PC9iPiBCaW9nYXMgTGltaXRlZDogZW52aXJvbm1lbnRhbCBwZXJtaXQgLi4uQsgBVGhpcyBub3RpY2Ugd2FzIHdpdGhkcmF3biBvbiAzMCBKdW5lIDIwMTcgJm1pZGRvdDsgQXBwbGllcyB0byA8Yj5FbmdsYW5kPC9iPiAmbWlkZG90OyBDb250ZW50cyAmbWlkZG90OyBEZXRhaWxzIG9mIHRoZSBhcHBsaWNhdGlvbiAmbWlkZG90OyBIb3cgdG8gdmlldyB0aGUgYXBwbGljYXRpb24gJm1pZGRvdDsgSG93IHRvIGNvbW1lbnQmbmJzcDsuLi4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CvQCL2dvdG8_dXJsPUNBRVNpZ0lCNnpzd0ZYT3VOVTZDX3lTMjdOVkllWTdUYmVnUFQ5WkxBa3RzZlMzNDctTnJ6dnQwWkVRaVFvcFQ0b1Y4RGFqakpJY20wTUJ3Nl9lUWRmaU8zRTlTd3pjcDZhbXhsalV3MDBvd055cGJXbUROWXJsLTR3Q3o5NnhaQ0hBWjdTWk5SNEdLWVZvUUJRRUVNTkFLOFRuQVg2ZW9EdlBQdFE0M09wYVEtMWdTbjJ3Q1pLQS1BWXJDcFhxYVUzMjVEdjFHTmNzenZmTHhWSnZ1VG5wTzkzZ2hoNkthV3poaEU3N3Q0U1lDaHcyaXlGTFhQRHl3Smk0MkxZcF9VZHdvUHNJN2ZienBmLVIxeTF0NWFfeXhScDRBd0I2S1g1bWtQTXJoNnJUU3hpamtxMG1kMjNnNnNQV2ZpYlluREJwWVdxZnpQd01QNUZDNU1rbjlNN1ZhM3JfMlZJdVpxTzlpT1FKN0F3EgQaAggAGsQGEgAaACIAKgAyBggBEgJ1azoAQgQIARAASgBaAHIAegCCQKAGCAAQABgAIAAqLQoGZ3JhdmVsFbj0jEAaBnF1YXJyeRoJZ3JhdmVscGl0GgtpdjtwO2dyYXZlbCo0CgNwaXQVuPSMQBoEcGl0cxoGcXVhcnJ5GglncmF2ZWxwaXQaBXBpdHVrGghpdjtwO3BpdCopCgJ1axWGuh1AGgdlbmdsYW5kGg51bml0ZWQga2luZ2RvbRoFcGl0dWsy9AIvZ290bz91cmw9Q0FFU2lnSUI2enN3RlhPdU5VNkNfeVMyN05WSWVZN1RiZWdQVDlaTEFrdHNmUzM0Ny1Ocnp2dDBaRVFpUW9wVDRvVjhEYWpqSkljbTBNQnc2X2VRZGZpTzNFOVN3emNwNmFteGxqVXcwMG93TnlwYldtRE5ZcmwtNHdDejk2eFpDSEFaN1NaTlI0R0tZVm9RQlFFRU1OQUs4VG5BWDZlb0R2UFB0UTQzT3BhUS0xZ1NuMndDWktBLUFZckNwWHFhVTMyNUR2MUdOY3N6dmZMeFZKdnVUbnBPOTNnaGg2S2FXemhoRTc3dDRTWUNodzJpeUZMWFBEeXdKaTQyTFlwX1Vkd29Qc0k3ZmJ6cGYtUjF5MXQ1YV95eFJwNEF3QjZLWDVta1BNcmg2clRTeGlqa3EwbWQyM2c2c1BXZmliWW5EQnBZV3FmelB3TVA1RkM1TWtuOU03VmEzcl8yVkl1WnFPOWlPUUo3QXc6RFlPNDEgMUxOLCA8Yj5HcmF2ZWwgUGl0PC9iPiBCaW9nYXMgTGltaXRlZDogZW52aXJvbm1lbnRhbCBwZXJtaXQgLi4uQsgBVGhpcyBub3RpY2Ugd2FzIHdpdGhkcmF3biBvbiAzMCBKdW5lIDIwMTcgJm1pZGRvdDsgQXBwbGllcyB0byA8Yj5FbmdsYW5kPC9iPiAmbWlkZG90OyBDb250ZW50cyAmbWlkZG90OyBEZXRhaWxzIG9mIHRoZSBhcHBsaWNhdGlvbiAmbWlkZG90OyBIb3cgdG8gdmlldyB0aGUgYXBwbGljYXRpb24gJm1pZGRvdDsgSG93IHRvIGNvbW1lbnQmbmJzcDsuLi4iAhABSABYAGgA",
+    "source": "GOV.UK",
+    "read_more_link": "https://www.gov.uk/government/publications/yo41-1ln-gravel-pit-biogas-limited-environmental-permit-application-advertisement/yo41-1ln-gravel-pit-biogas-limited-environmental-permit-application-advertisement#:~:text=This%20notice%20was%20withdrawn%20on,30%20June%202017&text=Applies%20to%20England&text=Contents&text=Details%20of%20the%20application&text=How%20to%20view%20the%20application&text=How%20to%20comment%20on%20the,application"
+   },
+   {
+    "position": 6,
+    "title": "GRAVEL PIT - Heritage Gateway Record",
+    "link": "https://historicengland.org.uk/listing/heritage-gateway/results/record/00514065-b008-44ba-a64b-c2fc78241ee5/MBD7911",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESrgEB6zswFRKpn-9GwE0I7lKrc0HayhynRkDklTIKd7QCN4jIiFSO-kEkUwGGSuD31harkgpVO_52gIeSeJIt9gLqyNq-upFqck2VGjDaEdgkczSFDj3Bd3M0UcsXDl25lgVWZxzRJm_lD-vSAtOkICrZBzxWYUiqeWOhwogefD8vSR_QNIC8TgsvPWSbSMYs-sQzHqu0x9_vaSONIZOgFihrxbd0c28YlOiwc28GLEE&ved=2ahUKEwjg8s6qkpaXAxVoKVkFHRRUDlwQFnoECEIQAQ&uoh=1",
+    "displayed_link": "https://historicengland.org.uk › record › MBD7911",
+    "favicon": "https://serpapi.com/images/i/UklGRjABAABXRUJQVlA4ICQBAAAwBgCdASocABwAPtEutFooIagoGAEAGglsAHeTcVxYBvNZKqPHo9g_WYcbXjv5OzoIONqZYPswBNgAAP72Av_Usl6cGrCO9gCbDepEspzB9pebS0-haemGk5p8nKIoOaCWMokW06VkEZFj-lXWAHqDioeGvyoc6Bof_ycD9RqoL8GdpoLL037f5TDFgT4ZV2MpBpI5-stskkmom4RLpDBIXrT307ZcDx0f8xUyE3hEBH4ECFj8jxpn83_v_n_n7eUd9qcfg3rnF-bQQHwz8wLnSonLgB6o1v4vioKNe19G7MPowrzI69ZPNBanNwfwPrWMsVr6uXf663UdRu4FOoONKPH9f9x2CjM_tKxeiSeNJeGw0SPf8vTuHAiLxe3LV52yqAAA.webp",
+    "snippet": "An area of probable Post-medieval quarry is visible as cropmarks on aerial photographs east of Pertenhall. If you have any enquiries regarding this entry, ...",
+    "snippet_highlighted_words": [
+     "quarry"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "An area of probable Post-medieval quarry is visible as cropmarks on aerial photographs east of Pertenhall. If you have any enquiries regarding this entry, ...",
+      "source_info_link": "https://historicengland.org.uk/listing/heritage-gateway/results/record/00514065-b008-44ba-a64b-c2fc78241ee5/MBD7911",
+      "icon": "https://serpapi.com/images/i/UklGRjABAABXRUJQVlA4ICQBAAAwBgCdASocABwAPtEutFooIagoGAEAGglsAHeTcVxYBvNZKqPHo9g_WYcbXjv5OzoIONqZYPswBNgAAP72Av_Usl6cGrCO9gCbDepEspzB9pebS0-haemGk5p8nKIoOaCWMokW06VkEZFj-lXWAHqDioeGvyoc6Bof_ycD9RqoL8GdpoLL037f5TDFgT4ZV2MpBpI5-stskkmom4RLpDBIXrT307ZcDx0f8xUyE3hEBH4ECFj8jxpn83_v_n_n7eUd9qcfg3rnF-bQQHwz8wLnSonLgB6o1v4vioKNe19G7MPowrzI69ZPNBanNwfwPrWMsVr6uXf663UdRu4FOoONKPH9f9x2CjM_tKxeiSeNJeGw0SPf8vTuHAiLxe3LV52yqAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CvkBL2dvdG8_dXJsPUNBRVNyZ0VCNnpzd0ZSS3BuLTlHd0UwSTdsS3JjMEhheWh5blJrRGtsVElLZDdRQ040aklpRlNPLWtFa1V3R0dTdUQzMWhhcmtncFZPXzUyZ0llU2VKSXQ5Z0xxeU5xLXVwRnFjazJWR2pEYUVkZ2tjelNGRGozQmQzTTBVY3NYRGwyNWxnVldaeHpSSm1fbEQtdlNBdE9rSUNyWkJ6eFdZVWlxZVdPaHdvZ2VmRDh2U1JfUU5JQzhUZ3N2UFdTYlNNWXMtc1F6SHF1MHg5X3ZhU09OSVpPZ0ZpaHJ4YmQwYzI4WWxPaXdjMjhHTEVFEgQaAggAGqwFEgAaACIAKgAyBggBEgJ1azoAQgQIARAASgBaAHIAegCCQIgFCAAQABgAIAAqLQoGZ3JhdmVsFaz2S0AaBnF1YXJyeRoJZ3JhdmVscGl0GgtpdjtwO2dyYXZlbCo0CgNwaXQVrPZLQBoEcGl0cxoGcXVhcnJ5GglncmF2ZWxwaXQaBXBpdHVrGghpdjtwO3BpdCopCgJ1axVoHoM_GgdlbmdsYW5kGg51bml0ZWQga2luZ2RvbRoFcGl0dWsy-QEvZ290bz91cmw9Q0FFU3JnRUI2enN3RlJLcG4tOUd3RTBJN2xLcmMwSGF5aHluUmtEa2xUSUtkN1FDTjRqSWlGU08ta0VrVXdHR1N1RDMxaGFya2dwVk9fNTJnSWVTZUpJdDlnTHF5TnEtdXBGcWNrMlZHakRhRWRna2N6U0ZEajNCZDNNMFVjc1hEbDI1bGdWV1p4elJKbV9sRC12U0F0T2tJQ3JaQnp4V1lVaXFlV09od29nZWZEOHZTUl9RTklDOFRnc3ZQV1NiU01Zcy1zUXpIcXUweDlfdmFTT05JWk9nRmlocnhiZDBjMjhZbE9pd2MyOEdMRUU6RTxiPkdSQVZFTCBQSVQ8L2I-IC0gSGVyaXRhZ2UgR2F0ZXdheSBSZWNvcmQgfCBIaXN0b3JpYyA8Yj5FbmdsYW5kPC9iPkKqAUFuIGFyZWEgb2YgcHJvYmFibGUgUG9zdC1tZWRpZXZhbCA8Yj5xdWFycnk8L2I-IGlzIHZpc2libGUgYXMgY3JvcG1hcmtzIG9uIGFlcmlhbCBwaG90b2dyYXBocyBlYXN0IG9mIFBlcnRlbmhhbGwuIElmIHlvdSBoYXZlIGFueSBlbnF1aXJpZXMgcmVnYXJkaW5nIHRoaXMgZW50cnksJm5ic3A7Li4uIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CvkBL2dvdG8_dXJsPUNBRVNyZ0VCNnpzd0ZSS3BuLTlHd0UwSTdsS3JjMEhheWh5blJrRGtsVElLZDdRQ040aklpRlNPLWtFa1V3R0dTdUQzMWhhcmtncFZPXzUyZ0llU2VKSXQ5Z0xxeU5xLXVwRnFjazJWR2pEYUVkZ2tjelNGRGozQmQzTTBVY3NYRGwyNWxnVldaeHpSSm1fbEQtdlNBdE9rSUNyWkJ6eFdZVWlxZVdPaHdvZ2VmRDh2U1JfUU5JQzhUZ3N2UFdTYlNNWXMtc1F6SHF1MHg5X3ZhU09OSVpPZ0ZpaHJ4YmQwYzI4WWxPaXdjMjhHTEVFEgQaAggAGqwFEgAaACIAKgAyBggBEgJ1azoAQgQIARAASgBaAHIAegCCQIgFCAAQABgAIAAqLQoGZ3JhdmVsFaz2S0AaBnF1YXJyeRoJZ3JhdmVscGl0GgtpdjtwO2dyYXZlbCo0CgNwaXQVrPZLQBoEcGl0cxoGcXVhcnJ5GglncmF2ZWxwaXQaBXBpdHVrGghpdjtwO3BpdCopCgJ1axVoHoM_GgdlbmdsYW5kGg51bml0ZWQga2luZ2RvbRoFcGl0dWsy-QEvZ290bz91cmw9Q0FFU3JnRUI2enN3RlJLcG4tOUd3RTBJN2xLcmMwSGF5aHluUmtEa2xUSUtkN1FDTjRqSWlGU08ta0VrVXdHR1N1RDMxaGFya2dwVk9fNTJnSWVTZUpJdDlnTHF5TnEtdXBGcWNrMlZHakRhRWRna2N6U0ZEajNCZDNNMFVjc1hEbDI1bGdWV1p4elJKbV9sRC12U0F0T2tJQ3JaQnp4V1lVaXFlV09od29nZWZEOHZTUl9RTklDOFRnc3ZQV1NiU01Zcy1zUXpIcXUweDlfdmFTT05JWk9nRmlocnhiZDBjMjhZbE9pd2MyOEdMRUU6RTxiPkdSQVZFTCBQSVQ8L2I-IC0gSGVyaXRhZ2UgR2F0ZXdheSBSZWNvcmQgfCBIaXN0b3JpYyA8Yj5FbmdsYW5kPC9iPkKqAUFuIGFyZWEgb2YgcHJvYmFibGUgUG9zdC1tZWRpZXZhbCA8Yj5xdWFycnk8L2I-IGlzIHZpc2libGUgYXMgY3JvcG1hcmtzIG9uIGFlcmlhbCBwaG90b2dyYXBocyBlYXN0IG9mIFBlcnRlbmhhbGwuIElmIHlvdSBoYXZlIGFueSBlbnF1aXJpZXMgcmVnYXJkaW5nIHRoaXMgZW50cnksJm5ic3A7Li4uIgIQAUgAWABoAA",
+    "source": "Historic England"
+   },
+   {
+    "position": 7,
+    "title": "Is Dead Baiting the SECRET to CATCHING Beautiful Gravel Pit ...",
+    "link": "https://www.youtube.com/watch?v=GRMoME1VC3s",
+    "displayed_link": "6.4k+ views · 1 year ago",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRllRUqgyEtCyDBJKC5W42kvnqnvp0jqQ0N3cLGA-YxKbI8PtyBzQQlzA&s",
+    "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+    "snippet": "On this cold October morning i set off on a mission to catch a gravel pit pike Using Dead baits. This tactic is great and im going to be ...",
+    "duration": "11:54",
+    "about_this_result": {
+     "source": {
+      "description": "On this cold October morning i set off on a mission to catch a gravel pit pike Using Dead baits. This tactic is great and im going to be ...",
+      "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+     }
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVkJLLVBpU1FFc1Z1ZUEtUnJRREZPZmVpZGViWEdHT3lxQjVNdEYwQ0RuS3BPN2JaeVRrVTdtQTcyWU0zY25CWkoyMHp1Rk9fU2JQR1F5cnBQYzdSeXkwOGxZRzhxRmc0dDEyMGNZbW9rZlFVNkNOeFZ6dl9DQTFSOWliTm1YMUNSM2cSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVkJLLVBpU1FFc1Z1ZUEtUnJRREZPZmVpZGViWEdHT3lxQjVNdEYwQ0RuS3BPN2JaeVRrVTdtQTcyWU0zY25CWkoyMHp1Rk9fU2JQR1F5cnBQYzdSeXkwOGxZRzhxRmc0dDEyMGNZbW9rZlFVNkNOeFZ6dl9DQTFSOWliTm1YMUNSM2cSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+    "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQkRp-44rlkc_wvb6FOcv6avKT_Yb0_11Ur8A",
+    "source": "YouTube · CJ Fishing"
+   },
+   {
+    "position": 8,
+    "title": "GRAVEL PIT FARM AD LIMITED persons with significant control",
+    "link": "https://find-and-update.company-information.service.gov.uk/company/09766830/persons-with-significant-control",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpwEB6zswFRgyasQdibTMZpo1OW-1Cb_SxidQZR2bya_dNX3-nFbe4ArCPs2KFXnHOQ3hAYf_KdBGGKBBcIjztcvqqiLC5Li807p4Sy9271K8f-_8LCfCJgMSoKTAVXxryc63F5F461PCxmc4VHZtwr4akPjomb1aq2qeP2ARHn_7Fy6BhiwQvsAbjs7pXXo4g4f7ALyojqUTj54laR6J7hGsFVLRB4iBhQ&ved=2ahUKEwjg8s6qkpaXAxVoKVkFHRRUDlwQFnoECEQQAQ&uoh=1",
+    "displayed_link": "https://find-and-update.company-information.service.gov.uk › ...",
+    "favicon": "https://serpapi.com/images/i/UklGRhgBAABXRUJQVlA4IAwBAAAwBgCdASocABwAPtE-tFooIigoFAEAGgloAJ0yhHp496oAiAFWyZytQAMtBxxeoo0v-ukyi91RSUmAAP5tq_b9aeTUksslz1bykvnoSeNsDcPyo5M_1_OL_N6zZIdLehoX_zUl-ET4KtFrXLBT8kc4tQu5oC8i_ugLTiU5sHmdS6vQ9o-_zd3Trc_rtaTl4-ncTsepxs0eCTVPA9c0v4EPxd1_zGFFZTm-3TgDWGON9_V8467cPT_lIoXVJCYHBvAamqBBmH12TC3ezccMwXyjcyz50b6euvyUReqT5RY2mJ-Kuu3NW7x52cE5EN9f1Y-44VHb19inO6ikqhd0FPC5piGcBUzPXX0ogAAA.webp",
+    "snippet": "GRAVEL PIT FARM AD LIMITED - Free company information from Companies House including registered office address, filing history, accounts, annual return, ...",
+    "snippet_highlighted_words": [
+     "GRAVEL PIT FARM AD LIMITED"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "GRAVEL PIT FARM AD LIMITED - Free company information from Companies House including registered office address, filing history, accounts, annual return, ...",
+      "source_info_link": "https://find-and-update.company-information.service.gov.uk/company/09766830/persons-with-significant-control",
+      "icon": "https://serpapi.com/images/i/UklGRhgBAABXRUJQVlA4IAwBAAAwBgCdASocABwAPtE-tFooIigoFAEAGgloAJ0yhHp496oAiAFWyZytQAMtBxxeoo0v-ukyi91RSUmAAP5tq_b9aeTUksslz1bykvnoSeNsDcPyo5M_1_OL_N6zZIdLehoX_zUl-ET4KtFrXLBT8kc4tQu5oC8i_ugLTiU5sHmdS6vQ9o-_zd3Trc_rtaTl4-ncTsepxs0eCTVPA9c0v4EPxd1_zGFFZTm-3TgDWGON9_V8467cPT_lIoXVJCYHBvAamqBBmH12TC3ezccMwXyjcyz50b6euvyUReqT5RY2mJ-Kuu3NW7x52cE5EN9f1Y-44VHb19inO6ikqhd0FPC5piGcBUzPXX0ogAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CvABL2dvdG8_dXJsPUNBRVNwd0VCNnpzd0ZSZ3lhc1FkaWJUTVpwbzFPVy0xQ2JfU3hpZFFaUjJieWFfZE5YMy1uRmJlNEFyQ1BzMktGWG5IT1EzaEFZZl9LZEJHR0tCQmNJanp0Y3ZxcWlMQzVMaTgwN3A0U3k5MjcxSzhmLV84TENmQ0pnTVNvS1RBVlh4cnljNjNGNUY0NjFQQ3htYzRWSFp0d3I0YWtQam9tYjFhcTJxZVAyQVJIbl83Rnk2Qmhpd1F2c0FianM3cFhYbzRnNGY3QUx5b2pxVVRqNTRsYVI2SjdoR3NGVkxSQjRpQmhREgQaAggAGp4FEgAaACIAKgAyBggBEgJ1azoAQgQIARAASgBaAHIAegCCQPoECAAQABgAIAAqLQoGZ3JhdmVsFaAHY0AaBnF1YXJyeRoJZ3JhdmVscGl0GgtpdjtwO2dyYXZlbCo0CgNwaXQVoAdjQBoEcGl0cxoGcXVhcnJ5GglncmF2ZWxwaXQaBXBpdHVrGghpdjtwO3BpdCopCgJ1axXsqoc_GgdlbmdsYW5kGg51bml0ZWQga2luZ2RvbRoFcGl0dWsy8AEvZ290bz91cmw9Q0FFU3B3RUI2enN3RlJneWFzUWRpYlRNWnBvMU9XLTFDYl9TeGlkUVpSMmJ5YV9kTlgzLW5GYmU0QXJDUHMyS0ZYbkhPUTNoQVlmX0tkQkdHS0JCY0lqenRjdnFxaUxDNUxpODA3cDRTeTkyNzFLOGYtXzhMQ2ZDSmdNU29LVEFWWHhyeWM2M0Y1RjQ2MVBDeG1jNFZIWnR3cjRha1Bqb21iMWFxMnFlUDJBUkhuXzdGeTZCaGl3UXZzQWJqczdwWFhvNGc0ZjdBTHlvanFVVGo1NGxhUjZKN2hHc0ZWTFJCNGlCaFE6QjxiPkdSQVZFTCBQSVQ8L2I-IEZBUk0gQUQgTElNSVRFRCBwZXJzb25zIHdpdGggc2lnbmlmaWNhbnQgY29udHJvbEKoATxiPkdSQVZFTCBQSVQgRkFSTSBBRCBMSU1JVEVEPC9iPiAtIEZyZWUgY29tcGFueSBpbmZvcm1hdGlvbiBmcm9tIENvbXBhbmllcyBIb3VzZSBpbmNsdWRpbmcgcmVnaXN0ZXJlZCBvZmZpY2UgYWRkcmVzcywgZmlsaW5nIGhpc3RvcnksIGFjY291bnRzLCBhbm51YWwgcmV0dXJuLCZuYnNwOy4uLiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CvABL2dvdG8_dXJsPUNBRVNwd0VCNnpzd0ZSZ3lhc1FkaWJUTVpwbzFPVy0xQ2JfU3hpZFFaUjJieWFfZE5YMy1uRmJlNEFyQ1BzMktGWG5IT1EzaEFZZl9LZEJHR0tCQmNJanp0Y3ZxcWlMQzVMaTgwN3A0U3k5MjcxSzhmLV84TENmQ0pnTVNvS1RBVlh4cnljNjNGNUY0NjFQQ3htYzRWSFp0d3I0YWtQam9tYjFhcTJxZVAyQVJIbl83Rnk2Qmhpd1F2c0FianM3cFhYbzRnNGY3QUx5b2pxVVRqNTRsYVI2SjdoR3NGVkxSQjRpQmhREgQaAggAGp4FEgAaACIAKgAyBggBEgJ1azoAQgQIARAASgBaAHIAegCCQPoECAAQABgAIAAqLQoGZ3JhdmVsFaAHY0AaBnF1YXJyeRoJZ3JhdmVscGl0GgtpdjtwO2dyYXZlbCo0CgNwaXQVoAdjQBoEcGl0cxoGcXVhcnJ5GglncmF2ZWxwaXQaBXBpdHVrGghpdjtwO3BpdCopCgJ1axXsqoc_GgdlbmdsYW5kGg51bml0ZWQga2luZ2RvbRoFcGl0dWsy8AEvZ290bz91cmw9Q0FFU3B3RUI2enN3RlJneWFzUWRpYlRNWnBvMU9XLTFDYl9TeGlkUVpSMmJ5YV9kTlgzLW5GYmU0QXJDUHMyS0ZYbkhPUTNoQVlmX0tkQkdHS0JCY0lqenRjdnFxaUxDNUxpODA3cDRTeTkyNzFLOGYtXzhMQ2ZDSmdNU29LVEFWWHhyeWM2M0Y1RjQ2MVBDeG1jNFZIWnR3cjRha1Bqb21iMWFxMnFlUDJBUkhuXzdGeTZCaGl3UXZzQWJqczdwWFhvNGc0ZjdBTHlvanFVVGo1NGxhUjZKN2hHc0ZWTFJCNGlCaFE6QjxiPkdSQVZFTCBQSVQ8L2I-IEZBUk0gQUQgTElNSVRFRCBwZXJzb25zIHdpdGggc2lnbmlmaWNhbnQgY29udHJvbEKoATxiPkdSQVZFTCBQSVQgRkFSTSBBRCBMSU1JVEVEPC9iPiAtIEZyZWUgY29tcGFueSBpbmZvcm1hdGlvbiBmcm9tIENvbXBhbmllcyBIb3VzZSBpbmNsdWRpbmcgcmVnaXN0ZXJlZCBvZmZpY2UgYWRkcmVzcywgZmlsaW5nIGhpc3RvcnksIGFjY291bnRzLCBhbm51YWwgcmV0dXJuLCZuYnNwOy4uLiICEAFIAFgAaAA",
+    "source": "Find and update company information"
+   },
+   {
+    "position": 9,
+    "title": "GRAVEL PIT - Heritage Gateway Record",
+    "link": "https://historicengland.org.uk/listing/heritage-gateway/results/record/00514065-b008-44ba-a64b-c2fc78241ee5/MBD7910",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESrgEB6zswFYGzlEQfVPxtThqiRIyGRk6SdCCsKALYW3oA4Yd3KqqlkaTrYbCcuzitFbpDdWQCSfjfFXG75UtJmOs2LXaJmU2BoSjMua1LlpYja1itB3xiuUJGKzJmdPQmHOTBalpHFzqGuKPhv8qWZfmuEF95WDPY5qDiWGwbJ_QAbixmN0yJEO98tQFUV4E-r_Zo8jgO-MicfwY1zJWtSuVnax2o5NTIbDiOPSJ7c8Q&ved=2ahUKEwjg8s6qkpaXAxVoKVkFHRRUDlwQFnoECEAQAQ&uoh=1",
+    "displayed_link": "https://historicengland.org.uk › record › MBD7910",
+    "favicon": "https://serpapi.com/images/i/UklGRjABAABXRUJQVlA4ICQBAAAwBgCdASocABwAPtEutFooIagoGAEAGglsAHeTcVxYBvNZKqPHo9g_WYcbXjv5OzoIONqZYPswBNgAAP72Av_Usl6cGrCO9gCbDepEspzB9pebS0-haemGk5p8nKIoOaCWMokW06VkEZFj-lXWAHqDioeGvyoc6Bof_ycD9RqoL8GdpoLL037f5TDFgT4ZV2MpBpI5-stskkmom4RLpDBIXrT307ZcDx0f8xUyE3hEBH4ECFj8jxpn83_v_n_n7eUd9qcfg3rnF-bQQHwz8wLnSonLgB6o1v4vioKNe19G7MPowrzI69ZPNBanNwfwPrWMsVr6uXf663UdRu4FOoONKPH9f9x2CjM_tKxeiSeNJeGw0SPf8vTuHAiLxe3LV52yqAAA.webp",
+    "snippet": "Gravel pit shown on map of 1835AD, mentioned in a document of 1840AD. A site visit in 1976AD confirmed the area is now grass fields. Bedfordshire & Luton ...",
+    "snippet_highlighted_words": [
+     "Gravel pit shown on map of 1835AD"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Gravel pit shown on map of 1835AD, mentioned in a document of 1840AD. A site visit in 1976AD confirmed the area is now grass fields. Bedfordshire & Luton ...",
+      "source_info_link": "https://historicengland.org.uk/listing/heritage-gateway/results/record/00514065-b008-44ba-a64b-c2fc78241ee5/MBD7910",
+      "icon": "https://serpapi.com/images/i/UklGRjABAABXRUJQVlA4ICQBAAAwBgCdASocABwAPtEutFooIagoGAEAGglsAHeTcVxYBvNZKqPHo9g_WYcbXjv5OzoIONqZYPswBNgAAP72Av_Usl6cGrCO9gCbDepEspzB9pebS0-haemGk5p8nKIoOaCWMokW06VkEZFj-lXWAHqDioeGvyoc6Bof_ycD9RqoL8GdpoLL037f5TDFgT4ZV2MpBpI5-stskkmom4RLpDBIXrT307ZcDx0f8xUyE3hEBH4ECFj8jxpn83_v_n_n7eUd9qcfg3rnF-bQQHwz8wLnSonLgB6o1v4vioKNe19G7MPowrzI69ZPNBanNwfwPrWMsVr6uXf663UdRu4FOoONKPH9f9x2CjM_tKxeiSeNJeGw0SPf8vTuHAiLxe3LV52yqAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CvkBL2dvdG8_dXJsPUNBRVNyZ0VCNnpzd0ZZR3psRVFmVlB4dFRocWlSSXlHUms2U2RDQ3NLQUxZVzNvQTRZZDNLcXFsa2FUclliQ2N1eml0RmJwRGRXUUNTZmpmRlhHNzVVdEptT3MyTFhhSm1VMkJvU2pNdWExTGxwWWphMWl0QjN4aXVVSkdLekptZFBRbUhPVEJhbHBIRnpxR3VLUGh2OHFXWmZtdUVGOTVXRFBZNXFEaVdHd2JKX1FBYml4bU4weUpFTzk4dFFGVVY0RS1yX1pvOGpnTy1NaWNmd1kxekpXdFN1Vm5heDJvNU5USWJEaU9QU0o3YzhREgQaAggAGq8FEgAaACIAKgAyBggBEgJ1azoAQgQIARAASgBaAHIAegCCQIsFCAAQABgAIAAqLQoGZ3JhdmVsFTWEVUAaBnF1YXJyeRoJZ3JhdmVscGl0GgtpdjtwO2dyYXZlbCo0CgNwaXQVNYRVQBoEcGl0cxoGcXVhcnJ5GglncmF2ZWxwaXQaBXBpdHVrGghpdjtwO3BpdCopCgJ1axXaSpI_GgdlbmdsYW5kGg51bml0ZWQga2luZ2RvbRoFcGl0dWsy-QEvZ290bz91cmw9Q0FFU3JnRUI2enN3RllHemxFUWZWUHh0VGhxaVJJeUdSazZTZENDc0tBTFlXM29BNFlkM0txcWxrYVRyWWJDY3V6aXRGYnBEZFdRQ1NmamZGWEc3NVV0Sm1PczJMWGFKbVUyQm9Tak11YTFMbHBZamExaXRCM3hpdVVKR0t6Sm1kUFFtSE9UQmFscEhGenFHdUtQaHY4cVdaZm11RUY5NVdEUFk1cURpV0d3YkpfUUFiaXhtTjB5SkVPOTh0UUZVVjRFLXJfWm84amdPLU1pY2Z3WTF6Sld0U3VWbmF4Mm81TlRJYkRpT1BTSjdjOFE6RTxiPkdSQVZFTCBQSVQ8L2I-IC0gSGVyaXRhZ2UgR2F0ZXdheSBSZWNvcmQgLSBIaXN0b3JpYyA8Yj5FbmdsYW5kPC9iPkKtATxiPkdyYXZlbCBwaXQgc2hvd24gb24gbWFwIG9mIDE4MzVBRDwvYj4sIG1lbnRpb25lZCBpbiBhIGRvY3VtZW50IG9mIDE4NDBBRC4gQSBzaXRlIHZpc2l0IGluIDE5NzZBRCBjb25maXJtZWQgdGhlIGFyZWEgaXMgbm93IGdyYXNzIGZpZWxkcy4gQmVkZm9yZHNoaXJlICZhbXA7IEx1dG9uJm5ic3A7Li4uIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CvkBL2dvdG8_dXJsPUNBRVNyZ0VCNnpzd0ZZR3psRVFmVlB4dFRocWlSSXlHUms2U2RDQ3NLQUxZVzNvQTRZZDNLcXFsa2FUclliQ2N1eml0RmJwRGRXUUNTZmpmRlhHNzVVdEptT3MyTFhhSm1VMkJvU2pNdWExTGxwWWphMWl0QjN4aXVVSkdLekptZFBRbUhPVEJhbHBIRnpxR3VLUGh2OHFXWmZtdUVGOTVXRFBZNXFEaVdHd2JKX1FBYml4bU4weUpFTzk4dFFGVVY0RS1yX1pvOGpnTy1NaWNmd1kxekpXdFN1Vm5heDJvNU5USWJEaU9QU0o3YzhREgQaAggAGq8FEgAaACIAKgAyBggBEgJ1azoAQgQIARAASgBaAHIAegCCQIsFCAAQABgAIAAqLQoGZ3JhdmVsFTWEVUAaBnF1YXJyeRoJZ3JhdmVscGl0GgtpdjtwO2dyYXZlbCo0CgNwaXQVNYRVQBoEcGl0cxoGcXVhcnJ5GglncmF2ZWxwaXQaBXBpdHVrGghpdjtwO3BpdCopCgJ1axXaSpI_GgdlbmdsYW5kGg51bml0ZWQga2luZ2RvbRoFcGl0dWsy-QEvZ290bz91cmw9Q0FFU3JnRUI2enN3RllHemxFUWZWUHh0VGhxaVJJeUdSazZTZENDc0tBTFlXM29BNFlkM0txcWxrYVRyWWJDY3V6aXRGYnBEZFdRQ1NmamZGWEc3NVV0Sm1PczJMWGFKbVUyQm9Tak11YTFMbHBZamExaXRCM3hpdVVKR0t6Sm1kUFFtSE9UQmFscEhGenFHdUtQaHY4cVdaZm11RUY5NVdEUFk1cURpV0d3YkpfUUFiaXhtTjB5SkVPOTh0UUZVVjRFLXJfWm84amdPLU1pY2Z3WTF6Sld0U3VWbmF4Mm81TlRJYkRpT1BTSjdjOFE6RTxiPkdSQVZFTCBQSVQ8L2I-IC0gSGVyaXRhZ2UgR2F0ZXdheSBSZWNvcmQgLSBIaXN0b3JpYyA8Yj5FbmdsYW5kPC9iPkKtATxiPkdyYXZlbCBwaXQgc2hvd24gb24gbWFwIG9mIDE4MzVBRDwvYj4sIG1lbnRpb25lZCBpbiBhIGRvY3VtZW50IG9mIDE4NDBBRC4gQSBzaXRlIHZpc2l0IGluIDE5NzZBRCBjb25maXJtZWQgdGhlIGFyZWEgaXMgbm93IGdyYXNzIGZpZWxkcy4gQmVkZm9yZHNoaXJlICZhbXA7IEx1dG9uJm5ic3A7Li4uIgIQAUgAWABoAA",
+    "source": "Historic England",
+    "read_more_link": "https://historicengland.org.uk/listing/heritage-gateway/results/record/00514065-b008-44ba-a64b-c2fc78241ee5/MBD7910#:~:text=Gravel%20pit%20shown%20on%20map,BLARS%20Book%20E%2C%20Enclosure%20award."
+   },
+   {
+    "position": 10,
+    "title": "Gravel Pit - CDs & Vinyl",
+    "link": "https://www.amazon.co.uk/Gravel-Pit-Wu-Tang-Clan/dp/B000BRHX84",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeQHrOzAV5CNwwytUz0UIZ984pvrnvdSlDoha9J-iVJjTVr_UKAPKxEGKhAu2pEr-FPTWQmApjh_AKVonFtsHFXQgbioHqBDjkEDICWVe7TLtJOkHcokRPCbHn3RMmzzp8M2ZDXTRfTrgBxWbInuC5WfBWL-mH2XGTIw&ved=2ahUKEwjg8s6qkpaXAxVoKVkFHRRUDlwQFnoECFEQAQ&uoh=1",
+    "displayed_link": "https://www.amazon.co.uk › Gravel-Pit-Wu-Tang-Clan",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9MWxYH_N1p6HholGkwuP7E-cXMafovqD0dRbqvmqLockJwRbd2QCt&usqp=CAE&s",
+    "favicon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
+    "snippet": "Shop Gravel Pit [Import]. Everyday low prices and free delivery on eligible orders.",
+    "snippet_highlighted_words": [
+     "Shop Gravel Pit"
+    ],
+    "rich_snippet": {
+     "top": {
+      "detected_extensions": {
+       "rating": 4.5,
+       "reviews": 7,
+       "price": 1.89,
+       "currency": "£",
+       "day_returns": 30
+      },
+      "extensions": [
+       "4.5(7)",
+       "£1.89",
+       "30-day returns"
+      ]
+     }
+    },
+    "about_this_result": {
+     "source": {
+      "description": "Shop Gravel Pit [Import]. Everyday low prices and free delivery on eligible orders.",
+      "source_info_link": "https://www.amazon.co.uk/Gravel-Pit-Wu-Tang-Clan/dp/B000BRHX84",
+      "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVjVDTnd3eXRVejBVSVo5ODRwdnJudmRTbERvaGE5Si1pVkpqVFZyX1VLQVBLeEVHS2hBdTJwRXItRlBUV1FtQXBqaF9BS1ZvbkZ0c0hGWFFnYmlvSHFCRGprRURJQ1dWZTdUTHRKT2tIY29rUlBDYkhuM1JNbXp6cDhNMlpEWFRSZlRyZ0J4V2JJbnVDNVdmQldMLW1IMlhHVEl3EgQaAggAGv8DEgAaAggBIgAqADIGCAESAnVrOgBCBAgBEABKAFoAcgB6AIJA2QMIABAAGAAgACotCgZncmF2ZWwVKuWYQBoGcXVhcnJ5GglncmF2ZWxwaXQaC2l2O3A7Z3JhdmVsKjQKA3BpdBUq5ZhAGgRwaXRzGgZxdWFycnkaCWdyYXZlbHBpdBoFcGl0dWsaCGl2O3A7cGl0KikKAnVrFfyegkAaB2VuZ2xhbmQaDnVuaXRlZCBraW5nZG9tGgVwaXR1azKxAS9nb3RvP3VybD1DQUVTZVFIck96QVY1Q053d3l0VXowVUlaOTg0cHZybnZkU2xEb2hhOUotaVZKalRWcl9VS0FQS3hFR0toQXUycEVyLUZQVFdRbUFwamhfQUtWb25GdHNIRlhRZ2Jpb0hxQkRqa0VESUNXVmU3VEx0Sk9rSGNva1JQQ2JIbjNSTW16enA4TTJaRFhUUmZUcmdCeFdiSW51QzVXZkJXTC1tSDJYR1RJdzovPGI-R3JhdmVsIFBpdDwvYj4gLSBDRHMgJmFtcDsgVmlueWwgLSBBbWF6b24gVUtCWjxiPlNob3AgR3JhdmVsIFBpdDwvYj4gW0ltcG9ydF0uIEV2ZXJ5ZGF5IGxvdyBwcmljZXMgYW5kIGZyZWUgZGVsaXZlcnkgb24gZWxpZ2libGUgb3JkZXJzLiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVjVDTnd3eXRVejBVSVo5ODRwdnJudmRTbERvaGE5Si1pVkpqVFZyX1VLQVBLeEVHS2hBdTJwRXItRlBUV1FtQXBqaF9BS1ZvbkZ0c0hGWFFnYmlvSHFCRGprRURJQ1dWZTdUTHRKT2tIY29rUlBDYkhuM1JNbXp6cDhNMlpEWFRSZlRyZ0J4V2JJbnVDNVdmQldMLW1IMlhHVEl3EgQaAggAGv8DEgAaAggBIgAqADIGCAESAnVrOgBCBAgBEABKAFoAcgB6AIJA2QMIABAAGAAgACotCgZncmF2ZWwVKuWYQBoGcXVhcnJ5GglncmF2ZWxwaXQaC2l2O3A7Z3JhdmVsKjQKA3BpdBUq5ZhAGgRwaXRzGgZxdWFycnkaCWdyYXZlbHBpdBoFcGl0dWsaCGl2O3A7cGl0KikKAnVrFfyegkAaB2VuZ2xhbmQaDnVuaXRlZCBraW5nZG9tGgVwaXR1azKxAS9nb3RvP3VybD1DQUVTZVFIck96QVY1Q053d3l0VXowVUlaOTg0cHZybnZkU2xEb2hhOUotaVZKalRWcl9VS0FQS3hFR0toQXUycEVyLUZQVFdRbUFwamhfQUtWb25GdHNIRlhRZ2Jpb0hxQkRqa0VESUNXVmU3VEx0Sk9rSGNva1JQQ2JIbjNSTW16enA4TTJaRFhUUmZUcmdCeFdiSW51QzVXZkJXTC1tSDJYR1RJdzovPGI-R3JhdmVsIFBpdDwvYj4gLSBDRHMgJmFtcDsgVmlueWwgLSBBbWF6b24gVUtCWjxiPlNob3AgR3JhdmVsIFBpdDwvYj4gW0ltcG9ydF0uIEV2ZXJ5ZGF5IGxvdyBwcmljZXMgYW5kIGZyZWUgZGVsaXZlcnkgb24gZWxpZ2libGUgb3JkZXJzLiICEAFIAFgAaAA",
+    "source": "Amazon UK"
+   }
+  ],
+  "related_searches": [
+   {
+    "block_position": 1,
+    "query": "Gravel pit uk map",
+    "link": "https://www.google.co.uk/search?sca_esv=d0c3879c3aba1c72&hl=en&gl=uk&sxsrf=APpeQntYb5f0kmJCrsihSYKu7ZOCbIMVFg:1790765765482&q=Gravel+pit+uk+map&sa=X&ved=2ahUKEwjg8s6qkpaXAxVoKVkFHRRUDlwQ1QJ6BAg7EAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&q=Gravel+pit+uk+map"
+   },
+   {
+    "block_position": 1,
+    "query": "Gravel pit uk hire",
+    "link": "https://www.google.co.uk/search?sca_esv=d0c3879c3aba1c72&hl=en&gl=uk&sxsrf=APpeQntYb5f0kmJCrsihSYKu7ZOCbIMVFg:1790765765482&q=Gravel+pit+uk+hire&sa=X&ved=2ahUKEwjg8s6qkpaXAxVoKVkFHRRUDlwQ1QJ6BAg8EAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&q=Gravel+pit+uk+hire"
+   }
+  ],
+  "pagination": {
+   "current": 1,
+   "next": "https://www.google.co.uk/search?q=Gravel+Pit+UK&sca_esv=d0c3879c3aba1c72&hl=en&gl=uk&sxsrf=APpeQntYb5f0kmJCrsihSYKu7ZOCbIMVFg:1790765765482&ei=xeq8aqD8HOjS5NoPlKi54AU&start=10&sa=N&sstk=AS6-VmLLqnxQ15TIMZ3LwYJend8Ap0y7qCgEIiDqyEYpBW7Mc0W0xU78TumXHuOSOETD2N0Akq4dbj-eviRnEffdMRtASKd8_4InDw&ved=2ahUKEwjg8s6qkpaXAxVoKVkFHRRUDlwQ8NMDegQIQxAI",
+   "other_pages": {
+    "2": "https://www.google.co.uk/search?q=Gravel+Pit+UK&sca_esv=d0c3879c3aba1c72&hl=en&gl=uk&sxsrf=APpeQntYb5f0kmJCrsihSYKu7ZOCbIMVFg:1790765765482&ei=xeq8aqD8HOjS5NoPlKi54AU&start=10&sa=N&sstk=AS6-VmLLqnxQ15TIMZ3LwYJend8Ap0y7qCgEIiDqyEYpBW7Mc0W0xU78TumXHuOSOETD2N0Akq4dbj-eviRnEffdMRtASKd8_4InDw&ved=2ahUKEwjg8s6qkpaXAxVoKVkFHRRUDlwQ8tMDegQIQxAE",
+    "3": "https://www.google.co.uk/search?q=Gravel+Pit+UK&sca_esv=d0c3879c3aba1c72&hl=en&gl=uk&sxsrf=APpeQntYb5f0kmJCrsihSYKu7ZOCbIMVFg:1790765765482&ei=xeq8aqD8HOjS5NoPlKi54AU&start=20&sa=N&sstk=AS6-VmLLqnxQ15TIMZ3LwYJend8Ap0y7qCgEIiDqyEYpBW7Mc0W0xU78TumXHuOSOETD2N0Akq4dbj-eviRnEffdMRtASKd8_4InDw&ved=2ahUKEwjg8s6qkpaXAxVoKVkFHRRUDlwQ8tMDegQIQxAG"
+   }
+  },
+  "serpapi_pagination": {
+   "current": 1,
+   "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&q=Gravel+Pit+UK&start=10",
+   "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&q=Gravel+Pit+UK&start=10",
+   "other_pages": {
+    "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&q=Gravel+Pit+UK&start=10",
+    "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&q=Gravel+Pit+UK&start=20"
+   }
+  }
+ }
+}

@@ -1,0 +1,26 @@
+# Per-market search parameters and pricing assumptions.
+# Values marked "assumption" are editable defaults shown to the user as assumptions, not facts.
+# Re-check duty rates and rules of origin before quoting; update last_verified when you do.
+
+uk:
+  label: United Kingdom
+  short_label: UK
+  currency: GBP
+  fx_pair: GBP-INR                  # google_finance q
+  vat_rate: 0.20
+  google: {gl: uk, hl: en, google_domain: google.co.uk, location: "London, England, United Kingdom"}
+  lens: {country: gb, hl: en}
+  amazon_domain: amazon.co.uk
+  ebay_domain: ebay.co.uk
+  trends_geo: GB
+  ads_region: "2826"                # Google Ads Transparency Center region code (serpapi.com/google-ads-transparency-center-regions)
+  maps_cities:
+    - {name: London,     ll: "@51.5072,-0.1276,12z"}
+    - {name: Manchester, ll: "@53.4808,-2.2426,12z"}
+    - {name: Birmingham, ll: "@52.4862,-1.8904,12z"}
+  duty_india: 0.0                   # India–UK CETA in force 2026-07-15; needs valid proof of origin
+  duty_competitor: 0.027            # assumption: typical UK Global Tariff on base-metal décor from non-FTA origins (e.g. China); verify per HS code
+  freight_ins_pct: 0.15             # assumption: freight, insurance and clearance as a share of FOB
+  markups: {retailer: 2.2, importer: 1.8}   # assumptions
+  buying_lead_months: 6             # assumption: buyers set seasonal ranges ~6 months ahead
+  last_verified: 2026-09-30

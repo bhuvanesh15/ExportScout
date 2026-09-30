@@ -1,0 +1,189 @@
+{
+ "task": "review_themes",
+ "model": "claude-opus-5-5",
+ "created_at": "2026-09-30T10:51:25+00:00",
+ "output": {
+  "themes": [
+   {
+    "label": "Glass broken or damaged in transit",
+    "kind": "complaint",
+    "review_indices": [
+     43,
+     50,
+     57
+    ],
+    "quotes": [
+     "the large one arrived with a significant smash",
+     "one had a shattered glass shade"
+    ],
+    "fix": "Use double-wall cartons with moulded pulp inserts, mark FRAGILE; drop-test to ISTA 1A."
+   },
+   {
+    "label": "Thin / tinny metal",
+    "kind": "complaint",
+    "review_indices": [
+     1,
+     7,
+     44,
+     63
+    ],
+    "quotes": [
+     "Very tinny, but looks OK with a candle in it",
+     "Thin metal and not sure how long they will last through winter"
+    ],
+    "fix": "Specify a heavier metal gauge and state it on the spec sheet."
+   },
+   {
+    "label": "Loose glass, bent door or catches",
+    "kind": "complaint",
+    "review_indices": [
+     0,
+     2,
+     41,
+     46
+    ],
+    "quotes": [
+     "all glass was loose when we opened it",
+     "all bent and twisted"
+    ],
+    "fix": "Secure glass with clips and silicone; QC-test doors and latches before packing."
+   },
+   {
+    "label": "Poor finish: paint chips, sharp edges",
+    "kind": "complaint",
+    "review_indices": [
+     15,
+     29,
+     46
+    ],
+    "quotes": [
+     "a few paint chips around the neck",
+     "the metal is very sharp on all the edges"
+    ],
+    "fix": "Deburr all edges and add paint-finish QC; use durable baked coating."
+   },
+   {
+    "label": "Rust / not suitable outdoors",
+    "kind": "complaint",
+    "review_indices": [
+     15,
+     32
+    ],
+    "quotes": [
+     "appears to have actually gone rusty",
+     "not suitable to leave outdoors!"
+    ],
+    "fix": "Powder-coat or lacquer iron parts; state indoor/sheltered use in the listing."
+   },
+   {
+    "label": "Nested set hard to unpack",
+    "kind": "complaint",
+    "review_indices": [
+     41,
+     42,
+     43
+    ],
+    "quotes": [
+     "Slightly tricky to get smaller lantern out of the large one",
+     "It was a bit awkward getting the smaller one out"
+    ],
+    "fix": "Pack nested lanterns separately or add a pull-tab insert for easy removal."
+   },
+   {
+    "label": "Beautiful look and glow",
+    "kind": "praise",
+    "review_indices": [
+     0,
+     4,
+     5,
+     9,
+     13,
+     14,
+     18,
+     24,
+     40,
+     45,
+     51,
+     52,
+     53,
+     58,
+     59
+    ],
+    "quotes": [
+     "they leave a beautiful pattern on the ceiling",
+     "Looked even nicer than the picture."
+    ],
+    "fix": null
+   },
+   {
+    "label": "Solid, well-made quality",
+    "kind": "praise",
+    "review_indices": [
+     4,
+     6,
+     16,
+     18,
+     25,
+     26,
+     27,
+     28,
+     29,
+     33,
+     34,
+     38,
+     52,
+     53,
+     61
+    ],
+    "quotes": [
+     "This thing is as solid as a rock.",
+     "Great quality lantern."
+    ],
+    "fix": null
+   },
+   {
+    "label": "Well packaged",
+    "kind": "praise",
+    "review_indices": [
+     6,
+     18,
+     31,
+     39,
+     40,
+     42,
+     52,
+     59,
+     60
+    ],
+    "quotes": [
+     "Really well packed as well, and included a spare glass panel.",
+     "Well packaged in polystyrene."
+    ],
+    "fix": null
+   },
+   {
+    "label": "Good value for money",
+    "kind": "praise",
+    "review_indices": [
+     3,
+     14,
+     26,
+     39,
+     40,
+     48,
+     53,
+     61,
+     64,
+     66,
+     69,
+     71
+    ],
+    "quotes": [
+     "Great value for money and I will be buying again.",
+     "Worth every penny."
+    ],
+    "fix": null
+   }
+  ]
+ }
+}

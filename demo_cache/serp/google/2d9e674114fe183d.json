@@ -1,0 +1,359 @@
+{
+ "engine": "google",
+ "params": {
+  "q": "Kayu Home UK",
+  "gl": "uk",
+  "hl": "en",
+  "google_domain": "google.co.uk"
+ },
+ "fetched_at": "2026-09-30T10:50:44+00:00",
+ "data": {
+  "search_metadata": {
+   "id": "6abce9849c2312848dddebc4",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/HK1xV6GDpqfVdXvea-dJbH_-Yqevcf9VAyNSuD_qhJc/6abce9849c2312848dddebc4.json",
+   "markdown_endpoint": "https://serpapi.com/searches/HK1xV6GDpqfVdXvea-dJbH_-Yqevcf9VAyNSuD_qhJc/6abce9849c2312848dddebc4.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/HK1xV6GDpqfVdXvea-dJbH_-Yqevcf9VAyNSuD_qhJc/6abce9849c2312848dddebc4.json_with_pixel_position",
+   "created_at": "2026-09-30 10:50:44 UTC",
+   "processed_at": "2026-09-30 10:50:44 UTC",
+   "google_url": "https://www.google.co.uk/search?q=Kayu+Home+UK&oq=Kayu+Home+UK&hl=en&gl=uk&sourceid=chrome&ie=UTF-8",
+   "raw_html_file": "https://serpapi.com/searches/HK1xV6GDpqfVdXvea-dJbH_-Yqevcf9VAyNSuD_qhJc/6abce9849c2312848dddebc4.html",
+   "total_time_taken": 0.52
+  },
+  "search_parameters": {
+   "engine": "google",
+   "q": "Kayu Home UK",
+   "google_domain": "google.co.uk",
+   "hl": "en",
+   "gl": "uk",
+   "device": "desktop"
+  },
+  "search_information": {
+   "query_displayed": "Kayu Home UK",
+   "total_results": 111000,
+   "time_taken_displayed": 0.19,
+   "organic_results_state": "Results for exact spelling"
+  },
+  "inline_images": [
+   {
+    "source": "https://kayuhome.co.uk/pages/reclaimed-garden-furniture",
+    "thumbnail": "https://serpapi.com/searches/6abce9849c2312848dddebc4/images/fgQAmDJJJctTY7CIvOxfGsQp90yv-yzrKKFPfTNB64I.jpeg",
+    "original": "https://kayuhome.co.uk/cdn/shop/collections/Outdoor-Header_1140x300_crop_center.jpg?v=1596020509",
+    "title": "Reclaimed Garden Furniture — Kayu Home",
+    "source_name": "Kayu Home"
+   },
+   {
+    "source": "https://kayuhome.co.uk/pages/nkuku-furniture",
+    "thumbnail": "https://serpapi.com/searches/6abce9849c2312848dddebc4/images/FrTlFuWfSiIZk6c1gDpAcSZqy4a_KWmmO7fjz8oenaY.jpeg",
+    "original": "https://kayuhome.co.uk/cdn/shop/collections/Nkuku-Cane-Furniture_1140x300_crop_center.jpg?v=1677843117",
+    "title": "Nkuku Furniture — Kayu Home",
+    "source_name": "Kayu Home"
+   },
+   {
+    "source": "https://kayuhome.co.uk/products/cala-reclaimed-wood-objet",
+    "thumbnail": "https://serpapi.com/searches/6abce9849c2312848dddebc4/images/AmFbXxMgR_sLqyMOS3sHjQxDiBOGaBZqIHG85TkDWeU.jpeg",
+    "original": "https://kayuhome.co.uk/cdn/shop/files/NP58659-NP58699-CalaReclaimedWoodObjetonStand-Large-nkuku-2_x700.jpg?v=1769440807",
+    "title": "Cala Reclaimed Wood Objet",
+    "source_name": "Kayu Home"
+   },
+   {
+    "source": "https://kayuhome.co.uk/products/gift-card",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFey4sAk_SW8iZgnEfpAINlFLmt6hwx9j1G3u3Gx_hYGZ-kuZNb5Stw3r5OQ&s",
+    "original": "https://kayuhome.co.uk/cdn/shop/files/Kayu_Home_E-Gift_Card_Design_x700.png?v=1764258200",
+    "title": "Kayu Home gift card",
+    "source_name": "Kayu Home"
+   },
+   {
+    "source": "https://kayuhome.co.uk/collections/all-nkuku-products?page=3&grid_list",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVA0DkaJpdWHejE_MdE0zAZFnIMSsNS1LMcRxNV1RpMkQ6z4tLV1IIZIw&s",
+    "original": "https://kayuhome.co.uk/cdn/shop/collections/Nkuku-All_1140x300_crop_center.jpg?v=1639748248",
+    "title": "All Nkuku Products — Page 3 — Kayu Home",
+    "source_name": "Kayu Home"
+   },
+   {
+    "source": "https://kayuhome.co.uk/pages/nkuku-mirrors",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgMLOsFwA09LIt4gKDYaXD9Aosf_21vuCXC9X0V5wM8p7qfO6qrocQU9A&s",
+    "original": "https://kayuhome.co.uk/cdn/shop/files/SM0801SandeArchedMangoWoodMirror01_x700.jpg?v=1737717282",
+    "title": "Nkuku Mirrors — Kayu Home",
+    "source_name": "Kayu Home"
+   },
+   {
+    "source": "https://kayuhome.co.uk/products/ibo-reclaimed-wood-round-side-table",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvatjGwBDH2JpEZcy76RARqF7j47GKUOuK-WA6j-g3l_b0fYBMzgUYUkw&s",
+    "original": "https://kayuhome.co.uk/cdn/shop/files/TC-NK-IT30016IboReclaimedWoodRoundSideTable_02_x700.jpg?v=1724336669",
+    "title": "Ibo Reclaimed Wood Round Side Table",
+    "source_name": "Kayu Home"
+   },
+   {
+    "source": "https://www.instagram.com/kayuhomeuk/",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi_cSofcg-Ey0nrVlCkxErsbIJ1JULRQjbqZoa-_LalyEXkYLcrnpe-y4&s",
+    "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3936141800552559359",
+    "title": "Kayu Home (@kayuhomeuk) · Bradford, VIC",
+    "source_name": "Instagram"
+   },
+   {
+    "source": "https://kayuhome.co.uk/pages/acacia-hardwood-furniture",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPs_B0xfVPR7tTk5Aw15pwKM-4FNQoz0EoAY4A8RmdfrWxsoXHIhB_ZAY&s",
+    "original": "https://kayuhome.co.uk/cdn/shop/collections/Acacia-Wood-Furniture_1140x300_crop_center.jpg?v=1710779607",
+    "title": "Acacia Hardwood Furniture — Kayu Home",
+    "source_name": "Kayu Home"
+   }
+  ],
+  "ai_overview": {
+   "page_token": "mrYuSniczVbddqI6FH6A8xzDzVQB0Va7FmtWEqim_pVSW9sbFgITUDHVoNS5m4c4b3Ce6jzNCSCKVto1czHrbIWYZO-dvZP95fPnP_NgMfv3r7_9KHpl16IYx3GVUErmXtWh1fVMtNl24Yjf6ZytHP-bP1e9hcDoeuV4gas6_oqGnkDm6nombDeqIjhMlQQvUP1h2LQjr44ql9PGgN4p61BeG00hdadaE5t5U77e25SJlshfsy-KxjtVVvUWVhtWIYsbsF0z5Dqp1iS5VR2Kdsh1wB8UQwcYQN5mTZkgAPTPnSUqBkCJr1wIOkxlomX-kjVJOtAtXRInVpB_MEhV7-pvDZ9xF6NcySyP2OCv57wTpw2E2YpmEhT5PJ-dQLDbGmjsQysVfH44s0SFRZ_fzZ7z1j_uUwC1OjAMmIdwcipmMSuoJ1kmGnwzKtobgHFQstk7A_59AJ0Z_TjFNBCEm_l2gBvGDxWLLuHFK4mTFW9kMXB8J_2xYklNo4eWRNvu2Ll71Efj6N5pPjKt0mbmesmCYcswRGfC9ebUdj3X8i3pW9qXa3JDailXzYsUTw7bA4oVATWk9_FgKbdYX6_2qlDOoYT2B3KSkM776NxZ8Z1F5wxSIQUcFIwDVKymvDh5ec8wV8NxwYGO75K2nQ8M-YEC6BShly-QuDwHpSOlHZTSwsJZiw_me5URPjgixSlt9j7Ld_cAQiDOytXQ0n2BJA_AONkmBEzM5_JReIwyA4LA15O0oMnzYamac1T_kn5_SBnl8SQFr--WHO1TzMxwAUqI1zdKK36Q6MwQmUHMg4UgMyIpKFKh5OT49ZIrDvEc4agUoh8KKbsPjgTnmDmBQBE6ujR9BC89D5iLuYnuNw_Ivok12-3_YPF5qNBw8mvk4_y_8JRT02hHTeV40j_HU3IVfkRN6etATWaGp245nnR8oCZSoCYpVzpQ0ymekFnAE9omGgTenKemX8UT-gBP-CM8JZmew5NRhqeUmo7wdHtKTUd42lNTjqffoyb8e9SUwsvLmmOeWk9JKV91_NVbXEMNbOi4130KEYVPygvp9C8vwad89T2MrkPbnV9YgXsNa7fR1r2w-AC99lxhqXbt7fprh_-1_DrqCuF8RVXJvnJ4_bR6fTqaXhqSVZ-8LAZrbby1lM7Qf0VaZCyW_afxQ3Oy7cdDHzwr7Xonel2izcutUumgaGOslrjXqj0NmsPHsd5dVKgZtX027ivtm0djPJ9GP4wx8eQ7BDbS7Xpi2c2GTOQh0xqVZdwcAreuwziNh6nB9G18G8iTmkIFHjjzVFkIV47KT6BOwMAAT4RXG3rmLED4Q_kT8-eSQxcKzLEtj21UV3KU5lXLUeyJLTtXNSEk0fZVrcsCW6xU-T_ZW0Qp",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=mrYuSniczVbddqI6FH6A8xzDzVQB0Va7FmtWEqim_pVSW9sbFgITUDHVoNS5m4c4b3Ce6jzNCSCKVto1czHrbIWYZO-dvZP95fPnP_NgMfv3r7_9KHpl16IYx3GVUErmXtWh1fVMtNl24Yjf6ZytHP-bP1e9hcDoeuV4gas6_oqGnkDm6nombDeqIjhMlQQvUP1h2LQjr44ql9PGgN4p61BeG00hdadaE5t5U77e25SJlshfsy-KxjtVVvUWVhtWIYsbsF0z5Dqp1iS5VR2Kdsh1wB8UQwcYQN5mTZkgAPTPnSUqBkCJr1wIOkxlomX-kjVJOtAtXRInVpB_MEhV7-pvDZ9xF6NcySyP2OCv57wTpw2E2YpmEhT5PJ-dQLDbGmjsQysVfH44s0SFRZ_fzZ7z1j_uUwC1OjAMmIdwcipmMSuoJ1kmGnwzKtobgHFQstk7A_59AJ0Z_TjFNBCEm_l2gBvGDxWLLuHFK4mTFW9kMXB8J_2xYklNo4eWRNvu2Ll71Efj6N5pPjKt0mbmesmCYcswRGfC9ebUdj3X8i3pW9qXa3JDailXzYsUTw7bA4oVATWk9_FgKbdYX6_2qlDOoYT2B3KSkM776NxZ8Z1F5wxSIQUcFIwDVKymvDh5ec8wV8NxwYGO75K2nQ8M-YEC6BShly-QuDwHpSOlHZTSwsJZiw_me5URPjgixSlt9j7Ld_cAQiDOytXQ0n2BJA_AONkmBEzM5_JReIwyA4LA15O0oMnzYamac1T_kn5_SBnl8SQFr--WHO1TzMxwAUqI1zdKK36Q6MwQmUHMg4UgMyIpKFKh5OT49ZIrDvEc4agUoh8KKbsPjgTnmDmBQBE6ujR9BC89D5iLuYnuNw_Ivok12-3_YPF5qNBw8mvk4_y_8JRT02hHTeV40j_HU3IVfkRN6etATWaGp245nnR8oCZSoCYpVzpQ0ymekFnAE9omGgTenKemX8UT-gBP-CM8JZmew5NRhqeUmo7wdHtKTUd42lNTjqffoyb8e9SUwsvLmmOeWk9JKV91_NVbXEMNbOi4130KEYVPygvp9C8vwad89T2MrkPbnV9YgXsNa7fR1r2w-AC99lxhqXbt7fprh_-1_DrqCuF8RVXJvnJ4_bR6fTqaXhqSVZ-8LAZrbby1lM7Qf0VaZCyW_afxQ3Oy7cdDHzwr7Xonel2izcutUumgaGOslrjXqj0NmsPHsd5dVKgZtX027ivtm0djPJ9GP4wx8eQ7BDbS7Xpi2c2GTOQh0xqVZdwcAreuwziNh6nB9G18G8iTmkIFHjjzVFkIV47KT6BOwMAAT4RXG3rmLED4Q_kT8-eSQxcKzLEtj21UV3KU5lXLUeyJLTtXNSEk0fZVrcsCW6xU-T_ZW0Qp"
+  },
+  "organic_results": [
+   {
+    "position": 1,
+    "title": "Vintage and Antique Asian Furniture — Page 2",
+    "link": "https://kayuhome.co.uk/collections/vintage-and-antique-oriental-furniture?page=2",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiAEB6zswFSVjQELEUFogppDxowaKIX1cUmk6AHvGT_r_IpIciEXbSHnfW7l-tJfyiH7KT0DoJ74Sn_4KASUQLuFNdjQbFNseb6KOL_rsEqSV4_ns8AeTgOj7-bUH4ZcPvkDYDIayAeW9ht3z8wh0SzWDPA8OW4Ob4PsI7vKmizf707kCHt8_YpSz&ved=2ahUKEwjXirWRkZaXAxXuEVkFHd50LfcQFnoECBMQAQ&uoh=1",
+    "displayed_link": "https://kayuhome.co.uk › ... › Page 2",
+    "favicon": "https://serpapi.com/images/i/UklGRq4AAABXRUJQVlA4IKIAAADwBACdASocABwAPtEutFooIagoGAEAGgllAMstjLLfaXwPcJwe7nS8OJn5HnYHMAAA_vYHuPj8nlvv1oDLGedjGscSgKpNn0AO-AiyXSn6KlBzI3wCkmaxz8SN0bP_A0iTjPM48y95SU0WPsty0hOIieIYL-ebSOhToj5g_rCgj1huZnZy7Lf9UPIqj9_FStAXoYzVdnzm29Eiizfll9GgAAA.webp",
+    "snippet": "We work with carefully selected suppliers around Asia to source unique, beautifully restored antiques and vintage furniture to bring to the UK on our regular ...",
+    "snippet_highlighted_words": [
+     "UK"
+    ],
+    "rich_snippet": {
+     "top": {
+      "detected_extensions": {
+       "rating": 4.9,
+       "store_rating": 119,
+       "day_delivery": "5–7",
+       "day_returns": 14
+      },
+      "extensions": [
+       "4.9",
+       "store rating (119)",
+       "5–7 day delivery",
+       "14-day returns"
+      ]
+     }
+    },
+    "about_this_result": {
+     "source": {
+      "description": "We work with carefully selected suppliers around Asia to source unique, beautifully restored antiques and vintage furniture to bring to the UK on our regular ...",
+      "source_info_link": "https://kayuhome.co.uk/collections/vintage-and-antique-oriental-furniture?page=2",
+      "icon": "https://serpapi.com/images/i/UklGRq4AAABXRUJQVlA4IKIAAADwBACdASocABwAPtEutFooIagoGAEAGgllAMstjLLfaXwPcJwe7nS8OJn5HnYHMAAA_vYHuPj8nlvv1oDLGedjGscSgKpNn0AO-AiyXSn6KlBzI3wCkmaxz8SN0bP_A0iTjPM48y95SU0WPsty0hOIieIYL-ebSOhToj5g_rCgj1huZnZy7Lf9UPIqj9_FStAXoYzVdnzm29Eiizfll9GgAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CsYBL2dvdG8_dXJsPUNBRVNpQUVCNnpzd0ZTVmpRRUxFVUZvZ3BwRHhvd2FLSVgxY1VtazZBSHZHVF9yX0lwSWNpRVhiU0huZlc3bC10SmZ5aUg3S1QwRG9KNzRTbl80S0FTVVFMdUZOZGpRYkZOc2ViNktPTF9yc0VxU1Y0X25zOEFlVGdPajctYlVINFpjUHZrRFlESWF5QWVXOWh0M3o4d2gwU3pXRFBBOE9XNE9iNFBzSTd2S21pemY3MDdrQ0h0OF9ZcFN6EgQaAggAGq8EEgAaACIAKgAyBggBEgJ1azoAQgQIARAASgBaAHIAegCCQIsECAAQABgAIAAqFgoEa2F5dRUO6uNAGglpdjtwO2theXUqIQoEaG9tZRWqV-VAGgVob21lcxoFaG91c2UaBmhvbWV1ayoRCgJ1axXBeBQ_GgZob21ldWsyxgEvZ290bz91cmw9Q0FFU2lBRUI2enN3RlNWalFFTEVVRm9ncHBEeG93YUtJWDFjVW1rNkFIdkdUX3JfSXBJY2lFWGJTSG5mVzdsLXRKZnlpSDdLVDBEb0o3NFNuXzRLQVNVUUx1Rk5kalFiRk5zZWI2S09MX3JzRXFTVjRfbnM4QWVUZ09qNy1iVUg0WmNQdmtEWURJYXlBZVc5aHQzejh3aDBTeldEUEE4T1c0T2I0UHNJN3ZLbWl6ZjcwN2tDSHQ4X1lwU3o6OlZpbnRhZ2UgYW5kIEFudGlxdWUgQXNpYW4gRnVybml0dXJlIOKAlCBQYWdlIDIgLSBLYXl1IEhvbWVCrQFXZSB3b3JrIHdpdGggY2FyZWZ1bGx5IHNlbGVjdGVkIHN1cHBsaWVycyBhcm91bmQgQXNpYSB0byBzb3VyY2UgdW5pcXVlLCBiZWF1dGlmdWxseSByZXN0b3JlZCBhbnRpcXVlcyBhbmQgdmludGFnZSBmdXJuaXR1cmUgdG8gYnJpbmcgdG8gdGhlIDxiPlVLPC9iPiBvbiBvdXIgcmVndWxhciZuYnNwOy4uLiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CsYBL2dvdG8_dXJsPUNBRVNpQUVCNnpzd0ZTVmpRRUxFVUZvZ3BwRHhvd2FLSVgxY1VtazZBSHZHVF9yX0lwSWNpRVhiU0huZlc3bC10SmZ5aUg3S1QwRG9KNzRTbl80S0FTVVFMdUZOZGpRYkZOc2ViNktPTF9yc0VxU1Y0X25zOEFlVGdPajctYlVINFpjUHZrRFlESWF5QWVXOWh0M3o4d2gwU3pXRFBBOE9XNE9iNFBzSTd2S21pemY3MDdrQ0h0OF9ZcFN6EgQaAggAGq8EEgAaACIAKgAyBggBEgJ1azoAQgQIARAASgBaAHIAegCCQIsECAAQABgAIAAqFgoEa2F5dRUO6uNAGglpdjtwO2theXUqIQoEaG9tZRWqV-VAGgVob21lcxoFaG91c2UaBmhvbWV1ayoRCgJ1axXBeBQ_GgZob21ldWsyxgEvZ290bz91cmw9Q0FFU2lBRUI2enN3RlNWalFFTEVVRm9ncHBEeG93YUtJWDFjVW1rNkFIdkdUX3JfSXBJY2lFWGJTSG5mVzdsLXRKZnlpSDdLVDBEb0o3NFNuXzRLQVNVUUx1Rk5kalFiRk5zZWI2S09MX3JzRXFTVjRfbnM4QWVUZ09qNy1iVUg0WmNQdmtEWURJYXlBZVc5aHQzejh3aDBTeldEUEE4T1c0T2I0UHNJN3ZLbWl6ZjcwN2tDSHQ4X1lwU3o6OlZpbnRhZ2UgYW5kIEFudGlxdWUgQXNpYW4gRnVybml0dXJlIOKAlCBQYWdlIDIgLSBLYXl1IEhvbWVCrQFXZSB3b3JrIHdpdGggY2FyZWZ1bGx5IHNlbGVjdGVkIHN1cHBsaWVycyBhcm91bmQgQXNpYSB0byBzb3VyY2UgdW5pcXVlLCBiZWF1dGlmdWxseSByZXN0b3JlZCBhbnRpcXVlcyBhbmQgdmludGFnZSBmdXJuaXR1cmUgdG8gYnJpbmcgdG8gdGhlIDxiPlVLPC9iPiBvbiBvdXIgcmVndWxhciZuYnNwOy4uLiICEAFIAFgAaAA",
+    "source": "Kayu Home",
+    "read_more_link": "https://kayuhome.co.uk/collections/vintage-and-antique-oriental-furniture?page=2#:~:text=We%20work%20with%20carefully%20selected,UK%20on%20our%20regular%20shipments."
+   },
+   {
+    "position": 2,
+    "title": "Vintage Indian Cabinets",
+    "link": "https://kayuhome.co.uk/pages/vintage-indian-cabinets",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbAHrOzAVekud-aGRdl1dgdpxT2EV6oPmaGjIuahByNmHCf9es323CcrY7fhRsicEJRUZ6PwFXlxwJ3Ct1jXcXIAZtQjQzlpcx4N7VurGLBYzikrI7kkqLDvfwb6BlNsS9CMl_7lkEcIextg26A&ved=2ahUKEwjXirWRkZaXAxXuEVkFHd50LfcQFnoECBYQAQ&uoh=1",
+    "displayed_link": "https://kayuhome.co.uk › pages › vintage-indian-cabinets",
+    "favicon": "https://serpapi.com/images/i/UklGRq4AAABXRUJQVlA4IKIAAADwBACdASocABwAPtEutFooIagoGAEAGgllAMstjLLfaXwPcJwe7nS8OJn5HnYHMAAA_vYHuPj8nlvv1oDLGedjGscSgKpNn0AO-AiyXSn6KlBzI3wCkmaxz8SN0bP_A0iTjPM48y95SU0WPsty0hOIieIYL-ebSOhToj5g_rCgj1huZnZy7Lf9UPIqj9_FStAXoYzVdnzm29Eiizfll9GgAAA.webp",
+    "snippet": "Exquisite Indian Cabinets for your home. Shop now and get 10% OFF your first order. Perfect blend of quality and savings.",
+    "snippet_highlighted_words": [
+     "Exquisite Indian Cabinets for your home"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Exquisite Indian Cabinets for your home. Shop now and get 10% OFF your first order. Perfect blend of quality and savings.",
+      "source_info_link": "https://kayuhome.co.uk/pages/vintage-indian-cabinets",
+      "icon": "https://serpapi.com/images/i/UklGRq4AAABXRUJQVlA4IKIAAADwBACdASocABwAPtEutFooIagoGAEAGgllAMstjLLfaXwPcJwe7nS8OJn5HnYHMAAA_vYHuPj8nlvv1oDLGedjGscSgKpNn0AO-AiyXSn6KlBzI3wCkmaxz8SN0bP_A0iTjPM48y95SU0WPsty0hOIieIYL-ebSOhToj5g_rCgj1huZnZy7Lf9UPIqj9_FStAXoYzVdnzm29Eiizfll9GgAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVmVrdWQtYUdSZGwxZGdkcHhUMkVWNm9QbWFHakl1YWhCeU5tSENmOWVzMzIzQ2NyWTdmaFJzaWNFSlJVWjZQd0ZYbHh3SjNDdDFqWGNYSUFadFFqUXpscGN4NE43VnVyR0xCWXppa3JJN2trcUxEdmZ3YjZCbE5zUzlDTWxfN2xrRWNJZXh0ZzI2QRIEGgIIABrFAxIAGgAiACoAMgYIARICdWs6AEIECAEQAEoAWgByAHoAgkChAwgAEAAYACAAKhYKBGtheXUVoFr0QBoJaXY7cDtrYXl1KiEKBGhvbWUVkW74QBoFaG9tZXMaBWhvdXNlGgZob21ldWsqEQoCdWsVLAIzPxoGaG9tZXVrMqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVmVrdWQtYUdSZGwxZGdkcHhUMkVWNm9QbWFHakl1YWhCeU5tSENmOWVzMzIzQ2NyWTdmaFJzaWNFSlJVWjZQd0ZYbHh3SjNDdDFqWGNYSUFadFFqUXpscGN4NE43VnVyR0xCWXppa3JJN2trcUxEdmZ3YjZCbE5zUzlDTWxfN2xrRWNJZXh0ZzI2QTojVmludGFnZSBJbmRpYW4gQ2FiaW5ldHMgLSBLYXl1IEhvbWVCgAE8Yj5FeHF1aXNpdGUgSW5kaWFuIENhYmluZXRzIGZvciB5b3VyIGhvbWU8L2I-LiBTaG9wIG5vdyBhbmQgZ2V0IDEwJSBPRkYgeW91ciBmaXJzdCBvcmRlci4gUGVyZmVjdCBibGVuZCBvZiBxdWFsaXR5IGFuZCBzYXZpbmdzLiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVmVrdWQtYUdSZGwxZGdkcHhUMkVWNm9QbWFHakl1YWhCeU5tSENmOWVzMzIzQ2NyWTdmaFJzaWNFSlJVWjZQd0ZYbHh3SjNDdDFqWGNYSUFadFFqUXpscGN4NE43VnVyR0xCWXppa3JJN2trcUxEdmZ3YjZCbE5zUzlDTWxfN2xrRWNJZXh0ZzI2QRIEGgIIABrFAxIAGgAiACoAMgYIARICdWs6AEIECAEQAEoAWgByAHoAgkChAwgAEAAYACAAKhYKBGtheXUVoFr0QBoJaXY7cDtrYXl1KiEKBGhvbWUVkW74QBoFaG9tZXMaBWhvdXNlGgZob21ldWsqEQoCdWsVLAIzPxoGaG9tZXVrMqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVmVrdWQtYUdSZGwxZGdkcHhUMkVWNm9QbWFHakl1YWhCeU5tSENmOWVzMzIzQ2NyWTdmaFJzaWNFSlJVWjZQd0ZYbHh3SjNDdDFqWGNYSUFadFFqUXpscGN4NE43VnVyR0xCWXppa3JJN2trcUxEdmZ3YjZCbE5zUzlDTWxfN2xrRWNJZXh0ZzI2QTojVmludGFnZSBJbmRpYW4gQ2FiaW5ldHMgLSBLYXl1IEhvbWVCgAE8Yj5FeHF1aXNpdGUgSW5kaWFuIENhYmluZXRzIGZvciB5b3VyIGhvbWU8L2I-LiBTaG9wIG5vdyBhbmQgZ2V0IDEwJSBPRkYgeW91ciBmaXJzdCBvcmRlci4gUGVyZmVjdCBibGVuZCBvZiBxdWFsaXR5IGFuZCBzYXZpbmdzLiICEAFIAFgAaAA",
+    "source": "Kayu Home"
+   },
+   {
+    "position": 3,
+    "title": "KAYU FURNITURE LTD people - Companies House - GOV.UK",
+    "link": "https://find-and-update.company-information.service.gov.uk/company/14379552/officers",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjAEB6zswFQ6kBoowYt8YvNjAO0Fc0fYnHuRKW77gruAjzSFk1iADaPpq2Dx8t2E2t49BPPisdHFVcbTp8Z2XT4rdBpMg_HEHzBeRKqtQZz4cVJRWhq0owMCRee4ekAX486x9oup7UxX-C8f68ZaVxGWq0bzGdKMZqT0qWcL3y-0VKv4HfjdKKMkCpErOgg&ved=2ahUKEwjXirWRkZaXAxXuEVkFHd50LfcQFnoECBEQAQ&uoh=1",
+    "displayed_link": "https://find-and-update.company-information.service.gov.uk › ...",
+    "favicon": "https://serpapi.com/images/i/UklGRhgBAABXRUJQVlA4IAwBAAAwBgCdASocABwAPtE-tFooIigoFAEAGgloAJ0yhHp496oAiAFWyZytQAMtBxxeoo0v-ukyi91RSUmAAP5tq_b9aeTUksslz1bykvnoSeNsDcPyo5M_1_OL_N6zZIdLehoX_zUl-ET4KtFrXLBT8kc4tQu5oC8i_ugLTiU5sHmdS6vQ9o-_zd3Trc_rtaTl4-ncTsepxs0eCTVPA9c0v4EPxd1_zGFFZTm-3TgDWGON9_V8467cPT_lIoXVJCYHBvAamqBBmH12TC3ezccMwXyjcyz50b6euvyUReqT5RY2mJ-Kuu3NW7x52cE5EN9f1Y-44VHb19inO6ikqhd0FPC5piGcBUzPXX0ogAAA.webp",
+    "snippet": "KAYU FURNITURE LTD … address 28 Milton Road, Flat 2, London, United Kingdom, SE24. Nationality British Country of residence England",
+    "snippet_highlighted_words": [
+     "KAYU"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "KAYU FURNITURE LTD … address 28 Milton Road, Flat 2, London, United Kingdom, SE24. Nationality British Country of residence England",
+      "source_info_link": "https://find-and-update.company-information.service.gov.uk/company/14379552/officers",
+      "icon": "https://serpapi.com/images/i/UklGRhgBAABXRUJQVlA4IAwBAAAwBgCdASocABwAPtE-tFooIigoFAEAGgloAJ0yhHp496oAiAFWyZytQAMtBxxeoo0v-ukyi91RSUmAAP5tq_b9aeTUksslz1bykvnoSeNsDcPyo5M_1_OL_N6zZIdLehoX_zUl-ET4KtFrXLBT8kc4tQu5oC8i_ugLTiU5sHmdS6vQ9o-_zd3Trc_rtaTl4-ncTsepxs0eCTVPA9c0v4EPxd1_zGFFZTm-3TgDWGON9_V8467cPT_lIoXVJCYHBvAamqBBmH12TC3ezccMwXyjcyz50b6euvyUReqT5RY2mJ-Kuu3NW7x52cE5EN9f1Y-44VHb19inO6ikqhd0FPC5piGcBUzPXX0ogAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CswBL2dvdG8_dXJsPUNBRVNqQUVCNnpzd0ZRNmtCb293WXQ4WXZOakFPMEZjMGZZbkh1UktXNzdncnVBanpTRmsxaUFEYVBwcTJEeDh0MkUydDQ5QlBQaXNkSEZWY2JUcDhaMlhUNHJkQnBNZ19IRUh6QmVSS3F0UVp6NGNWSlJXaHEwb3dNQ1JlZTRla0FYNDg2eDlvdXA3VXhYLUM4ZjY4WmFWeEdXcTBiekdkS01acVQwcVdjTDN5LTBWS3Y0SGZqZEtLTWtDcEVyT2dnEgQaAggAGpUEEgAaACIAKgAyBggBEgJ1azoAQgQIARAASgBaAHIAegCCQPEDCAAQABgAIAAqFgoEa2F5dRV9CztAGglpdjtwO2theXUqIQoEaG9tZRUAAAAAGgVob21lcxoFaG91c2UaBmhvbWV1ayoRCgJ1axXhgwdAGgZob21ldWsyzAEvZ290bz91cmw9Q0FFU2pBRUI2enN3RlE2a0Jvb3dZdDhZdk5qQU8wRmMwZlluSHVSS1c3N2dydUFqelNGazFpQURhUHBxMkR4OHQyRTJ0NDlCUFBpc2RIRlZjYlRwOFoyWFQ0cmRCcE1nX0hFSHpCZVJLcXRRWno0Y1ZKUldocTBvd01DUmVlNGVrQVg0ODZ4OW91cDdVeFgtQzhmNjhaYVZ4R1dxMGJ6R2RLTVpxVDBxV2NMM3ktMFZLdjRIZmpkS0tNa0NwRXJPZ2c6OzxiPktBWVU8L2I-IEZVUk5JVFVSRSBMVEQgcGVvcGxlIC0gQ29tcGFuaWVzIEhvdXNlIC0gR09WLlVLQowBPGI-S0FZVTwvYj4gRlVSTklUVVJFIExURCDigKYgYWRkcmVzcyAyOCBNaWx0b24gUm9hZCwgRmxhdCAyLCBMb25kb24sIFVuaXRlZCBLaW5nZG9tLCBTRTI0LiBOYXRpb25hbGl0eSBCcml0aXNoIENvdW50cnkgb2YgcmVzaWRlbmNlIEVuZ2xhbmQiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CswBL2dvdG8_dXJsPUNBRVNqQUVCNnpzd0ZRNmtCb293WXQ4WXZOakFPMEZjMGZZbkh1UktXNzdncnVBanpTRmsxaUFEYVBwcTJEeDh0MkUydDQ5QlBQaXNkSEZWY2JUcDhaMlhUNHJkQnBNZ19IRUh6QmVSS3F0UVp6NGNWSlJXaHEwb3dNQ1JlZTRla0FYNDg2eDlvdXA3VXhYLUM4ZjY4WmFWeEdXcTBiekdkS01acVQwcVdjTDN5LTBWS3Y0SGZqZEtLTWtDcEVyT2dnEgQaAggAGpUEEgAaACIAKgAyBggBEgJ1azoAQgQIARAASgBaAHIAegCCQPEDCAAQABgAIAAqFgoEa2F5dRV9CztAGglpdjtwO2theXUqIQoEaG9tZRUAAAAAGgVob21lcxoFaG91c2UaBmhvbWV1ayoRCgJ1axXhgwdAGgZob21ldWsyzAEvZ290bz91cmw9Q0FFU2pBRUI2enN3RlE2a0Jvb3dZdDhZdk5qQU8wRmMwZlluSHVSS1c3N2dydUFqelNGazFpQURhUHBxMkR4OHQyRTJ0NDlCUFBpc2RIRlZjYlRwOFoyWFQ0cmRCcE1nX0hFSHpCZVJLcXRRWno0Y1ZKUldocTBvd01DUmVlNGVrQVg0ODZ4OW91cDdVeFgtQzhmNjhaYVZ4R1dxMGJ6R2RLTVpxVDBxV2NMM3ktMFZLdjRIZmpkS0tNa0NwRXJPZ2c6OzxiPktBWVU8L2I-IEZVUk5JVFVSRSBMVEQgcGVvcGxlIC0gQ29tcGFuaWVzIEhvdXNlIC0gR09WLlVLQowBPGI-S0FZVTwvYj4gRlVSTklUVVJFIExURCDigKYgYWRkcmVzcyAyOCBNaWx0b24gUm9hZCwgRmxhdCAyLCBMb25kb24sIFVuaXRlZCBLaW5nZG9tLCBTRTI0LiBOYXRpb25hbGl0eSBCcml0aXNoIENvdW50cnkgb2YgcmVzaWRlbmNlIEVuZ2xhbmQiAhABSABYAGgA",
+    "source": "Find and update company information"
+   },
+   {
+    "position": 4,
+    "title": "Reclaimed Wood Sideboard",
+    "link": "https://kayuhome.co.uk/pages/reclaimed-wood-sideboard",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbQHrOzAVwebOOPn59NQuSnI1t-PIzqnGiuGdvgE68Sr03-h3TDIbJkAHAxAaXk-z7XS9aByK68jAfUYaPnAGvvIEIug-JEGnFG_VZm2bikVNHGc-dsBrQtnFvpc-ARpSGAQLFOykx51LKrFaOsY&ved=2ahUKEwjXirWRkZaXAxXuEVkFHd50LfcQFnoECBAQAQ&uoh=1",
+    "displayed_link": "https://kayuhome.co.uk › pages › reclaimed-wood-side...",
+    "favicon": "https://serpapi.com/images/i/UklGRq4AAABXRUJQVlA4IKIAAADwBACdASocABwAPtEutFooIagoGAEAGgllAMstjLLfaXwPcJwe7nS8OJn5HnYHMAAA_vYHuPj8nlvv1oDLGedjGscSgKpNn0AO-AiyXSn6KlBzI3wCkmaxz8SN0bP_A0iTjPM48y95SU0WPsty0hOIieIYL-ebSOhToj5g_rCgj1huZnZy7Lf9UPIqj9_FStAXoYzVdnzm29Eiizfll9GgAAA.webp",
+    "snippet": "A reclaimed wood sideboard will add warmth and style to any home. Shop now and get 10% OFF your first order. Perfect blend of quality and savings.",
+    "snippet_highlighted_words": [
+     "A reclaimed wood sideboard will add warmth and style to any home"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "A reclaimed wood sideboard will add warmth and style to any home. Shop now and get 10% OFF your first order. Perfect blend of quality and savings.",
+      "source_info_link": "https://kayuhome.co.uk/pages/reclaimed-wood-sideboard",
+      "icon": "https://serpapi.com/images/i/UklGRq4AAABXRUJQVlA4IKIAAADwBACdASocABwAPtEutFooIagoGAEAGgllAMstjLLfaXwPcJwe7nS8OJn5HnYHMAAA_vYHuPj8nlvv1oDLGedjGscSgKpNn0AO-AiyXSn6KlBzI3wCkmaxz8SN0bP_A0iTjPM48y95SU0WPsty0hOIieIYL-ebSOhToj5g_rCgj1huZnZy7Lf9UPIqj9_FStAXoYzVdnzm29Eiizfll9GgAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CqEBL2dvdG8_dXJsPUNBRVNiUUhyT3pBVndlYk9PUG41OU5RdVNuSTF0LVBJenFuR2l1R2R2Z0U2OFNyMDMtaDNUREliSmtBSEF4QWFYay16N1hTOWFCeUs2OGpBZlVZYVBuQUd2dklFSXVnLUpFR25GR19WWm0yYmlrVk5IR2MtZHNCclF0bkZ2cGMtQVJwU0dBUUxGT3lreDUxTEtyRmFPc1kSBBoCCAAa4AMSABoAIgAqADIGCAESAnVrOgBCBAgBEABKAFoAcgB6AIJAvAMIABAAGAAgACoWCgRrYXl1FcEU9EAaCWl2O3A7a2F5dSohCgRob21lFaj9_kAaBWhvbWVzGgVob3VzZRoGaG9tZXVrKhEKAnVrFa11WD8aBmhvbWV1azKhAS9nb3RvP3VybD1DQUVTYlFIck96QVZ3ZWJPT1BuNTlOUXVTbkkxdC1QSXpxbkdpdUdkdmdFNjhTcjAzLWgzVERJYkprQUhBeEFhWGstejdYUzlhQnlLNjhqQWZVWWFQbkFHdnZJRUl1Zy1KRUduRkdfVlptMmJpa1ZOSEdjLWRzQnJRdG5GdnBjLUFScFNHQVFMRk95a3g1MUxLckZhT3NZOiRSZWNsYWltZWQgV29vZCBTaWRlYm9hcmQgLSBLYXl1IEhvbWVCmQE8Yj5BIHJlY2xhaW1lZCB3b29kIHNpZGVib2FyZCB3aWxsIGFkZCB3YXJtdGggYW5kIHN0eWxlIHRvIGFueSBob21lPC9iPi4gU2hvcCBub3cgYW5kIGdldCAxMCUgT0ZGIHlvdXIgZmlyc3Qgb3JkZXIuIFBlcmZlY3QgYmxlbmQgb2YgcXVhbGl0eSBhbmQgc2F2aW5ncy4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CqEBL2dvdG8_dXJsPUNBRVNiUUhyT3pBVndlYk9PUG41OU5RdVNuSTF0LVBJenFuR2l1R2R2Z0U2OFNyMDMtaDNUREliSmtBSEF4QWFYay16N1hTOWFCeUs2OGpBZlVZYVBuQUd2dklFSXVnLUpFR25GR19WWm0yYmlrVk5IR2MtZHNCclF0bkZ2cGMtQVJwU0dBUUxGT3lreDUxTEtyRmFPc1kSBBoCCAAa4AMSABoAIgAqADIGCAESAnVrOgBCBAgBEABKAFoAcgB6AIJAvAMIABAAGAAgACoWCgRrYXl1FcEU9EAaCWl2O3A7a2F5dSohCgRob21lFaj9_kAaBWhvbWVzGgVob3VzZRoGaG9tZXVrKhEKAnVrFa11WD8aBmhvbWV1azKhAS9nb3RvP3VybD1DQUVTYlFIck96QVZ3ZWJPT1BuNTlOUXVTbkkxdC1QSXpxbkdpdUdkdmdFNjhTcjAzLWgzVERJYkprQUhBeEFhWGstejdYUzlhQnlLNjhqQWZVWWFQbkFHdnZJRUl1Zy1KRUduRkdfVlptMmJpa1ZOSEdjLWRzQnJRdG5GdnBjLUFScFNHQVFMRk95a3g1MUxLckZhT3NZOiRSZWNsYWltZWQgV29vZCBTaWRlYm9hcmQgLSBLYXl1IEhvbWVCmQE8Yj5BIHJlY2xhaW1lZCB3b29kIHNpZGVib2FyZCB3aWxsIGFkZCB3YXJtdGggYW5kIHN0eWxlIHRvIGFueSBob21lPC9iPi4gU2hvcCBub3cgYW5kIGdldCAxMCUgT0ZGIHlvdXIgZmlyc3Qgb3JkZXIuIFBlcmZlY3QgYmxlbmQgb2YgcXVhbGl0eSBhbmQgc2F2aW5ncy4iAhABSABYAGgA",
+    "source": "Kayu Home"
+   },
+   {
+    "position": 5,
+    "title": "Leather and Wood Armchair",
+    "link": "https://kayuhome.co.uk/pages/leather-and-wood-armchair",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbgHrOzAVtvkBdCLYq62d-_ponJe-QA6vcfBSgkuvTAguk2yfnmxdGstkbnGIdhgjoRTMop08O4m7EjdPAfGdREKihTHjS0_b2gDjTPL9H5pcAOFd_cyaZDIPHz6Wj36iArda-JYPt7Vl8_aaY1eb&ved=2ahUKEwjXirWRkZaXAxXuEVkFHd50LfcQFnoECBcQAQ&uoh=1",
+    "displayed_link": "https://kayuhome.co.uk › pages › leather-and-wood-ar...",
+    "favicon": "https://serpapi.com/images/i/UklGRq4AAABXRUJQVlA4IKIAAADwBACdASocABwAPtEutFooIagoGAEAGgllAMstjLLfaXwPcJwe7nS8OJn5HnYHMAAA_vYHuPj8nlvv1oDLGedjGscSgKpNn0AO-AiyXSn6KlBzI3wCkmaxz8SN0bP_A0iTjPM48y95SU0WPsty0hOIieIYL-ebSOhToj5g_rCgj1huZnZy7Lf9UPIqj9_FStAXoYzVdnzm29Eiizfll9GgAAA.webp",
+    "snippet": "A leather and wood armchair brings sustainability and elegance to any home. Shop now and get 10% OFF your first order. Perfect blend of quality and savings.",
+    "snippet_highlighted_words": [
+     "A leather and wood armchair brings sustainability and elegance to any home"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "A leather and wood armchair brings sustainability and elegance to any home. Shop now and get 10% OFF your first order. Perfect blend of quality and savings.",
+      "source_info_link": "https://kayuhome.co.uk/pages/leather-and-wood-armchair",
+      "icon": "https://serpapi.com/images/i/UklGRq4AAABXRUJQVlA4IKIAAADwBACdASocABwAPtEutFooIagoGAEAGgllAMstjLLfaXwPcJwe7nS8OJn5HnYHMAAA_vYHuPj8nlvv1oDLGedjGscSgKpNn0AO-AiyXSn6KlBzI3wCkmaxz8SN0bP_A0iTjPM48y95SU0WPsty0hOIieIYL-ebSOhToj5g_rCgj1huZnZy7Lf9UPIqj9_FStAXoYzVdnzm29Eiizfll9GgAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CqIBL2dvdG8_dXJsPUNBRVNiZ0hyT3pBVnR2a0JkQ0xZcTYyZC1fcG9uSmUtUUE2dmNmQlNna3V2VEFndWsyeWZubXhkR3N0a2JuR0lkaGdqb1JUTW9wMDhPNG03RWpkUEFmR2RSRUtpaFRIalMwX2IyZ0RqVFBMOUg1cGNBT0ZkX2N5YVpESVBIejZXajM2aUFyZGEtSllQdDdWbDhfYWFZMWViEgQaAggAGuwDEgAaACIAKgAyBggBEgJ1azoAQgQIARAASgBaAHIAegCCQMgDCAAQABgAIAAqFgoEa2F5dRW4WvNAGglpdjtwO2theXUqIQoEaG9tZRUmHfNAGgVob21lcxoFaG91c2UaBmhvbWV1ayoRCgJ1axW41zA_GgZob21ldWsyogEvZ290bz91cmw9Q0FFU2JnSHJPekFWdHZrQmRDTFlxNjJkLV9wb25KZS1RQTZ2Y2ZCU2drdXZUQWd1azJ5Zm5teGRHc3RrYm5HSWRoZ2pvUlRNb3AwOE80bTdFamRQQWZHZFJFS2loVEhqUzBfYjJnRGpUUEw5SDVwY0FPRmRfY3lhWkRJUEh6NldqMzZpQXJkYS1KWVB0N1ZsOF9hYVkxZWI6JUxlYXRoZXIgYW5kIFdvb2QgQXJtY2hhaXIgLSBLYXl1IEhvbWVCowE8Yj5BIGxlYXRoZXIgYW5kIHdvb2QgYXJtY2hhaXIgYnJpbmdzIHN1c3RhaW5hYmlsaXR5IGFuZCBlbGVnYW5jZSB0byBhbnkgaG9tZTwvYj4uIFNob3Agbm93IGFuZCBnZXQgMTAlIE9GRiB5b3VyIGZpcnN0IG9yZGVyLiBQZXJmZWN0IGJsZW5kIG9mIHF1YWxpdHkgYW5kIHNhdmluZ3MuIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CqIBL2dvdG8_dXJsPUNBRVNiZ0hyT3pBVnR2a0JkQ0xZcTYyZC1fcG9uSmUtUUE2dmNmQlNna3V2VEFndWsyeWZubXhkR3N0a2JuR0lkaGdqb1JUTW9wMDhPNG03RWpkUEFmR2RSRUtpaFRIalMwX2IyZ0RqVFBMOUg1cGNBT0ZkX2N5YVpESVBIejZXajM2aUFyZGEtSllQdDdWbDhfYWFZMWViEgQaAggAGuwDEgAaACIAKgAyBggBEgJ1azoAQgQIARAASgBaAHIAegCCQMgDCAAQABgAIAAqFgoEa2F5dRW4WvNAGglpdjtwO2theXUqIQoEaG9tZRUmHfNAGgVob21lcxoFaG91c2UaBmhvbWV1ayoRCgJ1axW41zA_GgZob21ldWsyogEvZ290bz91cmw9Q0FFU2JnSHJPekFWdHZrQmRDTFlxNjJkLV9wb25KZS1RQTZ2Y2ZCU2drdXZUQWd1azJ5Zm5teGRHc3RrYm5HSWRoZ2pvUlRNb3AwOE80bTdFamRQQWZHZFJFS2loVEhqUzBfYjJnRGpUUEw5SDVwY0FPRmRfY3lhWkRJUEh6NldqMzZpQXJkYS1KWVB0N1ZsOF9hYVkxZWI6JUxlYXRoZXIgYW5kIFdvb2QgQXJtY2hhaXIgLSBLYXl1IEhvbWVCowE8Yj5BIGxlYXRoZXIgYW5kIHdvb2QgYXJtY2hhaXIgYnJpbmdzIHN1c3RhaW5hYmlsaXR5IGFuZCBlbGVnYW5jZSB0byBhbnkgaG9tZTwvYj4uIFNob3Agbm93IGFuZCBnZXQgMTAlIE9GRiB5b3VyIGZpcnN0IG9yZGVyLiBQZXJmZWN0IGJsZW5kIG9mIHF1YWxpdHkgYW5kIHNhdmluZ3MuIgIQAUgAWABoAA",
+    "source": "Kayu Home"
+   },
+   {
+    "position": 6,
+    "title": "The growing trend for vintage and antique",
+    "link": "https://kayuhome.co.uk/blogs/news/the-growing-trend-for-vintage-and-antique",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgwEB6zswFWVDvfv3pwXcE6DiojMaoA48N9mP_5pTsJ4Jdo86TMteNoEhLz-SvwJqaAeqGBNq98HkQwfaweKVnpVURFU-aJljlI6OzuklzaG4jxuoqZZVVtxLRkHX_hOF_mowlC5oARMDm7iBb9a09xYreyTLQkLqkQySe6tgy1Gps4Sm2A&ved=2ahUKEwjXirWRkZaXAxXuEVkFHd50LfcQFnoECBQQAQ&uoh=1",
+    "displayed_link": "https://kayuhome.co.uk › blogs › news › the-growing-t...",
+    "favicon": "https://serpapi.com/images/i/UklGRq4AAABXRUJQVlA4IKIAAADwBACdASocABwAPtEutFooIagoGAEAGgllAMstjLLfaXwPcJwe7nS8OJn5HnYHMAAA_vYHuPj8nlvv1oDLGedjGscSgKpNn0AO-AiyXSn6KlBzI3wCkmaxz8SN0bP_A0iTjPM48y95SU0WPsty0hOIieIYL-ebSOhToj5g_rCgj1huZnZy7Lf9UPIqj9_FStAXoYzVdnzm29Eiizfll9GgAAA.webp",
+    "date": "9 Sept 2020",
+    "snippet": "At Kayu Home, along with our wide range of reclaimed wood furniture, we source vintage and antique furniture from around the world, ...",
+    "snippet_highlighted_words": [
+     "vintage and antique furniture"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "At Kayu Home, along with our wide range of reclaimed wood furniture, we source vintage and antique furniture from around the world, ...",
+      "source_info_link": "https://kayuhome.co.uk/blogs/news/the-growing-trend-for-vintage-and-antique",
+      "icon": "https://serpapi.com/images/i/UklGRq4AAABXRUJQVlA4IKIAAADwBACdASocABwAPtEutFooIagoGAEAGgllAMstjLLfaXwPcJwe7nS8OJn5HnYHMAAA_vYHuPj8nlvv1oDLGedjGscSgKpNn0AO-AiyXSn6KlBzI3wCkmaxz8SN0bP_A0iTjPM48y95SU0WPsty0hOIieIYL-ebSOhToj5g_rCgj1huZnZy7Lf9UPIqj9_FStAXoYzVdnzm29Eiizfll9GgAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0ZXVkR2ZnYzcHdYY0U2RGlvak1hb0E0OE45bVBfNXBUc0o0SmRvODZUTXRlTm9FaEx6LVN2d0pxYUFlcUdCTnE5OEhrUXdmYXdlS1ZucFZVUkZVLWFKbGpsSTZPenVrbHphRzRqeHVvcVpaVlZ0eExSa0hYX2hPRl9tb3dsQzVvQVJNRG03aUJiOWEwOXhZcmV5VExRa0xxa1F5U2U2dGd5MUdwczRTbTJBEgQaAggAGooEEgAaACIAKgAyBggBEgJ1azoAQgQIARAASgBaAHIAegCCQOYDCAAQABgAIAAqFgoEa2F5dRW_sO1AGglpdjtwO2theXUqIQoEaG9tZRVWXPBAGgVob21lcxoFaG91c2UaBmhvbWV1ayoRCgJ1axV26Es_GgZob21ldWsywAEvZ290bz91cmw9Q0FFU2d3RUI2enN3RldWRHZmdjNwd1hjRTZEaW9qTWFvQTQ4TjltUF81cFRzSjRKZG84NlRNdGVOb0VoTHotU3Z3SnFhQWVxR0JOcTk4SGtRd2Zhd2VLVm5wVlVSRlUtYUpsamxJNk96dWtsemFHNGp4dW9xWlpWVnR4TFJrSFhfaE9GX21vd2xDNW9BUk1EbTdpQmI5YTA5eFlyZXlUTFFrTHFrUXlTZTZ0Z3kxR3BzNFNtMkE6NVRoZSBncm93aW5nIHRyZW5kIGZvciB2aW50YWdlIGFuZCBhbnRpcXVlIC0gS2F5dSBIb21lQpMBQXQgS2F5dSBIb21lLCBhbG9uZyB3aXRoIG91ciB3aWRlIHJhbmdlIG9mIHJlY2xhaW1lZCB3b29kIGZ1cm5pdHVyZSwgd2Ugc291cmNlIDxiPnZpbnRhZ2UgYW5kIGFudGlxdWUgZnVybml0dXJlPC9iPiBmcm9tIGFyb3VuZCB0aGUgd29ybGQsJm5ic3A7Li4uIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0ZXVkR2ZnYzcHdYY0U2RGlvak1hb0E0OE45bVBfNXBUc0o0SmRvODZUTXRlTm9FaEx6LVN2d0pxYUFlcUdCTnE5OEhrUXdmYXdlS1ZucFZVUkZVLWFKbGpsSTZPenVrbHphRzRqeHVvcVpaVlZ0eExSa0hYX2hPRl9tb3dsQzVvQVJNRG03aUJiOWEwOXhZcmV5VExRa0xxa1F5U2U2dGd5MUdwczRTbTJBEgQaAggAGooEEgAaACIAKgAyBggBEgJ1azoAQgQIARAASgBaAHIAegCCQOYDCAAQABgAIAAqFgoEa2F5dRW_sO1AGglpdjtwO2theXUqIQoEaG9tZRVWXPBAGgVob21lcxoFaG91c2UaBmhvbWV1ayoRCgJ1axV26Es_GgZob21ldWsywAEvZ290bz91cmw9Q0FFU2d3RUI2enN3RldWRHZmdjNwd1hjRTZEaW9qTWFvQTQ4TjltUF81cFRzSjRKZG84NlRNdGVOb0VoTHotU3Z3SnFhQWVxR0JOcTk4SGtRd2Zhd2VLVm5wVlVSRlUtYUpsamxJNk96dWtsemFHNGp4dW9xWlpWVnR4TFJrSFhfaE9GX21vd2xDNW9BUk1EbTdpQmI5YTA5eFlyZXlUTFFrTHFrUXlTZTZ0Z3kxR3BzNFNtMkE6NVRoZSBncm93aW5nIHRyZW5kIGZvciB2aW50YWdlIGFuZCBhbnRpcXVlIC0gS2F5dSBIb21lQpMBQXQgS2F5dSBIb21lLCBhbG9uZyB3aXRoIG91ciB3aWRlIHJhbmdlIG9mIHJlY2xhaW1lZCB3b29kIGZ1cm5pdHVyZSwgd2Ugc291cmNlIDxiPnZpbnRhZ2UgYW5kIGFudGlxdWUgZnVybml0dXJlPC9iPiBmcm9tIGFyb3VuZCB0aGUgd29ybGQsJm5ic3A7Li4uIgIQAUgAWABoAA",
+    "source": "Kayu Home"
+   },
+   {
+    "position": 7,
+    "title": "Reclaimed Wood Coffee Tables",
+    "link": "https://kayuhome.co.uk/pages/reclaimed-wood-coffee-tables",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScQHrOzAVxOWTPbAiqQET106vxGpV_W3KQqhiac5UbhWgoH5FTPusuqHi2N_AfSDScdE79TwwLCr_IB0MDns5lqh_pK-pdKEzIhNSqd0Bv--hi0nQNz5XchJ5ZlAkkIzKFBwuctDZItEQagkLBcpfR_A_&ved=2ahUKEwjXirWRkZaXAxXuEVkFHd50LfcQFnoECBkQAQ&uoh=1",
+    "displayed_link": "https://kayuhome.co.uk › pages › reclaimed-wood-coff...",
+    "favicon": "https://serpapi.com/images/i/UklGRq4AAABXRUJQVlA4IKIAAADwBACdASocABwAPtEutFooIagoGAEAGgllAMstjLLfaXwPcJwe7nS8OJn5HnYHMAAA_vYHuPj8nlvv1oDLGedjGscSgKpNn0AO-AiyXSn6KlBzI3wCkmaxz8SN0bP_A0iTjPM48y95SU0WPsty0hOIieIYL-ebSOhToj5g_rCgj1huZnZy7Lf9UPIqj9_FStAXoYzVdnzm29Eiizfll9GgAAA.webp",
+    "snippet": "At Kayu Home, we offer a range of stylish coffee tables made from repurposed timber such as old beams and struts which have been salvaged from disused ...",
+    "snippet_highlighted_words": [
+     "stylish coffee tables made from repurposed timber"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "At Kayu Home, we offer a range of stylish coffee tables made from repurposed timber such as old beams and struts which have been salvaged from disused ...",
+      "source_info_link": "https://kayuhome.co.uk/pages/reclaimed-wood-coffee-tables",
+      "icon": "https://serpapi.com/images/i/UklGRq4AAABXRUJQVlA4IKIAAADwBACdASocABwAPtEutFooIagoGAEAGgllAMstjLLfaXwPcJwe7nS8OJn5HnYHMAAA_vYHuPj8nlvv1oDLGedjGscSgKpNn0AO-AiyXSn6KlBzI3wCkmaxz8SN0bP_A0iTjPM48y95SU0WPsty0hOIieIYL-ebSOhToj5g_rCgj1huZnZy7Lf9UPIqj9_FStAXoYzVdnzm29Eiizfll9GgAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CqYBL2dvdG8_dXJsPUNBRVNjUUhyT3pBVnhPV1RQYkFpcVFFVDEwNnZ4R3BWX1czS1FxaGlhYzVVYmhXZ29INUZUUHVzdXFIaTJOX0FmU0RTY2RFNzlUd3dMQ3JfSUIwTURuczVscWhfcEstcGRLRXpJaE5TcWQwQnYtLWhpMG5RTno1WGNoSjVabEFra0l6S0ZCd3VjdERaSXRFUWFna0xCY3BmUl9BXxIEGgIIABr2AxIAGgAiACoAMgYIARICdWs6AEIECAEQAEoAWgByAHoAgkDSAwgAEAAYACAAKhYKBGtheXUVodjxQBoJaXY7cDtrYXl1KiEKBGhvbWUVPrP4QBoFaG9tZXMaBWhvdXNlGgZob21ldWsqEQoCdWsV5KMuPxoGaG9tZXVrMqYBL2dvdG8_dXJsPUNBRVNjUUhyT3pBVnhPV1RQYkFpcVFFVDEwNnZ4R3BWX1czS1FxaGlhYzVVYmhXZ29INUZUUHVzdXFIaTJOX0FmU0RTY2RFNzlUd3dMQ3JfSUIwTURuczVscWhfcEstcGRLRXpJaE5TcWQwQnYtLWhpMG5RTno1WGNoSjVabEFra0l6S0ZCd3VjdERaSXRFUWFna0xCY3BmUl9BXzooUmVjbGFpbWVkIFdvb2QgQ29mZmVlIFRhYmxlcyAtIEtheXUgSG9tZUKmAUF0IEtheXUgSG9tZSwgd2Ugb2ZmZXIgYSByYW5nZSBvZiA8Yj5zdHlsaXNoIGNvZmZlZSB0YWJsZXMgbWFkZSBmcm9tIHJlcHVycG9zZWQgdGltYmVyPC9iPiBzdWNoIGFzIG9sZCBiZWFtcyBhbmQgc3RydXRzIHdoaWNoIGhhdmUgYmVlbiBzYWx2YWdlZCBmcm9tIGRpc3VzZWQmbmJzcDsuLi4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CqYBL2dvdG8_dXJsPUNBRVNjUUhyT3pBVnhPV1RQYkFpcVFFVDEwNnZ4R3BWX1czS1FxaGlhYzVVYmhXZ29INUZUUHVzdXFIaTJOX0FmU0RTY2RFNzlUd3dMQ3JfSUIwTURuczVscWhfcEstcGRLRXpJaE5TcWQwQnYtLWhpMG5RTno1WGNoSjVabEFra0l6S0ZCd3VjdERaSXRFUWFna0xCY3BmUl9BXxIEGgIIABr2AxIAGgAiACoAMgYIARICdWs6AEIECAEQAEoAWgByAHoAgkDSAwgAEAAYACAAKhYKBGtheXUVodjxQBoJaXY7cDtrYXl1KiEKBGhvbWUVPrP4QBoFaG9tZXMaBWhvdXNlGgZob21ldWsqEQoCdWsV5KMuPxoGaG9tZXVrMqYBL2dvdG8_dXJsPUNBRVNjUUhyT3pBVnhPV1RQYkFpcVFFVDEwNnZ4R3BWX1czS1FxaGlhYzVVYmhXZ29INUZUUHVzdXFIaTJOX0FmU0RTY2RFNzlUd3dMQ3JfSUIwTURuczVscWhfcEstcGRLRXpJaE5TcWQwQnYtLWhpMG5RTno1WGNoSjVabEFra0l6S0ZCd3VjdERaSXRFUWFna0xCY3BmUl9BXzooUmVjbGFpbWVkIFdvb2QgQ29mZmVlIFRhYmxlcyAtIEtheXUgSG9tZUKmAUF0IEtheXUgSG9tZSwgd2Ugb2ZmZXIgYSByYW5nZSBvZiA8Yj5zdHlsaXNoIGNvZmZlZSB0YWJsZXMgbWFkZSBmcm9tIHJlcHVycG9zZWQgdGltYmVyPC9iPiBzdWNoIGFzIG9sZCBiZWFtcyBhbmQgc3RydXRzIHdoaWNoIGhhdmUgYmVlbiBzYWx2YWdlZCBmcm9tIGRpc3VzZWQmbmJzcDsuLi4iAhABSABYAGgA",
+    "source": "Kayu Home"
+   },
+   {
+    "position": 8,
+    "title": "Chest Wooden Tall Iya Reclaimed Wood Tall Boy Chest ...",
+    "link": "https://cbtestweb.co.uk/?h=39552554061330",
+    "displayed_link": "https://cbtestweb.co.uk · 17 Sept 2026",
+    "thumbnail": "https://serpapi.com/searches/6abce9849c2312848dddebc4/images/X9w0gRJEGi7ufm9ovpCqXqKIfT8In3YHAb3_90HYaPk.jpeg",
+    "favicon": "https://serpapi.com/images/i/UklGRiQBAABXRUJQVlA4IBgBAABwBgCdASogACAAPtEutFooIagoGAEAGgljALfY5mpA9xL1VX_6p1oGWicJQD_caAOBkvC8Hw3atq4-FAAA_vylaHcJf4cfvjNP2uJ1hmN0hkvZxqia_xMhNWGGMpNfRG8iXXJMEE-fisAz4bTDzE1qnTqrUliEvXnQyOpIiYSwoMaRnqznpbKtm0rLfM9nnh_RIaQoLYxQ2rTdPBwbO1maNCZxyZnpJFfolWpKSJhifXr1i-FGJH2ESrbUQ_SgunQnIBH8WkWCiKOWImNRkVpI2sV5XjFFRUs4EFQGgoDSNxgAXxsaUcML-t58F4u6rQ0lzavEqCFqh4Cm18vOfH55NMVVgyzPLJEig-E0Be4FZFN3MXlHQAAA.webp",
+    "snippet": "Chest Of Drawers — Kayu Home. 20% OFF shipping at cbtestweb.co.uk on orders over $79 + up to 10% OFF products",
+    "duration": "0:52",
+    "about_this_result": {
+     "source": {
+      "description": "Chest Of Drawers — Kayu Home. 20% OFF shipping at cbtestweb.co.uk on orders over $79 + up to 10% OFF products",
+      "icon": "https://serpapi.com/images/i/UklGRiQBAABXRUJQVlA4IBgBAABwBgCdASogACAAPtEutFooIagoGAEAGgljALfY5mpA9xL1VX_6p1oGWicJQD_caAOBkvC8Hw3atq4-FAAA_vylaHcJf4cfvjNP2uJ1hmN0hkvZxqia_xMhNWGGMpNfRG8iXXJMEE-fisAz4bTDzE1qnTqrUliEvXnQyOpIiYSwoMaRnqznpbKtm0rLfM9nnh_RIaQoLYxQ2rTdPBwbO1maNCZxyZnpJFfolWpKSJhifXr1i-FGJH2ESrbUQ_SgunQnIBH8WkWCiKOWImNRkVpI2sV5XjFFRUs4EFQGgoDSNxgAXxsaUcML-t58F4u6rQ0lzavEqCFqh4Cm18vOfH55NMVVgyzPLJEig-E0Be4FZFN3MXlHQAAA.webp"
+     }
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CpEBL2dvdG8_dXJsPUNBRVNZUUhyT3pBVlpTZktxbUtXVG5uNGVueVUzeVR2UUJ2c3ZLYlkzQS1jcUk5NEZucmFlc3FUeEpsVmxtejRtS2U3d1FnLVdIcWM2eHFCVDgtX3E0XzFzU0VFeG5EWUlKaFRVcmdZdnhKdHlyb3JwU2d5S2VjeUVUNzVITnJVc1pIUGJCbxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CpEBL2dvdG8_dXJsPUNBRVNZUUhyT3pBVlpTZktxbUtXVG5uNGVueVUzeVR2UUJ2c3ZLYlkzQS1jcUk5NEZucmFlc3FUeEpsVmxtejRtS2U3d1FnLVdIcWM2eHFCVDgtX3E0XzFzU0VFeG5EWUlKaFRVcmdZdnhKdHlyb3JwU2d5S2VjeUVUNzVITnJVc1pIUGJCbxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+    "source": ""
+   }
+  ],
+  "pagination": {
+   "current": 1,
+   "next": "https://www.google.co.uk/search?q=Kayu+Home+UK&sca_esv=d0c3879c3aba1c72&hl=en&gl=uk&sxsrf=APpeQnsk9NOkNw-mWPccxoSbFVQGSKOEmw:1790765444196&ei=hOm8ate4C-6j5NoP3um1uQ8&start=10&sa=N&sstk=AS6-VmLd5hd09R8VLWxn8Baf9kUmC0PhNx1TSin4tYLPj1UXetrbJX_Tgp2scWhVU1H2tvSHsQ42rsy-xk31tN_S5iew2WovR5KR2w&ved=2ahUKEwjXirWRkZaXAxXuEVkFHd50LfcQ8NMDegQIPBAI",
+   "other_pages": {
+    "2": "https://www.google.co.uk/search?q=Kayu+Home+UK&sca_esv=d0c3879c3aba1c72&hl=en&gl=uk&sxsrf=APpeQnsk9NOkNw-mWPccxoSbFVQGSKOEmw:1790765444196&ei=hOm8ate4C-6j5NoP3um1uQ8&start=10&sa=N&sstk=AS6-VmLd5hd09R8VLWxn8Baf9kUmC0PhNx1TSin4tYLPj1UXetrbJX_Tgp2scWhVU1H2tvSHsQ42rsy-xk31tN_S5iew2WovR5KR2w&ved=2ahUKEwjXirWRkZaXAxXuEVkFHd50LfcQ8tMDegQIPBAE",
+    "3": "https://www.google.co.uk/search?q=Kayu+Home+UK&sca_esv=d0c3879c3aba1c72&hl=en&gl=uk&sxsrf=APpeQnsk9NOkNw-mWPccxoSbFVQGSKOEmw:1790765444196&ei=hOm8ate4C-6j5NoP3um1uQ8&start=20&sa=N&sstk=AS6-VmLd5hd09R8VLWxn8Baf9kUmC0PhNx1TSin4tYLPj1UXetrbJX_Tgp2scWhVU1H2tvSHsQ42rsy-xk31tN_S5iew2WovR5KR2w&ved=2ahUKEwjXirWRkZaXAxXuEVkFHd50LfcQ8tMDegQIPBAG"
+   }
+  },
+  "serpapi_pagination": {
+   "current": 1,
+   "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&q=Kayu+Home+UK&start=10",
+   "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&q=Kayu+Home+UK&start=10",
+   "other_pages": {
+    "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&q=Kayu+Home+UK&start=10",
+    "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&q=Kayu+Home+UK&start=20"
+   }
+  }
+ }
+}

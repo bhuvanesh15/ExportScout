@@ -1,0 +1,364 @@
+{
+ "engine": "google",
+ "params": {
+  "q": "Hortology UK",
+  "gl": "uk",
+  "hl": "en",
+  "google_domain": "google.co.uk"
+ },
+ "fetched_at": "2026-09-30T10:56:06+00:00",
+ "data": {
+  "search_metadata": {
+   "id": "6abceac5bc3f0b501b710a5e",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/Wnh2ecfts4PeU8cemZMs8PWie5NFycE6vf5Tyf5v3AA/6abceac5bc3f0b501b710a5e.json",
+   "markdown_endpoint": "https://serpapi.com/searches/Wnh2ecfts4PeU8cemZMs8PWie5NFycE6vf5Tyf5v3AA/6abceac5bc3f0b501b710a5e.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/Wnh2ecfts4PeU8cemZMs8PWie5NFycE6vf5Tyf5v3AA/6abceac5bc3f0b501b710a5e.json_with_pixel_position",
+   "created_at": "2026-09-30 10:56:05 UTC",
+   "processed_at": "2026-09-30 10:56:05 UTC",
+   "google_url": "https://www.google.co.uk/search?q=Hortology+UK&oq=Hortology+UK&hl=en&gl=uk&sourceid=chrome&ie=UTF-8",
+   "raw_html_file": "https://serpapi.com/searches/Wnh2ecfts4PeU8cemZMs8PWie5NFycE6vf5Tyf5v3AA/6abceac5bc3f0b501b710a5e.html",
+   "total_time_taken": 0.38
+  },
+  "search_parameters": {
+   "engine": "google",
+   "q": "Hortology UK",
+   "google_domain": "google.co.uk",
+   "hl": "en",
+   "gl": "uk",
+   "device": "desktop"
+  },
+  "search_information": {
+   "query_displayed": "Hortology UK",
+   "total_results": 24500,
+   "time_taken_displayed": 0.2,
+   "organic_results_state": "Results for exact spelling"
+  },
+  "ai_overview": {
+   "error": "An AI Overview is not available for this search"
+  },
+  "organic_results": [
+   {
+    "position": 1,
+    "title": "Small Houseplants",
+    "link": "https://hortology.co.uk/collections/small-houseplants/tall-plants-over-75cm",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgwEB6zswFdWyD5G6NcuBDApOHPaONGJvkketf6Ea-fPkK0cRldSLLhQOpP-gdoIiNqmzcSG6zCZfolUH3JH4cUD9iui-CD7WAbSNB8Kj5yjhxQ7ds8F-0bURfMOzmueRIIE2Mc86oi9WmHSM0m2i9_s8zP8CMEPO_OsLu2DJlWMmWl_EhA&ved=2ahUKEwiGns2qkpaXAxW0MVkFHQ38A_QQFnoECBkQAQ&uoh=1",
+    "displayed_link": "https://hortology.co.uk › collections › small-houseplants",
+    "favicon": "https://serpapi.com/images/i/UklGRkoBAABXRUJQVlA4ID4BAACQBgCdASocABwAPtE-tFooIigoFAEAGglpAAUQIYZ44vof0V91VS1sl0aOZS-b14tWnnyZZ5C4CHNfd3agAP77K6zKxDrYq2x217-dMpMhN6IrAri__aGJ_kzfKLOwQ__8dvSgJLO7_Sb7QETbd6zx0_I5H82q4R4tXBnGl_UPGc0725Lf8LgOsWn7G66OIht_abhs0CQc2-l_DB0Z295l3eYcuovx7bkIilUndpFYFu92HGv81Iu_9hWqL64_wBr54ag3gKlwmhQqeyPNTvwlHanv9hRpp9Zlq4k71if1pDawR6ylDRzMxd__jW3yeDlaib44AEN4mr1Qb-4M_6PdT8KHEO0Bhe2-yP3U_7f7DVpXwmn658mV2mP9b0Zvd1RW40NP4EU33wbxbWC3UGPGUchobFZfxiga7M9AAAA.webp",
+    "snippet": "Buy small indoor plants at Hortology. Our small houseplant collection includes simple succulents and cute cacti as well as Aglaonema, Draceana, ...",
+    "snippet_highlighted_words": [
+     "Hortology"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Buy small indoor plants at Hortology. Our small houseplant collection includes simple succulents and cute cacti as well as Aglaonema, Draceana, ...",
+      "source_info_link": "https://hortology.co.uk/collections/small-houseplants/tall-plants-over-75cm",
+      "icon": "https://serpapi.com/images/i/UklGRkoBAABXRUJQVlA4ID4BAACQBgCdASocABwAPtE-tFooIigoFAEAGglpAAUQIYZ44vof0V91VS1sl0aOZS-b14tWnnyZZ5C4CHNfd3agAP77K6zKxDrYq2x217-dMpMhN6IrAri__aGJ_kzfKLOwQ__8dvSgJLO7_Sb7QETbd6zx0_I5H82q4R4tXBnGl_UPGc0725Lf8LgOsWn7G66OIht_abhs0CQc2-l_DB0Z295l3eYcuovx7bkIilUndpFYFu92HGv81Iu_9hWqL64_wBr54ag3gKlwmhQqeyPNTvwlHanv9hRpp9Zlq4k71if1pDawR6ylDRzMxd__jW3yeDlaib44AEN4mr1Qb-4M_6PdT8KHEO0Bhe2-yP3U_7f7DVpXwmn658mV2mP9b0Zvd1RW40NP4EU33wbxbWC3UGPGUchobFZfxiga7M9AAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0ZkV3lENUc2TmN1QkRBcE9IUGFPTkdKdmtrZXRmNkVhLWZQa0swY1JsZFNMTGhRT3BQLWdkb0lpTnFtemNTRzZ6Q1pmb2xVSDNKSDRjVUQ5aXVpLUNEN1dBYlNOQjhLajV5amh4UTdkczhGLTBiVVJmTU96bXVlUklJRTJNYzg2b2k5V21IU00wbTJpOV9zOHpQOENNRVBPX09zTHUyREpsV01tV2xfRWhBEgQaAggAGowEEgAaACIAKgAyBggBEgJ1azoAQgQIARAASgBaEwgBEg9ob3J0b2xvZ3kuY28udWtyAHoAgkDVAwgAEAAYACAAKiwKCWhvcnRvbG9neRVSru5AGgpob3J0IG9sb2d5Gg5pdjtwO2hvcnRvbG9neSoZCgJ1axVMSxNAGg51bml0ZWQga2luZ2RvbTLAAS9nb3RvP3VybD1DQUVTZ3dFQjZ6c3dGZFd5RDVHNk5jdUJEQXBPSFBhT05HSnZra2V0ZjZFYS1mUGtLMGNSbGRTTExoUU9wUC1nZG9JaU5xbXpjU0c2ekNaZm9sVUgzSkg0Y1VEOWl1aS1DRDdXQWJTTkI4S2o1eWpoeFE3ZHM4Ri0wYlVSZk1Pem11ZVJJSUUyTWM4Nm9pOVdtSFNNMG0yaTlfczh6UDhDTUVQT19Pc0x1MkRKbFdNbVdsX0VoQTodU21hbGwgSG91c2VwbGFudHMgLSBIb3J0b2xvZ3lCnwFCdXkgc21hbGwgaW5kb29yIHBsYW50cyBhdCA8Yj5Ib3J0b2xvZ3k8L2I-LiBPdXIgc21hbGwgaG91c2VwbGFudCBjb2xsZWN0aW9uIGluY2x1ZGVzIHNpbXBsZSBzdWNjdWxlbnRzIGFuZCBjdXRlIGNhY3RpIGFzIHdlbGwgYXMgQWdsYW9uZW1hLCBEcmFjZWFuYSwmbmJzcDsuLi4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0ZkV3lENUc2TmN1QkRBcE9IUGFPTkdKdmtrZXRmNkVhLWZQa0swY1JsZFNMTGhRT3BQLWdkb0lpTnFtemNTRzZ6Q1pmb2xVSDNKSDRjVUQ5aXVpLUNEN1dBYlNOQjhLajV5amh4UTdkczhGLTBiVVJmTU96bXVlUklJRTJNYzg2b2k5V21IU00wbTJpOV9zOHpQOENNRVBPX09zTHUyREpsV01tV2xfRWhBEgQaAggAGowEEgAaACIAKgAyBggBEgJ1azoAQgQIARAASgBaEwgBEg9ob3J0b2xvZ3kuY28udWtyAHoAgkDVAwgAEAAYACAAKiwKCWhvcnRvbG9neRVSru5AGgpob3J0IG9sb2d5Gg5pdjtwO2hvcnRvbG9neSoZCgJ1axVMSxNAGg51bml0ZWQga2luZ2RvbTLAAS9nb3RvP3VybD1DQUVTZ3dFQjZ6c3dGZFd5RDVHNk5jdUJEQXBPSFBhT05HSnZra2V0ZjZFYS1mUGtLMGNSbGRTTExoUU9wUC1nZG9JaU5xbXpjU0c2ekNaZm9sVUgzSkg0Y1VEOWl1aS1DRDdXQWJTTkI4S2o1eWpoeFE3ZHM4Ri0wYlVSZk1Pem11ZVJJSUUyTWM4Nm9pOVdtSFNNMG0yaTlfczh6UDhDTUVQT19Pc0x1MkRKbFdNbVdsX0VoQTodU21hbGwgSG91c2VwbGFudHMgLSBIb3J0b2xvZ3lCnwFCdXkgc21hbGwgaW5kb29yIHBsYW50cyBhdCA8Yj5Ib3J0b2xvZ3k8L2I-LiBPdXIgc21hbGwgaG91c2VwbGFudCBjb2xsZWN0aW9uIGluY2x1ZGVzIHNpbXBsZSBzdWNjdWxlbnRzIGFuZCBjdXRlIGNhY3RpIGFzIHdlbGwgYXMgQWdsYW9uZW1hLCBEcmFjZWFuYSwmbmJzcDsuLi4iAhABSABYAGgA",
+    "source": "Hortology"
+   },
+   {
+    "position": 2,
+    "title": "Indoor Foliage Plants - Tropical & Air Purifying",
+    "link": "https://hortology.co.uk/collections/foliage-plants/indoor-trees",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdwHrOzAV_aVy8SOX625FaODAaSC7kFdMqDAsEvc17mKt34dpNzKu9jn_ATFggGi7SFNcpDBWo7-qH2pEkiSMutuWmkt83hLrirsF4QBjlE797yCdBEQsfmn3wmZTc3-jU3-Dg4orPmvl1f_vZPYC5GlljZJOLvhb&ved=2ahUKEwiGns2qkpaXAxW0MVkFHQ38A_QQFnoECBoQAQ&uoh=1",
+    "displayed_link": "https://hortology.co.uk › foliage-plants › indoor-trees",
+    "favicon": "https://serpapi.com/images/i/UklGRkoBAABXRUJQVlA4ID4BAACQBgCdASocABwAPtE-tFooIigoFAEAGglpAAUQIYZ44vof0V91VS1sl0aOZS-b14tWnnyZZ5C4CHNfd3agAP77K6zKxDrYq2x217-dMpMhN6IrAri__aGJ_kzfKLOwQ__8dvSgJLO7_Sb7QETbd6zx0_I5H82q4R4tXBnGl_UPGc0725Lf8LgOsWn7G66OIht_abhs0CQc2-l_DB0Z295l3eYcuovx7bkIilUndpFYFu92HGv81Iu_9hWqL64_wBr54ag3gKlwmhQqeyPNTvwlHanv9hRpp9Zlq4k71if1pDawR6ylDRzMxd__jW3yeDlaib44AEN4mr1Qb-4M_6PdT8KHEO0Bhe2-yP3U_7f7DVpXwmn658mV2mP9b0Zvd1RW40NP4EU33wbxbWC3UGPGUchobFZfxiga7M9AAAA.webp",
+    "snippet": "Buy foliage heavy houseplants. Large and leafy, long and traily, bold and bushy, or tall and feathery. Tropical greenery for the urban and rural home.",
+    "snippet_highlighted_words": [
+     "Buy foliage heavy houseplants"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Buy foliage heavy houseplants. Large and leafy, long and traily, bold and bushy, or tall and feathery. Tropical greenery for the urban and rural home.",
+      "source_info_link": "https://hortology.co.uk/collections/foliage-plants/indoor-trees",
+      "icon": "https://serpapi.com/images/i/UklGRkoBAABXRUJQVlA4ID4BAACQBgCdASocABwAPtE-tFooIigoFAEAGglpAAUQIYZ44vof0V91VS1sl0aOZS-b14tWnnyZZ5C4CHNfd3agAP77K6zKxDrYq2x217-dMpMhN6IrAri__aGJ_kzfKLOwQ__8dvSgJLO7_Sb7QETbd6zx0_I5H82q4R4tXBnGl_UPGc0725Lf8LgOsWn7G66OIht_abhs0CQc2-l_DB0Z295l3eYcuovx7bkIilUndpFYFu92HGv81Iu_9hWqL64_wBr54ag3gKlwmhQqeyPNTvwlHanv9hRpp9Zlq4k71if1pDawR6ylDRzMxd__jW3yeDlaib44AEN4mr1Qb-4M_6PdT8KHEO0Bhe2-yP3U_7f7DVpXwmn658mV2mP9b0Zvd1RW40NP4EU33wbxbWC3UGPGUchobFZfxiga7M9AAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=Cq4BL2dvdG8_dXJsPUNBRVNkd0hyT3pBVl9hVnk4U09YNjI1RmFPREFhU0M3a0ZkTXFEQXNFdmMxN21LdDM0ZHBOekt1OWpuX0FURmdnR2k3U0ZOY3BEQldvNy1xSDJwRWtpU011dHVXbWt0ODNoTHJpcnNGNFFCamxFNzk3eUNkQkVRc2ZtbjN3bVpUYzMtalUzLURnNG9yUG12bDFmX3ZaUFlDNUdsbGpaSk9MdmhiEgQaAggAGpsEEgAaACIAKgAyBggBEgJ1azoAQgQIARAASgBaEwgBEg9ob3J0b2xvZ3kuY28udWtyAHoAgkDkAwgAEAAYACAAKiwKCWhvcnRvbG9neRXaCO1AGgpob3J0IG9sb2d5Gg5pdjtwO2hvcnRvbG9neSoZCgJ1axW8uxNAGg51bml0ZWQga2luZ2RvbTKuAS9nb3RvP3VybD1DQUVTZHdIck96QVZfYVZ5OFNPWDYyNUZhT0RBYVNDN2tGZE1xREFzRXZjMTdtS3QzNGRwTnpLdTlqbl9BVEZnZ0dpN1NGTmNwREJXbzctcUgycEVraVNNdXR1V21rdDgzaExyaXJzRjRRQmpsRTc5N3lDZEJFUXNmbW4zd21aVGMzLWpVMy1EZzRvclBtdmwxZl92WlBZQzVHbGxqWkpPTHZoYjpASW5kb29yIEZvbGlhZ2UgUGxhbnRzIC0gVHJvcGljYWwgJmFtcDsgQWlyIFB1cmlmeWluZyAtIEhvcnRvbG9neUKdATxiPkJ1eSBmb2xpYWdlIGhlYXZ5IGhvdXNlcGxhbnRzPC9iPi4gTGFyZ2UgYW5kIGxlYWZ5LCBsb25nIGFuZCB0cmFpbHksIGJvbGQgYW5kIGJ1c2h5LCBvciB0YWxsIGFuZCBmZWF0aGVyeS4gVHJvcGljYWwgZ3JlZW5lcnkgZm9yIHRoZSB1cmJhbiBhbmQgcnVyYWwgaG9tZS4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=Cq4BL2dvdG8_dXJsPUNBRVNkd0hyT3pBVl9hVnk4U09YNjI1RmFPREFhU0M3a0ZkTXFEQXNFdmMxN21LdDM0ZHBOekt1OWpuX0FURmdnR2k3U0ZOY3BEQldvNy1xSDJwRWtpU011dHVXbWt0ODNoTHJpcnNGNFFCamxFNzk3eUNkQkVRc2ZtbjN3bVpUYzMtalUzLURnNG9yUG12bDFmX3ZaUFlDNUdsbGpaSk9MdmhiEgQaAggAGpsEEgAaACIAKgAyBggBEgJ1azoAQgQIARAASgBaEwgBEg9ob3J0b2xvZ3kuY28udWtyAHoAgkDkAwgAEAAYACAAKiwKCWhvcnRvbG9neRXaCO1AGgpob3J0IG9sb2d5Gg5pdjtwO2hvcnRvbG9neSoZCgJ1axW8uxNAGg51bml0ZWQga2luZ2RvbTKuAS9nb3RvP3VybD1DQUVTZHdIck96QVZfYVZ5OFNPWDYyNUZhT0RBYVNDN2tGZE1xREFzRXZjMTdtS3QzNGRwTnpLdTlqbl9BVEZnZ0dpN1NGTmNwREJXbzctcUgycEVraVNNdXR1V21rdDgzaExyaXJzRjRRQmpsRTc5N3lDZEJFUXNmbW4zd21aVGMzLWpVMy1EZzRvclBtdmwxZl92WlBZQzVHbGxqWkpPTHZoYjpASW5kb29yIEZvbGlhZ2UgUGxhbnRzIC0gVHJvcGljYWwgJmFtcDsgQWlyIFB1cmlmeWluZyAtIEhvcnRvbG9neUKdATxiPkJ1eSBmb2xpYWdlIGhlYXZ5IGhvdXNlcGxhbnRzPC9iPi4gTGFyZ2UgYW5kIGxlYWZ5LCBsb25nIGFuZCB0cmFpbHksIGJvbGQgYW5kIGJ1c2h5LCBvciB0YWxsIGFuZCBmZWF0aGVyeS4gVHJvcGljYWwgZ3JlZW5lcnkgZm9yIHRoZSB1cmJhbiBhbmQgcnVyYWwgaG9tZS4iAhABSABYAGgA",
+    "source": "Hortology"
+   },
+   {
+    "position": 3,
+    "title": "Tall Indoor Plant Pots & Vases - Hortology",
+    "link": "https://hortology.co.uk/collections/tall-indoor-plant-pots?page=4",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeQHrOzAVnR6UUVhUBVAF-Nq5KjKkCsLEb9gU_qvZv2CvF_0YEzvaQ_sg0-m9q1HbBg9QjieFO1JOfCymIqfXzin_Biw4vBqYOGw1tb-1bOHh7WWMh3DiMARAqfHGmUzdJI3kGSdQru8BBnNpF78Q7GVnOuDNeegUkbw&ved=2ahUKEwiGns2qkpaXAxW0MVkFHQ38A_QQFnoECB0QAQ&uoh=1",
+    "displayed_link": "https://hortology.co.uk › collections › tall-indoor-plant-...",
+    "thumbnail": "https://serpapi.com/searches/6abceac5bc3f0b501b710a5e/images/jta3e09neKtROVPk1xKaqxH_bbUEGweV0R2GFaI1CRc.jpeg",
+    "favicon": "https://serpapi.com/images/i/UklGRkoBAABXRUJQVlA4ID4BAACQBgCdASocABwAPtE-tFooIigoFAEAGglpAAUQIYZ44vof0V91VS1sl0aOZS-b14tWnnyZZ5C4CHNfd3agAP77K6zKxDrYq2x217-dMpMhN6IrAri__aGJ_kzfKLOwQ__8dvSgJLO7_Sb7QETbd6zx0_I5H82q4R4tXBnGl_UPGc0725Lf8LgOsWn7G66OIht_abhs0CQc2-l_DB0Z295l3eYcuovx7bkIilUndpFYFu92HGv81Iu_9hWqL64_wBr54ag3gKlwmhQqeyPNTvwlHanv9hRpp9Zlq4k71if1pDawR6ylDRzMxd__jW3yeDlaib44AEN4mr1Qb-4M_6PdT8KHEO0Bhe2-yP3U_7f7DVpXwmn658mV2mP9b0Zvd1RW40NP4EU33wbxbWC3UGPGUchobFZfxiga7M9AAAA.webp",
+    "snippet": "Choose from a range of tall plant pots and vases: a great way to enhance an entrance or doorway, or even to brighten up a dark corner. Page 4.",
+    "snippet_highlighted_words": [
+     "Choose from a range of tall plant pots and vases"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Choose from a range of tall plant pots and vases: a great way to enhance an entrance or doorway, or even to brighten up a dark corner. Page 4.",
+      "source_info_link": "https://hortology.co.uk/collections/tall-indoor-plant-pots?page=4",
+      "icon": "https://serpapi.com/images/i/UklGRkoBAABXRUJQVlA4ID4BAACQBgCdASocABwAPtE-tFooIigoFAEAGglpAAUQIYZ44vof0V91VS1sl0aOZS-b14tWnnyZZ5C4CHNfd3agAP77K6zKxDrYq2x217-dMpMhN6IrAri__aGJ_kzfKLOwQ__8dvSgJLO7_Sb7QETbd6zx0_I5H82q4R4tXBnGl_UPGc0725Lf8LgOsWn7G66OIht_abhs0CQc2-l_DB0Z295l3eYcuovx7bkIilUndpFYFu92HGv81Iu_9hWqL64_wBr54ag3gKlwmhQqeyPNTvwlHanv9hRpp9Zlq4k71if1pDawR6ylDRzMxd__jW3yeDlaib44AEN4mr1Qb-4M_6PdT8KHEO0Bhe2-yP3U_7f7DVpXwmn658mV2mP9b0Zvd1RW40NP4EU33wbxbWC3UGPGUchobFZfxiga7M9AAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVm5SNlVVVmhVQlZBRi1OcTVLaktrQ3NMRWI5Z1VfcXZadjJDdkZfMFlFenZhUV9zZzAtbTlxMUhiQmc5UWppZUZPMUpPZkN5bUlxZlh6aW5fQml3NHZCcVlPR3cxdGItMWJPSGg3V1dNaDNEaU1BUkFxZkhHbVV6ZEpJM2tHU2RRcnU4QkJuTnBGNzhRN0dWbk91RE5lZWdVa2J3EgQaAggAGqcEEgAaAggBIgAqADIGCAESAnVrOgBCBAgBEABKAFoTCAESD2hvcnRvbG9neS5jby51a3IAegCCQO4DCAAQABgAIAAqLAoJaG9ydG9sb2d5FYLx9EAaCmhvcnQgb2xvZ3kaDml2O3A7aG9ydG9sb2d5KhkKAnVrFQAAAD8aDnVuaXRlZCBraW5nZG9tMrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVm5SNlVVVmhVQlZBRi1OcTVLaktrQ3NMRWI5Z1VfcXZadjJDdkZfMFlFenZhUV9zZzAtbTlxMUhiQmc5UWppZUZPMUpPZkN5bUlxZlh6aW5fQml3NHZCcVlPR3cxdGItMWJPSGg3V1dNaDNEaU1BUkFxZkhHbVV6ZEpJM2tHU2RRcnU4QkJuTnBGNzhRN0dWbk91RE5lZWdVa2J3Ok9UYWxsIEluZG9vciBQbGFudCBQb3RzICZhbXA7IFZhc2VzIHwgPGI-SG9ydG9sb2d5PC9iPiBQYWdlIDQgLSA8Yj5Ib3J0b2xvZ3k8L2I-QpUBPGI-Q2hvb3NlIGZyb20gYSByYW5nZSBvZiB0YWxsIHBsYW50IHBvdHMgYW5kIHZhc2VzPC9iPjogYSBncmVhdCB3YXkgdG8gZW5oYW5jZSBhbiBlbnRyYW5jZSBvciBkb29yd2F5LCBvciBldmVuIHRvIGJyaWdodGVuIHVwIGEgZGFyayBjb3JuZXIuIFBhZ2UgNC4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVm5SNlVVVmhVQlZBRi1OcTVLaktrQ3NMRWI5Z1VfcXZadjJDdkZfMFlFenZhUV9zZzAtbTlxMUhiQmc5UWppZUZPMUpPZkN5bUlxZlh6aW5fQml3NHZCcVlPR3cxdGItMWJPSGg3V1dNaDNEaU1BUkFxZkhHbVV6ZEpJM2tHU2RRcnU4QkJuTnBGNzhRN0dWbk91RE5lZWdVa2J3EgQaAggAGqcEEgAaAggBIgAqADIGCAESAnVrOgBCBAgBEABKAFoTCAESD2hvcnRvbG9neS5jby51a3IAegCCQO4DCAAQABgAIAAqLAoJaG9ydG9sb2d5FYLx9EAaCmhvcnQgb2xvZ3kaDml2O3A7aG9ydG9sb2d5KhkKAnVrFQAAAD8aDnVuaXRlZCBraW5nZG9tMrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVm5SNlVVVmhVQlZBRi1OcTVLaktrQ3NMRWI5Z1VfcXZadjJDdkZfMFlFenZhUV9zZzAtbTlxMUhiQmc5UWppZUZPMUpPZkN5bUlxZlh6aW5fQml3NHZCcVlPR3cxdGItMWJPSGg3V1dNaDNEaU1BUkFxZkhHbVV6ZEpJM2tHU2RRcnU4QkJuTnBGNzhRN0dWbk91RE5lZWdVa2J3Ok9UYWxsIEluZG9vciBQbGFudCBQb3RzICZhbXA7IFZhc2VzIHwgPGI-SG9ydG9sb2d5PC9iPiBQYWdlIDQgLSA8Yj5Ib3J0b2xvZ3k8L2I-QpUBPGI-Q2hvb3NlIGZyb20gYSByYW5nZSBvZiB0YWxsIHBsYW50IHBvdHMgYW5kIHZhc2VzPC9iPjogYSBncmVhdCB3YXkgdG8gZW5oYW5jZSBhbiBlbnRyYW5jZSBvciBkb29yd2F5LCBvciBldmVuIHRvIGJyaWdodGVuIHVwIGEgZGFyayBjb3JuZXIuIFBhZ2UgNC4iAhABSABYAGgA",
+    "source": "Hortology"
+   },
+   {
+    "position": 4,
+    "title": "Pet Safe Houseplants - Buy Online",
+    "link": "https://hortology.co.uk/collections/pet-safe-houseplants/houseplants?page=2",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgwEB6zswFTpnMWbgD7yDe_SR4y8I4oB_I9ixmVSpuzo3UVVj3oQgeu1o0ZgX40gZSfqh9dOTVSmKH6NnD8tU_76Rj_BMsyY4-CHNsWS6kPj_qOWGEQWBpTRWRyRgKXmRlIB71L4w_pVZLf3A_G2KMnPPq20TyLxoH6twTrRPGdVhTM6x2g&ved=2ahUKEwiGns2qkpaXAxW0MVkFHQ38A_QQFnoECCEQAQ&uoh=1",
+    "displayed_link": "https://hortology.co.uk › collections › houseplants",
+    "thumbnail": "https://serpapi.com/searches/6abceac5bc3f0b501b710a5e/images/jta3e09neKtROVPk1xKaqwCj_hiG6u8R603DRziIwZg.jpeg",
+    "favicon": "https://serpapi.com/images/i/UklGRkoBAABXRUJQVlA4ID4BAACQBgCdASocABwAPtE-tFooIigoFAEAGglpAAUQIYZ44vof0V91VS1sl0aOZS-b14tWnnyZZ5C4CHNfd3agAP77K6zKxDrYq2x217-dMpMhN6IrAri__aGJ_kzfKLOwQ__8dvSgJLO7_Sb7QETbd6zx0_I5H82q4R4tXBnGl_UPGc0725Lf8LgOsWn7G66OIht_abhs0CQc2-l_DB0Z295l3eYcuovx7bkIilUndpFYFu92HGv81Iu_9hWqL64_wBr54ag3gKlwmhQqeyPNTvwlHanv9hRpp9Zlq4k71if1pDawR6ylDRzMxd__jW3yeDlaib44AEN4mr1Qb-4M_6PdT8KHEO0Bhe2-yP3U_7f7DVpXwmn658mV2mP9b0Zvd1RW40NP4EU33wbxbWC3UGPGUchobFZfxiga7M9AAAA.webp",
+    "snippet": "Buy pet safe houseplants at Hortology. Choose from a wide range of indoor plants that are non toxic to four legged friends and give you the perfect interior ...",
+    "snippet_highlighted_words": [
+     "Buy pet safe houseplants at Hortology"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Buy pet safe houseplants at Hortology. Choose from a wide range of indoor plants that are non toxic to four legged friends and give you the perfect interior ...",
+      "source_info_link": "https://hortology.co.uk/collections/pet-safe-houseplants/houseplants?page=2",
+      "icon": "https://serpapi.com/images/i/UklGRkoBAABXRUJQVlA4ID4BAACQBgCdASocABwAPtE-tFooIigoFAEAGglpAAUQIYZ44vof0V91VS1sl0aOZS-b14tWnnyZZ5C4CHNfd3agAP77K6zKxDrYq2x217-dMpMhN6IrAri__aGJ_kzfKLOwQ__8dvSgJLO7_Sb7QETbd6zx0_I5H82q4R4tXBnGl_UPGc0725Lf8LgOsWn7G66OIht_abhs0CQc2-l_DB0Z295l3eYcuovx7bkIilUndpFYFu92HGv81Iu_9hWqL64_wBr54ag3gKlwmhQqeyPNTvwlHanv9hRpp9Zlq4k71if1pDawR6ylDRzMxd__jW3yeDlaib44AEN4mr1Qb-4M_6PdT8KHEO0Bhe2-yP3U_7f7DVpXwmn658mV2mP9b0Zvd1RW40NP4EU33wbxbWC3UGPGUchobFZfxiga7M9AAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0ZUcG5NV2JnRDd5RGVfU1I0eThJNG9CX0k5aXhtVlNwdXpvM1VWVmozb1FnZXUxbzBaZ1g0MGdaU2ZxaDlkT1RWU21LSDZObkQ4dFVfNzZSal9CTXN5WTQtQ0hOc1dTNmtQal9xT1dHRVFXQnBUUldSeVJnS1htUmxJQjcxTDR3X3BWWkxmM0FfRzJLTW5QUHEyMFR5THhvSDZ0d1RyUlBHZFZoVE02eDJnEgQaAggAGrIEEgAaAggBIgAqADIGCAESAnVrOgBCBAgBEABKAFoTCAESD2hvcnRvbG9neS5jby51a3IAegCCQPkDCAAQABgAIAAqLAoJaG9ydG9sb2d5FeiR60AaCmhvcnQgb2xvZ3kaDml2O3A7aG9ydG9sb2d5KhkKAnVrFQAAFEAaDnVuaXRlZCBraW5nZG9tMsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0ZUcG5NV2JnRDd5RGVfU1I0eThJNG9CX0k5aXhtVlNwdXpvM1VWVmozb1FnZXUxbzBaZ1g0MGdaU2ZxaDlkT1RWU21LSDZObkQ4dFVfNzZSal9CTXN5WTQtQ0hOc1dTNmtQal9xT1dHRVFXQnBUUldSeVJnS1htUmxJQjcxTDR3X3BWWkxmM0FfRzJLTW5QUHEyMFR5THhvSDZ0d1RyUlBHZFZoVE02eDJnOjRQZXQgU2FmZSBIb3VzZXBsYW50cyAtIEJ1eSBPbmxpbmUgLSA8Yj5Ib3J0b2xvZ3k8L2I-QqwBPGI-QnV5IHBldCBzYWZlIGhvdXNlcGxhbnRzIGF0IEhvcnRvbG9neTwvYj4uIENob29zZSBmcm9tIGEgd2lkZSByYW5nZSBvZiBpbmRvb3IgcGxhbnRzIHRoYXQgYXJlIG5vbiB0b3hpYyB0byBmb3VyIGxlZ2dlZCBmcmllbmRzIGFuZCBnaXZlIHlvdSB0aGUgcGVyZmVjdCBpbnRlcmlvciZuYnNwOy4uLiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0ZUcG5NV2JnRDd5RGVfU1I0eThJNG9CX0k5aXhtVlNwdXpvM1VWVmozb1FnZXUxbzBaZ1g0MGdaU2ZxaDlkT1RWU21LSDZObkQ4dFVfNzZSal9CTXN5WTQtQ0hOc1dTNmtQal9xT1dHRVFXQnBUUldSeVJnS1htUmxJQjcxTDR3X3BWWkxmM0FfRzJLTW5QUHEyMFR5THhvSDZ0d1RyUlBHZFZoVE02eDJnEgQaAggAGrIEEgAaAggBIgAqADIGCAESAnVrOgBCBAgBEABKAFoTCAESD2hvcnRvbG9neS5jby51a3IAegCCQPkDCAAQABgAIAAqLAoJaG9ydG9sb2d5FeiR60AaCmhvcnQgb2xvZ3kaDml2O3A7aG9ydG9sb2d5KhkKAnVrFQAAFEAaDnVuaXRlZCBraW5nZG9tMsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0ZUcG5NV2JnRDd5RGVfU1I0eThJNG9CX0k5aXhtVlNwdXpvM1VWVmozb1FnZXUxbzBaZ1g0MGdaU2ZxaDlkT1RWU21LSDZObkQ4dFVfNzZSal9CTXN5WTQtQ0hOc1dTNmtQal9xT1dHRVFXQnBUUldSeVJnS1htUmxJQjcxTDR3X3BWWkxmM0FfRzJLTW5QUHEyMFR5THhvSDZ0d1RyUlBHZFZoVE02eDJnOjRQZXQgU2FmZSBIb3VzZXBsYW50cyAtIEJ1eSBPbmxpbmUgLSA8Yj5Ib3J0b2xvZ3k8L2I-QqwBPGI-QnV5IHBldCBzYWZlIGhvdXNlcGxhbnRzIGF0IEhvcnRvbG9neTwvYj4uIENob29zZSBmcm9tIGEgd2lkZSByYW5nZSBvZiBpbmRvb3IgcGxhbnRzIHRoYXQgYXJlIG5vbiB0b3hpYyB0byBmb3VyIGxlZ2dlZCBmcmllbmRzIGFuZCBnaXZlIHlvdSB0aGUgcGVyZmVjdCBpbnRlcmlvciZuYnNwOy4uLiICEAFIAFgAaAA",
+    "source": "Hortology"
+   },
+   {
+    "position": 5,
+    "title": "Read Customer Service Reviews of hortology.co.uk | 9 of 61",
+    "link": "https://www.trustpilot.com/review/hortology.co.uk?page=9",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScAHrOzAVYNpTGfbSzQQQP_1_jp4N_0aleaxSr7q9sbMClp6h-U4b2fiIVcjPOnYw3rVD-p6dTkZvlkpYodYUD6cqmI__m28ln21BcBD302u7LRONVMDyVX24D4MxvoK8IEuwipAeeNDAnvI1Fc8QUhg&ved=2ahUKEwiGns2qkpaXAxW0MVkFHQ38A_QQFnoECB8QAQ&uoh=1",
+    "displayed_link": "https://www.trustpilot.com › ... › Store",
+    "favicon": "https://serpapi.com/images/i/UklGRsoAAABXRUJQVlA4IL4AAABQBQCdASocABwAPtFAtFooIqgoFAEAGglsAJ0y4sr21NIh0L_Wc9XnY51oZjrqPOOkIAAA_vaB2ebx-ZQJY40G7Ms4VgSg_dfZaQYtJgcWU-beznyIjhN1wYpjmozZyeMKizLM67K23cWxCdiZlwba-kk7-n1oZp5KD3cICp5uViEzGYmX6Luef9vGzPW-lMxUcuiCxFIiXQcD3jRZPkF5WMyiAjvwk-ss_LXRvy5ZDZMeqRp7EsP_UXPsgAAA.webp",
+    "snippet": "I've bought two plants from Hortology already and both arrived well packaged, very quickly and in perfect health and condition. They look exactly like on ...",
+    "snippet_highlighted_words": [
+     "both arrived well packaged, very quickly and in perfect health and condition"
+    ],
+    "rich_snippet": {
+     "top": {
+      "detected_extensions": {
+       "rating": 4.6,
+       "reviews": 1258
+      },
+      "extensions": [
+       "4.6(1,258)"
+      ]
+     }
+    },
+    "about_this_result": {
+     "source": {
+      "description": "I've bought two plants from Hortology already and both arrived well packaged, very quickly and in perfect health and condition. They look exactly like on ...",
+      "source_info_link": "https://www.trustpilot.com/review/hortology.co.uk?page=9",
+      "icon": "https://serpapi.com/images/i/UklGRsoAAABXRUJQVlA4IL4AAABQBQCdASocABwAPtFAtFooIqgoFAEAGglsAJ0y4sr21NIh0L_Wc9XnY51oZjrqPOOkIAAA_vaB2ebx-ZQJY40G7Ms4VgSg_dfZaQYtJgcWU-beznyIjhN1wYpjmozZyeMKizLM67K23cWxCdiZlwba-kk7-n1oZp5KD3cICp5uViEzGYmX6Luef9vGzPW-lMxUcuiCxFIiXQcD3jRZPkF5WMyiAjvwk-ss_LXRvy5ZDZMeqRp7EsP_UXPsgAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CqUBL2dvdG8_dXJsPUNBRVNjQUhyT3pBVllOcFRHZmJTelFRUVBfMV9qcDROXzBhbGVheFNyN3E5c2JNQ2xwNmgtVTRiMmZpSVZjalBPbll3M3JWRC1wNmRUa1p2bGtwWW9kWVVENmNxbUlfX20yOGxuMjFCY0JEMzAydTdMUk9OVk1EeVZYMjRENE14dm9LOElFdXdpcEFlZU5EQW52STFGYzhRVWhnEgQaAggAGv4DEgAaACIAKgAyBggDEgJ1azoAQgQIARAASgBaAHIAegCCQNoDCAAQABgAIAAqLAoJaG9ydG9sb2d5Fcdam0AaCmhvcnQgb2xvZ3kaDml2O3A7aG9ydG9sb2d5KhkKAnVrFctUlkAaDnVuaXRlZCBraW5nZG9tMqUBL2dvdG8_dXJsPUNBRVNjQUhyT3pBVllOcFRHZmJTelFRUVBfMV9qcDROXzBhbGVheFNyN3E5c2JNQ2xwNmgtVTRiMmZpSVZjalBPbll3M3JWRC1wNmRUa1p2bGtwWW9kWVVENmNxbUlfX20yOGxuMjFCY0JEMzAydTdMUk9OVk1EeVZYMjRENE14dm9LOElFdXdpcEFlZU5EQW52STFGYzhRVWhnOi88Yj5Ib3J0b2xvZ3k8L2I-IFJldmlld3MgfCA5IG9mIDYxIC0gVHJ1c3RwaWxvdEKtAUkmIzM5O3ZlIGJvdWdodCB0d28gcGxhbnRzIGZyb20gSG9ydG9sb2d5IGFscmVhZHkgYW5kIDxiPmJvdGggYXJyaXZlZCB3ZWxsIHBhY2thZ2VkLCB2ZXJ5IHF1aWNrbHkgYW5kIGluIHBlcmZlY3QgaGVhbHRoIGFuZCBjb25kaXRpb248L2I-LiBUaGV5IGxvb2sgZXhhY3RseSBsaWtlIG9uJm5ic3A7Li4uIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CqUBL2dvdG8_dXJsPUNBRVNjQUhyT3pBVllOcFRHZmJTelFRUVBfMV9qcDROXzBhbGVheFNyN3E5c2JNQ2xwNmgtVTRiMmZpSVZjalBPbll3M3JWRC1wNmRUa1p2bGtwWW9kWVVENmNxbUlfX20yOGxuMjFCY0JEMzAydTdMUk9OVk1EeVZYMjRENE14dm9LOElFdXdpcEFlZU5EQW52STFGYzhRVWhnEgQaAggAGv4DEgAaACIAKgAyBggDEgJ1azoAQgQIARAASgBaAHIAegCCQNoDCAAQABgAIAAqLAoJaG9ydG9sb2d5Fcdam0AaCmhvcnQgb2xvZ3kaDml2O3A7aG9ydG9sb2d5KhkKAnVrFctUlkAaDnVuaXRlZCBraW5nZG9tMqUBL2dvdG8_dXJsPUNBRVNjQUhyT3pBVllOcFRHZmJTelFRUVBfMV9qcDROXzBhbGVheFNyN3E5c2JNQ2xwNmgtVTRiMmZpSVZjalBPbll3M3JWRC1wNmRUa1p2bGtwWW9kWVVENmNxbUlfX20yOGxuMjFCY0JEMzAydTdMUk9OVk1EeVZYMjRENE14dm9LOElFdXdpcEFlZU5EQW52STFGYzhRVWhnOi88Yj5Ib3J0b2xvZ3k8L2I-IFJldmlld3MgfCA5IG9mIDYxIC0gVHJ1c3RwaWxvdEKtAUkmIzM5O3ZlIGJvdWdodCB0d28gcGxhbnRzIGZyb20gSG9ydG9sb2d5IGFscmVhZHkgYW5kIDxiPmJvdGggYXJyaXZlZCB3ZWxsIHBhY2thZ2VkLCB2ZXJ5IHF1aWNrbHkgYW5kIGluIHBlcmZlY3QgaGVhbHRoIGFuZCBjb25kaXRpb248L2I-LiBUaGV5IGxvb2sgZXhhY3RseSBsaWtlIG9uJm5ic3A7Li4uIgIQAUgAWABoAA",
+    "source": "Trustpilot",
+    "read_more_link": "https://www.trustpilot.com/review/hortology.co.uk?page=9#:~:text=I've%20bought%20two%20plants%20from,and%20seem%20to%20be%20thriving."
+   },
+   {
+    "position": 6,
+    "title": "Shade Tolerant Indoor Plants - Houseplants Direct",
+    "link": "https://hortology.co.uk/collections/shade-tolerant-indoor-plants?page=5",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfwHrOzAVBFmjrOPd88Qg_FElwbPiUHtca0vkqo9o-jxSdTWsuaWlH_W0mrXKvUvhFhjLj_JWC2QKQvaJNFAC8FRF3rO98OawqyMDf8G70k67dooS-4viU6jQbkSZssfx3tXC89BwVu7IEGO6oT3IFrCQn3SovGdC6wF79NmgkPM&ved=2ahUKEwiGns2qkpaXAxW0MVkFHQ38A_QQFnoECCAQAQ&uoh=1",
+    "displayed_link": "https://hortology.co.uk › collections › shade-tolerant-in...",
+    "favicon": "https://serpapi.com/images/i/UklGRkoBAABXRUJQVlA4ID4BAACQBgCdASocABwAPtE-tFooIigoFAEAGglpAAUQIYZ44vof0V91VS1sl0aOZS-b14tWnnyZZ5C4CHNfd3agAP77K6zKxDrYq2x217-dMpMhN6IrAri__aGJ_kzfKLOwQ__8dvSgJLO7_Sb7QETbd6zx0_I5H82q4R4tXBnGl_UPGc0725Lf8LgOsWn7G66OIht_abhs0CQc2-l_DB0Z295l3eYcuovx7bkIilUndpFYFu92HGv81Iu_9hWqL64_wBr54ag3gKlwmhQqeyPNTvwlHanv9hRpp9Zlq4k71if1pDawR6ylDRzMxd__jW3yeDlaib44AEN4mr1Qb-4M_6PdT8KHEO0Bhe2-yP3U_7f7DVpXwmn658mV2mP9b0Zvd1RW40NP4EU33wbxbWC3UGPGUchobFZfxiga7M9AAAA.webp",
+    "snippet": "Buy Low Light / Shade Tolerant Indoor Plants at Hortology. Houseplants that are ideal greenery for shady positions at home or in the office.",
+    "snippet_highlighted_words": [
+     "Buy Low Light / Shade Tolerant Indoor Plants at Hortology"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Buy Low Light / Shade Tolerant Indoor Plants at Hortology. Houseplants that are ideal greenery for shady positions at home or in the office.",
+      "source_info_link": "https://hortology.co.uk/collections/shade-tolerant-indoor-plants?page=5",
+      "icon": "https://serpapi.com/images/i/UklGRkoBAABXRUJQVlA4ID4BAACQBgCdASocABwAPtE-tFooIigoFAEAGglpAAUQIYZ44vof0V91VS1sl0aOZS-b14tWnnyZZ5C4CHNfd3agAP77K6zKxDrYq2x217-dMpMhN6IrAri__aGJ_kzfKLOwQ__8dvSgJLO7_Sb7QETbd6zx0_I5H82q4R4tXBnGl_UPGc0725Lf8LgOsWn7G66OIht_abhs0CQc2-l_DB0Z295l3eYcuovx7bkIilUndpFYFu92HGv81Iu_9hWqL64_wBr54ag3gKlwmhQqeyPNTvwlHanv9hRpp9Zlq4k71if1pDawR6ylDRzMxd__jW3yeDlaib44AEN4mr1Qb-4M_6PdT8KHEO0Bhe2-yP3U_7f7DVpXwmn658mV2mP9b0Zvd1RW40NP4EU33wbxbWC3UGPGUchobFZfxiga7M9AAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVkJGbWpyT1BkODhRZ19GRWx3YlBpVUh0Y2EwdmtxbzlvLWp4U2RUV3N1YVdsSF9XMG1yWEt2VXZoRmhqTGpfSldDMlFLUXZhSk5GQUM4RlJGM3JPOThPYXdxeU1EZjhHNzBrNjdkb29TLTR2aVU2alFia1Nac3NmeDN0WEM4OUJ3VnU3SUVHTzZvVDNJRnJDUW4zU292R2RDNndGNzlObWdrUE0SBBoCCAAaoQQSABoCCAEiACoAMgYIARICdWs6AEIECAEQAEoAWhMIARIPaG9ydG9sb2d5LmNvLnVrcgB6AIJA6AMIABAAGAAgACosCglob3J0b2xvZ3kV_ebYQBoKaG9ydCBvbG9neRoOaXY7cDtob3J0b2xvZ3kqGQoCdWsVxU4UQBoOdW5pdGVkIGtpbmdkb20yuQEvZ290bz91cmw9Q0FFU2Z3SHJPekFWQkZtanJPUGQ4OFFnX0ZFbHdiUGlVSHRjYTB2a3FvOW8tanhTZFRXc3VhV2xIX1cwbXJYS3ZVdmhGaGpMal9KV0MyUUtRdmFKTkZBQzhGUkYzck85OE9hd3F5TURmOEc3MGs2N2Rvb1MtNHZpVTZqUWJrU1pzc2Z4M3RYQzg5QndWdTdJRUdPNm9UM0lGckNRbjNTb3ZHZEM2d0Y3OU5tZ2tQTTpDU2hhZGUgVG9sZXJhbnQgSW5kb29yIFBsYW50cyB8IDxiPkhvcnRvbG9neTwvYj4uY28uPGI-dWs8L2I-IFBhZ2UgNUKTATxiPkJ1eSBMb3cgTGlnaHQgLyBTaGFkZSBUb2xlcmFudCBJbmRvb3IgUGxhbnRzIGF0IEhvcnRvbG9neTwvYj4uIEhvdXNlcGxhbnRzIHRoYXQgYXJlIGlkZWFsIGdyZWVuZXJ5IGZvciBzaGFkeSBwb3NpdGlvbnMgYXQgaG9tZSBvciBpbiB0aGUgb2ZmaWNlLiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVkJGbWpyT1BkODhRZ19GRWx3YlBpVUh0Y2EwdmtxbzlvLWp4U2RUV3N1YVdsSF9XMG1yWEt2VXZoRmhqTGpfSldDMlFLUXZhSk5GQUM4RlJGM3JPOThPYXdxeU1EZjhHNzBrNjdkb29TLTR2aVU2alFia1Nac3NmeDN0WEM4OUJ3VnU3SUVHTzZvVDNJRnJDUW4zU292R2RDNndGNzlObWdrUE0SBBoCCAAaoQQSABoCCAEiACoAMgYIARICdWs6AEIECAEQAEoAWhMIARIPaG9ydG9sb2d5LmNvLnVrcgB6AIJA6AMIABAAGAAgACosCglob3J0b2xvZ3kV_ebYQBoKaG9ydCBvbG9neRoOaXY7cDtob3J0b2xvZ3kqGQoCdWsVxU4UQBoOdW5pdGVkIGtpbmdkb20yuQEvZ290bz91cmw9Q0FFU2Z3SHJPekFWQkZtanJPUGQ4OFFnX0ZFbHdiUGlVSHRjYTB2a3FvOW8tanhTZFRXc3VhV2xIX1cwbXJYS3ZVdmhGaGpMal9KV0MyUUtRdmFKTkZBQzhGUkYzck85OE9hd3F5TURmOEc3MGs2N2Rvb1MtNHZpVTZqUWJrU1pzc2Z4M3RYQzg5QndWdTdJRUdPNm9UM0lGckNRbjNTb3ZHZEM2d0Y3OU5tZ2tQTTpDU2hhZGUgVG9sZXJhbnQgSW5kb29yIFBsYW50cyB8IDxiPkhvcnRvbG9neTwvYj4uY28uPGI-dWs8L2I-IFBhZ2UgNUKTATxiPkJ1eSBMb3cgTGlnaHQgLyBTaGFkZSBUb2xlcmFudCBJbmRvb3IgUGxhbnRzIGF0IEhvcnRvbG9neTwvYj4uIEhvdXNlcGxhbnRzIHRoYXQgYXJlIGlkZWFsIGdyZWVuZXJ5IGZvciBzaGFkeSBwb3NpdGlvbnMgYXQgaG9tZSBvciBpbiB0aGUgb2ZmaWNlLiICEAFIAFgAaAA",
+    "source": "Hortology"
+   },
+   {
+    "position": 7,
+    "title": "Black & Grey Indoor Plant Pots",
+    "link": "https://hortology.co.uk/collections/black-grey-indoor-plant-pots?page=5",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfwHrOzAVEGyleBy17D3icRkEmGnRcePLDdpn8-hR0gw4B2OehNEF34SrWl_K6lzDYMQBfOJN79QQuneqKAkvnamBtvyi9O_EikEheszc2dk_Q4brfsBX1rja4NQbMb0dQzqUklHuB40I8P1wsscc7hH5IqFCgQTnGsIX3BITbBg&ved=2ahUKEwiGns2qkpaXAxW0MVkFHQ38A_QQFnoECBsQAQ&uoh=1",
+    "displayed_link": "https://hortology.co.uk › collections › black-grey-indoo...",
+    "favicon": "https://serpapi.com/images/i/UklGRkoBAABXRUJQVlA4ID4BAACQBgCdASocABwAPtE-tFooIigoFAEAGglpAAUQIYZ44vof0V91VS1sl0aOZS-b14tWnnyZZ5C4CHNfd3agAP77K6zKxDrYq2x217-dMpMhN6IrAri__aGJ_kzfKLOwQ__8dvSgJLO7_Sb7QETbd6zx0_I5H82q4R4tXBnGl_UPGc0725Lf8LgOsWn7G66OIht_abhs0CQc2-l_DB0Z295l3eYcuovx7bkIilUndpFYFu92HGv81Iu_9hWqL64_wBr54ag3gKlwmhQqeyPNTvwlHanv9hRpp9Zlq4k71if1pDawR6ylDRzMxd__jW3yeDlaib44AEN4mr1Qb-4M_6PdT8KHEO0Bhe2-yP3U_7f7DVpXwmn658mV2mP9b0Zvd1RW40NP4EU33wbxbWC3UGPGUchobFZfxiga7M9AAAA.webp",
+    "snippet": "Explore indoor plant pots in ceramic, fibreclay, fibrestone and metal, available in a variety of finishes including smooth glazes, raw ...",
+    "snippet_highlighted_words": [
+     "Explore indoor plant pots in ceramic, fibreclay, fibrestone and metal"
+    ],
+    "rich_snippet": {
+     "top": {
+      "detected_extensions": {
+       "rating": 4.8,
+       "day_delivery": "1–7",
+       "day_returns": 28
+      },
+      "extensions": [
+       "4.8",
+       "store rating (3.3k)",
+       "1–7 day delivery",
+       "28-day returns"
+      ]
+     }
+    },
+    "about_this_result": {
+     "source": {
+      "description": "Explore indoor plant pots in ceramic, fibreclay, fibrestone and metal, available in a variety of finishes including smooth glazes, raw ...",
+      "source_info_link": "https://hortology.co.uk/collections/black-grey-indoor-plant-pots?page=5",
+      "icon": "https://serpapi.com/images/i/UklGRkoBAABXRUJQVlA4ID4BAACQBgCdASocABwAPtE-tFooIigoFAEAGglpAAUQIYZ44vof0V91VS1sl0aOZS-b14tWnnyZZ5C4CHNfd3agAP77K6zKxDrYq2x217-dMpMhN6IrAri__aGJ_kzfKLOwQ__8dvSgJLO7_Sb7QETbd6zx0_I5H82q4R4tXBnGl_UPGc0725Lf8LgOsWn7G66OIht_abhs0CQc2-l_DB0Z295l3eYcuovx7bkIilUndpFYFu92HGv81Iu_9hWqL64_wBr54ag3gKlwmhQqeyPNTvwlHanv9hRpp9Zlq4k71if1pDawR6ylDRzMxd__jW3yeDlaib44AEN4mr1Qb-4M_6PdT8KHEO0Bhe2-yP3U_7f7DVpXwmn658mV2mP9b0Zvd1RW40NP4EU33wbxbWC3UGPGUchobFZfxiga7M9AAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVkVHeWxlQnkxN0QzaWNSa0VtR25SY2VQTERkcG44LWhSMGd3NEIyT2VoTkVGMzRTcldsX0s2bHpEWU1RQmZPSk43OVFRdW5lcUtBa3ZuYW1CdHZ5aTlPX0Vpa0VoZXN6YzJka19RNGJyZnNCWDFyamE0TlFiTWIwZFF6cVVrbEh1QjQwSThQMXdzc2NjN2hINUlxRkNnUVRuR3NJWDNCSVRiQmcSBBoCCAAajQQSABoAIgAqADIGCAESAnVrOgBCBAgBEABKAFoTCAESD2hvcnRvbG9neS5jby51a3IAegCCQNYDCAAQABgAIAAqLAoJaG9ydG9sb2d5FR1b0EAaCmhvcnQgb2xvZ3kaDml2O3A7aG9ydG9sb2d5KhkKAnVrFby7E0AaDnVuaXRlZCBraW5nZG9tMrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVkVHeWxlQnkxN0QzaWNSa0VtR25SY2VQTERkcG44LWhSMGd3NEIyT2VoTkVGMzRTcldsX0s2bHpEWU1RQmZPSk43OVFRdW5lcUtBa3ZuYW1CdHZ5aTlPX0Vpa0VoZXN6YzJka19RNGJyZnNCWDFyamE0TlFiTWIwZFF6cVVrbEh1QjQwSThQMXdzc2NjN2hINUlxRkNnUVRuR3NJWDNCSVRiQmc6LkJsYWNrICZhbXA7IEdyZXkgSW5kb29yIFBsYW50IFBvdHMgLSBIb3J0b2xvZ3lClgE8Yj5FeHBsb3JlIGluZG9vciBwbGFudCBwb3RzIGluIGNlcmFtaWMsIGZpYnJlY2xheSwgZmlicmVzdG9uZSBhbmQgbWV0YWw8L2I-LCBhdmFpbGFibGUgaW4gYSB2YXJpZXR5IG9mIGZpbmlzaGVzIGluY2x1ZGluZyBzbW9vdGggZ2xhemVzLCByYXcmbmJzcDsuLi4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVkVHeWxlQnkxN0QzaWNSa0VtR25SY2VQTERkcG44LWhSMGd3NEIyT2VoTkVGMzRTcldsX0s2bHpEWU1RQmZPSk43OVFRdW5lcUtBa3ZuYW1CdHZ5aTlPX0Vpa0VoZXN6YzJka19RNGJyZnNCWDFyamE0TlFiTWIwZFF6cVVrbEh1QjQwSThQMXdzc2NjN2hINUlxRkNnUVRuR3NJWDNCSVRiQmcSBBoCCAAajQQSABoAIgAqADIGCAESAnVrOgBCBAgBEABKAFoTCAESD2hvcnRvbG9neS5jby51a3IAegCCQNYDCAAQABgAIAAqLAoJaG9ydG9sb2d5FR1b0EAaCmhvcnQgb2xvZ3kaDml2O3A7aG9ydG9sb2d5KhkKAnVrFby7E0AaDnVuaXRlZCBraW5nZG9tMrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVkVHeWxlQnkxN0QzaWNSa0VtR25SY2VQTERkcG44LWhSMGd3NEIyT2VoTkVGMzRTcldsX0s2bHpEWU1RQmZPSk43OVFRdW5lcUtBa3ZuYW1CdHZ5aTlPX0Vpa0VoZXN6YzJka19RNGJyZnNCWDFyamE0TlFiTWIwZFF6cVVrbEh1QjQwSThQMXdzc2NjN2hINUlxRkNnUVRuR3NJWDNCSVRiQmc6LkJsYWNrICZhbXA7IEdyZXkgSW5kb29yIFBsYW50IFBvdHMgLSBIb3J0b2xvZ3lClgE8Yj5FeHBsb3JlIGluZG9vciBwbGFudCBwb3RzIGluIGNlcmFtaWMsIGZpYnJlY2xheSwgZmlicmVzdG9uZSBhbmQgbWV0YWw8L2I-LCBhdmFpbGFibGUgaW4gYSB2YXJpZXR5IG9mIGZpbmlzaGVzIGluY2x1ZGluZyBzbW9vdGggZ2xhemVzLCByYXcmbmJzcDsuLi4iAhABSABYAGgA",
+    "source": "Hortology",
+    "read_more_link": "https://hortology.co.uk/collections/black-grey-indoor-plant-pots?page=5#:~:text=Read%20More"
+   },
+   {
+    "position": 8,
+    "title": "Brown & Terracotta Indoor Plant Pots",
+    "link": "https://hortology.co.uk/collections/brown-terracotta-indoor-plant-pots/terracotta",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiQEB6zswFTZLfrqPpBpmZuIBX5n1QUjtxNaqaWCoVJootHbf3ncYM0idBhBugVCl-Ez5W194Kf1VL4xYtjdJ-9UPc152vGzcJj7w8uuu5Yauup4ZlhlioD7NEJfjlxnusL3s0iX9p_ycuGLB-9VbbGU6WrCPBnK0XalkpCw6L9d6qyg8wmq7Gvkowg&ved=2ahUKEwiGns2qkpaXAxW0MVkFHQ38A_QQFnoECB4QAQ&uoh=1",
+    "displayed_link": "https://hortology.co.uk › collections › terracotta",
+    "thumbnail": "https://serpapi.com/searches/6abceac5bc3f0b501b710a5e/images/jta3e09neKtROVPk1xKaq42exkl9jG1tOqhnS2VQelI.jpeg",
+    "favicon": "https://serpapi.com/images/i/UklGRkoBAABXRUJQVlA4ID4BAACQBgCdASocABwAPtE-tFooIigoFAEAGglpAAUQIYZ44vof0V91VS1sl0aOZS-b14tWnnyZZ5C4CHNfd3agAP77K6zKxDrYq2x217-dMpMhN6IrAri__aGJ_kzfKLOwQ__8dvSgJLO7_Sb7QETbd6zx0_I5H82q4R4tXBnGl_UPGc0725Lf8LgOsWn7G66OIht_abhs0CQc2-l_DB0Z295l3eYcuovx7bkIilUndpFYFu92HGv81Iu_9hWqL64_wBr54ag3gKlwmhQqeyPNTvwlHanv9hRpp9Zlq4k71if1pDawR6ylDRzMxd__jW3yeDlaib44AEN4mr1Qb-4M_6PdT8KHEO0Bhe2-yP3U_7f7DVpXwmn658mV2mP9b0Zvd1RW40NP4EU33wbxbWC3UGPGUchobFZfxiga7M9AAAA.webp",
+    "snippet": "Shop brown and terracotta indoor plant pots for warm, earthy interiors. Discover indoor planters in ceramic, fibreclay and textured finishes.",
+    "snippet_highlighted_words": [
+     "Shop brown and terracotta indoor plant pots"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Shop brown and terracotta indoor plant pots for warm, earthy interiors. Discover indoor planters in ceramic, fibreclay and textured finishes.",
+      "source_info_link": "https://hortology.co.uk/collections/brown-terracotta-indoor-plant-pots/terracotta",
+      "icon": "https://serpapi.com/images/i/UklGRkoBAABXRUJQVlA4ID4BAACQBgCdASocABwAPtE-tFooIigoFAEAGglpAAUQIYZ44vof0V91VS1sl0aOZS-b14tWnnyZZ5C4CHNfd3agAP77K6zKxDrYq2x217-dMpMhN6IrAri__aGJ_kzfKLOwQ__8dvSgJLO7_Sb7QETbd6zx0_I5H82q4R4tXBnGl_UPGc0725Lf8LgOsWn7G66OIht_abhs0CQc2-l_DB0Z295l3eYcuovx7bkIilUndpFYFu92HGv81Iu_9hWqL64_wBr54ag3gKlwmhQqeyPNTvwlHanv9hRpp9Zlq4k71if1pDawR6ylDRzMxd__jW3yeDlaib44AEN4mr1Qb-4M_6PdT8KHEO0Bhe2-yP3U_7f7DVpXwmn658mV2mP9b0Zvd1RW40NP4EU33wbxbWC3UGPGUchobFZfxiga7M9AAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CsgBL2dvdG8_dXJsPUNBRVNpUUVCNnpzd0ZUWkxmcnFQcEJwbVp1SUJYNW4xUVVqdHhOYXFhV0NvVkpvb3RIYmYzbmNZTTBpZEJoQnVnVkNsLUV6NVcxOTRLZjFWTDR4WXRqZEotOVVQYzE1MnZHemNKajd3OHV1dTVZYXV1cDRabGhsaW9EN05FSmZqbHhudXNMM3MwaVg5cF95Y3VHTEItOVZiYkdVNldyQ1BCbkswWGFsa3BDdzZMOWQ2cXlnOHdtcTdHdmtvd2cSBBoCCAAaogQSABoCCAEiACoAMgYIARICdWs6AEIECAEQAEoAWhMIARIPaG9ydG9sb2d5LmNvLnVrcgB6AIJA6QMIABAAGAAgACosCglob3J0b2xvZ3kVh2TeQBoKaG9ydCBvbG9neRoOaXY7cDtob3J0b2xvZ3kqGQoCdWsVAAAUQBoOdW5pdGVkIGtpbmdkb20yyAEvZ290bz91cmw9Q0FFU2lRRUI2enN3RlRaTGZycVBwQnBtWnVJQlg1bjFRVWp0eE5hcWFXQ29WSm9vdEhiZjNuY1lNMGlkQmhCdWdWQ2wtRXo1VzE5NEtmMVZMNHhZdGpkSi05VVBjMTUydkd6Y0pqN3c4dXV1NVlhdXVwNFpsaGxpb0Q3TkVKZmpseG51c0wzczBpWDlwX3ljdUdMQi05VmJiR1U2V3JDUEJuSzBYYWxrcEN3Nkw5ZDZxeWc4d21xN0d2a293Zzo0QnJvd24gJmFtcDsgVGVycmFjb3R0YSBJbmRvb3IgUGxhbnQgUG90cyAtIEhvcnRvbG9neUKUATxiPlNob3AgYnJvd24gYW5kIHRlcnJhY290dGEgaW5kb29yIHBsYW50IHBvdHM8L2I-IGZvciB3YXJtLCBlYXJ0aHkgaW50ZXJpb3JzLiBEaXNjb3ZlciBpbmRvb3IgcGxhbnRlcnMgaW4gY2VyYW1pYywgZmlicmVjbGF5IGFuZCB0ZXh0dXJlZCBmaW5pc2hlcy4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CsgBL2dvdG8_dXJsPUNBRVNpUUVCNnpzd0ZUWkxmcnFQcEJwbVp1SUJYNW4xUVVqdHhOYXFhV0NvVkpvb3RIYmYzbmNZTTBpZEJoQnVnVkNsLUV6NVcxOTRLZjFWTDR4WXRqZEotOVVQYzE1MnZHemNKajd3OHV1dTVZYXV1cDRabGhsaW9EN05FSmZqbHhudXNMM3MwaVg5cF95Y3VHTEItOVZiYkdVNldyQ1BCbkswWGFsa3BDdzZMOWQ2cXlnOHdtcTdHdmtvd2cSBBoCCAAaogQSABoCCAEiACoAMgYIARICdWs6AEIECAEQAEoAWhMIARIPaG9ydG9sb2d5LmNvLnVrcgB6AIJA6QMIABAAGAAgACosCglob3J0b2xvZ3kVh2TeQBoKaG9ydCBvbG9neRoOaXY7cDtob3J0b2xvZ3kqGQoCdWsVAAAUQBoOdW5pdGVkIGtpbmdkb20yyAEvZ290bz91cmw9Q0FFU2lRRUI2enN3RlRaTGZycVBwQnBtWnVJQlg1bjFRVWp0eE5hcWFXQ29WSm9vdEhiZjNuY1lNMGlkQmhCdWdWQ2wtRXo1VzE5NEtmMVZMNHhZdGpkSi05VVBjMTUydkd6Y0pqN3c4dXV1NVlhdXVwNFpsaGxpb0Q3TkVKZmpseG51c0wzczBpWDlwX3ljdUdMQi05VmJiR1U2V3JDUEJuSzBYYWxrcEN3Nkw5ZDZxeWc4d21xN0d2a293Zzo0QnJvd24gJmFtcDsgVGVycmFjb3R0YSBJbmRvb3IgUGxhbnQgUG90cyAtIEhvcnRvbG9neUKUATxiPlNob3AgYnJvd24gYW5kIHRlcnJhY290dGEgaW5kb29yIHBsYW50IHBvdHM8L2I-IGZvciB3YXJtLCBlYXJ0aHkgaW50ZXJpb3JzLiBEaXNjb3ZlciBpbmRvb3IgcGxhbnRlcnMgaW4gY2VyYW1pYywgZmlicmVjbGF5IGFuZCB0ZXh0dXJlZCBmaW5pc2hlcy4iAhABSABYAGgA",
+    "source": "Hortology"
+   },
+   {
+    "position": 9,
+    "title": "Cacti & Succulents | Easy Care Indoor Plants UK",
+    "link": "https://hortology.co.uk/collections/cacti-succulents/small-plants-under-40cm",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShAEB6zswFWZeVnfzS9XvVqdQ4xFQ_W3yEO7TXrLZxJj5AVloTN4PMQgTcfb3ampZDEHHZd7jdJ9mvpbOqIyxggJttH9VhmLoysFDdcoWwBX7192Y2BJUgzHk8YnhaucN2_m9oYED1eUw_Ncd2INp1O91wa-kUDar2rR8Ste41_rpzaURGms&ved=2ahUKEwiGns2qkpaXAxW0MVkFHQ38A_QQFnoECEYQAQ&uoh=1",
+    "displayed_link": "https://hortology.co.uk › collections › cacti-succulents",
+    "thumbnail": "https://serpapi.com/searches/6abceac5bc3f0b501b710a5e/images/jta3e09neKtROVPk1xKaq-Ilw1VUtJTMNkjjpOzjQX8.jpeg",
+    "favicon": "https://serpapi.com/images/i/UklGRkoBAABXRUJQVlA4ID4BAACQBgCdASocABwAPtE-tFooIigoFAEAGglpAAUQIYZ44vof0V91VS1sl0aOZS-b14tWnnyZZ5C4CHNfd3agAP77K6zKxDrYq2x217-dMpMhN6IrAri__aGJ_kzfKLOwQ__8dvSgJLO7_Sb7QETbd6zx0_I5H82q4R4tXBnGl_UPGc0725Lf8LgOsWn7G66OIht_abhs0CQc2-l_DB0Z295l3eYcuovx7bkIilUndpFYFu92HGv81Iu_9hWqL64_wBr54ag3gKlwmhQqeyPNTvwlHanv9hRpp9Zlq4k71if1pDawR6ylDRzMxd__jW3yeDlaib44AEN4mr1Qb-4M_6PdT8KHEO0Bhe2-yP3U_7f7DVpXwmn658mV2mP9b0Zvd1RW40NP4EU33wbxbWC3UGPGUchobFZfxiga7M9AAAA.webp",
+    "snippet": "Shop cacti and succulents for easy care indoor plants. Discover low maintenance, drought tolerant houseplants perfect for bright spaces and busy homes.",
+    "snippet_highlighted_words": [
+     "Shop cacti and succulents for easy care indoor plants"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Shop cacti and succulents for easy care indoor plants. Discover low maintenance, drought tolerant houseplants perfect for bright spaces and busy homes.",
+      "source_info_link": "https://hortology.co.uk/collections/cacti-succulents/small-plants-under-40cm",
+      "icon": "https://serpapi.com/images/i/UklGRkoBAABXRUJQVlA4ID4BAACQBgCdASocABwAPtE-tFooIigoFAEAGglpAAUQIYZ44vof0V91VS1sl0aOZS-b14tWnnyZZ5C4CHNfd3agAP77K6zKxDrYq2x217-dMpMhN6IrAri__aGJ_kzfKLOwQ__8dvSgJLO7_Sb7QETbd6zx0_I5H82q4R4tXBnGl_UPGc0725Lf8LgOsWn7G66OIht_abhs0CQc2-l_DB0Z295l3eYcuovx7bkIilUndpFYFu92HGv81Iu_9hWqL64_wBr54ag3gKlwmhQqeyPNTvwlHanv9hRpp9Zlq4k71if1pDawR6ylDRzMxd__jW3yeDlaib44AEN4mr1Qb-4M_6PdT8KHEO0Bhe2-yP3U_7f7DVpXwmn658mV2mP9b0Zvd1RW40NP4EU33wbxbWC3UGPGUchobFZfxiga7M9AAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CsEBL2dvdG8_dXJsPUNBRVNoQUVCNnpzd0ZXWmVWbmZ6UzlYdlZxZFE0eEZRX1czeUVPN1RYckxaeEpqNUFWbG9UTjRQTVFnVGNmYjNhbXBaREVISFpkN2pkSjltdnBiT3FJeXhnZ0p0dEg5VmhtTG95c0ZEZGNvV3dCWDcxOTJZMkJKVWd6SGs4WW5oYXVjTjJfbTlvWUVEMWVVd19OY2QySU5wMU85MXdhLWtVRGFyMnJSOFN0ZTQxX3JwemFVUkdtcxIEGgIIABq-BBIAGgIIASIAKgAyBggBEgJ1azoAQgQIARAASgBaEwgBEg9ob3J0b2xvZ3kuY28udWtyAHoAgkCFBAgAEAAYACAAKiwKCWhvcnRvbG9neRWopM5AGgpob3J0IG9sb2d5Gg5pdjtwO2hvcnRvbG9neSoZCgJ1axUAgBNAGg51bml0ZWQga2luZ2RvbTLBAS9nb3RvP3VybD1DQUVTaEFFQjZ6c3dGV1plVm5melM5WHZWcWRRNHhGUV9XM3lFTzdUWHJMWnhKajVBVmxvVE40UE1RZ1RjZmIzYW1wWkRFSEhaZDdqZEo5bXZwYk9xSXl4Z2dKdHRIOVZobUxveXNGRGRjb1d3Qlg3MTkyWTJCSlVnekhrOFluaGF1Y04yX205b1lFRDFlVXdfTmNkMklOcDFPOTF3YS1rVURhcjJyUjhTdGU0MV9ycHphVVJHbXM6TUNhY3RpICZhbXA7IFN1Y2N1bGVudHMgfCBFYXN5IENhcmUgSW5kb29yIFBsYW50cyA8Yj5VSzwvYj4gLSA8Yj5Ib3J0b2xvZ3k8L2I-Qp4BPGI-U2hvcCBjYWN0aSBhbmQgc3VjY3VsZW50cyBmb3IgZWFzeSBjYXJlIGluZG9vciBwbGFudHM8L2I-LiBEaXNjb3ZlciBsb3cgbWFpbnRlbmFuY2UsIGRyb3VnaHQgdG9sZXJhbnQgaG91c2VwbGFudHMgcGVyZmVjdCBmb3IgYnJpZ2h0IHNwYWNlcyBhbmQgYnVzeSBob21lcy4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CsEBL2dvdG8_dXJsPUNBRVNoQUVCNnpzd0ZXWmVWbmZ6UzlYdlZxZFE0eEZRX1czeUVPN1RYckxaeEpqNUFWbG9UTjRQTVFnVGNmYjNhbXBaREVISFpkN2pkSjltdnBiT3FJeXhnZ0p0dEg5VmhtTG95c0ZEZGNvV3dCWDcxOTJZMkJKVWd6SGs4WW5oYXVjTjJfbTlvWUVEMWVVd19OY2QySU5wMU85MXdhLWtVRGFyMnJSOFN0ZTQxX3JwemFVUkdtcxIEGgIIABq-BBIAGgIIASIAKgAyBggBEgJ1azoAQgQIARAASgBaEwgBEg9ob3J0b2xvZ3kuY28udWtyAHoAgkCFBAgAEAAYACAAKiwKCWhvcnRvbG9neRWopM5AGgpob3J0IG9sb2d5Gg5pdjtwO2hvcnRvbG9neSoZCgJ1axUAgBNAGg51bml0ZWQga2luZ2RvbTLBAS9nb3RvP3VybD1DQUVTaEFFQjZ6c3dGV1plVm5melM5WHZWcWRRNHhGUV9XM3lFTzdUWHJMWnhKajVBVmxvVE40UE1RZ1RjZmIzYW1wWkRFSEhaZDdqZEo5bXZwYk9xSXl4Z2dKdHRIOVZobUxveXNGRGRjb1d3Qlg3MTkyWTJCSlVnekhrOFluaGF1Y04yX205b1lFRDFlVXdfTmNkMklOcDFPOTF3YS1rVURhcjJyUjhTdGU0MV9ycHphVVJHbXM6TUNhY3RpICZhbXA7IFN1Y2N1bGVudHMgfCBFYXN5IENhcmUgSW5kb29yIFBsYW50cyA8Yj5VSzwvYj4gLSA8Yj5Ib3J0b2xvZ3k8L2I-Qp4BPGI-U2hvcCBjYWN0aSBhbmQgc3VjY3VsZW50cyBmb3IgZWFzeSBjYXJlIGluZG9vciBwbGFudHM8L2I-LiBEaXNjb3ZlciBsb3cgbWFpbnRlbmFuY2UsIGRyb3VnaHQgdG9sZXJhbnQgaG91c2VwbGFudHMgcGVyZmVjdCBmb3IgYnJpZ2h0IHNwYWNlcyBhbmQgYnVzeSBob21lcy4iAhABSABYAGgA",
+    "source": "Hortology"
+   }
+  ],
+  "related_searches": [
+   {
+    "block_position": 1,
+    "query": "Hortology uk online",
+    "link": "https://www.google.co.uk/search?sca_esv=d0c3879c3aba1c72&hl=en&gl=uk&sxsrf=APpeQnsoPXud2mkeBPLg7wM-g3kunkesAA:1790765765455&q=Hortology+uk+online&sa=X&ved=2ahUKEwiGns2qkpaXAxW0MVkFHQ38A_QQ1QJ6BAhDEAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&q=Hortology+uk+online"
+   },
+   {
+    "block_position": 1,
+    "query": "Hortology uk plants",
+    "link": "https://www.google.co.uk/search?sca_esv=d0c3879c3aba1c72&hl=en&gl=uk&sxsrf=APpeQnsoPXud2mkeBPLg7wM-g3kunkesAA:1790765765455&q=Hortology+uk+plants&sa=X&ved=2ahUKEwiGns2qkpaXAxW0MVkFHQ38A_QQ1QJ6BAhFEAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&q=Hortology+uk+plants"
+   },
+   {
+    "block_position": 1,
+    "query": "Best hortology uk",
+    "link": "https://www.google.co.uk/search?sca_esv=d0c3879c3aba1c72&hl=en&gl=uk&sxsrf=APpeQnsoPXud2mkeBPLg7wM-g3kunkesAA:1790765765455&q=Best+hortology+uk&sa=X&ved=2ahUKEwiGns2qkpaXAxW0MVkFHQ38A_QQ1QJ6BAhEEAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&q=Best+hortology+uk"
+   }
+  ],
+  "pagination": {
+   "current": 1,
+   "next": "https://www.google.co.uk/search?q=Hortology+UK&sca_esv=d0c3879c3aba1c72&hl=en&gl=uk&sxsrf=APpeQnsoPXud2mkeBPLg7wM-g3kunkesAA:1790765765455&ei=xeq8asanG7Tj5NoPjfiPoA8&start=10&sa=N&sstk=AS6-VmIqNbWj15-fq3odo28F9JrQgiiIc4DE9yoOP9aOYYkcDAB8SEC10ANPlP1QqUNr0TK2vg2MFTGZtVjjSPgyKe0-386Ij6o8Qg&ved=2ahUKEwiGns2qkpaXAxW0MVkFHQ38A_QQ8NMDegQIQBAI",
+   "other_pages": {
+    "2": "https://www.google.co.uk/search?q=Hortology+UK&sca_esv=d0c3879c3aba1c72&hl=en&gl=uk&sxsrf=APpeQnsoPXud2mkeBPLg7wM-g3kunkesAA:1790765765455&ei=xeq8asanG7Tj5NoPjfiPoA8&start=10&sa=N&sstk=AS6-VmIqNbWj15-fq3odo28F9JrQgiiIc4DE9yoOP9aOYYkcDAB8SEC10ANPlP1QqUNr0TK2vg2MFTGZtVjjSPgyKe0-386Ij6o8Qg&ved=2ahUKEwiGns2qkpaXAxW0MVkFHQ38A_QQ8tMDegQIQBAE",
+    "3": "https://www.google.co.uk/search?q=Hortology+UK&sca_esv=d0c3879c3aba1c72&hl=en&gl=uk&sxsrf=APpeQnsoPXud2mkeBPLg7wM-g3kunkesAA:1790765765455&ei=xeq8asanG7Tj5NoPjfiPoA8&start=20&sa=N&sstk=AS6-VmIqNbWj15-fq3odo28F9JrQgiiIc4DE9yoOP9aOYYkcDAB8SEC10ANPlP1QqUNr0TK2vg2MFTGZtVjjSPgyKe0-386Ij6o8Qg&ved=2ahUKEwiGns2qkpaXAxW0MVkFHQ38A_QQ8tMDegQIQBAG"
+   }
+  },
+  "serpapi_pagination": {
+   "current": 1,
+   "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&q=Hortology+UK&start=10",
+   "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&q=Hortology+UK&start=10",
+   "other_pages": {
+    "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&q=Hortology+UK&start=10",
+    "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&q=Hortology+UK&start=20"
+   }
+  }
+ }
+}

@@ -1,0 +1,295 @@
+{
+ "engine": "google",
+ "params": {
+  "q": "Casa by JJ UK",
+  "gl": "uk",
+  "hl": "en",
+  "google_domain": "google.co.uk"
+ },
+ "fetched_at": "2026-09-30T10:50:43+00:00",
+ "data": {
+  "search_metadata": {
+   "id": "6abce9791cff1913d811ed90",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/mW0guwJEVFhPKjlmdsIvBEKvIvCTpZzj36LxsqFeWFI/6abce9791cff1913d811ed90.json",
+   "markdown_endpoint": "https://serpapi.com/searches/mW0guwJEVFhPKjlmdsIvBEKvIvCTpZzj36LxsqFeWFI/6abce9791cff1913d811ed90.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/mW0guwJEVFhPKjlmdsIvBEKvIvCTpZzj36LxsqFeWFI/6abce9791cff1913d811ed90.json_with_pixel_position",
+   "created_at": "2026-09-30 10:50:33 UTC",
+   "processed_at": "2026-09-30 10:50:33 UTC",
+   "google_url": "https://www.google.co.uk/search?q=Casa+by+JJ+UK&oq=Casa+by+JJ+UK&hl=en&gl=uk&sourceid=chrome&ie=UTF-8",
+   "raw_html_file": "https://serpapi.com/searches/mW0guwJEVFhPKjlmdsIvBEKvIvCTpZzj36LxsqFeWFI/6abce9791cff1913d811ed90.html",
+   "total_time_taken": 9.79
+  },
+  "search_parameters": {
+   "engine": "google",
+   "q": "Casa by JJ UK",
+   "google_domain": "google.co.uk",
+   "hl": "en",
+   "gl": "uk",
+   "device": "desktop"
+  },
+  "search_information": {
+   "query_displayed": "Casa by JJ UK",
+   "total_results": 10,
+   "time_taken_displayed": 0.39,
+   "organic_results_state": "Results for exact spelling"
+  },
+  "ai_overview": {
+   "page_token": "SmfEHXiczVXNcuI4EH6AfY71JQnY_ARIlWtKEg6IDD8GXIG5uIxsZGODiUUw5jbvscd9qn2alQ0GQ3BSM4etbWIpklqt7lZ_-n7-7Tkr958__rI3mzV7KhbDMCxQ36eeVSB-4d0tGixakeLc91hA7G_Mfw-I5ZgysQN_aQnUk99dwfZkayVEW7ksECaLguXI9H1ZN9a1TetHa7reqIPGQxlXQEVIzMn6zGDWgp-3W7CiXuSN-2e5yQcFVrBWegsWIAursFVSpQotlESpUegXjSXXAf-hqArAAPL-0OUJAkD52lisogIU20qFovPSQZoHe_GZNJl4yT0Sx7sg_2GQqA4qu6rNuAktVerne6zyZpoOwqSD8HDiKHaKfh3PUSA4pgaqJ9dyBd-ePuxEmUOnH1ZvWetejn0AmxWgqjB14epWRtmooBJHGWvwZDw0dwCGTk6yjxv43xi0Xf_zEBNHEK6n6QDPjF8qLpqUF69YnAW8k4oOsUnyT8Dimkbjhug_r-amvhj1d7gDJtHgwQ_V8tadWF0U0CKZcT3PN0zL1G1d_JaMpZJUFRvlWv0-wRNhJ0CxLKD6_jDsvUkN1lUK3wtQSqGEThdyFZDCx-jWXfHMolsbTlbSjGc2OyhbTWlx8vJ2MVfD4XmNKngQ9610os8vFECShV56QGzyFpQulI5QSgoLH3p83n5S0fDZEM0uNd2PQX54BxAC4aFc1WaSF0hTB9SrNCEwwnwtnYWXKFMhcGwlDguOeDwsUSMX9S8qw3PIKPUnLnjleKR2Npe0OAMlxOsbJRXfi624iLoQc2chOOSFJqBIxKdX16_kPHGIxwi1XIh-KjTvPbgQnGLmCgJZ6LSienUw3Hbb81q50xe70BlqphboYkjU21Dxl7NfIx_y_8JTSk3akZry8aR8jaf4KfyMmpLmTE2jA55e8vGk4DM10Qw1iWdPTim4DnqUwROKYg0Kn29T06_iCX2CJ_wZnuJIb-FJzcNTQk0XeOpcU9MFnk7UlOLp96gJ_x41JfCyDt0lT70vaD5fjSsP-9WbuNvPA6s6sMdWYAfeFuv2j_BLvpovN09Lw_Tudcd8gqXOJjLvdT7hP1mm8CYjgxl3s-iu07nTXoSlF_iyaFT15W68D9pab9h-AwPVqHsveltviw2_1euiceSBhlbfabX1WpvYY6-xjki3_lZrtXEwXLtOz9zXGjpx1d2ITeYB2yF3VAp6Dx7Br-3FCxb3VT0cAu91uui7Yrhf9kLzedckEfm-Hbfcx15vvXPKj5PtZFpZdxOvmAz9x_FYs6BbCQXuP7NkSVgGROYXUaGgp4JXyosOTTkZUP75_Av598gRDAVGDN1iW9kUSblea5CyMTMkUisJS7qJ1nJFEtgqkKV_AT0gSbw",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=SmfEHXiczVXNcuI4EH6AfY71JQnY_ARIlWtKEg6IDD8GXIG5uIxsZGODiUUw5jbvscd9qn2alQ0GQ3BSM4etbWIpklqt7lZ_-n7-7Tkr958__rI3mzV7KhbDMCxQ36eeVSB-4d0tGixakeLc91hA7G_Mfw-I5ZgysQN_aQnUk99dwfZkayVEW7ksECaLguXI9H1ZN9a1TetHa7reqIPGQxlXQEVIzMn6zGDWgp-3W7CiXuSN-2e5yQcFVrBWegsWIAursFVSpQotlESpUegXjSXXAf-hqArAAPL-0OUJAkD52lisogIU20qFovPSQZoHe_GZNJl4yT0Sx7sg_2GQqA4qu6rNuAktVerne6zyZpoOwqSD8HDiKHaKfh3PUSA4pgaqJ9dyBd-ePuxEmUOnH1ZvWetejn0AmxWgqjB14epWRtmooBJHGWvwZDw0dwCGTk6yjxv43xi0Xf_zEBNHEK6n6QDPjF8qLpqUF69YnAW8k4oOsUnyT8Dimkbjhug_r-amvhj1d7gDJtHgwQ_V8tadWF0U0CKZcT3PN0zL1G1d_JaMpZJUFRvlWv0-wRNhJ0CxLKD6_jDsvUkN1lUK3wtQSqGEThdyFZDCx-jWXfHMolsbTlbSjGc2OyhbTWlx8vJ2MVfD4XmNKngQ9610os8vFECShV56QGzyFpQulI5QSgoLH3p83n5S0fDZEM0uNd2PQX54BxAC4aFc1WaSF0hTB9SrNCEwwnwtnYWXKFMhcGwlDguOeDwsUSMX9S8qw3PIKPUnLnjleKR2Npe0OAMlxOsbJRXfi624iLoQc2chOOSFJqBIxKdX16_kPHGIxwi1XIh-KjTvPbgQnGLmCgJZ6LSienUw3Hbb81q50xe70BlqphboYkjU21Dxl7NfIx_y_8JTSk3akZry8aR8jaf4KfyMmpLmTE2jA55e8vGk4DM10Qw1iWdPTim4DnqUwROKYg0Kn29T06_iCX2CJ_wZnuJIb-FJzcNTQk0XeOpcU9MFnk7UlOLp96gJ_x41JfCyDt0lT70vaD5fjSsP-9WbuNvPA6s6sMdWYAfeFuv2j_BLvpovN09Lw_Tudcd8gqXOJjLvdT7hP1mm8CYjgxl3s-iu07nTXoSlF_iyaFT15W68D9pab9h-AwPVqHsveltviw2_1euiceSBhlbfabX1WpvYY6-xjki3_lZrtXEwXLtOz9zXGjpx1d2ITeYB2yF3VAp6Dx7Br-3FCxb3VT0cAu91uui7Yrhf9kLzedckEfm-Hbfcx15vvXPKj5PtZFpZdxOvmAz9x_FYs6BbCQXuP7NkSVgGROYXUaGgp4JXyosOTTkZUP75_Av598gRDAVGDN1iW9kUSblea5CyMTMkUisJS7qJ1nJFEtgqkKV_AT0gSbw"
+  },
+  "organic_results": [
+   {
+    "position": 1,
+    "title": "Casa by Josephine Jenno",
+    "link": "https://mashandmint.co.uk/collections/casa-by-josephine-jenno?srsltid=AU7gw4VZKjm8D4irEBa3MclBXhCqK0MEUyqTjmtw1Hd1SoeRgp20d0m7",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESuQEB6zswFWsjUxF4wP3ib1fMAo8Cv6cJqpvWYpoy9vvW631OFH0AQVT-1Zej1RtGVLckovy2kyoC-FHh7ocWkRua5oE2TYwA2tZX4xG_oort0J83caSozvqKqN5eg_DoVB2uxoNxy7WrFSEOsZ6jnL0vkRHwyjX4tacXj8I0bt9dZ52lB1_jsJa0zf2pyOoD63muE7HLa0j90Wztw83RcV9lwfTdoj6BpLkMSmAEYeCd0rKdYbzsil8aTw&ved=2ahUKEwietsmQkZaXAxURjIkEHfc2EuwQFnoECBoQAQ&uoh=1",
+    "displayed_link": "https://mashandmint.co.uk › collections › casa-by-joseph...",
+    "thumbnail": "https://serpapi.com/searches/6abce9791cff1913d811ed90/images/FB_eo5CrBlzBp25AUf_CkjLjk58yuLh40djbji25VRc.jpeg",
+    "favicon": "https://serpapi.com/images/i/UklGRjQBAABXRUJQVlA4ICgBAADwBQCdASogACAAPtEutFooIagoGAEAGgllAMDhq7GYGghkfj-LLshD20VydPeR6tRf36hYss29QAD-4jXjIG5LvveD40wzawLl6y_K7nvG2VUdfQXN-Pr7MXBBJ1dZhdwH8GXKY-_fWrbd_6wGIc9SWBdyaPpL8areHl9YY3NONiEaI3yjLBhv9y1xRfKgR93D4_Tq8MirzqIl2GBRUtu2O2dUMii9W97XAGEUtNuI0RH9_7hizui_fbo1_EO_r1E73Nl8TswHAkgI5gv9GWBSnjUDt_-3l2XySHlrLQhhtrEJPUAAsWPDR1nleohhgkgubJb3tEj2HQYI9PD_56oqvJCOyTj18Kdc0mLHFefydOWkzzzI_zH_7fO0Cq-Yb9zwW3TS4IpAAA.webp",
+    "snippet": "Casa by Josephine Jenno Collection: Drop Tumblers - Set Of 4 Regular price £95.00 GBP Sale price £95.00 GBP … plates, and glasses.",
+    "snippet_highlighted_words": [
+     "Casa by Josephine Jenno Collection: Drop Tumblers - Set Of 4"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Casa by Josephine Jenno Collection: Drop Tumblers - Set Of 4 Regular price £95.00 GBP Sale price £95.00 GBP … plates, and glasses.",
+      "source_info_link": "https://mashandmint.co.uk/collections/casa-by-josephine-jenno?srsltid=AU7gw4VZKjm8D4irEBa3MclBXhCqK0MEUyqTjmtw1Hd1SoeRgp20d0m7",
+      "icon": "https://serpapi.com/images/i/UklGRjQBAABXRUJQVlA4ICgBAADwBQCdASogACAAPtEutFooIagoGAEAGgllAMDhq7GYGghkfj-LLshD20VydPeR6tRf36hYss29QAD-4jXjIG5LvveD40wzawLl6y_K7nvG2VUdfQXN-Pr7MXBBJ1dZhdwH8GXKY-_fWrbd_6wGIc9SWBdyaPpL8areHl9YY3NONiEaI3yjLBhv9y1xRfKgR93D4_Tq8MirzqIl2GBRUtu2O2dUMii9W97XAGEUtNuI0RH9_7hizui_fbo1_EO_r1E73Nl8TswHAkgI5gv9GWBSnjUDt_-3l2XySHlrLQhhtrEJPUAAsWPDR1nleohhgkgubJb3tEj2HQYI9PD_56oqvJCOyTj18Kdc0mLHFefydOWkzzzI_zH_7fO0Cq-Yb9zwW3TS4IpAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CogCL2dvdG8_dXJsPUNBRVN1UUVCNnpzd0ZXc2pVeEY0d1AzaWIxZk1BbzhDdjZjSnFwdldZcG95OXZ2VzYzMU9GSDBBUVZULTFaZWoxUnRHVkxja292eTJreW9DLUZIaDdvY1drUnVhNW9FMlRZd0EydFpYNHhHX29vcnQwSjgzY2FTb3p2cUtxTjVlZ19Eb1ZCMnV4b054eTdXckZTRU9zWjZqbkwwdmtSSHd5alg0dGFjWGo4STBidDlkWjUybEIxX2pzSmEwemYycHlPb0Q2M211RTdITGEwajkwV3p0dzgzUmNWOWx3ZlRkb2o2QnBMa01TbUFFWWVDZDByS2RZYnpzaWw4YVR3EgQaAggAGpAEEgAaAggBIgAqADIGCAESAnVrOgBCBAgBEABKAFoAcgB6AIJA6gMIABAAGAAgACoWCgRjYXNhFUVAIkAaCWl2O3A7Y2FzYSoJCgJieRUAAAAAKh4KAmpqFQAAAAAaBGpqJ3MaBGpqdWsaB2l2O3A7amoqKAoCdWsVAAAAPxoHYnJpdGlzaBoOdW5pdGVkIGtpbmdkb20aBGpqdWsysAEvZ290bz91cmw9Q0FFU2VBSHJPekFWT2R6R0czeGhadFRnT0MtWVUzYU1pTlR6QU5wTF8xZUNsQUNGZDRVLW41OFZralRONTRkVlpLTHQyNUhYVWtHOE8ybHNtdGFsT3ZTZDAxMW9mYmxWSGh3cHRXQ3NaeGZkaVIyU0lhdHdPWU16OFh5T1UtOFY0Vi1YZHZVWUxVbGlBdkU3NmRfdTNLS2tMVFU0MEpoVDVoejN4UTosPGI-Q2FzYTwvYj4gYnkgSm9zZXBoaW5lIEplbm5vIC0gTWFzaCArIE1pbnRCjQE8Yj5DYXNhIGJ5IEpvc2VwaGluZSBKZW5ubyBDb2xsZWN0aW9uOiBEcm9wIFR1bWJsZXJzIC0gU2V0IE9mIDQ8L2I-IFJlZ3VsYXIgcHJpY2UgwqM5NS4wMCBHQlAgU2FsZSBwcmljZSDCozk1LjAwIEdCUCDigKYgcGxhdGVzLCBhbmQgZ2xhc3Nlcy5KAmJ5IgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CogCL2dvdG8_dXJsPUNBRVN1UUVCNnpzd0ZXc2pVeEY0d1AzaWIxZk1BbzhDdjZjSnFwdldZcG95OXZ2VzYzMU9GSDBBUVZULTFaZWoxUnRHVkxja292eTJreW9DLUZIaDdvY1drUnVhNW9FMlRZd0EydFpYNHhHX29vcnQwSjgzY2FTb3p2cUtxTjVlZ19Eb1ZCMnV4b054eTdXckZTRU9zWjZqbkwwdmtSSHd5alg0dGFjWGo4STBidDlkWjUybEIxX2pzSmEwemYycHlPb0Q2M211RTdITGEwajkwV3p0dzgzUmNWOWx3ZlRkb2o2QnBMa01TbUFFWWVDZDByS2RZYnpzaWw4YVR3EgQaAggAGpAEEgAaAggBIgAqADIGCAESAnVrOgBCBAgBEABKAFoAcgB6AIJA6gMIABAAGAAgACoWCgRjYXNhFUVAIkAaCWl2O3A7Y2FzYSoJCgJieRUAAAAAKh4KAmpqFQAAAAAaBGpqJ3MaBGpqdWsaB2l2O3A7amoqKAoCdWsVAAAAPxoHYnJpdGlzaBoOdW5pdGVkIGtpbmdkb20aBGpqdWsysAEvZ290bz91cmw9Q0FFU2VBSHJPekFWT2R6R0czeGhadFRnT0MtWVUzYU1pTlR6QU5wTF8xZUNsQUNGZDRVLW41OFZralRONTRkVlpLTHQyNUhYVWtHOE8ybHNtdGFsT3ZTZDAxMW9mYmxWSGh3cHRXQ3NaeGZkaVIyU0lhdHdPWU16OFh5T1UtOFY0Vi1YZHZVWUxVbGlBdkU3NmRfdTNLS2tMVFU0MEpoVDVoejN4UTosPGI-Q2FzYTwvYj4gYnkgSm9zZXBoaW5lIEplbm5vIC0gTWFzaCArIE1pbnRCjQE8Yj5DYXNhIGJ5IEpvc2VwaGluZSBKZW5ubyBDb2xsZWN0aW9uOiBEcm9wIFR1bWJsZXJzIC0gU2V0IE9mIDQ8L2I-IFJlZ3VsYXIgcHJpY2UgwqM5NS4wMCBHQlAgU2FsZSBwcmljZSDCozk1LjAwIEdCUCDigKYgcGxhdGVzLCBhbmQgZ2xhc3Nlcy5KAmJ5IgIQAUgAWABoAA",
+    "source": "Mash + Mint"
+   },
+   {
+    "position": 2,
+    "title": "Set Of 4 Peaches Plates | After Matisse | Casa by JJ",
+    "link": "https://lesser-spotted.co.uk/products/set-of-4-peaches-side-plates-after-matisse?srsltid=AU7gw4X4GQYduvPSLB5i3zCztr35LsEiz15maPjXDZirUU_uxB4EKdRO",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESzQEB6zswFbJInmXpOEpvVq5U5Gaq-t4dqsFBUK7jzT-Cz7mLQWlK1FcMaGLcvpElz2Qf5t--cqT7AtS7qIvIjjLTloCnOD115fKADeLQPBUTR12StcxUFqY4jcnry0nhayajvGCd--wZxHSRCmD3L8NNLJ_O3qNIa7oAg15LN2_hlXNUddqgGONc4tT6VuBXhq1rbHuIM2ntwj3qfCuQuI7zqrmEJiYe9PUroegi7KDDsoonsKrFxQSvstuabEhSa1deJI942IgM-RKtR-kR&ved=2ahUKEwietsmQkZaXAxURjIkEHfc2EuwQFnoECBMQAQ&uoh=1",
+    "displayed_link": "https://lesser-spotted.co.uk › products › set-of-4-peache...",
+    "favicon": "https://serpapi.com/images/i/UklGRrgAAABXRUJQVlA4IKwAAAAQBQCdASocABwAPtEutFooIagoGAEAGgllAMZBjGzg9un53ocD__J-h79g7qCtaSAAAP72CJZ9d18KpHgvaf_qbtNB-u0CiIfKQOlbY0U7Cnu_QuU9t2gEI5IAhmCL2F5T9p8gVJK5QxIGghP5PUxfXNzIIS79m2o0GUs3hTRyGYKb_W1WtMAfQY-7iz3BQdQhPBKow1s3pefxksydhr2reHK36qUYdTsN94AA.webp",
+    "snippet": "Inspired by the joyful forms and vibrant palette of Matisse, these Peaches plates celebrate colour, creativity and everyday beauty.",
+    "snippet_highlighted_words": [
+     "Inspired by the joyful forms and vibrant palette of Matisse"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Inspired by the joyful forms and vibrant palette of Matisse, these Peaches plates celebrate colour, creativity and everyday beauty.",
+      "source_info_link": "https://lesser-spotted.co.uk/products/set-of-4-peaches-side-plates-after-matisse?srsltid=AU7gw4X4GQYduvPSLB5i3zCztr35LsEiz15maPjXDZirUU_uxB4EKdRO",
+      "icon": "https://serpapi.com/images/i/UklGRrgAAABXRUJQVlA4IKwAAAAQBQCdASocABwAPtEutFooIagoGAEAGgllAMZBjGzg9un53ocD__J-h79g7qCtaSAAAP72CJZ9d18KpHgvaf_qbtNB-u0CiIfKQOlbY0U7Cnu_QuU9t2gEI5IAhmCL2F5T9p8gVJK5QxIGghP5PUxfXNzIIS79m2o0GUs3hTRyGYKb_W1WtMAfQY-7iz3BQdQhPBKow1s3pefxksydhr2reHK36qUYdTsN94AA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CqICL2dvdG8_dXJsPUNBRVN6UUVCNnpzd0ZiSklubVhwT0VwdlZxNVU1R2FxLXQ0ZHFzRkJVSzdqelQtQ3o3bUxRV2xLMUZjTWFHTGN2cEVsejJRZjV0LS1jcVQ3QXRTN3FJdklqakxUbG9Dbk9EMTE1ZktBRGVMUVBCVVRSMTJTdGN4VUZxWTRqY25yeTBuaGF5YWp2R0NkLS13WnhIU1JDbUQzTDhOTkxKX08zcU5JYTdvQWcxNUxOMl9obFhOVWRkcWdHT05jNHRUNlZ1QlhocTFyYkh1SU0ybnR3ajNxZkN1UXVJN3pxcm1FSmlZZTlQVXJvZWdpN0tERHNvb25zS3JGeFFTdnN0dWFiRWhTYTFkZUpJOTQySWdNLVJLdFIta1ISBBoCCAAatgQSABoAIgAqADIGCAESAnVrOgBCBAgBEABKAFoAcgB6AIJAkgQIABAAGAAgACoWCgRjYXNhFYVYikAaCWl2O3A7Y2FzYSoJCgJieRUAAAAAKh4KAmpqFbjhiUAaBGpqJ3MaBGpqdWsaB2l2O3A7amoqKAoCdWsVnA0JPxoHYnJpdGlzaBoOdW5pdGVkIGtpbmdkb20aBGpqdWsyygEvZ290bz91cmw9Q0FFU2l3RUI2enN3RmNpR016d2RjLVM3VUZ0Q3lZUjVrYmxQQW45b0JlbzNxc1BldUg1UkFGVk5lVTZ6XzYyOTMxSFVpMzg1QlRjSVNFU0N6YS1HclZUcXNKNlYxR1M1ZzRCS1VmYndORHBpam9vbllhQ2dyRUM4ZGVuRGVMRXJLVnpXYWwyOHZWc0JNMmRYaDhFd3pQT2VRUU1ESThxVWprWG9fcUJ3UTMyMTZfaUtfYW9kMWljc2pIQy1lZ1BQOj1TZXQgT2YgNCBQZWFjaGVzIFNpZGUgUGxhdGVzIHwgQWZ0ZXIgTWF0aXNzZSAtIExlc3NlciBTcG90dGVkQooBPGI-SW5zcGlyZWQgYnkgdGhlIGpveWZ1bCBmb3JtcyBhbmQgdmlicmFudCBwYWxldHRlIG9mIE1hdGlzc2U8L2I-LCB0aGVzZSBQZWFjaGVzIHBsYXRlcyBjZWxlYnJhdGUgY29sb3VyLCBjcmVhdGl2aXR5IGFuZCBldmVyeWRheSBiZWF1dHkuSgJieSICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CqICL2dvdG8_dXJsPUNBRVN6UUVCNnpzd0ZiSklubVhwT0VwdlZxNVU1R2FxLXQ0ZHFzRkJVSzdqelQtQ3o3bUxRV2xLMUZjTWFHTGN2cEVsejJRZjV0LS1jcVQ3QXRTN3FJdklqakxUbG9Dbk9EMTE1ZktBRGVMUVBCVVRSMTJTdGN4VUZxWTRqY25yeTBuaGF5YWp2R0NkLS13WnhIU1JDbUQzTDhOTkxKX08zcU5JYTdvQWcxNUxOMl9obFhOVWRkcWdHT05jNHRUNlZ1QlhocTFyYkh1SU0ybnR3ajNxZkN1UXVJN3pxcm1FSmlZZTlQVXJvZWdpN0tERHNvb25zS3JGeFFTdnN0dWFiRWhTYTFkZUpJOTQySWdNLVJLdFIta1ISBBoCCAAatgQSABoAIgAqADIGCAESAnVrOgBCBAgBEABKAFoAcgB6AIJAkgQIABAAGAAgACoWCgRjYXNhFYVYikAaCWl2O3A7Y2FzYSoJCgJieRUAAAAAKh4KAmpqFbjhiUAaBGpqJ3MaBGpqdWsaB2l2O3A7amoqKAoCdWsVnA0JPxoHYnJpdGlzaBoOdW5pdGVkIGtpbmdkb20aBGpqdWsyygEvZ290bz91cmw9Q0FFU2l3RUI2enN3RmNpR016d2RjLVM3VUZ0Q3lZUjVrYmxQQW45b0JlbzNxc1BldUg1UkFGVk5lVTZ6XzYyOTMxSFVpMzg1QlRjSVNFU0N6YS1HclZUcXNKNlYxR1M1ZzRCS1VmYndORHBpam9vbllhQ2dyRUM4ZGVuRGVMRXJLVnpXYWwyOHZWc0JNMmRYaDhFd3pQT2VRUU1ESThxVWprWG9fcUJ3UTMyMTZfaUtfYW9kMWljc2pIQy1lZ1BQOj1TZXQgT2YgNCBQZWFjaGVzIFNpZGUgUGxhdGVzIHwgQWZ0ZXIgTWF0aXNzZSAtIExlc3NlciBTcG90dGVkQooBPGI-SW5zcGlyZWQgYnkgdGhlIGpveWZ1bCBmb3JtcyBhbmQgdmlicmFudCBwYWxldHRlIG9mIE1hdGlzc2U8L2I-LCB0aGVzZSBQZWFjaGVzIHBsYXRlcyBjZWxlYnJhdGUgY29sb3VyLCBjcmVhdGl2aXR5IGFuZCBldmVyeWRheSBiZWF1dHkuSgJieSICEAFIAFgAaAA",
+    "source": "Lesser Spotted"
+   },
+   {
+    "position": 3,
+    "title": "Three Delft Bud Vases by Casa by JJ",
+    "link": "https://www.ufurnish.com/en-gb/p/a/15851097/three-delft-bud-vases",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfAHrOzAVsa9Mi0IIO7qxG7Ccuo6bWoN5l0jEvBzCiLvsFdiE-zSFwVgc_tk6L4DUCvgYGh_mVOuUb7g_Qi-k9Nla0WdaqfKUV10RGUQpQymjWjptdW30TczPLEu2JtkLtdmc1HydLbLIap_06QDdbtJ8EhnjYL-XVDf4jHI&ved=2ahUKEwietsmQkZaXAxURjIkEHfc2EuwQFnoECBQQAQ&uoh=1",
+    "displayed_link": "https://www.ufurnish.com › ... › Vases",
+    "favicon": "https://serpapi.com/images/i/UklGRhABAABXRUJQVlA4IAQBAABQBgCdASocABwAPtFAtFooIqgoFAEAGglsAMcjkDgN9PIg7nQOgADs1ZIWDHhRWgD4xsNShTMGT0OAAAD-9gJbPUw-MIlIrz9KD-GQ-lSYQJTSv4dbCuGT_wB6y_G6ih_Be0AE9WIV9vtz9j8SG1L5gRgczlH5MNFrSK1T8mxUznpB8vojLUSU5kPjjc9zNnmzibuuT8CeowNkkMgocyvtMbgoJQHk4dXPwxZnaTY2YsqRoKtjkXNeo6RxAp3_-lrHfpQLuF6lxHkX3Wj_VYv_d7-63W-1aV6M5JW7JqtaFGrX7x-S_M39gihr22Z1nPTlcd50yBIsFpn-zyDUl2nDtK4AAA.webp",
+    "snippet": "Hand-painted in Jingdezhen — where cobalt on white has been fired for over a thousand years — each of the three vases carries a different form and motif, linked ...",
+    "snippet_highlighted_words": [
+     "Hand-painted in Jingdezhen"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Hand-painted in Jingdezhen — where cobalt on white has been fired for over a thousand years — each of the three vases carries a different form and motif, linked ...",
+      "source_info_link": "https://www.ufurnish.com/en-gb/p/a/15851097/three-delft-bud-vases",
+      "icon": "https://serpapi.com/images/i/UklGRhABAABXRUJQVlA4IAQBAABQBgCdASocABwAPtFAtFooIqgoFAEAGglsAMcjkDgN9PIg7nQOgADs1ZIWDHhRWgD4xsNShTMGT0OAAAD-9gJbPUw-MIlIrz9KD-GQ-lSYQJTSv4dbCuGT_wB6y_G6ih_Be0AE9WIV9vtz9j8SG1L5gRgczlH5MNFrSK1T8mxUznpB8vojLUSU5kPjjc9zNnmzibuuT8CeowNkkMgocyvtMbgoJQHk4dXPwxZnaTY2YsqRoKtjkXNeo6RxAp3_-lrHfpQLuF6lxHkX3Wj_VYv_d7-63W-1aV6M5JW7JqtaFGrX7x-S_M39gihr22Z1nPTlcd50yBIsFpn-zyDUl2nDtK4AAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVnNhOU1pMElJTzdxeEc3Q2N1bzZiV29ONWwwakV2QnpDaUx2c0ZkaUUtelNGd1ZnY190azZMNERVQ3ZnWUdoX21WT3VVYjdnX1FpLWs5TmxhMFdkYXFmS1VWMTBSR1VRcFF5bWpXanB0ZFczMFRjelBMRXUySnRrTHRkbWMxSHlkTGJMSWFwXzA2UURkYnRKOEVobmpZTC1YVkRmNGpISRIEGgIIABrJBBIAGgIIASIAKgAyBggBEgJ1azoAQgQIARAASgBaAHIAegCCQKMECAAQABgAIAAqFgoEY2FzYRVMeRpAGglpdjtwO2Nhc2EqCQoCYnkVAAAAACoeCgJqahVMeRpAGgRqaidzGgRqanVrGgdpdjtwO2pqKigKAnVrFePqQT0aB2JyaXRpc2gaDnVuaXRlZCBraW5nZG9tGgRqanVrMrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVnNhOU1pMElJTzdxeEc3Q2N1bzZiV29ONWwwakV2QnpDaUx2c0ZkaUUtelNGd1ZnY190azZMNERVQ3ZnWUdoX21WT3VVYjdnX1FpLWs5TmxhMFdkYXFmS1VWMTBSR1VRcFF5bWpXanB0ZFczMFRjelBMRXUySnRrTHRkbWMxSHlkTGJMSWFwXzA2UURkYnRKOEVobmpZTC1YVkRmNGpISTo5VGhyZWUgRGVsZnQgQnVkIFZhc2VzIGJ5IDxiPkNhc2EgYnkgSko8L2I-IHwgdUZ1cm5pc2guY29tQrQBPGI-SGFuZC1wYWludGVkIGluIEppbmdkZXpoZW48L2I-IOKAlCB3aGVyZSBjb2JhbHQgb24gd2hpdGUgaGFzIGJlZW4gZmlyZWQgZm9yIG92ZXIgYSB0aG91c2FuZCB5ZWFycyDigJQgZWFjaCBvZiB0aGUgdGhyZWUgdmFzZXMgY2FycmllcyBhIGRpZmZlcmVudCBmb3JtIGFuZCBtb3RpZiwgbGlua2VkJm5ic3A7Li4uSgJieSICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVnNhOU1pMElJTzdxeEc3Q2N1bzZiV29ONWwwakV2QnpDaUx2c0ZkaUUtelNGd1ZnY190azZMNERVQ3ZnWUdoX21WT3VVYjdnX1FpLWs5TmxhMFdkYXFmS1VWMTBSR1VRcFF5bWpXanB0ZFczMFRjelBMRXUySnRrTHRkbWMxSHlkTGJMSWFwXzA2UURkYnRKOEVobmpZTC1YVkRmNGpISRIEGgIIABrJBBIAGgIIASIAKgAyBggBEgJ1azoAQgQIARAASgBaAHIAegCCQKMECAAQABgAIAAqFgoEY2FzYRVMeRpAGglpdjtwO2Nhc2EqCQoCYnkVAAAAACoeCgJqahVMeRpAGgRqaidzGgRqanVrGgdpdjtwO2pqKigKAnVrFePqQT0aB2JyaXRpc2gaDnVuaXRlZCBraW5nZG9tGgRqanVrMrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVnNhOU1pMElJTzdxeEc3Q2N1bzZiV29ONWwwakV2QnpDaUx2c0ZkaUUtelNGd1ZnY190azZMNERVQ3ZnWUdoX21WT3VVYjdnX1FpLWs5TmxhMFdkYXFmS1VWMTBSR1VRcFF5bWpXanB0ZFczMFRjelBMRXUySnRrTHRkbWMxSHlkTGJMSWFwXzA2UURkYnRKOEVobmpZTC1YVkRmNGpISTo5VGhyZWUgRGVsZnQgQnVkIFZhc2VzIGJ5IDxiPkNhc2EgYnkgSko8L2I-IHwgdUZ1cm5pc2guY29tQrQBPGI-SGFuZC1wYWludGVkIGluIEppbmdkZXpoZW48L2I-IOKAlCB3aGVyZSBjb2JhbHQgb24gd2hpdGUgaGFzIGJlZW4gZmlyZWQgZm9yIG92ZXIgYSB0aG91c2FuZCB5ZWFycyDigJQgZWFjaCBvZiB0aGUgdGhyZWUgdmFzZXMgY2FycmllcyBhIGRpZmZlcmVudCBmb3JtIGFuZCBtb3RpZiwgbGlua2VkJm5ic3A7Li4uSgJieSICEAFIAFgAaAA",
+    "source": "uFurnish.com",
+    "read_more_link": "https://www.ufurnish.com/en-gb/p/a/15851097/three-delft-bud-vases#:~:text=Hand%2Dpainted%20in%20Jingdezhen%20%E2%80%94%20where,linked%20by%20the%20same%20tradition."
+   },
+   {
+    "position": 4,
+    "title": "Casa by JJ Offers - Racket Rewards",
+    "link": "https://racketrewards.co.uk/Offers?country=GB&merchantId=9857",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeAHrOzAV2XMI0y_voVWlzv74h8f_38r4I0u5LlfJgvwf-mOfy0KTnsgCgDfotnpyC3e9KLB7Z6s1B6eKcGAlukQu51L0ltPxaeXAUc77nKKIi8oVyV3Gfg33Mbh0pzGcPTRg9YcwZLIBI3mr06aHOHPpDnLjpOrLmQ&ved=2ahUKEwietsmQkZaXAxURjIkEHfc2EuwQFnoECBIQAQ&uoh=1",
+    "displayed_link": "https://racketrewards.co.uk › Offers",
+    "favicon": "https://serpapi.com/images/i/UklGRv4AAABXRUJQVlA4IPIAAABwBgCdASogACAAPtE-tFooIigoFAEAGglsAMoZoBbAFiCUeyAGAjZXV3OlAsAAl17UGRFOEiVdkMdx_dQA_u__fcufKMKEFLsLO2rrVEywyGnRvY05TWBKM30KJUydLaH075twhZnXrv77C9FhlIbmgvhlWj-QoMneqP1zBSbbW5sLPMICD2YIdlT4pG5G8ovn0oRASjqBvK4GgQDhuvBCGhOQNAl4XHoD6vz_xltuGCG9gcIPkK_r9bPiblmcNDzKVZlSyhG1Nj5776ILFbndzBaWAVKWKUVnjkYAAhLlUZPcBd-B5yVszi8s9pUq-gwAAA.webp",
+    "snippet": "Casa by JJ is a home décor and lifestyle brand that offers decorative accessories, tableware, and interior pieces designed to add character to modern homes.",
+    "snippet_highlighted_words": [
+     "Casa by JJ is a home décor and lifestyle brand"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Casa by JJ is a home décor and lifestyle brand that offers decorative accessories, tableware, and interior pieces designed to add character to modern homes.",
+      "source_info_link": "https://racketrewards.co.uk/Offers?country=GB&merchantId=9857",
+      "icon": "https://serpapi.com/images/i/UklGRv4AAABXRUJQVlA4IPIAAABwBgCdASogACAAPtE-tFooIigoFAEAGglsAMoZoBbAFiCUeyAGAjZXV3OlAsAAl17UGRFOEiVdkMdx_dQA_u__fcufKMKEFLsLO2rrVEywyGnRvY05TWBKM30KJUydLaH075twhZnXrv77C9FhlIbmgvhlWj-QoMneqP1zBSbbW5sLPMICD2YIdlT4pG5G8ovn0oRASjqBvK4GgQDhuvBCGhOQNAl4XHoD6vz_xltuGCG9gcIPkK_r9bPiblmcNDzKVZlSyhG1Nj5776ILFbndzBaWAVKWKUVnjkYAAhLlUZPcBd-B5yVszi8s9pUq-gwAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CrABL2dvdG8_dXJsPUNBRVNlQUhyT3pBVjJYTUkweV92b1ZXbHp2NzRoOGZfMzhyNEkwdTVMbGZKZ3Z3Zi1tT2Z5MEtUbnNnQ2dEZm90bnB5QzNlOUtMQjdaNnMxQjZlS2NHQWx1a1F1NTFMMGx0UHhhZVhBVWM3N25LS0lpOG9WeVYzR2ZnMzNNYmgwcHpHY1BUUmc5WWN3WkxJQkkzbXIwNmFIT0hQcERuTGpwT3JMbVESBBoCCAAaogQSABoAIgAqADIGCAMSAnVrOgBCBAgBEABKAFoAcgB6AIJA_gMIABAAGAAgACoWCgRjYXNhFTacakAaCWl2O3A7Y2FzYSoJCgJieRUAAAAAKh4KAmpqFTacakAaBGpqJ3MaBGpqdWsaB2l2O3A7amoqKAoCdWsVAAAAPxoHYnJpdGlzaBoOdW5pdGVkIGtpbmdkb20aBGpqdWsysAEvZ290bz91cmw9Q0FFU2VBSHJPekFWMlhNSTB5X3ZvVldsenY3NGg4Zl8zOHI0STB1NUxsZkpndndmLW1PZnkwS1Ruc2dDZ0Rmb3RucHlDM2U5S0xCN1o2czFCNmVLY0dBbHVrUXU1MUwwbHRQeGFlWEFVYzc3bktLSWk4b1Z5VjNHZmczM01iaDBwekdjUFRSZzlZY3daTElCSTNtcjA2YUhPSFBwRG5ManBPckxtUTopPGI-Q2FzYSBieSBKSjwvYj4gT2ZmZXJzIC0gUmFja2V0IFJld2FyZHNCpAE8Yj5DYXNhIGJ5IEpKIGlzIGEgaG9tZSBkw6ljb3IgYW5kIGxpZmVzdHlsZSBicmFuZDwvYj4gdGhhdCBvZmZlcnMgZGVjb3JhdGl2ZSBhY2Nlc3NvcmllcywgdGFibGV3YXJlLCBhbmQgaW50ZXJpb3IgcGllY2VzIGRlc2lnbmVkIHRvIGFkZCBjaGFyYWN0ZXIgdG8gbW9kZXJuIGhvbWVzLkoCYnkiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CrABL2dvdG8_dXJsPUNBRVNlQUhyT3pBVjJYTUkweV92b1ZXbHp2NzRoOGZfMzhyNEkwdTVMbGZKZ3Z3Zi1tT2Z5MEtUbnNnQ2dEZm90bnB5QzNlOUtMQjdaNnMxQjZlS2NHQWx1a1F1NTFMMGx0UHhhZVhBVWM3N25LS0lpOG9WeVYzR2ZnMzNNYmgwcHpHY1BUUmc5WWN3WkxJQkkzbXIwNmFIT0hQcERuTGpwT3JMbVESBBoCCAAaogQSABoAIgAqADIGCAMSAnVrOgBCBAgBEABKAFoAcgB6AIJA_gMIABAAGAAgACoWCgRjYXNhFTacakAaCWl2O3A7Y2FzYSoJCgJieRUAAAAAKh4KAmpqFTacakAaBGpqJ3MaBGpqdWsaB2l2O3A7amoqKAoCdWsVAAAAPxoHYnJpdGlzaBoOdW5pdGVkIGtpbmdkb20aBGpqdWsysAEvZ290bz91cmw9Q0FFU2VBSHJPekFWMlhNSTB5X3ZvVldsenY3NGg4Zl8zOHI0STB1NUxsZkpndndmLW1PZnkwS1Ruc2dDZ0Rmb3RucHlDM2U5S0xCN1o2czFCNmVLY0dBbHVrUXU1MUwwbHRQeGFlWEFVYzc3bktLSWk4b1Z5VjNHZmczM01iaDBwekdjUFRSZzlZY3daTElCSTNtcjA2YUhPSFBwRG5ManBPckxtUTopPGI-Q2FzYSBieSBKSjwvYj4gT2ZmZXJzIC0gUmFja2V0IFJld2FyZHNCpAE8Yj5DYXNhIGJ5IEpKIGlzIGEgaG9tZSBkw6ljb3IgYW5kIGxpZmVzdHlsZSBicmFuZDwvYj4gdGhhdCBvZmZlcnMgZGVjb3JhdGl2ZSBhY2Nlc3NvcmllcywgdGFibGV3YXJlLCBhbmQgaW50ZXJpb3IgcGllY2VzIGRlc2lnbmVkIHRvIGFkZCBjaGFyYWN0ZXIgdG8gbW9kZXJuIGhvbWVzLkoCYnkiAhABSABYAGgA",
+    "source": "racketrewards.co.uk"
+   },
+   {
+    "position": 5,
+    "title": "Reviews and experiences about Casa by Josephine Jenno in ...",
+    "link": "https://www.reviewuk.co.uk/online-shopping/casa-by-josephine-jenno/",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfgHrOzAVjtPuSOVMKRmRmXhmbb5cy5nLks-q2xU-L2YOOE7EEu05TdJI3NLFFNgHv-8rQHDJvHbM8toMjvx2d1oi3EKwnnmas9SkgDgHwhdkYepLZU5p4eJ3vp5vNNu76xR9GX3Rt379LPK7WoaoWwbLy7JexH21Bcz4CfhjDg&ved=2ahUKEwietsmQkZaXAxURjIkEHfc2EuwQFnoECBUQAQ&uoh=1",
+    "displayed_link": "https://www.reviewuk.co.uk › online-shopping › casa-b...",
+    "favicon": "https://serpapi.com/images/i/UklGRhgBAABXRUJQVlA4IAwBAABQBwCdASogACAAPtE-tFooIigoFAEAGglsALElQQoPyDFo4AG2Au13eSP2ILQBErELiBxaRV4yu-kHglS9dcurl-YAAP79LFUAI8nWFCtkjCbpcv1bP8nKuobzopgaRPUf_Uqf5n5_Vrf3dW4Lt9m06x1DiUe2HhS-mvKUOH8pkgws7eW9eUAE3u5-p8cz92-AL6-B1Jp3E72mE90aIxe7LhVfTuVyJI-ORRm5D8_wuRpEFq9T4Q0_870Qq4piZu2fE7Se6Xnez9W3Y9ulHSkP4ZIH3V1FLYXZoAxPcoUqe7NA00yX0_aABQtSBXphGuH4jxe9_AZFx1dxLAf94HVZv7QvK9Pp4A62wAAA.webp",
+    "date": "3 Apr 2025",
+    "snippet": "The Casa by JJ collection includes tableware, vases, crockery and glassware. The handmade ceramic vase, Amalfi Coast placemats and Bamboo Trim ...",
+    "snippet_highlighted_words": [
+     "tableware, vases, crockery and glassware"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "The Casa by JJ collection includes tableware, vases, crockery and glassware. The handmade ceramic vase, Amalfi Coast placemats and Bamboo Trim ...",
+      "source_info_link": "https://www.reviewuk.co.uk/online-shopping/casa-by-josephine-jenno/",
+      "icon": "https://serpapi.com/images/i/UklGRhgBAABXRUJQVlA4IAwBAABQBwCdASogACAAPtE-tFooIigoFAEAGglsALElQQoPyDFo4AG2Au13eSP2ILQBErELiBxaRV4yu-kHglS9dcurl-YAAP79LFUAI8nWFCtkjCbpcv1bP8nKuobzopgaRPUf_Uqf5n5_Vrf3dW4Lt9m06x1DiUe2HhS-mvKUOH8pkgws7eW9eUAE3u5-p8cz92-AL6-B1Jp3E72mE90aIxe7LhVfTuVyJI-ORRm5D8_wuRpEFq9T4Q0_870Qq4piZu2fE7Se6Xnez9W3Y9ulHSkP4ZIH3V1FLYXZoAxPcoUqe7NA00yX0_aABQtSBXphGuH4jxe9_AZFx1dxLAf94HVZv7QvK9Pp4A62wAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CrgBL2dvdG8_dXJsPUNBRVNmZ0hyT3pBVmp0UHVTT1ZNS1JtUm1YaG1iYjVjeTVuTGtzLXEyeFUtTDJZT09FN0VFdTA1VGRKSTNOTEZGTmdIdi04clFIREp2SGJNOHRvTWp2eDJkMW9pM0VLd25ubWFzOVNrZ0RnSHdoZGtZZXBMWlU1cDRlSjN2cDV2Tk51NzZ4UjlHWDNSdDM3OUxQSzdXb2FvV3diTHk3SmV4SDIxQmN6NENmaGpEZxIEGgIIABq-BBIAGgAiACoAMgYIAxICdWs6AEIECAEQAEoAWgByAHoAgkCaBAgAEAAYACAAKhYKBGNhc2EVJ6uCQBoJaXY7cDtjYXNhKgkKAmJ5FQAAAAAqHgoCamoVBj5zPxoEamoncxoEamp1axoHaXY7cDtqaiooCgJ1axWGhUo_Ggdicml0aXNoGg51bml0ZWQga2luZ2RvbRoEamp1azK4AS9nb3RvP3VybD1DQUVTZmdIck96QVZqdFB1U09WTUtSbVJtWGhtYmI1Y3k1bkxrcy1xMnhVLUwyWU9PRTdFRXUwNVRkSkkzTkxGRk5nSHYtOHJRSERKdkhiTTh0b01qdngyZDFvaTNFS3dubm1hczlTa2dEZ0h3aGRrWWVwTFpVNXA0ZUozdnA1dk5OdTc2eFI5R1gzUnQzNzlMUEs3V29hb1d3Ykx5N0pleEgyMUJjejRDZmhqRGc6Q1Jldmlld3MgYW5kIGV4cGVyaWVuY2VzIGFib3V0IDxiPkNhc2E8L2I-IGJ5IEpvc2VwaGluZSBKZW5ubyBpbiAuLi5CngFUaGUgQ2FzYSBieSBKSiBjb2xsZWN0aW9uIGluY2x1ZGVzIDxiPnRhYmxld2FyZSwgdmFzZXMsIGNyb2NrZXJ5IGFuZCBnbGFzc3dhcmU8L2I-LiBUaGUgaGFuZG1hZGUgY2VyYW1pYyB2YXNlLCBBbWFsZmkgQ29hc3QgcGxhY2VtYXRzIGFuZCBCYW1ib28gVHJpbSZuYnNwOy4uLkoCYnkiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CrgBL2dvdG8_dXJsPUNBRVNmZ0hyT3pBVmp0UHVTT1ZNS1JtUm1YaG1iYjVjeTVuTGtzLXEyeFUtTDJZT09FN0VFdTA1VGRKSTNOTEZGTmdIdi04clFIREp2SGJNOHRvTWp2eDJkMW9pM0VLd25ubWFzOVNrZ0RnSHdoZGtZZXBMWlU1cDRlSjN2cDV2Tk51NzZ4UjlHWDNSdDM3OUxQSzdXb2FvV3diTHk3SmV4SDIxQmN6NENmaGpEZxIEGgIIABq-BBIAGgAiACoAMgYIAxICdWs6AEIECAEQAEoAWgByAHoAgkCaBAgAEAAYACAAKhYKBGNhc2EVJ6uCQBoJaXY7cDtjYXNhKgkKAmJ5FQAAAAAqHgoCamoVBj5zPxoEamoncxoEamp1axoHaXY7cDtqaiooCgJ1axWGhUo_Ggdicml0aXNoGg51bml0ZWQga2luZ2RvbRoEamp1azK4AS9nb3RvP3VybD1DQUVTZmdIck96QVZqdFB1U09WTUtSbVJtWGhtYmI1Y3k1bkxrcy1xMnhVLUwyWU9PRTdFRXUwNVRkSkkzTkxGRk5nSHYtOHJRSERKdkhiTTh0b01qdngyZDFvaTNFS3dubm1hczlTa2dEZ0h3aGRrWWVwTFpVNXA0ZUozdnA1dk5OdTc2eFI5R1gzUnQzNzlMUEs3V29hb1d3Ykx5N0pleEgyMUJjejRDZmhqRGc6Q1Jldmlld3MgYW5kIGV4cGVyaWVuY2VzIGFib3V0IDxiPkNhc2E8L2I-IGJ5IEpvc2VwaGluZSBKZW5ubyBpbiAuLi5CngFUaGUgQ2FzYSBieSBKSiBjb2xsZWN0aW9uIGluY2x1ZGVzIDxiPnRhYmxld2FyZSwgdmFzZXMsIGNyb2NrZXJ5IGFuZCBnbGFzc3dhcmU8L2I-LiBUaGUgaGFuZG1hZGUgY2VyYW1pYyB2YXNlLCBBbWFsZmkgQ29hc3QgcGxhY2VtYXRzIGFuZCBCYW1ib28gVHJpbSZuYnNwOy4uLkoCYnkiAhABSABYAGgA",
+    "source": "reviewuk.co.uk",
+    "read_more_link": "https://www.reviewuk.co.uk/online-shopping/casa-by-josephine-jenno/#:~:text=The%20Casa%20by%20JJ%20collection,intricate%20items%20the%20company%20offers."
+   },
+   {
+    "position": 6,
+    "title": "Torna a casa",
+    "link": "https://www.youtube.com/watch?v=49WHW8JEnYw",
+    "displayed_link": "810+ views · 7 months ago",
+    "thumbnail": "https://serpapi.com/searches/6abce9791cff1913d811ed90/images/FB_eo5CrBlzBp25AUf_CkgT8iQ55FT-sPOg5Ud-IWgY.jpeg",
+    "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+    "snippet": "Torna a casa · Decibelios · Jaume Orriols · Miguel Angel Forteza … ℗ Petra Records Released on: 2026-02-07. Saturday Night Live UK Charles and ...",
+    "duration": "2:46",
+    "about_this_result": {
+     "source": {
+      "description": "Torna a casa · Decibelios · Jaume Orriols · Miguel Angel Forteza … ℗ Petra Records Released on: 2026-02-07. Saturday Night Live UK Charles and ...",
+      "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+     }
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVlFQOEN1SVZ0UVlWOGNqekpuRXFRMHNnVFFQSzB1VGhIMm1VZktoejJLSmRKb0ZWaGx2UVZqUWc5cGJ6MUJBa2JOazhNdFBYM040cWluMmljd3p6VkhwQ2RWVmdxejk1dllpNnE4RnhSQ2JSY1VtLWs4Q2pkcWZvbTVNcUlBeVRzMncSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVlFQOEN1SVZ0UVlWOGNqekpuRXFRMHNnVFFQSzB1VGhIMm1VZktoejJLSmRKb0ZWaGx2UVZqUWc5cGJ6MUJBa2JOazhNdFBYM040cWluMmljd3p6VkhwQ2RWVmdxejk1dllpNnE4RnhSQ2JSY1VtLWs4Q2pkcWZvbTVNcUlBeVRzMncSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+    "source": "YouTube · Decibelios - Topic"
+   },
+   {
+    "position": 7,
+    "title": "Casa Batllo: Gaudi (Sèrie 4)",
+    "link": "https://www.amazon.co.uk/Casa-Batllo-Juan-Jose-Lahuerta/dp/8484780511",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgAEB6zswFRq3B3KEcSj3M05jF0g76l4CgCK0JT0VakJ5kIqXY7on3Yf2oZOsZLN-gJEToEs-btrx0z-0YrvLEG_19IOuiw-G7lrVx9O7cZgliTYijP-6fQqtJh8NRYSmbFqgaNNEDjHtqHQ57gK4M-n8JVkVC7OS_j8ISCd4AQkfSQ&ved=2ahUKEwietsmQkZaXAxURjIkEHfc2EuwQFnoECBgQAQ&uoh=1",
+    "displayed_link": "https://www.amazon.co.uk › Casa-Batllo-Juan-Jose-Lahu...",
+    "thumbnail": "https://serpapi.com/searches/6abce9791cff1913d811ed90/images/FB_eo5CrBlzBp25AUf_CkupDaleDBAUdxBEx2N7P4Qs.jpeg",
+    "favicon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
+    "snippet": "Illustrator J.J. Lahuerta. Format: Paperback Buy New £9.95£9.95 FREE delivery on your first eligible order to UK or Ireland. Temporarily out of stock.",
+    "snippet_highlighted_words": [
+     "Illustrator J.J. Lahuerta"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Illustrator J.J. Lahuerta. Format: Paperback Buy New £9.95£9.95 FREE delivery on your first eligible order to UK or Ireland. Temporarily out of stock.",
+      "source_info_link": "https://www.amazon.co.uk/Casa-Batllo-Juan-Jose-Lahuerta/dp/8484780511",
+      "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CrwBL2dvdG8_dXJsPUNBRVNnQUVCNnpzd0ZScTNCM0tFY1NqM00wNWpGMGc3Nmw0Q2dDSzBKVDBWYWtKNWtJcVhZN29uM1lmMm9aT3NaTE4tZ0pFVG9Fcy1idHJ4MHotMFlydkxFR18xOUlPdWl3LUc3bHJWeDlPN2NaZ2xpVFlpalAtNmZRcXRKaDhOUllTbWJGcWdhTk5FRGpIdHFIUTU3Z0s0TS1uOEpWa1ZDN09TX2o4SVNDZDRBUWtmU1ESBBoCCAAasgQSABoCCAEiACoAMgYIARICdWs6AEIECAEQAEoAWgByAHoAgkCMBAgAEAAYACAAKhYKBGNhc2EVGmROQBoJaXY7cDtjYXNhKgkKAmJ5FQAAAAAqHgoCamoVzCRtPxoEamoncxoEamp1axoHaXY7cDtqaiooCgJ1axXey1xAGgdicml0aXNoGg51bml0ZWQga2luZ2RvbRoEamp1azK8AS9nb3RvP3VybD1DQUVTZ0FFQjZ6c3dGUnEzQjNLRWNTajNNMDVqRjBnNzZsNENnQ0swSlQwVmFrSjVrSXFYWTdvbjNZZjJvWk9zWkxOLWdKRVRvRXMtYnRyeDB6LTBZcnZMRUdfMTlJT3Vpdy1HN2xyVng5TzdjWmdsaVRZaWpQLTZmUXF0Smg4TlJZU21iRnFnYU5ORURqSHRxSFE1N2dLNE0tbjhKVmtWQzdPU19qOElTQ2Q0QVFrZlNROjA8Yj5DYXNhPC9iPiBCYXRsbG86IEdhdWRpIChTw6hyaWUgNCkgLSBBbWF6b24gVUtCnwE8Yj5JbGx1c3RyYXRvciBKLkouIExhaHVlcnRhPC9iPi4gRm9ybWF0OiBQYXBlcmJhY2sgQnV5IE5ldyDCozkuOTXCozkuOTUgRlJFRSBkZWxpdmVyeSBvbiB5b3VyIGZpcnN0IGVsaWdpYmxlIG9yZGVyIHRvIFVLIG9yIElyZWxhbmQuIFRlbXBvcmFyaWx5IG91dCBvZiBzdG9jay5KAmJ5IgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CrwBL2dvdG8_dXJsPUNBRVNnQUVCNnpzd0ZScTNCM0tFY1NqM00wNWpGMGc3Nmw0Q2dDSzBKVDBWYWtKNWtJcVhZN29uM1lmMm9aT3NaTE4tZ0pFVG9Fcy1idHJ4MHotMFlydkxFR18xOUlPdWl3LUc3bHJWeDlPN2NaZ2xpVFlpalAtNmZRcXRKaDhOUllTbWJGcWdhTk5FRGpIdHFIUTU3Z0s0TS1uOEpWa1ZDN09TX2o4SVNDZDRBUWtmU1ESBBoCCAAasgQSABoCCAEiACoAMgYIARICdWs6AEIECAEQAEoAWgByAHoAgkCMBAgAEAAYACAAKhYKBGNhc2EVGmROQBoJaXY7cDtjYXNhKgkKAmJ5FQAAAAAqHgoCamoVzCRtPxoEamoncxoEamp1axoHaXY7cDtqaiooCgJ1axXey1xAGgdicml0aXNoGg51bml0ZWQga2luZ2RvbRoEamp1azK8AS9nb3RvP3VybD1DQUVTZ0FFQjZ6c3dGUnEzQjNLRWNTajNNMDVqRjBnNzZsNENnQ0swSlQwVmFrSjVrSXFYWTdvbjNZZjJvWk9zWkxOLWdKRVRvRXMtYnRyeDB6LTBZcnZMRUdfMTlJT3Vpdy1HN2xyVng5TzdjWmdsaVRZaWpQLTZmUXF0Smg4TlJZU21iRnFnYU5ORURqSHRxSFE1N2dLNE0tbjhKVmtWQzdPU19qOElTQ2Q0QVFrZlNROjA8Yj5DYXNhPC9iPiBCYXRsbG86IEdhdWRpIChTw6hyaWUgNCkgLSBBbWF6b24gVUtCnwE8Yj5JbGx1c3RyYXRvciBKLkouIExhaHVlcnRhPC9iPi4gRm9ybWF0OiBQYXBlcmJhY2sgQnV5IE5ldyDCozkuOTXCozkuOTUgRlJFRSBkZWxpdmVyeSBvbiB5b3VyIGZpcnN0IGVsaWdpYmxlIG9yZGVyIHRvIFVLIG9yIElyZWxhbmQuIFRlbXBvcmFyaWx5IG91dCBvZiBzdG9jay5KAmJ5IgIQAUgAWABoAA",
+    "source": "Amazon UK"
+   },
+   {
+    "position": 8,
+    "title": "Shop New World Cigars Online | James J. Fox: Casa 1910 ...",
+    "link": "https://www.jjfox.co.uk/cigars/brand/casa-1910/vitola/robusto.html",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfQHrOzAVH_aw2WOP9fIxpVd7unqMkGgDNJ7DodeJevCfLuVWXd5y-6SohxcENUk8_CEMelpOukATfvvUNlLpObKQwN7flCQ0PVr1GJoHo65Yx2Jr9aPgMcXbgptGdOcbdOKfuCx8EHSZQ3xH6UNcTbSDdown-AddjLLLYKV9&ved=2ahUKEwietsmQkZaXAxURjIkEHfc2EuwQFnoECBcQAQ&uoh=1",
+    "displayed_link": "https://www.jjfox.co.uk › casa-1910 › vitola › robusto",
+    "thumbnail": "https://serpapi.com/searches/6abce9791cff1913d811ed90/images/FB_eo5CrBlzBp25AUf_Ckrz6VvqsSiC2-JlP51NXxjo.jpeg",
+    "favicon": "https://serpapi.com/images/i/UklGRvwAAABXRUJQVlA4IPAAAAAQBgCdASobABwAPtE8tFooIigoFAEAGglpAAzpr2Zcu2cX5S0jMOzXghECU1zs_VjQFY5n5pFLAAAA_vYCO0s7Jv6fZFOFsTCkwL_V7N6fFyxTGcaOy1nv_FLJLHUXXodoA89IdR5g36V1Grgc_zelwZX0N3YG7vYPLw5xu_ZWKqX6KXH_GH666WntVx2ZDFA3knMJ3RAlyCn8dXzRcOhqqZ__kkH14k7LHANDr85R_344tRImap7D2tT0QiaB_NrKz29sQm_g6_mgsioCA8yZ8EfK_NGOf-wXVRhz1LORx4pHyB6f1v2aITQoOVAAAAA.webp",
+    "snippet": "cut type selection starting at only £10! This 43⁄8” Cuban cigar packs a powerful toke and lasts between 20 – 30 minutes. leather and cedar notes.",
+    "about_this_result": {
+     "source": {
+      "description": "cut type selection starting at only £10! This 43⁄8” Cuban cigar packs a powerful toke and lasts between 20 – 30 minutes. leather and cedar notes.",
+      "source_info_link": "https://www.jjfox.co.uk/cigars/brand/casa-1910/vitola/robusto.html",
+      "icon": "https://serpapi.com/images/i/UklGRvwAAABXRUJQVlA4IPAAAAAQBgCdASobABwAPtE8tFooIigoFAEAGglpAAzpr2Zcu2cX5S0jMOzXghECU1zs_VjQFY5n5pFLAAAA_vYCO0s7Jv6fZFOFsTCkwL_V7N6fFyxTGcaOy1nv_FLJLHUXXodoA89IdR5g36V1Grgc_zelwZX0N3YG7vYPLw5xu_ZWKqX6KXH_GH666WntVx2ZDFA3knMJ3RAlyCn8dXzRcOhqqZ__kkH14k7LHANDr85R_344tRImap7D2tT0QiaB_NrKz29sQm_g6_mgsioCA8yZ8EfK_NGOf-wXVRhz1LORx4pHyB6f1v2aITQoOVAAAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVkhfYXcyV09QOWZJeHBWZDd1bnFNa0dnRE5KN0RvZGVKZXZDZkx1VldYZDV5LTZTb2h4Y0VOVWs4X0NFTWVscE91a0FUZnZ2VU5sTHBPYktRd043ZmxDUTBQVnIxR0pvSG82NVl4MkpyOWFQZ01jWGJncHRHZE9jYmRPS2Z1Q3g4RUhTWlEzeEg2VU5jVGJTRGRvd24tQWRkakxMTFlLVjkSBBoCCAAasgQSABoCCAEiACoAMgYIARICdWs6AEIECAEQAEoAWgByAHoAgkCMBAgAEAAYACAAKhYKBGNhc2EVCGslQBoJaXY7cDtjYXNhKgkKAmJ5FQAAAAAqHgoCamoVAAAAPxoEamoncxoEamp1axoHaXY7cDtqaiooCgJ1axXcAStAGgdicml0aXNoGg51bml0ZWQga2luZ2RvbRoEamp1azK2AS9nb3RvP3VybD1DQUVTZlFIck96QVZIX2F3MldPUDlmSXhwVmQ3dW5xTWtHZ0ROSjdEb2RlSmV2Q2ZMdVZXWGQ1eS02U29oeGNFTlVrOF9DRU1lbHBPdWtBVGZ2dlVObExwT2JLUXdON2ZsQ1EwUFZyMUdKb0hvNjVZeDJKcjlhUGdNY1hiZ3B0R2RPY2JkT0tmdUN4OEVIU1pRM3hINlVOY1RiU0Rkb3duLUFkZGpMTExZS1Y5Oj1DaWdhcnMgPGI-VUs8L2I-IHwgSmFtZXMgSi4gRm94OiA8Yj5DYXNhPC9iPiAxOTEwIGFuZCBSb2J1c3RvQpgBY3V0IHR5cGUgc2VsZWN0aW9uIHN0YXJ0aW5nIGF0IG9ubHkgwqMxMCEgVGhpcyA0M-KBhDjigJ0gQ3ViYW4gY2lnYXIgcGFja3MgYSBwb3dlcmZ1bCB0b2tlIGFuZCBsYXN0cyBiZXR3ZWVuIDIwIOKAkyAzMCBtaW51dGVzLiBsZWF0aGVyIGFuZCBjZWRhciBub3Rlcy5KAmJ5IgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVkhfYXcyV09QOWZJeHBWZDd1bnFNa0dnRE5KN0RvZGVKZXZDZkx1VldYZDV5LTZTb2h4Y0VOVWs4X0NFTWVscE91a0FUZnZ2VU5sTHBPYktRd043ZmxDUTBQVnIxR0pvSG82NVl4MkpyOWFQZ01jWGJncHRHZE9jYmRPS2Z1Q3g4RUhTWlEzeEg2VU5jVGJTRGRvd24tQWRkakxMTFlLVjkSBBoCCAAasgQSABoCCAEiACoAMgYIARICdWs6AEIECAEQAEoAWgByAHoAgkCMBAgAEAAYACAAKhYKBGNhc2EVCGslQBoJaXY7cDtjYXNhKgkKAmJ5FQAAAAAqHgoCamoVAAAAPxoEamoncxoEamp1axoHaXY7cDtqaiooCgJ1axXcAStAGgdicml0aXNoGg51bml0ZWQga2luZ2RvbRoEamp1azK2AS9nb3RvP3VybD1DQUVTZlFIck96QVZIX2F3MldPUDlmSXhwVmQ3dW5xTWtHZ0ROSjdEb2RlSmV2Q2ZMdVZXWGQ1eS02U29oeGNFTlVrOF9DRU1lbHBPdWtBVGZ2dlVObExwT2JLUXdON2ZsQ1EwUFZyMUdKb0hvNjVZeDJKcjlhUGdNY1hiZ3B0R2RPY2JkT0tmdUN4OEVIU1pRM3hINlVOY1RiU0Rkb3duLUFkZGpMTExZS1Y5Oj1DaWdhcnMgPGI-VUs8L2I-IHwgSmFtZXMgSi4gRm94OiA8Yj5DYXNhPC9iPiAxOTEwIGFuZCBSb2J1c3RvQpgBY3V0IHR5cGUgc2VsZWN0aW9uIHN0YXJ0aW5nIGF0IG9ubHkgwqMxMCEgVGhpcyA0M-KBhDjigJ0gQ3ViYW4gY2lnYXIgcGFja3MgYSBwb3dlcmZ1bCB0b2tlIGFuZCBsYXN0cyBiZXR3ZWVuIDIwIOKAkyAzMCBtaW51dGVzLiBsZWF0aGVyIGFuZCBjZWRhciBub3Rlcy5KAmJ5IgIQAUgAWABoAA",
+    "source": "JJ Fox Cigar"
+   },
+   {
+    "position": 9,
+    "title": "Bulgarian Vase Bulgarian Pottery Green Burgundy Jug Casa JJ ...",
+    "link": "https://www.cbtestweb.co.uk/?h=24144457041330",
+    "displayed_link": "https://www.cbtestweb.co.uk · 14 Jul 2026",
+    "thumbnail": "https://serpapi.com/searches/6abce9791cff1913d811ed90/images/FB_eo5CrBlzBp25AUf_CkrUi0KKpuY62DPbKYy5sFKc.jpeg",
+    "favicon": "https://serpapi.com/images/i/UklGRiQBAABXRUJQVlA4IBgBAABwBgCdASogACAAPtEutFooIagoGAEAGgljALfY5mpA9xL1VX_6p1oGWicJQD_caAOBkvC8Hw3atq4-FAAA_vylaHcJf4cfvjNP2uJ1hmN0hkvZxqia_xMhNWGGMpNfRG8iXXJMEE-fisAz4bTDzE1qnTqrUliEvXnQyOpIiYSwoMaRnqznpbKtm0rLfM9nnh_RIaQoLYxQ2rTdPBwbO1maNCZxyZnpJFfolWpKSJhifXr1i-FGJH2ESrbUQ_SgunQnIBH8WkWCiKOWImNRkVpI2sV5XjFFRUs4EFQGgoDSNxgAXxsaUcML-t58F4u6rQ0lzavEqCFqh4Cm18vOfH55NMVVgyzPLJEig-E0Be4FZFN3MXlHQAAA.webp",
+    "snippet": "Bulgarian Vase Bulgarian Pottery Green Burgundy Jug Casa JJ Lesser Spotted. Item no : AHK80529533. sold recently ...",
+    "duration": "1:00",
+    "about_this_result": {
+     "source": {
+      "description": "Bulgarian Vase Bulgarian Pottery Green Burgundy Jug Casa JJ Lesser Spotted. Item no : AHK80529533. sold recently ...",
+      "icon": "https://serpapi.com/images/i/UklGRiQBAABXRUJQVlA4IBgBAABwBgCdASogACAAPtEutFooIagoGAEAGgljALfY5mpA9xL1VX_6p1oGWicJQD_caAOBkvC8Hw3atq4-FAAA_vylaHcJf4cfvjNP2uJ1hmN0hkvZxqia_xMhNWGGMpNfRG8iXXJMEE-fisAz4bTDzE1qnTqrUliEvXnQyOpIiYSwoMaRnqznpbKtm0rLfM9nnh_RIaQoLYxQ2rTdPBwbO1maNCZxyZnpJFfolWpKSJhifXr1i-FGJH2ESrbUQ_SgunQnIBH8WkWCiKOWImNRkVpI2sV5XjFFRUs4EFQGgoDSNxgAXxsaUcML-t58F4u6rQ0lzavEqCFqh4Cm18vOfH55NMVVgyzPLJEig-E0Be4FZFN3MXlHQAAA.webp"
+     }
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CpoBL2dvdG8_dXJsPUNBRVNhQUhyT3pBVkFyWnMwYU1BTEwxUk5vRlFjY2xwbTRGeUZsNU9wdXVZdXlVZER5VEdKcUxnblY0bEdkaWxPUkROWGJTVjFTa0xfcjY3Z2FlcXg5d1o3UGxvcEFydUFvcFI5OGhDRVVtVzhxc210WTlSaGJFa0cxOUpoX29GNnlHd01LM2EyM0FxeHNMbhIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CpoBL2dvdG8_dXJsPUNBRVNhQUhyT3pBVkFyWnMwYU1BTEwxUk5vRlFjY2xwbTRGeUZsNU9wdXVZdXlVZER5VEdKcUxnblY0bEdkaWxPUkROWGJTVjFTa0xfcjY3Z2FlcXg5d1o3UGxvcEFydUFvcFI5OGhDRVVtVzhxc210WTlSaGJFa0cxOUpoX29GNnlHd01LM2EyM0FxeHNMbhIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+    "source": ""
+   }
+  ],
+  "dmca_messages": {
+   "title": "Notices about Filtered Results",
+   "messages": [
+    {
+     "content": "In order to show you the most relevant results, we have omitted some entries very similar to the 10 already displayed.If you like, you can repeat the search with the omitted results included.",
+     "highlighted_words": [
+      {
+       "link": "https://www.google.co.uk/search?q=Casa+by+JJ+UK&sca_esv=d0c3879c3aba1c72&gl=uk&hl=en&sxsrf=APpeQnuBKpQd551STha6cgY4EpXpCLlpNA:1790765442431&filter=0",
+       "text": "repeat the search with the omitted results included"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

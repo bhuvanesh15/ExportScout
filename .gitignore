@@ -1,0 +1,39 @@
+# Secrets: never commit
+.env
+.env.*
+!.env.example
+
+# Local cache and credit ledger
+.cache/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+*.egg-info/
+
+# Owner photos used for local runs (demo images live in demo_cache/images/)
+photos/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Streamlit secrets (never commit; the public deployment runs in Demo Mode with no keys)
+.streamlit/secrets.toml
+
+# Local databases, logs and tool caches
+*.sqlite
+*.db
+*.log
+*.tmp
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+dist/
+build/

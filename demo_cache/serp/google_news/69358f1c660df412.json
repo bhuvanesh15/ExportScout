@@ -1,0 +1,317 @@
+{
+ "engine": "google_news",
+ "params": {
+  "q": "\"Ivyline\"",
+  "gl": "uk",
+  "hl": "en"
+ },
+ "fetched_at": "2026-09-30T10:56:11+00:00",
+ "data": {
+  "search_metadata": {
+   "id": "6abceac8f9c5e921d11d3869",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/l7X0OWry1mtUdKwZXJLvSD5563KgrpRi3vlkHEAvY9k/6abceac8f9c5e921d11d3869.json",
+   "markdown_endpoint": "https://serpapi.com/searches/l7X0OWry1mtUdKwZXJLvSD5563KgrpRi3vlkHEAvY9k/6abceac8f9c5e921d11d3869.md",
+   "created_at": "2026-09-30 10:56:08 UTC",
+   "processed_at": "2026-09-30 10:56:08 UTC",
+   "google_news_url": "https://news.google.com/search?q=%22Ivyline%22&hl=en&gl=UK",
+   "raw_html_file": "https://serpapi.com/searches/l7X0OWry1mtUdKwZXJLvSD5563KgrpRi3vlkHEAvY9k/6abceac8f9c5e921d11d3869.html",
+   "total_time_taken": 2.83
+  },
+  "search_parameters": {
+   "engine": "google_news",
+   "gl": "uk",
+   "hl": "en",
+   "q": "\"Ivyline\""
+  },
+  "news_results": [
+   {
+    "position": 1,
+    "title": "Garden lovers 'ditch' plant pots for Dunelm's 'traditional' planter with heavy reduction",
+    "source": {
+     "name": "Manchester Evening News",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.manchestereveningnews.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Eleanor Fleming"
+     ]
+    },
+    "link": "https://www.manchestereveningnews.co.uk/news/money-saving/garden-lovers-ditch-plant-pots-34152029",
+    "thumbnail": "https://i2-prod.manchestereveningnews.co.uk/news/money-saving/article34152098.ece/ALTERNATES/s1200b/2_30699711.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVpNbkV5V0doSVlsTk5OazVKVFJEZ0F4aUFCU2dLTWdZZEFJakxIQVU",
+    "date": "06/20/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-06-20T07:00:00Z"
+   },
+   {
+    "position": 2,
+    "title": "Montreal mourns death of civil rights pioneer Ivyline Fleming",
+    "source": {
+     "name": "Global News",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://globalnews.ca&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://globalnews.ca/video/11817727/montreal-mourns-death-of-civil-rights-pioneer-ivyline-fleming",
+    "thumbnail": "https://media.globalnews.ca/videostatic/news/3msg1sx7t6-hzdn2lkq9z/Ivyline_Fleming_VMS.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdXSEZxZVhSblZXWnVSVkl4VFJDZkF4ampCU2dLTWdhbE5aTE5JUWc",
+    "date": "04/25/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-04-25T07:00:00Z"
+   },
+   {
+    "position": 3,
+    "title": "Ivyline Fleming Obituary - Montreal, QC",
+    "source": {
+     "name": "Dignity Memorial",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.dignitymemorial.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.dignitymemorial.com/en-ca/obituaries/montreal-qc/ivyline-fleming-12861118",
+    "thumbnail": "https://d3eguztg5751m.cloudfront.net/as/assets-mem-com/cmi/8/1/1/1/12861118/20260429_134042050_0_orig.jpg/-/ivyline-fleming-montreal-qc-obituary.jpg?maxheight=650",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWtSa1F4VXpWSVZUZDJibDlPVFJDSkFoaS1BU2dCTWdhcFpKYU9LUWc",
+    "date": "04/25/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-04-25T07:00:00Z"
+   },
+   {
+    "position": 4,
+    "title": "Pioneering Montreal civil rights activist Ivyline Fleming dies at 101",
+    "source": {
+     "name": "CTV News",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.ctvnews.ca&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.ctvnews.ca/montreal/video/2026/04/27/pioneering-montreal-civil-rights-activist-ivyline-fleming-dies-at-101/",
+    "thumbnail": "https://www.ctvnews.ca/resizer/v2/https%3A%2F%2Fd3g70guqh4mw9g.cloudfront.net%2F04-27-2026%2Ft_e4980d0bf9ad4b03ac14bb7a5883380f_name_683127510_26609574028707599_4401836602290699489_n.jpg?smart=true&auth=a7063378b0431262dbee9e01e6851c7a4254af8fb099637aad0f2d4e879ea786&width=1200&height=630",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNWFUVTFVV0RkWVdFcFJSRzFUVFJDUkF4ajhCU2dLTWdB",
+    "date": "04/27/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-04-27T07:00:00Z"
+   },
+   {
+    "position": 5,
+    "title": "7 Ideas For Warming Your Garden This Winter",
+    "source": {
+     "name": "House Beautiful",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.housebeautiful.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Lisa Joyner"
+     ]
+    },
+    "link": "https://www.housebeautiful.com/uk/garden/a38251128/keep-garden-warm-winter/",
+    "thumbnail": "https://hips.hearstapps.com/hmg-prod/images/keep-garden-warm-winter-656c9a6dc6de6.jpg?crop=1.00xw:0.667xh;0,0.152xh&resize=640:*",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVhhbEpxV25OUWRXNUlSbTU2VFJDcUJCaXFCQ2dLTWdtQlk1Qnh3YWF4REFJ",
+    "date": "12/03/2023, 08:00 AM, +0000 UTC",
+    "iso_date": "2023-12-03T08:00:00Z"
+   },
+   {
+    "position": 6,
+    "title": "Five experts on how to deal with garden slugs",
+    "source": {
+     "name": "Good Housekeeping",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.goodhousekeeping.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Susanne Norris"
+     ]
+    },
+    "link": "https://www.goodhousekeeping.com/uk/house-and-home/gardening-advice/a561996/how-to-get-rid-of-garden-slugs-the-eco-friendly-way/",
+    "thumbnail": "https://hips.hearstapps.com/hmg-prod/images/garden-slug-1676633477.jpg?crop=0.886xw:1.00xh;0.0577xw,0&resize=768:*",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNjVFpwVlY5M2VYTkZUSEJxVFJEZkF4aUFCU2dLTWdhWlFJd0t1Z1U",
+    "date": "07/07/2021, 07:00 AM, +0000 UTC",
+    "iso_date": "2021-07-07T07:00:00Z"
+   },
+   {
+    "position": 7,
+    "title": "Best outdoor fire pits for your garden 2024",
+    "source": {
+     "name": "London Evening Standard",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.standard.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Abha Shah"
+     ]
+    },
+    "link": "https://www.standard.co.uk/shopping/esbest/home-garden/home-accessories/best-outdoor-fire-pits-b921411.html",
+    "thumbnail": "https://static.standard.co.uk/2022/04/08/17/VonHaus-Round-MgO-Fire-Pit-1jpg?width=1200&auto=webp&quality=75",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5jRXB4VkVwU2IyOU9abVJaVFJERUF4aW1CU2dLTWdZQlFZNk9OUVU",
+    "date": "05/30/2024, 07:00 AM, +0000 UTC",
+    "iso_date": "2024-05-30T07:00:00Z"
+   },
+   {
+    "position": 8,
+    "title": "The best fire pits and chimineas for a perfect beer garden vibe",
+    "source": {
+     "name": "Cosmopolitan",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.cosmopolitan.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Dusty Baxter-Wright",
+      "Lydia Venn",
+      "Amy Davidson Sorkin"
+     ]
+    },
+    "link": "https://www.cosmopolitan.com/uk/lifestyle/interiors/g34509482/best-firepits-uk/",
+    "thumbnail": "https://hips.hearstapps.com/hmg-prod/images/best-fire-pits-6645f27abf145.jpg?crop=0.500xw:0.994xh;0,0&resize=640:*",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVBRVFpZUTFkVFUxUnlUMFZLVFJDcEJCaXFCQ2dLTWdhZGc0U3RUUU0",
+    "date": "05/16/2024, 07:00 AM, +0000 UTC",
+    "iso_date": "2024-05-16T07:00:00Z"
+   },
+   {
+    "position": 9,
+    "title": "Here’s How To Recreate The Beckham’s Country Home Kitchen (Without Their Budget)",
+    "source": {
+     "name": "Grazia Daily UK",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://graziadaily.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Piper Huxley"
+     ]
+    },
+    "link": "https://graziadaily.co.uk/interiors/inspiration/beckham-inspired-country-home/",
+    "thumbnail": "https://images.bauerhosting.com/celebrity/sites/3/2023/06/country-home.jpg?ar=16%3A9&fit=crop&crop=top&auto=format&w=1440&q=80",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJPRlpSZFU5UmNHZHFXVEJaVFJDZkF4ampCU2dLTWdZQk1KWlptQWs",
+    "date": "11/15/2023, 08:00 AM, +0000 UTC",
+    "iso_date": "2023-11-15T08:00:00Z"
+   },
+   {
+    "position": 10,
+    "title": "Remarkable Montrealer Ivyline Fleming celebrates 100th birthday",
+    "source": {
+     "name": "Global News",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://globalnews.ca&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Phil Carpenter"
+     ]
+    },
+    "link": "https://globalnews.ca/news/10553713/remarkable-montrealer-ivyline-fleming-100th-birthday/",
+    "thumbnail": "https://globalnews.ca/wp-content/uploads/2024/06/FLEMMING.jpg?quality=65&strip=all",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNTVEF5VHpRMU1FdHdkVmhYVFJDZkF4ampCU2dLTWdhaGxZenNOUVk",
+    "date": "06/07/2024, 07:00 AM, +0000 UTC",
+    "iso_date": "2024-06-07T07:00:00Z"
+   },
+   {
+    "position": 11,
+    "title": "The best indoor plant stands to elevate your space",
+    "source": {
+     "name": "Country Living Magazine",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.countryliving.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Lisa Joyner"
+     ]
+    },
+    "link": "https://www.countryliving.com/uk/homes-interiors/interiors/g32015461/best-plant-stands/",
+    "thumbnail": "https://hips.hearstapps.com/hmg-prod/images/best-plant-stands-651d26d28dd07.jpg?crop=0.751xw:1.00xh;0.109xw,0&resize=640:*",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXhOeTF2TVVGNFVEbDFWRFIzVFJDcEJCaXFCQ2dLTWdrQlFJb2xOZVVsY3dF",
+    "date": "10/04/2024, 07:00 AM, +0000 UTC",
+    "iso_date": "2024-10-04T07:00:00Z"
+   },
+   {
+    "position": 12,
+    "title": "Best indoor log storage solutions to be ready to keep your fire burning",
+    "source": {
+     "name": "London Evening Standard",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.standard.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Abha Shah"
+     ]
+    },
+    "link": "https://www.standard.co.uk/shopping/esbest/home-garden/home-accessories/best-indoor-log-storage-solutions-b1142934.html",
+    "thumbnail": "https://static.standard.co.uk/2024/03/06/16/27/pexels-pavel-danilyuk-5870779.jpg.jpg?crop=8:5,smart&quality=75&auto=webp&width=1000",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNHRTVTA0Tms1SVZIWnlSM0ZEVFJERUF4aW5CU2dLTWdB",
+    "date": "03/06/2024, 08:00 AM, +0000 UTC",
+    "iso_date": "2024-03-06T08:00:00Z"
+   },
+   {
+    "position": 13,
+    "title": "Rotary Club Registers 20 FCT Pupils, Donates Educational Materials",
+    "source": {
+     "name": "LEADERSHIP Newspapers",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://leadership.ng&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://leadership.ng/rotary-club-registers-20-fct-pupils-donates-educational-materials/",
+    "thumbnail": "https://leadership.ng/wp-content/uploads/2022/09/Rotary-Club-of-Abuja-750x536.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZhelptWWpoYVZEUkhibkZIVFJEVUF4aVBCU2dLTWdZTm9wUUtPUWM",
+    "date": "10/16/2023, 06:42 AM, +0000 UTC",
+    "iso_date": "2023-10-16T06:42:11Z"
+   },
+   {
+    "position": 14,
+    "title": "Remarkable Montrealer Ivyline Fleming celebrates 100th birthday",
+    "source": {
+     "name": "Global News",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://globalnews.ca&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://globalnews.ca/video/10553687/remarkable-montrealer-ivyline-fleming-celebrates-100th-birthday",
+    "thumbnail": "https://i1.wp.com/media.globalnews.ca/videostatic/news/47av99wz5v-ml950c4915/WEB.BLACK.COMMUNITY.LEADER.CARPENTER.jpg?w=1040&quality=70&strip=all",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVpWVmRITVZaT2RFRjJMVE5CVFJDZkF4ampCU2dLTWdhQk5JU09wUWM",
+    "date": "06/07/2024, 07:00 AM, +0000 UTC",
+    "iso_date": "2024-06-07T07:00:00Z"
+   },
+   {
+    "position": 15,
+    "title": "Bonanza Kennel Club of Carson City – Saturday, September 30, 2023",
+    "source": {
+     "name": "Canine Chronicle |",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://caninechronicle.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://caninechronicle.com/show-wins-gallery/bonanza-kennel-club-of-carson-city-5/",
+    "thumbnail": "http://caninechronicle.com/wp-content/uploads/2023/09/Ivyline-Michelangelo.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFkamgwZGsxUGExWlpkR05pVFJEVEJCaURCQ2dLTWdZWllvWnBLUWs",
+    "date": "09/30/2023, 07:00 AM, +0000 UTC",
+    "iso_date": "2023-09-30T07:00:00Z"
+   },
+   {
+    "position": 16,
+    "title": "Black community leader and volunteer retires – at 92",
+    "source": {
+     "name": "Montreal Gazette",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://montrealgazette.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Susan Schwartz"
+     ]
+    },
+    "link": "https://montrealgazette.com/news/longtime-montreal-black-community-leader-and-volunteer-retires-at-92/",
+    "thumbnail": "https://montrealgazette.com/wp-content/uploads/sites/2/2016/08/montreal-que-august-23-2016-ivyline-fleming-92-foun1.jpeg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFjVTFYYTFNNE5ERnFaMGxOVFJEZ0F4aUFCU2dLTWdZcEpZck5GUW8",
+    "date": "08/30/2016, 07:00 AM, +0000 UTC",
+    "iso_date": "2016-08-30T07:00:00Z"
+   }
+  ],
+  "menu_links": [
+   {
+    "title": "United Kingdom",
+    "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNRGR6YzJNU0JXVnVMVWRDS0FBUAE",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=uk&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNRGR6YzJNU0JXVnVMVWRDS0FBUAE"
+   },
+   {
+    "title": "World",
+    "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSFFpZ0FQAQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=uk&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSFFpZ0FQAQ"
+   },
+   {
+    "title": "Your local news",
+    "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=uk&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+   },
+   {
+    "title": "Business",
+    "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSFFpZ0FQAQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=uk&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSFFpZ0FQAQ"
+   },
+   {
+    "title": "Technology",
+    "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSFFpZ0FQAQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=uk&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSFFpZ0FQAQ"
+   },
+   {
+    "title": "Entertainment",
+    "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSFFpZ0FQAQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=uk&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSFFpZ0FQAQ"
+   },
+   {
+    "title": "Sports",
+    "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSFFpZ0FQAQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=uk&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSFFpZ0FQAQ"
+   },
+   {
+    "title": "Science",
+    "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSFFpZ0FQAQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=uk&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSFFpZ0FQAQ"
+   },
+   {
+    "title": "Health",
+    "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=uk&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE"
+   }
+  ]
+ }
+}

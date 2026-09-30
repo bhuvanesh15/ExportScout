@@ -1,0 +1,1700 @@
+{
+ "engine": "ebay",
+ "params": {
+  "_nkw": "brass hurricane lantern",
+  "ebay_domain": "ebay.co.uk"
+ },
+ "fetched_at": "2026-09-30T10:33:56+00:00",
+ "data": {
+  "search_metadata": {
+   "id": "6abce58f73d2249187d68f4f",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/-8VZew8hb7f1xAx_ibELvAIbW8_kwgr0Mmk_ue69dbk/6abce58f73d2249187d68f4f.json",
+   "markdown_endpoint": "https://serpapi.com/searches/-8VZew8hb7f1xAx_ibELvAIbW8_kwgr0Mmk_ue69dbk/6abce58f73d2249187d68f4f.md",
+   "created_at": "2026-09-30 10:33:51 UTC",
+   "processed_at": "2026-09-30 10:33:51 UTC",
+   "ebay_url": "https://www.ebay.co.uk/sch/i.html?_nkw=brass+hurricane+lantern",
+   "raw_html_file": "https://serpapi.com/searches/-8VZew8hb7f1xAx_ibELvAIbW8_kwgr0Mmk_ue69dbk/6abce58f73d2249187d68f4f.html",
+   "total_time_taken": 4.79
+  },
+  "search_parameters": {
+   "engine": "ebay",
+   "_nkw": "brass hurricane lantern",
+   "ebay_domain": "ebay.co.uk"
+  },
+  "search_information": {
+   "organic_results_state": "Results for exact spelling",
+   "total_results": 266,
+   "query_displayed": "brass hurricane lantern"
+  },
+  "categories": [
+   {
+    "name": "Collectables",
+    "link": "https://www.ebay.co.uk/sch/1/i.html?_nkw=brass+hurricane+lantern",
+    "id": 1,
+    "serpapi_link": "https://serpapi.com/search.json?_nkw=brass+hurricane+lantern&category_id=1&ebay_domain=ebay.co.uk&engine=ebay"
+   },
+   {
+    "name": "Collectable Candle Holders",
+    "link": "https://www.ebay.co.uk/sch/4062/i.html?_nkw=brass+hurricane+lantern",
+    "id": 4062,
+    "serpapi_link": "https://serpapi.com/search.json?_nkw=brass+hurricane+lantern&category_id=4062&ebay_domain=ebay.co.uk&engine=ebay"
+   },
+   {
+    "name": "Collectable Lamp Shades",
+    "link": "https://www.ebay.co.uk/sch/1408/i.html?_nkw=brass+hurricane+lantern",
+    "id": 1408,
+    "serpapi_link": "https://serpapi.com/search.json?_nkw=brass+hurricane+lantern&category_id=1408&ebay_domain=ebay.co.uk&engine=ebay"
+   },
+   {
+    "name": "Collectable Lamps",
+    "link": "https://www.ebay.co.uk/sch/261713/i.html?_nkw=brass+hurricane+lantern",
+    "id": 261713,
+    "serpapi_link": "https://serpapi.com/search.json?_nkw=brass+hurricane+lantern&category_id=261713&ebay_domain=ebay.co.uk&engine=ebay"
+   },
+   {
+    "name": "Collectable Brass Candlesticks & Holders",
+    "link": "https://www.ebay.co.uk/sch/60656/i.html?_nkw=brass+hurricane+lantern",
+    "id": 60656,
+    "serpapi_link": "https://serpapi.com/search.json?_nkw=brass+hurricane+lantern&category_id=60656&ebay_domain=ebay.co.uk&engine=ebay"
+   },
+   {
+    "name": "Railwayana Lanterns & Lamps",
+    "link": "https://www.ebay.co.uk/sch/4128/i.html?_nkw=brass+hurricane+lantern",
+    "id": 4128,
+    "serpapi_link": "https://serpapi.com/search.json?_nkw=brass+hurricane+lantern&category_id=4128&ebay_domain=ebay.co.uk&engine=ebay"
+   },
+   {
+    "name": "Other Collectable Lighting",
+    "link": "https://www.ebay.co.uk/sch/371/i.html?_nkw=brass+hurricane+lantern",
+    "id": 371,
+    "serpapi_link": "https://serpapi.com/search.json?_nkw=brass+hurricane+lantern&category_id=371&ebay_domain=ebay.co.uk&engine=ebay"
+   },
+   {
+    "name": "Collectable Holiday & Seasonal Lights",
+    "link": "https://www.ebay.co.uk/sch/261638/i.html?_nkw=brass+hurricane+lantern",
+    "id": 261638,
+    "serpapi_link": "https://serpapi.com/search.json?_nkw=brass+hurricane+lantern&category_id=261638&ebay_domain=ebay.co.uk&engine=ebay"
+   },
+   {
+    "name": "Collectable Holiday & Seasonal Ornaments",
+    "link": "https://www.ebay.co.uk/sch/77988/i.html?_nkw=brass+hurricane+lantern",
+    "id": 77988,
+    "serpapi_link": "https://serpapi.com/search.json?_nkw=brass+hurricane+lantern&category_id=77988&ebay_domain=ebay.co.uk&engine=ebay"
+   },
+   {
+    "name": "Home, Furniture & DIY",
+    "link": "https://www.ebay.co.uk/sch/11700/i.html?_nkw=brass+hurricane+lantern",
+    "id": 11700,
+    "serpapi_link": "https://serpapi.com/search.json?_nkw=brass+hurricane+lantern&category_id=11700&ebay_domain=ebay.co.uk&engine=ebay"
+   },
+   {
+    "name": "Candle & Tea Light Holders",
+    "link": "https://www.ebay.co.uk/sch/16102/i.html?_nkw=brass+hurricane+lantern",
+    "id": 16102,
+    "serpapi_link": "https://serpapi.com/search.json?_nkw=brass+hurricane+lantern&category_id=16102&ebay_domain=ebay.co.uk&engine=ebay"
+   },
+   {
+    "name": "Other Home Décor Items",
+    "link": "https://www.ebay.co.uk/sch/10034/i.html?_nkw=brass+hurricane+lantern",
+    "id": 10034,
+    "serpapi_link": "https://serpapi.com/search.json?_nkw=brass+hurricane+lantern&category_id=10034&ebay_domain=ebay.co.uk&engine=ebay"
+   },
+   {
+    "name": "Lamps",
+    "link": "https://www.ebay.co.uk/sch/112581/i.html?_nkw=brass+hurricane+lantern",
+    "id": 112581,
+    "serpapi_link": "https://serpapi.com/search.json?_nkw=brass+hurricane+lantern&category_id=112581&ebay_domain=ebay.co.uk&engine=ebay"
+   },
+   {
+    "name": "Ceiling Lights & Chandeliers",
+    "link": "https://www.ebay.co.uk/sch/117503/i.html?_nkw=brass+hurricane+lantern",
+    "id": 117503,
+    "serpapi_link": "https://serpapi.com/search.json?_nkw=brass+hurricane+lantern&category_id=117503&ebay_domain=ebay.co.uk&engine=ebay"
+   },
+   {
+    "name": "Antiques",
+    "link": "https://www.ebay.co.uk/sch/20081/i.html?_nkw=brass+hurricane+lantern",
+    "id": 20081,
+    "serpapi_link": "https://serpapi.com/search.json?_nkw=brass+hurricane+lantern&category_id=20081&ebay_domain=ebay.co.uk&engine=ebay"
+   },
+   {
+    "name": "Sporting Goods",
+    "link": "https://www.ebay.co.uk/sch/888/i.html?_nkw=brass+hurricane+lantern",
+    "id": 888,
+    "serpapi_link": "https://serpapi.com/search.json?_nkw=brass+hurricane+lantern&category_id=888&ebay_domain=ebay.co.uk&engine=ebay"
+   },
+   {
+    "name": "Pottery, Ceramics & Glass",
+    "link": "https://www.ebay.co.uk/sch/870/i.html?_nkw=brass+hurricane+lantern",
+    "id": 870,
+    "serpapi_link": "https://serpapi.com/search.json?_nkw=brass+hurricane+lantern&category_id=870&ebay_domain=ebay.co.uk&engine=ebay"
+   },
+   {
+    "name": "Stamps",
+    "link": "https://www.ebay.co.uk/sch/260/i.html?_nkw=brass+hurricane+lantern",
+    "id": 260,
+    "serpapi_link": "https://serpapi.com/search.json?_nkw=brass+hurricane+lantern&category_id=260&ebay_domain=ebay.co.uk&engine=ebay"
+   }
+  ],
+  "organic_results": [
+   {
+    "title": "Brass & Glass Hanging Lantern Candle Holder Display Hurricane Lamp Mirror Base",
+    "link": "https://www.ebay.co.uk/itm/298717548970?_skw=brass+hurricane+lantern&itmmeta=01M3RY1HQQ1PPMVFN8XHWSV9VX&hash=item458cf411aa:g:anMAAeSwpLBqkFd0&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDhtFO2547dq%2BVfEcXNbMFBiU3OkL1%2FSj%2F2Brh5HJ8p7yN%2FbP8FuDrTXg8RjTGKihkMcAlVweeWTHs8i6z3jpS%2B5YOJu3rGVB3PI%2BU%2FI6o%2F%2BI8AQKJDINq4ONA3yA84xNfENUlvvEtXPueNi7PQykOz5iw44SUE92jQWkGzLTEvjuCiERt8u%2BHbhcv60ld6KlpQB2%2BIj8oR8ojO9xZP0Hm0Y5l1QOw0%2FNxLqYdwNoXLOourM%2FafX4UaO6YS%2FxwypUMZ4Am6pww3In4lG1YvZwVLoHdK52M1B7MIFpPwWXUCEA%3D%3D%7Ctkp%3ABk9SR6ichp6eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=298717548970",
+    "product_id": "298717548970",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£34.99",
+     "extracted": 34.99
+    },
+    "shipping": {
+     "raw": "+£8.99 delivery",
+     "extracted": 8.99
+    },
+    "buying_format": "accepts_offers",
+    "buying_format_text": "or Best Offer",
+    "thumbnail": "https://i.ebayimg.com/images/g/anMAAeSwpLBqkFd0/s-l500.webp",
+    "seller": {
+     "username": "peachy_products23",
+     "reviews": 5000,
+     "positive_feedback_in_percentage": 100
+    }
+   },
+   {
+    "sponsored": true,
+    "title": "Vintage Style Red Glass Oil Lamp Hurricane Lantern Brass",
+    "link": "https://www.ebay.co.uk/itm/298704407281?_skw=brass+hurricane+lantern&itmmeta=01M3RY1HQQ87E4RBKANXDAY9V2&hash=item458c2b8af1:g:f7kAAeSw8fdqfiv1&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xD%2FAH2s%2Bf7I3QOmoCRDNfBuNq6cdQomWKO6fCavI7TJyaA16eRr0E2u6VQBlk70KRojXZlEF7n7sXb8Dk9hbe%2F3p89ClX%2Bs4w2igRxwgwqehzzBteRuwSjVwMg70ds5RyescxqQVUCqK7OAAuKNILNQo0OxLOmE%2BUVwOEWn6dxWLPi%2B6vFSKqcTqFJEXhDUppdimAcfhHoHB%2Bx9hwjvxyf7LUpz2y6zu%2FWBIAZGhYwQgiMVQFw0gDXwDN%2F%2BzdRSdr8%2Bs%2FNsYZY9TlQ0L7fa2J4QO5i%2BF5RkHUH9Q2CJ%2BIhLPA%3D%3D%7Ctkp%3ABFBMqJyGnp5o",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=298704407281",
+    "product_id": "298704407281",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£25.38",
+     "extracted": 25.38
+    },
+    "shipping": {
+     "raw": "+£3.71 delivery",
+     "extracted": 3.71
+    },
+    "buying_format": "accepts_offers",
+    "buying_format_text": "or Best Offer",
+    "bids": {
+     "count": 0,
+     "time_left": "1d 10h left"
+    },
+    "thumbnail": "https://i.ebayimg.com/images/g/f7kAAeSw8fdqfiv1/s-l500.webp",
+    "seller": {
+     "username": "kharmoha-89",
+     "reviews": 984,
+     "positive_feedback_in_percentage": 94.4
+    }
+   },
+   {
+    "sponsored": true,
+    "title": "14\" Nautical Brass & Copper Anchor Oil Lamp-Leeds Burner Hurricane Lantern Gift",
+    "link": "https://www.ebay.co.uk/itm/389981393956?_skw=brass+hurricane+lantern&itmmeta=01M3RY1HQR5T0N9GR3T1VWN7FT&hash=item5accb3d424:g:PuUAAOSwecVkXQzD&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBFHS3BwSsG2rWVbYItH9O3ZBYDUsWPD6KAddmEChlyLUhtZ6JKbLmO0mOKriXcX4Ax8xJ1m1c2668T4x2V7mkVkS1Kvl0JvG9CwjOkRqx659ygv0eXWZYs2OjPp4EN8HiiIyyu94h%2BbxKHApnEulAC8X8ChOR%2FZpZnR0pKragkEeELXeGNq1IY7AH37wqft0E1Mze2N63ZuHwXbZLpyvSMfCuJv5HWtceZ11GchHaeBlCYpNQQIiDJGqM1sjYgOVbwztFlotcsp8%2FNcVN8WXKsJNqpycL6%2B7%2BcEGVAQUTiDg%3D%3D%7Ctkp%3ABFBMqJyGnp5o",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=389981393956",
+    "product_id": "389981393956",
+    "price": {
+     "raw": "£93.16",
+     "extracted": 93.16
+    },
+    "shipping": "Free delivery",
+    "location": "from India",
+    "returns": "Free returns",
+    "promotion": "£86.64 with coupon",
+    "buying_format": "buy_it_now",
+    "buying_format_text": "Buy It Now",
+    "thumbnail": "https://i.ebayimg.com/images/g/PuUAAOSwecVkXQzD/s-l500.webp",
+    "seller": {
+     "username": "omnauticalpoint",
+     "reviews": 95,
+     "positive_feedback_in_percentage": 91.7
+    }
+   },
+   {
+    "sponsored": true,
+    "title": "Brass Oil Lantern Antique Hurricane Lamp | Nautical Kerosene Light Home Decor",
+    "link": "https://www.ebay.co.uk/itm/397142393296?_skw=brass+hurricane+lantern&itmmeta=01M3RY1HQR175DTE0R5XKNGEYM&hash=item5c778801d0:g:ZJEAAeSwKxhooH~7&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCcg1Kboo73xoDJ9E6sHdn6CDk6SKQ2%2Bl9V5v72WgPtnsZrgJj%2FZMU3uVAFLvYE%2BPB%2BvdUjPRFonKg1KcDGPp2p%2FQYyjU8eLHrIboxHa%2B05rgj4a7%2FGrAMwwaX6tUIRoa211pVRMUPWZKNH2RkfRIzTo9bmRY%2BGgQDEG5c32TIaBnZcOWLI23HpD8UUW4mHMXgY9%2BNiJTw%2BXoOQnro9LaNqly4HI9JfS2mVFzJ7wKpzgsVrOO--gVcOsbvgbqj4KZWP8dHOlEQGM%2BbUdQxN%2F9HYGmvODcJhc0Rypks2aelB3w%3D%3D%7Ctkp%3ABFBMqJyGnp5o",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=397142393296",
+    "product_id": "397142393296",
+    "price": {
+     "raw": "£87.13",
+     "extracted": 87.13
+    },
+    "shipping": "Free delivery",
+    "location": "from India",
+    "returns": "Free returns",
+    "buying_format": "buy_it_now",
+    "buying_format_text": "Buy It Now",
+    "thumbnail": "https://i.ebayimg.com/images/g/ZJEAAeSwKxhooH~7/s-l500.webp",
+    "seller": {
+     "username": "mughni",
+     "reviews": 89,
+     "positive_feedback_in_percentage": 100
+    }
+   },
+   {
+    "title": "VINTAGE VAPALUX M320 WILLIS & BATES ENGLAND PARAFFIN OIL HURRICANE LANTERN LAMP",
+    "link": "https://www.ebay.co.uk/itm/278405193369?_skw=brass+hurricane+lantern&itmmeta=01M3RY1HQRSHKXN0N898SR8SJX&hash=item40d23e1e99:g:SFMAAeSwEpZqtSnL&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xCLqYtQpx6WCF%2BvszJsNXLe%2B4kJB%2BB4s2MPllMmCY1POrvRzNfh6mWUcliAdKdLQfZO4dzzVISL%2B2I2FJhdryYNWqUmO90lr%2FEIJrp1pFtafdo1klP6%2Buv%2Bk4VOoxNU9P%2F6TFHuLm1%2FgVPwnErkF26G90NfgjvZ%2B7yYV3ezu7QZrO0ShU5xqBXYRbaBD8n19Vc1Ih3DndCkqpGbO8RaE35W%2F4a2l%2FNy5ncf5fuuRnn%2BazpJKlwQzn3Bk0j1%2BdqWwdo%3D%7Ctkp%3ABk9SR6ichp6eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=278405193369",
+    "product_id": "278405193369",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£44.59",
+     "extracted": 44.59
+    },
+    "shipping": {
+     "raw": "+£6.65 delivery",
+     "extracted": 6.65
+    },
+    "watchers": "10 watchers",
+    "extracted_watchers": 10,
+    "buying_format": "accepts_offers",
+    "buying_format_text": "or Best Offer",
+    "thumbnail": "https://i.ebayimg.com/images/g/SFMAAeSwEpZqtSnL/s-l500.webp",
+    "seller": {
+     "username": "vintagebob-2",
+     "reviews": 3600,
+     "positive_feedback_in_percentage": 99.8
+    }
+   },
+   {
+    "title": "Vintage Green Glass Oil Lamp Hurricane Lantern Brass Base Home Decor",
+    "link": "https://www.ebay.co.uk/itm/206069026297?_skw=brass+hurricane+lantern&itmmeta=01M3RY1HQRN5NC3DT4QVFBM9H2&hash=item2ffaabcdf9:g:JxgAAeSwmOFpj5bM&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBpQfC1bVhggDFN3LTWpUEtecaWTjBDBNYtiR6rxHbt02LFMmPVfjlRk3GR1UzDaVYlbwrGPZgThe8OiEzzF8YGlIw418dxp3J7UFlMzQns3LQgN2q0oBQ51tpxdl2%2BVqquitUetfXD6o3DTGoZ2q7LsVDDmyOM72QV5H9J%2FfcgrELrBHdsT5RLwCg1YdSkz%2BCmMQ2qEdA9P0K9hnG8whm%2FbSIRbECdUzcE1gW5xGOriX8vFcKxQnQQHp%2FHtsR4XeZAUiI6CKeutikKmw5a8v9wD9VXOSNK7MEPMl3LIiSZvg%3D%3D%7Ctkp%3ABk9SR6ichp6eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=206069026297",
+    "product_id": "206069026297",
+    "condition": "Refurbished",
+    "price": {
+     "raw": "£19.77",
+     "extracted": 19.77
+    },
+    "shipping": {
+     "raw": "+£2.94 delivery",
+     "extracted": 2.94
+    },
+    "buying_format": "accepts_offers",
+    "buying_format_text": "or Best Offer",
+    "energy_rating": {
+     "value": "A+++",
+     "range": {
+      "from": "G",
+      "to": "A+++"
+     }
+    },
+    "thumbnail": "https://i.ebayimg.com/images/g/JxgAAeSwmOFpj5bM/s-l500.webp",
+    "seller": {
+     "username": "chandlerclothing",
+     "reviews": 879,
+     "positive_feedback_in_percentage": 99.3
+    }
+   },
+   {
+    "title": "Glass and Metal Hurricane Candle Lantern",
+    "link": "https://www.ebay.co.uk/itm/307143784787?_skw=brass+hurricane+lantern&itmmeta=01M3RY1HQRH0YRPZ0RHNASPN0C&hash=item4783323953:g:Be8AAeSwMk1qjFMP&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xDv9vHYKlbQTKRaQzut1xSsWPw0N%2FK5r69ZMrhwgpTOUa7USmybC63WtWopKeTA4r2GZfY8po%2Fuiq8v5uQQdr%2FTOoxvlft8vI1IYhHnbUAekeXIsnjCm3X8cwnLK6kwpPzf%2BXi0rPXE2FbaCeiECMOB6yiSWzrO7zDfiKwBgA2xM6kSqExCEDaING4HxgfKzIiivm%2Fe2DbzzXUICqFUi%2BNkjqXnTHWdkbrbroqjp3V8TJ0sD9vNM4%2Bf7bqQx8iCyRE%3D%7Ctkp%3ABk9SR6ichp6eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=307143784787",
+    "product_id": "307143784787",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£10.67",
+     "extracted": 10.67
+    },
+    "shipping": {
+     "raw": "+£3.38 delivery",
+     "extracted": 3.38
+    },
+    "buying_format": "buy_it_now",
+    "buying_format_text": "Buy It Now",
+    "thumbnail": "https://i.ebayimg.com/images/g/Be8AAeSwMk1qjFMP/s-l500.webp",
+    "seller": {
+     "username": "storm123piglet",
+     "reviews": 2400,
+     "positive_feedback_in_percentage": 100
+    }
+   },
+   {
+    "title": "Pair of Brass Hurricane Glass Candle Lanterns - Indoor/ Outdoor",
+    "link": "https://www.ebay.co.uk/itm/820035555552?_skw=brass+hurricane+lantern&itmmeta=01M3RY1HQRZK5F1ACF50M208TQ&hash=itembeeded90e0:g:rG4AAeSw2ZtqigTI&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xD1wCpEHJhprl36gKj0ILntv%2B4e9mpZXFkQO%2FGQGNN5zO3NYxojT6BpZZDidFc0p0ljcggL4PZ7yW7Ft4wjS0qABmCvXWS4kP7Eszeg6mP8HK3a4%2BtT%2FTlqbbYleG0hqUipLSNOwwNg9ZFe9xENm%2F%2B4QtGhx4ImgYssGSFH%2B1TGH%2B4zatqk%2F4dni2KLfTjZR7h9fiVs8USsDjY0ONdE%2B5Ry8svWdEieGroFVbRfJLE2lfWlKYaiPKwfK0hIkop%2FJI0%3D%7Ctkp%3ABk9SR6ichp6eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=820035555552",
+    "product_id": "820035555552",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£47.08",
+     "extracted": 47.08
+    },
+    "shipping": {
+     "raw": "+£3.71 delivery",
+     "extracted": 3.71
+    },
+    "buying_format": "accepts_offers",
+    "buying_format_text": "or Best Offer",
+    "thumbnail": "https://i.ebayimg.com/images/g/rG4AAeSw2ZtqigTI/s-l500.webp",
+    "seller": {
+     "username": "littleone777",
+     "reviews": 8,
+     "positive_feedback_in_percentage": 100
+    }
+   },
+   {
+    "title": "Sziqiqi Hurricane Candle Holders for Pillar, 32cm H x 14.8cm D, Brass",
+    "link": "https://www.ebay.co.uk/itm/358861154313?_skw=brass+hurricane+lantern&itmmeta=01M3RY1HQS2VS7674F1JZXC7DM&hash=item538dcaa809:g:CacAAeSw0ttqawGD&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xCiW8kfC9ijZ2Np4kbtuNYvIMeE0BkXFQMfct8bTKpFOiiQUlwHg3Zq2D%2BPkOZjITRf1KXZyjf7%2FrIE%2FR4TtbpAUJbvSiW%2F0S%2BR5U51hjLa7ph20QqzGwRUmdo0rLGzO3ZvgE1VYBCXZhwXOQ4UVlzQIQE5hp4iITkjpHVfTDY%2Beix0XiZKClaAYWw7Dgqc%2BXLx57WXVmF%2FpcvkkTB3Ry7kZ3i%2Bh8l6Pi%2BbuXzC%2BT7dudzp2C6fCevIwt9oWFK7nj8%3D%7Ctkp%3ABk9SR6ichp6eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=358861154313",
+    "product_id": "358861154313",
+    "condition": "Brand new",
+    "price": {
+     "raw": "£64.78",
+     "extracted": 64.78
+    },
+    "shipping": "Free delivery in 2 days",
+    "returns": "Free returns",
+    "buying_format": "buy_it_now",
+    "buying_format_text": "Buy It Now",
+    "thumbnail": "https://i.ebayimg.com/images/g/CacAAeSw0ttqawGD/s-l500.webp",
+    "seller": {
+     "username": "ukhome-47",
+     "reviews": 4900,
+     "positive_feedback_in_percentage": 99.7
+    }
+   },
+   {
+    "title": "VINTAGE VAPALUX M320 WILLIS & BATES ENGLAND PARAFFIN OIL HURRICANE LANTERN #2",
+    "link": "https://www.ebay.co.uk/itm/278405209874?_skw=brass+hurricane+lantern&itmmeta=01M3RY1HQSE0KAVMW7RN61HW1F&hash=item40d23e5f12:g:Y40AAeSw~rVqtSys&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBPGt2hg%2Fg%2BOaeA3Yo4VIkUj4pVC9REX9GPxdkwEQ8qyCDdlfRVa1dQi9f1jqJ1cuiIVLQC5QUL8I3%2BSLOaY5S8rhJiJUsJpMOJmRuPzUCdB4l0QT5wUIKEPBMge1IIFa%2B7lBROS3vn2xBPHrOlAxKnjAhqCDc3d60oMLJW%2FBpQfrekKCg%2BTsI47Phxzs6Dx7TSOYZ8nIoYUBqKmOP0zFGu1vwfAtiCWRSrUR40nPSPO1KeadHwdPsaMRQ76eifS8scY0eoPTRXBU0AA3uYON6ZlfNmo6Y7EtLOgbWEgy0DKA%3D%3D%7Ctkp%3ABk9SR6ichp6eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=278405209874",
+    "product_id": "278405209874",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£44.59",
+     "extracted": 44.59
+    },
+    "shipping": {
+     "raw": "+£6.65 delivery",
+     "extracted": 6.65
+    },
+    "buying_format": "accepts_offers",
+    "buying_format_text": "or Best Offer",
+    "thumbnail": "https://i.ebayimg.com/images/g/Y40AAeSw~rVqtSys/s-l500.webp",
+    "seller": {
+     "username": "vintagebob-2",
+     "reviews": 3600,
+     "positive_feedback_in_percentage": 99.8
+    }
+   },
+   {
+    "title": "Brass Hurricane Lantern Nautical Kerosene Oil Lamp, Vintage Maritime Light",
+    "link": "https://www.ebay.co.uk/itm/398378373766?_skw=brass+hurricane+lantern&itmmeta=01M3RY1HQSRS1MPA873KR40KTF&hash=item5cc1339286:g:i7UAAeSwj2pqlS-q&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xC%2F3H%2FGo6k72Y%2BrX2su68JSEDwgDTBIB0gVJdiPXkyPZM8ZG4acgZfsBl0g34xtosenWMeSIv%2BeSe7en5UX20LM1y%2B%2BbEusoAyt4A%2FS1e0RXBIdsEWcBSfeDiuVJZ3Ssr%2BXlUbaggrYw29RSMq8Xwnrm4glnYQq7SNsEHYMWoSm0NGNCIiNndzUk68KnCDe5fo6R4JS5ObMIA0laatufhJqFF5L1Pa6OwcpanZXpdotQNbjvLdaTOam8FVYyPt0ZxM%3D%7Ctkp%3ABk9SR6qchp6eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=398378373766",
+    "product_id": "398378373766",
+    "price": {
+     "raw": "£84.85",
+     "extracted": 84.85
+    },
+    "shipping": "Free delivery",
+    "location": "from India",
+    "returns": "Free returns",
+    "buying_format": "buy_it_now",
+    "buying_format_text": "Buy It Now",
+    "thumbnail": "https://i.ebayimg.com/images/g/i7UAAeSwj2pqlS-q/s-l500.webp",
+    "seller": {
+     "username": "mughni",
+     "reviews": 89,
+     "positive_feedback_in_percentage": 100
+    }
+   },
+   {
+    "title": "Yankee Candle Gold Brass & Glass Lantern Candle Holder 27cm x 18cm Hurricane",
+    "link": "https://www.ebay.co.uk/itm/188876258938?_skw=brass+hurricane+lantern&itmmeta=01M3RY1HQSY2N29ND2SXSK3PWM&hash=item2bf9e6fe7a:g:OpcAAeSwRjVqmE4i&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDwkNSQG6p%2F09AOjvFu8YFwU4fMoOGYycR5GbOu31N7gY6UilBAYwUP2t17ZBUcH72hpGi2Mq1d06dhClCtQ6dnbFKN%2Bs05LAJFqJ7OcCIkQWdC6P7DqELYdMSS5kGl0hzOWLEStfSz3tgrCz0nFMmEp4gbPJfGMIxedDxbQlmHVLhY5PJX4nKLYeAyS7sI0f%2FnAKp4q5k2OJM%2Bpixg049NxCy3NBZ%2FdygO1ewLd7d4YrD%2F8Bq42QUd%2BJffEmteQsvFAKW1w3mSZzYQRFpTKvETM4gZ9bEIDVqPeOuweWAe%2Fg%3D%3D%7Ctkp%3ABk9SR6qchp6eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=188876258938",
+    "product_id": "188876258938",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£31.58",
+     "extracted": 31.58
+    },
+    "shipping": {
+     "raw": "+£5.15 delivery",
+     "extracted": 5.15
+    },
+    "buying_format": "accepts_offers",
+    "buying_format_text": "or Best Offer",
+    "thumbnail": "https://i.ebayimg.com/images/g/OpcAAeSwRjVqmE4i/s-l500.webp",
+    "seller": {
+     "username": "phililaa123",
+     "reviews": 4200,
+     "positive_feedback_in_percentage": 99.8
+    }
+   },
+   {
+    "sponsored": true,
+    "title": "Brass Ship Lantern Nautical Oil Lamp Maritime Home Decor Hurricane Light Gift",
+    "link": "https://www.ebay.co.uk/itm/397434789944?_skw=brass+hurricane+lantern&itmmeta=01M3RY1HQT24G66PTKRXBZN40F&hash=item5c88f5a038:g:x~QAAeSwdpZpT4qn&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBojzK87xNBEe0B1bcVdvm8KWQvGVitZWuXKfs1mHVebkmFp2Jqso0R1w6hqCsuT5vZ01NGsKFazSvWUHJdy0f7gkQ0uS8qE%2Fhb%2Bbp3IKJrfZOE%2Bxn6%2BUQRxqJvfpUJWA90mEq7DZeyZE2%2FRFFFXoOgD4OhIG0Nhyw2pC397QBrrkMxY1jC%2B%2BcLx4UVZAhhpMnvDlMlu5uTUDfnSzHDH1Ndw7gQXts2FiE0lxcgxs%2BRMJ05rn0h%2B1vQqYEAwUlQLrL9Y61RCHX5BXbvfr7tU%2FzLMn8c%2FE2qerdyViOgfbHK2g%3D%3D%7Ctkp%3ABFBMqpyGnp5o",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=397434789944",
+    "product_id": "397434789944",
+    "price": {
+     "raw": "£65.75",
+     "extracted": 65.75
+    },
+    "shipping": "Free delivery",
+    "location": "from India",
+    "returns": "Free returns",
+    "buying_format": "buy_it_now",
+    "buying_format_text": "Buy It Now",
+    "thumbnail": "https://i.ebayimg.com/images/g/x~QAAeSwdpZpT4qn/s-l500.webp",
+    "seller": {
+     "username": "mughni",
+     "reviews": 89,
+     "positive_feedback_in_percentage": 100
+    }
+   },
+   {
+    "sponsored": true,
+    "title": "Vintage Hurricane Candle Holder Brass Fitting Solid Walnut Base Storm Lantern",
+    "link": "https://www.ebay.co.uk/itm/117437665734?_skw=brass+hurricane+lantern&itmmeta=01M3RY1HQTP6V35V1Z9VD5H35J&hash=item1b57d491c6:g:KMYAAeSw5Ktphd5T&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDO0XOHf%2BPWF4rySUmpl3KCjJCepKHwI32qJe4xtkr5mymEi5LHV3wfX2nHlofvWP9jQjJM%2F2JNTurVE9%2BQG095u5FuTIyJLToUYn7x1n072hBz7Zyml85VY0qH4f6OmddLqRycbbhw8ZiyQ0cFGtOs9BVYmNzCTPO5%2F7kgxBv%2F71hb0rnuqaoX6SqhxuwrxiKyJGpDohiXjp2cnSWWUnMQ5M%2FApQloPHpGRedEQnsZYWIuNVGx50aiH4IGSVv%2FZA%2BQbcAhMy8TASDiWrGW3vG2TiKJskV4QczpprRSvf87hg%3D%3D%7Ctkp%3ABFBMqpyGnp5o",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=117437665734",
+    "product_id": "117437665734",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£188.94",
+     "extracted": 188.94
+    },
+    "shipping": {
+     "raw": "+£89.48 delivery",
+     "extracted": 89.48
+    },
+    "location": "from United States",
+    "buying_format": "buy_it_now",
+    "buying_format_text": "Buy It Now",
+    "thumbnail": "https://i.ebayimg.com/images/g/KMYAAeSw5Ktphd5T/s-l500.webp",
+    "seller": {
+     "username": "bayareatreasurehunter",
+     "reviews": 470,
+     "positive_feedback_in_percentage": 100
+    }
+   },
+   {
+    "sponsored": true,
+    "title": "Vintage Glass Hurricane Lanterns With Intricate Brass Base and Rim - 1 CRACKED",
+    "link": "https://www.ebay.co.uk/itm/127232128176?_skw=brass+hurricane+lantern&itmmeta=01M3RY1HQTAR7PQPNB2PRS1BF4&hash=item1d9fa034b0:g:aqgAAeSwUONodTuS&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCVwat3yLePou29tJJ7C7Cw4kkK11rM18D9HwTxBd2ULb6raGLH27v4tmln7h13npSZ5mz0YNbcdPN0BJXQgpVJnL2WllTZjaown0KkY4kd51a35xS3jQZqg22X253WdaunkvDFTTSwBdnMqVTu1vFBIa%2BsVEnkUfJXUB1yFBS3h2iNLVDZl0tOVMY2ejiC9X%2FYqfcuU3S6S%2BCOfTSD6qNcLjJRggH6laK9yG0euZTQJxolZcYbLauEwW0IgMWTEbP8BJSl5GnIfKKvu7676yWtiVzAQt12lNY7d3qY4mYMew%3D%3D%7Ctkp%3ABFBMqpyGnp5o",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=127232128176",
+    "product_id": "127232128176",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£62.58",
+     "extracted": 62.58
+    },
+    "shipping": {
+     "raw": "+£5.21 delivery",
+     "extracted": 5.21
+    },
+    "buying_format": "accepts_offers",
+    "buying_format_text": "or Best Offer",
+    "thumbnail": "https://i.ebayimg.com/images/g/aqgAAeSwUONodTuS/s-l500.webp",
+    "seller": {
+     "username": "joannascales",
+     "reviews": 717,
+     "positive_feedback_in_percentage": 100
+    }
+   },
+   {
+    "sponsored": true,
+    "title": "Laura Ashley Astaire Gold Hurricane Candle Holder Lantern Glass Brass Effect NIB",
+    "link": "https://www.ebay.co.uk/itm/267706436561?_skw=brass+hurricane+lantern&itmmeta=01M3RY1HQTEMWAMWKB9CZC6VDS&hash=item3e548c0bd1:g:HIUAAeSwPuhqOT1h&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCh5yO4N%2Bw08AwiAT2mGH12jELrVq5CxgZYZ7lL8wsEHmOZzBlN4i49qcyTgvxvEXGQ8kxZN7Jk67D3j2nLP3BAn66vCAzgh9Knm6U6ZL6paHbig5%2BLUyw30wkZqj59i7nJhw6cnRgK4%2F7jZylayUNCy2w%2BJ1JO0jWR%2FPVmlUF0rYFL%2FblSFSZjyHT7iUCHyGzgEVE8NsZeJL0yKxTgHfLQtHNbG0Ps5dWSC5eJIyZuC9II49iFTYMjt1QxHNFvKxn1lUoJyJ2Lk0LbLy5gC4fMHwSuGdLXMPXTUWlSNrda7w%3D%3D%7Ctkp%3ABFBMqpyGnp5o",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=267706436561",
+    "product_id": "267706436561",
+    "condition": "Brand new",
+    "price": {
+     "raw": "£39.85",
+     "extracted": 39.85
+    },
+    "shipping": {
+     "raw": "+£3.71 delivery",
+     "extracted": 3.71
+    },
+    "buying_format": "buy_it_now",
+    "buying_format_text": "Buy It Now",
+    "thumbnail": "https://i.ebayimg.com/images/g/HIUAAeSwPuhqOT1h/s-l500.webp",
+    "seller": {
+     "username": "dpet7711",
+     "reviews": 1000,
+     "positive_feedback_in_percentage": 100
+    }
+   },
+   {
+    "title": "Vintage Tilley X246B Paraffin Lamp Hurricane Lantern Kerosene Pressure Light",
+    "link": "https://www.ebay.co.uk/itm/278389141382?_skw=brass+hurricane+lantern&itmmeta=01M3RY1HQTEEJ9WC8N7SAPET18&hash=item40d1492f86:g:7FsAAeSwJE9pyBLL&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xBytV77ihGAlX9UCw2Xo9ZnbXAj7uo5jDF%2BXZ7a%2BrYDfccWbUdNlksGWwK8XuXWbE1%2FfK3m5lrYF1ll4O0c9tOZcwtgFWzPoGEuXSR8yITCHjSwYRa%2BWeG3MZKQW3mF08jRwuP8JfaEB%2FLxhO1TTl4Oj4%2FF4U4sEDUV7bTFuJ9o5OuKuXBcTeHBmVgevFZjiX8ocwpoEr%2By%2BtdVQpx9ZnECLxSml5YNL6KLcXUsefCuUniLD1azGaHorso%2FeF7ag80%3D%7Ctkp%3ABk9SR6qchp6eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=278389141382",
+    "product_id": "278389141382",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£29.80",
+     "extracted": 29.8
+    },
+    "shipping": "Free delivery in 3 days",
+    "buying_format": "accepts_offers",
+    "buying_format_text": "or Best Offer",
+    "thumbnail": "https://i.ebayimg.com/images/g/7FsAAeSwJE9pyBLL/s-l500.webp",
+    "seller": {
+     "username": "gorgo_uk",
+     "reviews": 10400,
+     "positive_feedback_in_percentage": 99.6
+    }
+   },
+   {
+    "title": "Candle Warmer Lantern Hurricane Retro Wax Burner Fragrance Vintage Brass - HLVB",
+    "link": "https://www.ebay.co.uk/itm/267381988793?_skw=brass+hurricane+lantern&itmmeta=01M3RY1HQVRNKXFDZ3VVJQC3SZ&hash=item3e41355db9:g:D2UAAeSw5Y9orw-b&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xAUk8Dp2eFplll3M4F5cCw8MhbyZInF3%2BF511YEwvnxqEc9MTpmpWUjXujVFoC1Tw65JeivK%2BgbjrveK4Qvet5yXOPCx%2Fyl17wFphmIxX7wl9mZPiC2kMNAdcY5aR3Zrs3JnJE7YDtJoUHenk1CBRdmvstJ%2Bn%2BCwmW9zI%2FHJE9fdte3FnP3wUk0AjnKYLMkb0zkCD%2FDZSzUjjz1C2Qs13xm6wzG37eehgkwyg4vTFIq%2FZHrr7q4pyaD3ZhlUIrzKpM%3D%7Ctkp%3ABk9SR6qchp6eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=267381988793",
+    "product_id": "267381988793",
+    "condition": "Brand new",
+    "price": {
+     "raw": "£29.99",
+     "extracted": 29.99
+    },
+    "shipping": "Free delivery in 3 days",
+    "buying_format": "buy_it_now",
+    "buying_format_text": "Buy It Now",
+    "thumbnail": "https://i.ebayimg.com/images/g/D2UAAeSw5Y9orw-b/s-l500.webp",
+    "seller": {
+     "username": "hartes.homestore.blackpool",
+     "reviews": 7900,
+     "positive_feedback_in_percentage": 100
+    }
+   },
+   {
+    "title": "Brass & Glass Mirrored Lantern Hurricane w/ Handle, Pillar Candle Holder, Rustic",
+    "link": "https://www.ebay.co.uk/itm/174764051545?_skw=brass+hurricane+lantern&itmmeta=01M3RY1HQVG5EMJ30CS59CWKZM&hash=item28b0bfcc59:g:PEgAAOSwoSxgmSJp&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAu78FxaRwOvl3CkoMQES7jIb1JM5wGWQbZAeyiqB9fYvZgs6WSH3QWSEbh4OYKlTLiw18GKxp14HbusJYBHhtWktTf6Z4xzX010STrCaFpb6e5ZizBE%2FU9%2FqYxIu9P56W%2FI8vkj6XKSEEjA8kEd3w9N8x2m3cOVNLlFocGFkO5RAAvHKAygefrJLwuMwifZ8fXP%2BwDroHNgahOJ0efctoq7v3yokwrU1yAanrQkMUxF%2Fu5IaT5S17rSxXkT%2FIVHH0TwM%2BjM6z35G07Mftl3LU7VaGovlDu3sz2jG7em0oNxQ%3D%3D%7Ctkp%3ABk9SR6qchp6eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=174764051545",
+    "product_id": "174764051545",
+    "condition": "Brand new",
+    "price": {
+     "raw": "£25.00",
+     "extracted": 25.0
+    },
+    "shipping": {
+     "raw": "+£5.30 delivery",
+     "extracted": 5.3
+    },
+    "stock_status": "Last one",
+    "watchers": "16 watchers",
+    "extracted_watchers": 16,
+    "buying_format": "buy_it_now",
+    "buying_format_text": "Buy It Now",
+    "thumbnail": "https://i.ebayimg.com/images/g/PEgAAOSwoSxgmSJp/s-l500.webp",
+    "seller": {
+     "username": "heavenly_homes_and_gardens",
+     "reviews": 22400,
+     "positive_feedback_in_percentage": 99.6
+    }
+   },
+   {
+    "title": "Antique 19th Century Brass Candlestick Holder Original Glass Hurricane Lantern",
+    "link": "https://www.ebay.co.uk/itm/146116175716?_skw=brass+hurricane+lantern&itmmeta=01M3RY1HQV6EXHF4TE5XJP0Z2K&hash=item220533e764:g:MB0AAeSwIexpbYt-&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xAtWk976nHLPyQtsodCFQ6%2FZXMsi5bHhniukrds1LZHlHu2%2BC6UgayjwUYGvZIbW5k0LGcX1tInPQd6n8rSxEp2%2FYQgbg21bMUAVf%2BIWOxQ%2BZ7yUWgS83kh5fphXKT8RenT90jaiD4MGkAaF%2FS4I0HFQLE%2F3gqH%2BFJ1hFCW8sp8rvhaYuHL%2F52TvHoPiY56%2FrQ6%2FIXQdrkE9hTMsd1kMB1%2FEapkRpaHT0YEsHzBHjgojQlvpH25NQ%2Bm9YboZWoVjrY%3D%7Ctkp%3ABk9SR6qchp6eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=146116175716",
+    "product_id": "146116175716",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£225.82",
+     "extracted": 225.82
+    },
+    "shipping": {
+     "raw": "+£48.84 delivery",
+     "extracted": 48.84
+    },
+    "location": "from United States",
+    "buying_format": "accepts_offers",
+    "buying_format_text": "or Best Offer",
+    "thumbnail": "https://i.ebayimg.com/images/g/MB0AAeSwIexpbYt-/s-l500.webp",
+    "seller": {
+     "username": "resaledallas",
+     "reviews": 1000,
+     "positive_feedback_in_percentage": 99.2
+    }
+   },
+   {
+    "title": "Candle Warmer Lantern Wax Burner Fragrance Hurricane UK Plug Choice of Colours",
+    "link": "https://www.ebay.co.uk/itm/266384053157?_skw=brass+hurricane+lantern&var=566200813567&itmmeta=01M3RY1HQVSHZ9R7R52VA3EV9Y&hash=item3e05ba13a5:g:FGoAAOSwl0Jk5eS~&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xDXbCKPdQI%2B8%2B4CFGNg3n4i6STXZBQyqC1Nps%2BFk0djhnwhb5U7FKp%2BqWoQ7zcFH6sOPEVmfGYFhgNwlE1kmOn00X0%2B3pWE5TUP5dGsnL69HWgqrt06RKYl4glXQdX4wH9CSR2FNiI3q7QfA27pOqw3Mel5uxXTFftfnboTma25YawaKUmNF4VZnYnkmoXOd0zQLQ%2B4mUmsEA2%2B8s%2BfoVFVloAMFGFNqLHM08NYW10XcvrvFHvKlqP0m%2FwkKxfcf78%3D%7Ctkp%3ABk9SR6qchp6eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=266384053157",
+    "product_id": "266384053157",
+    "condition": "Brand new",
+    "price": {
+     "raw": "£24.99",
+     "extracted": 24.99
+    },
+    "shipping": "Free delivery in 3 days",
+    "watchers": "5+ watchers",
+    "extracted_watchers": 5,
+    "buying_format": "buy_it_now",
+    "buying_format_text": "Buy It Now",
+    "thumbnail": "https://i.ebayimg.com/images/g/FGoAAOSwl0Jk5eS~/s-l500.webp",
+    "seller": {
+     "username": "hartes.homestore.blackpool",
+     "reviews": 7900,
+     "positive_feedback_in_percentage": 100
+    }
+   },
+   {
+    "title": "Sziqiqi Hurricane Candle Holders for Pillar, 32cm H x 14.8cm D, Brass",
+    "link": "https://www.ebay.co.uk/itm/398237713087?_skw=brass+hurricane+lantern&itmmeta=01M3RY1HQVQ1FPT28F58447KTW&hash=item5cb8d142bf:g:wtgAAeSwBDpqbcDf&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xAvlwQzgKoonBTdfXHYW1oe4eqrn05Slmy8PCtPWYcFIiQiJCA2fp%2FVICD9zY%2Fdune743o19eoXAGpddCJhauIavaJzuolMuSHzenGWUREm4YUmpqKnYh8LGiAPfUNZpbzWq7aPqaAv8kCiEDOBF8udv7XBiTXY8XTabvINnOu168MYUddVE29uDx9Yaz6a536o0Pvn5XB%2BA31w25k7hJfYDq9mrQX78mxgfu5shSXOJ3%2BCZ7IOMDxbACVPBRsHCyQ%3D%7Ctkp%3ABk9SR6qchp6eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=398237713087",
+    "product_id": "398237713087",
+    "condition": "Brand new",
+    "price": {
+     "raw": "£64.75",
+     "extracted": 64.75
+    },
+    "shipping": "Free next day delivery",
+    "returns": "Free returns",
+    "promotion": "£61.51 with coupon",
+    "buying_format": "buy_it_now",
+    "buying_format_text": "Buy It Now",
+    "thumbnail": "https://i.ebayimg.com/images/g/wtgAAeSwBDpqbcDf/s-l500.webp",
+    "seller": {
+     "username": "uk.primenest",
+     "reviews": 1600,
+     "positive_feedback_in_percentage": 99.7
+    }
+   },
+   {
+    "title": "Vintage Tilley / Hurricane / X246? Lamp / Storm Lamp",
+    "link": "https://www.ebay.co.uk/itm/236823404284?_skw=brass+hurricane+lantern&itmmeta=01M3RY1HQWZXK31C8QS4JYJSWY&hash=item3723c65efc:g:9gAAAeSwKDVqCxhw&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCzW07G2GFspCT0%2F7LqzJ6Gm%2FPsBVXHx2IJbxVt0j%2BKPCq%2BsPr%2Bp0kT7cNgbP5wSu12s0zjWFB1Hr0JK7jmqAioYVrfD2dt%2BKspfCLOQYgizQGTJRSQBpCePX1M8X9uvumRKhFtbbO2bqV6Cf2cu0WWw5kMxMntPbyuC%2Fb40jOQ7NZEuo9X9nGqCARrS6mqY5TrcuQ%2FuKkVAWU3e7ABg3eG9t0fHjWQatTMpHOnSgJVZTSUYiZRv%2FAOc1ELe1tP8T5KbKbZTGj5%2FF4fPYsgRshtIHOQNhvrG0PJRwCI09W%2FTg%3D%3D%7Ctkp%3ABk9SR6qchp6eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=236823404284",
+    "product_id": "236823404284",
+    "condition": "Parts only",
+    "price": {
+     "raw": "£22.00",
+     "extracted": 22.0
+    },
+    "shipping": {
+     "raw": "+£7.35 delivery",
+     "extracted": 7.35
+    },
+    "buying_format": "buy_it_now",
+    "buying_format_text": "Buy It Now",
+    "thumbnail": "https://i.ebayimg.com/images/g/9gAAAeSwKDVqCxhw/s-l500.webp",
+    "seller": {
+     "username": "*allsorts4all*",
+     "reviews": 4200,
+     "positive_feedback_in_percentage": 100
+    }
+   },
+   {
+    "title": "Vintage Storm Lamp Vapalux Model M.I. Willis Bates Hurricane Lamp No Glass",
+    "link": "https://www.ebay.co.uk/itm/318806278113?_skw=brass+hurricane+lantern&itmmeta=01M3RY1HQWDEVVWX4VASAW0A73&hash=item4a3a55bfe1:g:WHsAAeSw5V9qU3nn&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xCwFP2xPhao28fUQ2Yz5g1zXb8CurOU5%2FhxNDYH1xuZDvfywZM%2Fqs7GUazy5wAJCVtbj7FyfWfAh1XosVRvYiMay4OKXAwRCKVxYR5kqzFzkFxDnZFUjMlJoblulw1pfzTP3EXBecrKEQ244pV3RINt6cKa5%2B8PMIztwilBkYejTLZ9rTBB9eYnhN5Cv4UWb7FMoW5sm6uzVA7jjYIw9fNANHDekFZLYMqGiqsKtnYv5hPbrCd2RA6MgLfOImh7JxI%3D%7Ctkp%3ABk9SR6qchp6eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=318806278113",
+    "product_id": "318806278113",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£44.50",
+     "extracted": 44.5
+    },
+    "shipping": "Free delivery",
+    "returns": "Free returns",
+    "buying_format": "accepts_offers",
+    "buying_format_text": "or Best Offer",
+    "thumbnail": "https://i.ebayimg.com/images/g/WHsAAeSw5V9qU3nn/s-l500.webp",
+    "seller": {
+     "username": "am_465707",
+     "reviews": 883,
+     "positive_feedback_in_percentage": 99.9
+    }
+   },
+   {
+    "title": "Brass, heavy base, hurricane lantern base - 35 centimetres in diameter.",
+    "link": "https://www.ebay.co.uk/itm/394900123488?_skw=brass+hurricane+lantern&itmmeta=01M3RY1HQWN11MXFNV36ZGW6VB&hash=item5bf1e1af60:g:yX0AAOSwevxlEW~8&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xCLk%2FYt4l9A8LktPuxPCj%2BafhbCWWxwMyx4Nezls%2FWlUKvhLDSkqyRHGmjSZxkcmWX4gAzsfKO7plPOBdFqlpM%2FUDIV2ZxJSbZsDMAp8yN48m5nLoXexhpFLJF9olOQv5%2FrOBWox7oQmZgwnsQGSbRRnU8Vv0nquskjuKtToCvBpAigefSAxHiMj0QHVpf0WZLDC11VKBFBvJ7pOY7IXncAfokBRu9iiLZ4jZiVRqSwF5qtOX2NSQZRgndFVU8yRnw%3D%7Ctkp%3ABk9SR6qchp6eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=394900123488",
+    "product_id": "394900123488",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£31.58",
+     "extracted": 31.58
+    },
+    "shipping": {
+     "raw": "+£3.71 delivery",
+     "extracted": 3.71
+    },
+    "buying_format": "accepts_offers",
+    "buying_format_text": "or Best Offer",
+    "thumbnail": "https://i.ebayimg.com/images/g/yX0AAOSwevxlEW~8/s-l500.webp",
+    "seller": {
+     "username": "robbur-6000",
+     "reviews": 16,
+     "positive_feedback_in_percentage": 100
+    }
+   },
+   {
+    "title": "Vintage Silver Tilley Lamp Good Glass Storm Hurricane Fishing Camping Hiking",
+    "link": "https://www.ebay.co.uk/itm/227199922335?_skw=brass+hurricane+lantern&itmmeta=01M3RY1HQW2ZC12JWD0NER14ET&hash=item34e62bb09f:g:gQUAAeSwdwxpgOoo&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xAaS2bE%2ByO3J0MLpOrCWbLfTxZpobHn40iiMSYbHl6GhEELGLq%2BEnq2mR7JKFZaOxw2G2YLJ2DCVRGr%2FfImy8Ms7xWH3Eb3v--tbhFXN0e9ttDUi123qT6gYL5RfXjTi7XEG43%2BMIBIeFFonf2KOSMbmoYH3bubaxde2MKApncO%2Bm4MYXXjyMh3BQjplVV0l6rXOVh9parypzQJU59dTaUXSZZnGDUSXBUTYXComrc6TZiFpqHPrYIA0fsgwqHM6iI%3D%7Ctkp%3ABk9SR6qchp6eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=227199922335",
+    "product_id": "227199922335",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£34.98",
+     "extracted": 34.98
+    },
+    "shipping": "Free delivery",
+    "buying_format": "accepts_offers",
+    "buying_format_text": "or Best Offer",
+    "thumbnail": "https://i.ebayimg.com/images/g/gQUAAeSwdwxpgOoo/s-l500.webp",
+    "seller": {
+     "username": "spatzy12",
+     "reviews": 84000,
+     "positive_feedback_in_percentage": 99.2
+    }
+   },
+   {
+    "title": "Pair of Dansk Designs Brass Candle Holder with Glass Hurricane Lantern",
+    "link": "https://www.ebay.co.uk/itm/298441480838?_skw=brass+hurricane+lantern&itmmeta=01M3RY1HQW9YDBBBJYY30GDT9X&hash=item457c7f9a86:g:3KYAAeSw1~xqORlE&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xCzhQrUv4zMT6i0lUAgRMxsA1YGCMEwJEoB5n0j2Hr2LSkrOwAbZOonalg1ev0rUogGTsgtp8DIfU3TzC6AN0NKRNTJE3h5MX0kCAVRq7d3xa%2Bg%2BrHXaW83UBpT3B%2BcRTbzexq4v4bdO12ZPD%2FqhcAfckV29SOR%2F9p8B%2B9xEhhqMXop%2F0Ykn0IX%2Fbv7RM%2BasDlxTmcLvFbnX7bUVmgX5rFIBGnYkskH5BAjWBFXSD%2BicUTTOcfnGGQqEjVW6oA7ekM%3D%7Ctkp%3ABk9SR6qchp6eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=298441480838",
+    "product_id": "298441480838",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£45.34",
+     "extracted": 45.34
+    },
+    "shipping": {
+     "raw": "+£37.01 delivery",
+     "extracted": 37.01
+    },
+    "location": "from United States",
+    "buying_format": "buy_it_now",
+    "buying_format_text": "Buy It Now",
+    "thumbnail": "https://i.ebayimg.com/images/g/3KYAAeSw1~xqORlE/s-l500.webp",
+    "seller": {
+     "username": "gjagger",
+     "reviews": 11700,
+     "positive_feedback_in_percentage": 100
+    }
+   },
+   {
+    "title": "Vintage TILLEY X246B Paraffin Lamp Hurricane Kerosene Oil Pressure Lantern Light",
+    "link": "https://www.ebay.co.uk/itm/168137739793?_skw=brass+hurricane+lantern&itmmeta=01M3RY1HQXCRENPTJ0W3MXBDXE&hash=item2725ca4e11:g:39IAAeSwBk1pg7hn&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBgjvbgCdEJsiaqEptLcDO4LgSCQ08PeQhDVQv8jikxrswZ%2FzQQdqem0szjjjc%2BZPo9Fkc5FqgZr9esbBOJX%2FOq7gv6rEaYCdMwW5lZentegCYvBqYt7nPbGxGYro0IX6lAk7SoALeNxM0AVNUO6GMMXbCUvVMd1dREKRQsIYAsC91%2BftVhl5LUV7BUki9spt8r60AeF36JSsa8%2FORam2PcQjKUo4wKwMAGa%2BiTSdgNjL%2FA77LiwPSUcoi7ulaWd9SutJ%2BvutbguWXRSUCje5YzjRXg54f1Yly%2FjCfDFzxdoQ%3D%3D%7Ctkp%3ABk9SR6qchp6eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=168137739793",
+    "product_id": "168137739793",
+    "price": {
+     "raw": "£65.00",
+     "extracted": 65.0
+    },
+    "shipping": {
+     "raw": "+£7.99 delivery",
+     "extracted": 7.99
+    },
+    "buying_format": "buy_it_now",
+    "buying_format_text": "Buy It Now",
+    "energy_rating": "Energy Rating A+++",
+    "thumbnail": "https://i.ebayimg.com/images/g/39IAAeSwBk1pg7hn/s-l500.webp",
+    "seller": {
+     "username": "skoriy777",
+     "reviews": 7200,
+     "positive_feedback_in_percentage": 99.6
+    }
+   },
+   {
+    "sponsored": true,
+    "title": "VINTAGE BRASS HURRICANE LAMP – TIMELESS LANTERN GLOW – COLLECTIBLE & FUNCTION",
+    "link": "https://www.ebay.co.uk/itm/358372667267?_skw=brass+hurricane+lantern&itmmeta=01M3RY1HQX9TV8BTKEPK7NRKZC&hash=item5370acef83:g:q2cAAeSwmeNpuChx&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAsM0ad%2BUF5zbUxDH2fbzVPkIC1pqeMn13mIHpgfaEC%2BgR0iUaORlzomocIeLqVgZK16c1%2FNPoxS31%2BBugGI%2FAClknVQ6GReyJ%2FNbS0YsKfqAIbnP862e9kFUjRTiIqHM%2BXWHxF5Qs6vf3y0fU7c9qPdt%2BGbdNoWH62q8J5eGaqtUjtFwX3hDk1BErUaHoPGygB6UJ7R9pTUKHuqXK7Q0ITjuRkV41HUZutTHI4IvT3W9NMaLfTZ%2FE8w92750ZZt4V%2FJztRF0K41taECIL3sA%2BvuBKk2m1CaGxdOqPF9v0GQA%3D%3D%7Ctkp%3ABFBMqpyGnp5o",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=358372667267",
+    "product_id": "358372667267",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£42.00",
+     "extracted": 42.0
+    },
+    "shipping": {
+     "raw": "+£24.00 delivery",
+     "extracted": 24.0
+    },
+    "location": "from Canada",
+    "buying_format": "buy_it_now",
+    "buying_format_text": "Buy It Now",
+    "thumbnail": "https://i.ebayimg.com/images/g/q2cAAeSwmeNpuChx/s-l500.webp",
+    "seller": {
+     "username": "mamatiti_collectibles",
+     "reviews": 43,
+     "positive_feedback_in_percentage": 90.9
+    }
+   },
+   {
+    "sponsored": true,
+    "title": "VINTAGE BRASS HURRICANE LAMP – TIMELESS LANTERN GLOW – COLLECTIBLE & FUNCTION",
+    "link": "https://www.ebay.co.uk/itm/358427028235?_skw=brass+hurricane+lantern&itmmeta=01M3RY1HQX6BJKFQQTT91E8BXQ&hash=item5373ea6b0b:g:q2cAAeSwmeNpuChx&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDtNWMvDRobn6szRTDHZ5v5YoNlbhDQOd7vu2JHxcpt%2FBWJhD7tQMk9owLbnne46kZ%2BbDZiz%2FQbW2G9lSMCx6tLrYbQE%2FVj5yz3FotAuyrvE3cD2iE4Pwu7HKAq5WqmxFKaovxosdiB3%2FrJNpRQBM9cqobMaUSFhGX14MzqP2rfmYj3BJLQtmHLUBptAMXt8obTV6TTUT1XOPVUTFuMuZwUzmFWcxl4%2F12Y2KyPdjs4LlCaS%2F5C5ODdpBA2LYEBpbaoRP0Yfv91t1hpR1wMImfiDpgWcoEOffLJGDnRUGQ3Dw%3D%3D%7Ctkp%3ABFBMrJyGnp5o",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=358427028235",
+    "product_id": "358427028235",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£59.99",
+     "extracted": 59.99
+    },
+    "shipping": {
+     "raw": "+£24.00 delivery",
+     "extracted": 24.0
+    },
+    "location": "from Canada",
+    "buying_format": "accepts_offers",
+    "buying_format_text": "or Best Offer",
+    "thumbnail": "https://i.ebayimg.com/images/g/q2cAAeSwmeNpuChx/s-l500.webp",
+    "seller": {
+     "username": "mamatiti_collectibles",
+     "reviews": 43,
+     "positive_feedback_in_percentage": 90.9
+    }
+   },
+   {
+    "sponsored": true,
+    "title": "Hanging Oil Lamp Ships Lantern Home Decor Hurricane Home and Office Decor Lamp",
+    "link": "https://www.ebay.co.uk/itm/406712028875?_skw=brass+hurricane+lantern&itmmeta=01M3RY1HQXC5Y784D8YEPXMSAZ&hash=item5eb1ed0ecb:g:6LkAAeSwhIJp7Itz&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAEJ%2BrxYkAKUj8KPyW4BPlWMafIf1xQpySNATUg8%2BVtSkw2te5gRom8ZSiV3gdh6f7zJR8FuVibXg6wabN0Omgeh3b6%2BVMzj%2FPB8GLuRxz1YDYI7o5AaZLdMPgUX3me%2FQZL%2BK97jZuWumiAFWisrkb8b%2By7wv8srWgYnFYLzFejM7QB0psdGEDVQj4b30L0jnpvkQiY%2FPUcKuHh%2FRRhjrwlb9VWudUdGk9Pv9bVJedSVf%2Bdo6K5M5klgQBP%2BQJU83ZdWluwyv3X6cWpwuRAdqHDnvDLCuQGyyRM4KjvLxNJxw%3D%3D%7Ctkp%3ABFBMrJyGnp5o",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=406712028875",
+    "product_id": "406712028875",
+    "condition": "Brand new",
+    "price": {
+     "raw": "£52.79",
+     "extracted": 52.79
+    },
+    "shipping": {
+     "raw": "+£8.83 delivery",
+     "extracted": 8.83
+    },
+    "location": "from India",
+    "returns": "Free returns",
+    "buying_format": "accepts_offers",
+    "buying_format_text": "or Best Offer",
+    "thumbnail": "https://i.ebayimg.com/images/g/6LkAAeSwhIJp7Itz/s-l500.webp",
+    "seller": {
+     "username": "florencefas_0",
+     "reviews": 81,
+     "positive_feedback_in_percentage": 98.7
+    }
+   },
+   {
+    "sponsored": true,
+    "title": "Vintage Kerosene Lantern Hurricane Lamp Rising Sun Prabhakar Brand Brass Light \"",
+    "link": "https://www.ebay.co.uk/itm/188932374391?_skw=brass+hurricane+lantern&itmmeta=01M3RY1HQXYAT9CJDGR9Q7Z4VF&hash=item2bfd3f3f77:g:aOMAAOSwYQViwkJ2&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xD9DIOn%2Bqh1uUf%2FBlGMewrZTkyyfpgzwk78vU7%2BIWQtgp6B3MVdLwNm5q%2BsdWed5nYjGCMqUje4VdW7XFP2F8zTzboxsJA0r1m4KpT2hGz1UzIdbdhZH58YDBZml1w7jMkN4Johuz%2F%2Bwa%2Box1%2BgSgwAKBJoosBQTml30sv3VoLOArs4KbRkAqqrikfF0BNGfWBWd%2FfwGFzr49kcSAUi5KeZ5t16oxMK0wfuKxhH%2BEnZAm3H2WsziK6pbdxFhcLWXVhWp%2FTNuvL5lsSAQLg5K%2BX6%2FboOHE4jemDK0k8DX2QnDg%3D%3D%7Ctkp%3ABFBMrJyGnp5o",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=188932374391",
+    "product_id": "188932374391",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£135.15",
+     "extracted": 135.15
+    },
+    "shipping": "Free delivery",
+    "location": "from India",
+    "promotion": "£121.63 with coupon",
+    "buying_format": "accepts_offers",
+    "buying_format_text": "or Best Offer",
+    "thumbnail": "https://i.ebayimg.com/images/g/aOMAAOSwYQViwkJ2/s-l500.webp",
+    "seller": {
+     "username": "ishr2013",
+     "reviews": 3700,
+     "positive_feedback_in_percentage": 100
+    }
+   },
+   {
+    "title": "Vintage Storm Lamp Vapalux Model M.I. Willis Bates Hurricane Lamp TS1-2",
+    "link": "https://www.ebay.co.uk/itm/257558424661?_skw=brass+hurricane+lantern&itmmeta=01M3RY1HQY9FTCBGKMD3VGJZWT&hash=item3bf7adac55:g:o-0AAOSwwnpn-CqZ&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAsK9uIDMAZ%2B0KOvyPneyTHKxeKp1dCNmLupNdiWt%2BELeft3P2P2g0no%2B%2FvIdQvvE0cn3CmPte0vMij5rVBvuxOu1i4w29mfRAXWKP0CuneQDlZaZHL1USB0GxQ3tVX7y3daKlHdPb8KrsmEYYy8A8TEmx5ToaWA6vVzZbzR0Yb18XWaMJkyuflrcbZI1BGehhEfK2VhWFNWr9CyrR7INWJJFFPGWKQjEy6bvcw6L7jCkarATpziMbchg1GhcWWyhACbwYd%2B%2F8utFxF3uTm4qRuC55ImdLAHbByR%2B%2B0ShDuqA%3D%3D%7Ctkp%3ABk9SR6ychp6eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=257558424661",
+    "product_id": "257558424661",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£75.00",
+     "extracted": 75.0
+    },
+    "shipping": "Free delivery",
+    "buying_format": "accepts_offers",
+    "buying_format_text": "or Best Offer",
+    "thumbnail": "https://i.ebayimg.com/images/g/o-0AAOSwwnpn-CqZ/s-l500.webp",
+    "seller": {
+     "username": "kylo300",
+     "reviews": 1700,
+     "positive_feedback_in_percentage": 100
+    }
+   },
+   {
+    "title": "Shannon Crystal Lantern Hurricane Candle Holder Brass Base",
+    "link": "https://www.ebay.co.uk/itm/377440890298?_skw=brass+hurricane+lantern&itmmeta=01M3RY1HQYNH5VGZN0VFHDPWXQ&hash=item57e13aedba:g:E0sAAeSw-95qielJ&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xCTfCxIsp96eJsc6fqBK6mM6I5ZyVYuyospJkKnlP5wftvdUofX3ZDapKegYZ8Cx2ewSNop5qTGeiX5k1nrQmSjwO7ohHOZboIYvGc4RPSPLk%2F6r%2FH%2BheTSEFD48LSh1uvE4%2BFQONQmZ0yWiJqe8SDk82T1fhKxxVI0Ladwj9c1NZf6krR45sWOyeAWJggVL6pCM4%2Fdb%2FKO%2FsckO80Bzt%2BxQseeMyczQ6lMt0f75lRGvP7dUH8j85tIoB66sZExZH4%3D%7Ctkp%3ABk9SR6ychp6eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=377440890298",
+    "product_id": "377440890298",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£31.70",
+     "extracted": 31.7
+    },
+    "shipping": {
+     "raw": "+£30.31 delivery",
+     "extracted": 30.31
+    },
+    "location": "from United States",
+    "buying_format": "accepts_offers",
+    "buying_format_text": "or Best Offer",
+    "thumbnail": "https://i.ebayimg.com/images/g/E0sAAeSw-95qielJ/s-l500.webp",
+    "seller": {
+     "username": "barzyhouse",
+     "reviews": 673,
+     "positive_feedback_in_percentage": 99.7
+    }
+   },
+   {
+    "title": "Large and Small Gold Hurricane Lantern Set",
+    "link": "https://www.ebay.co.uk/itm/404421608591?_skw=brass+hurricane+lantern&itmmeta=01M3RY1HQY1S5D0SPPW24RAF1D&hash=item5e2968048f:g:DgUAAOSweQ1kzSan&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCyxKWyO2I40EKvBOhV19UkzjCAsuIMxwmP9fSG2CQe9pKsF2R4KTZ6O0vrhJDtgztiWjWV3ljxP7xlme5F1L42X9e5bwYGq0vE2CoxOaBm4W0DOBpz1fdoBs0SQA1U1p0lhZhctE07AdbfhRUJKpvqpu0jNGsRzk%2FrKypwZqYMSLkoQlc4OaIB2hy%2FkXBLTz2TrrABqh3Z4xy%2BfAQiaEtUDA71dLodBQ%2FQHw6qrN4Z0%2BzJaqeSbZ1pJfuBqg3EUcNVwoNjaQNR7DFDtSQBIkQnZbwLRvA5R3bs%2F%2BervkBlpA%3D%3D%7Ctkp%3ABk9SR6ychp6eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=404421608591",
+    "product_id": "404421608591",
+    "condition": "Brand new",
+    "price": {
+     "raw": "£361.42",
+     "extracted": 361.42
+    },
+    "shipping": {
+     "raw": "+£7.00 delivery",
+     "extracted": 7.0
+    },
+    "buying_format": "buy_it_now",
+    "buying_format_text": "Buy It Now",
+    "thumbnail": "https://i.ebayimg.com/images/g/DgUAAOSweQ1kzSan/s-l500.webp",
+    "seller": {
+     "username": "alcro_399",
+     "reviews": 143,
+     "positive_feedback_in_percentage": 100
+    }
+   },
+   {
+    "title": "ANTIQUE BRASS 15 LED HURRICANE LANTERN CAMPING TENT LIGHT FISHING LAMP - DIMMER",
+    "link": "https://www.ebay.co.uk/itm/335683329767?_skw=brass+hurricane+lantern&itmmeta=01M3RY1HQY3M63ERW8WHTZCP7V&hash=item4e28491ee7:g:XOQAAOSwSHxnPHz9&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAo4KZD4mmKwKCmQnCBLFWGZ%2FUTC1wPNxbD9DMh1vPRjYzS2zB7CLaMPiaXqxn8BzyDjkRqPgSPN2veWPunbDRz0ItisuKtsz4cJ9i0gyFnGgtihfOIALCKXvW1xu4N1%2B%2BZDmQhRQ4%2Bu4D3dXy%2BoxsB94aY2NLGQEisALY5Ph88XTb8iNCQ2f5hoDZGc9ZLuhYum8f9enS7%2BxC7O%2BgIfKfZMAc2NjYljLeMZkWEY1HpnezyD%2F4x%2BJMoUjV6X1yu5VNvh4njibqP82N9mxSSwsX2uj6CKMDG0wbfvvnGCrLwxseM5X24TJ9kNJYY%2FizASeY%3D%7Ctkp%3ABk9SR6ychp6eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=335683329767",
+    "product_id": "335683329767",
+    "condition": "Brand new",
+    "price": {
+     "raw": "£143.99",
+     "extracted": 143.99
+    },
+    "shipping": {
+     "raw": "+£2.95 delivery",
+     "extracted": 2.95
+    },
+    "watchers": "5 watchers",
+    "extracted_watchers": 5,
+    "buying_format": "buy_it_now",
+    "buying_format_text": "Buy It Now",
+    "thumbnail": "https://i.ebayimg.com/images/g/XOQAAOSwSHxnPHz9/s-l500.webp",
+    "seller": {
+     "username": "buy2celebrate",
+     "reviews": 14600,
+     "positive_feedback_in_percentage": 97.7
+    }
+   },
+   {
+    "title": "Brass Hurricane Glass Etched Glass Pair Of Candle Lamps 9\" Tall",
+    "link": "https://www.ebay.co.uk/itm/227474305198?_skw=brass+hurricane+lantern&itmmeta=01M3RY1HQY277AZN56BM6GWMJZ&hash=item34f68670ae:g:3v4AAeSwCYxqfdNv&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xAfZhC9g6Z3KhPdfcRvrAbpG%2BohKUVL1vNyLhpwL%2BHffg420g4%2Bt%2BC9n6AVTRVXvXrmBR14hZ2Y6CmQC%2BiQAUdWON4XUSI6dDgqJ6WkPcdQOAgOORlHJf2B1FT1wuPug4od7EFscfLA4GJPFpfpGQ1QD%2Fhyc0jQ0K4gt5YliSJHEXQ5AP%2BLDGw89cayDaU6HQETuDN1MBx0gKFeELa5R3kkxU7fb0M1WuCw6PPHU%2BDy8MYbO6JsUstGsMVBp8Nux8M%3D%7Ctkp%3ABk9SR6ychp6eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=227474305198",
+    "product_id": "227474305198",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£33.56",
+     "extracted": 33.56
+    },
+    "shipping": {
+     "raw": "+£34.01 delivery",
+     "extracted": 34.01
+    },
+    "location": "from United States",
+    "buying_format": "buy_it_now",
+    "buying_format_text": "Buy It Now",
+    "thumbnail": "https://i.ebayimg.com/images/g/3v4AAeSwCYxqfdNv/s-l500.webp",
+    "seller": {
+     "username": "sundayamkitchen",
+     "reviews": 766,
+     "positive_feedback_in_percentage": 99.8
+    }
+   },
+   {
+    "title": "Modern Hexagon Brass & Glass Candle Lantern Tabletop Hurricane Handle 10-12\"",
+    "link": "https://www.ebay.co.uk/itm/267771437494?_skw=brass+hurricane+lantern&itmmeta=01M3RY1HQZS8TRMTZF6DWEAKNQ&hash=item3e586be1b6:g:8e4AAeSwHQBqlHVZ&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDSnKr6TGDdYuE%2Bgc%2FR4bW79SCxpwtgRZrjE51mH52%2F6ILFPrs1r2Vvf5lE9K9wkL3kxll%2FRy6hXQyHHIo3GXOkV5e5YZNRByCcRdr0tVK7cBGi9%2FD4puilt5qaZ4yaWnA5aVC7IyqRx23FPnd%2FBjWHnkb4EN8wLixlmDWzm5xNw0HKdI%2BEQHZVHdZGSljdNril0481YgSkIjZv4m7uwDBGBN2M4uUxAsKA0Mbhy6cqJ3IbFUxph5DLfxhuIeaV1403QXxX00pFJRyieYhz9reWvYbBGmAmTvl8%2F5pY0IMkGw%3D%3D%7Ctkp%3ABk9SR6ychp6eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=267771437494",
+    "product_id": "267771437494",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£16.32",
+     "extracted": 16.32
+    },
+    "shipping": {
+     "raw": "+£28.54 delivery",
+     "extracted": 28.54
+    },
+    "location": "from United States",
+    "buying_format": "accepts_offers",
+    "buying_format_text": "or Best Offer",
+    "thumbnail": "https://i.ebayimg.com/images/g/8e4AAeSwHQBqlHVZ/s-l500.webp",
+    "seller": {
+     "username": "katien4646",
+     "reviews": 199,
+     "positive_feedback_in_percentage": 100
+    }
+   },
+   {
+    "sponsored": true,
+    "title": "Set of 2 Antique Brass Lantern Pedestal Candle Holders – 9x25",
+    "link": "https://www.ebay.co.uk/itm/117434927679?_skw=brass+hurricane+lantern&itmmeta=01M3RY1HQZ20E4E2DS14TR16J1&hash=item1b57aaca3f:g:pFIAAeSwMRJpFJdD&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBxYs7iUiDZo5VuULjWJvQ4ZRmwvVoMBk8NV%2F3WjvgxUVvjSWroSnmIiytwv6NKPUpk6XrDkxV9Er6k3nDnmfA%2F8lEsr%2B6qZh7QSz0t7YNlTsvFsvvK%2BYET9vqNOa0uSxt8xdw6I37skfc7quVUScyxX6VOItoZxLkX540vs9NScuOKjRCK%2FU50qx1fPP56RJzxjicQvCnue0HSppVApLBmd5w9%2FGjAGs8vqGMYDKbSI4rlV58j9W4kSf9KODa%2FDyH%2BOczVQi0n2dRRJfe9O%2BHV4zxFa%2FuXUAwF0jDC87hmcg%3D%3D%7Ctkp%3ABFBMrJyGnp5o",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=117434927679",
+    "product_id": "117434927679",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£181.38",
+     "extracted": 181.38
+    },
+    "shipping": {
+     "raw": "+£74.14 delivery",
+     "extracted": 74.14
+    },
+    "location": "from United States",
+    "buying_format": "accepts_offers",
+    "buying_format_text": "or Best Offer",
+    "thumbnail": "https://i.ebayimg.com/images/g/pFIAAeSwMRJpFJdD/s-l500.webp",
+    "seller": {
+     "username": "24_coleman",
+     "reviews": 545,
+     "positive_feedback_in_percentage": 98.4
+    }
+   },
+   {
+    "sponsored": true,
+    "title": "Antique Marine Lantern Brass Clear Glass Hurricane Lamp Globe Coastal Decor",
+    "link": "https://www.ebay.co.uk/itm/357208807498?_skw=brass+hurricane+lantern&itmmeta=01M3RY1HQZPKZ92Y3H7H8A1200&hash=item532b4dd84a:g:6HUAAeSw6GRoXsAo&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDr7UJ59dlLNRZyHIQSSmszdkrwxRyHhSIuSRNO3H67BcBNg6lUjc8AVd5aj0pQgon2LNQd6jBt5pJ1lvB1ud66t4zOIw2pSQ08fE%2BVz1zyPsZXojUpAKbEXR%2FAY3pqgLDxO050YX6m%2BlvUUUhTA%2Fz9bwPbOOXW10FXF4pM8B9kGAkWCuDPHyPHu6XHIGq%2Fzr8CRA7mSlQFU%2BKvgEu5kzVEP%2Fid6OZhV1ohfHeOrFnRE6j%2FQdgjyaOSSMEgAZZlRT2u93MBAp22fF97%2FqXoDBZyN4IqgjTj7A5C12SLskmmcw%3D%3D%7Ctkp%3ABFBMrJyGnp5o",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=357208807498",
+    "product_id": "357208807498",
+    "price": {
+     "raw": "£36.27",
+     "extracted": 36.27
+    },
+    "shipping": {
+     "raw": "+£38.85 delivery",
+     "extracted": 38.85
+    },
+    "location": "from United States",
+    "buying_format": "accepts_offers",
+    "buying_format_text": "or Best Offer",
+    "thumbnail": "https://i.ebayimg.com/images/g/6HUAAeSw6GRoXsAo/s-l500.webp",
+    "seller": {
+     "username": "scomil_16",
+     "reviews": 2900,
+     "positive_feedback_in_percentage": 100
+    }
+   },
+   {
+    "title": "Solid Brass Hurricane Candle Holder Lantern w/ Glass Chimney Vintage",
+    "link": "https://www.ebay.co.uk/itm/267786640738?_skw=brass+hurricane+lantern&itmmeta=01M3RY1HQZ5R44RC86WPY6C4A7&hash=item3e5953dd62:g:wo8AAeSwlOZqYVJo&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xD%2B%2FTgVv0t%2BBMTkoxurxOSI0LpEkI7OA4U0MwXg8cHxk0NrfNyot4dJF9O%2BtypVsKAkP5SZE2OqcJVAcoecMTV%2FRA5tRN8XgRyfYmVOESR4lKdYUmCh7rIfoCWFElmB9zxdOZPVODT42PffMaEe6OAKg84D%2BzXrgy2%2BkQMbIy3VJdsOBU3sfmRVtPnT9OsscZy59p2a%2Fyy3uUITj0YCLPV9bWAi0UbRLzQTNjFWOhVceQuFshBdWBd1v6B9YgPUIQA%3D%7Ctkp%3ABk9SR6ychp6eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=267786640738",
+    "product_id": "267786640738",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£54.41",
+     "extracted": 54.41
+    },
+    "shipping": {
+     "raw": "+£34.14 delivery",
+     "extracted": 34.14
+    },
+    "location": "from United States",
+    "buying_format": "buy_it_now",
+    "buying_format_text": "Buy It Now",
+    "thumbnail": "https://i.ebayimg.com/images/g/wo8AAeSwlOZqYVJo/s-l500.webp",
+    "seller": {
+     "username": "krazy_findz",
+     "reviews": 1400,
+     "positive_feedback_in_percentage": 99.8
+    }
+   },
+   {
+    "title": "Vintage Coppercraft Guild Hurricane Lamps Candle Holders Copper & Brass",
+    "link": "https://www.ebay.co.uk/itm/257569656459?_skw=brass+hurricane+lantern&itmmeta=01M3RY1HR027PWRT3RPW17R9XE&hash=item3bf8590e8b:g:Ee4AAeSwav5qMYhm&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xDPVEnuNEWQzECtH5gWHrr9eaKa%2B5FokratbBvTyTxVMzHJ3JWLRJwK46A4MMvitH%2BTnIQitVc6WJ2dpQUpqgWv26M5PJtnHPdHRQK%2FAnG6CZjna91MMDiCjMK1k%2F%2Bm0pt0chzlc7gDhU0o4iOzhXnXZgLAE2si%2Bssn2a4KjcCKSpxWERlxxvF5x0IJcEMJYkky%2FYVZjzoTvL4zGp2eVZldBFvCc4xj%2B4gke2p2uLWReqSun1h33Vhc0ljxcZBRgSA%3D%7Ctkp%3ABk9SR6ychp6eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=257569656459",
+    "product_id": "257569656459",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£49.88",
+     "extracted": 49.88
+    },
+    "shipping": {
+     "raw": "+£31.91 delivery",
+     "extracted": 31.91
+    },
+    "location": "from United States",
+    "buying_format": "buy_it_now",
+    "buying_format_text": "Buy It Now",
+    "thumbnail": "https://i.ebayimg.com/images/g/Ee4AAeSwav5qMYhm/s-l500.webp",
+    "seller": {
+     "username": "cindrobinso53",
+     "reviews": 1000,
+     "positive_feedback_in_percentage": 100
+    }
+   },
+   {
+    "title": "vintage brass hurricane candle holder",
+    "link": "https://www.ebay.co.uk/itm/358531560722?_skw=brass+hurricane+lantern&itmmeta=01M3RY1HR0FM47EG3FP7G85WT6&hash=item537a257512:g:Y2wAAeSwFG1p~Tmx&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xDgZBzPy5e6FWTQsCmMxO4cu91ydERb67mfPqH%2B3BT1XDduWXb5y7MWTCDd3gCR3FPcfw3V2HmtB6qiN%2BHNQWCtq2H0ZOWy2mWM90yN3A3GiwTnmbtPe5bX2SszlRKgywmX33dUKjSuyTQSW9W%2BzRy1aYcAbrMPKpmPALQbpfl8jvVhImd18wub4f69LauAVx5gMzOCLmTU2elib0Efife7xK5d1OL%2FRgWJa00hWAd3gyYW8kvNK3mfMBFlgr9i9Oo%3D%7Ctkp%3ABk9SR6ychp6eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=358531560722",
+    "product_id": "358531560722",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£32.02",
+     "extracted": 32.02
+    },
+    "shipping": {
+     "raw": "+£30.38 delivery",
+     "extracted": 30.38
+    },
+    "location": "from United States",
+    "buying_format": "accepts_offers",
+    "buying_format_text": "or Best Offer",
+    "thumbnail": "https://i.ebayimg.com/images/g/Y2wAAeSwFG1p~Tmx/s-l500.webp",
+    "seller": {
+     "username": "al-450875",
+     "reviews": 197,
+     "positive_feedback_in_percentage": 100
+    }
+   },
+   {
+    "title": "Hurricane Glass Candle Holder, Large Brass Lanterns Hurricane Candlestick Holder",
+    "link": "https://www.ebay.co.uk/itm/227363978571?_skw=brass+hurricane+lantern&itmmeta=01M3RY1HR0PHRZ1GHJN15W5MNK&hash=item34eff2fd4b:g:6KUAAeSwUjNpuwtB&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDvqekapfhd9JLY2bONEL7QGrUCfQl1U010wEAeGftXN6MrKKjhzxRaBm14moQm35SYPHShQGtDW6GIV8xa5O2vL%2FOonZjg6O%2BTLwtXiRN5qQUvXX1%2BMRNynyfXRY8j6cQRtCGtC0wTs7vS6ugBtaAHG1%2B7p1r8BXGpxyf%2F0oKGN%2BzGy5RQVbHMAQsg0kvJVtKZfynL9p0ZLjCm0wjucv8UP7j48GRfcuFRCa%2FhKKWyapsetchf5RQ9rnJ%2BK%2BtmKZjUsIzArk3%2Fggeuf6pKgCifqw57GxC9jkPNDvBWmKOg0w%3D%3D%7Ctkp%3ABk9SR6ychp6eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=227363978571",
+    "product_id": "227363978571",
+    "condition": "New (other)",
+    "price": {
+     "raw": "£17.19",
+     "extracted": 17.19
+    },
+    "shipping": {
+     "raw": "+£8.49 delivery",
+     "extracted": 8.49
+    },
+    "location": "from United States",
+    "buying_format": "buy_it_now",
+    "buying_format_text": "Buy It Now",
+    "thumbnail": "https://i.ebayimg.com/images/g/6KUAAeSwUjNpuwtB/s-l500.webp",
+    "seller": {
+     "username": "shopstocked",
+     "reviews": 13500,
+     "positive_feedback_in_percentage": 99.5
+    }
+   },
+   {
+    "title": "Spiegel Vintage Brass Wall Lantern Wall Mount Hurricane Candle Holder",
+    "link": "https://www.ebay.co.uk/itm/376253684637?_skw=brass+hurricane+lantern&itmmeta=01M3RY1HR0C0GGF8XJ3HP0D68S&hash=item579a779b9d:g:bWEAAeSwrhFpGhhK&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCf--RY7ElAcNHFa5ij7LVPBOAJ6sic074CoAAAdY1UxBqhRev%2FUd4dFF5hKEhizj0YHUnc%2FMXhGM%2BNg%2BhR85nuNNbYIDUL5JlhHVmTxsTPDJRKdrvnSGFI5fdzTUVigWhZJjsN2H1APBQAkHS%2B3RhgloXxKCQ3eZcrinxOmO7tpeSfpQbISNzuXwPecDBifjEyvZ0vA6j2yiBiE3GvXIp00FtkKFvPLqkhf8q2coRlHmVKO6BsjLmzmUD8iKfduZY%2BOjv7o5FLhgxbiYF8ehZoi6X2VSatEqFRITqrjj64Mg%3D%3D%7Ctkp%3ABk9SR6ychp6eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=376253684637",
+    "product_id": "376253684637",
+    "condition": "New (other)",
+    "price": {
+     "raw": "£36.27",
+     "extracted": 36.27
+    },
+    "shipping": {
+     "raw": "+£18.83 delivery",
+     "extracted": 18.83
+    },
+    "location": "from United States",
+    "stock_status": "Last one",
+    "watchers": "4 watchers",
+    "extracted_watchers": 4,
+    "buying_format": "buy_it_now",
+    "buying_format_text": "Buy It Now",
+    "thumbnail": "https://i.ebayimg.com/images/g/bWEAAeSwrhFpGhhK/s-l500.webp",
+    "seller": {
+     "username": "remys_revival",
+     "reviews": 616,
+     "positive_feedback_in_percentage": 100
+    }
+   },
+   {
+    "title": "Vintage Baldwin Forged in America Brass Hurricane Candle Holder Glass Chimney",
+    "link": "https://www.ebay.co.uk/itm/800636826742?_skw=brass+hurricane+lantern&itmmeta=01M3RY1HR08M20N30F004EF5XZ&hash=itemba69ac7476:g:vhMAAeSwu~9qKEuF&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDFom0FcIuBR7fqiRBc%2FAZZ4NhvYFGq7ng3tMJ2CeOQ8%2FINDAs1iDaGps1IF%2F9gxgohvXYOPVKzYhTCInilv2dY15M1hjpBpV8%2BZ5GO4y8qk01iMwlbOhTfn%2BRbJBwc7pV%2BebKVQqijszuC4QwWScUasUKl9cP%2Bja2JFOelGLXnrzblOJIabDGduMZuOM0pTtU0%2BFzUmcaLFrA9CNTIlByO4XtWm0rlVtCeOjV2NJXLKKLSwL4PBLnjaBT%2F4tPIGW5ZKhqz5zZshqqHQwCvCv4jHM6%2BAHRHwqc9BlEqbtqzFw%3D%3D%7Ctkp%3ABk9SR6ychp6eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=800636826742",
+    "product_id": "800636826742",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£45.30",
+     "extracted": 45.3
+    },
+    "shipping": {
+     "raw": "+£34.87 delivery",
+     "extracted": 34.87
+    },
+    "location": "from United States",
+    "buying_format": "accepts_offers",
+    "buying_format_text": "or Best Offer",
+    "thumbnail": "https://i.ebayimg.com/images/g/vhMAAeSwu~9qKEuF/s-l500.webp",
+    "seller": {
+     "username": "thriftyfinds247",
+     "reviews": 2000,
+     "positive_feedback_in_percentage": 100
+    }
+   },
+   {
+    "title": "Vintage HS&B Co Brass Hurricane Lantern Electric Railroad Lamp O.V.B.",
+    "link": "https://www.ebay.co.uk/itm/178398161646?_skw=brass+hurricane+lantern&itmmeta=01M3RY1HR0VZNASJ0DM5F7E391&hash=item29895beaee:g:xj4AAeSw~U1qDDVN&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBL3oxvs8gBgnRTy5Xzbgxacys0OUaL8xpSmmX5oxF1Y1xezQX3tYFm3522hRtPAqWBfPXeigw82J8RJPgbw9EfMoDBJD3GbRvuoadyi9w0xvIVxifIyzsOGkb%2BzWjpupYGPWygUIImEI12LihX2eRkdpHrE0D8HU5O%2BB0Rhah2%2FA6%2Fym09R9X8gWQF84ZpUItd62YmBdXrpylkecOwc43orYlU1eiITr%2BRnC0rk0XaMq4z7J%2FhN4Q7ef%2BjyxVGWIwqelaTqnO1i4XqyfTW8zubKpkNiGDUw4jabreMv7hxkQ%3D%3D%7Ctkp%3ABk9SR6ychp6eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=178398161646",
+    "product_id": "178398161646",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£146.87",
+     "extracted": 146.87
+    },
+    "old_price": {
+     "raw": "£136.00",
+     "extracted": 136.0,
+     "discount": "£146.87"
+    },
+    "shipping": {
+     "raw": "+£36.81 delivery",
+     "extracted": 36.81
+    },
+    "location": "from United States",
+    "returns": "Free returns",
+    "buying_format": "accepts_offers",
+    "buying_format_text": "or Best Offer",
+    "thumbnail": "https://i.ebayimg.com/images/g/xj4AAeSw~U1qDDVN/s-l500.webp",
+    "seller": {
+     "username": "mackeysworld",
+     "reviews": 13900,
+     "positive_feedback_in_percentage": 99.8
+    }
+   },
+   {
+    "title": "Set Wood Brass Hurricane Lantern Wall Candle Sconce Pair Vintage",
+    "link": "https://www.ebay.co.uk/itm/396394243841?_skw=brass+hurricane+lantern&itmmeta=01M3RY1HR19JTMAGKTMQHJY40H&hash=item5c4af02701:g:3HEAAOSw4~BjGf3n&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xCLPHNRRcIuN2e1kjpPNXhYhW2%2FF98VEwaalHKAMYES3mirpZpY%2FmRuxB12jy0flbV0pWWKfOy0YME8TPHkEaFmdS8BUzGWLlD62rANE8sYGxbn0AhSTpef9P5DxukPMEDnO7ciyeqFGKedCDQ20q4BNcEdrgPJKFXVrDdB%2BtcJhUInIae3NPMQWUiz2oqyl6jp2d3YAQQqKMGTUcrHMmQhUIPHABYR5WVmuPcHWjWikft3Wys1tInN6DIM1HwMPdQ%3D%7Ctkp%3ABk9SR6ychp6eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=396394243841",
+    "product_id": "396394243841",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£31.74",
+     "extracted": 31.74
+    },
+    "shipping": {
+     "raw": "+£27.81 delivery",
+     "extracted": 27.81
+    },
+    "location": "from United States",
+    "buying_format": "accepts_offers",
+    "buying_format_text": "or Best Offer",
+    "thumbnail": "https://i.ebayimg.com/images/g/3HEAAOSw4~BjGf3n/s-l500.webp",
+    "seller": {
+     "username": "purplegoose25",
+     "reviews": 1100,
+     "positive_feedback_in_percentage": 99.6
+    }
+   },
+   {
+    "title": "Vtg Villeroy Boch Gallo Design Blue Glass Brass Caged Hurricane Lantern Vase MCM",
+    "link": "https://www.ebay.co.uk/itm/117373006773?_skw=brass+hurricane+lantern&itmmeta=01M3RY1HR1JP8PDPAGSK3RPTVN&hash=item1b53f9f3b5:g:OlIAAeSw~1RpkjJj&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAdujG90pcQYJRNdy3UUZPnGuytc2ofh30wU7Nq3xbb2ogZoOTImqVpzvQ6m4%2B%2Fz7KF%2FATXDL5SOCaSo96SwB34P%2BhNkdObGCQ04zJZaPISrNdqrJ1LfaH1lUm8IyQUUe1vtBw8gN45W321o%2B%2FEiFFHwwI9yU%2FrtVK6%2FNvtYlYKdaxnxikzvaqh7GaN0N7%2FA26ZbEjHag9LD2EKpkBZOSKRWQWUf8ubO1oE5whSqPJKgxmOXLjtw85KSu1bpZwXtXR8MTTtolfxFuq4%2BNaiyk3nJfXnwQu3PJQmZv24i4gmEUPxx8bJPQHkvNoA5Szi1r4%3D%7Ctkp%3ABk9SR6ychp6eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=117373006773",
+    "product_id": "117373006773",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£100.63",
+     "extracted": 100.63
+    },
+    "shipping": {
+     "raw": "+£34.51 delivery",
+     "extracted": 34.51
+    },
+    "location": "from United States",
+    "buying_format": "accepts_offers",
+    "buying_format_text": "or Best Offer",
+    "thumbnail": "https://i.ebayimg.com/images/g/OlIAAeSw~1RpkjJj/s-l500.webp",
+    "seller": {
+     "username": "grumpy19701",
+     "reviews": 1700,
+     "positive_feedback_in_percentage": 100
+    }
+   },
+   {
+    "title": "Hurricane Lanterns Anchor Oil Lamp Farmhouse, Home Decor",
+    "link": "https://www.ebay.co.uk/itm/116563366167?_skw=brass+hurricane+lantern&itmmeta=01M3RY1HR182FZJ4MTPN0H6B5R&hash=item1b23b7d117:g:ZpsAAeSw9Rtn~9zr&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAAPG3Hdjt2AII6%2BxWd5izNXW9ybfm45Kr2OGfdT1vG1xeA0iC60DQwVUS%2Bd%2FA6A6e2JFnNV0HwBAHfzptAYq7t9TeThdcj9mCyjpjVZtreNbiUKnEGrdFnp7kcQbAuh9qCaxKTVZ4BTGflUJu4tvHabSF4htuelRWjinAfnPvRi0k13%2BzAMGCjupeKKtT6cZfh%2FV8%2Fiob8ZprZmIjxYMI1iMt8EwBnAIJX9Mpf0CkdM1XQ8wDG%2F2r61PHJ1xSju3kmtgDxvd%2FRsB0x0OTL1%2FcsvcYtkyiQicx3uH9gpnTAVA%3D%3D%7Ctkp%3ABk9SR66chp6eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=116563366167",
+    "product_id": "116563366167",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£91.52",
+     "extracted": 91.52
+    },
+    "shipping": {
+     "raw": "+£4.27 delivery",
+     "extracted": 4.27
+    },
+    "buying_format": "accepts_offers",
+    "buying_format_text": "or Best Offer",
+    "thumbnail": "https://i.ebayimg.com/images/g/ZpsAAeSw9Rtn~9zr/s-l500.webp",
+    "seller": {
+     "username": "jenniferr4231",
+     "reviews": 25,
+     "positive_feedback_in_percentage": 91.3
+    }
+   },
+   {
+    "title": "Electric Lantern Table Lamp for bedrooms Vintage Style Ship Hurricane Lamp Black",
+    "link": "https://www.ebay.co.uk/itm/206479345985?_skw=brass+hurricane+lantern&itmmeta=01M3RY1HR1SB1QG88EX4MBHCZ4&hash=item301320c941:g:Qx4AAOSwPI9nCP05&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCH17KyMYYEq078XP6CPdkV3qn2nyFMD%2Bs80m7szxHg%2Bb4Icg52DFKOlPWQ0w1lh8LMsT2hOyxdw8qaWFk558Vx2U%2FI4WjmMzhLFjcE1qoV2%2FEleAJ8yImbXFlQb8aAQ2svIyOgyksUf513XoxWmgN2TSRg4GfvjEDlNdx%2FAjPpjj1Pzhr0HftPUL%2FXZM8wdknbhGEInmyXmc8weituQToeujwWDnFid8cU4I5xaS0FeQAvIRSTD1yPHWuErU7P%2BJN4MP5U9x%2FZUZwlAwyCPKjOzUnJ3kmgpK5bMPrJw7NcvA%3D%3D%7Ctkp%3ABk9SR66chp6eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=206479345985",
+    "product_id": "206479345985",
+    "condition": "Brand new",
+    "price": {
+     "raw": "£82.63",
+     "extracted": 82.63
+    },
+    "shipping": "Free delivery",
+    "location": "from India",
+    "returns": "Free returns",
+    "buying_format": "buy_it_now",
+    "buying_format_text": "Buy It Now",
+    "thumbnail": "https://i.ebayimg.com/images/g/Qx4AAOSwPI9nCP05/s-l500.webp",
+    "seller": {
+     "username": "armourshop2015",
+     "reviews": 649,
+     "positive_feedback_in_percentage": 95
+    }
+   },
+   {
+    "title": "Vintage 18\" Baldwin Solid Brass USA Hurricane Candlestick Holder Glass Shade",
+    "link": "https://www.ebay.co.uk/itm/407163069886?_skw=brass+hurricane+lantern&itmmeta=01M3RY1HR1ABFZKK4VD4QGG4P7&hash=item5ecccf65be:g:npgAAeSwNXNqicpj&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xCp%2FFVxeEDyv4%2BJgB7fPRelCNcudBdrS%2F6QbziDXagi0zCk81BaEej0BKWDTDO5kgwPFGlgzlSjewS34wSntBJjzdPyl99%2Bnbk2dsZ6aOc%2BchdVnBn%2Bm2UEo4OWnXcN%2BtbUuNoPwpC6wXeIFZ4jTVpT1mHOZYKHsHlyjGs3yJwl9Wm09qNi9ZDMpUZtr8BgLvzGrLDb%2F0pCZD%2BhtN7tSNpits7SCE3hCagsx1A%2FRzrGEvmM%2B2suAyL2uC3S6UbpFkM%3D%7Ctkp%3ABk9SR66chp6eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=407163069886",
+    "product_id": "407163069886",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£54.37",
+     "extracted": 54.37
+    },
+    "shipping": {
+     "raw": "+£30.46 delivery",
+     "extracted": 30.46
+    },
+    "location": "from United States",
+    "buying_format": "buy_it_now",
+    "buying_format_text": "Buy It Now",
+    "thumbnail": "https://i.ebayimg.com/images/g/npgAAeSwNXNqicpj/s-l500.webp",
+    "seller": {
+     "username": "ten_o_nine",
+     "reviews": 7500,
+     "positive_feedback_in_percentage": 99.8
+    }
+   },
+   {
+    "title": "Vintage Brass Chamber Candlestick Holder Amber Glass Hurricane Votive Shade￼",
+    "link": "https://www.ebay.co.uk/itm/820073373496?_skw=brass+hurricane+lantern&itmmeta=01M3RY1HR26VMV9Z2NDZGTQMRD&hash=itembef02e9f38:g:LLsAAeSw2rlp9OAP&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xC6BpxFbL2Lfra6R1qcjdmqIPGCgMvD4GQcKkKcS3Ojy5f3qd4MhCO%2B4vDH886wf4faX9zkBASW2KnCQWaJwUsqFrTAaOmQklp%2BolRCgHM5Pa%2FmT8aLyDz4AUxEKClrzpGmYSnCVdszk9krXKsEA8V%2FGLOnlG4Yf08GF%2BsJhT7Y%2Bzf7H6u43grK1OdnKZ8f2cOpEDPJZHTFdhOvUg%2BJxWzyJMDEUKPWLYoGoUscQRIgZ4VMToHR7r7gS1Ck02UqhL1GfUhaChVMD9wMMLOSoYiTUXzRmlSsW2owQHWiOasq9w%3D%3D%7Ctkp%3ABk9SR66chp6eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=820073373496",
+    "product_id": "820073373496",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£26.29",
+     "extracted": 26.29
+    },
+    "shipping": {
+     "raw": "+£17.34 delivery",
+     "extracted": 17.34
+    },
+    "location": "from United States",
+    "buying_format": "accepts_offers",
+    "buying_format_text": "or Best Offer",
+    "thumbnail": "https://i.ebayimg.com/images/g/LLsAAeSw2rlp9OAP/s-l500.webp",
+    "seller": {
+     "username": "missy2633",
+     "reviews": 281,
+     "positive_feedback_in_percentage": 100
+    }
+   },
+   {
+    "title": "Vintage Decorative Crafts Inc. Brass And Glass Hurricane Ship/Train Lantern",
+    "link": "https://www.ebay.co.uk/itm/197906772262?_skw=brass+hurricane+lantern&itmmeta=01M3RY1HR2Y7A1MCY2ZDV22PDJ&hash=item2e1429b126:g:ilQAAeSwysppKgWG&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAjmLwZcNywqxPG1RC%2B39IRXOlbuRFVQoo%2FjDZQS%2BV5rHinii0x8ot4kM1b%2F57kV0dJSDK%2FwtSPbwp2LsjSjDcchGzq8i5V7f%2FQKPXDCbSmWd4BhvTkuWqIw68NCTsBVBEcjXtVfz3EBE6hi9DZ71IcICQwbzAy5kD2dmflgCupNzIPV7VKgukNjWNZtqRcRiMJ0yESOWVVuPIPg4eMC6V%2BEeTH9cz1WhlmY50jvd01Ohqv83hyuzYPLQ1J3xnquOsgc9U7Of7hvRpP%2FxslxdMy8JHUuyjjW8v3iJQquw5r9w%3D%3D%7Ctkp%3ABk9SR66chp6eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=197906772262",
+    "product_id": "197906772262",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£72.54",
+     "extracted": 72.54
+    },
+    "shipping": {
+     "raw": "+£53.42 delivery",
+     "extracted": 53.42
+    },
+    "location": "from United States",
+    "buying_format": "accepts_offers",
+    "buying_format_text": "or Best Offer",
+    "thumbnail": "https://i.ebayimg.com/images/g/ilQAAeSwysppKgWG/s-l500.webp",
+    "seller": {
+     "username": "jespo1202",
+     "reviews": 543,
+     "positive_feedback_in_percentage": 100
+    }
+   },
+   {
+    "title": "Vintage Pair 1940s Brass GlassHurricane Candlestick Iridescent Amber Shade Lamps",
+    "link": "https://www.ebay.co.uk/itm/298134555078?_skw=brass+hurricane+lantern&itmmeta=01M3RY1HR2AVN2EMS0ZNS4FJYX&hash=item456a3449c6:g:AaQAAeSwfUJpucez&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xBFmrzkxWMGcZHXZFtMGH85wFQ8fAJqMbKfvhailuwClqDJAO0muP1Xu8ePaR5Lzje0gaxcMLMW4GrFZ%2FHDkxYt02xbLPlFojsuz0svGxihRyZGQaKDjsLeg2MbnaE1EBzienGh5QD0F8Ab2vVl2SCj5dlSEw3RfIk7UHDWG0%2FDlELHE030uThTcq7gJaFsL3zOloWe6eRstf1wqsn3pqQPKrU4oR4pwnCpf3WMjNDmKK3c86N4FF4E%2BYLqjCNgrzM%3D%7Ctkp%3ABk9SR66chp6eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=298134555078",
+    "product_id": "298134555078",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£131.50",
+     "extracted": 131.5
+    },
+    "shipping": {
+     "raw": "+£80.34 delivery",
+     "extracted": 80.34
+    },
+    "location": "from United States",
+    "buying_format": "buy_it_now",
+    "buying_format_text": "Buy It Now",
+    "thumbnail": "https://i.ebayimg.com/images/g/AaQAAeSwfUJpucez/s-l500.webp",
+    "seller": {
+     "username": "moulinr_62",
+     "reviews": 615,
+     "positive_feedback_in_percentage": 100
+    }
+   },
+   {
+    "title": "Vintage Brass Hurricane Lantern Wall Lamp, Nautical Ge1",
+    "link": "https://www.ebay.co.uk/itm/177940502749?_skw=brass+hurricane+lantern&itmmeta=01M3RY1HR2XYPDC4RS7VNGJNYW&hash=item296e1498dd:g:ehMAAeSw9ehpdoFo&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xA3%2FyldTqp1mTIL5IH50UyIXdXT2S4dWw4%2FT726QNJkn%2Bqn2QVV0VT1EeYo5bAHNzzmq8tSWF3Qbno4uNtERBX8sRlTtI9s7TB71%2BwNjOpUU9%2Ffiv--hV8UmUEWGe4rHP1USnpmu03ynD9JT%2FgK6Z0jaLp0V%2FOdPZFeDZRDhWnsdjszmibe8mLLp5phIfEgt0DROfvdOczUMnxAc7DIpnVvLGfm7SSombvOVLYcpGNXkKKEw%2F5ULdE%2BpLNhJR83TkOnaGj7DU05lur%2FrtP8eRsGvyVoanDbtgBzP8DaxzbNpg%3D%3D%7Ctkp%3ABk9SR66chp6eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=177940502749",
+    "product_id": "177940502749",
+    "price": {
+     "raw": "£90.68",
+     "extracted": 90.68
+    },
+    "shipping": {
+     "raw": "+£54.41 delivery",
+     "extracted": 54.41
+    },
+    "location": "from United States",
+    "buying_format": "buy_it_now",
+    "buying_format_text": "Buy It Now",
+    "thumbnail": "https://i.ebayimg.com/images/g/ehMAAeSw9ehpdoFo/s-l500.webp",
+    "seller": {
+     "username": "brosasin-0",
+     "reviews": 12100,
+     "positive_feedback_in_percentage": 99.3
+    }
+   },
+   {
+    "title": "Vintage Candlestick Hanging Hurricane Lantern - Metal With Brass Accents",
+    "link": "https://www.ebay.co.uk/itm/287148226126?_skw=brass+hurricane+lantern&itmmeta=01M3RY1HR20W6ZKJ8MG88PHM90&hash=item42db5e364e:g:knwAAeSw1KlplMnL&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBnwiIRDJZX7CD1HZVas1altl3svr%2F6MbvimRPlzJmHYnXPNxKO9foBOSH28hqsjd7TkU501z8aftWMGEIVEzr18GbPDPV8VFygrJl%2Bn005lLOaHdAYI9Glda00fe7QDQJKWJ875lx%2BRFUn7OcbnVE9CwUHpAc67UR4ECw9vWFUZ1p6CzDpY7baajLWoGk5SUKXRXZ4abAox2fD2BqWU2DP9k4Xu3tAd0hEPUbibzmF0QSkqIB0pJTkJE4tDHwq3K0pONr6fWCs43XwfXyMACStguirIj3o87jJYfqyZ8iEPw%3D%3D%7Ctkp%3ABk9SR66chp6eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=287148226126",
+    "product_id": "287148226126",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£18.13",
+     "extracted": 18.13
+    },
+    "shipping": {
+     "raw": "+£16.93 delivery",
+     "extracted": 16.93
+    },
+    "location": "from United States",
+    "buying_format": "accepts_offers",
+    "buying_format_text": "or Best Offer",
+    "thumbnail": "https://i.ebayimg.com/images/g/knwAAeSw1KlplMnL/s-l500.webp",
+    "seller": {
+     "username": "erwill4197",
+     "reviews": 90,
+     "positive_feedback_in_percentage": 100
+    }
+   },
+   {
+    "title": "Vintage Brass Glass Hexagon Candle Lantern Hinged Door Hurricane Holder 8.5in",
+    "link": "https://www.ebay.co.uk/itm/128009647712?_skw=brass+hurricane+lantern&itmmeta=01M3RY1HR3B1V7CDHN9EC1RKNJ&hash=item1dcdf83660:g:FKUAAeSwEChqce84&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDPJBbolbHjP%2BlKSnRP4RzEdMXX5uKPfKr4pP%2F%2Bfrbiz03NHCOvCa1CvnnEgtUcpZYoFEYHP0jW41r67LHCCvsHUmHtLsKgDKnyCBzN%2BP5BEYouc0CBN8XJiQckdVK6%2F35c4puRT21OXqsUqjIiQBgi14nF%2B5X%2BRoba3ZuqIs8sPbvqcCLkI3EF4fNh7evqEAOJCXdCdlNO03zc%2BjnR%2FUx1jUbQATw0ljNUPDr6Lw34uMMN2WvjP3jF22tMiEl82qiijszofg4RWRnuOGG32Q2Q4PLCA3iUm%2FN6bv4XtcMExg%3D%3D%7Ctkp%3ABk9SR66chp6eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=128009647712",
+    "product_id": "128009647712",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£43.53",
+     "extracted": 43.53
+    },
+    "shipping": {
+     "raw": "+£22.86 delivery",
+     "extracted": 22.86
+    },
+    "location": "from United States",
+    "buying_format": "accepts_offers",
+    "buying_format_text": "or Best Offer",
+    "thumbnail": "https://i.ebayimg.com/images/g/FKUAAeSwEChqce84/s-l500.webp",
+    "seller": {
+     "username": "classicdank",
+     "reviews": 989,
+     "positive_feedback_in_percentage": 100
+    }
+   },
+   {
+    "sponsored": true,
+    "title": "Antique Candle Hurricane Lamps Wood Base Glass Shade and brass fitting 1900’s",
+    "link": "https://www.ebay.co.uk/itm/178333586457?_skw=brass+hurricane+lantern&itmmeta=01M3RY1HR3Q5VZ076C4Y56GHTY&hash=item2985829419:g:EcIAAeSwzOhqYGKQ&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBJRXvjqILow0WucBKBS6KZfKy2OUl0KTKd3SprXsFftk2VjTdmrgAfIpppN5hT44mVnfNgm2cAbMxX%2BtVrWHZtUvCVpPnVFGu3X2Q%2BK0yGuzpyVSweYbY4UR8vCNaJnOp2vaGn4BTB7bB7zIRBtQvMbRpKYc5RPcinGnPlQ1%2BO8J2YZ%2FAp9SpD%2BS2ig9kyKWVUNUYL8Vewg3xR1h6%2FwKdxdBFItqsX61fmX7z2Rd%2FJeFQF26Q9mOjvyuUA3w%2FaMpmJ5t8TP8XH8o0YK2pF6DrbSrkgtX9ntOZVqgbhwOcyxQ%3D%3D%7Ctkp%3ABFBMrpyGnp5o",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=178333586457",
+    "product_id": "178333586457",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£133.31",
+     "extracted": 133.31
+    },
+    "old_price": {
+     "raw": "£158.71",
+     "extracted": 158.71,
+     "discount": "£133.31"
+    },
+    "shipping": {
+     "raw": "+£41.52 delivery",
+     "extracted": 41.52
+    },
+    "location": "from United States",
+    "buying_format": "accepts_offers",
+    "buying_format_text": "or Best Offer",
+    "thumbnail": "https://i.ebayimg.com/images/g/EcIAAeSwzOhqYGKQ/s-l500.webp",
+    "seller": {
+     "username": "moderat87",
+     "reviews": 463,
+     "positive_feedback_in_percentage": 99.8
+    }
+   },
+   {
+    "sponsored": true,
+    "title": "Vintage 1960's Brass Hurricane 6\" Candle Lamp",
+    "link": "https://www.ebay.co.uk/itm/326760124193?_skw=brass+hurricane+lantern&itmmeta=01M3RY1HR31V71H1PV1H3AKS2J&hash=item4c146bcf21:g:lKEAAeSwku9ouxUy&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDBeDH9W3fgYDmCxzI5AfeqUBwRjqh%2BNGUacioi7YIfC9LYGJysWrg86XJqhpofZf93HIKiRgbpNP%2FJ%2FGF1bZ%2F323C3zEdz6r6jFP89sOnSHK%2BUBi1n8p6%2FY0sWfQHnx7CscYygUhp1ZXnowTKd6b1OCE0G%2FlIgRRJYJdU1X5qILJuV%2Bi4bN7TxEYA2QS9eVrqcb8KT19lmGoUbp5Lmz%2BRBCNdxuKZFH6e6KTlFjB3ZDqMfAeo56uS6f%2BUsuQKEbKdjJxcyqTMd%2BlcVGJObC%2FPL8aFDvZ896CUj8iDQde4Jwg%3D%3D%7Ctkp%3ABFBMrpyGnp5o",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=326760124193",
+    "product_id": "326760124193",
+    "condition": "Brand new",
+    "price": {
+     "raw": "£31.74",
+     "extracted": 31.74
+    },
+    "shipping": {
+     "raw": "+£19.91 delivery",
+     "extracted": 19.91
+    },
+    "location": "from United States",
+    "buying_format": "accepts_offers",
+    "buying_format_text": "or Best Offer",
+    "thumbnail": "https://i.ebayimg.com/images/g/lKEAAeSwku9ouxUy/s-l500.webp",
+    "seller": {
+     "username": "bbmountainpickers",
+     "reviews": 233,
+     "positive_feedback_in_percentage": 99.5
+    }
+   }
+  ],
+  "inline_results": [
+   {
+    "title": "Quality pre-owned picks",
+    "subtitle": "Exceptional finds, exceptional savings | Sponsored",
+    "items": [
+     {
+      "title": "Brass & Glass Hanging Lantern Candle Holder Display Hurricane Lamp Mirror Base",
+      "link": "https://www.ebay.co.uk/itm/298717548970?_skw=brass+hurricane+lantern&itmmeta=01M3RY1HS7RPXMSSGVMX9RWG0G&hash=item458cf411aa:g:anMAAeSwpLBqkFd0&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCB72Q0IuRHT4bFu6kciphlYyhgzGZl7q%2B3q1dLwTeYSTz3F9s6iOy29luyIe8qLh7rW80bfRev3%2BwL3TfPFo4lzWhEr6XHUUGMvlyeilor3zsuap45BM5TkWtYWXJfpPFBx1M9mrEsxWZbX7PcqwxC404DQX7wD6Dp24PZ2%2BHWBxsHJvM0TDLpUYdYUdswD4v9bWgKWYzBohheUkK6Wf9MqMOlPHjvatmht2HxxVCf%2F8o5vBWI1KdXEFKeIC2uun4iQ1klj96zO2TethN5dS0yZJEC0ikHFhChZhulZHzxmg%3D%3D%7Ctkp%3ABFBMhJ2Gnp5o",
+      "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=298717548970",
+      "product_id": "298717548970",
+      "price": {
+       "raw": "£34.99",
+       "extracted": 34.99
+      },
+      "shipping": {
+       "raw": "+£8.99 delivery",
+       "extracted": 8.99
+      },
+      "condition": "Pre-owned",
+      "thumbnail": "https://i.ebayimg.com/images/g/anMAAeSwpLBqkFd0/s-l500.webp"
+     },
+     {
+      "title": "Yankee Candle Gold Brass & Glass Lantern Candle Holder 27cm x 18cm Hurricane",
+      "link": "https://www.ebay.co.uk/itm/188876258938?_skw=brass+hurricane+lantern&itmmeta=01M3RY1HS74768GZFND0Y110SQ&hash=item2bf9e6fe7a:g:OpcAAeSwRjVqmE4i&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDyzsNn4PsILdp8mlsYYQeRH9YNGxyTTmkpZkbl%2BBENuLEk3cIuTRS2TPy4%2BcvqXYyYv7ZlLKczBAiaAEFSzPE7IiwmER%2BqUI1NpaXnum4372Nd3%2Bwd3mHsTI7xaq52QEUhvpSusNqiUBZ7k%2BF12fYDOEj38xQfjj2KO6fI1%2BvKssYl1LFTZgIeLXx9EkW1zASUyNCGZr3dyukC0aggl3FCw6u4ANe29tbDo4Vn3%2BnwOkqbK1DzQSgY%2B3Zk6p%2FMTsUXk4%2FqEkvGLuYoEkhFeUl%2FpOf5m3j%2BDdEKzArsCEXU0Q%3D%3D%7Ctkp%3ABFBMhJ2Gnp5o",
+      "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=188876258938",
+      "product_id": "188876258938",
+      "price": {
+       "raw": "£31.58",
+       "extracted": 31.58
+      },
+      "shipping": {
+       "raw": "+£5.15 delivery",
+       "extracted": 5.15
+      },
+      "condition": "Pre-owned",
+      "thumbnail": "https://i.ebayimg.com/images/g/OpcAAeSwRjVqmE4i/s-l500.webp"
+     },
+     {
+      "title": "Vintage Hurricane Lamp Candle Brass 12 Inch High",
+      "link": "https://www.ebay.co.uk/itm/267770622205?_skw=brass+hurricane+lantern&itmmeta=01M3RY1HS75TTNVDJK6V3VJJNV&hash=item3e585f70fd:g:lP8AAeSwXyxqkwWn&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDikLSI7hwxgNISiOYNkPBAEtr83F17Z527tH8c1UqlmbjnB41JQncuOqYKHc%2FnDNGoeM2rsgNMdfepcf%2B0fMzkemmT44YN4jXEbMviiJPB2i%2Flta%2BnhV0THMLCtL1ftjjyzN9bQlueg%2F1eo8HvJmKthEnA95aey4kuXGj7AyGCGF%2FWb06UbiOFy7NUC7TlzL1%2BT45U1uWMv1VlKWwUdISMqrUCjc52YmaZn6MRCINVnPH0lrQCoB2a70R7B9Ff1GJcBt09BpSdHVdsWoqaFzt8UVoepHc2rrzJ96lbb0nhAQ%3D%3D%7Ctkp%3ABFBMhJ2Gnp5o",
+      "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=267770622205",
+      "product_id": "267770622205",
+      "price": {
+       "raw": "£18.13",
+       "extracted": 18.13
+      },
+      "shipping": {
+       "raw": "+£39.00 delivery",
+       "extracted": 39.0
+      },
+      "condition": "Pre-owned",
+      "thumbnail": "https://i.ebayimg.com/images/g/lP8AAeSwXyxqkwWn/s-l500.webp"
+     },
+     {
+      "title": "HOBNAIL Milk Glass Hurricane PARLOR LANTERN Electric Vintage 50's 60's",
+      "link": "https://www.ebay.co.uk/itm/117402412440?_skw=brass+hurricane+lantern&itmmeta=01M3RY1HS79DV52HJ9NDSBZGB1&hash=item1b55baa598:g:nf8AAeSw--9qFS1A&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xA95AYY1UZpJYjwGtvkJrVzBSwSjp4ctvN69aTx1lJ4iGeQK%2FO6DjARjU4d7MVtpattFsi0u6ldqXVKbERglpCoDh2Ep2YLV%2FEYcogcSYxwtkCkXpWXOJuBfouUPVHQg9p8TVrWB2bGdaNTggLMmbZgVvuBuQYYXE4fLj4xZlOS6FhHhv8NC9f0T0QyMDH6K5jNDNUq34unBhhGTwv4kX4Dnpmv8gOuGq1kBg7Wh9LmDazG5Cx8B4WCkqNVKQFVmlnV1Mdsc7q4%2F6yen%2FreuVZQs84z3jeFfUX%2FlAhJy3MNRw%3D%3D%7Ctkp%3ABFBMhJ2Gnp5o",
+      "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=117402412440",
+      "product_id": "117402412440",
+      "price": {
+       "raw": "£31.53",
+       "extracted": 31.53
+      },
+      "shipping": {
+       "raw": "+£44.91 delivery",
+       "extracted": 44.91
+      },
+      "condition": "Pre-owned",
+      "thumbnail": "https://i.ebayimg.com/images/g/nf8AAeSw--9qFS1A/s-l500.webp"
+     },
+     {
+      "title": "Brass and Glass Hurricane Candle Holder",
+      "link": "https://www.ebay.co.uk/itm/304994097983?_skw=brass+hurricane+lantern&itmmeta=01M3RY1HS77J7ZH0XSZWZ6QKER&hash=item4703109b3f:g:L5AAAOSwPIJklNFg&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDeIruV5cUNdsdfnbcMUZ4dzvep9gqyQ%2F%2B8HpAv198UFNsh7scKknLVG9UKvNmNMeHD1d1XtuxBMGX1ycvoAp2qG%2FPaKNlA1gS5xpe1ReFUSz2CO972Sjf7COXecMIDSeezc%2F1tQZZ1KSCvABN%2Fkm9JAozrLehZ2Ed6UZvpZk1h22XoXSqEtntRt%2FOXyxypfi9Mdc6PK216RXKx3PCSsnNMbBLm7%2FqtEsnOPSzX%2BEPFHsJO7sfDwopbM8%2FFeSd4Ht0Vd8wg0xrZ1cJ3yj9GyN65yXzZx2143Q777I%2BB1EJWMQ%3D%3D%7Ctkp%3ABFBMhJ2Gnp5o",
+      "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=304994097983",
+      "product_id": "304994097983",
+      "price": {
+       "raw": "£22.63",
+       "extracted": 22.63
+      },
+      "shipping": {
+       "raw": "+£36.32 delivery",
+       "extracted": 36.32
+      },
+      "watchers": "14 watchers",
+      "extracted_watchers": 14,
+      "condition": "Pre-owned",
+      "thumbnail": "https://i.ebayimg.com/images/g/L5AAAOSwPIJklNFg/s-l500.webp"
+     },
+     {
+      "title": "Solid Brass Hurricane Candle Holder Lantern w/ Glass Chimney Vintage",
+      "link": "https://www.ebay.co.uk/itm/267786640738?_skw=brass+hurricane+lantern&itmmeta=01M3RY1HS7CDATZYWS8MDEHA55&hash=item3e5953dd62:g:wo8AAeSwlOZqYVJo&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCk0uMCQwRxG%2BHIz0jAe80WqROOxF42ZfTCE7tkJPq5%2F6y3wauH9MUZV6GC3juxFozD4%2BbXhBk9y8qZMRzXmEJkZiglXroTUUKniXAPQNPz9ZkpSnNmoK2gHd8QEsJM9gBz%2BSBc2RJRfPLCZZscKcje%2FRiMuQZsXFhLZGWHTAkKCvkHWehP1iHx9ytiaIusv8yFFTPZf4MM5mXh3g7eAVEBTmEwInFL%2FSE59Rqr8z9KTwjtrROjUfL5KMMaUti9oK%2FI7yK%2BbD6ndQto5oqzpx%2B1DNjoVpu77S%2BqR9pv56eEoA%3D%3D%7Ctkp%3ABFBMhJ2Gnp5o",
+      "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=267786640738",
+      "product_id": "267786640738",
+      "price": {
+       "raw": "£54.41",
+       "extracted": 54.41
+      },
+      "shipping": {
+       "raw": "+£34.14 delivery",
+       "extracted": 34.14
+      },
+      "condition": "Pre-owned",
+      "thumbnail": "https://i.ebayimg.com/images/g/wo8AAeSwlOZqYVJo/s-l500.webp"
+     }
+    ]
+   }
+  ],
+  "pagination": {
+   "current": 1,
+   "next": "https://www.ebay.co.uk/sch/i.html?_nkw=brass+hurricane+lantern&_pgn=2",
+   "other_pages": {
+    "1": "https://www.ebay.co.uk/sch/i.html?_nkw=brass+hurricane+lantern&_pgn=1",
+    "2": "https://www.ebay.co.uk/sch/i.html?_nkw=brass+hurricane+lantern&_pgn=2",
+    "3": "https://www.ebay.co.uk/sch/i.html?_nkw=brass+hurricane+lantern&_pgn=3",
+    "4": "https://www.ebay.co.uk/sch/i.html?_nkw=brass+hurricane+lantern&_pgn=4",
+    "5": "https://www.ebay.co.uk/sch/i.html?_nkw=brass+hurricane+lantern&_pgn=5&rt=nc"
+   }
+  },
+  "serpapi_pagination": {
+   "current": 1,
+   "next_link": "https://serpapi.com/search.json?_nkw=brass+hurricane+lantern&_pgn=2&ebay_domain=ebay.co.uk&engine=ebay",
+   "next": "https://serpapi.com/search.json?_nkw=brass+hurricane+lantern&_pgn=2&ebay_domain=ebay.co.uk&engine=ebay",
+   "other_pages": {
+    "1": "https://serpapi.com/search.json?_nkw=brass+hurricane+lantern&_pgn=1&ebay_domain=ebay.co.uk&engine=ebay",
+    "2": "https://serpapi.com/search.json?_nkw=brass+hurricane+lantern&_pgn=2&ebay_domain=ebay.co.uk&engine=ebay",
+    "3": "https://serpapi.com/search.json?_nkw=brass+hurricane+lantern&_pgn=3&ebay_domain=ebay.co.uk&engine=ebay",
+    "4": "https://serpapi.com/search.json?_nkw=brass+hurricane+lantern&_pgn=4&ebay_domain=ebay.co.uk&engine=ebay",
+    "5": "https://serpapi.com/search.json?_nkw=brass+hurricane+lantern&_pgn=5&ebay_domain=ebay.co.uk&engine=ebay"
+   }
+  }
+ }
+}

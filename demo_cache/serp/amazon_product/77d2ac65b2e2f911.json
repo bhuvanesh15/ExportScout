@@ -1,0 +1,959 @@
+{
+ "engine": "amazon_product",
+ "params": {
+  "asin": "B07TXQ49RZ",
+  "amazon_domain": "amazon.co.uk"
+ },
+ "fetched_at": "2026-09-30T10:34:10+00:00",
+ "data": {
+  "search_metadata": {
+   "id": "6abce5950ccffb6c5f6b9b25",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/zOaDKXOVt4ddAsUjNF-PzCijN1Z93vPnSo5g5vbb5UI/6abce5950ccffb6c5f6b9b25.json",
+   "markdown_endpoint": "https://serpapi.com/searches/zOaDKXOVt4ddAsUjNF-PzCijN1Z93vPnSo5g5vbb5UI/6abce5950ccffb6c5f6b9b25.md",
+   "created_at": "2026-09-30 10:33:57 UTC",
+   "processed_at": "2026-09-30 10:33:57 UTC",
+   "amazon_product_url": "https://www.amazon.co.uk/dp/B07TXQ49RZ/?",
+   "raw_html_file": "https://serpapi.com/searches/zOaDKXOVt4ddAsUjNF-PzCijN1Z93vPnSo5g5vbb5UI/6abce5950ccffb6c5f6b9b25.html",
+   "total_time_taken": 12.37
+  },
+  "search_parameters": {
+   "engine": "amazon_product",
+   "asin": "B07TXQ49RZ",
+   "amazon_domain": "amazon.co.uk",
+   "device": "desktop"
+  },
+  "product_results": {
+   "categories": [
+    {
+     "position": 1,
+     "name": "Home & Kitchen",
+     "link": "https://www.amazon.co.uk/Kitchen-cookware-glassware-cutlery-pans/b/ref=dp_bc_1?ie=UTF8&node=11052681",
+     "node": "11052681",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&device=desktop&engine=amazon&node=11052681"
+    },
+    {
+     "position": 2,
+     "name": "Home Accessories",
+     "link": "https://www.amazon.co.uk/Home-Accessories-Homeware-Furnishings-Kitchen/b/ref=dp_bc_2?ie=UTF8&node=376320011",
+     "node": "376320011",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&device=desktop&engine=amazon&node=376320011"
+    },
+    {
+     "position": 3,
+     "name": "Candles & Holders",
+     "link": "https://www.amazon.co.uk/Candles-Holders/b/ref=dp_bc_3?ie=UTF8&node=3028522031",
+     "node": "3028522031",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&device=desktop&engine=amazon&node=3028522031"
+    },
+    {
+     "position": 4,
+     "name": "Candleholders",
+     "link": "https://www.amazon.co.uk/Candleholders/b/ref=dp_bc_4?ie=UTF8&node=3028535031",
+     "node": "3028535031",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&device=desktop&engine=amazon&node=3028535031"
+    },
+    {
+     "position": 5,
+     "name": "Decorative Candle Lanterns",
+     "link": "https://www.amazon.co.uk/Decorative-Candle-Lanterns/b/ref=dp_bc_5?ie=UTF8&node=3028543031",
+     "node": "3028543031",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&device=desktop&engine=amazon&node=3028543031"
+    }
+   ],
+   "asin": "B07TXQ49RZ",
+   "title": "Gadgy Moroccan Lantern Metal Candle Holder 36 cm Handmade",
+   "link": "https://www.amazon.co.uk/Gadgy-Oriental-Lamp-Metal-Decorative/dp/B07TXQ49RZ/",
+   "link_clean": "https://www.amazon.co.uk/dp/B07TXQ49RZ/",
+   "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B07TXQ49RZ&device=desktop&engine=amazon_product",
+   "brand": "Visit the Gadgy Store",
+   "thumbnail": "https://m.media-amazon.com/images/I/91cvwZGdppL._AC_SY300_SX300_QL70_ML2_.jpg",
+   "thumbnails": [
+    "https://m.media-amazon.com/images/I/91cvwZGdppL._AC_SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/915YRxS--DL._AC_SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/91cpc9bIEUL._AC_SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/912qTiCtrCL._AC_SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81hkMjf2+wL._AC_SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81kYspDFf5L._AC_SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/91aEAX-nqPL._AC_SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81FQVZNYYXL._AC_SL1500_.jpg"
+   ],
+   "rating": 4.5,
+   "reviews": 4397,
+   "bought_last_month": "100+ bought in past month",
+   "price": "£32.95",
+   "extracted_price": 32.95,
+   "promotions": [
+    {
+     "type": "offer",
+     "text": "Save 5%",
+     "discount_percent": 5,
+     "link": "https://www.amazon.co.uk/promotion/psp/AFG3BK2LWL09X?ref=psp_external&redirectAsin=B07TXQ49RZ&redirectMerchantId=A3T3UL49MDKO4T&ref=cxcw_psp_AFG3BK2LWL09X&source=dp_cxcw"
+    }
+   ],
+   "offers": [
+    "Save 5% on any 2"
+   ],
+   "delivery": [
+    "FREE delivery Saturday, 3 October on your first order to UK or Ireland. Details",
+    "Or fastest delivery Tomorrow, 1 October. Order within 7 hrs 40 mins. Details"
+   ],
+   "stock": "In stock"
+  },
+  "purchase_options": {
+   "single_offer": {
+    "price": "£32.95",
+    "extracted_price": 32.95,
+    "delivery": [
+     "FREE delivery Saturday, 3 October on your first order to UK or Ireland. Details",
+     "Or fastest delivery Tomorrow, 1 October. Order within 7 hrs 40 mins. Details"
+    ],
+    "stock": "In stock",
+    "features": {
+     "dispatches_from": {
+      "text": "Amazon",
+      "details": {
+       "heading": "Dispatches from",
+       "content": "Amazon"
+      }
+     },
+     "sold_by": {
+      "text": "Gadgysales",
+      "details": {
+       "heading": "Sold by",
+       "content": "Gadgysales"
+      },
+      "link": {
+       "text": "Gadgysales",
+       "link": "https://www.amazon.co.uk/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3T3UL49MDKO4T&asin=B07TXQ49RZ&ref_=dp_merchant_link&isAmazonFulfilled=1"
+      }
+     },
+     "returns": {
+      "text": "Returnable within 30 days of receipt",
+      "details": {
+       "heading": "Returnable within 30 days of receipt",
+       "content": "Item can be returned in its original condition for a full refund within 30 days of receipt"
+      },
+      "link": {
+       "text": "Read full return policy",
+       "link": "https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=GKM69DUUYKQWKWX7&ref_=dp_ret_policy"
+      }
+     },
+     "packaging": {
+      "text": "Ships in product packaging",
+      "details": {
+       "heading": "Ships in product packaging",
+       "content": "This item has been tested to certify that it can dispatch safely in its original box or bag to avoid unnecessary packaging. Since 2015, we have reduced the weight of outbound packaging per shipment by 43% on average, that’s over 3 million tons of packaging material.If you still require Amazon packaging for this item, choose “Ship in Amazon packaging” at checkout. Learn more"
+      },
+      "link": {
+       "text": "Learn more",
+       "link": "https://www.amazon.co.uk/sipp_home"
+      }
+     }
+    }
+   }
+  },
+  "item_specifications": {
+   "colour": "Moroccan Black and Gold",
+   "material": "Metal",
+   "brand": "Gadgy",
+   "product_dimensions": "36.5L x 21.2W centimetres",
+   "finish_type": "Polished",
+   "item_weight": "0.7 Kilograms",
+   "number_of_pieces": "1",
+   "theme": "Fairy Tale",
+   "item_diameter": "36 Centimetres",
+   "mounting_type": "Tabletop"
+  },
+  "about_item": [
+   "LIGHT UP YOUR GARDEN OR HOME: This candle lantern has a stylish inner copper coating and vintage oriental design which creates a beautiful shadow effect wrapping your home or garden in warm light. A decorative must have!",
+   "FOR INDOORS OR OUTDOORS: The wind-protected design of this Moroccan lantern enables you to use our candle lanterns indoor or outdoor. A great garden lantern for summer evenings outside!",
+   "VERSATILE: Use this oriental decoration with your favourite candles or with electrical lights. Simply open the top of the table lantern and insert your chosen light source. This lantern is easy to hang or have as a table lamp",
+   "HANDMADE: Our Moroccan lanterns are handmade with high-quality craftsmanship. This lamp will last as a staple in your home for years to come!",
+   "PERFECT GIFT: A great Ramadan lantern as well as birthday present, wedding present, Christmas present and moving-in present. A decorative candle lantern anyone would love to have!"
+  ],
+  "bought_together": [
+   {
+    "position": 1,
+    "title": "Gadgy Moroccan Lantern Metal Candle Holder 36 cm Handmade | Oriental Decor for Indoor and Outdoor Use with Shadow Effect Perfect for Garden Balcony Ramadan and Home",
+    "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/91cvwZGdppL._AC_UL116_SR116,116_.jpg",
+    "price": "£32.95",
+    "extracted_price": 32.95,
+    "delivery": [
+     "Get it as soon as Saturday, Oct 3"
+    ],
+    "stock": "In stock"
+   },
+   {
+    "position": 2,
+    "title": "TobeBright 2 Pcs E27 Bulb Holder with UK Plug and Switch, 100W Maximum, 1.8 Meter Cable, Vintage E27 Lamp Holder for Home Lighting Decoration, AC 230V, No Bulb (Black)",
+    "link": "https://www.amazon.co.uk/TobeBright-Maximum-Vintage-Lighting-Decoration/dp/B0DXPQLJCZ/ref=pd_bxgy_thbs_d_sccl_1/000-0000000-0000000?pd_rd_w=A5HU0&content-id=amzn1.sym.c74a04bb-1833-45ee-8b22-275d7d928695&pf_rd_p=c74a04bb-1833-45ee-8b22-275d7d928695&pf_rd_r=ME1X1NJ5T3G1MVK983J3&pd_rd_wg=oCPPH&pd_rd_r=098565ed-f326-4257-9c88-644127a92eef&pd_rd_i=B0DXPQLJCZ&psc=1",
+    "asin": "B0DXPQLJCZ",
+    "link_clean": "https://www.amazon.co.uk/TobeBright-Maximum-Vintage-Lighting-Decoration/dp/B0DXPQLJCZ/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0DXPQLJCZ&device=desktop&engine=amazon_product",
+    "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/61gPXg3gLOL._AC_UL116_SR116,116_.jpg",
+    "price": "£14.99",
+    "extracted_price": 14.99,
+    "delivery": [
+     "Get it as soon as Saturday, Oct 3"
+    ],
+    "stock": "In stock"
+   }
+  ],
+  "related_products": [
+   {
+    "position": 1,
+    "title": "Moroccan Style Hanging Lantern, Antique Gold, Metal, Floral Cut-Out Design, Indoor Outdoor Pendant Light",
+    "link": "https://www.amazon.co.uk/Moroccan-Hanging-Lantern-Antique-Cut-Out/dp/B0GX5NGBV9/ref=pd_sbs_d_sccl_1_1/000-0000000-0000000?pd_rd_w=sTmt5&content-id=amzn1.sym.b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_p=b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_r=ME1X1NJ5T3G1MVK983J3&pd_rd_wg=oCPPH&pd_rd_r=098565ed-f326-4257-9c88-644127a92eef&pd_rd_i=B0GX5NGBV9&psc=1",
+    "asin": "B0GX5NGBV9",
+    "link_clean": "https://www.amazon.co.uk/Moroccan-Hanging-Lantern-Antique-Cut-Out/dp/B0GX5NGBV9/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0GX5NGBV9&device=desktop&engine=amazon_product",
+    "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/71C4XuqyxuL._AC_UL165_SR165,165_.jpg",
+    "rating": 3.8,
+    "reviews": 13,
+    "price": "£16.68",
+    "extracted_price": 16.68
+   },
+   {
+    "position": 2,
+    "title": "JHY DESIGN Moroccan Vintage Metal Hanging Lamp Battery Powered Table Light 29.5cm Tall Cordless Lantern for Living Room Bedro",
+    "link": "https://www.amazon.co.uk/JHY-DESIGN-Moroccan-Cordless-Weddings/dp/B0896SPPV7/ref=pd_sbs_d_sccl_1_2/000-0000000-0000000?pd_rd_w=sTmt5&content-id=amzn1.sym.b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_p=b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_r=ME1X1NJ5T3G1MVK983J3&pd_rd_wg=oCPPH&pd_rd_r=098565ed-f326-4257-9c88-644127a92eef&pd_rd_i=B0896SPPV7&psc=1",
+    "asin": "B0896SPPV7",
+    "link_clean": "https://www.amazon.co.uk/JHY-DESIGN-Moroccan-Cordless-Weddings/dp/B0896SPPV7/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0896SPPV7&device=desktop&engine=amazon_product",
+    "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/71vn+F4H7DL._AC_UL165_SR165,165_.jpg",
+    "rating": 4.0,
+    "reviews": 494,
+    "price": "£27.99",
+    "extracted_price": 27.99
+   },
+   {
+    "position": 3,
+    "title": "TRIROCKS Set of 2 Moroccan Style Metal Table Lamp 18 cm H Battery Powered Cordless Lanterns with LED Fairy Lights Bulb Perfec",
+    "link": "https://www.amazon.co.uk/TRIROCKS-Moroccan-Battery-Cordless-Tabletop/dp/B0BV9T311Y/ref=pd_sbs_d_sccl_1_3/000-0000000-0000000?pd_rd_w=sTmt5&content-id=amzn1.sym.b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_p=b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_r=ME1X1NJ5T3G1MVK983J3&pd_rd_wg=oCPPH&pd_rd_r=098565ed-f326-4257-9c88-644127a92eef&pd_rd_i=B0BV9T311Y&psc=1",
+    "asin": "B0BV9T311Y",
+    "link_clean": "https://www.amazon.co.uk/TRIROCKS-Moroccan-Battery-Cordless-Tabletop/dp/B0BV9T311Y/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0BV9T311Y&device=desktop&engine=amazon_product",
+    "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/71P29V3+okL._AC_UL165_SR165,165_.jpg",
+    "rating": 4.1,
+    "reviews": 249,
+    "price": "£34.99",
+    "extracted_price": 34.99
+   },
+   {
+    "position": 4,
+    "title": "JHY DESIGN Set of 2 Vintage Gold Moroccan Candle Lanterns, 38 and 28 cm | Outdoor Indoor Metal Lantern Decorative Candle Hold",
+    "link": "https://www.amazon.co.uk/JHY-DESIGN-Lanterns-Moroccan-Decorative/dp/B0FT2NL8CL/ref=pd_sbs_d_sccl_1_4/000-0000000-0000000?pd_rd_w=sTmt5&content-id=amzn1.sym.b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_p=b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_r=ME1X1NJ5T3G1MVK983J3&pd_rd_wg=oCPPH&pd_rd_r=098565ed-f326-4257-9c88-644127a92eef&pd_rd_i=B0FT2NL8CL&psc=1",
+    "asin": "B0FT2NL8CL",
+    "link_clean": "https://www.amazon.co.uk/JHY-DESIGN-Lanterns-Moroccan-Decorative/dp/B0FT2NL8CL/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0FT2NL8CL&device=desktop&engine=amazon_product",
+    "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/81gewvuXIPL._AC_UL165_SR165,165_.jpg",
+    "rating": 4.2,
+    "reviews": 7,
+    "price": "£42.99",
+    "extracted_price": 42.99
+   },
+   {
+    "position": 5,
+    "title": "Vela Lanterns Decorative Indoor Moroccan Candle Holders, Gold, Set of 2 | Ramadan, Eid & Islamic Home Decor, Large Wedding Ce",
+    "link": "https://www.amazon.co.uk/Vela-Lanterns-Temple-Moroccan-Candle/dp/B08L26K44R/ref=pd_sbs_d_sccl_1_5/000-0000000-0000000?pd_rd_w=sTmt5&content-id=amzn1.sym.b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_p=b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_r=ME1X1NJ5T3G1MVK983J3&pd_rd_wg=oCPPH&pd_rd_r=098565ed-f326-4257-9c88-644127a92eef&pd_rd_i=B08L26K44R&psc=1",
+    "asin": "B08L26K44R",
+    "link_clean": "https://www.amazon.co.uk/Vela-Lanterns-Temple-Moroccan-Candle/dp/B08L26K44R/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B08L26K44R&device=desktop&engine=amazon_product",
+    "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/81+r2MgVHHL._AC_UL165_SR165,165_.jpg",
+    "rating": 4.7,
+    "reviews": 410,
+    "price": "£35.99",
+    "extracted_price": 35.99
+   },
+   {
+    "position": 6,
+    "title": "Casa Moro Oriental Metal Lantern, Alima White Gold, 30cm, Moroccan, Wedding Lantern",
+    "link": "https://www.amazon.co.uk/Casa-Moro-beautiful-celebration-decoration/dp/B081NH7ML4/ref=pd_sbs_d_sccl_1_6/000-0000000-0000000?pd_rd_w=sTmt5&content-id=amzn1.sym.b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_p=b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_r=ME1X1NJ5T3G1MVK983J3&pd_rd_wg=oCPPH&pd_rd_r=098565ed-f326-4257-9c88-644127a92eef&pd_rd_i=B081NH7ML4&psc=1",
+    "asin": "B081NH7ML4",
+    "link_clean": "https://www.amazon.co.uk/Casa-Moro-beautiful-celebration-decoration/dp/B081NH7ML4/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B081NH7ML4&device=desktop&engine=amazon_product",
+    "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/91ZEX40dO1L._AC_UL165_SR165,165_.jpg",
+    "rating": 4.4,
+    "reviews": 52,
+    "price": "£29.00",
+    "extracted_price": 29.0
+   }
+  ],
+  "related_product_sections": [
+   {
+    "title": "Customers who viewed this item also viewed",
+    "items": [
+     {
+      "position": 1,
+      "title": "Moroccan Style Hanging Lantern, Antique Gold, Metal, Floral Cut-Out Design, Indoor Outdoor Pendant Light",
+      "link": "https://www.amazon.co.uk/Moroccan-Hanging-Lantern-Antique-Cut-Out/dp/B0GX5NGBV9/ref=pd_sbs_d_sccl_1_1/000-0000000-0000000?pd_rd_w=sTmt5&content-id=amzn1.sym.b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_p=b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_r=ME1X1NJ5T3G1MVK983J3&pd_rd_wg=oCPPH&pd_rd_r=098565ed-f326-4257-9c88-644127a92eef&pd_rd_i=B0GX5NGBV9&psc=1",
+      "asin": "B0GX5NGBV9",
+      "link_clean": "https://www.amazon.co.uk/Moroccan-Hanging-Lantern-Antique-Cut-Out/dp/B0GX5NGBV9/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0GX5NGBV9&device=desktop&engine=amazon_product",
+      "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/71C4XuqyxuL._AC_UL165_SR165,165_.jpg",
+      "rating": 3.8,
+      "reviews": 13,
+      "price": "£16.68",
+      "extracted_price": 16.68
+     },
+     {
+      "position": 2,
+      "title": "JHY DESIGN Moroccan Vintage Metal Hanging Lamp Battery Powered Table Light 29.5cm Tall Cordless Lantern for Living Room Bedro",
+      "link": "https://www.amazon.co.uk/JHY-DESIGN-Moroccan-Cordless-Weddings/dp/B0896SPPV7/ref=pd_sbs_d_sccl_1_2/000-0000000-0000000?pd_rd_w=sTmt5&content-id=amzn1.sym.b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_p=b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_r=ME1X1NJ5T3G1MVK983J3&pd_rd_wg=oCPPH&pd_rd_r=098565ed-f326-4257-9c88-644127a92eef&pd_rd_i=B0896SPPV7&psc=1",
+      "asin": "B0896SPPV7",
+      "link_clean": "https://www.amazon.co.uk/JHY-DESIGN-Moroccan-Cordless-Weddings/dp/B0896SPPV7/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0896SPPV7&device=desktop&engine=amazon_product",
+      "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/71vn+F4H7DL._AC_UL165_SR165,165_.jpg",
+      "rating": 4.0,
+      "reviews": 494,
+      "price": "£27.99",
+      "extracted_price": 27.99
+     },
+     {
+      "position": 3,
+      "title": "TRIROCKS Set of 2 Moroccan Style Metal Table Lamp 18 cm H Battery Powered Cordless Lanterns with LED Fairy Lights Bulb Perfec",
+      "link": "https://www.amazon.co.uk/TRIROCKS-Moroccan-Battery-Cordless-Tabletop/dp/B0BV9T311Y/ref=pd_sbs_d_sccl_1_3/000-0000000-0000000?pd_rd_w=sTmt5&content-id=amzn1.sym.b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_p=b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_r=ME1X1NJ5T3G1MVK983J3&pd_rd_wg=oCPPH&pd_rd_r=098565ed-f326-4257-9c88-644127a92eef&pd_rd_i=B0BV9T311Y&psc=1",
+      "asin": "B0BV9T311Y",
+      "link_clean": "https://www.amazon.co.uk/TRIROCKS-Moroccan-Battery-Cordless-Tabletop/dp/B0BV9T311Y/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0BV9T311Y&device=desktop&engine=amazon_product",
+      "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/71P29V3+okL._AC_UL165_SR165,165_.jpg",
+      "rating": 4.1,
+      "reviews": 249,
+      "price": "£34.99",
+      "extracted_price": 34.99
+     },
+     {
+      "position": 4,
+      "title": "JHY DESIGN Set of 2 Vintage Gold Moroccan Candle Lanterns, 38 and 28 cm | Outdoor Indoor Metal Lantern Decorative Candle Hold",
+      "link": "https://www.amazon.co.uk/JHY-DESIGN-Lanterns-Moroccan-Decorative/dp/B0FT2NL8CL/ref=pd_sbs_d_sccl_1_4/000-0000000-0000000?pd_rd_w=sTmt5&content-id=amzn1.sym.b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_p=b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_r=ME1X1NJ5T3G1MVK983J3&pd_rd_wg=oCPPH&pd_rd_r=098565ed-f326-4257-9c88-644127a92eef&pd_rd_i=B0FT2NL8CL&psc=1",
+      "asin": "B0FT2NL8CL",
+      "link_clean": "https://www.amazon.co.uk/JHY-DESIGN-Lanterns-Moroccan-Decorative/dp/B0FT2NL8CL/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0FT2NL8CL&device=desktop&engine=amazon_product",
+      "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/81gewvuXIPL._AC_UL165_SR165,165_.jpg",
+      "rating": 4.2,
+      "reviews": 7,
+      "price": "£42.99",
+      "extracted_price": 42.99
+     },
+     {
+      "position": 5,
+      "title": "Vela Lanterns Decorative Indoor Moroccan Candle Holders, Gold, Set of 2 | Ramadan, Eid & Islamic Home Decor, Large Wedding Ce",
+      "link": "https://www.amazon.co.uk/Vela-Lanterns-Temple-Moroccan-Candle/dp/B08L26K44R/ref=pd_sbs_d_sccl_1_5/000-0000000-0000000?pd_rd_w=sTmt5&content-id=amzn1.sym.b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_p=b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_r=ME1X1NJ5T3G1MVK983J3&pd_rd_wg=oCPPH&pd_rd_r=098565ed-f326-4257-9c88-644127a92eef&pd_rd_i=B08L26K44R&psc=1",
+      "asin": "B08L26K44R",
+      "link_clean": "https://www.amazon.co.uk/Vela-Lanterns-Temple-Moroccan-Candle/dp/B08L26K44R/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B08L26K44R&device=desktop&engine=amazon_product",
+      "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/81+r2MgVHHL._AC_UL165_SR165,165_.jpg",
+      "rating": 4.7,
+      "reviews": 410,
+      "price": "£35.99",
+      "extracted_price": 35.99
+     },
+     {
+      "position": 6,
+      "title": "Casa Moro Oriental Metal Lantern, Alima White Gold, 30cm, Moroccan, Wedding Lantern",
+      "link": "https://www.amazon.co.uk/Casa-Moro-beautiful-celebration-decoration/dp/B081NH7ML4/ref=pd_sbs_d_sccl_1_6/000-0000000-0000000?pd_rd_w=sTmt5&content-id=amzn1.sym.b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_p=b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_r=ME1X1NJ5T3G1MVK983J3&pd_rd_wg=oCPPH&pd_rd_r=098565ed-f326-4257-9c88-644127a92eef&pd_rd_i=B081NH7ML4&psc=1",
+      "asin": "B081NH7ML4",
+      "link_clean": "https://www.amazon.co.uk/Casa-Moro-beautiful-celebration-decoration/dp/B081NH7ML4/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B081NH7ML4&device=desktop&engine=amazon_product",
+      "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/91ZEX40dO1L._AC_UL165_SR165,165_.jpg",
+      "rating": 4.4,
+      "reviews": 52,
+      "price": "£29.00",
+      "extracted_price": 29.0
+     }
+    ]
+   }
+  ],
+  "product_description": [
+   {
+    "position": 1,
+    "title": "image",
+    "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c7169ec4-35a1-4da8-8453-7576dd36df86.__CR0,0,1940,600_PT0_SX970_V1___.jpg"
+   },
+   {
+    "position": 2,
+    "title": "Decorative scene with warm lighting showing illuminated lantern or light fixture casting ambient glow against coral-colored wall background.",
+    "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1bbf3607-2cd3-41bb-a79d-556fe554c8ef.__CR0,0,1940,600_PT0_SX970_V1___.jpg"
+   },
+   {
+    "position": 3,
+    "features": [
+     {
+      "position": 1,
+      "title": "Easy to open",
+      "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/06176ae4-ea70-4b6d-9724-4297564a8bf8.__CR0,0,440,440_PT0_SX220_V1___.jpg"
+     },
+     {
+      "position": 2,
+      "title": "Multiple possible light sources",
+      "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a78c8101-34cf-45c1-b433-10f0f647e81a.__CR0,0,440,440_PT0_SX220_V1___.jpg"
+     },
+     {
+      "position": 3,
+      "title": "Handmade",
+      "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f54140ac-3391-4da1-b804-b533ee12b88e.__CR0,0,440,440_PT0_SX220_V1___.jpg"
+     },
+     {
+      "position": 4,
+      "title": "High quality and robust",
+      "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f0126e0a-6980-45a3-9212-55cace8acfec.__CR0,0,440,440_PT0_SX220_V1___.jpg"
+     }
+    ]
+   },
+   {
+    "position": 4,
+    "title": "image",
+    "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/be9cac7b-2f0a-4c33-aec1-8ede8167923e.__CR0,0,1940,1200_PT0_SX970_V1___.jpg"
+   }
+  ],
+  "product_details": {
+   "brand_name": "Gadgy",
+   "number_of_pieces": "1",
+   "unit_count": "1.0 count",
+   "number_of_packs": "1",
+   "item_highlight": "Oriental Decor for Indoor and Outdoor Use with Shadow Effect Perfect for Garden Balcony Ramadan and Home",
+   "manufacturer": "Gadgy B.V.",
+   "indoor_outdoor_usage": "Outdoor",
+   "country_of_origin": "China",
+   "item_type_name": "Candle holder",
+   "model_number": "GG0826",
+   "manufacturer_part_number": "GG0826",
+   "best_sellers_rank": [
+    {
+     "text": "62,879 in Home & Kitchen (See Top 100 in Home & Kitchen)",
+     "extracted_rank": 62879,
+     "link": "https://www.amazon.co.uk/gp/bestsellers/kitchen/ref=pd_zg_ts_kitchen",
+     "link_text": "See Top 100 in Home & Kitchen"
+    },
+    {
+     "text": "7 in Decorative Candle Lanterns",
+     "extracted_rank": 7,
+     "link": "https://www.amazon.co.uk/gp/bestsellers/kitchen/3028543031/ref=pd_zg_hrsr_kitchen",
+     "link_text": "Decorative Candle Lanterns"
+    }
+   ],
+   "asin": "B07TXQ49RZ",
+   "customer_reviews": "4.5 out of 5 stars",
+   "rating": 4.5,
+   "reviews": 4397,
+   "colour": "Moroccan Black and Gold",
+   "theme": "Fairy Tale",
+   "candle_holder_form": "Lantern shape",
+   "occasion": "social gatherings",
+   "item_dimensions_l_x_w_x_h": "36.5L x 21.2W centimetres",
+   "item_weight": "0.7 Kilograms",
+   "item_diameter": "36 Centimetres",
+   "material_type": "Metal",
+   "finish_type": "Polished",
+   "mounting_type": "Tabletop"
+  },
+  "reviews_information": {
+   "summary": {
+    "text": "Customers find the lantern attractive, with one noting how calming it looks when lights are off, and appreciate its quality and size, with one mentioning it can accommodate both candles and plug-in lights. The lantern is sturdy, with one customer noting its wide base provides stability for outdoor use. While some customers say it's exactly as described, others express disappointment, and opinions are mixed regarding fit and heat, with some noting it gets hot at the top. The lantern's durability receives negative feedback, with one customer reporting paint chipping upon arrival.",
+    "insights": [
+     {
+      "title": "Appearance",
+      "sentiment": "positive",
+      "mentions": {
+       "total": 170,
+       "positive": 148,
+       "negative": 22
+      },
+      "summary": "Customers love the appearance of the candle holder, noting that it provides a lovely ambience to any room and gives off pretty light, with one customer mentioning it casts a warm romantic glow.",
+      "examples": [
+       {
+        "position": 1,
+        "snippet": "This lantern is beautiful, it creates amazing shadowing on the surrounding walls which look stunning and the warmth created from the bulb is just...",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/RV6TL5G03NOUJ"
+       },
+       {
+        "position": 2,
+        "snippet": "...who has seen this in my home, with lights on or of, have commented how lovely it is. It is extremely well made. Good value for money....",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/RFS0RDO84PSQ5"
+       },
+       {
+        "position": 3,
+        "snippet": "Looks great, just as advertised. Put some Christmas lights inside to make it sparkle.",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R31J6Z7P8PZ84A"
+       },
+       {
+        "position": 4,
+        "snippet": "Beautiful lantern, great quality. So relaxing to have on in an evening. Very happy with my purchase.",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/RXO4FRMS062Q4"
+       }
+      ]
+     },
+     {
+      "title": "Quality",
+      "sentiment": "positive",
+      "mentions": {
+       "total": 148,
+       "positive": 134,
+       "negative": 14
+      },
+      "summary": "Customers are very pleased with the quality of the lantern, describing it as pretty great.",
+      "examples": [
+       {
+        "position": 1,
+        "snippet": "Looks great with battery operated lights inside. Lovely lamp that when lit creates atmosphere. Well made and looks good with candles....",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R28H1LJR2HRSKH"
+       },
+       {
+        "position": 2,
+        "snippet": "Well made and adaptable too can be used with a candle but would easily be converted to an electric light .only downside is the colour,the inside...",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/RIGP72WK733CZ"
+       },
+       {
+        "position": 3,
+        "snippet": "Love it, just what ive been looking for for ages",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R3C6JB1XBFFI2S"
+       },
+       {
+        "position": 4,
+        "snippet": "Perfect! Great quality, sturdy, easy access for internal light (tea light or solar would both work well in these). Really happy.",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R1WPNKXM9FWDVF"
+       }
+      ]
+     },
+     {
+      "title": "Size",
+      "sentiment": "positive",
+      "mentions": {
+       "total": 31,
+       "positive": 23,
+       "negative": 8
+      },
+      "summary": "Customers are impressed with the lantern's size, with one mentioning it can accommodate both large candles and plug-in lights.",
+      "examples": [
+       {
+        "position": 1,
+        "snippet": "...This is beautiful and good size. I am thinking to buy another one for present",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R2Z8ID94WNEILI"
+       },
+       {
+        "position": 2,
+        "snippet": "Loved the shape and size but was disappointed with the colour as it looks very black with no lights in it.",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R1XDP11UCRQ4MV"
+       },
+       {
+        "position": 3,
+        "snippet": "Too big and not as pretty as in the picture",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R9AAXRUZ94AR4"
+       },
+       {
+        "position": 4,
+        "snippet": "The lantern is lovely, great size and nicely made and better than expected. #i have put some fairy lights inside and it looks really fab....",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R3QZTX0QJMUPXY"
+       }
+      ]
+     },
+     {
+      "title": "Sturdiness",
+      "sentiment": "positive",
+      "mentions": {
+       "total": 26,
+       "positive": 20,
+       "negative": 6
+      },
+      "summary": "Customers find the candle holder sturdy, with one mentioning that its wide base makes it feel secure, and another noting it's very stable for outdoor use.",
+      "examples": [
+       {
+        "position": 1,
+        "snippet": "Perfect! Great quality, sturdy, easy access for internal light (tea light or solar would both work well in these). Really happy.",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R1WPNKXM9FWDVF"
+       },
+       {
+        "position": 2,
+        "snippet": "...but it's quite lightweight; the wide base makes it feel sturdy and strong. It looks a lot heavier than it actually is.",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R22YNFAAPOK1SX"
+       },
+       {
+        "position": 3,
+        "snippet": "...Bought for my son as a present. It is extremely sturdy and the option of candles or electric is wonderful. Amazing lamp.",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R2GK7QD490WDQU"
+       },
+       {
+        "position": 4,
+        "snippet": "...Amazon this should not be happening. Fragile, but it basically gets lunched over a 7ft fence!!!!...",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R1BYBBWFEKTMUS"
+       }
+      ]
+     },
+     {
+      "title": "As described",
+      "sentiment": "mixed",
+      "mentions": {
+       "total": 12,
+       "positive": 6,
+       "negative": 6
+      },
+      "summary": "Customers have mixed opinions about how well the candle holder matches its description, with some finding it exactly as described while others express disappointment.",
+      "examples": [
+       {
+        "position": 1,
+        "snippet": "Absolutely lovely product, exactly as described, very very happy indeed. Would recommend this seller.",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R1R9L4BYFCN3SF"
+       },
+       {
+        "position": 2,
+        "snippet": "...Dosnt give you the wow affect like on the picture. Disappointed.",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R246Z56TNKZXMA"
+       },
+       {
+        "position": 3,
+        "snippet": "As described and we'll made. Great quality. Worth the money.",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R127L2W1MH76R2"
+       },
+       {
+        "position": 4,
+        "snippet": "...Overall look is quite dark so a tad disappointing.",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R32YR7Z9VU4NLC"
+       }
+      ]
+     },
+     {
+      "title": "Fit",
+      "sentiment": "mixed",
+      "mentions": {
+       "total": 10,
+       "positive": 3,
+       "negative": 7
+      },
+      "summary": "Customers have mixed experiences with the candle holder's size, with some finding it too small to accommodate their lamps, while one customer mentions it works well on a sideboard and another notes it's easy to install a lightbulb fitting.",
+      "examples": [
+       {
+        "position": 1,
+        "snippet": "...only thing is the light bulb does not fit tight into the bottom. It does not fall out so not a real problem.",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R2DLFI9EREHKAP"
+       },
+       {
+        "position": 2,
+        "snippet": "None of the fitting can fit in this lamp as bottom is too low where you can install any thing....",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/RKM1WBMPMIY0Q"
+       },
+       {
+        "position": 3,
+        "snippet": "...Well made and sturdy. A little larger than I expected but fits in well on the sideboard",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/RD1H3Y0W2O6HI"
+       },
+       {
+        "position": 4,
+        "snippet": "...Electric bulb much better but need to search high and low to get the right fitting.",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R1E0XUZW4VVCEH"
+       }
+      ]
+     },
+     {
+      "title": "Heat",
+      "sentiment": "mixed",
+      "mentions": {
+       "total": 10,
+       "positive": 5,
+       "negative": 5
+      },
+      "summary": "Customers have mixed opinions about the heat of the candle holder, with some finding it warm while others note that it gets hot at the top.",
+      "examples": [
+       {
+        "position": 1,
+        "snippet": "...the surrounding walls which look stunning and the warmth created from the bulb is just lovely. Tried to purchase another but out of stock!",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/RV6TL5G03NOUJ"
+       },
+       {
+        "position": 2,
+        "snippet": "Photo with a pillar candle, it gets hot at the top but no big deal. I have no regrets buying it even though it's a bit pricey.",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R1D21JDOUEJHKQ"
+       },
+       {
+        "position": 3,
+        "snippet": "...which throws the candlelight through the holes creating a really warming pattern around it.",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R1HJFC7KU8MP7G"
+       },
+       {
+        "position": 4,
+        "snippet": "...The metal top does heat up a bit there's plenty of ventilation and it shouldn't smoke....",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R5GS8J8O9GXV8"
+       }
+      ]
+     },
+     {
+      "title": "Durability",
+      "sentiment": "negative",
+      "mentions": {
+       "total": 9,
+       "positive": 0,
+       "negative": 9
+      },
+      "summary": "Customers report durability issues with the candle holder, including paint chipping, scratches, and rusting.",
+      "examples": [
+       {
+        "position": 1,
+        "snippet": "...is supposed to look ‘shabby chic’ but the black paten paint has chips and rust colour showing In many places unlike the images displayed on Amazon....",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R35W64ZLRKTWZD"
+       },
+       {
+        "position": 2,
+        "snippet": "Love the look of this, inside and out. But dents very easily from handling, and non-central bung in the bottom, which also isn't level, makes...",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R1AAQZC5V01UW4"
+       },
+       {
+        "position": 3,
+        "snippet": "...It’s a shame the hole wasn’t in the centre. I still need to perfect it and source a second touch base light.",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R2FLOFNPL49VBP"
+       },
+       {
+        "position": 4,
+        "snippet": "...Outer paint is easy to scratch so please be careful. Please read the description well:...",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R5GS8J8O9GXV8"
+       }
+      ]
+     }
+    ],
+    "images": [
+     "https://m.media-amazon.com/images/I/71-JuOEL+TL.jpg",
+     "https://m.media-amazon.com/images/I/81JgzntRQ2L.jpg",
+     "https://m.media-amazon.com/images/I/71FVh8zoK1L.jpg",
+     "https://m.media-amazon.com/images/I/818hYxm999L.jpg",
+     "https://m.media-amazon.com/images/I/71IPz5BfRoL.jpg",
+     "https://m.media-amazon.com/images/I/61uKLa92i6L.jpg",
+     "https://m.media-amazon.com/images/I/617-MAKtyIL.jpg",
+     "https://m.media-amazon.com/images/I/71lE3y0M0xL.jpg",
+     "https://m.media-amazon.com/images/I/71ohscHE15L.jpg",
+     "https://m.media-amazon.com/images/I/71O0xlr-odL.jpg",
+     "https://m.media-amazon.com/images/I/611seiC7HFL.jpg",
+     "https://m.media-amazon.com/images/I/71ZLhx-39RL.jpg"
+    ],
+    "customer_reviews": {
+     "5 star": 73,
+     "4 star": 16,
+     "3 star": 6,
+     "2 star": 2,
+     "1 star": 3
+    }
+   },
+   "authors_reviews": [
+    {
+     "position": 1,
+     "title": "Beautiful lamps",
+     "text": "Very pleased. Looked even nicer than the picture.",
+     "rating": 5.0,
+     "date": "30 August 2026",
+     "author": "Stephanie Pegler",
+     "author_link": "https://www.amazon.co.uk/gp/profile/amzn1.account.AH3WQG2NB6XBKZHDWJTWJPJVE54Q?ref=cm_cr_dp_d_bdcrb_top",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+     "verified_purchase": true,
+     "product": {
+      "colour_name": "Moroccan Black and Gold"
+     }
+    },
+    {
+     "position": 2,
+     "title": "Attractive lamp and good value for money",
+     "text": "Very attractive looking lantern and when has candle in it the lamp glows",
+     "rating": 5.0,
+     "date": "30 August 2026",
+     "author": "gillian laurie",
+     "author_link": "https://www.amazon.co.uk/gp/profile/amzn1.account.AHMNEMDHRPLV3GYIP3X7JROUN3VA?ref=cm_cr_dp_d_bdcrb_top",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+     "verified_purchase": true,
+     "product": {
+      "colour_name": "Moroccan Black and Gold"
+     }
+    },
+    {
+     "position": 3,
+     "title": "Looks great",
+     "text": "Lovely well made item, a few paint chips around the neck but husband touched them up! Looks great with led lights inside have not tried with a candle, I would say it's not suitable to leave outdoors!",
+     "rating": 4.0,
+     "date": "6 September 2026",
+     "author": "Mrs M E Turner",
+     "author_link": "https://www.amazon.co.uk/gp/profile/amzn1.account.AE5YOK2O5FPQNU2AOQOCWWWF7LTQ?ref=cm_cr_dp_d_bdcrb_top",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+     "verified_purchase": true,
+     "product": {
+      "colour_name": "Moroccan Black and Gold"
+     }
+    },
+    {
+     "position": 4,
+     "title": "Lovely product",
+     "text": "Lovely item, good quality, fast delivery.",
+     "rating": 5.0,
+     "date": "22 August 2026",
+     "author": "Sue Butler",
+     "author_link": "https://www.amazon.co.uk/gp/profile/amzn1.account.AHTQ7VXRLEX3MZSUHH5XRIKADGEQ?ref=cm_cr_dp_d_bdcrb_top",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+     "verified_purchase": true,
+     "product": {
+      "colour_name": "Moroccan Black and Gold"
+     }
+    },
+    {
+     "position": 5,
+     "title": "Beautiful",
+     "text": "Excellent service customer was delighted.",
+     "rating": 5.0,
+     "date": "2 September 2026",
+     "author": "Gerry",
+     "author_link": "https://www.amazon.co.uk/gp/profile/amzn1.account.AFFK22TISHII3AZNAYCQXJ6EZIYQ?ref=cm_cr_dp_d_bdcrb_top",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+     "verified_purchase": true,
+     "product": {
+      "colour_name": "Moroccan Black and Gold"
+     }
+    },
+    {
+     "position": 6,
+     "title": "Good product",
+     "text": "Read the description, look at the photos, it’s exactly what you get. No faults with it, well packaged, well enough made so no reason not to award 5stars. We have put a battery flickering candle inside and looks reassuringly real with a nice flickering glow throw the metalwork of the item.",
+     "rating": 5.0,
+     "date": "30 March 2026",
+     "author": "Peterunner",
+     "author_link": "https://www.amazon.co.uk/gp/profile/amzn1.account.AGWKUQ3FKIZ4P66DBZBDIZN6LAEQ?ref=cm_cr_dp_d_bdcrb_top",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+     "helpful_votes": "One person found this helpful",
+     "verified_purchase": true,
+     "product": {
+      "colour_name": "Moroccan Black and Gold"
+     }
+    },
+    {
+     "position": 7,
+     "title": "A lovely lamp",
+     "text": "This Moroccan lamp is excellent.It's tall enough to be impressive, and the opening at the top is easily large enough to put your hand in and put a candle or timer light.We didn't want a solar light as it's going in a gazebo, so this is perfect. Although you could fit a solar light in it and have the cable running out through the bottom if you want to.It's a very dark bronze on the outside, with a gold inside, so reflects light around inside.You could put a bulb up through the bottom and convert it to a table lamp, which I may do, as I'm getting a second one.One other thing: it would make an interesting storage container, as the hinged top makes it like a jar.It looks like iron, but it's quite lightweight; the wide base makes it feel sturdy and strong. It looks a lot heavier than it actually is.",
+     "rating": 5.0,
+     "date": "24 March 2025",
+     "author": "Trish",
+     "author_link": "https://www.amazon.co.uk/gp/profile/amzn1.account.AERLMHVBNGLBGUZ56MPTWUNTNVIQ?ref=cm_cr_dp_d_bdcrb_top",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+     "helpful_votes": "4 people found this helpful",
+     "verified_purchase": true,
+     "product": {
+      "colour_name": "Moroccan Black and Gold"
+     }
+    },
+    {
+     "position": 8,
+     "title": "Read description carefully as I thought it came with plug",
+     "text": "I ordered recommended plug in piece and it did not fit",
+     "rating": 3.0,
+     "date": "29 July 2026",
+     "author": "helen mosson",
+     "author_link": "https://www.amazon.co.uk/gp/profile/amzn1.account.AEYSRZXWHCVB7XPDSVXCRECSOVUA?ref=cm_cr_dp_d_bdcrb_top",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+     "verified_purchase": true,
+     "product": {
+      "colour_name": "Moroccan Black and Gold"
+     }
+    }
+   ],
+   "other_countries_reviews": [
+    {
+     "position": 1,
+     "title": "Ciekawa lampa",
+     "text": "Ładna...czeka jako prezent. Co powie obdarowany ? Nie wiem.",
+     "rating": 5.0,
+     "date": "5 February 2026",
+     "author": "Tadeusz Pietrusza",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+     "verified_purchase": true,
+     "product": {
+      "colour_name": "Moroccan Black and Gold"
+     },
+     "country": {
+      "code": "PL",
+      "name": "Poland"
+     },
+     "language": {
+      "code": "pl",
+      "name": "Polish"
+     }
+    },
+    {
+     "position": 2,
+     "title": "Super leuke lamp",
+     "text": "Gebruik de lamp met een oplaadbare led lamp er in,geeft een oosters tintje aan mijn hal.Ben er superblij mee !!",
+     "rating": 5.0,
+     "date": "26 April 2022",
+     "author": "Pauline",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+     "verified_purchase": true,
+     "product": {
+      "colour_name": "Moroccan Black and Gold"
+     },
+     "country": {
+      "code": "NL",
+      "name": "Netherlands"
+     },
+     "language": {
+      "code": "nl",
+      "name": "Dutch"
+     }
+    },
+    {
+     "position": 3,
+     "title": "Cette lanterne es magnifique j'adore",
+     "text": "Magnifique jvais en recommandé 1 d'éléments c magnifique",
+     "rating": 5.0,
+     "date": "30 July 2026",
+     "author": "Nathalie Durieux",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+     "verified_purchase": true,
+     "product": {
+      "colour_name": "Moroccan Black and Gold"
+     },
+     "country": {
+      "code": "FR",
+      "name": "France"
+     },
+     "language": {
+      "code": "fr",
+      "name": "French (France)"
+     }
+    },
+    {
+     "position": 4,
+     "title": "Compraré otra.",
+     "text": "Me encanta, con una vela blanca mediana, hace un dibujo en el suelo o en la pared muy bonito. Con bombilla no he probado. El trabajo es impecable, gravado y pintado igual. Me compraría otra.",
+     "rating": 5.0,
+     "date": "15 July 2026",
+     "author": "Mireia",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+     "verified_purchase": true,
+     "product": {
+      "colour_name": "Moroccan Black and Gold"
+     },
+     "country": {
+      "code": "ES",
+      "name": "Spain"
+     },
+     "language": {
+      "code": "es",
+      "name": "Spanish (Spain)"
+     }
+    },
+    {
+     "position": 5,
+     "title": "Great product!",
+     "text": "All good, nice quality, great color.",
+     "rating": 5.0,
+     "date": "11 May 2026",
+     "author": "Dr.Laban",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+     "verified_purchase": true,
+     "product": {
+      "colour_name": "Moroccan Black and Gold"
+     },
+     "country": {
+      "code": "SE",
+      "name": "Sweden"
+     },
+     "language": {
+      "code": "en",
+      "name": "English"
+     }
+    }
+   ]
+  }
+ }
+}

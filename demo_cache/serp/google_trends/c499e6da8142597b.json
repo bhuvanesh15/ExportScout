@@ -1,0 +1,391 @@
+{
+ "engine": "google_trends",
+ "params": {
+  "q": "plant pot",
+  "geo": "GB",
+  "date": "today 5-y",
+  "data_type": "RELATED_QUERIES",
+  "cat": "11"
+ },
+ "fetched_at": "2026-09-30T10:53:19+00:00",
+ "data": {
+  "search_metadata": {
+   "id": "6abcea1b1290d94f212b1b33",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/Tn-ly7eA8DeGLE2_62uTaAqyz5Mg7M6R3kQJymlyg7I/6abcea1b1290d94f212b1b33.json",
+   "markdown_endpoint": "https://serpapi.com/searches/Tn-ly7eA8DeGLE2_62uTaAqyz5Mg7M6R3kQJymlyg7I/6abcea1b1290d94f212b1b33.md",
+   "created_at": "2026-09-30 10:53:15 UTC",
+   "processed_at": "2026-09-30 10:53:15 UTC",
+   "google_trends_url": "https://trends.google.com/trends/embed/explore/RELATED_QUERIES?hl=en&tz=420&req=%7B%22comparisonItem%22%3A%5B%7B%22keyword%22%3A%22plant+pot%22%2C%22geo%22%3A%22GB%22%2C%22time%22%3A%22today+5-y%22%7D%5D%2C%22category%22%3A%2211%22%2C%22property%22%3A%22%22%7D",
+   "raw_html_file": "https://serpapi.com/searches/Tn-ly7eA8DeGLE2_62uTaAqyz5Mg7M6R3kQJymlyg7I/6abcea1b1290d94f212b1b33.html",
+   "prettify_html_file": "https://serpapi.com/searches/Tn-ly7eA8DeGLE2_62uTaAqyz5Mg7M6R3kQJymlyg7I/6abcea1b1290d94f212b1b33.prettify",
+   "total_time_taken": 3.17
+  },
+  "search_parameters": {
+   "engine": "google_trends",
+   "q": "plant pot",
+   "hl": "en",
+   "geo": "GB",
+   "cat": "11",
+   "date": "today 5-y",
+   "tz": "420",
+   "data_type": "RELATED_QUERIES"
+  },
+  "related_queries": {
+   "rising": [
+    {
+     "query": "beige plant pot",
+     "value": "+200%",
+     "extracted_value": 200,
+     "link": "https://trends.google.com/trends/explore?q=beige+plant+pot&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=beige+plant+pot&tz=420"
+    },
+    {
+     "query": "mushrooms growing in plant pot",
+     "value": "+200%",
+     "extracted_value": 200,
+     "link": "https://trends.google.com/trends/explore?q=mushrooms+growing+in+plant+pot&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=mushrooms+growing+in+plant+pot&tz=420"
+    },
+    {
+     "query": "large indoor plant pots 40cm",
+     "value": "+170%",
+     "extracted_value": 170,
+     "link": "https://trends.google.com/trends/explore?q=large+indoor+plant+pots+40cm&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=large+indoor+plant+pots+40cm&tz=420"
+    },
+    {
+     "query": "xl plant pot",
+     "value": "+160%",
+     "extracted_value": 160,
+     "link": "https://trends.google.com/trends/explore?q=xl+plant+pot&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=xl+plant+pot&tz=420"
+    },
+    {
+     "query": "extra large plant pots for trees",
+     "value": "+110%",
+     "extracted_value": 110,
+     "link": "https://trends.google.com/trends/explore?q=extra+large+plant+pots+for+trees&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=extra+large+plant+pots+for+trees&tz=420"
+    },
+    {
+     "query": "monstera plant pot",
+     "value": "+110%",
+     "extracted_value": 110,
+     "link": "https://trends.google.com/trends/explore?q=monstera+plant+pot&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=monstera+plant+pot&tz=420"
+    },
+    {
+     "query": "extra large indoor plant pots",
+     "value": "+90%",
+     "extracted_value": 90,
+     "link": "https://trends.google.com/trends/explore?q=extra+large+indoor+plant+pots&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=extra+large+indoor+plant+pots&tz=420"
+    },
+    {
+     "query": "40cm plant pot",
+     "value": "+80%",
+     "extracted_value": 80,
+     "link": "https://trends.google.com/trends/explore?q=40cm+plant+pot&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=40cm+plant+pot&tz=420"
+    },
+    {
+     "query": "plant pot painting ideas",
+     "value": "+80%",
+     "extracted_value": 80,
+     "link": "https://trends.google.com/trends/explore?q=plant+pot+painting+ideas&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=plant+pot+painting+ideas&tz=420"
+    },
+    {
+     "query": "plant pot feet outdoor",
+     "value": "+70%",
+     "extracted_value": 70,
+     "link": "https://trends.google.com/trends/explore?q=plant+pot+feet+outdoor&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=plant+pot+feet+outdoor&tz=420"
+    },
+    {
+     "query": "green plant pot",
+     "value": "+70%",
+     "extracted_value": 70,
+     "link": "https://trends.google.com/trends/explore?q=green+plant+pot&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=green+plant+pot&tz=420"
+    },
+    {
+     "query": "gisela graham plant pot",
+     "value": "+70%",
+     "extracted_value": 70,
+     "link": "https://trends.google.com/trends/explore?q=gisela+graham+plant+pot&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=gisela+graham+plant+pot&tz=420"
+    },
+    {
+     "query": "large ceramic plant pots outdoor",
+     "value": "+70%",
+     "extracted_value": 70,
+     "link": "https://trends.google.com/trends/explore?q=large+ceramic+plant+pots+outdoor&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=large+ceramic+plant+pots+outdoor&tz=420"
+    },
+    {
+     "query": "big plant pot",
+     "value": "+70%",
+     "extracted_value": 70,
+     "link": "https://trends.google.com/trends/explore?q=big+plant+pot&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=big+plant+pot&tz=420"
+    },
+    {
+     "query": "45cm plant pot",
+     "value": "+70%",
+     "extracted_value": 70,
+     "link": "https://trends.google.com/trends/explore?q=45cm+plant+pot&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=45cm+plant+pot&tz=420"
+    },
+    {
+     "query": "large plant pot outdoor",
+     "value": "+60%",
+     "extracted_value": 60,
+     "link": "https://trends.google.com/trends/explore?q=large+plant+pot+outdoor&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=large+plant+pot+outdoor&tz=420"
+    },
+    {
+     "query": "30cm indoor plant pot",
+     "value": "+60%",
+     "extracted_value": 60,
+     "link": "https://trends.google.com/trends/explore?q=30cm+indoor+plant+pot&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=30cm+indoor+plant+pot&tz=420"
+    },
+    {
+     "query": "large indoor plant pot",
+     "value": "+60%",
+     "extracted_value": 60,
+     "link": "https://trends.google.com/trends/explore?q=large+indoor+plant+pot&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=large+indoor+plant+pot&tz=420"
+    },
+    {
+     "query": "plant pot feet b&m",
+     "value": "+60%",
+     "extracted_value": 60,
+     "link": "https://trends.google.com/trends/explore?q=plant+pot+feet+b%26m&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=plant+pot+feet+b%26m&tz=420"
+    },
+    {
+     "query": "black indoor plant pot",
+     "value": "+60%",
+     "extracted_value": 60,
+     "link": "https://trends.google.com/trends/explore?q=black+indoor+plant+pot&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=black+indoor+plant+pot&tz=420"
+    },
+    {
+     "query": "large black plant pot",
+     "value": "+60%",
+     "extracted_value": 60,
+     "link": "https://trends.google.com/trends/explore?q=large+black+plant+pot&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=large+black+plant+pot&tz=420"
+    },
+    {
+     "query": "50cm plant pot",
+     "value": "+50%",
+     "extracted_value": 50,
+     "link": "https://trends.google.com/trends/explore?q=50cm+plant+pot&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=50cm+plant+pot&tz=420"
+    },
+    {
+     "query": "60cm plant pot",
+     "value": "+50%",
+     "extracted_value": 50,
+     "link": "https://trends.google.com/trends/explore?q=60cm+plant+pot&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=60cm+plant+pot&tz=420"
+    },
+    {
+     "query": "extra large plant pot",
+     "value": "+50%",
+     "extracted_value": 50,
+     "link": "https://trends.google.com/trends/explore?q=extra+large+plant+pot&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=extra+large+plant+pot&tz=420"
+    },
+    {
+     "query": "self watering plant pot",
+     "value": "+50%",
+     "extracted_value": 50,
+     "link": "https://trends.google.com/trends/explore?q=self+watering+plant+pot&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=self+watering+plant+pot&tz=420"
+    }
+   ],
+   "top": [
+    {
+     "query": "pot plant pots",
+     "value": "100",
+     "extracted_value": 100,
+     "link": "https://trends.google.com/trends/explore?q=pot+plant+pots&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=pot+plant+pots&tz=420"
+    },
+    {
+     "query": "plant pots",
+     "value": "98",
+     "extracted_value": 98,
+     "link": "https://trends.google.com/trends/explore?q=plant+pots&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=plant+pots&tz=420"
+    },
+    {
+     "query": "plant pot large",
+     "value": "62",
+     "extracted_value": 62,
+     "link": "https://trends.google.com/trends/explore?q=plant+pot+large&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=plant+pot+large&tz=420"
+    },
+    {
+     "query": "large pot",
+     "value": "61",
+     "extracted_value": 61,
+     "link": "https://trends.google.com/trends/explore?q=large+pot&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=large+pot&tz=420"
+    },
+    {
+     "query": "indoor plant pot",
+     "value": "61",
+     "extracted_value": 61,
+     "link": "https://trends.google.com/trends/explore?q=indoor+plant+pot&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=indoor+plant+pot&tz=420"
+    },
+    {
+     "query": "indoor plant",
+     "value": "58",
+     "extracted_value": 58,
+     "link": "https://trends.google.com/trends/explore?q=indoor+plant&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=indoor+plant&tz=420"
+    },
+    {
+     "query": "planter",
+     "value": "37",
+     "extracted_value": 37,
+     "link": "https://trends.google.com/trends/explore?q=planter&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=planter&tz=420"
+    },
+    {
+     "query": "plant pot outdoor",
+     "value": "37",
+     "extracted_value": 37,
+     "link": "https://trends.google.com/trends/explore?q=plant+pot+outdoor&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=plant+pot+outdoor&tz=420"
+    },
+    {
+     "query": "plants",
+     "value": "34",
+     "extracted_value": 34,
+     "link": "https://trends.google.com/trends/explore?q=plants&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=plants&tz=420"
+    },
+    {
+     "query": "pot plant stand",
+     "value": "33",
+     "extracted_value": 33,
+     "link": "https://trends.google.com/trends/explore?q=pot+plant+stand&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=pot+plant+stand&tz=420"
+    },
+    {
+     "query": "pot stand",
+     "value": "32",
+     "extracted_value": 32,
+     "link": "https://trends.google.com/trends/explore?q=pot+stand&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=pot+stand&tz=420"
+    },
+    {
+     "query": "plant stand",
+     "value": "32",
+     "extracted_value": 32,
+     "link": "https://trends.google.com/trends/explore?q=plant+stand&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=plant+stand&tz=420"
+    },
+    {
+     "query": "large plant pots",
+     "value": "24",
+     "extracted_value": 24,
+     "link": "https://trends.google.com/trends/explore?q=large+plant+pots&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=large+plant+pots&tz=420"
+    },
+    {
+     "query": "plastic plant pot",
+     "value": "21",
+     "extracted_value": 21,
+     "link": "https://trends.google.com/trends/explore?q=plastic+plant+pot&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=plastic+plant+pot&tz=420"
+    },
+    {
+     "query": "white plant pot",
+     "value": "20",
+     "extracted_value": 20,
+     "link": "https://trends.google.com/trends/explore?q=white+plant+pot&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=white+plant+pot&tz=420"
+    },
+    {
+     "query": "flower pot",
+     "value": "19",
+     "extracted_value": 19,
+     "link": "https://trends.google.com/trends/explore?q=flower+pot&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=flower+pot&tz=420"
+    },
+    {
+     "query": "black plant pot",
+     "value": "18",
+     "extracted_value": 18,
+     "link": "https://trends.google.com/trends/explore?q=black+plant+pot&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=black+plant+pot&tz=420"
+    },
+    {
+     "query": "indoor plant pots",
+     "value": "18",
+     "extracted_value": 18,
+     "link": "https://trends.google.com/trends/explore?q=indoor+plant+pots&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=indoor+plant+pots&tz=420"
+    },
+    {
+     "query": "small plant pot",
+     "value": "16",
+     "extracted_value": 16,
+     "link": "https://trends.google.com/trends/explore?q=small+plant+pot&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=small+plant+pot&tz=420"
+    },
+    {
+     "query": "terracotta pot",
+     "value": "16",
+     "extracted_value": 16,
+     "link": "https://trends.google.com/trends/explore?q=terracotta+pot&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=terracotta+pot&tz=420"
+    },
+    {
+     "query": "tall plant pot",
+     "value": "15",
+     "extracted_value": 15,
+     "link": "https://trends.google.com/trends/explore?q=tall+plant+pot&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=tall+plant+pot&tz=420"
+    },
+    {
+     "query": "large indoor plant pot",
+     "value": "15",
+     "extracted_value": 15,
+     "link": "https://trends.google.com/trends/explore?q=large+indoor+plant+pot&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=large+indoor+plant+pot&tz=420"
+    },
+    {
+     "query": "terracotta",
+     "value": "15",
+     "extracted_value": 15,
+     "link": "https://trends.google.com/trends/explore?q=terracotta&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=terracotta&tz=420"
+    },
+    {
+     "query": "ceramic plant pot",
+     "value": "15",
+     "extracted_value": 15,
+     "link": "https://trends.google.com/trends/explore?q=ceramic+plant+pot&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=ceramic+plant+pot&tz=420"
+    },
+    {
+     "query": "planters",
+     "value": "15",
+     "extracted_value": 15,
+     "link": "https://trends.google.com/trends/explore?q=planters&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=planters&tz=420"
+    }
+   ]
+  }
+ }
+}

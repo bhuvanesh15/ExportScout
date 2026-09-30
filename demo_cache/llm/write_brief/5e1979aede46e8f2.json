@@ -1,0 +1,15 @@
+{
+ "task": "write_brief",
+ "model": "claude-opus-5-5",
+ "created_at": "2026-09-30T10:52:25+00:00",
+ "output": {
+  "summary_md": "**Verdict: GO. Market score estimate 62/100.** Estimated quote: £7.73 (₹986) per piece via an importer, or £13.92 (₹1,774) direct to a retailer. Your cost is ₹710. Estimated margin is 28% via an importer and 60% direct. The UK retail median is £42.27 across 224 listings [ev:google_shopping:4a6b7706:0]. Some of these are electric or oil lamps.\n\n**Demand and timing:** Estimated interest is 36/100, up 4% year on year. This uses the broader term \"candle lantern\" [ev:google_trends:734c2fba:0]. Interest peaks Oct–Dec. Buyers choose ranges around Apr–Jun, 7 months from now.\n\n**Competition and origin:** 5 of 6 Amazon products checked are made in China, and 0 in India. On eBay, 7 of 60 listings are in India [ev:ebay:ea8dfc0d:2]. Duty from India is 0% under the India-UK CETA, but only with valid proof of origin.\n\n**Top complaints:** thin metal [ev:amazon_product:6eb52424:review.1], loose glass or bent doors [ev:amazon_product:6eb52424:review.0], glass broken in transit [ev:amazon_product:3a79d7c6:review.4], and paint chips or sharp edges [ev:amazon_product:77d2ac65:review.2]. Customers love the look and glow [ev:amazon_product:6eb52424:review.4].\n\n**Buyers:** Contact Kayu Home first. It sells brass lanterns and sources Indian pieces [ev:google_shopping:4a6b7706:34]. Then try Casa by JJ [ev:google_shopping:4a6b7706:33] and Turquoise Living [ev:google_shopping:4a6b7706:35], which sell hurricane lanterns. Online Lighting and Electricpoint score higher but sell electric pendants [ev:google_shopping:2ae8396b:1]. Check their fit first.\n\n**Next step:** Make a sample that fixes these complaints. Then email Kayu Home before April.",
+  "spec_improvements": [
+   "Use a heavier brass gauge and state the thickness on the spec sheet so the lantern does not feel tinny.",
+   "Hold each glass panel with metal clips and silicone, and test every door and latch before packing.",
+   "Pack each lantern in a double-wall carton with moulded pulp inserts, mark it FRAGILE, and drop-test to ISTA 1A.",
+   "Deburr all edges and use a durable baked coating, with a paint-finish check at final QC.",
+   "For nested sets, pack each lantern separately or add a pull-tab insert so the smaller one lifts out easily."
+  ]
+ }
+}

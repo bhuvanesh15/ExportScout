@@ -1,0 +1,2741 @@
+{
+ "inputs": {
+  "image_path": "demo_cache/images/lantern.jpg",
+  "image_url": null,
+  "description": "brass hurricane lantern",
+  "unit_cost_inr": 650.0,
+  "extra_costs_inr": 60.0,
+  "moq": 200,
+  "material": "brass",
+  "finish": "antique gold",
+  "market": "uk",
+  "category": "metal_handicrafts",
+  "assumption_overrides": {}
+ },
+ "market": "uk",
+ "market_label": "United Kingdom",
+ "product": {
+  "product_type": "hurricane lantern",
+  "keywords": [
+   "brass hurricane lantern",
+   "gold metal lantern",
+   "antique brass lantern"
+  ],
+  "broad_term": "lantern",
+  "material": "brass",
+  "style_tags": [
+   "antique",
+   "gold"
+  ]
+ },
+ "listings": [
+  {
+   "channel": "amazon",
+   "title": "Sample antique brass hurricane lantern, 30 cm",
+   "price": 34.99,
+   "currency": "GBP",
+   "url": "https://example.com/sample/amazon/0",
+   "merchant": null,
+   "brand": "Sample Lantern House",
+   "rating": 3.9,
+   "reviews": 412,
+   "bought_last_month": 200,
+   "asin": "B0SAMPLE00",
+   "location": null,
+   "sponsored": false,
+   "thumbnail": null,
+   "evidence_id": "amazon:a953229d:0"
+  },
+  {
+   "channel": "amazon",
+   "title": "Example gold metal lantern with glass, large",
+   "price": 42.5,
+   "currency": "GBP",
+   "url": "https://example.com/sample/amazon/1",
+   "merchant": null,
+   "brand": "Example Homeware",
+   "rating": 4.1,
+   "reviews": 128,
+   "bought_last_month": 100,
+   "asin": "B0SAMPLE01",
+   "location": null,
+   "sponsored": true,
+   "thumbnail": null,
+   "evidence_id": "amazon:a953229d:1"
+  },
+  {
+   "channel": "amazon",
+   "title": "Demo brass candle lantern, set of 2",
+   "price": 55.0,
+   "currency": "GBP",
+   "url": "https://example.com/sample/amazon/2",
+   "merchant": null,
+   "brand": "Demo Interiors",
+   "rating": 4.3,
+   "reviews": 87,
+   "bought_last_month": 50,
+   "asin": "B0SAMPLE02",
+   "location": null,
+   "sponsored": false,
+   "thumbnail": null,
+   "evidence_id": "amazon:a953229d:2"
+  },
+  {
+   "channel": "amazon",
+   "title": "Placeholder hammered brass lantern",
+   "price": 27.99,
+   "currency": "GBP",
+   "url": "https://example.com/sample/amazon/3",
+   "merchant": null,
+   "brand": null,
+   "rating": 4.5,
+   "reviews": 1540,
+   "bought_last_month": 500,
+   "asin": "B0SAMPLE03",
+   "location": null,
+   "sponsored": false,
+   "thumbnail": null,
+   "evidence_id": "amazon:a953229d:3"
+  },
+  {
+   "channel": "amazon",
+   "title": "Sample Moroccan-style brass lantern",
+   "price": 39.95,
+   "currency": "GBP",
+   "url": "https://example.com/sample/amazon/4",
+   "merchant": null,
+   "brand": "Fictional Brass & Bloom",
+   "rating": 4.7,
+   "reviews": 64,
+   "bought_last_month": null,
+   "asin": "B0SAMPLE04",
+   "location": null,
+   "sponsored": false,
+   "thumbnail": null,
+   "evidence_id": "amazon:a953229d:4"
+  },
+  {
+   "channel": "amazon",
+   "title": "Example hurricane lamp, antique gold finish",
+   "price": 24.99,
+   "currency": "GBP",
+   "url": "https://example.com/sample/amazon/5",
+   "merchant": null,
+   "brand": null,
+   "rating": 3.9,
+   "reviews": 2210,
+   "bought_last_month": 1000,
+   "asin": "B0SAMPLE05",
+   "location": null,
+   "sponsored": false,
+   "thumbnail": null,
+   "evidence_id": "amazon:a953229d:5"
+  },
+  {
+   "channel": "amazon",
+   "title": "Demo brass garden lantern, 45 cm",
+   "price": 64.99,
+   "currency": "GBP",
+   "url": "https://example.com/sample/amazon/6",
+   "merchant": null,
+   "brand": "Demo Interiors",
+   "rating": 4.1,
+   "reviews": 33,
+   "bought_last_month": null,
+   "asin": "B0SAMPLE06",
+   "location": null,
+   "sponsored": true,
+   "thumbnail": null,
+   "evidence_id": "amazon:a953229d:6"
+  },
+  {
+   "channel": "amazon",
+   "title": "Sample tealight lantern, brushed brass",
+   "price": 29.5,
+   "currency": "GBP",
+   "url": "https://example.com/sample/amazon/7",
+   "merchant": null,
+   "brand": null,
+   "rating": 4.3,
+   "reviews": 356,
+   "bought_last_month": 100,
+   "asin": "B0SAMPLE07",
+   "location": null,
+   "sponsored": false,
+   "thumbnail": null,
+   "evidence_id": "amazon:a953229d:7"
+  },
+  {
+   "channel": "amazon",
+   "title": "Placeholder vintage brass storm lantern",
+   "price": 48.0,
+   "currency": "GBP",
+   "url": "https://example.com/sample/amazon/8",
+   "merchant": null,
+   "brand": "Placeholder Home Store",
+   "rating": 4.5,
+   "reviews": 19,
+   "bought_last_month": null,
+   "asin": "B0SAMPLE08",
+   "location": null,
+   "sponsored": false,
+   "thumbnail": null,
+   "evidence_id": "amazon:a953229d:8"
+  },
+  {
+   "channel": "amazon",
+   "title": "Example brass lantern with handle, small",
+   "price": 22.99,
+   "currency": "GBP",
+   "url": "https://example.com/sample/amazon/9",
+   "merchant": null,
+   "brand": null,
+   "rating": 4.7,
+   "reviews": 980,
+   "bought_last_month": 300,
+   "asin": "B0SAMPLE09",
+   "location": null,
+   "sponsored": false,
+   "thumbnail": null,
+   "evidence_id": "amazon:a953229d:9"
+  },
+  {
+   "channel": "amazon",
+   "title": "Sample handmade brass lantern (made in India)",
+   "price": 44.99,
+   "currency": "GBP",
+   "url": "https://example.com/sample/amazon/10",
+   "merchant": null,
+   "brand": "Sample Lantern House",
+   "rating": 3.9,
+   "reviews": 71,
+   "bought_last_month": 50,
+   "asin": "B0SAMPLE10",
+   "location": null,
+   "sponsored": false,
+   "thumbnail": null,
+   "evidence_id": "amazon:a953229d:10"
+  },
+  {
+   "channel": "amazon",
+   "title": "Demo pillar candle hurricane, gold",
+   "price": 36.0,
+   "currency": "GBP",
+   "url": "https://example.com/sample/amazon/11",
+   "merchant": null,
+   "brand": null,
+   "rating": 4.1,
+   "reviews": 245,
+   "bought_last_month": null,
+   "asin": "B0SAMPLE11",
+   "location": null,
+   "sponsored": false,
+   "thumbnail": null,
+   "evidence_id": "amazon:a953229d:11"
+  },
+  {
+   "channel": "google_shopping",
+   "title": "Sample brass hurricane lantern",
+   "price": 45.0,
+   "currency": "GBP",
+   "url": "https://example.com/sample/shopping/0",
+   "merchant": "Sample Lantern House",
+   "brand": null,
+   "rating": 4.1,
+   "reviews": 10,
+   "bought_last_month": null,
+   "asin": null,
+   "location": null,
+   "sponsored": false,
+   "thumbnail": null,
+   "evidence_id": "google_shopping:a825e508:0"
+  },
+  {
+   "channel": "google_shopping",
+   "title": "Example antique lantern, gold",
+   "price": 38.0,
+   "currency": "GBP",
+   "url": "https://example.com/sample/shopping/1",
+   "merchant": "Example Homeware",
+   "brand": null,
+   "rating": 4.3,
+   "reviews": 17,
+   "bought_last_month": null,
+   "asin": null,
+   "location": null,
+   "sponsored": false,
+   "thumbnail": null,
+   "evidence_id": "google_shopping:a825e508:1"
+  },
+  {
+   "channel": "google_shopping",
+   "title": "Fictional brass storm lantern, large",
+   "price": 89.0,
+   "currency": "GBP",
+   "url": "https://example.com/sample/shopping/2",
+   "merchant": "Fictional Brass & Bloom",
+   "brand": null,
+   "rating": 4.5,
+   "reviews": 24,
+   "bought_last_month": null,
+   "asin": null,
+   "location": null,
+   "sponsored": false,
+   "thumbnail": null,
+   "evidence_id": "google_shopping:a825e508:2"
+  },
+  {
+   "channel": "google_shopping",
+   "title": "Demo hurricane candle holder, brass",
+   "price": 32.0,
+   "currency": "GBP",
+   "url": "https://example.com/sample/shopping/3",
+   "merchant": "Demo Interiors",
+   "brand": null,
+   "rating": 4.7,
+   "reviews": 31,
+   "bought_last_month": null,
+   "asin": null,
+   "location": null,
+   "sponsored": false,
+   "thumbnail": null,
+   "evidence_id": "google_shopping:a825e508:3"
+  },
+  {
+   "channel": "google_shopping",
+   "title": "Placeholder metal lantern, gold",
+   "price": 28.0,
+   "currency": "GBP",
+   "url": "https://example.com/sample/shopping/4",
+   "merchant": "Placeholder Home Store",
+   "brand": null,
+   "rating": 4.1,
+   "reviews": 38,
+   "bought_last_month": null,
+   "asin": null,
+   "location": null,
+   "sponsored": false,
+   "thumbnail": null,
+   "evidence_id": "google_shopping:a825e508:4"
+  },
+  {
+   "channel": "google_shopping",
+   "title": "Sample brass lantern, hand-finished",
+   "price": 58.0,
+   "currency": "GBP",
+   "url": "https://example.com/sample/shopping/5",
+   "merchant": "Sample Lantern House",
+   "brand": null,
+   "rating": 4.3,
+   "reviews": 45,
+   "bought_last_month": null,
+   "asin": null,
+   "location": null,
+   "sponsored": false,
+   "thumbnail": null,
+   "evidence_id": "google_shopping:a825e508:5"
+  },
+  {
+   "channel": "google_shopping",
+   "title": "Example hurricane lantern with glass chimney",
+   "price": 41.0,
+   "currency": "GBP",
+   "url": "https://example.com/sample/shopping/6",
+   "merchant": "Example Homeware",
+   "brand": null,
+   "rating": 4.5,
+   "reviews": 52,
+   "bought_last_month": null,
+   "asin": null,
+   "location": null,
+   "sponsored": false,
+   "thumbnail": null,
+   "evidence_id": "google_shopping:a825e508:6"
+  },
+  {
+   "channel": "google_shopping",
+   "title": "Fictional hammered lantern",
+   "price": 72.0,
+   "currency": "GBP",
+   "url": "https://example.com/sample/shopping/7",
+   "merchant": "Fictional Brass & Bloom",
+   "brand": null,
+   "rating": 4.7,
+   "reviews": 59,
+   "bought_last_month": null,
+   "asin": null,
+   "location": null,
+   "sponsored": false,
+   "thumbnail": null,
+   "evidence_id": "google_shopping:a825e508:7"
+  },
+  {
+   "channel": "google_shopping",
+   "title": "Demo brass lantern, 35 cm",
+   "price": 47.5,
+   "currency": "GBP",
+   "url": "https://example.com/sample/shopping/8",
+   "merchant": "Demo Interiors",
+   "brand": null,
+   "rating": 4.1,
+   "reviews": 66,
+   "bought_last_month": null,
+   "asin": null,
+   "location": null,
+   "sponsored": false,
+   "thumbnail": null,
+   "evidence_id": "google_shopping:a825e508:8"
+  },
+  {
+   "channel": "google_shopping",
+   "title": "Placeholder brass tealight lantern",
+   "price": 26.0,
+   "currency": "GBP",
+   "url": "https://example.com/sample/shopping/9",
+   "merchant": "Placeholder Home Store",
+   "brand": null,
+   "rating": 4.3,
+   "reviews": 73,
+   "bought_last_month": null,
+   "asin": null,
+   "location": null,
+   "sponsored": false,
+   "thumbnail": null,
+   "evidence_id": "google_shopping:a825e508:9"
+  },
+  {
+   "channel": "google_shopping",
+   "title": "Sample Moroccan brass lantern",
+   "price": 65.0,
+   "currency": "GBP",
+   "url": "https://example.com/sample/shopping/10",
+   "merchant": "Imaginary Imports",
+   "brand": null,
+   "rating": 4.5,
+   "reviews": 80,
+   "bought_last_month": null,
+   "asin": null,
+   "location": null,
+   "sponsored": false,
+   "thumbnail": null,
+   "evidence_id": "google_shopping:a825e508:10"
+  },
+  {
+   "channel": "google_shopping",
+   "title": "Example brass candle lantern, pair",
+   "price": 52.0,
+   "currency": "GBP",
+   "url": "https://example.com/sample/shopping/11",
+   "merchant": "Imaginary Imports",
+   "brand": null,
+   "rating": 4.7,
+   "reviews": 87,
+   "bought_last_month": null,
+   "asin": null,
+   "location": null,
+   "sponsored": false,
+   "thumbnail": null,
+   "evidence_id": "google_shopping:a825e508:11"
+  },
+  {
+   "channel": "google_shopping",
+   "title": "Demo brass lantern, antique finish",
+   "price": 43.0,
+   "currency": "GBP",
+   "url": "https://example.com/sample/shopping/12",
+   "merchant": "Demo Interiors",
+   "brand": null,
+   "rating": 4.1,
+   "reviews": 94,
+   "bought_last_month": null,
+   "asin": null,
+   "location": null,
+   "sponsored": false,
+   "thumbnail": null,
+   "evidence_id": "google_shopping:a825e508:12"
+  }
+ ],
+ "ladder": {
+  "currency": "GBP",
+  "n": 25,
+  "min": 22.99,
+  "p25": 32.0,
+  "p50": 42.5,
+  "p75": 52.0,
+  "max": 89.0,
+  "by_channel": {
+   "amazon": {
+    "n": 12,
+    "p25": 29.12,
+    "p50": 37.98,
+    "p75": 45.74
+   },
+   "google_shopping": {
+    "n": 13,
+    "p25": 38.0,
+    "p50": 45.0,
+    "p75": 58.0
+   }
+  },
+  "evidence_ids": [
+   "amazon:a953229d:0",
+   "amazon:a953229d:1",
+   "amazon:a953229d:2",
+   "amazon:a953229d:3",
+   "amazon:a953229d:4",
+   "amazon:a953229d:5",
+   "amazon:a953229d:6",
+   "amazon:a953229d:7",
+   "amazon:a953229d:8",
+   "amazon:a953229d:9",
+   "amazon:a953229d:10",
+   "amazon:a953229d:11",
+   "google_shopping:a825e508:0",
+   "google_shopping:a825e508:1",
+   "google_shopping:a825e508:2",
+   "google_shopping:a825e508:3",
+   "google_shopping:a825e508:4",
+   "google_shopping:a825e508:5",
+   "google_shopping:a825e508:6",
+   "google_shopping:a825e508:7",
+   "google_shopping:a825e508:8",
+   "google_shopping:a825e508:9",
+   "google_shopping:a825e508:10",
+   "google_shopping:a825e508:11",
+   "google_shopping:a825e508:12"
+  ]
+ },
+ "quote": {
+  "currency": "GBP",
+  "retail_median": 42.5,
+  "retail_ex_vat": 35.42,
+  "fob_importer": 7.78,
+  "fob_retailer": 14.0,
+  "fx_rate": 112.4,
+  "fob_importer_inr": 874.5,
+  "fob_retailer_inr": 1573.6,
+  "unit_cost_inr": 650.0,
+  "total_cost_inr": 710.0,
+  "margin_retailer": 0.549,
+  "margin_importer": 0.188,
+  "verdict": "go",
+  "assumptions": {
+   "vat_rate": 0.2,
+   "retailer_markup": 2.2,
+   "importer_markup": 1.8,
+   "freight_ins_pct": 0.15,
+   "duty_pct": 0.0
+  }
+ },
+ "demand": {
+  "term": "brass hurricane lantern",
+  "is_proxy": false,
+  "mean_12m": 58.7,
+  "yoy_change": 0.056,
+  "peak_months": [
+   12,
+   11,
+   10
+  ],
+  "top_regions": [
+   "London",
+   "South East",
+   "North West"
+  ],
+  "related_queries": [
+   "gold lantern",
+   "large hurricane lantern",
+   "outdoor lantern brass"
+  ],
+  "autocomplete": [
+   "brass lantern large",
+   "brass lantern outdoor",
+   "brass lantern with glass"
+  ],
+  "months_to_window": 1,
+  "buying_window_note": "UK buyers pick October–December ranges around April–June. Pitch now for the 2027 season.",
+  "timeline": [
+   [
+    "2021-10-03",
+    41
+   ],
+   [
+    "2021-10-10",
+    54
+   ],
+   [
+    "2021-10-17",
+    57
+   ],
+   [
+    "2021-10-24",
+    60
+   ],
+   [
+    "2021-10-31",
+    62
+   ],
+   [
+    "2021-11-07",
+    65
+   ],
+   [
+    "2021-11-14",
+    66
+   ],
+   [
+    "2021-11-21",
+    68
+   ],
+   [
+    "2021-11-28",
+    68
+   ],
+   [
+    "2021-12-05",
+    68
+   ],
+   [
+    "2021-12-12",
+    66
+   ],
+   [
+    "2021-12-19",
+    64
+   ],
+   [
+    "2021-12-26",
+    72
+   ],
+   [
+    "2022-01-02",
+    69
+   ],
+   [
+    "2022-01-09",
+    65
+   ],
+   [
+    "2022-01-16",
+    61
+   ],
+   [
+    "2022-01-23",
+    56
+   ],
+   [
+    "2022-01-30",
+    51
+   ],
+   [
+    "2022-02-06",
+    47
+   ],
+   [
+    "2022-02-13",
+    43
+   ],
+   [
+    "2022-02-20",
+    40
+   ],
+   [
+    "2022-02-27",
+    37
+   ],
+   [
+    "2022-03-06",
+    34
+   ],
+   [
+    "2022-03-13",
+    44
+   ],
+   [
+    "2022-03-20",
+    42
+   ],
+   [
+    "2022-03-27",
+    40
+   ],
+   [
+    "2022-04-03",
+    39
+   ],
+   [
+    "2022-04-10",
+    37
+   ],
+   [
+    "2022-04-17",
+    36
+   ],
+   [
+    "2022-04-24",
+    34
+   ],
+   [
+    "2022-05-01",
+    33
+   ],
+   [
+    "2022-05-08",
+    32
+   ],
+   [
+    "2022-05-15",
+    30
+   ],
+   [
+    "2022-05-22",
+    29
+   ],
+   [
+    "2022-05-29",
+    39
+   ],
+   [
+    "2022-06-05",
+    38
+   ],
+   [
+    "2022-06-12",
+    37
+   ],
+   [
+    "2022-06-19",
+    36
+   ],
+   [
+    "2022-06-26",
+    36
+   ],
+   [
+    "2022-07-03",
+    35
+   ],
+   [
+    "2022-07-10",
+    34
+   ],
+   [
+    "2022-07-17",
+    34
+   ],
+   [
+    "2022-07-24",
+    33
+   ],
+   [
+    "2022-07-31",
+    33
+   ],
+   [
+    "2022-08-07",
+    33
+   ],
+   [
+    "2022-08-14",
+    43
+   ],
+   [
+    "2022-08-21",
+    43
+   ],
+   [
+    "2022-08-28",
+    43
+   ],
+   [
+    "2022-09-04",
+    43
+   ],
+   [
+    "2022-09-11",
+    43
+   ],
+   [
+    "2022-09-18",
+    43
+   ],
+   [
+    "2022-09-25",
+    45
+   ],
+   [
+    "2022-10-02",
+    47
+   ],
+   [
+    "2022-10-09",
+    49
+   ],
+   [
+    "2022-10-16",
+    52
+   ],
+   [
+    "2022-10-23",
+    54
+   ],
+   [
+    "2022-10-30",
+    68
+   ],
+   [
+    "2022-11-06",
+    70
+   ],
+   [
+    "2022-11-13",
+    72
+   ],
+   [
+    "2022-11-20",
+    73
+   ],
+   [
+    "2022-11-27",
+    74
+   ],
+   [
+    "2022-12-04",
+    74
+   ],
+   [
+    "2022-12-11",
+    73
+   ],
+   [
+    "2022-12-18",
+    71
+   ],
+   [
+    "2022-12-25",
+    68
+   ],
+   [
+    "2023-01-01",
+    64
+   ],
+   [
+    "2023-01-08",
+    60
+   ],
+   [
+    "2023-01-15",
+    67
+   ],
+   [
+    "2023-01-22",
+    63
+   ],
+   [
+    "2023-01-29",
+    58
+   ],
+   [
+    "2023-02-05",
+    54
+   ],
+   [
+    "2023-02-12",
+    50
+   ],
+   [
+    "2023-02-19",
+    46
+   ],
+   [
+    "2023-02-26",
+    43
+   ],
+   [
+    "2023-03-05",
+    41
+   ],
+   [
+    "2023-03-12",
+    39
+   ],
+   [
+    "2023-03-19",
+    37
+   ],
+   [
+    "2023-03-26",
+    36
+   ],
+   [
+    "2023-04-02",
+    45
+   ],
+   [
+    "2023-04-09",
+    44
+   ],
+   [
+    "2023-04-16",
+    42
+   ],
+   [
+    "2023-04-23",
+    41
+   ],
+   [
+    "2023-04-30",
+    39
+   ],
+   [
+    "2023-05-07",
+    38
+   ],
+   [
+    "2023-05-14",
+    37
+   ],
+   [
+    "2023-05-21",
+    35
+   ],
+   [
+    "2023-05-28",
+    34
+   ],
+   [
+    "2023-06-04",
+    33
+   ],
+   [
+    "2023-06-11",
+    32
+   ],
+   [
+    "2023-06-18",
+    42
+   ],
+   [
+    "2023-06-25",
+    42
+   ],
+   [
+    "2023-07-02",
+    41
+   ],
+   [
+    "2023-07-09",
+    40
+   ],
+   [
+    "2023-07-16",
+    40
+   ],
+   [
+    "2023-07-23",
+    39
+   ],
+   [
+    "2023-07-30",
+    39
+   ],
+   [
+    "2023-08-06",
+    39
+   ],
+   [
+    "2023-08-13",
+    38
+   ],
+   [
+    "2023-08-20",
+    38
+   ],
+   [
+    "2023-08-27",
+    38
+   ],
+   [
+    "2023-09-03",
+    49
+   ],
+   [
+    "2023-09-10",
+    49
+   ],
+   [
+    "2023-09-17",
+    49
+   ],
+   [
+    "2023-09-24",
+    51
+   ],
+   [
+    "2023-10-01",
+    52
+   ],
+   [
+    "2023-10-08",
+    55
+   ],
+   [
+    "2023-10-15",
+    57
+   ],
+   [
+    "2023-10-22",
+    60
+   ],
+   [
+    "2023-10-29",
+    63
+   ],
+   [
+    "2023-11-05",
+    65
+   ],
+   [
+    "2023-11-12",
+    67
+   ],
+   [
+    "2023-11-19",
+    79
+   ],
+   [
+    "2023-11-26",
+    80
+   ],
+   [
+    "2023-12-03",
+    80
+   ],
+   [
+    "2023-12-10",
+    79
+   ],
+   [
+    "2023-12-17",
+    77
+   ],
+   [
+    "2023-12-24",
+    74
+   ],
+   [
+    "2023-12-31",
+    71
+   ],
+   [
+    "2024-01-07",
+    67
+   ],
+   [
+    "2024-01-14",
+    63
+   ],
+   [
+    "2024-01-21",
+    58
+   ],
+   [
+    "2024-01-28",
+    54
+   ],
+   [
+    "2024-02-04",
+    60
+   ],
+   [
+    "2024-02-11",
+    56
+   ],
+   [
+    "2024-02-18",
+    52
+   ],
+   [
+    "2024-02-25",
+    49
+   ],
+   [
+    "2024-03-03",
+    47
+   ],
+   [
+    "2024-03-10",
+    45
+   ],
+   [
+    "2024-03-17",
+    44
+   ],
+   [
+    "2024-03-24",
+    42
+   ],
+   [
+    "2024-03-31",
+    40
+   ],
+   [
+    "2024-04-07",
+    39
+   ],
+   [
+    "2024-04-14",
+    37
+   ],
+   [
+    "2024-04-21",
+    47
+   ],
+   [
+    "2024-04-28",
+    45
+   ],
+   [
+    "2024-05-05",
+    44
+   ],
+   [
+    "2024-05-12",
+    43
+   ],
+   [
+    "2024-05-19",
+    41
+   ],
+   [
+    "2024-05-26",
+    40
+   ],
+   [
+    "2024-06-02",
+    39
+   ],
+   [
+    "2024-06-09",
+    38
+   ],
+   [
+    "2024-06-16",
+    38
+   ],
+   [
+    "2024-06-23",
+    37
+   ],
+   [
+    "2024-06-30",
+    36
+   ],
+   [
+    "2024-07-07",
+    47
+   ],
+   [
+    "2024-07-14",
+    46
+   ],
+   [
+    "2024-07-21",
+    46
+   ],
+   [
+    "2024-07-28",
+    45
+   ],
+   [
+    "2024-08-04",
+    45
+   ],
+   [
+    "2024-08-11",
+    44
+   ],
+   [
+    "2024-08-18",
+    44
+   ],
+   [
+    "2024-08-25",
+    44
+   ],
+   [
+    "2024-09-01",
+    44
+   ],
+   [
+    "2024-09-08",
+    44
+   ],
+   [
+    "2024-09-15",
+    44
+   ],
+   [
+    "2024-09-22",
+    56
+   ],
+   [
+    "2024-09-29",
+    58
+   ],
+   [
+    "2024-10-06",
+    60
+   ],
+   [
+    "2024-10-13",
+    63
+   ],
+   [
+    "2024-10-20",
+    66
+   ],
+   [
+    "2024-10-27",
+    68
+   ],
+   [
+    "2024-11-03",
+    71
+   ],
+   [
+    "2024-11-10",
+    73
+   ],
+   [
+    "2024-11-17",
+    74
+   ],
+   [
+    "2024-11-24",
+    75
+   ],
+   [
+    "2024-12-01",
+    75
+   ],
+   [
+    "2024-12-08",
+    85
+   ],
+   [
+    "2024-12-15",
+    83
+   ],
+   [
+    "2024-12-22",
+    81
+   ],
+   [
+    "2024-12-29",
+    77
+   ],
+   [
+    "2025-01-05",
+    74
+   ],
+   [
+    "2025-01-12",
+    70
+   ],
+   [
+    "2025-01-19",
+    65
+   ],
+   [
+    "2025-01-26",
+    61
+   ],
+   [
+    "2025-02-02",
+    56
+   ],
+   [
+    "2025-02-09",
+    52
+   ],
+   [
+    "2025-02-16",
+    48
+   ],
+   [
+    "2025-02-23",
+    56
+   ],
+   [
+    "2025-03-02",
+    53
+   ],
+   [
+    "2025-03-09",
+    52
+   ],
+   [
+    "2025-03-16",
+    50
+   ],
+   [
+    "2025-03-23",
+    48
+   ],
+   [
+    "2025-03-30",
+    47
+   ],
+   [
+    "2025-04-06",
+    45
+   ],
+   [
+    "2025-04-13",
+    43
+   ],
+   [
+    "2025-04-20",
+    42
+   ],
+   [
+    "2025-04-27",
+    41
+   ],
+   [
+    "2025-05-04",
+    39
+   ],
+   [
+    "2025-05-11",
+    49
+   ],
+   [
+    "2025-05-18",
+    48
+   ],
+   [
+    "2025-05-25",
+    47
+   ],
+   [
+    "2025-06-01",
+    45
+   ],
+   [
+    "2025-06-08",
+    45
+   ],
+   [
+    "2025-06-15",
+    44
+   ],
+   [
+    "2025-06-22",
+    43
+   ],
+   [
+    "2025-06-29",
+    42
+   ],
+   [
+    "2025-07-06",
+    42
+   ],
+   [
+    "2025-07-13",
+    41
+   ],
+   [
+    "2025-07-20",
+    40
+   ],
+   [
+    "2025-07-27",
+    51
+   ],
+   [
+    "2025-08-03",
+    51
+   ],
+   [
+    "2025-08-10",
+    50
+   ],
+   [
+    "2025-08-17",
+    50
+   ],
+   [
+    "2025-08-24",
+    50
+   ],
+   [
+    "2025-08-31",
+    50
+   ],
+   [
+    "2025-09-07",
+    49
+   ],
+   [
+    "2025-09-14",
+    50
+   ],
+   [
+    "2025-09-21",
+    51
+   ],
+   [
+    "2025-09-28",
+    52
+   ],
+   [
+    "2025-10-05",
+    54
+   ],
+   [
+    "2025-10-12",
+    68
+   ],
+   [
+    "2025-10-19",
+    71
+   ],
+   [
+    "2025-10-26",
+    73
+   ],
+   [
+    "2025-11-02",
+    76
+   ],
+   [
+    "2025-11-09",
+    78
+   ],
+   [
+    "2025-11-16",
+    80
+   ],
+   [
+    "2025-11-23",
+    81
+   ],
+   [
+    "2025-11-30",
+    81
+   ],
+   [
+    "2025-12-07",
+    80
+   ],
+   [
+    "2025-12-14",
+    79
+   ],
+   [
+    "2025-12-21",
+    76
+   ],
+   [
+    "2025-12-28",
+    84
+   ],
+   [
+    "2026-01-04",
+    81
+   ],
+   [
+    "2026-01-11",
+    76
+   ],
+   [
+    "2026-01-18",
+    72
+   ],
+   [
+    "2026-01-25",
+    67
+   ],
+   [
+    "2026-02-01",
+    63
+   ],
+   [
+    "2026-02-08",
+    59
+   ],
+   [
+    "2026-02-15",
+    55
+   ],
+   [
+    "2026-02-22",
+    51
+   ],
+   [
+    "2026-03-01",
+    49
+   ],
+   [
+    "2026-03-08",
+    47
+   ],
+   [
+    "2026-03-15",
+    56
+   ],
+   [
+    "2026-03-22",
+    54
+   ],
+   [
+    "2026-03-29",
+    53
+   ],
+   [
+    "2026-04-05",
+    51
+   ],
+   [
+    "2026-04-12",
+    50
+   ],
+   [
+    "2026-04-19",
+    48
+   ],
+   [
+    "2026-04-26",
+    47
+   ],
+   [
+    "2026-05-03",
+    45
+   ],
+   [
+    "2026-05-10",
+    44
+   ],
+   [
+    "2026-05-17",
+    43
+   ],
+   [
+    "2026-05-24",
+    42
+   ],
+   [
+    "2026-05-31",
+    52
+   ],
+   [
+    "2026-06-07",
+    51
+   ],
+   [
+    "2026-06-14",
+    50
+   ],
+   [
+    "2026-06-21",
+    49
+   ],
+   [
+    "2026-06-28",
+    48
+   ],
+   [
+    "2026-07-05",
+    48
+   ],
+   [
+    "2026-07-12",
+    47
+   ],
+   [
+    "2026-07-19",
+    47
+   ],
+   [
+    "2026-07-26",
+    46
+   ],
+   [
+    "2026-08-02",
+    46
+   ],
+   [
+    "2026-08-09",
+    45
+   ],
+   [
+    "2026-08-16",
+    56
+   ],
+   [
+    "2026-08-23",
+    56
+   ],
+   [
+    "2026-08-30",
+    56
+   ],
+   [
+    "2026-09-06",
+    55
+   ],
+   [
+    "2026-09-13",
+    56
+   ],
+   [
+    "2026-09-20",
+    57
+   ]
+  ],
+  "evidence_ids": [
+   "google_trends:0b56b091:0",
+   "google_trends:ad079afa:0",
+   "google_autocomplete:870a28b9:0"
+  ]
+ },
+ "origin": {
+  "checked": 6,
+  "india": 2,
+  "china": 3,
+  "other": 0,
+  "unknown": 1,
+  "ebay_total": 40,
+  "ebay_from_india": 7,
+  "india_examples": [
+   "amazon_product:b060435a:0"
+  ],
+  "evidence_ids": [
+   "amazon_product:b060435a:0",
+   "amazon_product:3760fc2a:0",
+   "ebay:922f7c13:3"
+  ]
+ },
+ "themes": [
+  {
+   "label": "Tarnishing / discolouration",
+   "kind": "complaint",
+   "count": 9,
+   "share": 0.31,
+   "quotes": [
+    "Lovely at first but went dull within a month."
+   ],
+   "fix": "Offer anti-tarnish lacquer coating and include care instructions.",
+   "evidence_ids": [
+    "amazon_product:3760fc2a:0"
+   ]
+  },
+  {
+   "label": "Broken or dented in transit",
+   "kind": "complaint",
+   "count": 6,
+   "share": 0.22,
+   "quotes": [
+    "Glass arrived cracked, box was far too thin."
+   ],
+   "fix": "Use double-wall cartons with moulded pulp inserts; drop-test to ISTA 1A.",
+   "evidence_ids": [
+    "amazon_product:3760fc2a:0"
+   ]
+  },
+  {
+   "label": "Smaller than expected",
+   "kind": "complaint",
+   "count": 4,
+   "share": 0.12,
+   "quotes": [
+    "Much smaller than the photos suggest."
+   ],
+   "fix": "Put exact dimensions (cm) and a scale photo on the spec sheet.",
+   "evidence_ids": [
+    "amazon_product:b060435a:0"
+   ]
+  },
+  {
+   "label": "Looks premium / beautiful",
+   "kind": "praise",
+   "count": 14,
+   "share": 0.48,
+   "quotes": [
+    "Looks far more expensive than it was."
+   ],
+   "fix": null,
+   "evidence_ids": [
+    "amazon_product:b060435a:0"
+   ]
+  }
+ ],
+ "buyers": [
+  {
+   "name": "Sample Lantern House",
+   "domain": "lanternhouse.example",
+   "kind": "online_brand",
+   "city": "London",
+   "website": "https://lanternhouse.example/",
+   "phone": "+44 20 7946 0000",
+   "address": null,
+   "sources": [
+    "amazon",
+    "google",
+    "google_ads_transparency_center",
+    "google_maps"
+   ],
+   "seen_texts": [],
+   "listing_prices": [
+    34.99,
+    44.99,
+    45.0,
+    58.0
+   ],
+   "review_count": 120,
+   "locations_count": 1,
+   "ad_creatives": 12,
+   "is_giant": false,
+   "enriched": true,
+   "signals": [
+    {
+     "kind": "category_match",
+     "detail": "Sells brass lanterns and candle holders",
+     "evidence_id": "google:36d5c3a6:0"
+    },
+    {
+     "kind": "india_sourcing",
+     "detail": "Lists a lantern made in India on Amazon",
+     "evidence_id": "amazon:a953229d:10"
+    },
+    {
+     "kind": "ads_active",
+     "detail": "12 UK ad creatives, last shown Sep 2026",
+     "evidence_id": "google_ads_transparency_center:d729c571:0"
+    },
+    {
+     "kind": "trade_page",
+     "detail": "Has a trade / wholesale account page",
+     "evidence_id": "google:36d5c3a6:0"
+    },
+    {
+     "kind": "phone",
+     "detail": "Phone number on Google Maps",
+     "evidence_id": "google_maps:ca960f74:0"
+    }
+   ],
+   "fit_score": 92.0,
+   "fit": {
+    "category": {
+     "points": 23.0,
+     "max_points": 25.0,
+     "detail": "Lantern range matches this product",
+     "evidence_ids": [
+      "google:36d5c3a6:0"
+     ]
+    },
+    "india": {
+     "points": 18.4,
+     "max_points": 20.0,
+     "detail": "Stocks made-in-India products",
+     "evidence_ids": [
+      "amazon:a953229d:10"
+     ]
+    },
+    "price_tier": {
+     "points": 13.8,
+     "max_points": 15.0,
+     "detail": "Their median price supports our FOB range",
+     "evidence_ids": [
+      "google:36d5c3a6:0"
+     ]
+    },
+    "activity": {
+     "points": 13.8,
+     "max_points": 15.0,
+     "detail": "UK ads live in the last 30 days",
+     "evidence_ids": [
+      "google_ads_transparency_center:d729c571:0"
+     ]
+    },
+    "size": {
+     "points": 13.8,
+     "max_points": 15.0,
+     "detail": "Independent size: a 30-worker unit can serve them",
+     "evidence_ids": [
+      "google:36d5c3a6:0"
+     ]
+    },
+    "reachability": {
+     "points": 9.2,
+     "max_points": 10.0,
+     "detail": "Website and trade page, phone",
+     "evidence_ids": [
+      "google:36d5c3a6:0"
+     ]
+    }
+   },
+   "why": "Online brand in London already selling lanterns at £35–£58"
+  },
+  {
+   "name": "Fictional Brass & Bloom",
+   "domain": "brassandbloom.example",
+   "kind": "retailer",
+   "city": "Manchester",
+   "website": "https://brassandbloom.example/",
+   "phone": "+44 20 7946 0001",
+   "address": null,
+   "sources": [
+    "google",
+    "google_ads_transparency_center",
+    "google_maps",
+    "google_news"
+   ],
+   "seen_texts": [],
+   "listing_prices": [
+    39.95,
+    72.0,
+    89.0
+   ],
+   "review_count": 160,
+   "locations_count": 2,
+   "ad_creatives": 10,
+   "is_giant": false,
+   "enriched": true,
+   "signals": [
+    {
+     "kind": "category_match",
+     "detail": "Sells brass lanterns and candle holders",
+     "evidence_id": "google:73e1cd67:1"
+    },
+    {
+     "kind": "ads_active",
+     "detail": "10 UK ad creatives, last shown Sep 2026",
+     "evidence_id": "google_ads_transparency_center:7258b570:0"
+    },
+    {
+     "kind": "trade_page",
+     "detail": "Has a trade / wholesale account page",
+     "evidence_id": "google:73e1cd67:1"
+    },
+    {
+     "kind": "phone",
+     "detail": "Phone number on Google Maps",
+     "evidence_id": "google_maps:ad0477ee:1"
+    },
+    {
+     "kind": "news",
+     "detail": "News: opening two new stores",
+     "evidence_id": "google_news:70105df2:0"
+    }
+   ],
+   "fit_score": 69.7,
+   "fit": {
+    "category": {
+     "points": 25.0,
+     "max_points": 25.0,
+     "detail": "Lantern range matches this product",
+     "evidence_ids": [
+      "google:73e1cd67:1"
+     ]
+    },
+    "india": {
+     "points": 0.0,
+     "max_points": 20.0,
+     "detail": "No India sourcing seen",
+     "evidence_ids": []
+    },
+    "price_tier": {
+     "points": 12.2,
+     "max_points": 15.0,
+     "detail": "Their median price supports our FOB range",
+     "evidence_ids": [
+      "google:73e1cd67:1"
+     ]
+    },
+    "activity": {
+     "points": 12.2,
+     "max_points": 15.0,
+     "detail": "UK ads live in the last 30 days",
+     "evidence_ids": [
+      "google_ads_transparency_center:7258b570:0"
+     ]
+    },
+    "size": {
+     "points": 12.2,
+     "max_points": 15.0,
+     "detail": "Independent size: a 30-worker unit can serve them",
+     "evidence_ids": [
+      "google:73e1cd67:1"
+     ]
+    },
+    "reachability": {
+     "points": 8.1,
+     "max_points": 10.0,
+     "detail": "Website and trade page, phone",
+     "evidence_ids": [
+      "google:73e1cd67:1"
+     ]
+    }
+   },
+   "why": "Retailer in Manchester already selling lanterns at £40–£89"
+  },
+  {
+   "name": "Demo Interiors",
+   "domain": "demointeriors.example",
+   "kind": "retailer",
+   "city": "Birmingham",
+   "website": "https://demointeriors.example/",
+   "phone": null,
+   "address": null,
+   "sources": [
+    "google",
+    "google_ads_transparency_center"
+   ],
+   "seen_texts": [],
+   "listing_prices": [
+    55.0,
+    64.99,
+    32.0,
+    47.5
+   ],
+   "review_count": 200,
+   "locations_count": 1,
+   "ad_creatives": 8,
+   "is_giant": false,
+   "enriched": true,
+   "signals": [
+    {
+     "kind": "category_match",
+     "detail": "Sells brass lanterns and candle holders",
+     "evidence_id": "google:ef1e4242:2"
+    },
+    {
+     "kind": "ads_active",
+     "detail": "8 UK ad creatives, last shown Sep 2026",
+     "evidence_id": "google_ads_transparency_center:761dc2f7:0"
+    },
+    {
+     "kind": "trade_page",
+     "detail": "Has a trade / wholesale account page",
+     "evidence_id": "google:ef1e4242:2"
+    }
+   ],
+   "fit_score": 62.4,
+   "fit": {
+    "category": {
+     "points": 25.0,
+     "max_points": 25.0,
+     "detail": "Lantern range matches this product",
+     "evidence_ids": [
+      "google:ef1e4242:2"
+     ]
+    },
+    "india": {
+     "points": 0.0,
+     "max_points": 20.0,
+     "detail": "No India sourcing seen",
+     "evidence_ids": []
+    },
+    "price_tier": {
+     "points": 10.2,
+     "max_points": 15.0,
+     "detail": "Their median price supports our FOB range",
+     "evidence_ids": [
+      "google:ef1e4242:2"
+     ]
+    },
+    "activity": {
+     "points": 10.2,
+     "max_points": 15.0,
+     "detail": "UK ads live in the last 30 days",
+     "evidence_ids": [
+      "google_ads_transparency_center:761dc2f7:0"
+     ]
+    },
+    "size": {
+     "points": 10.2,
+     "max_points": 15.0,
+     "detail": "Independent size: a 30-worker unit can serve them",
+     "evidence_ids": [
+      "google:ef1e4242:2"
+     ]
+    },
+    "reachability": {
+     "points": 6.8,
+     "max_points": 10.0,
+     "detail": "Website and trade page",
+     "evidence_ids": [
+      "google:ef1e4242:2"
+     ]
+    }
+   },
+   "why": "Retailer in Birmingham already selling lanterns at £32–£65"
+  },
+  {
+   "name": "Imaginary Imports",
+   "domain": "imaginaryimports.example",
+   "kind": "importer",
+   "city": "Leeds",
+   "website": "https://imaginaryimports.example/",
+   "phone": null,
+   "address": null,
+   "sources": [
+    "google",
+    "google_ads_transparency_center"
+   ],
+   "seen_texts": [],
+   "listing_prices": [
+    65.0,
+    52.0
+   ],
+   "review_count": 240,
+   "locations_count": 1,
+   "ad_creatives": 6,
+   "is_giant": false,
+   "enriched": true,
+   "signals": [
+    {
+     "kind": "category_match",
+     "detail": "Sells brass lanterns and candle holders",
+     "evidence_id": "google:e22f255d:3"
+    },
+    {
+     "kind": "ads_active",
+     "detail": "6 UK ad creatives, last shown Sep 2026",
+     "evidence_id": "google_ads_transparency_center:12981f90:0"
+    },
+    {
+     "kind": "trade_page",
+     "detail": "Has a trade / wholesale account page",
+     "evidence_id": "google:e22f255d:3"
+    }
+   ],
+   "fit_score": 56.2,
+   "fit": {
+    "category": {
+     "points": 25.0,
+     "max_points": 25.0,
+     "detail": "Lantern range matches this product",
+     "evidence_ids": [
+      "google:e22f255d:3"
+     ]
+    },
+    "india": {
+     "points": 0.0,
+     "max_points": 20.0,
+     "detail": "No India sourcing seen",
+     "evidence_ids": []
+    },
+    "price_tier": {
+     "points": 8.5,
+     "max_points": 15.0,
+     "detail": "Their median price supports our FOB range",
+     "evidence_ids": [
+      "google:e22f255d:3"
+     ]
+    },
+    "activity": {
+     "points": 8.5,
+     "max_points": 15.0,
+     "detail": "UK ads live in the last 30 days",
+     "evidence_ids": [
+      "google_ads_transparency_center:12981f90:0"
+     ]
+    },
+    "size": {
+     "points": 8.5,
+     "max_points": 15.0,
+     "detail": "Independent size: a 30-worker unit can serve them",
+     "evidence_ids": [
+      "google:e22f255d:3"
+     ]
+    },
+    "reachability": {
+     "points": 5.7,
+     "max_points": 10.0,
+     "detail": "Website and trade page",
+     "evidence_ids": [
+      "google:e22f255d:3"
+     ]
+    }
+   },
+   "why": "Importer in Leeds already selling lanterns at £52–£65"
+  },
+  {
+   "name": "Placeholder Home Store",
+   "domain": "placeholderhome.example",
+   "kind": "wholesaler",
+   "city": "London",
+   "website": "https://placeholderhome.example/",
+   "phone": null,
+   "address": null,
+   "sources": [
+    "google",
+    "google_ads_transparency_center"
+   ],
+   "seen_texts": [],
+   "listing_prices": [
+    48.0,
+    28.0,
+    26.0
+   ],
+   "review_count": 280,
+   "locations_count": 1,
+   "ad_creatives": 4,
+   "is_giant": false,
+   "enriched": true,
+   "signals": [
+    {
+     "kind": "category_match",
+     "detail": "Sells brass lanterns and candle holders",
+     "evidence_id": "google:b2530464:4"
+    },
+    {
+     "kind": "ads_active",
+     "detail": "4 UK ad creatives, last shown Sep 2026",
+     "evidence_id": "google_ads_transparency_center:d6c4d7b6:0"
+    },
+    {
+     "kind": "trade_page",
+     "detail": "Has a trade / wholesale account page",
+     "evidence_id": "google:b2530464:4"
+    }
+   ],
+   "fit_score": 44.0,
+   "fit": {
+    "category": {
+     "points": 19.8,
+     "max_points": 25.0,
+     "detail": "Lantern range matches this product",
+     "evidence_ids": [
+      "google:b2530464:4"
+     ]
+    },
+    "india": {
+     "points": 0.0,
+     "max_points": 20.0,
+     "detail": "No India sourcing seen",
+     "evidence_ids": []
+    },
+    "price_tier": {
+     "points": 6.6,
+     "max_points": 15.0,
+     "detail": "Their median price supports our FOB range",
+     "evidence_ids": [
+      "google:b2530464:4"
+     ]
+    },
+    "activity": {
+     "points": 6.6,
+     "max_points": 15.0,
+     "detail": "UK ads live in the last 30 days",
+     "evidence_ids": [
+      "google_ads_transparency_center:d6c4d7b6:0"
+     ]
+    },
+    "size": {
+     "points": 6.6,
+     "max_points": 15.0,
+     "detail": "Independent size: a 30-worker unit can serve them",
+     "evidence_ids": [
+      "google:b2530464:4"
+     ]
+    },
+    "reachability": {
+     "points": 4.4,
+     "max_points": 10.0,
+     "detail": "Website and trade page",
+     "evidence_ids": [
+      "google:b2530464:4"
+     ]
+    }
+   },
+   "why": "Wholesaler in London already selling lanterns at £26–£48"
+  }
+ ],
+ "market_score": {
+  "total": 74.0,
+  "components": {
+   "demand": {
+    "points": 17.0,
+    "max_points": 25.0,
+    "detail": "12-month mean interest 59/100, +6% year on year; strong Amazon sales",
+    "evidence_ids": [
+     "google_trends:0b56b091:0"
+    ]
+   },
+   "price_headroom": {
+    "points": 22.0,
+    "max_points": 25.0,
+    "detail": "Margin 55% at the direct-to-retailer FOB",
+    "evidence_ids": [
+     "google_finance:6ae86c9c:0"
+    ]
+   },
+   "duty_advantage": {
+    "points": 12.0,
+    "max_points": 15.0,
+    "detail": "0% duty from India under CETA vs 2.7% for non-FTA origins (assumption)",
+    "evidence_ids": []
+   },
+   "proven_india": {
+    "points": 7.0,
+    "max_points": 10.0,
+    "detail": "2 of 5 products with a known origin are made in India",
+    "evidence_ids": [
+     "amazon_product:b060435a:0",
+     "amazon_product:3760fc2a:0"
+    ]
+   },
+   "buyer_depth": {
+    "points": 9.0,
+    "max_points": 15.0,
+    "detail": "3 buyers with fit ≥ 60",
+    "evidence_ids": [
+     "google:36d5c3a6:0",
+     "google:73e1cd67:1",
+     "google:ef1e4242:2"
+    ]
+   },
+   "timing": {
+    "points": 7.0,
+    "max_points": 10.0,
+    "detail": "Next buying window opens in about 1 month",
+    "evidence_ids": [
+     "google_trends:0b56b091:0"
+    ]
+   }
+  }
+ },
+ "headline": "Brass hurricane lantern → United Kingdom: GO (74/100) · sample data",
+ "summary_md": "**Brass hurricane lanterns sell for £23–£89 in the UK**, with a median of £42.50 across 25 listings [ev:amazon:a953229d:0] [ev:google_shopping:a825e508:1]. Working back through VAT, markups and freight gives a quote range of **£7.78–£14.00 FOB**, at GBP-INR 112.40 [ev:google_finance:6ae86c9c:0].\n\nUK interest peaks October–December and is up year on year [ev:google_trends:0b56b091:0]. Two of the six top Amazon products checked are made in India [ev:amazon_product:b060435a:0], so Indian lanterns already sell here. The most common complaint is tarnishing [ev:amazon_product:3760fc2a:0]; offering an anti-tarnish lacquer is an easy edge.\n\nThe top buyer, Sample Lantern House, runs UK ads and has a trade-account page [ev:amazon:a953229d:10]. Homeware news mentions new independent stores opening [ev:google_news:70105df2:0].\n\n_Sample data for UI development: every name and number here is fictional._",
+ "spec_improvements": [
+  "Offer anti-tarnish lacquer coating and include care instructions.",
+  "Use double-wall cartons with moulded pulp inserts; drop-test to ISTA 1A.",
+  "Put exact dimensions (cm) and a scale photo on the spec sheet."
+ ],
+ "pitches": [
+  {
+   "buyer_name": "Sample Lantern House",
+   "subject": "Handmade brass hurricane lanterns for Sample Lantern House, duty-free from India",
+   "body": "Dear Sample Lantern House buying team,\n\nWe are a 30-person brassware workshop in Moradabad, India. We noticed your lantern range and think our antique-gold hurricane lantern would sit well alongside it.\n\nSince 15 July 2026 our products enter the UK at 0% duty under the India–UK CETA. We can offer:\n- anti-tarnish lacquer as standard\n- double-wall export cartons (drop-tested)\n- exact dimensions and a scale photo on every spec sheet\n\nMOQ is 200 pieces, FOB Moradabad from £7.78. May I send photos and a sample?\n\nKind regards,\n[Your name]\n[Company], Moradabad",
+   "evidence_ids": [
+    "google:36d5c3a6:0",
+    "amazon:a953229d:10",
+    "google_ads_transparency_center:d729c571:0"
+   ]
+  },
+  {
+   "buyer_name": "Fictional Brass & Bloom",
+   "subject": "Handmade brass hurricane lanterns for Fictional Brass & Bloom, duty-free from India",
+   "body": "Dear Fictional Brass & Bloom buying team,\n\nWe are a 30-person brassware workshop in Moradabad, India. We noticed your lantern range and think our antique-gold hurricane lantern would sit well alongside it.\n\nSince 15 July 2026 our products enter the UK at 0% duty under the India–UK CETA. We can offer:\n- anti-tarnish lacquer as standard\n- double-wall export cartons (drop-tested)\n- exact dimensions and a scale photo on every spec sheet\n\nMOQ is 200 pieces, FOB Moradabad from £7.78. May I send photos and a sample?\n\nKind regards,\n[Your name]\n[Company], Moradabad",
+   "evidence_ids": [
+    "google:73e1cd67:1",
+    "google_ads_transparency_center:7258b570:0",
+    "google:73e1cd67:1"
+   ]
+  },
+  {
+   "buyer_name": "Demo Interiors",
+   "subject": "Handmade brass hurricane lanterns for Demo Interiors, duty-free from India",
+   "body": "Dear Demo Interiors buying team,\n\nWe are a 30-person brassware workshop in Moradabad, India. We noticed your lantern range and think our antique-gold hurricane lantern would sit well alongside it.\n\nSince 15 July 2026 our products enter the UK at 0% duty under the India–UK CETA. We can offer:\n- anti-tarnish lacquer as standard\n- double-wall export cartons (drop-tested)\n- exact dimensions and a scale photo on every spec sheet\n\nMOQ is 200 pieces, FOB Moradabad from £7.78. May I send photos and a sample?\n\nKind regards,\n[Your name]\n[Company], Moradabad",
+   "evidence_ids": [
+    "google:ef1e4242:2",
+    "google_ads_transparency_center:761dc2f7:0",
+    "google:ef1e4242:2"
+   ]
+  }
+ ],
+ "evidence": [
+  {
+   "id": "google_lens:3ea7278a:0",
+   "engine": "google_lens",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Sample brass lantern look-alike",
+   "url": "https://example.com/sample/lens/0",
+   "snippet": null,
+   "query": "google_lens country=\"gb\" type=\"all\""
+  },
+  {
+   "id": "amazon:a953229d:0",
+   "engine": "amazon",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Sample antique brass hurricane lantern, 30 cm",
+   "url": "https://example.com/sample/amazon/0",
+   "snippet": null,
+   "query": "amazon amazon_domain=\"amazon.co.uk\" k=\"brass hurricane lantern\""
+  },
+  {
+   "id": "amazon:a953229d:1",
+   "engine": "amazon",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Example gold metal lantern with glass, large",
+   "url": "https://example.com/sample/amazon/1",
+   "snippet": null,
+   "query": "amazon amazon_domain=\"amazon.co.uk\" k=\"brass hurricane lantern\""
+  },
+  {
+   "id": "amazon:a953229d:2",
+   "engine": "amazon",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Demo brass candle lantern, set of 2",
+   "url": "https://example.com/sample/amazon/2",
+   "snippet": null,
+   "query": "amazon amazon_domain=\"amazon.co.uk\" k=\"brass hurricane lantern\""
+  },
+  {
+   "id": "amazon:a953229d:3",
+   "engine": "amazon",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Placeholder hammered brass lantern",
+   "url": "https://example.com/sample/amazon/3",
+   "snippet": null,
+   "query": "amazon amazon_domain=\"amazon.co.uk\" k=\"brass hurricane lantern\""
+  },
+  {
+   "id": "amazon:a953229d:4",
+   "engine": "amazon",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Sample Moroccan-style brass lantern",
+   "url": "https://example.com/sample/amazon/4",
+   "snippet": null,
+   "query": "amazon amazon_domain=\"amazon.co.uk\" k=\"brass hurricane lantern\""
+  },
+  {
+   "id": "amazon:a953229d:5",
+   "engine": "amazon",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Example hurricane lamp, antique gold finish",
+   "url": "https://example.com/sample/amazon/5",
+   "snippet": null,
+   "query": "amazon amazon_domain=\"amazon.co.uk\" k=\"brass hurricane lantern\""
+  },
+  {
+   "id": "amazon:a953229d:6",
+   "engine": "amazon",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Demo brass garden lantern, 45 cm",
+   "url": "https://example.com/sample/amazon/6",
+   "snippet": null,
+   "query": "amazon amazon_domain=\"amazon.co.uk\" k=\"brass hurricane lantern\""
+  },
+  {
+   "id": "amazon:a953229d:7",
+   "engine": "amazon",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Sample tealight lantern, brushed brass",
+   "url": "https://example.com/sample/amazon/7",
+   "snippet": null,
+   "query": "amazon amazon_domain=\"amazon.co.uk\" k=\"brass hurricane lantern\""
+  },
+  {
+   "id": "amazon:a953229d:8",
+   "engine": "amazon",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Placeholder vintage brass storm lantern",
+   "url": "https://example.com/sample/amazon/8",
+   "snippet": null,
+   "query": "amazon amazon_domain=\"amazon.co.uk\" k=\"brass hurricane lantern\""
+  },
+  {
+   "id": "amazon:a953229d:9",
+   "engine": "amazon",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Example brass lantern with handle, small",
+   "url": "https://example.com/sample/amazon/9",
+   "snippet": null,
+   "query": "amazon amazon_domain=\"amazon.co.uk\" k=\"brass hurricane lantern\""
+  },
+  {
+   "id": "amazon:a953229d:10",
+   "engine": "amazon",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Sample handmade brass lantern (made in India)",
+   "url": "https://example.com/sample/amazon/10",
+   "snippet": null,
+   "query": "amazon amazon_domain=\"amazon.co.uk\" k=\"brass hurricane lantern\""
+  },
+  {
+   "id": "amazon:a953229d:11",
+   "engine": "amazon",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Demo pillar candle hurricane, gold",
+   "url": "https://example.com/sample/amazon/11",
+   "snippet": null,
+   "query": "amazon amazon_domain=\"amazon.co.uk\" k=\"brass hurricane lantern\""
+  },
+  {
+   "id": "google_shopping:a825e508:0",
+   "engine": "google_shopping",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Sample brass hurricane lantern",
+   "url": "https://example.com/sample/shopping/0",
+   "snippet": null,
+   "query": "google_shopping q=\"brass hurricane lantern\" gl=\"uk\""
+  },
+  {
+   "id": "google_shopping:a825e508:1",
+   "engine": "google_shopping",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Example antique lantern, gold",
+   "url": "https://example.com/sample/shopping/1",
+   "snippet": null,
+   "query": "google_shopping q=\"brass hurricane lantern\" gl=\"uk\""
+  },
+  {
+   "id": "google_shopping:a825e508:2",
+   "engine": "google_shopping",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Fictional brass storm lantern, large",
+   "url": "https://example.com/sample/shopping/2",
+   "snippet": null,
+   "query": "google_shopping q=\"brass hurricane lantern\" gl=\"uk\""
+  },
+  {
+   "id": "google_shopping:a825e508:3",
+   "engine": "google_shopping",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Demo hurricane candle holder, brass",
+   "url": "https://example.com/sample/shopping/3",
+   "snippet": null,
+   "query": "google_shopping q=\"brass hurricane lantern\" gl=\"uk\""
+  },
+  {
+   "id": "google_shopping:a825e508:4",
+   "engine": "google_shopping",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Placeholder metal lantern, gold",
+   "url": "https://example.com/sample/shopping/4",
+   "snippet": null,
+   "query": "google_shopping q=\"brass hurricane lantern\" gl=\"uk\""
+  },
+  {
+   "id": "google_shopping:a825e508:5",
+   "engine": "google_shopping",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Sample brass lantern, hand-finished",
+   "url": "https://example.com/sample/shopping/5",
+   "snippet": null,
+   "query": "google_shopping q=\"brass hurricane lantern\" gl=\"uk\""
+  },
+  {
+   "id": "google_shopping:a825e508:6",
+   "engine": "google_shopping",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Example hurricane lantern with glass chimney",
+   "url": "https://example.com/sample/shopping/6",
+   "snippet": null,
+   "query": "google_shopping q=\"brass hurricane lantern\" gl=\"uk\""
+  },
+  {
+   "id": "google_shopping:a825e508:7",
+   "engine": "google_shopping",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Fictional hammered lantern",
+   "url": "https://example.com/sample/shopping/7",
+   "snippet": null,
+   "query": "google_shopping q=\"brass hurricane lantern\" gl=\"uk\""
+  },
+  {
+   "id": "google_shopping:a825e508:8",
+   "engine": "google_shopping",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Demo brass lantern, 35 cm",
+   "url": "https://example.com/sample/shopping/8",
+   "snippet": null,
+   "query": "google_shopping q=\"brass hurricane lantern\" gl=\"uk\""
+  },
+  {
+   "id": "google_shopping:a825e508:9",
+   "engine": "google_shopping",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Placeholder brass tealight lantern",
+   "url": "https://example.com/sample/shopping/9",
+   "snippet": null,
+   "query": "google_shopping q=\"brass hurricane lantern\" gl=\"uk\""
+  },
+  {
+   "id": "google_shopping:a825e508:10",
+   "engine": "google_shopping",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Sample Moroccan brass lantern",
+   "url": "https://example.com/sample/shopping/10",
+   "snippet": null,
+   "query": "google_shopping q=\"brass hurricane lantern\" gl=\"uk\""
+  },
+  {
+   "id": "google_shopping:a825e508:11",
+   "engine": "google_shopping",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Example brass candle lantern, pair",
+   "url": "https://example.com/sample/shopping/11",
+   "snippet": null,
+   "query": "google_shopping q=\"brass hurricane lantern\" gl=\"uk\""
+  },
+  {
+   "id": "google_shopping:a825e508:12",
+   "engine": "google_shopping",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Demo brass lantern, antique finish",
+   "url": "https://example.com/sample/shopping/12",
+   "snippet": null,
+   "query": "google_shopping q=\"brass hurricane lantern\" gl=\"uk\""
+  },
+  {
+   "id": "google_finance:6ae86c9c:0",
+   "engine": "google_finance",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "GBP / INR (sample rate)",
+   "url": "https://example.com/sample/finance/gbp-inr",
+   "snippet": null,
+   "query": "google_finance q=\"GBP-INR\""
+  },
+  {
+   "id": "google_trends:0b56b091:0",
+   "engine": "google_trends",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Interest over time: brass hurricane lantern (UK)",
+   "url": "https://example.com/sample/trends/timeseries",
+   "snippet": null,
+   "query": "google_trends q=\"brass hurricane lantern\" geo=\"GB\" date=\"today 5-y\""
+  },
+  {
+   "id": "google_trends:ad079afa:0",
+   "engine": "google_trends",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Interest by region (UK)",
+   "url": "https://example.com/sample/trends/regions",
+   "snippet": null,
+   "query": "google_trends q=\"brass hurricane lantern\" geo=\"GB\" data_type=\"GEO_MAP_0\""
+  },
+  {
+   "id": "google_autocomplete:870a28b9:0",
+   "engine": "google_autocomplete",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Autocomplete: brass lantern",
+   "url": "https://example.com/sample/autocomplete/0",
+   "snippet": null,
+   "query": "google_autocomplete q=\"brass lantern\" gl=\"uk\""
+  },
+  {
+   "id": "amazon_product:b060435a:0",
+   "engine": "amazon_product",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Sample handmade brass lantern: country of origin India",
+   "url": "https://example.com/sample/amazon_product/B0SAMPLE10",
+   "snippet": null,
+   "query": "amazon_product asin=\"B0SAMPLE10\""
+  },
+  {
+   "id": "amazon_product:3760fc2a:0",
+   "engine": "amazon_product",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Sample antique brass hurricane lantern: country of origin China",
+   "url": "https://example.com/sample/amazon_product/B0SAMPLE00",
+   "snippet": null,
+   "query": "amazon_product asin=\"B0SAMPLE00\""
+  },
+  {
+   "id": "ebay:922f7c13:3",
+   "engine": "ebay",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Sample brass lantern, located in India",
+   "url": "https://example.com/sample/ebay/3",
+   "snippet": null,
+   "query": "ebay ebay_domain=\"ebay.co.uk\" _nkw=\"brass hurricane lantern\""
+  },
+  {
+   "id": "google:36d5c3a6:0",
+   "engine": "google",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Sample Lantern House: lanterns and candle holders",
+   "url": "https://example.com/sample/google/0",
+   "snippet": "Handmade homeware, trade accounts welcome.",
+   "query": "google q=\"Sample Lantern House brass lantern\" gl=\"uk\""
+  },
+  {
+   "id": "google_ads_transparency_center:d729c571:0",
+   "engine": "google_ads_transparency_center",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Sample Lantern House: ad creatives in the UK",
+   "url": "https://example.com/sample/ads/0",
+   "snippet": null,
+   "query": "google_ads_transparency_center text=\"lanternhouse.example\" region=\"2826\""
+  },
+  {
+   "id": "google_maps:ca960f74:0",
+   "engine": "google_maps",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Sample Lantern House, London",
+   "url": "https://example.com/sample/maps/0",
+   "snippet": null,
+   "query": "google_maps q=\"homeware shop\" ll=\"London\""
+  },
+  {
+   "id": "google:73e1cd67:1",
+   "engine": "google",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Fictional Brass & Bloom: lanterns and candle holders",
+   "url": "https://example.com/sample/google/1",
+   "snippet": "Handmade homeware, trade accounts welcome.",
+   "query": "google q=\"Fictional Brass & Bloom brass lantern\" gl=\"uk\""
+  },
+  {
+   "id": "google_ads_transparency_center:7258b570:0",
+   "engine": "google_ads_transparency_center",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Fictional Brass & Bloom: ad creatives in the UK",
+   "url": "https://example.com/sample/ads/1",
+   "snippet": null,
+   "query": "google_ads_transparency_center text=\"brassandbloom.example\" region=\"2826\""
+  },
+  {
+   "id": "google_maps:ad0477ee:1",
+   "engine": "google_maps",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Fictional Brass & Bloom, Manchester",
+   "url": "https://example.com/sample/maps/1",
+   "snippet": null,
+   "query": "google_maps q=\"homeware shop\" ll=\"Manchester\""
+  },
+  {
+   "id": "google_news:70105df2:0",
+   "engine": "google_news",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Sample: independent homeware chain opens two new stores",
+   "url": "https://example.com/sample/news/0",
+   "snippet": null,
+   "query": "google_news q=\"independent homeware store opening UK\""
+  },
+  {
+   "id": "google:ef1e4242:2",
+   "engine": "google",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Demo Interiors: lanterns and candle holders",
+   "url": "https://example.com/sample/google/2",
+   "snippet": "Handmade homeware, trade accounts welcome.",
+   "query": "google q=\"Demo Interiors brass lantern\" gl=\"uk\""
+  },
+  {
+   "id": "google_ads_transparency_center:761dc2f7:0",
+   "engine": "google_ads_transparency_center",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Demo Interiors: ad creatives in the UK",
+   "url": "https://example.com/sample/ads/2",
+   "snippet": null,
+   "query": "google_ads_transparency_center text=\"demointeriors.example\" region=\"2826\""
+  },
+  {
+   "id": "google:e22f255d:3",
+   "engine": "google",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Imaginary Imports: lanterns and candle holders",
+   "url": "https://example.com/sample/google/3",
+   "snippet": "Handmade homeware, trade accounts welcome.",
+   "query": "google q=\"Imaginary Imports brass lantern\" gl=\"uk\""
+  },
+  {
+   "id": "google_ads_transparency_center:12981f90:0",
+   "engine": "google_ads_transparency_center",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Imaginary Imports: ad creatives in the UK",
+   "url": "https://example.com/sample/ads/3",
+   "snippet": null,
+   "query": "google_ads_transparency_center text=\"imaginaryimports.example\" region=\"2826\""
+  },
+  {
+   "id": "google:b2530464:4",
+   "engine": "google",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Placeholder Home Store: lanterns and candle holders",
+   "url": "https://example.com/sample/google/4",
+   "snippet": "Handmade homeware, trade accounts welcome.",
+   "query": "google q=\"Placeholder Home Store brass lantern\" gl=\"uk\""
+  },
+  {
+   "id": "google_ads_transparency_center:d6c4d7b6:0",
+   "engine": "google_ads_transparency_center",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Placeholder Home Store: ad creatives in the UK",
+   "url": "https://example.com/sample/ads/4",
+   "snippet": null,
+   "query": "google_ads_transparency_center text=\"placeholderhome.example\" region=\"2826\""
+  }
+ ],
+ "steps": [
+  {
+   "step": 1,
+   "name": "Identify",
+   "message": "Found 14 UK look-alikes (£22–£89). Keywords: brass hurricane lantern, gold metal lantern",
+   "status": "done",
+   "credits_used": 1,
+   "ts": "2026-09-30T10:20:15+00:00"
+  },
+  {
+   "step": 2,
+   "name": "Demand",
+   "message": "Interest peaks Oct–Dec; up year on year; strongest in London & South East",
+   "status": "done",
+   "credits_used": 5,
+   "ts": "2026-09-30T10:20:15+00:00"
+  },
+  {
+   "step": 3,
+   "name": "Prices",
+   "message": "Median £42.50 across 25 listings",
+   "status": "done",
+   "credits_used": 10,
+   "ts": "2026-09-30T10:20:15+00:00"
+  },
+  {
+   "step": 4,
+   "name": "Origin",
+   "message": "Of 6 products checked, 2 made in India, 3 in China, 1 unknown",
+   "status": "done",
+   "credits_used": 16,
+   "ts": "2026-09-30T10:20:15+00:00"
+  },
+  {
+   "step": 5,
+   "name": "Reviews",
+   "message": "Top complaint: tarnishing (31%), then broken in transit (22%)",
+   "status": "done",
+   "credits_used": 16,
+   "ts": "2026-09-30T10:20:15+00:00"
+  },
+  {
+   "step": 6,
+   "name": "Buyers",
+   "message": "11 candidates → 5 after dedupe",
+   "status": "done",
+   "credits_used": 21,
+   "ts": "2026-09-30T10:20:15+00:00"
+  },
+  {
+   "step": 7,
+   "name": "Enrich",
+   "message": "Enriched top 5 buyers (Search, Ads Transparency, News)",
+   "status": "done",
+   "credits_used": 31,
+   "ts": "2026-09-30T10:20:15+00:00"
+  },
+  {
+   "step": 8,
+   "name": "Write",
+   "message": "Brief ready · 31 credits used",
+   "status": "done",
+   "credits_used": 31,
+   "ts": "2026-09-30T10:20:15+00:00"
+  }
+ ],
+ "warnings": [
+  "SAMPLE DATA: this brief is fictional and exists only for UI development.",
+  "Only 6 Amazon products were checked for country of origin; treat the India share as a rough signal."
+ ],
+ "credits_used": 31,
+ "created_at": "2026-09-30T09:15:00+00:00"
+}

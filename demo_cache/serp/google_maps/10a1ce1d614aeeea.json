@@ -1,0 +1,1033 @@
+{
+ "engine": "google_maps",
+ "params": {
+  "q": "home accessories wholesaler",
+  "ll": "@53.4808,-2.2426,12z",
+  "type": "search",
+  "hl": "en"
+ },
+ "fetched_at": "2026-09-30T10:34:30+00:00",
+ "data": {
+  "search_metadata": {
+   "id": "6abce5b455ba657e699dccd8",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/i_jr0lotgXvLPMs6JH5DhQauZ825QpNik4yElfZ3g9s/6abce5b455ba657e699dccd8.json",
+   "markdown_endpoint": "https://serpapi.com/searches/i_jr0lotgXvLPMs6JH5DhQauZ825QpNik4yElfZ3g9s/6abce5b455ba657e699dccd8.md",
+   "created_at": "2026-09-30 10:34:28 UTC",
+   "processed_at": "2026-09-30 10:34:28 UTC",
+   "google_maps_url": "https://www.google.com/maps/search/home+accessories+wholesaler/@53.4808,-2.2426,12z/data=!3m1!4b1!4m2!2m1!6e5?hl=en",
+   "raw_html_file": "https://serpapi.com/searches/i_jr0lotgXvLPMs6JH5DhQauZ825QpNik4yElfZ3g9s/6abce5b455ba657e699dccd8.html",
+   "prettify_html_file": "https://serpapi.com/searches/i_jr0lotgXvLPMs6JH5DhQauZ825QpNik4yElfZ3g9s/6abce5b455ba657e699dccd8.prettify",
+   "total_time_taken": 1.02
+  },
+  "search_parameters": {
+   "engine": "google_maps",
+   "type": "search",
+   "q": "home accessories wholesaler",
+   "ll": "@53.4808,-2.2426,12z",
+   "google_domain": "google.com",
+   "hl": "en"
+  },
+  "search_information": {
+   "local_results_state": "Results for exact spelling",
+   "query_displayed": "home accessories wholesaler"
+  },
+  "local_results": [
+   {
+    "position": 1,
+    "title": "Søstrene Grene",
+    "place_id": "ChIJQ1cbEWexe0gR2zbKmYVp8NU",
+    "data_id": "0x487bb167111b5743:0xd5f0698599ca36db",
+    "data_cid": "15415937547020941019",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x487bb167111b5743%3A0xd5f0698599ca36db&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x487bb167111b5743%3A0xd5f0698599ca36db&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 53.4824172,
+     "longitude": -2.2442994
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJQ1cbEWexe0gR2zbKmYVp8NU",
+    "provider_id": "/g/11fntcq82y",
+    "rating": 4.7,
+    "reviews": 195,
+    "type": "Home goods store",
+    "types": [
+     "Home goods store",
+     "Art supply store",
+     "Furniture store",
+     "Office supply store",
+     "School supply store"
+    ],
+    "address": "12-14 Cross St, Manchester, M2 7AE, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Open · Closes 7:30 PM",
+    "hours": "Open · Closes 7:30 PM",
+    "operating_hours": {
+     "wednesday": "9 AM–7:30 PM",
+     "thursday": "9 AM–7:30 PM",
+     "friday": "9 AM–7:30 PM",
+     "saturday": "9 AM–7:30 PM",
+     "sunday": "11 AM–5 PM",
+     "monday": "9 AM–7:30 PM",
+     "tuesday": "9 AM–7:30 PM"
+    },
+    "phone": "+44 161 832 5500",
+    "website": "https://sostrenegrene.com/en-gb/stores/cross-street-manchester-s-8003?utm_campaign=gbpg&utm_source=googlebusiness&utm_medium=google",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible entrance"
+      ]
+     }
+    ],
+    "unsupported_extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible parking lot"
+      ]
+     }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnaz1Al_jE9kRFlpHrpYqrFwXxEj6XWB0EHR0kSzhBdjiO2mQ3iXmTOGVT5ZG1doWoy7IWZG_-TPz_8LGDTUElA7iy7o6fywktg1WN3jBdot9lXF9AU_MoMhCEG385ZPoSGx9oQ=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/Tx2A9XicHcRRboIwGADgE1XKiCJL9gBaislUxLoiL8QAUqDwI-2CcMGdwduY7Hv4Xn9C6159GoYU1qIEKGXxq4ohg04XnV5k0Bplr1CmkDLcIAoZ726z6cq0Jk4T-bIPhv76GPwxfpJ6FXMPkyDCzXkWXl5Xx4_2ZFVxy470hy0TaubAYbJ3PKEpYuGcrr_pll2IdO1qsmF1n8ZGlyY_WLWXg3Zk7DvuJd3DXmwItdbLJIQzfTpw-hpNjDES_2eoewNwe0RE"
+   },
+   {
+    "position": 2,
+    "title": "Britdeals LTD",
+    "place_id": "ChIJUf5NeDABe0gRq5CjW39wPlw",
+    "data_id": "0x487b0130784dfe51:0x5c3e707f5ba390ab",
+    "data_cid": "6646873792346034347",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x487b0130784dfe51%3A0x5c3e707f5ba390ab&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x487b0130784dfe51%3A0x5c3e707f5ba390ab&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 53.4035887,
+     "longitude": -2.5264831
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJUf5NeDABe0gRq5CjW39wPlw",
+    "provider_id": "/g/11fj26hckm",
+    "rating": 4.8,
+    "reviews": 525,
+    "type": "Wholesaler",
+    "types": [
+     "Wholesaler",
+     "Beauty products wholesaler",
+     "Clothing wholesaler",
+     "Computer wholesaler",
+     "Electronics wholesaler",
+     "Footwear wholesaler",
+     "Sports accessories wholesaler",
+     "Wholesaler household appliances"
+    ],
+    "address": "31 Rufford Ct, Woolston, Warrington WA1 4RF, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Open · Closes 4:30 PM",
+    "hours": "Open · Closes 4:30 PM",
+    "operating_hours": {
+     "wednesday": "9 AM–4:30 PM",
+     "thursday": "9 AM–4:30 PM",
+     "friday": "9 AM–4:30 PM",
+     "saturday": "Closed",
+     "sunday": "Closed",
+     "monday": "9 AM–4:30 PM",
+     "tuesday": "9 AM–4:30 PM"
+    },
+    "phone": "+44 1925 394502",
+    "website": "http://www.britdeals.co.uk/?utm_campaign=LocalSEO&utm_medium=BusinessProfile&utm_source=GMB",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible entrance",
+       "Wheelchair accessible parking lot"
+      ]
+     }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnXcN3_CUMXymRLByvoGiCyQl-9o27GGCc1N3Fa56nUWspMPKV_J7_-fNFmiFC6of2NKleFWueOmGpEz7nhCkOUHYRtaHoUqWysEWF1KiTUXwkcM8YTdvpNr2sdb3o2VXjjTyfW=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/7ORbxXicHcTbboIwGADgJ6qcojgTL7bGQmRUR6jFK6K1HBT6V1s19QX3DHsbk30X399vZ602C88bumjSArSDvBt5E6CsVHYiYPRabZAwyHifabEtuaoEjWrM8sqNxfeXe0DSY_czoA8I4yTBIqAROUxninGj8222q9dxjRpKxp7gGTQhzQZJ-F1uxkSvXrHq8GXD0n1hDymwK3dmxUmQ9SWrnheRz_fl6aHpLTSnYwThrjqfS9fw5TPwfR91_wuk3jsWRPA"
+   },
+   {
+    "position": 3,
+    "title": "Clearance King - Poundline Wholesaler - Wholesale Clearance Items",
+    "place_id": "ChIJJ-uynNOxe0gRo1p6lGVLZ44",
+    "data_id": "0x487bb1d39cb2eb27:0x8e674b65947a5aa3",
+    "data_cid": "10261253175641791139",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x487bb1d39cb2eb27%3A0x8e674b65947a5aa3&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x487bb1d39cb2eb27%3A0x8e674b65947a5aa3&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 53.511724799999996,
+     "longitude": -2.328483
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJJ-uynNOxe0gRo1p6lGVLZ44",
+    "provider_id": "/g/11b6g99gxx",
+    "rating": 4.2,
+    "reviews": 108,
+    "type": "Wholesaler",
+    "types": [
+     "Wholesaler"
+    ],
+    "address": "C/O On Demand Warehousing, Sakhi House, Bridge St, Swinton, Manchester M27 4DU, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Open · Closes 6 PM",
+    "hours": "Open · Closes 6 PM",
+    "operating_hours": {
+     "wednesday": "10 AM–6 PM",
+     "thursday": "10 AM–6 PM",
+     "friday": "10 AM–6 PM",
+     "saturday": "Closed",
+     "sunday": "Closed",
+     "monday": "10 AM–6 PM",
+     "tuesday": "10 AM–6 PM"
+    },
+    "phone": "+44 161 871 0786",
+    "website": "https://www.clearance-king.co.uk/",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnKtHn0xe12CFrHUZ42cvUCVa6fV2Dk9QgbdlJFaceUYwHEHkJQBLBnOz7B_cvt-RdPMQeOmiXCG2AqJu29ipEet7iyZXf1gaov23vtdDaM08LDvAgZfFVMJNC7WcFOpt95bkC3=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/gpN653icHcRRToMwGADgE3WUoiImPkAZNmzIWAabvBhWSiGwFtd_nXrBncHbLPF7-P5uPcBsXhxn6r2F1FpO4mLEmWsFQsGC65MjZ4O4QcYJ2Xaz26sVMIW_hUtocmZl_UC4LWnVPHUVicegkMd2SpOGi_LjypZsTItoHan8148-uQW0bTdZIfLTcKBvJPxKLyQY5qUAf_ipD50rG22JZ6GNmww_r2MbyrpLqix9p_6eJ_kMweNxpN7r1cUYo_5_jtQdGtxDtQ"
+   },
+   {
+    "position": 4,
+    "title": "HMD Projects Ltd",
+    "place_id": "ChIJr0zBytSpe0gRmQzRtjw1o1w",
+    "data_id": "0x487ba9d4cac14caf:0x5ca3353cb6d10c99",
+    "data_cid": "6675237607574670489",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x487ba9d4cac14caf%3A0x5ca3353cb6d10c99&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x487ba9d4cac14caf%3A0x5ca3353cb6d10c99&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 53.494721999999996,
+     "longitude": -2.4718921
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJr0zBytSpe0gRmQzRtjw1o1w",
+    "provider_id": "/g/11gbks26_r",
+    "rating": 5,
+    "reviews": 1,
+    "unclaimed_listing": true,
+    "type": "Home goods store",
+    "types": [
+     "Home goods store",
+     "Fabric product manufacturer",
+     "Flower designer",
+     "Foot care",
+     "Furniture accessories",
+     "Furniture maker",
+     "Furniture store",
+     "Furniture wholesaler"
+    ],
+    "address": "3 Rufford Pl, Astley, Manchester M29 7EL, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+     "wednesday": "Open 24 hours",
+     "thursday": "Open 24 hours",
+     "friday": "Open 24 hours",
+     "saturday": "Open 24 hours",
+     "sunday": "Open 24 hours",
+     "monday": "Open 24 hours",
+     "tuesday": "Open 24 hours"
+    },
+    "phone": "+44 7805 099135",
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5qOHJYmN06bVVrDGUfObcQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=250.32945&pitch=0&thumbfov=100",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/BylND3icHc1RCsIgGADg2_iWutWiBbKXoOih0UODnkKd0x_cNLVZt-la3aboAt_3eZuUfNwSElNQKs2gsoensnHhOdbOaau4h4ilG8lckGQeo5g42MbzyUHPqnt7OF7HE12Lrgu7_WVohTwjKW7SgpoSi4oHabDOPzG4HmsfUWYbigyrS_TimZUVxcuyXlXIQ5KGUfRfBjezgtIvWuk5Mg"
+   },
+   {
+    "position": 5,
+    "title": "Ecobrite LED Lighting",
+    "place_id": "ChIJOaBXCFGye0gRTCOqtAs-hj8",
+    "data_id": "0x487bb2510857a039:0x3f863e0bb4aa234c",
+    "data_cid": "4577414291265299276",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x487bb2510857a039%3A0x3f863e0bb4aa234c&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x487bb2510857a039%3A0x3f863e0bb4aa234c&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 53.4962782,
+     "longitude": -2.2382838
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJOaBXCFGye0gRTCOqtAs-hj8",
+    "provider_id": "/g/11f34qwxx1",
+    "rating": 4.9,
+    "reviews": 305,
+    "type": "Lighting store",
+    "types": [
+     "Lighting store",
+     "Electrical supply store",
+     "Electrical products wholesaler",
+     "Electronics store",
+     "Light bulb supplier",
+     "Lighting contractor",
+     "Lighting manufacturer",
+     "Lighting products wholesaler",
+     "Wholesaler"
+    ],
+    "address": "169 Cheetham Hill Rd, Cheetham Hill, Manchester M8 8LG, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Open · Closes 6 PM",
+    "hours": "Open · Closes 6 PM",
+    "operating_hours": {
+     "wednesday": "9 AM–6 PM",
+     "thursday": "9 AM–6 PM",
+     "friday": "9 AM–6 PM",
+     "saturday": "10 AM–6 PM",
+     "sunday": "10 AM–5 PM",
+     "monday": "9 AM–6 PM",
+     "tuesday": "9 AM–6 PM"
+    },
+    "phone": "+44 161 211 3514",
+    "website": "https://www.ecobriteled.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp_profile",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible entrance",
+       "Wheelchair accessible parking lot"
+      ]
+     }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkq64zljNkFPtBMLteRTqzz174pkN60oOCFgkM5Nql7L2k7LtS1npLm2qYU-MMgDjSC_m9ZwC9wqkBS-Y-V-5HNJTywECY8G1OXfx8YxmVCXqcH90Mj4anyMnouQKESIbPQwggZCIEvi_Q=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/fKHVOXicHcRLcoIwAADQE0WCokhnXGiKRUsQBD-4cdoMBgkkpIkNckj33sYZ3-I9H6XWrfqwrLocDagQtC5uqvgjguuC6wERjUVbBYgCypoH2zg7MDlx-rqK2DLWCxzqYpvJvrddp2XRBIoNWlKGx5Gs3XDI3FCnNm_DZijzHcCYflYpOjfeySDPSLZIQQ72YBxE6-xufJRPv-zN8dJN867Zo6MkgQdx5fzwO-bilnz76eo3TgylJ7Ty_6_nZGZsCCEo3xPAXyIKRn0"
+   },
+   {
+    "position": 6,
+    "title": "Luxe Home decor Ltd",
+    "place_id": "ChIJPXxq8-m3e0gR678OhK5qsTE",
+    "data_id": "0x487bb7e9f36a7c3d:0x31b16aae840ebfeb",
+    "data_cid": "3580760476508667883",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x487bb7e9f36a7c3d%3A0x31b16aae840ebfeb&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x487bb7e9f36a7c3d%3A0x31b16aae840ebfeb&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 53.5391443,
+     "longitude": -2.1311876
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJPXxq8-m3e0gR678OhK5qsTE",
+    "provider_id": "/g/11jy_4qh_h",
+    "rating": 3,
+    "reviews": 6,
+    "unclaimed_listing": true,
+    "type": "Home goods store",
+    "types": [
+     "Home goods store"
+    ],
+    "address": "Unit 2, Booth House, TRADING ESTATE, Oldham OL9 7TQ, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+     "wednesday": "Open 24 hours",
+     "thursday": "Open 24 hours",
+     "friday": "Open 24 hours",
+     "saturday": "Closed",
+     "sunday": "Closed",
+     "monday": "Open 24 hours",
+     "tuesday": "Open 24 hours"
+    },
+    "website": "http://www.luxehomedecor.co.uk/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible parking lot"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 7,
+    "title": "Octopus Office Products Ltd",
+    "place_id": "ChIJbdykK3Gze0gRJ_hq3e-kYvU",
+    "data_id": "0x487bb3712ba4dc6d:0xf562a4efdd6af827",
+    "data_cid": "17681876437128902695",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x487bb3712ba4dc6d%3A0xf562a4efdd6af827&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x487bb3712ba4dc6d%3A0xf562a4efdd6af827&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 53.4082915,
+     "longitude": -2.1701874
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJbdykK3Gze0gRJ_hq3e-kYvU",
+    "provider_id": "/g/1tfc64pj",
+    "rating": 5,
+    "reviews": 107,
+    "type": "Office supply store",
+    "types": [
+     "Office supply store",
+     "Office accessories wholesaler",
+     "Office equipment supplier",
+     "Office furniture store",
+     "Office supply wholesaler",
+     "Pen store",
+     "Printing equipment supplier",
+     "Stationery wholesaler",
+     "Toner cartridge supplier"
+    ],
+    "address": "10, 2 Chester St, Chestergate, Stockport SK3 0BR, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Open · Closes 5 PM",
+    "hours": "Open · Closes 5 PM",
+    "operating_hours": {
+     "wednesday": "7:30 AM–5 PM",
+     "thursday": "7:30 AM–5 PM",
+     "friday": "7:30 AM–5 PM",
+     "saturday": "Closed",
+     "sunday": "Closed",
+     "monday": "7:30 AM–5 PM",
+     "tuesday": "7:30 AM–5 PM"
+    },
+    "phone": "+44 161 429 8118",
+    "website": "https://octopus-office.co.uk/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible parking lot"
+      ]
+     }
+    ],
+    "unsupported_extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible entrance"
+      ]
+     }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmSF402i8Uqndq664FQ707U1miPiODAMC-zL-Np1RcoIoJTM1PhciDjQlHENZOzujew1tekpyWOQZ36JeOia2TKvUmTVsDNvBw-yhq-7TalXNTkApq8-W8LmPsb3GvM-LH_weL57fIPvjg=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/40BDg3icHcTdToMwGADQJ_pGOyYQEy9wONnkp8wyzG7MrJWWUVpsB9ke0nvfxsRzcX5_hHPG3nteL_xFq3Xb84vl30wPjg9uwbTyWmOBWbBenO4JbdTrZoWWMqrH4XMMgtWmClFYYyWJLJM4X8Mtg8LgPdNbvaM5JoLJpKv69Kk4lrdLx2fs-Nlcm7I6-sGOl_K0pC9TrejBJsX0OMNVjBDSU_9W0HNsxgiaKFPEfvjPUw5Z-j7z7C782pKpax9mjBAC8T-D4Q-_U0YB"
+   },
+   {
+    "position": 8,
+    "title": "Royal Rooms Bedding",
+    "place_id": "ChIJs5ro24ixe0gRn7aEhbT_pDA",
+    "data_id": "0x487bb188dbe89ab3:0x30a4ffb48584b69f",
+    "data_cid": "3505207560800351903",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x487bb188dbe89ab3%3A0x30a4ffb48584b69f&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x487bb188dbe89ab3%3A0x30a4ffb48584b69f&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 53.494653899999996,
+     "longitude": -2.2491779999999997
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJs5ro24ixe0gRn7aEhbT_pDA",
+    "provider_id": "/g/11vspfhflt",
+    "rating": 5,
+    "reviews": 14,
+    "type": "Bedding store",
+    "types": [
+     "Bedding store",
+     "Bed shop",
+     "Mattress store",
+     "Textile merchant",
+     "Wholesaler"
+    ],
+    "address": "2 Howard St, Cheetham Hill, Manchester M8 8EN, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Open · Closes 7 PM",
+    "hours": "Open · Closes 7 PM",
+    "operating_hours": {
+     "wednesday": "8 AM–7 PM",
+     "thursday": "8 AM–7 PM",
+     "friday": "8 AM–12:30 PM, 2–7 PM",
+     "saturday": "8 AM–3 PM",
+     "sunday": "8 AM–4:30 PM",
+     "monday": "8 AM–7 PM",
+     "tuesday": "8 AM–7 PM"
+    },
+    "phone": "+44 161 327 4075",
+    "website": "https://royal-rooms.com/",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWktUrHmhRp5qvyFfJa2Ha8IHipOD3BigKkKkyUYsiwUFCo0oi_MgcclW84CetSHAVKUEWTkvKkzFSmksLFCVjkOak7XMKBl4eSfcckmiAf5u4oo8ivZX5j8Vi2N6LuDSEQ7o0YZ=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/jjuY6HicHcTdboIwGADQJ0KqgpIlu0CUVKtzyp9wY0hTSv2AD23B6AvuGfY2S3Yuzu9PbUyvP2y7qecTiSgbMWjx4NgZ0ZkJx9aWvba4trTt0_N3nIFJHrStz717H19htStntPS2VPXH9XylJAMGryTX6pmEARJU14PkvMk8JxAmon7Kkk0Ww8jgHUYt6H0YpDc4lrC8HNiqcURUcQ6t8it3cBA9NRYX9-alava12A_raHNaIsmLz-eUEGLV_3Or-wPa50Vw"
+   },
+   {
+    "position": 9,
+    "title": "Prisma Lighting",
+    "place_id": "ChIJHXjaKr6ze0gRk7jxU1bx2WA",
+    "data_id": "0x487bb3be2ada781d:0x60d9f15653f1b893",
+    "data_cid": "6978874450665126035",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x487bb3be2ada781d%3A0x60d9f15653f1b893&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x487bb3be2ada781d%3A0x60d9f15653f1b893&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 53.4308489,
+     "longitude": -2.1585921
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJHXjaKr6ze0gRk7jxU1bx2WA",
+    "provider_id": "/g/11h7bk3jqh",
+    "rating": 5,
+    "reviews": 21,
+    "type": "Lighting store",
+    "types": [
+     "Lighting store",
+     "Cable company",
+     "Electrical products wholesaler",
+     "Light bulb supplier",
+     "Lighting consultant",
+     "Lighting products wholesaler"
+    ],
+    "address": "Unit 10 Gregory Way, Stockport, SK5 7ST, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Open · Closes 5 PM",
+    "hours": "Open · Closes 5 PM",
+    "operating_hours": {
+     "wednesday": "7:30 AM–5 PM",
+     "thursday": "7:30 AM–5 PM",
+     "friday": "7:30 AM–5 PM",
+     "saturday": "9:30–11:30 AM",
+     "sunday": "Closed",
+     "monday": "7:30 AM–5 PM",
+     "tuesday": "7:30 AM–5 PM"
+    },
+    "phone": "+44 161 711 0015",
+    "website": "https://prismalighting.co.uk/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible parking lot"
+      ]
+     }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn1ksMv8arJLv6uDSfjF0VDkLNGlyEXjvCilvXcYinO2Wx2gpiGEYZenuKdNpIxX7CUheZNfVYvL5dMotHzUUH1uWP3lXBQzaMTARgRbRX2Oknj8AfNv4uCxVXPXv3AIw_o_Y0=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/Q-ROInicHcRZjoIwAADQEyEF3DKJH4gLOoCIAsUfo7WUpdMSu4ge0DvMbUx8H-__XUnZiR_TpJUzIJwTipXAd8SZxEwOEP8zSScMJAxhun4SH3NmtSLU08t9G-ixWhzKZgWyRRtEa_pcwkZ7NdUQFTXb2Xlvk65eL4sTZur3FnWbHk68tMKnqMwKHYxuIZf-K019S-WxQ-F8_7qERzchyTWB9q5lzdQtIz1UXp_BGGrH3TzO_FyA2cMCABjVd2SwD5yhRY4"
+   },
+   {
+    "position": 10,
+    "title": "Möbel Home Furnishings",
+    "place_id": "ChIJY3cXRK6xe0gRkxGoXmXqPQ8",
+    "data_id": "0x487bb1ae44177763:0xf3dea655ea81193",
+    "data_cid": "1098291605248938387",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x487bb1ae44177763%3A0xf3dea655ea81193&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x487bb1ae44177763%3A0xf3dea655ea81193&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 53.4575209,
+     "longitude": -2.2006718
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJY3cXRK6xe0gRkxGoXmXqPQ8",
+    "provider_id": "/g/11jfsgrf_8",
+    "rating": 4.8,
+    "reviews": 517,
+    "type": "Furniture store",
+    "types": [
+     "Furniture store",
+     "Bed shop",
+     "Bedroom furniture store",
+     "Furniture accessories supplier",
+     "Interior designer",
+     "Lighting store",
+     "Mattress store",
+     "Sofa store"
+    ],
+    "address": "525 Stockport Rd, Longsight, Manchester M12 4JH, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Open · Closes 6 PM",
+    "hours": "Open · Closes 6 PM",
+    "operating_hours": {
+     "wednesday": "9 AM–6 PM",
+     "thursday": "9 AM–6 PM",
+     "friday": "9 AM–6 PM",
+     "saturday": "9 AM–6 PM",
+     "sunday": "11 AM–5 PM",
+     "monday": "9 AM–6 PM",
+     "tuesday": "9 AM–6 PM"
+    },
+    "phone": "+44 161 248 9595",
+    "website": "https://www.instagram.com/mobelhomefurnishings/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible entrance",
+       "Wheelchair accessible parking lot"
+      ]
+     }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnNcEU92vGGmYNT928jO-qWuw1w51qAFVEvTFqgMTxN5wjIZtbZcK88fjfeK0nFhwpjbA7bGoCAznYT82sUcwaj0cWWwl3TYkXBOjp4P_S5zlGqg_ETjXm15EciuTQADfvVh7x08w=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/ovno-3icHcTdboIwGADQJ6oUlFhNdtFNQGOGf1XEGyNfoLWDFmyhxjf0EfY2S3Yuzu9bWNuauefVYjziWvO67E35AK1sqewIdOPx1iAwyHh0ud-yTKUQHWfBkCRNnrJZQOQGdVnvfBf6HY1P0cDijn-zZxo6ubrY4gJrQipZlWusYuFaWdBpkegv-lI5I4E5grtJDFnm6jHLf86fG9lOttdD-KqTjl8jJs-NH0Zw79mOLqrhJKZPTNyH8zHGSPwPSP0B4WtFjg"
+   },
+   {
+    "position": 11,
+    "title": "Desser & Co Ltd",
+    "place_id": "ChIJO3o8_8qxe0gRk_3ttdM4W-U",
+    "data_id": "0x487bb1caff3c7a3b:0xe55b38d3b5edfd93",
+    "data_cid": "16526865739507694995",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x487bb1caff3c7a3b%3A0xe55b38d3b5edfd93&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x487bb1caff3c7a3b%3A0xe55b38d3b5edfd93&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 53.466645199999995,
+     "longitude": -2.3318334
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJO3o8_8qxe0gRk_3ttdM4W-U",
+    "provider_id": "/g/1v0lk9xw",
+    "rating": 4.5,
+    "reviews": 107,
+    "type": "Furniture store",
+    "types": [
+     "Furniture store",
+     "Cane furniture store",
+     "Furniture accessories",
+     "Furniture accessories supplier",
+     "Furniture manufacturer",
+     "Furniture wholesaler",
+     "Garden furniture shop",
+     "Outdoor furniture store"
+    ],
+    "address": "Parkway Centre, The, Longbridge Rd, Trafford Park, Manchester M17 1SN, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Open · Closes 5 PM",
+    "hours": "Open · Closes 5 PM",
+    "operating_hours": {
+     "wednesday": "8:30 AM–5 PM",
+     "thursday": "8:30 AM–5 PM",
+     "friday": "8:30 AM–5 PM",
+     "saturday": "Closed",
+     "sunday": "Closed",
+     "monday": "8:30 AM–5 PM",
+     "tuesday": "8:30 AM–5 PM"
+    },
+    "phone": "+44 161 834 1795",
+    "website": "https://desser.co.uk/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible parking lot",
+       "Wheelchair accessible restroom"
+      ]
+     }
+    ],
+    "unsupported_extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible seating"
+      ]
+     }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnF3dTG_1VjGd_3PzlBKwkLNuaXVyYq1ZAi7Gpjw1AVJhxmsV_mOSYIyWVXMjK2ypdA7UZ2i7I1JXfjYd2cpKE2P__ORy-uIVvU_vslPSUHrkzk-AxEEnxcNOASw3fiVSt9SCP6OA=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/icbIOnicHcRLjoIwAADQE1UoJEPGxEU1iMgojZUCbppJQf6l2iLgDT2CtzHxLd77VWot1dIw2tJeFH1ftPmg8jvvhc6FXvC-MwqpAFdAGWh3wudYbO3s7DFIay9jNn6262Bs_o7Df0Ln9AYvqHI8WY8Q0X05dYqyLiSpP8c0OdSBNcsMOdHFqhwf7pNrnWYWl4FrYcbC0wwGnz4i9lAtJtHu3jwbgCbXFRM_hoiM9rWiRP-SDf4J0WqEpmmC8jsH4gMiZkXK"
+   },
+   {
+    "position": 12,
+    "title": "Wholesale Connections",
+    "place_id": "ChIJgdIdpMuxe0gRaQAR1V_Jq-Q",
+    "data_id": "0x487bb1cba41dd281:0xe4abc95fd5110069",
+    "data_cid": "16477485075098828905",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x487bb1cba41dd281%3A0xe4abc95fd5110069&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x487bb1cba41dd281%3A0xe4abc95fd5110069&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 53.4961829,
+     "longitude": -2.2441046
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJgdIdpMuxe0gRaQAR1V_Jq-Q",
+    "provider_id": "/g/11bw414hhb",
+    "rating": 4.7,
+    "reviews": 14,
+    "type": "Wholesaler",
+    "types": [
+     "Wholesaler",
+     "Bedding store",
+     "Clothing wholesaler",
+     "Wholesale market"
+    ],
+    "address": "Unit 23, Commerce House, 54 Derby St, Sherborne St, Cheetham Hill, Manchester M8 8HF, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Open · Closes 6 PM",
+    "hours": "Open · Closes 6 PM",
+    "operating_hours": {
+     "wednesday": "10 AM–6 PM",
+     "thursday": "10 AM–6 PM",
+     "friday": "10 AM–6 PM",
+     "saturday": "Closed",
+     "sunday": "10 AM–3 PM",
+     "monday": "10 AM–6 PM",
+     "tuesday": "10 AM–6 PM"
+    },
+    "phone": "+44 7762 824932",
+    "website": "https://www.wholesaleconnections.com/",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnmNevVY60w3HTZ3lRiyaukfQaUlqx-AChP6rPBOhvE4gQybcigsyfK3lM88nZCGL71MMsMBuNvSwzlCfEU2Q7IWoDhB_tfSFioANpijmUY1Qbeyad6TBkfVLG9PQslJ9Lb1gMiWg=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/NU5RqHicHcRLcoIwAADQE0VAOqidcQHU-iNIFGR004E0Pw0JmgClN-wRepvO9C3e7w-3tjWvjiO5P2FaM0k6Q55YK0uUnWDdOKw1ABtgnHBzzPJSNSnpz5fAHfxNfvXlUYxVd6eoKuTjC4Qxz4JnFh14v3phaKyxYGake1_C-Vxd43Uy8yA0MOrS_jR8y5iuiimabUv9xqMPS0_vQodpK25NcfFQTcbqM8ijOz0n60WGjNwtktpjUJRsOXiu6wL-PwbqD0R6RhQ"
+   },
+   {
+    "position": 13,
+    "title": "Manchester Home Interiors",
+    "place_id": "ChIJmRfr-Iaoe0gRXkg6aFk8C3A",
+    "data_id": "0x487ba886f8eb1799:0x700b3c59683a485e",
+    "data_cid": "8073613111690152030",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x487ba886f8eb1799%3A0x700b3c59683a485e&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x487ba886f8eb1799%3A0x700b3c59683a485e&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 53.5310718,
+     "longitude": -2.4233016999999997
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJmRfr-Iaoe0gRXkg6aFk8C3A",
+    "provider_id": "/g/1yh9txll7",
+    "rating": 4.3,
+    "reviews": 33,
+    "type": "Furniture store",
+    "types": [
+     "Furniture store",
+     "Furniture accessories",
+     "Furniture accessories supplier",
+     "Furniture wholesaler",
+     "Garden furniture shop",
+     "Office furniture store",
+     "Pine furniture shop",
+     "Sofa store"
+    ],
+    "address": "500 Manchester Rd E, Little Hulton, Manchester M38 9NS, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Open · Closes 5 PM",
+    "hours": "Open · Closes 5 PM",
+    "operating_hours": {
+     "wednesday": "10 AM–5 PM",
+     "thursday": "10 AM–5 PM",
+     "friday": "10 AM–5 PM",
+     "saturday": "10 AM–5 PM",
+     "sunday": "Closed",
+     "monday": "10 AM–5 PM",
+     "tuesday": "10 AM–5 PM"
+    },
+    "phone": "+44 161 703 9897",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible entrance",
+       "Wheelchair accessible parking lot"
+      ]
+     }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkmwhg7t_ASAhjDuP8fLWwRO_WZS-PPHn_o2H_sU1eFdANe3ag5Gxd7z6e2fHKe5bi8xYuDbOMcYbf9EgamQyjDh68K2Zg9E5Yu-ls-zfTgmwt7O7eCVk-t_GOwu3GUGkKMj4s=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/WcO0WHicHcRJDoIwAADAF9UiyGbigQhCggquBC-N1NLKVmLbVH2gf_A3Js5hvh8m5SjmEHbMmlDOaUeUIA_MB0kGOcG8h3QUAAsgYJDs82PR9ppRV6LgELAmVLlXrwu9z1BxOYA8TwbEzQSJ05SsbsGWWFdqx8-b-3aIWScpsau79yxVWGUbXFa1H9Frv3s1IXO81LxQP7JLBToB3vWR9lq6mUuW5xZIFGdaWfEpbtNNMxMLPTUMA7D_GAw_J7tERg"
+   },
+   {
+    "position": 14,
+    "title": "eSunrise Distributors",
+    "place_id": "ChIJ-9Rm7s2xe0gRIngpf5LkFfE",
+    "data_id": "0x487bb1cdee66d4fb:0xf115e4927f297822",
+    "data_cid": "17372042455501338658",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x487bb1cdee66d4fb%3A0xf115e4927f297822&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x487bb1cdee66d4fb%3A0xf115e4927f297822&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 53.495408499999996,
+     "longitude": -2.2573122
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ-9Rm7s2xe0gRIngpf5LkFfE",
+    "provider_id": "/g/11b6d1t649",
+    "rating": 4.9,
+    "reviews": 17,
+    "type": "Computer accessories store",
+    "types": [
+     "Computer accessories store"
+    ],
+    "address": "Unit 10, Broughton Trade Centre, 95-103 Broughton Ln, Manchester, Salford, M7 1UH, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Open · Closes 5 PM",
+    "hours": "Open · Closes 5 PM",
+    "operating_hours": {
+     "wednesday": "10 AM–5 PM",
+     "thursday": "10 AM–5 PM",
+     "friday": "10 AM–5 PM",
+     "saturday": "Closed",
+     "sunday": "Closed",
+     "monday": "10 AM–5 PM",
+     "tuesday": "10 AM–5 PM"
+    },
+    "phone": "+44 161 794 8111",
+    "website": "http://www.esunrise.co.uk/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible entrance",
+       "Wheelchair accessible parking lot"
+      ]
+     }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn8ioS8alw7J-oAxl9JVgCNkvnwP7O40MAA3aT7P8JXhnzPA2U5ioTk4R94EISxl1DugPkc6FL8NuXERvbUEAokuysrJByuPPYbZBf3_3TtODYGyiBMVJM9zb96c0wMQpr1geY=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/c8mIHHicHcRRboIwAADQE1XKQIEl-yiTTRuBDoGBP4s0rBBqS2gr4gF3h93GxPfx_v86rUf1alm8c1ZMSsZbo9qJSqFboVdUXiw2KkAVUBbaZST_Fn4vj_6Zzx4GEt14gEv2ngxXMRMvdWGMkHPOPeLjqhN3gl6KdS_zwc0CN9ofb9zeGkYGuvk4-ImpouzaFBGSg1nUhMPFEFI3p_DX-XFynW7rz6UP4xLHwb0JNhTO8dc42ayt32YbQgi65xSIB8WhQ5k"
+   },
+   {
+    "position": 15,
+    "title": "L&F Components Legs & Feet",
+    "place_id": "ChIJKYok-9mwe0gRUSuNULmfepc",
+    "data_id": "0x487bb0d9fb248a29:0x977a9fb9508d2b51",
+    "data_cid": "10915212265155013457",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x487bb0d9fb248a29%3A0x977a9fb9508d2b51&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x487bb0d9fb248a29%3A0x977a9fb9508d2b51&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 53.547490599999996,
+     "longitude": -2.130427
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJKYok-9mwe0gRUSuNULmfepc",
+    "provider_id": "/g/11f54zx807",
+    "rating": 5,
+    "reviews": 10,
+    "type": "Furniture accessories supplier",
+    "types": [
+     "Furniture accessories supplier",
+     "Corporate office"
+    ],
+    "address": "Waddington St, Oldham, OL9 6QH, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Open · Closes 4 PM",
+    "hours": "Open · Closes 4 PM",
+    "operating_hours": {
+     "wednesday": "9 AM–4 PM",
+     "thursday": "9 AM–4 PM",
+     "friday": "9 AM–4 PM",
+     "saturday": "Closed",
+     "sunday": "Closed",
+     "monday": "9 AM–4 PM",
+     "tuesday": "9 AM–4 PM"
+    },
+    "phone": "+44 7449 556781",
+    "website": "https://www.furniturelegsfeet.co.uk/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible parking lot"
+      ]
+     }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmASq0Kg_LmXvCgMFdvjSkNW8M7Ks8ZA2SX13q8frqjM0F29wkMnGuowQIhYG1DJ66gagOTnaoEYBCHqzmkiVRlscVf2v1BpPh1QbZG0Sbo8J3euW_aPZqKOylPcd7TFGEf8cIz4Q=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/CZl28nicHcRJDoIwAADAFyEtGKwmHnABFVEQIsLFYIVWgZZalsgPfYK_MXEO8_3QpqnlTFVLqo8I56TMWpm9MGdNxpoR5pVKaqlgqUjV3Jy8MKrMQACHXPfVpVsS17p3z6A4RMidOBIlphZcoC5Q_hJPF1jatC9cZre897c0tuFqZxgkJceQpXwdL5YbMVTF43wqJT7nWgcXtUehf0tsENw42ulZG11TLxHO8V16-D4JLXudI7wdxv68hwAAhf7HCvsB0gtFBg"
+   },
+   {
+    "position": 16,
+    "title": "City Office Supplies Limited",
+    "place_id": "ChIJz2thmNOxe0gRBNayeVwSfPQ",
+    "data_id": "0x487bb1d398616bcf:0xf47c125c79b2d604",
+    "data_cid": "17616976030754592260",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x487bb1d398616bcf%3A0xf47c125c79b2d604&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x487bb1d398616bcf%3A0xf47c125c79b2d604&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 53.4953472,
+     "longitude": -2.2572476999999997
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJz2thmNOxe0gRBNayeVwSfPQ",
+    "provider_id": "/g/1tf1nct6",
+    "rating": 4.8,
+    "reviews": 17,
+    "type": "Office supply store",
+    "types": [
+     "Office supply store",
+     "Office equipment supplier",
+     "Office furniture store",
+     "Stationery store"
+    ],
+    "address": "6, Broughton Trade Centre, 95 Broughton Ln, Salford M7 1UH, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Open · Closes 5 PM",
+    "hours": "Open · Closes 5 PM",
+    "operating_hours": {
+     "wednesday": "8 AM–5 PM",
+     "thursday": "8 AM–5 PM",
+     "friday": "8 AM–5 PM",
+     "saturday": "Closed",
+     "sunday": "Closed",
+     "monday": "8 AM–5 PM",
+     "tuesday": "8 AM–5 PM"
+    },
+    "phone": "+44 161 832 7187",
+    "website": "https://cityofficesupplies.co.uk/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible entrance",
+       "Wheelchair accessible parking lot"
+      ]
+     }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn2QKPv54DOw87kYYyTShaSHpSJR5ImjZjHmY3wJhfQp9FRieE7NozPTeDKHWppdtZUFKGoEkj7C2Als53UqCi8iKUHTY_XG0EVqj8xmXy8F99E6GqswQlqiClwIgrHA-eHkhaycw=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/_lIPonicHcTbToMwAADQL-rAMQaY-EC4dSNRrg54WUhXKdDSslYr_uE-wb8x8Tyc3wdRSshnw6DE2g2cDxR_SnxHfFF4UTvEmTEICZAE0vBhkVWXZZ-n2Zd9CN-068xtu1Ul6UsoynNhn9jUTZC1lj6Tj1x4cTHiyHnlP1mFwxRehLipro7ThEfz5AR7n0rbqtdgdMe0hlV7bRIzel8n95s1mxt7XnRMVqlzuo4B1afhDn2A4Uz6DekX_WSaJiD_I7D8AdPkRYE"
+   },
+   {
+    "position": 17,
+    "title": "Lighthouse",
+    "place_id": "ChIJN1R6Ffyxe0gRtDh_W8k8Fnc",
+    "data_id": "0x487bb1fc157a5437:0x77163cc95b7f38b4",
+    "data_cid": "8581112975522216116",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x487bb1fc157a5437%3A0x77163cc95b7f38b4&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x487bb1fc157a5437%3A0x77163cc95b7f38b4&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 53.4624701,
+     "longitude": -2.2586949
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJN1R6Ffyxe0gRtDh_W8k8Fnc",
+    "provider_id": "/g/11cs69rkfy",
+    "rating": 5,
+    "reviews": 22,
+    "type": "Lighting store",
+    "types": [
+     "Lighting store",
+     "Cabinet store",
+     "Home improvement store",
+     "Interior designer",
+     "Kitchen remodeler",
+     "Lighting consultant",
+     "Lighting products wholesaler"
+    ],
+    "address": "94A Chorlton Rd, Old Trafford, Stretford, Manchester M15 4AN, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Open · Closes 6 PM",
+    "hours": "Open · Closes 6 PM",
+    "operating_hours": {
+     "wednesday": "11 AM–6 PM",
+     "thursday": "11 AM–6 PM",
+     "friday": "11 AM–6 PM",
+     "saturday": "11 AM–6 PM",
+     "sunday": "11 AM–6 PM",
+     "monday": "11 AM–6 PM",
+     "tuesday": "11 AM–6 PM"
+    },
+    "website": "https://shoplighthouse.co.uk/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible entrance",
+       "Wheelchair accessible parking lot"
+      ]
+     }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmyIdEBLJWoW6a9-GG7_Vh920pTAb3cVHvxsPxJJiNfj4a_3xgq4QPkPNC2poEstZaSlIfm2dsUYMfsD9DHR494Vqtm0fzdO6BALEq-KFQgpJrQyP-iUiSoAsj1Xn7oG-gfvj-Qaw=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/acgniXicHcRbcoIwFADQFV2JwOjgjB-oFKQ-gg-w_XFoIAEEErxRsTt0Cd1NZzwf5-9VaK1wYhh1YQ2ElKLOb5hfmWx13uoBk40hFAJDQMMNdvSQNM9l5s1WYSKTUeqA74_PceGYRB3cH4vFwb1H2odhueGVnZ6tXnR2RC90MzeV9FB_p_t6yRszw-PXmuPCWQQ727HjTjeE_2bb0cxdeR18fkRChdfoSaE8lnvpYjU8tWPpg-D3CqL0MX0MCSFQvGfQ_gOuwkTy"
+   },
+   {
+    "position": 18,
+    "title": "Grove Products (Caravan Accessories) Ltd",
+    "place_id": "ChIJ6T8jOAC3e0gRW8BbAA92O28",
+    "data_id": "0x487bb70038233fe9:0x6f3b760f005bc05b",
+    "data_cid": "8015129768638529627",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x487bb70038233fe9%3A0x6f3b760f005bc05b&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x487bb70038233fe9%3A0x6f3b760f005bc05b&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 53.463930999999995,
+     "longitude": -2.0934534
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ6T8jOAC3e0gRW8BbAA92O28",
+    "provider_id": "/g/11lv7htlsn",
+    "rating": 4.2,
+    "reviews": 5,
+    "type": "Wholesaler",
+    "types": [
+     "Wholesaler",
+     "Auto accessories wholesaler",
+     "Awning supplier",
+     "Distribution service"
+    ],
+    "address": "Broadway, Hyde, SK14 4QF, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Open · Closes 5:30 PM",
+    "hours": "Open · Closes 5:30 PM",
+    "operating_hours": {
+     "wednesday": "8:30 AM–5:30 PM",
+     "thursday": "8:30 AM–5:30 PM",
+     "friday": "8:30 AM–5:30 PM",
+     "saturday": "Closed",
+     "sunday": "Closed",
+     "monday": "8:30 AM–5:30 PM",
+     "tuesday": "8:30 AM–5:30 PM"
+    },
+    "phone": "+44 161 367 7070",
+    "website": "http://www.groveproducts.co.uk/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible parking lot"
+      ]
+     }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl9jsn6ixt3XDOE-X3fFxUzB4EWXKkhe0m8-V3G25JILnfaM4TMtJPH1zbj5cgB3_mlZ1sr2EBPRu-AiEQ5zjCJyZT5xlJtJ6V0HOzTHiCezNBI2d-_tONeCh3tKqsZ8QTgh209SSo6605X=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/YwnwhHicHcTBTsIwGADgJyrrVrqAiQc2p6MIG1Bh2YVoLe1m1yL9ibMv6dm3MfE7fL8_GuDi76LIaDJRzikjb15ehbMgLUyEGyJ18Uh45KNFuav50cx7b9NuBNI8VAVqyPlxfAnZtDg2qw8t8TBDB_KUULZ8tufX9ZSvgdVlHN56KlRGToNpY39Niqze3dCiK7Y09Dn7bjkdDQOWHnBZBV52uQybbJm8oxNUG5lrAqtP3862XOkEz_d7l6aYNvdfMcYY6f8Fsn_41kUi"
+   },
+   {
+    "position": 19,
+    "title": "Sayda Trade Supplies Ltd",
+    "place_id": "ChIJYfJIh_Wxe0gRXag1KLH4jRs",
+    "data_id": "0x487bb1f58748f261:0x1b8df8b12835a85d",
+    "data_cid": "1985516450507761757",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x487bb1f58748f261%3A0x1b8df8b12835a85d&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x487bb1f58748f261%3A0x1b8df8b12835a85d&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 53.4560914,
+     "longitude": -2.2401652999999997
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJYfJIh_Wxe0gRXag1KLH4jRs",
+    "provider_id": "/g/11bzt029ht",
+    "rating": 4.9,
+    "reviews": 183,
+    "type": "Building materials supplier",
+    "types": [
+     "Building materials supplier",
+     "Bathroom supply store",
+     "Building materials store",
+     "Do-it-yourself shop",
+     "Hardware store",
+     "Kitchen supply store",
+     "Paint store",
+     "Plumbing supply store",
+     "Tile store",
+     "Wood and laminate flooring supplier"
+    ],
+    "address": "174 Great Western St, Moss Side, Manchester M14 4SN, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Open · Closes 6:30 PM",
+    "hours": "Open · Closes 6:30 PM",
+    "operating_hours": {
+     "wednesday": "9 AM–6:30 PM",
+     "thursday": "9 AM–6:30 PM",
+     "friday": "9 AM–12:45 PM, 2:15–6:30 PM",
+     "saturday": "9 AM–6 PM",
+     "sunday": "11 AM–4 PM",
+     "monday": "9 AM–6:30 PM",
+     "tuesday": "9 AM–6:30 PM"
+    },
+    "phone": "+44 161 232 8393",
+    "website": "https://sayda.co.uk/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible entrance"
+      ]
+     }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk0JZ0MA5iU_UbcOum3JD3uG7tgNJgm4rvE7roFXvG2c-zhU8BQFI1YAU54QysIuZNK0qf2qgqYeqJYOXmmvZNHShSP3PAZfkZ29GWI4N-gXjk7x1-gRZ6pDUORIsvg-x6IZWyX=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/MWX9lXicHcTdboIwGADQJ6qUH8Ut8YKFicUIiDZAb5aswa-KpUALU1_QZ_BtlnguzuspjOn0p2VdhTsDpeBaj7oeuGpN3ZoZV9KCTiOukbaCTZ4diwbHDO-C-Zn-0F-ejtKNQ3eMfANJDNIbpm9_UOtyihyOHoIuv_ZrYlcBnXv7uyYjS7a4Pzk99FXdx1VaSjmxZHMQh8zNAnZqmPMRFcRLEJSXxr_ZCHK26EKa5kRPgG4Lwop7ufqzMcZIvOeo_QfvuEN4"
+   },
+   {
+    "position": 20,
+    "title": "Havellon",
+    "place_id": "ChIJl7ymNnKve0gRU7qRMZn4tX0",
+    "data_id": "0x487baf7236a6bc97:0x7db5f8993191ba53",
+    "data_cid": "9058419562370939475",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x487baf7236a6bc97%3A0x7db5f8993191ba53&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x487baf7236a6bc97%3A0x7db5f8993191ba53&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 53.4742706,
+     "longitude": -2.3351932
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJl7ymNnKve0gRU7qRMZn4tX0",
+    "provider_id": "/g/11xlrsltry",
+    "rating": 5,
+    "reviews": 3,
+    "type": "Furniture store",
+    "types": [
+     "Furniture store",
+     "Bar restaurant furniture store",
+     "Furniture accessories",
+     "Furniture wholesaler"
+    ],
+    "address": "Unit 16, Astra Business Park, Trafford Park, Stretford, Manchester M17 1SU, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Open · Closes 6 PM",
+    "hours": "Open · Closes 6 PM",
+    "operating_hours": {
+     "wednesday": "9 AM–6 PM",
+     "thursday": "9 AM–6 PM",
+     "friday": "9 AM–6 PM",
+     "saturday": "9 AM–6 PM",
+     "sunday": "10 AM–4 PM",
+     "monday": "9 AM–6 PM",
+     "tuesday": "9 AM–6 PM"
+    },
+    "phone": "+44 7760 677516",
+    "website": "https://havellon.com/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Assistive hearing loop",
+       "Wheelchair accessible parking lot",
+       "Wheelchair accessible restroom",
+       "Wheelchair accessible seating"
+      ]
+     }
+    ],
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=u5iusmggV-J9j5xBIv8agw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=109.852646&pitch=0&thumbfov=100",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/oRgD9HicHc1BDsIgEEDR27ArUGOb1oSYuNMDuDVTijCGFtKhUI_jsbyNjeufvP_9uJQinYSgtBiTMpoScTOeqgjchmC9gYjEdZhErkVy6zTMgP4cYQ44qrXBlSZr79WtfzXb5Zo7sIXp4aE9mjkpMrBox23ZxSWM3EZiRXWSOdUf2BuKqmXPu-bQHlsWMWmnJPtvniHvTf4AzJE6DQ"
+   }
+  ],
+  "serpapi_pagination": {
+   "next": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&ll=%4053.4808%2C-2.2426%2C12z&q=home+accessories+wholesaler&start=20&type=search"
+  }
+ }
+}

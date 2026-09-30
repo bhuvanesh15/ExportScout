@@ -1,0 +1,116 @@
+{
+ "engine": "google_ads_transparency_center",
+ "params": {
+  "text": "onlinelighting.co.uk",
+  "region": "2826"
+ },
+ "fetched_at": "2026-09-30T10:51:31+00:00",
+ "data": {
+  "search_metadata": {
+   "id": "6abce9b1874d5091cc0f86a7",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/2hylIKo-ohv2P2vOGBb4lIbLkaAyG2NHRkYHmnQDzdw/6abce9b1874d5091cc0f86a7.json",
+   "markdown_endpoint": "https://serpapi.com/searches/2hylIKo-ohv2P2vOGBb4lIbLkaAyG2NHRkYHmnQDzdw/6abce9b1874d5091cc0f86a7.md",
+   "created_at": "2026-09-30 10:51:29 UTC",
+   "processed_at": "2026-09-30 10:51:29 UTC",
+   "google_ads_transparency_center_url": "https://adstransparency.google.com?region=GB&domain=onlinelighting.co.uk",
+   "raw_html_file": "https://serpapi.com/searches/2hylIKo-ohv2P2vOGBb4lIbLkaAyG2NHRkYHmnQDzdw/6abce9b1874d5091cc0f86a7.html",
+   "prettify_html_file": "https://serpapi.com/searches/2hylIKo-ohv2P2vOGBb4lIbLkaAyG2NHRkYHmnQDzdw/6abce9b1874d5091cc0f86a7.prettify",
+   "total_time_taken": 0.85
+  },
+  "search_parameters": {
+   "engine": "google_ads_transparency_center",
+   "text": "onlinelighting.co.uk",
+   "region": "2826"
+  },
+  "search_information": {
+   "total_results": 6
+  },
+  "ad_creatives": [
+   {
+    "advertiser_id": "AR01794873223909736449",
+    "advertiser": "Lyco Group Limited",
+    "ad_creative_id": "CR12551201792597164033",
+    "format": "text",
+    "target_domain": "onlinelighting.co.uk",
+    "image": "https://tpc.googlesyndication.com/archive/simgad/11498172317028673575",
+    "width": 348,
+    "height": 330,
+    "total_days_shown": 1691,
+    "first_shown": 1635145200,
+    "last_shown": 1790755822,
+    "details_link": "https://adstransparency.google.com/advertiser/AR01794873223909736449/creative/CR12551201792597164033?region=GB&domain=onlinelighting.co.uk",
+    "serpapi_details_link": "https://serpapi.com/search.json?advertiser_id=AR01794873223909736449&creative_id=CR12551201792597164033&engine=google_ads_transparency_center_ad_details&region=2826"
+   },
+   {
+    "advertiser_id": "AR01794873223909736449",
+    "advertiser": "Lyco Group Limited",
+    "ad_creative_id": "CR14891439724550946817",
+    "format": "image",
+    "link": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=3019774177&creativeId=644333153409&uiFeatures=12,54&adGroupId=148921032870&itemIds=15151033924325558640&overlay=%3DH4sIAAAAAAAAAH1RTUgUYRjeb2Z3_PZbc8fJdDStz_9J0HXXVmrCUtdNXRddbSHxUIw7s7ujOz9836xkJ6GEKCgwAm8aQd3S6FaX8FK3QPYgeAhqDx2CIrp1iV3TQ2C3l-d9eH7eV64N1SDBa49Pb9SMR3arv_36uLc6bdyJNSI-RemITu2csnzNIbqZESDiJnIKMZVYGxJp1rJt3cwMqVPptEYiRFMcfUnrFaDMwaJXAJ5Y87GsoOCRWfjS9x-h0IEQKgkdz-orsx6U7V65UZ1NLDWfcoZUOqOZqlaKPaI4ivDEHVtz3y_s7_rfs6h2BkEgcPB74XOBW4CwgneJAAN0ewFCX3l27TDGYVkeiMXVLablUtZxbCoHAilKexbLq56UZQTyi4Erece4Sa08SWkDGcvK5LSOEmJoqp43BlKUShVyE58Uk4OuMVciOZtU7tKno-nHG72EgSxhoBtljnK4dsEc3C7u9_N-2T9l5nRTw3E9k3V0MzNXHwy3YyudxhZRNUKxtaQRvPOsL9w7D6cm4-OT0WA4--PhXoGzwS3fCmC2wcqLn8_BG8CODie-AheqGmYgODJjBA8qbRpiaDiq0OWruoMjFtFwMLSERxWiauaBOcXdOJozcDw6ghMWdQ5QPKE7uBuf_8vhWVGU2BYvfPdpa1ACF7iuRvRvBf73oxsNnovBcH84FEbn-E1O3OQG-8Yiibee2dcepTP-4cs9oek6YSA4vA5hIOKBCPA6kIpg3rUGGB6slb55GckQCBJgWLeHq4Be5Ks8UeXnq4WTNadq68T6htONTWfO4uaW1rb2jk6pqxICEUjrwGa3QSvv_gNVCxrX_wIAAA&sig=ACiVB_xtROpd9lW9IxmrlqvaNfbw7n_ZYQ&htmlParentId=fletch-render-12503952735795319731&responseCallback=fletchCallback12503952735795319731",
+    "target_domain": "onlinelighting.co.uk",
+    "total_days_shown": 1142,
+    "first_shown": 1692082800,
+    "last_shown": 1790742578,
+    "details_link": "https://adstransparency.google.com/advertiser/AR01794873223909736449/creative/CR14891439724550946817?region=GB&domain=onlinelighting.co.uk",
+    "serpapi_details_link": "https://serpapi.com/search.json?advertiser_id=AR01794873223909736449&creative_id=CR14891439724550946817&engine=google_ads_transparency_center_ad_details&region=2826"
+   },
+   {
+    "advertiser_id": "AR01794873223909736449",
+    "advertiser": "Lyco Group Limited",
+    "ad_creative_id": "CR02671100376823889921",
+    "format": "image",
+    "link": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=3019774177&creativeId=731298360707&uiFeatures=12,54&adGroupId=172954041014&itemIds=11024234093399763473&sig=ACiVB_wkogNORAoC8nuyn9fncj6Q0ITvBw&htmlParentId=fletch-render-1546893559403021173&responseCallback=fletchCallback1546893559403021173",
+    "target_domain": "onlinelighting.co.uk",
+    "total_days_shown": 607,
+    "first_shown": 1738335893,
+    "last_shown": 1790727821,
+    "details_link": "https://adstransparency.google.com/advertiser/AR01794873223909736449/creative/CR02671100376823889921?region=GB&domain=onlinelighting.co.uk",
+    "serpapi_details_link": "https://serpapi.com/search.json?advertiser_id=AR01794873223909736449&creative_id=CR02671100376823889921&engine=google_ads_transparency_center_ad_details&region=2826"
+   },
+   {
+    "advertiser_id": "AR01794873223909736449",
+    "advertiser": "Lyco Group Limited",
+    "ad_creative_id": "CR16037676198460915713",
+    "format": "text",
+    "target_domain": "onlinelighting.co.uk",
+    "image": "https://tpc.googlesyndication.com/archive/simgad/3910098338124855993",
+    "width": 348,
+    "height": 370,
+    "total_days_shown": 1654,
+    "first_shown": 1647840084,
+    "last_shown": 1790725228,
+    "details_link": "https://adstransparency.google.com/advertiser/AR01794873223909736449/creative/CR16037676198460915713?region=GB&domain=onlinelighting.co.uk",
+    "serpapi_details_link": "https://serpapi.com/search.json?advertiser_id=AR01794873223909736449&creative_id=CR16037676198460915713&engine=google_ads_transparency_center_ad_details&region=2826"
+   },
+   {
+    "advertiser_id": "AR01794873223909736449",
+    "advertiser": "Lyco Group Limited",
+    "ad_creative_id": "CR02707865726374379521",
+    "format": "text",
+    "target_domain": "onlinelighting.co.uk",
+    "image": "https://tpc.googlesyndication.com/archive/simgad/6767802632392159307",
+    "width": 348,
+    "height": 373,
+    "total_days_shown": 1801,
+    "first_shown": 1635145200,
+    "last_shown": 1790721154,
+    "details_link": "https://adstransparency.google.com/advertiser/AR01794873223909736449/creative/CR02707865726374379521?region=GB&domain=onlinelighting.co.uk",
+    "serpapi_details_link": "https://serpapi.com/search.json?advertiser_id=AR01794873223909736449&creative_id=CR02707865726374379521&engine=google_ads_transparency_center_ad_details&region=2826"
+   },
+   {
+    "advertiser_id": "AR01794873223909736449",
+    "advertiser": "Lyco Group Limited",
+    "ad_creative_id": "CR02535354671258664961",
+    "format": "image",
+    "link": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=3019774177&creativeId=731178464871&uiFeatures=12,54&adGroupId=172944344086&itemIds=15407714686743548428&sig=ACiVB_zrBIZRSe1A-Y0dSuVvX--Qlj_9wg&htmlParentId=fletch-render-6117868011022841033&responseCallback=fletchCallback6117868011022841033",
+    "target_domain": "onlinelighting.co.uk",
+    "total_days_shown": 606,
+    "first_shown": 1738448720,
+    "last_shown": 1790697332,
+    "details_link": "https://adstransparency.google.com/advertiser/AR01794873223909736449/creative/CR02535354671258664961?region=GB&domain=onlinelighting.co.uk",
+    "serpapi_details_link": "https://serpapi.com/search.json?advertiser_id=AR01794873223909736449&creative_id=CR02535354671258664961&engine=google_ads_transparency_center_ad_details&region=2826"
+   }
+  ]
+ }
+}

@@ -1,0 +1,399 @@
+{
+ "engine": "google",
+ "params": {
+  "q": "Turquoise Living UK",
+  "gl": "uk",
+  "hl": "en",
+  "google_domain": "google.co.uk"
+ },
+ "fetched_at": "2026-09-30T10:50:46+00:00",
+ "data": {
+  "search_metadata": {
+   "id": "6abce98505bb5905dc12dc9a",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/NyCbUQCPreNSzA00e3aYJOQ0UqY7eXEGuEzuKHx5nuk/6abce98505bb5905dc12dc9a.json",
+   "markdown_endpoint": "https://serpapi.com/searches/NyCbUQCPreNSzA00e3aYJOQ0UqY7eXEGuEzuKHx5nuk/6abce98505bb5905dc12dc9a.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/NyCbUQCPreNSzA00e3aYJOQ0UqY7eXEGuEzuKHx5nuk/6abce98505bb5905dc12dc9a.json_with_pixel_position",
+   "created_at": "2026-09-30 10:50:45 UTC",
+   "processed_at": "2026-09-30 10:50:45 UTC",
+   "google_url": "https://www.google.co.uk/search?q=Turquoise+Living+UK&oq=Turquoise+Living+UK&hl=en&gl=uk&sourceid=chrome&ie=UTF-8",
+   "raw_html_file": "https://serpapi.com/searches/NyCbUQCPreNSzA00e3aYJOQ0UqY7eXEGuEzuKHx5nuk/6abce98505bb5905dc12dc9a.html",
+   "total_time_taken": 0.52
+  },
+  "search_parameters": {
+   "engine": "google",
+   "q": "Turquoise Living UK",
+   "google_domain": "google.co.uk",
+   "hl": "en",
+   "gl": "uk",
+   "device": "desktop"
+  },
+  "search_information": {
+   "query_displayed": "Turquoise Living UK",
+   "total_results": 378000000,
+   "time_taken_displayed": 0.35,
+   "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+   {
+    "question": "What are people saying about The turquoise Holiday Company in reviews?",
+    "type": "ai_overview",
+    "page_token": "UmULvnicHdFLjpswAABQ9TKzTEwS6DRSNBIBEyFBgsE2eFP508SAAXfCBMKud-kBep6eZqre4Env129T9-3fL3_0ONr7fr2epml1G4ab-bGSw-qjXfP7s5dryY0RXLZ776vnvF3lIRym4_E--Rm2lgQI5OQV8CB95iF5iB5ZGn07Zk3s0drpK-AaRiVISxVnINXplt1JiyfUxJGAKGEnf4OJIZSSRHY2yBp4KYBy087MzImHclEPWbCGgDjCxL4nnauzjWW89AvazV5aJiNr1YUAhyOcTDklxT_DVWy0r4rKxSd0ZkbHIsi2BLKo2oxEBTBICkOS0P4U0N_l7XjmhVpE6FrVoe355LsignPu-D3qYc1BvMnDV0cCxSQlnjj5TxklO461xxv_I6NgrhblhVoNjIJdVcY1wfPCKZwUhBlbUIUKjfg81BlGi2xMRyKHkEXnea8D1hrLsbqIJnN5iCzqboA06Kiml6t8HLYv_x8O36_duLfvw-0TA3GXZQ",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=UmULvnicHdFLjpswAABQ9TKzTEwS6DRSNBIBEyFBgsE2eFP508SAAXfCBMKud-kBep6eZqre4Env129T9-3fL3_0ONr7fr2epml1G4ab-bGSw-qjXfP7s5dryY0RXLZ776vnvF3lIRym4_E--Rm2lgQI5OQV8CB95iF5iB5ZGn07Zk3s0drpK-AaRiVISxVnINXplt1JiyfUxJGAKGEnf4OJIZSSRHY2yBp4KYBy087MzImHclEPWbCGgDjCxL4nnauzjWW89AvazV5aJiNr1YUAhyOcTDklxT_DVWy0r4rKxSd0ZkbHIsi2BLKo2oxEBTBICkOS0P4U0N_l7XjmhVpE6FrVoe355LsignPu-D3qYc1BvMnDV0cCxSQlnjj5TxklO461xxv_I6NgrhblhVoNjIJdVcY1wfPCKZwUhBlbUIUKjfg81BlGi2xMRyKHkEXnea8D1hrLsbqIJnN5iCzqboA06Kiml6t8HLYv_x8O36_duLfvw-0TA3GXZQ",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGNUQkpVR3g1U0VKNFMxTTBjRlYyUVZvMGRXeDFibXQwVkVoWlJGYzFSMGM0WWxSeVMweENXWEZqVm1GU1pWYzVaR1pvZDJ4RWNqQTFlRmRWV1RsMmVETkJSV2cxVlRNME5rcG5TMUJSTFhWM1pURnFSMHRWUlRkeVFSSVhhR1Z0T0dGeVlsVk1jMmxoY0hSUlVHYzBXRVU0VVdzYUlrRkVjM0k1WmxOQmVHUm1MVXhqTm1OcGVEUTVRWGN6YTBaNGFESnphR1pPZW5jIiwiZmN2IjoiMyIsImVpIjoiaGVtOGFyYlVMc2lhcHRRUGc0WEU4UWsiLCJxYyI6IkNoTjBkWEp4ZFc5cGMyVWdiR2wyYVc1bklIVnJFQUI5bkY1QVB3IiwicXVlc3Rpb24iOiJXaGF0IGFyZSBwZW9wbGUgc2F5aW5nIGFib3V0IFRoZSB0dXJxdW9pc2UgSG9saWRheSBDb21wYW55IGluIHJldmlld3M/IiwibGsiOiJHaVYwYUdVZ2RIVnljWFZ2YVhObElHaHZiR2xrWVhrZ1kyOXRjR0Z1ZVNCeVpYWnBaWGR6IiwiYnMiOiJjNVdPUVd2Q1FCU0U2WFZQUFFlcWcxQThHMy1BU0VIcVhmRDhranpOZ19nMlpuZGR0cl9lSmVTUWdoUjZubV9tRzNNM2gzTkxIalF3ZXJaOXgzQ1VSSy1neWdhUFU4dndZYmdISzQ3eGJUdHBLT0hMM25yU0JGRU1fQkNPYmxldWkwX19DMjRudUo3Z2lUUUhzenEzbkgwMUtZNm9Rc0tWTllqT3lyc1N4U0tPbExldkViTTNpX0Y2WTluTnRDN2RxbXoteVJ2TDRpUC1SUmd4NVRnaE9jN2ZHN2xjc2xKclJzVS1NaXM4VXdmU1puNXRXMnppZjF2dmIwOCIsImlkIjoiZmNfaGVtOGFyYlVMc2lhcHRRUGc0WEU4UWtfNSJ9",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGNUQkpVR3g1U0VKNFMxTTBjRlYyUVZvMGRXeDFibXQwVkVoWlJGYzFSMGM0WWxSeVMweENXWEZqVm1GU1pWYzVaR1pvZDJ4RWNqQTFlRmRWV1RsMmVETkJSV2cxVlRNME5rcG5TMUJSTFhWM1pURnFSMHRWUlRkeVFSSVhhR1Z0T0dGeVlsVk1jMmxoY0hSUlVHYzBXRVU0VVdzYUlrRkVjM0k1WmxOQmVHUm1MVXhqTm1OcGVEUTVRWGN6YTBaNGFESnphR1pPZW5jIiwiZmN2IjoiMyIsImVpIjoiaGVtOGFyYlVMc2lhcHRRUGc0WEU4UWsiLCJxYyI6IkNoTjBkWEp4ZFc5cGMyVWdiR2wyYVc1bklIVnJFQUI5bkY1QVB3IiwicXVlc3Rpb24iOiJXaGF0IGFyZSBwZW9wbGUgc2F5aW5nIGFib3V0IFRoZSB0dXJxdW9pc2UgSG9saWRheSBDb21wYW55IGluIHJldmlld3M%2FIiwibGsiOiJHaVYwYUdVZ2RIVnljWFZ2YVhObElHaHZiR2xrWVhrZ1kyOXRjR0Z1ZVNCeVpYWnBaWGR6IiwiYnMiOiJjNVdPUVd2Q1FCU0U2WFZQUFFlcWcxQThHMy1BU0VIcVhmRDhranpOZ19nMlpuZGR0cl9lSmVTUWdoUjZubV9tRzNNM2gzTkxIalF3ZXJaOXgzQ1VSSy1neWdhUFU4dndZYmdISzQ3eGJUdHBLT0hMM25yU0JGRU1fQkNPYmxldWkwX19DMjRudUo3Z2lUUUhzenEzbkgwMUtZNm9Rc0tWTllqT3lyc1N4U0tPbExldkViTTNpX0Y2WTluTnRDN2RxbXoteVJ2TDRpUC1SUmd4NVRnaE9jN2ZHN2xjc2xKclJzVS1NaXM4VXdmU1puNXRXMnppZjF2dmIwOCIsImlkIjoiZmNfaGVtOGFyYlVMc2lhcHRRUGc0WEU4UWtfNSJ9"
+   },
+   {
+    "question": "Where can I buy genuine turquoise?",
+    "type": "ai_overview",
+    "page_token": "d1oAwXicHdDbboIwAADQ7Gd8VKjiNhOzjMlFIk1aepG-LNCqVcplCgN527_sq_Y1W_YD5-F8fZtzVfw8DLptm9tqNuv7fnqq65M5TGU97YpZdrtXciYzY_JMFqvl49J-Ocq1123dt4-ti2jTsA22Em72KbBAzlSN-VPLmHtnhFoyjAy0oAM97MNAMzS-9sjoMzHudkd9mPOFIwKcUkuVkjeBKpsr93Cd23ROKrZkgYAp0DrmmubA38pS7HnQdgm32aFywyzUDgLiiklhxwG7_TkdoTZMjMI7_hwz-uwlRtiQowULVZaAyKiL7ihzB3hJBwQYoiC2VCGB4AaRjRuSwnc9rWrBrUW6j86MDmPG_V75PhIjTjHROBvqM6J4lBdT0qrBCjCHBzBR5tTKwkkJiXTCYUZp2ual6EU_OcrP9Xzy_7l-P5btqrnWp18z2IPb",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=d1oAwXicHdDbboIwAADQ7Gd8VKjiNhOzjMlFIk1aepG-LNCqVcplCgN527_sq_Y1W_YD5-F8fZtzVfw8DLptm9tqNuv7fnqq65M5TGU97YpZdrtXciYzY_JMFqvl49J-Ocq1123dt4-ti2jTsA22Em72KbBAzlSN-VPLmHtnhFoyjAy0oAM97MNAMzS-9sjoMzHudkd9mPOFIwKcUkuVkjeBKpsr93Cd23ROKrZkgYAp0DrmmubA38pS7HnQdgm32aFywyzUDgLiiklhxwG7_TkdoTZMjMI7_hwz-uwlRtiQowULVZaAyKiL7ihzB3hJBwQYoiC2VCGB4AaRjRuSwnc9rWrBrUW6j86MDmPG_V75PhIjTjHROBvqM6J4lBdT0qrBCjCHBzBR5tTKwkkJiXTCYUZp2ual6EU_OcrP9Xzy_7l-P5btqrnWp18z2IPb",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGNUQkpVR3g1U0VKNFMxTTBjRlYyUVZvMGRXeDFibXQwVkVoWlJGYzFSMGM0WWxSeVMweENXWEZqVm1GU1pWYzVaR1pvZDJ4RWNqQTFlRmRWV1RsMmVETkJSV2cxVlRNME5rcG5TMUJSTFhWM1pURnFSMHRWUlRkeVFSSVhhR1Z0T0dGeVlsVk1jMmxoY0hSUlVHYzBXRVU0VVdzYUlrRkVjM0k1WmxOQmVHUm1MVXhqTm1OcGVEUTVRWGN6YTBaNGFESnphR1pPZW5jIiwiZmN2IjoiMyIsImVpIjoiaGVtOGFyYlVMc2lhcHRRUGc0WEU4UWsiLCJxYyI6IkNoTjBkWEp4ZFc5cGMyVWdiR2wyYVc1bklIVnJFQUI5bkY1QVB3IiwicXVlc3Rpb24iOiJXaGVyZSBjYW4gSSBidXkgZ2VudWluZSB0dXJxdW9pc2U/IiwibGsiOiJHaDUzYUdWeVpTQjBieUJpZFhrZ1oyVnVkV2x1WlNCMGRYSnhkVzlwYzJVIiwiYnMiOiJjNVdPUVd2Q1FCU0U2WFZQUFFlcWcxQThHMy1BU0VIcVhmRDhranpOZ19nMlpuZGR0cl9lSmVTUWdoUjZubV9tRzNNM2gzTkxIalF3ZXJaOXgzQ1VSSy1neWdhUFU4dndZYmdISzQ3eGJUdHBLT0hMM25yU0JGRU1fQkNPYmxldWkwX19DMjRudUo3Z2lUUUhzenEzbkgwMUtZNm9Rc0tWTllqT3lyc1N4U0tPbExldkViTTNpX0Y2WTluTnRDN2RxbXoteVJ2TDRpUC1SUmd4NVRnaE9jN2ZHN2xjc2xKclJzVS1NaXM4VXdmU1puNXRXMnppZjF2dmIwOCIsImlkIjoiZmNfaGVtOGFyYlVMc2lhcHRRUGc0WEU4UWtfNSJ9",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGNUQkpVR3g1U0VKNFMxTTBjRlYyUVZvMGRXeDFibXQwVkVoWlJGYzFSMGM0WWxSeVMweENXWEZqVm1GU1pWYzVaR1pvZDJ4RWNqQTFlRmRWV1RsMmVETkJSV2cxVlRNME5rcG5TMUJSTFhWM1pURnFSMHRWUlRkeVFSSVhhR1Z0T0dGeVlsVk1jMmxoY0hSUlVHYzBXRVU0VVdzYUlrRkVjM0k1WmxOQmVHUm1MVXhqTm1OcGVEUTVRWGN6YTBaNGFESnphR1pPZW5jIiwiZmN2IjoiMyIsImVpIjoiaGVtOGFyYlVMc2lhcHRRUGc0WEU4UWsiLCJxYyI6IkNoTjBkWEp4ZFc5cGMyVWdiR2wyYVc1bklIVnJFQUI5bkY1QVB3IiwicXVlc3Rpb24iOiJXaGVyZSBjYW4gSSBidXkgZ2VudWluZSB0dXJxdW9pc2U%2FIiwibGsiOiJHaDUzYUdWeVpTQjBieUJpZFhrZ1oyVnVkV2x1WlNCMGRYSnhkVzlwYzJVIiwiYnMiOiJjNVdPUVd2Q1FCU0U2WFZQUFFlcWcxQThHMy1BU0VIcVhmRDhranpOZ19nMlpuZGR0cl9lSmVTUWdoUjZubV9tRzNNM2gzTkxIalF3ZXJaOXgzQ1VSSy1neWdhUFU4dndZYmdISzQ3eGJUdHBLT0hMM25yU0JGRU1fQkNPYmxldWkwX19DMjRudUo3Z2lUUUhzenEzbkgwMUtZNm9Rc0tWTllqT3lyc1N4U0tPbExldkViTTNpX0Y2WTluTnRDN2RxbXoteVJ2TDRpUC1SUmd4NVRnaE9jN2ZHN2xjc2xKclJzVS1NaXM4VXdmU1puNXRXMnppZjF2dmIwOCIsImlkIjoiZmNfaGVtOGFyYlVMc2lhcHRRUGc0WEU4UWtfNSJ9"
+   },
+   {
+    "question": "What does turquoise symbolize?",
+    "type": "ai_overview",
+    "page_token": "YdMAInicHdBdTsIwAADgeBkfYT9MAwkxqfvBRQsra0v7Yko7KGuhVYebe_MunsrTmPgd4fv-saeL-b0ZdNf5j8V02vf95Ojc0TYT6SZXMxUfXxc5lcLavZBmcXd_Fz4c5DK7PoHHtydQYe9JioJtC_S-VV4G2Uxc4PqF8o1KcSh2JGd23qJiliDKE0bzoLLzClsXbjPo61xxicmVp4CxSOn6HHwhm5uGlg4aXaJYY7Qqn1HU0ZcaberY0opaT40GzcqL5jEIyUgEjxXmOMzWRWJZCAee2ZbQ-ZkY13Hs32Bs32WqalkMUbMigKRmJCsNME7WdVgyXsMNC_ywtxbgnQWZVo7TYMZ25YngYRQ071WeV3xEDNUaicGdKoxG2dozNnqrChNB6g_bgkMR6ZMqSE9SCFAKC0qTTPW3B_m5jG__P5evh3O38O_u-AfinIRE",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=YdMAInicHdBdTsIwAADgeBkfYT9MAwkxqfvBRQsra0v7Yko7KGuhVYebe_MunsrTmPgd4fv-saeL-b0ZdNf5j8V02vf95Ojc0TYT6SZXMxUfXxc5lcLavZBmcXd_Fz4c5DK7PoHHtydQYe9JioJtC_S-VV4G2Uxc4PqF8o1KcSh2JGd23qJiliDKE0bzoLLzClsXbjPo61xxicmVp4CxSOn6HHwhm5uGlg4aXaJYY7Qqn1HU0ZcaberY0opaT40GzcqL5jEIyUgEjxXmOMzWRWJZCAee2ZbQ-ZkY13Hs32Bs32WqalkMUbMigKRmJCsNME7WdVgyXsMNC_ywtxbgnQWZVo7TYMZ25YngYRQ071WeV3xEDNUaicGdKoxG2dozNnqrChNB6g_bgkMR6ZMqSE9SCFAKC0qTTPW3B_m5jG__P5evh3O38O_u-AfinIRE",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGNUQkpVR3g1U0VKNFMxTTBjRlYyUVZvMGRXeDFibXQwVkVoWlJGYzFSMGM0WWxSeVMweENXWEZqVm1GU1pWYzVaR1pvZDJ4RWNqQTFlRmRWV1RsMmVETkJSV2cxVlRNME5rcG5TMUJSTFhWM1pURnFSMHRWUlRkeVFSSVhhR1Z0T0dGeVlsVk1jMmxoY0hSUlVHYzBXRVU0VVdzYUlrRkVjM0k1WmxOQmVHUm1MVXhqTm1OcGVEUTVRWGN6YTBaNGFESnphR1pPZW5jIiwiZmN2IjoiMyIsImVpIjoiaGVtOGFyYlVMc2lhcHRRUGc0WEU4UWsiLCJxYyI6IkNoTjBkWEp4ZFc5cGMyVWdiR2wyYVc1bklIVnJFQUI5bkY1QVB3IiwicXVlc3Rpb24iOiJXaGF0IGRvZXMgdHVycXVvaXNlIHN5bWJvbGl6ZT8iLCJsayI6IkdoMTNhR0YwSUdSdlpYTWdkSFZ5Y1hWdmFYTmxJSE41YldKdmJHbDZaUSIsImJzIjoiYzVXT1FXdkNRQlNFNlhWUFBRZXFnMUE4RzMtQVNFSHFYZkQ4a2p6TmdfZzJabmRkdHJfZUplU1FnaFI2bm1fbUczTTNoM05MSGpRd2VyWjl4M0NVUkstZ3lnYVBVOHZ3WWJnSEs0N3hiVHRwS09ITDNuclNCRkVNX0JDT2JsZXVpMF9fQzI0bnVKN2dpVFFIc3pxM25IMDFLWTZvUXNLVk5Zak95cnNTeFNLT2xMZXZFYk0zaV9GNlk5bk50QzdkcW16LXlSdkw0aVAtUlJneDVUZ2hPYzdmRzdsY3NsSnJSc1UtTWlzOFV3ZlNabjV0VzJ6aWYxdnZiMDgiLCJpZCI6ImZjX2hlbThhcmJVTHNpYXB0UVBnNFhFOFFrXzUifQ==",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGNUQkpVR3g1U0VKNFMxTTBjRlYyUVZvMGRXeDFibXQwVkVoWlJGYzFSMGM0WWxSeVMweENXWEZqVm1GU1pWYzVaR1pvZDJ4RWNqQTFlRmRWV1RsMmVETkJSV2cxVlRNME5rcG5TMUJSTFhWM1pURnFSMHRWUlRkeVFSSVhhR1Z0T0dGeVlsVk1jMmxoY0hSUlVHYzBXRVU0VVdzYUlrRkVjM0k1WmxOQmVHUm1MVXhqTm1OcGVEUTVRWGN6YTBaNGFESnphR1pPZW5jIiwiZmN2IjoiMyIsImVpIjoiaGVtOGFyYlVMc2lhcHRRUGc0WEU4UWsiLCJxYyI6IkNoTjBkWEp4ZFc5cGMyVWdiR2wyYVc1bklIVnJFQUI5bkY1QVB3IiwicXVlc3Rpb24iOiJXaGF0IGRvZXMgdHVycXVvaXNlIHN5bWJvbGl6ZT8iLCJsayI6IkdoMTNhR0YwSUdSdlpYTWdkSFZ5Y1hWdmFYTmxJSE41YldKdmJHbDZaUSIsImJzIjoiYzVXT1FXdkNRQlNFNlhWUFBRZXFnMUE4RzMtQVNFSHFYZkQ4a2p6TmdfZzJabmRkdHJfZUplU1FnaFI2bm1fbUczTTNoM05MSGpRd2VyWjl4M0NVUkstZ3lnYVBVOHZ3WWJnSEs0N3hiVHRwS09ITDNuclNCRkVNX0JDT2JsZXVpMF9fQzI0bnVKN2dpVFFIc3pxM25IMDFLWTZvUXNLVk5Zak95cnNTeFNLT2xMZXZFYk0zaV9GNlk5bk50QzdkcW16LXlSdkw0aVAtUlJneDVUZ2hPYzdmRzdsY3NsSnJSc1UtTWlzOFV3ZlNabjV0VzJ6aWYxdnZiMDgiLCJpZCI6ImZjX2hlbThhcmJVTHNpYXB0UVBnNFhFOFFrXzUifQ%3D%3D"
+   },
+   {
+    "question": "What is the difference between teal and turquoise?",
+    "type": "ai_overview",
+    "page_token": "C_PQcHicHdBLbuIwAABQzWW6BHsgjISERqWxQ1FJJsZ2Em8qf4AEO5-2mThk1zv0CD1VT9PRXOAt3vunqxr79eOj7PvubT2fe-9nl7a9uNNMt7O_di7fbo2ea-mcktquV79W8PdZb9Cgtw-vepuyruMhATTigOV8FS9MphjpVCb4MXRMYf6T7ra1ysbg5LpB7nisp_vbId8Hx9q8CHgJivwfHlkoIUnSCi4URsuU80eVBekpJ3vlNKAYLyTzvWLldMQ2ONRwNNR6iQgn1LwU0x4cAe9JbSLa6FGFsS0ytFQVvGkmoiREY8xjYSzpkx2CT9TArCGEACi0DSIFGVDNPWBUrLQdnchKeJjInwMinocmEqAcTqwdRV1eUWlakYFlke8rzsZJZtgbjFMxkYLQksixrVJGJn11NaNlkIQ8LWz_ZDgeDH30BeSJRPwqHc-Vhbnxd2c9bBZ3_683z-e6X3ev7eUbnGaO8w",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=C_PQcHicHdBLbuIwAABQzWW6BHsgjISERqWxQ1FJJsZ2Em8qf4AEO5-2mThk1zv0CD1VT9PRXOAt3vunqxr79eOj7PvubT2fe-9nl7a9uNNMt7O_di7fbo2ea-mcktquV79W8PdZb9Cgtw-vepuyruMhATTigOV8FS9MphjpVCb4MXRMYf6T7ra1ysbg5LpB7nisp_vbId8Hx9q8CHgJivwfHlkoIUnSCi4URsuU80eVBekpJ3vlNKAYLyTzvWLldMQ2ONRwNNR6iQgn1LwU0x4cAe9JbSLa6FGFsS0ytFQVvGkmoiREY8xjYSzpkx2CT9TArCGEACi0DSIFGVDNPWBUrLQdnchKeJjInwMinocmEqAcTqwdRV1eUWlakYFlke8rzsZJZtgbjFMxkYLQksixrVJGJn11NaNlkIQ8LWz_ZDgeDH30BeSJRPwqHc-Vhbnxd2c9bBZ3_683z-e6X3ev7eUbnGaO8w",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGNUQkpVR3g1U0VKNFMxTTBjRlYyUVZvMGRXeDFibXQwVkVoWlJGYzFSMGM0WWxSeVMweENXWEZqVm1GU1pWYzVaR1pvZDJ4RWNqQTFlRmRWV1RsMmVETkJSV2cxVlRNME5rcG5TMUJSTFhWM1pURnFSMHRWUlRkeVFSSVhhR1Z0T0dGeVlsVk1jMmxoY0hSUlVHYzBXRVU0VVdzYUlrRkVjM0k1WmxOQmVHUm1MVXhqTm1OcGVEUTVRWGN6YTBaNGFESnphR1pPZW5jIiwiZmN2IjoiMyIsImVpIjoiaGVtOGFyYlVMc2lhcHRRUGc0WEU4UWsiLCJxYyI6IkNoTjBkWEp4ZFc5cGMyVWdiR2wyYVc1bklIVnJFQUI5bkY1QVB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBkaWZmZXJlbmNlIGJldHdlZW4gdGVhbCBhbmQgdHVycXVvaXNlPyIsImxrIjoiR2pGM2FHRjBJR2x6SUhSb1pTQmthV1ptWlhKbGJtTmxJR0psZEhkbFpXNGdkR1ZoYkNCaGJtUWdkSFZ5Y1hWdmFYTmwiLCJicyI6ImM1V09RV3ZDUUJTRTZYVlBQUWVxZzFBOEczLUFTRUhxWGZEOGtqek5nX2cyWm5kZHRyX2VKZVNRZ2hSNm5tX21HM00zaDNOTEhqUXdlclo5eDNDVVJLLWd5Z2FQVTh2d1liZ0hLNDd4YlR0cEtPSEwzbnJTQkZFTV9CQ09ibGV1aTBfX0MyNG51SjdnaVRRSHN6cTNuSDAxS1k2b1FzS1ZOWWpPeXJzU3hTS09sTGV2RWJNM2lfRjZZOW5OdEM3ZHFtei15UnZMNGlQLVJSZ3g1VGdoT2M3Zkc3bGNzbEpyUnNVLU1pczhVd2ZTWm41dFcyemlmMXZ2YjA4IiwiaWQiOiJmY19oZW04YXJiVUxzaWFwdFFQZzRYRThRa181In0=",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGNUQkpVR3g1U0VKNFMxTTBjRlYyUVZvMGRXeDFibXQwVkVoWlJGYzFSMGM0WWxSeVMweENXWEZqVm1GU1pWYzVaR1pvZDJ4RWNqQTFlRmRWV1RsMmVETkJSV2cxVlRNME5rcG5TMUJSTFhWM1pURnFSMHRWUlRkeVFSSVhhR1Z0T0dGeVlsVk1jMmxoY0hSUlVHYzBXRVU0VVdzYUlrRkVjM0k1WmxOQmVHUm1MVXhqTm1OcGVEUTVRWGN6YTBaNGFESnphR1pPZW5jIiwiZmN2IjoiMyIsImVpIjoiaGVtOGFyYlVMc2lhcHRRUGc0WEU4UWsiLCJxYyI6IkNoTjBkWEp4ZFc5cGMyVWdiR2wyYVc1bklIVnJFQUI5bkY1QVB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBkaWZmZXJlbmNlIGJldHdlZW4gdGVhbCBhbmQgdHVycXVvaXNlPyIsImxrIjoiR2pGM2FHRjBJR2x6SUhSb1pTQmthV1ptWlhKbGJtTmxJR0psZEhkbFpXNGdkR1ZoYkNCaGJtUWdkSFZ5Y1hWdmFYTmwiLCJicyI6ImM1V09RV3ZDUUJTRTZYVlBQUWVxZzFBOEczLUFTRUhxWGZEOGtqek5nX2cyWm5kZHRyX2VKZVNRZ2hSNm5tX21HM00zaDNOTEhqUXdlclo5eDNDVVJLLWd5Z2FQVTh2d1liZ0hLNDd4YlR0cEtPSEwzbnJTQkZFTV9CQ09ibGV1aTBfX0MyNG51SjdnaVRRSHN6cTNuSDAxS1k2b1FzS1ZOWWpPeXJzU3hTS09sTGV2RWJNM2lfRjZZOW5OdEM3ZHFtei15UnZMNGlQLVJSZ3g1VGdoT2M3Zkc3bGNzbEpyUnNVLU1pczhVd2ZTWm41dFcyemlmMXZ2YjA4IiwiaWQiOiJmY19oZW04YXJiVUxzaWFwdFFQZzRYRThRa181In0%3D"
+   }
+  ],
+  "ai_overview": {
+   "page_token": "eH2sU3iczZXhcqo4FIAfYJ9j-XNbQcWqnWHukICaaqtUWesvBgONCBhLFPT-20fZmX2qfZoNKBWttHPvj509lqQJJyfnJOfj_Pl34K38f377a7HZrNm9KCZJUiGUksCtYFrZ-qLN9issvtKARXjxndFthF3PUfAioqErLALFXQkkULa-sI-VuoCZIgmupyzcsGVHc3PAPHu9MUZEftFbhi9k5hRrbjN3yffbLZloibzxf69rfFBhFXdldUFFWsO6vZzNmsOkUpNq9cpQtEOuo_6HYugqUgHvD12ZQFXVvzaWqhgqTG3lQuDp1UG0g710T5JN9Eu3ROkqwH9IzVRH8q6xYNyEmSuNyz02eDPLB0nWAXDYcZw6Rb6O5yhAPR4NMN5dKxV0ffqwEhY2nX14e83a4_mYqkCTVcMAuQsXtzIuRgX0NMpUgx_GrbZTQeKVHPZxAf-bqD2ffh5i5ghErfw41A7jl4pEh_DklcR5xLuq6OEFzv6JWJrTcNKWaKc1pCR-ScbTZBhqbbjDsLfubO_28cQQ8ZzrBdR2XMdaWNL3bFytVRtSu95s3WQ8YfYOFCsCNaTPydNbtc0e9cqgAqo5SvD9Qi4C0vkYXrsrfrLw2oJMSIGDwmIPFrMpT06e3j7iaigpGNDRKO27-cSQX6gKcBG9fIPU5DWUzpSOKGWJhQ49Oi1_VzHRyRApvtL8j1F--A5AqCaHdDW07FwAyR0wLo4JqmPE3-Wz4JwyA6jeQk_DAmMeD8vUcDH_dUl_RgVrR3_ShNePW5onc1mLCihBnt8wy_in1IoPiQ8Qdxaoh3MhGRSZUHJx_XoRpgKRkMcIzFJEPxVS9j04E5Qzc4FAER0dMCp1_S5aY0aD2ltPQ1N3tNo-L38Y11Gh4fznig_-f_GUlybzWJrKedK_5in9FH5WmrLmVJrGB5765Tzp6FSaSKE0SbnSqTRd8gTHBZ7gPtUgoHO9NP0sT_ATntBnPKWRXuPJKOMpK01nPD1clqYznt5LU87Tr5Um9GulKcPLPXTndWq7JKX1qmvGz1I8Hux6gRl1jVcfSncjt2F5-_7X9eo13NyHthPcWJ5zD2oPm71zY_EJeu86wpsy2UZvW-ox99vAi70V-Wb2hTCIqCLZst58Wb4-xfV5_BRvJWthyMlsOXf8zf6ubprLyaO7aTy0MahpD5GnNzrth9bgj9nbLAh2z5Hzoyb364Pl4GU6GZk-S3QynHbCmoYee7ueNmjt3GYyaO_sFZy21nEgDUNdW7eajb6rt4dV3Om8WPLtpkt7sWxjP3OKKbIc0Z0Pb-WZLPAgmKtUhTDCCr8NmahPhjolPPPgjFcEwh_Kn4Q_dxxjIDBsWy6LFUfC9Vazjev23K7iZk0IyWa_VtqSwFaRUv0XFtpL9w",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=eH2sU3iczZXhcqo4FIAfYJ9j-XNbQcWqnWHukICaaqtUWesvBgONCBhLFPT-20fZmX2qfZoNKBWttHPvj509lqQJJyfnJOfj_Pl34K38f377a7HZrNm9KCZJUiGUksCtYFrZ-qLN9issvtKARXjxndFthF3PUfAioqErLALFXQkkULa-sI-VuoCZIgmupyzcsGVHc3PAPHu9MUZEftFbhi9k5hRrbjN3yffbLZloibzxf69rfFBhFXdldUFFWsO6vZzNmsOkUpNq9cpQtEOuo_6HYugqUgHvD12ZQFXVvzaWqhgqTG3lQuDp1UG0g710T5JN9Eu3ROkqwH9IzVRH8q6xYNyEmSuNyz02eDPLB0nWAXDYcZw6Rb6O5yhAPR4NMN5dKxV0ffqwEhY2nX14e83a4_mYqkCTVcMAuQsXtzIuRgX0NMpUgx_GrbZTQeKVHPZxAf-bqD2ffh5i5ghErfw41A7jl4pEh_DklcR5xLuq6OEFzv6JWJrTcNKWaKc1pCR-ScbTZBhqbbjDsLfubO_28cQQ8ZzrBdR2XMdaWNL3bFytVRtSu95s3WQ8YfYOFCsCNaTPydNbtc0e9cqgAqo5SvD9Qi4C0vkYXrsrfrLw2oJMSIGDwmIPFrMpT06e3j7iaigpGNDRKO27-cSQX6gKcBG9fIPU5DWUzpSOKGWJhQ49Oi1_VzHRyRApvtL8j1F--A5AqCaHdDW07FwAyR0wLo4JqmPE3-Wz4JwyA6jeQk_DAmMeD8vUcDH_dUl_RgVrR3_ShNePW5onc1mLCihBnt8wy_in1IoPiQ8Qdxaoh3MhGRSZUHJx_XoRpgKRkMcIzFJEPxVS9j04E5Qzc4FAER0dMCp1_S5aY0aD2ltPQ1N3tNo-L38Y11Gh4fznig_-f_GUlybzWJrKedK_5in9FH5WmrLmVJrGB5765Tzp6FSaSKE0SbnSqTRd8gTHBZ7gPtUgoHO9NP0sT_ATntBnPKWRXuPJKOMpK01nPD1clqYznt5LU87Tr5Um9GulKcPLPXTndWq7JKX1qmvGz1I8Hux6gRl1jVcfSncjt2F5-_7X9eo13NyHthPcWJ5zD2oPm71zY_EJeu86wpsy2UZvW-ox99vAi70V-Wb2hTCIqCLZst58Wb4-xfV5_BRvJWthyMlsOXf8zf6ubprLyaO7aTy0MahpD5GnNzrth9bgj9nbLAh2z5Hzoyb364Pl4GU6GZk-S3QynHbCmoYee7ueNmjt3GYyaO_sFZy21nEgDUNdW7eajb6rt4dV3Om8WPLtpkt7sWxjP3OKKbIc0Z0Pb-WZLPAgmKtUhTDCCr8NmahPhjolPPPgjFcEwh_Kn4Q_dxxjIDBsWy6LFUfC9Vazjev23K7iZk0IyWa_VtqSwFaRUv0XFtpL9w"
+  },
+  "organic_results": [
+   {
+    "position": 1,
+    "title": "Turquoise",
+    "link": "https://www.londonstockexchange.com/equities-trading/turquoise",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeQHrOzAVoZ5zxY3efNd1xnq3AeTNNCE0C9yJhFke8H25DMdX2GEz2gBvpHTZ-0cJ3JW4PXYMOoNI4A8XoF4wvWalMuDAzx81DBMomlWtCrppijeLgkGvwgErRGqO16v5_5QvRx70Of9a9wTpUFu0I0B-2M9QuQduM08&ved=2ahUKEwj2qpWSkZaXAxVIjYkEHYMCMZ4QFnoECCQQAQ&uoh=1",
+    "displayed_link": "https://www.londonstockexchange.com › equities-trading",
+    "favicon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAACQCACdASocABwAPtE-tFooIigoFAEAGglsAKwvgaZ6YcRjCqrJLmJRuuWX9wC7i8230wGC10mmJrHKZHmX-cabVpRmXoBbjx0bqnVIAAD-9ga_NqrFNKTfQpPXPpnCZpYEVVymI6-zJCpK_DWb12qO39ecY4ezocXTZC--Xqb5X2ZQnBfVR5dqjzIAurRtG79M3Xp1EsbdoJBd_LyiWaXzdCpyjH1kyKD1lSoLQgZPb-wegRI7TxixLXfliWGt-FCnrEJ8-yx9_tgvlneNn_yoITc-FR2fFmdX4bb8OTw88o9o7Iu6zY28gA_XP8PXj7n782MHL2STf5QjJn_H_4dX25kI3Em1kRYtbe8a6nmyEl-nEAAarinHs6cSULvmNg82Tvk2JxKOlGUOtALkTKCwR_P65YYOZ7p3w5X97veO6849z40ngYIu_a6Nx_d-D_u_8gsodn-XaXLgIuXd6niICrfV0sJ006YRYRL8yot9MriQBsuW6J0TwwYPmPrb2ljXl0G4FOWcr97MjOGmlBUUnVFXt_9zu1UQqdeItUTmbSOFsSzbpwAA.webp",
+    "snippet": "Turquoise offers a broad universe of approximately 4500 stocks with uniform access to 20 major European and US markets through one interface and membership.",
+    "snippet_highlighted_words": [
+     "Turquoise offers a broad universe of approximately 4500 stocks"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Turquoise offers a broad universe of approximately 4500 stocks with uniform access to 20 major European and US markets through one interface and membership.",
+      "source_info_link": "https://www.londonstockexchange.com/equities-trading/turquoise",
+      "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAACQCACdASocABwAPtE-tFooIigoFAEAGglsAKwvgaZ6YcRjCqrJLmJRuuWX9wC7i8230wGC10mmJrHKZHmX-cabVpRmXoBbjx0bqnVIAAD-9ga_NqrFNKTfQpPXPpnCZpYEVVymI6-zJCpK_DWb12qO39ecY4ezocXTZC--Xqb5X2ZQnBfVR5dqjzIAurRtG79M3Xp1EsbdoJBd_LyiWaXzdCpyjH1kyKD1lSoLQgZPb-wegRI7TxixLXfliWGt-FCnrEJ8-yx9_tgvlneNn_yoITc-FR2fFmdX4bb8OTw88o9o7Iu6zY28gA_XP8PXj7n782MHL2STf5QjJn_H_4dX25kI3Em1kRYtbe8a6nmyEl-nEAAarinHs6cSULvmNg82Tvk2JxKOlGUOtALkTKCwR_P65YYOZ7p3w5X97veO6849z40ngYIu_a6Nx_d-D_u_8gsodn-XaXLgIuXd6niICrfV0sJ006YRYRL8yot9MriQBsuW6J0TwwYPmPrb2ljXl0G4FOWcr97MjOGmlBUUnVFXt_9zu1UQqdeItUTmbSOFsSzbpwAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVm9aNXp4WTNlZk5kMXhucTNBZVROTkNFMEM5eUpoRmtlOEgyNURNZFgyR0V6MmdCdnBIVFotMGNKM0pXNFBYWU1Pb05JNEE4WG9GNHd2V2FsTXVEQXp4ODFEQk1vbWxXdENycHBpamVMZ2tHdndnRXJSR3FPMTZ2NV81UXZSeDcwT2Y5YTl3VHBVRnUwSTBCLTJNOVF1UWR1TTA4EgQaAggAGtQDEgIIARoAIgAqADIGCAMSAnVrOgBCBAgBEABKAFoAcgB6AIJArgMIABAAGAAgACogCgl0dXJxdW9pc2UVok-QQBoOaXY7cDt0dXJxdW9pc2UysQEvZ290bz91cmw9Q0FFU2VRSHJPekFWb1o1enhZM2VmTmQxeG5xM0FlVE5OQ0UwQzl5SmhGa2U4SDI1RE1kWDJHRXoyZ0J2cEhUWi0wY0ozSlc0UFhZTU9vTkk0QThYb0Y0d3ZXYWxNdURBeng4MURCTW9tbFd0Q3JwcGlqZUxna0d2d2dFclJHcU8xNnY1XzVRdlJ4NzBPZjlhOXdUcFVGdTBJMEItMk05UXVRZHVNMDg6KDxiPlR1cnF1b2lzZTwvYj4gLSBMb25kb24gU3RvY2sgRXhjaGFuZ2VCowE8Yj5UdXJxdW9pc2Ugb2ZmZXJzIGEgYnJvYWQgdW5pdmVyc2Ugb2YgYXBwcm94aW1hdGVseSA0NTAwIHN0b2NrczwvYj4gd2l0aCB1bmlmb3JtIGFjY2VzcyB0byAyMCBtYWpvciBFdXJvcGVhbiBhbmQgVVMgbWFya2V0cyB0aHJvdWdoIG9uZSBpbnRlcmZhY2UgYW5kIG1lbWJlcnNoaXAuIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVm9aNXp4WTNlZk5kMXhucTNBZVROTkNFMEM5eUpoRmtlOEgyNURNZFgyR0V6MmdCdnBIVFotMGNKM0pXNFBYWU1Pb05JNEE4WG9GNHd2V2FsTXVEQXp4ODFEQk1vbWxXdENycHBpamVMZ2tHdndnRXJSR3FPMTZ2NV81UXZSeDcwT2Y5YTl3VHBVRnUwSTBCLTJNOVF1UWR1TTA4EgQaAggAGtQDEgIIARoAIgAqADIGCAMSAnVrOgBCBAgBEABKAFoAcgB6AIJArgMIABAAGAAgACogCgl0dXJxdW9pc2UVok-QQBoOaXY7cDt0dXJxdW9pc2UysQEvZ290bz91cmw9Q0FFU2VRSHJPekFWb1o1enhZM2VmTmQxeG5xM0FlVE5OQ0UwQzl5SmhGa2U4SDI1RE1kWDJHRXoyZ0J2cEhUWi0wY0ozSlc0UFhZTU9vTkk0QThYb0Y0d3ZXYWxNdURBeng4MURCTW9tbFd0Q3JwcGlqZUxna0d2d2dFclJHcU8xNnY1XzVRdlJ4NzBPZjlhOXdUcFVGdTBJMEItMk05UXVRZHVNMDg6KDxiPlR1cnF1b2lzZTwvYj4gLSBMb25kb24gU3RvY2sgRXhjaGFuZ2VCowE8Yj5UdXJxdW9pc2Ugb2ZmZXJzIGEgYnJvYWQgdW5pdmVyc2Ugb2YgYXBwcm94aW1hdGVseSA0NTAwIHN0b2NrczwvYj4gd2l0aCB1bmlmb3JtIGFjY2VzcyB0byAyMCBtYWpvciBFdXJvcGVhbiBhbmQgVVMgbWFya2V0cyB0aHJvdWdoIG9uZSBpbnRlcmZhY2UgYW5kIG1lbWJlcnNoaXAuIgIQAUgAWABoAA",
+    "source": "London Stock Exchange"
+   },
+   {
+    "position": 2,
+    "title": "Turquoise",
+    "link": "https://en.wikipedia.org/wiki/Turquoise",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYgHrOzAVHA60I4R3WWs_ReC9s1sQpNyffy88ZL2CqGUzxUH2iubv9HLNsEj9NpBkue0b7L6Mm8Zlkhbg0mh7eJe-NLlZEEIUxMpPTlUmlPC-WpLvfPYIXMRkZD2DZ6OSOjDf&ved=2ahUKEwj2qpWSkZaXAxVIjYkEHYMCMZ4QFnoECBsQAQ&uoh=1",
+    "displayed_link": "https://en.wikipedia.org › wiki › Turquoise",
+    "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+    "snippet": "Turquoise is an opaque, blue-to-green mineral that is a hydrous phosphate of copper and aluminium, with the chemical formula CuAl 6(PO 4) 4(OH) 8·4H 2O. It ...",
+    "snippet_highlighted_words": [
+     "Turquoise"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Turquoise is an opaque, blue-to-green mineral that is a hydrous phosphate of copper and aluminium, with the chemical formula CuAl 6(PO 4) 4(OH) 8·4H 2O. It ...",
+      "source_info_link": "https://en.wikipedia.org/wiki/Turquoise",
+      "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CpIBL2dvdG8_dXJsPUNBRVNZZ0hyT3pBVkhBNjBJNFIzV1dzX1JlQzlzMXNRcE55ZmZ5ODhaTDJDcUdVenhVSDJpdWJ2OUhMTnNFajlOcEJrdWUwYjdMNk1tOFpsa2hiZzBtaDdlSmUtTkxsWkVFSVV4TXBQVGxVbWxQQy1XcEx2ZlBZSVhNUmtaRDJEWjZPU09qRGYSBBoCCAAasgMSAggBGgAiACoAMgYIAxICdWs6AEIECAEQAEoAWgByAHoAgkCMAwgAEAAYACAAKiAKCXR1cnF1b2lzZRU_XqJAGg5pdjtwO3R1cnF1b2lzZTKSAS9nb3RvP3VybD1DQUVTWWdIck96QVZIQTYwSTRSM1dXc19SZUM5czFzUXBOeWZmeTg4WkwyQ3FHVXp4VUgyaXVidjlITE5zRWo5TnBCa3VlMGI3TDZNbThabGtoYmcwbWg3ZUplLU5MbFpFRUlVeE1wUFRsVW1sUEMtV3BMdmZQWUlYTVJrWkQyRFo2T1NPakRmOhw8Yj5UdXJxdW9pc2U8L2I-IC0gV2lraXBlZGlhQqwBPGI-VHVycXVvaXNlPC9iPiBpcyBhbiBvcGFxdWUsIGJsdWUtdG8tZ3JlZW4gbWluZXJhbCB0aGF0IGlzIGEgaHlkcm91cyBwaG9zcGhhdGUgb2YgY29wcGVyIGFuZCBhbHVtaW5pdW0sIHdpdGggdGhlIGNoZW1pY2FsIGZvcm11bGEgQ3VBbCA2KFBPIDQpIDQoT0gpIDjCtzRIIDJPLiBJdCZuYnNwOy4uLiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CpIBL2dvdG8_dXJsPUNBRVNZZ0hyT3pBVkhBNjBJNFIzV1dzX1JlQzlzMXNRcE55ZmZ5ODhaTDJDcUdVenhVSDJpdWJ2OUhMTnNFajlOcEJrdWUwYjdMNk1tOFpsa2hiZzBtaDdlSmUtTkxsWkVFSVV4TXBQVGxVbWxQQy1XcEx2ZlBZSVhNUmtaRDJEWjZPU09qRGYSBBoCCAAasgMSAggBGgAiACoAMgYIAxICdWs6AEIECAEQAEoAWgByAHoAgkCMAwgAEAAYACAAKiAKCXR1cnF1b2lzZRU_XqJAGg5pdjtwO3R1cnF1b2lzZTKSAS9nb3RvP3VybD1DQUVTWWdIck96QVZIQTYwSTRSM1dXc19SZUM5czFzUXBOeWZmeTg4WkwyQ3FHVXp4VUgyaXVidjlITE5zRWo5TnBCa3VlMGI3TDZNbThabGtoYmcwbWg3ZUplLU5MbFpFRUlVeE1wUFRsVW1sUEMtV3BMdmZQWUlYTVJrWkQyRFo2T1NPakRmOhw8Yj5UdXJxdW9pc2U8L2I-IC0gV2lraXBlZGlhQqwBPGI-VHVycXVvaXNlPC9iPiBpcyBhbiBvcGFxdWUsIGJsdWUtdG8tZ3JlZW4gbWluZXJhbCB0aGF0IGlzIGEgaHlkcm91cyBwaG9zcGhhdGUgb2YgY29wcGVyIGFuZCBhbHVtaW5pdW0sIHdpdGggdGhlIGNoZW1pY2FsIGZvcm11bGEgQ3VBbCA2KFBPIDQpIDQoT0gpIDjCtzRIIDJPLiBJdCZuYnNwOy4uLiICEAFIAFgAaAA",
+    "source": "Wikipedia",
+    "read_more_link": "https://en.wikipedia.org/wiki/Turquoise#:~:text=Turquoise%20is%20an%20opaque%2C%20blue%2Dto%2Dgreen,millennia%20due%20to%20its%20hue."
+   },
+   {
+    "position": 3,
+    "title": "Turquoise Holidays: Luxury Holidays & Honeymoon Experts",
+    "link": "https://www.turquoiseholidays.co.uk/",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXwHrOzAVUlgxzpWKq9w3awt0eX6oj02vmf99Z2UYA_G545V3GHE9pyp626P9xxRnFka8sLWhaCHDdK6wljLL0xgwyaiORNDhwNyVcHLSioMFdtWNG-I2RWWdj5Mo6Ehs&ved=2ahUKEwj2qpWSkZaXAxVIjYkEHYMCMZ4QFnoECCcQAQ&uoh=1",
+    "displayed_link": "https://www.turquoiseholidays.co.uk",
+    "favicon": "https://serpapi.com/images/i/UklGRpgAAABXRUJQVlA4IIwAAAAwBACdASocABwAPtEutFooIagoGAEAGglsAJ0y7QDYEXlVkgaHnU8pkKAA7I_cAWwExem8-ZtDcBxykjavkSe0nQOa-lkWYE0Kn-4_4tw5gFGMh_8gx4jSqvBViMs6lWAU0M-n2_y2mH9uictBAtvuOzHaOYSY8fXpqcjN56RJkDQGBQ8DaCkbeAAAAA.webp",
+    "snippet": "Award-winning luxury holidays and honeymoons tailor-made to you. Every holiday we create is unique. We look forward to turning your dreams into reality.",
+    "snippet_highlighted_words": [
+     "Award-winning luxury holidays and honeymoons tailor-made to you"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Award-winning luxury holidays and honeymoons tailor-made to you. Every holiday we create is unique. We look forward to turning your dreams into reality.",
+      "source_info_link": "https://www.turquoiseholidays.co.uk/",
+      "icon": "https://serpapi.com/images/i/UklGRpgAAABXRUJQVlA4IIwAAAAwBACdASocABwAPtEutFooIagoGAEAGglsAJ0y7QDYEXlVkgaHnU8pkKAA7I_cAWwExem8-ZtDcBxykjavkSe0nQOa-lkWYE0Kn-4_4tw5gFGMh_8gx4jSqvBViMs6lWAU0M-n2_y2mH9uictBAtvuOzHaOYSY8fXpqcjN56RJkDQGBQ8DaCkbeAAAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=Co4BL2dvdG8_dXJsPUNBRVNYd0hyT3pBVlVsZ3h6cFdLcTl3M2F3dDBlWDZvajAydm1mOTlaMlVZQV9HNTQ1VjNHSEU5cHlwNjI2UDl4eFJuRmthOHNMV2hhQ0hEZEs2d2xqTEwweGd3eWFpT1JORGh3TnlWY0hMU2lvTUZkdFdORy1JMlJXV2RqNU1vNkVocxIEGgIIABrHAxICCAEaACIAKgAyBggBEgJ1azoAQgQIARAASgBaAHIAegCCQKEDCAAQABgAIAAqIAoJdHVycXVvaXNlFeXwfUAaDml2O3A7dHVycXVvaXNlMo4BL2dvdG8_dXJsPUNBRVNYd0hyT3pBVlVsZ3h6cFdLcTl3M2F3dDBlWDZvajAydm1mOTlaMlVZQV9HNTQ1VjNHSEU5cHlwNjI2UDl4eFJuRmthOHNMV2hhQ0hEZEs2d2xqTEwweGd3eWFpT1JORGh3TnlWY0hMU2lvTUZkdFdORy1JMlJXV2RqNU1vNkVoczpCPGI-VHVycXVvaXNlPC9iPiBIb2xpZGF5czogTHV4dXJ5IEhvbGlkYXlzICZhbXA7IEhvbmV5bW9vbiBFeHBlcnRzQp8BPGI-QXdhcmQtd2lubmluZyBsdXh1cnkgaG9saWRheXMgYW5kIGhvbmV5bW9vbnMgdGFpbG9yLW1hZGUgdG8geW91PC9iPi4gRXZlcnkgaG9saWRheSB3ZSBjcmVhdGUgaXMgdW5pcXVlLiBXZSBsb29rIGZvcndhcmQgdG8gdHVybmluZyB5b3VyIGRyZWFtcyBpbnRvIHJlYWxpdHkuIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=Co4BL2dvdG8_dXJsPUNBRVNYd0hyT3pBVlVsZ3h6cFdLcTl3M2F3dDBlWDZvajAydm1mOTlaMlVZQV9HNTQ1VjNHSEU5cHlwNjI2UDl4eFJuRmthOHNMV2hhQ0hEZEs2d2xqTEwweGd3eWFpT1JORGh3TnlWY0hMU2lvTUZkdFdORy1JMlJXV2RqNU1vNkVocxIEGgIIABrHAxICCAEaACIAKgAyBggBEgJ1azoAQgQIARAASgBaAHIAegCCQKEDCAAQABgAIAAqIAoJdHVycXVvaXNlFeXwfUAaDml2O3A7dHVycXVvaXNlMo4BL2dvdG8_dXJsPUNBRVNYd0hyT3pBVlVsZ3h6cFdLcTl3M2F3dDBlWDZvajAydm1mOTlaMlVZQV9HNTQ1VjNHSEU5cHlwNjI2UDl4eFJuRmthOHNMV2hhQ0hEZEs2d2xqTEwweGd3eWFpT1JORGh3TnlWY0hMU2lvTUZkdFdORy1JMlJXV2RqNU1vNkVoczpCPGI-VHVycXVvaXNlPC9iPiBIb2xpZGF5czogTHV4dXJ5IEhvbGlkYXlzICZhbXA7IEhvbmV5bW9vbiBFeHBlcnRzQp8BPGI-QXdhcmQtd2lubmluZyBsdXh1cnkgaG9saWRheXMgYW5kIGhvbmV5bW9vbnMgdGFpbG9yLW1hZGUgdG8geW91PC9iPi4gRXZlcnkgaG9saWRheSB3ZSBjcmVhdGUgaXMgdW5pcXVlLiBXZSBsb29rIGZvcndhcmQgdG8gdHVybmluZyB5b3VyIGRyZWFtcyBpbnRvIHJlYWxpdHkuIgIQAUgAWABoAA",
+    "source": "Turquoise Holidays"
+   },
+   {
+    "position": 4,
+    "title": "TURQUOISE LTD overview - Companies House - GOV.UK",
+    "link": "https://find-and-update.company-information.service.gov.uk/company/04405864",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShgEB6zswFXhpgASmoJLabQl5szMaxvAE0FI42j15ijLy0KEZnv0Hok4cHuQsV_bK8YyO9-qPsXEtQ_wLbTUhCpcBUFYZT1vc0oVVKiuEWXmNI8FWkR-fGyAfy74Zr-DAbnu_mOlFknkPTViqFrW5BvV4Sk9nJu6bevlpT1L3cYGfJydGBWs-CA&ved=2ahUKEwj2qpWSkZaXAxVIjYkEHYMCMZ4QFnoECBoQAQ&uoh=1",
+    "displayed_link": "https://find-and-update.company-information.service.gov.uk › ...",
+    "favicon": "https://serpapi.com/images/i/UklGRhgBAABXRUJQVlA4IAwBAAAwBgCdASocABwAPtE-tFooIigoFAEAGgloAJ0yhHp496oAiAFWyZytQAMtBxxeoo0v-ukyi91RSUmAAP5tq_b9aeTUksslz1bykvnoSeNsDcPyo5M_1_OL_N6zZIdLehoX_zUl-ET4KtFrXLBT8kc4tQu5oC8i_ugLTiU5sHmdS6vQ9o-_zd3Trc_rtaTl4-ncTsepxs0eCTVPA9c0v4EPxd1_zGFFZTm-3TgDWGON9_V8467cPT_lIoXVJCYHBvAamqBBmH12TC3ezccMwXyjcyz50b6euvyUReqT5RY2mJ-Kuu3NW7x52cE5EN9f1Y-44VHb19inO6ikqhd0FPC5piGcBUzPXX0ogAAA.webp",
+    "snippet": "Registered office address: 22 Grange Road, Ramsgate, Kent, England, CT11 9LR. Company status: Active. Company type: Private limited Company.",
+    "snippet_highlighted_words": [
+     "22 Grange Road, Ramsgate, Kent, England, CT11 9LR"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Registered office address: 22 Grange Road, Ramsgate, Kent, England, CT11 9LR. Company status: Active. Company type: Private limited Company.",
+      "source_info_link": "https://find-and-update.company-information.service.gov.uk/company/04405864",
+      "icon": "https://serpapi.com/images/i/UklGRhgBAABXRUJQVlA4IAwBAAAwBgCdASocABwAPtE-tFooIigoFAEAGgloAJ0yhHp496oAiAFWyZytQAMtBxxeoo0v-ukyi91RSUmAAP5tq_b9aeTUksslz1bykvnoSeNsDcPyo5M_1_OL_N6zZIdLehoX_zUl-ET4KtFrXLBT8kc4tQu5oC8i_ugLTiU5sHmdS6vQ9o-_zd3Trc_rtaTl4-ncTsepxs0eCTVPA9c0v4EPxd1_zGFFZTm-3TgDWGON9_V8467cPT_lIoXVJCYHBvAamqBBmH12TC3ezccMwXyjcyz50b6euvyUReqT5RY2mJ-Kuu3NW7x52cE5EN9f1Y-44VHb19inO6ikqhd0FPC5piGcBUzPXX0ogAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CsQBL2dvdG8_dXJsPUNBRVNoZ0VCNnpzd0ZYaHBnQVNtb0pMYWJRbDVzek1heHZBRTBGSTQyajE1aWpMeTBLRVpudjBIb2s0Y0h1UXNWX2JLOFl5TzktcVBzWEV0UV93TGJUVWhDcGNCVUZZWlQxdmMwb1ZWS2l1RVdYbU5JOEZXa1ItZkd5QWZ5NzRaci1EQWJudV9tT2xGa25rUFRWaXFGclc1QnZWNFNrOW5KdTZiZXZscFQxTDNjWUdmSnlkR0JXcy1DQRIEGgIIABrnAxICCAAaACIAKgAyBggBEgJ1azoAQgQIARAASgBaAHIAegCCQMEDCAAQABgAIAAqIAoJdHVycXVvaXNlFUaQh0AaDml2O3A7dHVycXVvaXNlMsQBL2dvdG8_dXJsPUNBRVNoZ0VCNnpzd0ZYaHBnQVNtb0pMYWJRbDVzek1heHZBRTBGSTQyajE1aWpMeTBLRVpudjBIb2s0Y0h1UXNWX2JLOFl5TzktcVBzWEV0UV93TGJUVWhDcGNCVUZZWlQxdmMwb1ZWS2l1RVdYbU5JOEZXa1ItZkd5QWZ5NzRaci1EQWJudV9tT2xGa25rUFRWaXFGclc1QnZWNFNrOW5KdTZiZXZscFQxTDNjWUdmSnlkR0JXcy1DQTo4PGI-VFVSUVVPSVNFPC9iPiBMVEQgb3ZlcnZpZXcgLSBDb21wYW5pZXMgSG91c2UgLSBHT1YuVUtCkwFSZWdpc3RlcmVkIG9mZmljZSBhZGRyZXNzOiA8Yj4yMiBHcmFuZ2UgUm9hZCwgUmFtc2dhdGUsIEtlbnQsIEVuZ2xhbmQsIENUMTEgOUxSPC9iPi4gQ29tcGFueSBzdGF0dXM6IEFjdGl2ZS4gQ29tcGFueSB0eXBlOiBQcml2YXRlIGxpbWl0ZWQgQ29tcGFueS4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CsQBL2dvdG8_dXJsPUNBRVNoZ0VCNnpzd0ZYaHBnQVNtb0pMYWJRbDVzek1heHZBRTBGSTQyajE1aWpMeTBLRVpudjBIb2s0Y0h1UXNWX2JLOFl5TzktcVBzWEV0UV93TGJUVWhDcGNCVUZZWlQxdmMwb1ZWS2l1RVdYbU5JOEZXa1ItZkd5QWZ5NzRaci1EQWJudV9tT2xGa25rUFRWaXFGclc1QnZWNFNrOW5KdTZiZXZscFQxTDNjWUdmSnlkR0JXcy1DQRIEGgIIABrnAxICCAAaACIAKgAyBggBEgJ1azoAQgQIARAASgBaAHIAegCCQMEDCAAQABgAIAAqIAoJdHVycXVvaXNlFUaQh0AaDml2O3A7dHVycXVvaXNlMsQBL2dvdG8_dXJsPUNBRVNoZ0VCNnpzd0ZYaHBnQVNtb0pMYWJRbDVzek1heHZBRTBGSTQyajE1aWpMeTBLRVpudjBIb2s0Y0h1UXNWX2JLOFl5TzktcVBzWEV0UV93TGJUVWhDcGNCVUZZWlQxdmMwb1ZWS2l1RVdYbU5JOEZXa1ItZkd5QWZ5NzRaci1EQWJudV9tT2xGa25rUFRWaXFGclc1QnZWNFNrOW5KdTZiZXZscFQxTDNjWUdmSnlkR0JXcy1DQTo4PGI-VFVSUVVPSVNFPC9iPiBMVEQgb3ZlcnZpZXcgLSBDb21wYW5pZXMgSG91c2UgLSBHT1YuVUtCkwFSZWdpc3RlcmVkIG9mZmljZSBhZGRyZXNzOiA8Yj4yMiBHcmFuZ2UgUm9hZCwgUmFtc2dhdGUsIEtlbnQsIEVuZ2xhbmQsIENUMTEgOUxSPC9iPi4gQ29tcGFueSBzdGF0dXM6IEFjdGl2ZS4gQ29tcGFueSB0eXBlOiBQcml2YXRlIGxpbWl0ZWQgQ29tcGFueS4iAhABSABYAGgA",
+    "source": "Find and update company information",
+    "read_more_link": "https://find-and-update.company-information.service.gov.uk/company/04405864#:~:text=Registered%20office%20address,Private%20limited%20Company"
+   },
+   {
+    "position": 5,
+    "title": "Turquoise Yachts",
+    "link": "https://www.turquoiseyachts.com/",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWwHrOzAV_LONzmw-gFRBZpBpCgzTMeM9g3wFJhc-2p3WmM24F4r8zHqpuNh9Dgjj-wgGKO2ztRkMFAShaRKJASkoRYLp5AghXrOhyS5OIPj8Yrw6riJqShlZlmo&ved=2ahUKEwj2qpWSkZaXAxVIjYkEHYMCMZ4QFnoECCMQAQ&uoh=1",
+    "displayed_link": "https://www.turquoiseyachts.com",
+    "favicon": "https://serpapi.com/images/i/UklGRrgAAABXRUJQVlA4IKwAAAAwBQCdASocABwAPtEutFooIagoGAEAGglqALszND4AKkfVQJEpamXIDMT6eZQD0rt5AAD9yT1CJqM4ftHQZov2mR3aUhfIVwKQ2TUZsrPP602IMkMHFeHDqpMU9AwlyLepawpYaUE6JWkYXdjSwyEU7WxRIZ7EFn-buztaktKOM3VsWT1AakDiM7xUVZ9pQvY6gInWBTqehg83Wd3wRDHI7Ds9Pd5wqTDu4AAA.webp",
+    "snippet": "When we say we build fully custom yachts, we mean it. Our builds are as diverse and flexible as our clients wishes. SEE ALL. FROM THE DRAWING BOARD.",
+    "snippet_highlighted_words": [
+     "fully custom yachts"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "When we say we build fully custom yachts, we mean it. Our builds are as diverse and flexible as our clients wishes. SEE ALL. FROM THE DRAWING BOARD.",
+      "source_info_link": "https://www.turquoiseyachts.com/",
+      "icon": "https://serpapi.com/images/i/UklGRrgAAABXRUJQVlA4IKwAAAAwBQCdASocABwAPtEutFooIagoGAEAGglqALszND4AKkfVQJEpamXIDMT6eZQD0rt5AAD9yT1CJqM4ftHQZov2mR3aUhfIVwKQ2TUZsrPP602IMkMHFeHDqpMU9AwlyLepawpYaUE6JWkYXdjSwyEU7WxRIZ7EFn-buztaktKOM3VsWT1AakDiM7xUVZ9pQvY6gInWBTqehg83Wd3wRDHI7Ds9Pd5wqTDu4AAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CokBL2dvdG8_dXJsPUNBRVNXd0hyT3pBVl9MT056bXctZ0ZSQlpwQnBDZ3pUTWVNOWczd0ZKaGMtMnAzV21NMjRGNHI4ekhxcHVOaDlEZ2pqLXdnR0tPMnp0UmtNRkFTaGFSS0pBU2tvUllMcDVBZ2hYck9oeVM1T0lQajhZcnc2cmlKcVNobFpsbW8SBBoCCAAakwMSAggBGgAiACoAMgYIAxICdWs6AEIECAEQAEoAWgByAHoAgkDtAggAEAAYACAAKiAKCXR1cnF1b2lzZRU3K6pAGg5pdjtwO3R1cnF1b2lzZTKJAS9nb3RvP3VybD1DQUVTV3dIck96QVZfTE9Oem13LWdGUkJacEJwQ2d6VE1lTTlnM3dGSmhjLTJwM1dtTTI0RjRyOHpIcXB1Tmg5RGdqai13Z0dLTzJ6dFJrTUZBU2hhUktKQVNrb1JZTHA1QWdoWHJPaHlTNU9JUGo4WXJ3NnJpSnFTaGxabG1vOhc8Yj5UdXJxdW9pc2U8L2I-IFlhY2h0c0KbAVdoZW4gd2Ugc2F5IHdlIGJ1aWxkIDxiPmZ1bGx5IGN1c3RvbSB5YWNodHM8L2I-LCB3ZSBtZWFuIGl0LiBPdXIgYnVpbGRzIGFyZSBhcyBkaXZlcnNlIGFuZCBmbGV4aWJsZSBhcyBvdXIgY2xpZW50cyB3aXNoZXMuIFNFRSBBTEwuIEZST00gVEhFIERSQVdJTkcgQk9BUkQuIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CokBL2dvdG8_dXJsPUNBRVNXd0hyT3pBVl9MT056bXctZ0ZSQlpwQnBDZ3pUTWVNOWczd0ZKaGMtMnAzV21NMjRGNHI4ekhxcHVOaDlEZ2pqLXdnR0tPMnp0UmtNRkFTaGFSS0pBU2tvUllMcDVBZ2hYck9oeVM1T0lQajhZcnc2cmlKcVNobFpsbW8SBBoCCAAakwMSAggBGgAiACoAMgYIAxICdWs6AEIECAEQAEoAWgByAHoAgkDtAggAEAAYACAAKiAKCXR1cnF1b2lzZRU3K6pAGg5pdjtwO3R1cnF1b2lzZTKJAS9nb3RvP3VybD1DQUVTV3dIck96QVZfTE9Oem13LWdGUkJacEJwQ2d6VE1lTTlnM3dGSmhjLTJwM1dtTTI0RjRyOHpIcXB1Tmg5RGdqai13Z0dLTzJ6dFJrTUZBU2hhUktKQVNrb1JZTHA1QWdoWHJPaHlTNU9JUGo4WXJ3NnJpSnFTaGxabG1vOhc8Yj5UdXJxdW9pc2U8L2I-IFlhY2h0c0KbAVdoZW4gd2Ugc2F5IHdlIGJ1aWxkIDxiPmZ1bGx5IGN1c3RvbSB5YWNodHM8L2I-LCB3ZSBtZWFuIGl0LiBPdXIgYnVpbGRzIGFyZSBhcyBkaXZlcnNlIGFuZCBmbGV4aWJsZSBhcyBvdXIgY2xpZW50cyB3aXNoZXMuIFNFRSBBTEwuIEZST00gVEhFIERSQVdJTkcgQk9BUkQuIgIQAUgAWABoAA",
+    "source": "Turquoise Yachts",
+    "read_more_link": "https://www.turquoiseyachts.com/#:~:text=ENGINEERED"
+   },
+   {
+    "position": 6,
+    "title": "Climate Tech Investment & Advisory | Turquoise",
+    "link": "https://turquoise.eu/",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUAHrOzAViIcQQPSqYrQZ9pRSRtnLthV_MNv6WEK6GjarKWDhP6C6AkFkf0L3_2NE18cjZ0jxQn_Z0nuYOx1jsbAW43hy3LwQdI64l9mE0hIU&ved=2ahUKEwj2qpWSkZaXAxVIjYkEHYMCMZ4QFnoECBkQAQ&uoh=1",
+    "displayed_link": "https://turquoise.eu",
+    "favicon": "https://serpapi.com/images/i/UklGRjYAAABXRUJQVlA4ICoAAACwAQCdASoQABAAAsBMJaACdLoABKoAAP4THxQCkcTu_-bA_bz7edcgAAA.webp",
+    "snippet": "Turquoise is a leading financial adviser and investor in climate technologies. We have a track record spanning over 20 years in capital raising, M&A and venture ...",
+    "snippet_highlighted_words": [
+     "Turquoise is a leading financial adviser and investor in climate technologies"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Turquoise is a leading financial adviser and investor in climate technologies. We have a track record spanning over 20 years in capital raising, M&A and venture ...",
+      "source_info_link": "https://turquoise.eu/",
+      "icon": "https://serpapi.com/images/i/UklGRjYAAABXRUJQVlA4ICoAAACwAQCdASoQABAAAsBMJaACdLoABKoAAP4THxQCkcTu_-bA_bz7edcgAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CnovZ290bz91cmw9Q0FFU1VBSHJPekFWaUljUVFQU3FZclFaOXBSU1J0bkx0aFZfTU52NldFSzZHamFyS1dEaFA2QzZBa0ZrZjBMM18yTkUxOGNqWjBqeFFuX1owbnVZT3gxanNiQVc0M2h5M0x3UWRJNjRsOW1FMGhJVRIEGgIIABq-AxICCAEaACIAKgAyBggBEgJ1azoAQgQIARAASgBaAHIAegCCQJgDCAAQABgAIAAqIAoJdHVycXVvaXNlFVpHvkAaDml2O3A7dHVycXVvaXNlMnovZ290bz91cmw9Q0FFU1VBSHJPekFWaUljUVFQU3FZclFaOXBSU1J0bkx0aFZfTU52NldFSzZHamFyS1dEaFA2QzZBa0ZrZjBMM18yTkUxOGNqWjBqeFFuX1owbnVZT3gxanNiQVc0M2h5M0x3UWRJNjRsOW1FMGhJVTo5Q2xpbWF0ZSBUZWNoIEludmVzdG1lbnQgJmFtcDsgQWR2aXNvcnkgfCA8Yj5UdXJxdW9pc2U8L2I-QrQBPGI-VHVycXVvaXNlIGlzIGEgbGVhZGluZyBmaW5hbmNpYWwgYWR2aXNlciBhbmQgaW52ZXN0b3IgaW4gY2xpbWF0ZSB0ZWNobm9sb2dpZXM8L2I-LiBXZSBoYXZlIGEgdHJhY2sgcmVjb3JkIHNwYW5uaW5nIG92ZXIgMjAgeWVhcnMgaW4gY2FwaXRhbCByYWlzaW5nLCBNJmFtcDtBIGFuZCB2ZW50dXJlJm5ic3A7Li4uIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CnovZ290bz91cmw9Q0FFU1VBSHJPekFWaUljUVFQU3FZclFaOXBSU1J0bkx0aFZfTU52NldFSzZHamFyS1dEaFA2QzZBa0ZrZjBMM18yTkUxOGNqWjBqeFFuX1owbnVZT3gxanNiQVc0M2h5M0x3UWRJNjRsOW1FMGhJVRIEGgIIABq-AxICCAEaACIAKgAyBggBEgJ1azoAQgQIARAASgBaAHIAegCCQJgDCAAQABgAIAAqIAoJdHVycXVvaXNlFVpHvkAaDml2O3A7dHVycXVvaXNlMnovZ290bz91cmw9Q0FFU1VBSHJPekFWaUljUVFQU3FZclFaOXBSU1J0bkx0aFZfTU52NldFSzZHamFyS1dEaFA2QzZBa0ZrZjBMM18yTkUxOGNqWjBqeFFuX1owbnVZT3gxanNiQVc0M2h5M0x3UWRJNjRsOW1FMGhJVTo5Q2xpbWF0ZSBUZWNoIEludmVzdG1lbnQgJmFtcDsgQWR2aXNvcnkgfCA8Yj5UdXJxdW9pc2U8L2I-QrQBPGI-VHVycXVvaXNlIGlzIGEgbGVhZGluZyBmaW5hbmNpYWwgYWR2aXNlciBhbmQgaW52ZXN0b3IgaW4gY2xpbWF0ZSB0ZWNobm9sb2dpZXM8L2I-LiBXZSBoYXZlIGEgdHJhY2sgcmVjb3JkIHNwYW5uaW5nIG92ZXIgMjAgeWVhcnMgaW4gY2FwaXRhbCByYWlzaW5nLCBNJmFtcDtBIGFuZCB2ZW50dXJlJm5ic3A7Li4uIgIQAUgAWABoAA",
+    "source": "turquoise.eu",
+    "read_more_link": "https://turquoise.eu/#:~:text=Turquoise%20is%20a%20leading%20financial,M%26A%20and%20venture%20capital%20investing."
+   },
+   {
+    "position": 7,
+    "title": "Sammy Duder (@theturquoiseflamingo)",
+    "link": "https://www.instagram.com/theturquoiseflamingo/?hl=en",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScAHrOzAVGKcP8woj6tpgNjemQdd8o7MV3sGyTgBjdiWFK2fypgK8xi_fLqmRrJQOiLN0Gb8cknNuvrYxJNKTCFWNo8oOTosyAq4yADpqmYp9IlTc2rnF1eHpBDM9VOGQn-4Wxk57o3tdIl6wbUFCNTE&ved=2ahUKEwj2qpWSkZaXAxVIjYkEHYMCMZ4QFnoECEMQAQ&uoh=1",
+    "displayed_link": "407.1k+ followers",
+    "favicon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+    "snippet": "Fashion • Beauty • Travel Secretly wants to be a Cowgirl 28 years sober 400k+ community. Partnerships & UGC ▶️ teamduder@yahoo.com. Follow. Message ...",
+    "about_this_result": {
+     "source": {
+      "description": "Fashion • Beauty • Travel Secretly wants to be a Cowgirl 28 years sober 400k+ community. Partnerships & UGC ▶️ teamduder@yahoo.com. Follow. Message ...",
+      "source_info_link": "https://www.instagram.com/theturquoiseflamingo/?hl=en",
+      "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CqUBL2dvdG8_dXJsPUNBRVNjQUhyT3pBVkdLY1A4d29qNnRwZ05qZW1RZGQ4bzdNVjNzR3lUZ0JqZGlXRksyZnlwZ0s4eGlfZkxxbVJySlFPaUxOMEdiOGNrbk51dnJZeEpOS1RDRldObzhvT1Rvc3lBcTR5QURwcW1ZcDlJbFRjMnJuRjFlSHBCRE05Vk9HUW4tNFd4azU3bzN0ZElsNndiVUZDTlRFEgQaAggAGtQDEgIIARoAIgAqADIGCAMSAnVrOgBCBAgBEABKAFoAcgB6AIJArgMIABAAGAAgACogCgl0dXJxdW9pc2UVAAAAABoOaXY7cDt0dXJxdW9pc2UypQEvZ290bz91cmw9Q0FFU2NBSHJPekFWR0tjUDh3b2o2dHBnTmplbVFkZDhvN01WM3NHeVRnQmpkaVdGSzJmeXBnSzh4aV9mTHFtUnJKUU9pTE4wR2I4Y2tuTnV2cll4Sk5LVENGV05vOG9PVG9zeUFxNHlBRHBxbVlwOUlsVGMycm5GMWVIcEJETTlWT0dRbi00V3hrNTdvM3RkSWw2d2JVRkNOVEU6L1NhbW15IER1ZGVyIChAdGhldHVycXVvaXNlZmxhbWluZ28pIC0gSW5zdGFncmFtQqgBRmFzaGlvbiDigKIgQmVhdXR5IOKAoiBUcmF2ZWwgU2VjcmV0bHkgd2FudHMgdG8gYmUgYSBDb3dnaXJsIDI4IHllYXJzIHNvYmVyIDQwMGsrIGNvbW11bml0eS4gUGFydG5lcnNoaXBzICZhbXA7IFVHQyDilrbvuI8gdGVhbWR1ZGVyQHlhaG9vLmNvbS4gRm9sbG93LiBNZXNzYWdlJm5ic3A7Li4uIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CqUBL2dvdG8_dXJsPUNBRVNjQUhyT3pBVkdLY1A4d29qNnRwZ05qZW1RZGQ4bzdNVjNzR3lUZ0JqZGlXRksyZnlwZ0s4eGlfZkxxbVJySlFPaUxOMEdiOGNrbk51dnJZeEpOS1RDRldObzhvT1Rvc3lBcTR5QURwcW1ZcDlJbFRjMnJuRjFlSHBCRE05Vk9HUW4tNFd4azU3bzN0ZElsNndiVUZDTlRFEgQaAggAGtQDEgIIARoAIgAqADIGCAMSAnVrOgBCBAgBEABKAFoAcgB6AIJArgMIABAAGAAgACogCgl0dXJxdW9pc2UVAAAAABoOaXY7cDt0dXJxdW9pc2UypQEvZ290bz91cmw9Q0FFU2NBSHJPekFWR0tjUDh3b2o2dHBnTmplbVFkZDhvN01WM3NHeVRnQmpkaVdGSzJmeXBnSzh4aV9mTHFtUnJKUU9pTE4wR2I4Y2tuTnV2cll4Sk5LVENGV05vOG9PVG9zeUFxNHlBRHBxbVlwOUlsVGMycm5GMWVIcEJETTlWT0dRbi00V3hrNTdvM3RkSWw2d2JVRkNOVEU6L1NhbW15IER1ZGVyIChAdGhldHVycXVvaXNlZmxhbWluZ28pIC0gSW5zdGFncmFtQqgBRmFzaGlvbiDigKIgQmVhdXR5IOKAoiBUcmF2ZWwgU2VjcmV0bHkgd2FudHMgdG8gYmUgYSBDb3dnaXJsIDI4IHllYXJzIHNvYmVyIDQwMGsrIGNvbW11bml0eS4gUGFydG5lcnNoaXBzICZhbXA7IFVHQyDilrbvuI8gdGVhbWR1ZGVyQHlhaG9vLmNvbS4gRm9sbG93LiBNZXNzYWdlJm5ic3A7Li4uIgIQAUgAWABoAA",
+    "source": "Instagram · theturquoiseflamingo",
+    "read_more_link": "https://www.instagram.com/theturquoiseflamingo/?hl=en#:~:text=Fashion%20%E2%80%A2%20Beauty%20%E2%80%A2%20Travel,Message"
+   },
+   {
+    "position": 8,
+    "title": "HIGHLINE - Arts & Crafts - Turquoise - Wall-to-wall",
+    "link": "https://www.egecarpets.com/en-gb/product/wall-to-wall/HIGHLINE-Arts--and--Crafts-Watercolour-Turquoise-RF5575534",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESqwEB6zswFQIgC7tG3Q83l_Fvj5JBC3oTSvZXW22jzDtbL7bKQbK01t_exBIWC0clNmruJ7sfFB95R8IJInFgLszebIiznfo7Kc7XjPRzNhNrybJW-Fw0NcNA47erJ03T6qhKO0PZ4HsgcAJr5LSnxFOa8mfC_yHxySy-iDBLsrtxHGgkV1webtASqGvuHlpMfDgoYNY0DTuNGdtHibRzT7uJQzRySiQsl5zwqWc&ved=2ahUKEwj2qpWSkZaXAxVIjYkEHYMCMZ4QFnoECEEQAQ&uoh=1",
+    "displayed_link": "https://www.egecarpets.com › product › wall-to-wall › H...",
+    "snippet": "The Arts & Crafts collection celebrates the quiet beauty of handmade expression. Drawn and painted compositions are translated into carpet designs with ...",
+    "snippet_highlighted_words": [
+     "celebrates the quiet beauty of handmade expression"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "The Arts & Crafts collection celebrates the quiet beauty of handmade expression. Drawn and painted compositions are translated into carpet designs with ...",
+      "source_info_link": "https://www.egecarpets.com/en-gb/product/wall-to-wall/HIGHLINE-Arts--and--Crafts-Watercolour-Turquoise-RF5575534"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CvUBL2dvdG8_dXJsPUNBRVNxd0VCNnpzd0ZRSWdDN3RHM1E4M2xfRnZqNUpCQzNvVFN2WlhXMjJqekR0Ykw3YktRYkswMXRfZXhCSVdDMGNsTm1ydUo3c2ZGQjk1UjhJSkluRmdMc3plYklpem5mbzdLYzdYalBSek5oTnJ5YkpXLUZ3ME5jTkE0N2VySjAzVDZxaEtPMFBaNEhzZ2NBSnI1TFNueEZPYThtZkNfeUh4eVN5LWlEQkxzcnR4SEdna1Yxd2VidEFTcUd2dUhscE1mRGdvWU5ZMERUdU5HZHRIaWJSelQ3dUpRelJ5U2lRc2w1endxV2MSBBoCCAAaswQSABoAIgAqADIGCAMSAnVrOgBCBAgBEABKAFoAcgB6AIJAjwQIABAAGAAgACogCgl0dXJxdW9pc2UVRhl-QBoOaXY7cDt0dXJxdW9pc2Uy9QEvZ290bz91cmw9Q0FFU3F3RUI2enN3RlFJZ0M3dEczUTgzbF9Gdmo1SkJDM29UU3ZaWFcyMmp6RHRiTDdiS1FiSzAxdF9leEJJV0MwY2xObXJ1SjdzZkZCOTVSOElKSW5GZ0xzemViSWl6bmZvN0tjN1hqUFJ6TmhOcnliSlctRncwTmNOQTQ3ZXJKMDNUNnFoS08wUFo0SHNnY0FKcjVMU254Rk9hOG1mQ195SHh5U3ktaURCTHNydHhIR2drVjF3ZWJ0QVNxR3Z1SGxwTWZEZ29ZTlkwRFR1TkdkdEhpYlJ6VDd1SlF6UnlTaVFzbDV6d3FXYzo9SElHSExJTkUgLSBBcnRzICZhbXA7IENyYWZ0cyAtIDxiPlR1cnF1b2lzZTwvYj4gLSBFZ2UgQ2FycGV0c0KrAVRoZSBBcnRzICZhbXA7IENyYWZ0cyBjb2xsZWN0aW9uIDxiPmNlbGVicmF0ZXMgdGhlIHF1aWV0IGJlYXV0eSBvZiBoYW5kbWFkZSBleHByZXNzaW9uPC9iPi4gRHJhd24gYW5kIHBhaW50ZWQgY29tcG9zaXRpb25zIGFyZSB0cmFuc2xhdGVkIGludG8gY2FycGV0IGRlc2lnbnMgd2l0aCZuYnNwOy4uLiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CvUBL2dvdG8_dXJsPUNBRVNxd0VCNnpzd0ZRSWdDN3RHM1E4M2xfRnZqNUpCQzNvVFN2WlhXMjJqekR0Ykw3YktRYkswMXRfZXhCSVdDMGNsTm1ydUo3c2ZGQjk1UjhJSkluRmdMc3plYklpem5mbzdLYzdYalBSek5oTnJ5YkpXLUZ3ME5jTkE0N2VySjAzVDZxaEtPMFBaNEhzZ2NBSnI1TFNueEZPYThtZkNfeUh4eVN5LWlEQkxzcnR4SEdna1Yxd2VidEFTcUd2dUhscE1mRGdvWU5ZMERUdU5HZHRIaWJSelQ3dUpRelJ5U2lRc2w1endxV2MSBBoCCAAaswQSABoAIgAqADIGCAMSAnVrOgBCBAgBEABKAFoAcgB6AIJAjwQIABAAGAAgACogCgl0dXJxdW9pc2UVRhl-QBoOaXY7cDt0dXJxdW9pc2Uy9QEvZ290bz91cmw9Q0FFU3F3RUI2enN3RlFJZ0M3dEczUTgzbF9Gdmo1SkJDM29UU3ZaWFcyMmp6RHRiTDdiS1FiSzAxdF9leEJJV0MwY2xObXJ1SjdzZkZCOTVSOElKSW5GZ0xzemViSWl6bmZvN0tjN1hqUFJ6TmhOcnliSlctRncwTmNOQTQ3ZXJKMDNUNnFoS08wUFo0SHNnY0FKcjVMU254Rk9hOG1mQ195SHh5U3ktaURCTHNydHhIR2drVjF3ZWJ0QVNxR3Z1SGxwTWZEZ29ZTlkwRFR1TkdkdEhpYlJ6VDd1SlF6UnlTaVFzbDV6d3FXYzo9SElHSExJTkUgLSBBcnRzICZhbXA7IENyYWZ0cyAtIDxiPlR1cnF1b2lzZTwvYj4gLSBFZ2UgQ2FycGV0c0KrAVRoZSBBcnRzICZhbXA7IENyYWZ0cyBjb2xsZWN0aW9uIDxiPmNlbGVicmF0ZXMgdGhlIHF1aWV0IGJlYXV0eSBvZiBoYW5kbWFkZSBleHByZXNzaW9uPC9iPi4gRHJhd24gYW5kIHBhaW50ZWQgY29tcG9zaXRpb25zIGFyZSB0cmFuc2xhdGVkIGludG8gY2FycGV0IGRlc2lnbnMgd2l0aCZuYnNwOy4uLiICEAFIAFgAaAA",
+    "source": "Ege Carpets"
+   },
+   {
+    "position": 9,
+    "title": "turquoise matt rect 60x120",
+    "link": "https://www.apegrupo.com/en/products/turquoise-matt-rect-60x120/",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESewHrOzAVXi6_1MqL-e4dNrqm8GQNurtzJHWFiZAFLsKF8iqr3OpXVxRnJNPAra0QH9GydMkI5AopzN6MSxwtBulilUX1mYSM2n4iBbuhnxuC5eJENiEAc1t7oj2uehtSTDgqEyZIvLzFrB-2uh7ryLGeVefjNfgauanFkw&ved=2ahUKEwj2qpWSkZaXAxVIjYkEHYMCMZ4QFnoECEAQAQ&uoh=1",
+    "displayed_link": "https://www.apegrupo.com › products › turquoise-matt-r...",
+    "favicon": "https://serpapi.com/images/i/UklGRvwAAABXRUJQVlA4IPAAAABQBgCdASogACAAPtE-tFooIigoFAEAGglpAAgQOIGL-55pxtsawWefYFx7T5umaWp3trS23RlcY6MFfAD-9glwmMswK2iGfP5e6YhIfbHey0yMYksHDFMoisOleGLu6SVXWP78g1HEPw8H9o-b0WXnbULFYYVlRMsNWPP25nhteG6w6-V7XPTfXMps4f5m8x36pWui5NZqvMVc5UjZr5RVk17OlrsU0kYobn5VRBAhngQR7skj-KjMKCTweO4UtNrCSMqpd5p88xYrsbHB09T_gFAtKfn8MNvMFAg8FHR48aL3v30iR_r9Z8Kmbv-4AAA.webp",
+    "snippet": "Discover the Ibiza shower tray in matte white, 90x120 cm, made of colored resin. Elegant, durable, and perfect for any modern bathroom.",
+    "snippet_highlighted_words": [
+     "Ibiza shower tray in matte white, 90x120 cm"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Discover the Ibiza shower tray in matte white, 90x120 cm, made of colored resin. Elegant, durable, and perfect for any modern bathroom.",
+      "source_info_link": "https://www.apegrupo.com/en/products/turquoise-matt-rect-60x120/",
+      "icon": "https://serpapi.com/images/i/UklGRvwAAABXRUJQVlA4IPAAAABQBgCdASogACAAPtE-tFooIigoFAEAGglpAAgQOIGL-55pxtsawWefYFx7T5umaWp3trS23RlcY6MFfAD-9glwmMswK2iGfP5e6YhIfbHey0yMYksHDFMoisOleGLu6SVXWP78g1HEPw8H9o-b0WXnbULFYYVlRMsNWPP25nhteG6w6-V7XPTfXMps4f5m8x36pWui5NZqvMVc5UjZr5RVk17OlrsU0kYobn5VRBAhngQR7skj-KjMKCTweO4UtNrCSMqpd5p88xYrsbHB09T_gFAtKfn8MNvMFAg8FHR48aL3v30iR_r9Z8Kmbv-4AAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CrQBL2dvdG8_dXJsPUNBRVNld0hyT3pBVlhpNl8xTXFMLWU0ZE5ycW04R1FOdXJ0ekpIV0ZpWkFGTHNLRjhpcXIzT3BYVnhSbkpOUEFyYTBRSDlHeWRNa0k1QW9wek42TVN4d3RCdWxpbFVYMW1ZU00ybjRpQmJ1aG54dUM1ZUpFTmlFQWMxdDdvajJ1ZWh0U1REZ3FFeVpJdkx6RnJCLTJ1aDdyeUxHZVZlZmpOZmdhdWFuRmt3EgQaAggAGr0DEgAaACIAKgAyBggDEgJ1azoAQgQIARAASgBaAHIAegCCQJkDCAAQABgAIAAqIAoJdHVycXVvaXNlFeRdmUAaDml2O3A7dHVycXVvaXNlMrQBL2dvdG8_dXJsPUNBRVNld0hyT3pBVlhpNl8xTXFMLWU0ZE5ycW04R1FOdXJ0ekpIV0ZpWkFGTHNLRjhpcXIzT3BYVnhSbkpOUEFyYTBRSDlHeWRNa0k1QW9wek42TVN4d3RCdWxpbFVYMW1ZU00ybjRpQmJ1aG54dUM1ZUpFTmlFQWMxdDdvajJ1ZWh0U1REZ3FFeVpJdkx6RnJCLTJ1aDdyeUxHZVZlZmpOZmdhdWFuRmt3OiVBUEUtPGI-VFVSUVVPSVNFPC9iPiBNQVRUIFJFQ1QgNjBYMTIwQo4BRGlzY292ZXIgdGhlIDxiPkliaXphIHNob3dlciB0cmF5IGluIG1hdHRlIHdoaXRlLCA5MHgxMjAgY208L2I-LCBtYWRlIG9mIGNvbG9yZWQgcmVzaW4uIEVsZWdhbnQsIGR1cmFibGUsIGFuZCBwZXJmZWN0IGZvciBhbnkgbW9kZXJuIGJhdGhyb29tLiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CrQBL2dvdG8_dXJsPUNBRVNld0hyT3pBVlhpNl8xTXFMLWU0ZE5ycW04R1FOdXJ0ekpIV0ZpWkFGTHNLRjhpcXIzT3BYVnhSbkpOUEFyYTBRSDlHeWRNa0k1QW9wek42TVN4d3RCdWxpbFVYMW1ZU00ybjRpQmJ1aG54dUM1ZUpFTmlFQWMxdDdvajJ1ZWh0U1REZ3FFeVpJdkx6RnJCLTJ1aDdyeUxHZVZlZmpOZmdhdWFuRmt3EgQaAggAGr0DEgAaACIAKgAyBggDEgJ1azoAQgQIARAASgBaAHIAegCCQJkDCAAQABgAIAAqIAoJdHVycXVvaXNlFeRdmUAaDml2O3A7dHVycXVvaXNlMrQBL2dvdG8_dXJsPUNBRVNld0hyT3pBVlhpNl8xTXFMLWU0ZE5ycW04R1FOdXJ0ekpIV0ZpWkFGTHNLRjhpcXIzT3BYVnhSbkpOUEFyYTBRSDlHeWRNa0k1QW9wek42TVN4d3RCdWxpbFVYMW1ZU00ybjRpQmJ1aG54dUM1ZUpFTmlFQWMxdDdvajJ1ZWh0U1REZ3FFeVpJdkx6RnJCLTJ1aDdyeUxHZVZlZmpOZmdhdWFuRmt3OiVBUEUtPGI-VFVSUVVPSVNFPC9iPiBNQVRUIFJFQ1QgNjBYMTIwQo4BRGlzY292ZXIgdGhlIDxiPkliaXphIHNob3dlciB0cmF5IGluIG1hdHRlIHdoaXRlLCA5MHgxMjAgY208L2I-LCBtYWRlIG9mIGNvbG9yZWQgcmVzaW4uIEVsZWdhbnQsIGR1cmFibGUsIGFuZCBwZXJmZWN0IGZvciBhbnkgbW9kZXJuIGJhdGhyb29tLiICEAFIAFgAaAA",
+    "source": "APE Grupo"
+   }
+  ],
+  "related_searches": [
+   {
+    "block_position": 1,
+    "query": "Luxury turquoise living uk",
+    "link": "https://www.google.co.uk/search?sca_esv=d0c3879c3aba1c72&hl=en&gl=uk&sxsrf=APpeQnuPHHgw8HWS4ZINuqoV6jPHa6lZbg:1790765445772&q=Luxury+turquoise+living+uk&sa=X&ved=2ahUKEwj2qpWSkZaXAxVIjYkEHYMCMZ4Q1QJ6BAg4EAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&q=Luxury+turquoise+living+uk"
+   },
+   {
+    "block_position": 1,
+    "query": "Turquoise living uk sale",
+    "link": "https://www.google.co.uk/search?sca_esv=d0c3879c3aba1c72&hl=en&gl=uk&sxsrf=APpeQnuPHHgw8HWS4ZINuqoV6jPHa6lZbg:1790765445772&q=Turquoise+living+uk+sale&sa=X&ved=2ahUKEwj2qpWSkZaXAxVIjYkEHYMCMZ4Q1QJ6BAg_EAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&q=Turquoise+living+uk+sale"
+   },
+   {
+    "block_position": 1,
+    "query": "Turquoise UK city",
+    "link": "https://www.google.co.uk/search?sca_esv=d0c3879c3aba1c72&hl=en&gl=uk&sxsrf=APpeQnuPHHgw8HWS4ZINuqoV6jPHa6lZbg:1790765445772&q=Turquoise+UK+city&sa=X&ved=2ahUKEwj2qpWSkZaXAxVIjYkEHYMCMZ4Q1QJ6BAg-EAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&q=Turquoise+UK+city"
+   },
+   {
+    "block_position": 1,
+    "query": "Turquoise pronunciation",
+    "link": "https://www.google.co.uk/search?sca_esv=d0c3879c3aba1c72&hl=en&gl=uk&sxsrf=APpeQnuPHHgw8HWS4ZINuqoV6jPHa6lZbg:1790765445772&q=Turquoise+pronunciation&sa=X&ved=2ahUKEwj2qpWSkZaXAxVIjYkEHYMCMZ4Q1QJ6BAg9EAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&q=Turquoise+pronunciation"
+   },
+   {
+    "block_position": 1,
+    "query": "Spiritual meaning of turquoise stone",
+    "link": "https://www.google.co.uk/search?sca_esv=d0c3879c3aba1c72&hl=en&gl=uk&sxsrf=APpeQnuPHHgw8HWS4ZINuqoV6jPHa6lZbg:1790765445772&q=Spiritual+meaning+of+turquoise+stone&sa=X&ved=2ahUKEwj2qpWSkZaXAxVIjYkEHYMCMZ4Q1QJ6BAg8EAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&q=Spiritual+meaning+of+turquoise+stone"
+   },
+   {
+    "block_position": 1,
+    "query": "Turquoise stone color chart",
+    "link": "https://www.google.co.uk/search?sca_esv=d0c3879c3aba1c72&hl=en&gl=uk&sxsrf=APpeQnuPHHgw8HWS4ZINuqoV6jPHa6lZbg:1790765445772&q=Turquoise+stone+color+chart&sa=X&ved=2ahUKEwj2qpWSkZaXAxVIjYkEHYMCMZ4Q1QJ6BAg6EAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&q=Turquoise+stone+color+chart"
+   },
+   {
+    "block_position": 1,
+    "query": "Turquoise colour",
+    "link": "https://www.google.co.uk/search?sca_esv=d0c3879c3aba1c72&hl=en&gl=uk&sxsrf=APpeQnuPHHgw8HWS4ZINuqoV6jPHa6lZbg:1790765445772&q=Turquoise+colour&sa=X&ved=2ahUKEwj2qpWSkZaXAxVIjYkEHYMCMZ4Q1QJ6BAg5EAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&q=Turquoise+colour"
+   },
+   {
+    "block_position": 1,
+    "query": "Turquoise gemstone name",
+    "link": "https://www.google.co.uk/search?sca_esv=d0c3879c3aba1c72&hl=en&gl=uk&sxsrf=APpeQnuPHHgw8HWS4ZINuqoV6jPHa6lZbg:1790765445772&q=Turquoise+gemstone+name&sa=X&ved=2ahUKEwj2qpWSkZaXAxVIjYkEHYMCMZ4Q1QJ6BAg7EAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&q=Turquoise+gemstone+name"
+   }
+  ],
+  "pagination": {
+   "current": 1,
+   "next": "https://www.google.co.uk/search?q=Turquoise+Living+UK&sca_esv=d0c3879c3aba1c72&hl=en&gl=uk&sxsrf=APpeQnuPHHgw8HWS4ZINuqoV6jPHa6lZbg:1790765445772&ei=hem8arbULsiaptQPg4XE8Qk&start=10&sa=N&sstk=AS6-VmKw3E8A0YpJL-9_818QGwJbXG5_KedTKuXfSDrhVgw9__FFzqEi8LsapaSYiAxxOJWRmwrlDkwSuypvSr4sDCrzuoASm1s1CQ&ved=2ahUKEwj2qpWSkZaXAxVIjYkEHYMCMZ4Q8NMDegQINhAK",
+   "other_pages": {
+    "2": "https://www.google.co.uk/search?q=Turquoise+Living+UK&sca_esv=d0c3879c3aba1c72&hl=en&gl=uk&sxsrf=APpeQnuPHHgw8HWS4ZINuqoV6jPHa6lZbg:1790765445772&ei=hem8arbULsiaptQPg4XE8Qk&start=10&sa=N&sstk=AS6-VmKw3E8A0YpJL-9_818QGwJbXG5_KedTKuXfSDrhVgw9__FFzqEi8LsapaSYiAxxOJWRmwrlDkwSuypvSr4sDCrzuoASm1s1CQ&ved=2ahUKEwj2qpWSkZaXAxVIjYkEHYMCMZ4Q8tMDegQINhAE",
+    "3": "https://www.google.co.uk/search?q=Turquoise+Living+UK&sca_esv=d0c3879c3aba1c72&hl=en&gl=uk&sxsrf=APpeQnuPHHgw8HWS4ZINuqoV6jPHa6lZbg:1790765445772&ei=hem8arbULsiaptQPg4XE8Qk&start=20&sa=N&sstk=AS6-VmKw3E8A0YpJL-9_818QGwJbXG5_KedTKuXfSDrhVgw9__FFzqEi8LsapaSYiAxxOJWRmwrlDkwSuypvSr4sDCrzuoASm1s1CQ&ved=2ahUKEwj2qpWSkZaXAxVIjYkEHYMCMZ4Q8tMDegQINhAG",
+    "4": "https://www.google.co.uk/search?q=Turquoise+Living+UK&sca_esv=d0c3879c3aba1c72&hl=en&gl=uk&sxsrf=APpeQnuPHHgw8HWS4ZINuqoV6jPHa6lZbg:1790765445772&ei=hem8arbULsiaptQPg4XE8Qk&start=30&sa=N&sstk=AS6-VmKw3E8A0YpJL-9_818QGwJbXG5_KedTKuXfSDrhVgw9__FFzqEi8LsapaSYiAxxOJWRmwrlDkwSuypvSr4sDCrzuoASm1s1CQ&ved=2ahUKEwj2qpWSkZaXAxVIjYkEHYMCMZ4Q8tMDegQINhAI"
+   }
+  },
+  "serpapi_pagination": {
+   "current": 1,
+   "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&q=Turquoise+Living+UK&start=10",
+   "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&q=Turquoise+Living+UK&start=10",
+   "other_pages": {
+    "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&q=Turquoise+Living+UK&start=10",
+    "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&q=Turquoise+Living+UK&start=20",
+    "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&q=Turquoise+Living+UK&start=30"
+   }
+  }
+ }
+}

@@ -1,0 +1,101 @@
+{
+ "engine": "google_autocomplete",
+ "params": {
+  "q": "hammered brass planter",
+  "gl": "uk",
+  "hl": "en"
+ },
+ "fetched_at": "2026-09-30T10:53:17+00:00",
+ "data": {
+  "search_metadata": {
+   "id": "6abcea1bbca7e5f460bd6010",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/jxm9fDJREh84oPmD-Ow30LdzmnNClXVhEKNFfbfGNn0/6abcea1bbca7e5f460bd6010.json",
+   "markdown_endpoint": "https://serpapi.com/searches/jxm9fDJREh84oPmD-Ow30LdzmnNClXVhEKNFfbfGNn0/6abcea1bbca7e5f460bd6010.md",
+   "created_at": "2026-09-30 10:53:15 UTC",
+   "processed_at": "2026-09-30 10:53:15 UTC",
+   "google_autocomplete_url": "https://www.google.com/complete/search?q=hammered+brass+planter&gl=uk&hl=en&client=chrome&dpr=1",
+   "raw_html_file": "https://serpapi.com/searches/jxm9fDJREh84oPmD-Ow30LdzmnNClXVhEKNFfbfGNn0/6abcea1bbca7e5f460bd6010.html",
+   "prettify_html_file": "https://serpapi.com/searches/jxm9fDJREh84oPmD-Ow30LdzmnNClXVhEKNFfbfGNn0/6abcea1bbca7e5f460bd6010.prettify",
+   "total_time_taken": 1.58
+  },
+  "search_parameters": {
+   "engine": "google_autocomplete",
+   "q": "hammered brass planter",
+   "gl": "uk",
+   "hl": "en"
+  },
+  "search_information": {
+   "autocomplete_results_state": "Showing completion results."
+  },
+  "suggestions": [
+   {
+    "value": "hammered brass planter large",
+    "relevance": 601,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=uk&hl=en&q=hammered+brass+planter+large"
+   },
+   {
+    "value": "hammered brass planter pot",
+    "relevance": 600,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=uk&hl=en&q=hammered+brass+planter+pot"
+   },
+   {
+    "value": "hammered brass flower pot",
+    "relevance": 558,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=uk&hl=en&q=hammered+brass+flower+pot"
+   },
+   {
+    "value": "hammered brass hanging planter",
+    "relevance": 557,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=uk&hl=en&q=hammered+brass+hanging+planter"
+   },
+   {
+    "value": "vintage hammered brass planter",
+    "relevance": 556,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=uk&hl=en&q=vintage+hammered+brass+planter"
+   },
+   {
+    "value": "hammered brass wall planter",
+    "relevance": 555,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=uk&hl=en&q=hammered+brass+wall+planter"
+   },
+   {
+    "value": "can you put plants in brass pots",
+    "relevance": 554,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=uk&hl=en&q=can+you+put+plants+in+brass+pots"
+   },
+   {
+    "value": "how to clean hammered brass",
+    "relevance": 553,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=uk&hl=en&q=how+to+clean+hammered+brass"
+   },
+   {
+    "value": "are brass pots good for plants",
+    "relevance": 552,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=uk&hl=en&q=are+brass+pots+good+for+plants"
+   },
+   {
+    "value": "can you cook in brass pots",
+    "relevance": 551,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=uk&hl=en&q=can+you+cook+in+brass+pots"
+   },
+   {
+    "value": "hammered brass plant pot",
+    "relevance": 550,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=uk&hl=en&q=hammered+brass+plant+pot"
+   }
+  ],
+  "verbatim_relevance": 1300
+ }
+}

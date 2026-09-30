@@ -1,0 +1,573 @@
+{
+ "engine": "google_news",
+ "params": {
+  "q": "\"Online Lighting\"",
+  "gl": "uk",
+  "hl": "en"
+ },
+ "fetched_at": "2026-09-30T10:46:35+00:00",
+ "data": {
+  "search_metadata": {
+   "id": "6abce8893d06eae62cf8c81c",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/A38mj7suF40vTkASrwwLcWKsIg1jra5_ROXndH4uDEQ/6abce8893d06eae62cf8c81c.json",
+   "markdown_endpoint": "https://serpapi.com/searches/A38mj7suF40vTkASrwwLcWKsIg1jra5_ROXndH4uDEQ/6abce8893d06eae62cf8c81c.md",
+   "created_at": "2026-09-30 10:46:33 UTC",
+   "processed_at": "2026-09-30 10:46:33 UTC",
+   "google_news_url": "https://news.google.com/search?q=%22Online+Lighting%22&hl=en&gl=UK",
+   "raw_html_file": "https://serpapi.com/searches/A38mj7suF40vTkASrwwLcWKsIg1jra5_ROXndH4uDEQ/6abce8893d06eae62cf8c81c.html",
+   "total_time_taken": 1.6
+  },
+  "search_parameters": {
+   "engine": "google_news",
+   "gl": "uk",
+   "hl": "en",
+   "q": "\"Online Lighting\""
+  },
+  "news_results": [
+   {
+    "position": 1,
+    "title": "Designers Reveal the 27 Online Lighting Stores They Purchase From Time and Again",
+    "source": {
+     "name": "veranda.com",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.veranda.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Nina Stiefel"
+     ]
+    },
+    "link": "https://www.veranda.com/shopping/home-accessories/g63483157/online-lighting-stores/",
+    "thumbnail": "https://hips.hearstapps.com/hmg-prod/images/ver021126-lighting-698cebe631647.jpg?crop=0.5xw:1xh;center,top&resize=1120:*",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVplVXBtT1ZVeldtbDNjamRDVFJDcUJCaXFCQ2dLTWdNSk1Rbw",
+    "date": "02/11/2026, 08:00 AM, +0000 UTC",
+    "iso_date": "2026-02-11T08:00:00Z"
+   },
+   {
+    "position": 2,
+    "title": "Lighting Pro Plus™ Launches Next-Generation Digital Marketplace Built Specifically for Electrical Contractors",
+    "source": {
+     "name": "Morningstar",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.morningstar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.morningstar.com/news/pr-newswire/20260827cg33705/lighting-pro-plus-launches-next-generation-digital-marketplace-built-specifically-for-electrical-contractors",
+    "thumbnail": "https://mmx.prnewswire.com/media/MS1975562/LPP-PRImage.jpg?id=OA2911189",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJhbWg1TlcxdlVVMHpNalJ6VFJDUUF4aVFBeWdLTWdZQkVZeU9FUVU",
+    "date": "08/27/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-08-27T07:00:00Z"
+   },
+   {
+    "position": 3,
+    "title": "7 of the best online lighting stores for a cosy winter reset",
+    "source": {
+     "name": "Homes To Love",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.homestolove.com.au&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Danielle Grover"
+     ]
+    },
+    "link": "https://www.homestolove.com.au/shopping/best-online-lighting-stores/",
+    "thumbnail": "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/04/hero-crop-2026-04-20t163029.580-69e5c81f5d4a3.png?resize=720%2C405&format=auto",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTNPVFExUlRoSVQwODRjMEo1VFJDVkF4alFCU2dLTWdrVkFJU3BOYVZyNEFJ",
+    "date": "04/17/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-04-17T07:00:00Z"
+   },
+   {
+    "position": 4,
+    "title": "The best lighting stores to illuminate every corner of your home",
+    "source": {
+     "name": "British GQ",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.gq-magazine.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Ali Howard",
+      "Daphne Bugler",
+      "Britta O'boyle"
+     ]
+    },
+    "link": "https://www.gq-magazine.co.uk/lifestyle/article/best-lighting",
+    "thumbnail": "http://media.gq-magazine.co.uk/photos/63f77b447996e51085b271d0/master/pass/Lighting_D.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXFRbU4yZVZvM2NqY3pXRlJSVFJDZkF4ampCU2dLTWdZcHhZYk54UU0",
+    "date": "02/25/2025, 08:00 AM, +0000 UTC",
+    "iso_date": "2025-02-25T08:00:00Z"
+   },
+   {
+    "position": 5,
+    "title": "30 Online Lighting Stores to Bookmark for Your Next Home Refresh",
+    "source": {
+     "name": "House Beautiful",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.housebeautiful.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Angela Belt",
+      "Jessica Cherner"
+     ]
+    },
+    "link": "https://www.housebeautiful.com/shopping/best-stores/g30537381/online-lighting-stores/",
+    "thumbnail": "https://hips.hearstapps.com/hmg-prod/images/br-avalon-danbury-cavallo-1708-66e9df92ae7d4.jpg?crop=1.00xw:0.801xh;0,0.155xh&resize=640:*",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVpVRTVSWW0wME5VSkNRbUowVFJDcUJCaXBCQ2dLTWdNQlVCQQ",
+    "date": "09/17/2024, 07:00 AM, +0000 UTC",
+    "iso_date": "2024-09-17T07:00:00Z"
+   },
+   {
+    "position": 6,
+    "title": "Cheap electrical products bought online a ‘ticking time bomb’, experts say",
+    "source": {
+     "name": "7NEWS",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://7news.com.au&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://7news.com.au/news/cheap-electrical-products-bought-online-a-ticking-time-bomb-experts-say-c-22795223",
+    "thumbnail": "https://images.7news.com.au/publication/C-22795223/090a4af170bb6d15e6e4e832dfca45855f795038-16x9-x43y0w1833h1031.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iNkNnNUJTM3B6TjNCcWJWbFFTVlpXVFJDZkF4ampCU2dLTWc0Qk1JWlVzS05pamVsQlBOYVRLQQ",
+    "date": "08/29/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-08-29T07:00:00Z"
+   },
+   {
+    "position": 7,
+    "title": "efectoLED, a portfolio company of Miura Partners, acquires Lyco Group in the UK to strengthen its leadership in online lighting",
+    "source": {
+     "name": "Capital-Riesgo.es",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://capital-riesgo.es&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://capital-riesgo.es/en/articles/efectoled-a-portfolio-company-of-miura-partners-acquires-lyco-group-in-the-uk-to-strengthen-its-leadership-in-online-lighting/",
+    "thumbnail": "https://capital-riesgo.es/files/media/image/articles/2022/06/original/11317efectoled.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJWbTgzVG1zM1dFMHdRa2N0VFJDckFoakNBeWdLTWdiSmNaaTFLQWc",
+    "date": "06/30/2022, 07:00 AM, +0000 UTC",
+    "iso_date": "2022-06-30T07:00:00Z"
+   },
+   {
+    "position": 8,
+    "title": "Salience Report Reveals Most Prominent UK Lighting Sector Brand",
+    "source": {
+     "name": "Insight DIY",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.insightdiy.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.insightdiy.co.uk/news/salience-report-reveals-most-prominent-uk-lighting-sector-brand/14160.htm",
+    "thumbnail": "https://www.insightdiy.co.uk/live/news/14160aA.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXhlbmhTVVdwemJUazVkek5vVFJDOUFSaUxBaWdCTWdhUmQ0cUhNZ1k",
+    "date": "09/25/2024, 07:00 AM, +0000 UTC",
+    "iso_date": "2024-09-25T07:00:00Z"
+   },
+   {
+    "position": 9,
+    "title": "Jobs saved as lighting retailer is sold out of administration",
+    "source": {
+     "name": "business-live.co.uk",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.business-live.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.business-live.co.uk/enterprise/jobs-saved-lighting-retailer-sold-16449148",
+    "thumbnail": "https://i2-prod.manchestereveningnews.co.uk/business/business-news/article11400163.ece/ALTERNATES/s1200f/LED-Hut1.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXdPRmxMUmtjemRqSjNXV0ZQVFJERUF4aW5CU2dLTWdB",
+    "date": "06/18/2019, 07:00 AM, +0000 UTC",
+    "iso_date": "2019-06-18T07:00:00Z"
+   },
+   {
+    "position": 10,
+    "title": "Create your own lighting diagrams with this nifty, free online tool",
+    "source": {
+     "name": "Imaging Resource",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.imaging-resource.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Dan Havlik"
+     ]
+    },
+    "link": "https://www.imaging-resource.com/news/create-your-own-lighting-diagrams-with-this-nifty-free-online-tool/",
+    "thumbnail": "https://media.imaging-resource.com/2013/03/04070035/ACT44fid17d1613flighting-diagram.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVlVVWRrZVRJNE0zbGlhRzVTVFJDM0FSaXNBaWdLTWdhWm80YnF5UU0",
+    "date": "10/03/2025, 08:17 AM, +0000 UTC",
+    "iso_date": "2025-10-03T08:17:39Z"
+   },
+   {
+    "position": 11,
+    "title": "Leading online lighting distributor announces product line expansion to include the new Philips hue, the world’s smartest web-enabled LED lighting system.",
+    "source": {
+     "name": "MultiVu",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=http://www.multivu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "http://www.multivu.com/players/English/7262751-bulbs-com-new-philips-hue-web-enabled-led-lighting-system/",
+    "thumbnail": "http://www.multivu.com/players/English/7262751-bulbs-com-new-philips-hue-web-enabled-led-lighting-system/gallery//image/b977103a-6145-4e7e-94ad-f283da032a3d.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXdSSEJ4U1hoNlVHdzVjRVZFVFJEZ0F4aUFCU2dLTWdtWk00eXBxV1pjeHdJ",
+    "date": "07/08/2014, 07:00 AM, +0000 UTC",
+    "iso_date": "2014-07-08T07:00:00Z"
+   },
+   {
+    "position": 12,
+    "title": "The 15 Best Online Lighting Stores Everyone Should Know",
+    "source": {
+     "name": "ELLE Decor",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.elledecor.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Lucia Tonelli"
+     ]
+    },
+    "link": "https://www.elledecor.com/shopping/g27634773/best-online-lighting-stores/",
+    "thumbnail": "https://hips.hearstapps.com/hmg-prod/images/best-online-lighting-1559247518.jpg?crop=1.00xw:1.00xh;0,0&resize=640:*",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5kMU5xT0U5dU5FUTRWak41VFJEQUFoaUFCU2dLTWdZSllvek9xUWM",
+    "date": "05/30/2019, 07:00 AM, +0000 UTC",
+    "iso_date": "2019-05-30T07:00:00Z"
+   },
+   {
+    "position": 13,
+    "title": "E-Commerce Market For Lighting Industry Size Report, 2033",
+    "source": {
+     "name": "Grand View Research",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.grandviewresearch.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.grandviewresearch.com/industry-analysis/e-commerce-market-lighting-industry-report",
+    "thumbnail": "https://www.grandviewresearch.com/static/img/research/e-commerce-market-lighting-industry-snapshot.webp",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNUZSa2RMZWs4MVUzRlRWR00yVFJDM0FSaVRBaWdCTWdB",
+    "date": "07/24/2025, 05:40 AM, +0000 UTC",
+    "iso_date": "2025-07-24T05:40:28Z"
+   },
+   {
+    "position": 14,
+    "title": "LED Hut marks fifth birthday with plans to expand across Europe",
+    "source": {
+     "name": "Manchester Evening News",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.manchestereveningnews.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Shelina Begum"
+     ]
+    },
+    "link": "https://www.manchestereveningnews.co.uk/business/business-news/led-hut-marks-fifth-birthday-11400160",
+    "thumbnail": "https://i2-prod.manchestereveningnews.co.uk/business/business-news/article11400163.ece/ALTERNATES/s1200b/LED-Hut1.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNU9lVVV5WDJSM1lYWm1hR2hRVFJEZ0F4aUFCU2dLTWdB",
+    "date": "05/31/2016, 07:00 AM, +0000 UTC",
+    "iso_date": "2016-05-31T07:00:00Z"
+   },
+   {
+    "position": 15,
+    "title": "Salvage Hunters Couple from Derbyshire defy Covid-hit economy to open new shop",
+    "source": {
+     "name": "Derbyshire Live",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.derbytelegraph.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Adnan Rashid"
+     ]
+    },
+    "link": "https://www.derbytelegraph.co.uk/burton/salvage-hunters-couple-derbyshire-defy-4536181",
+    "thumbnail": "https://i2-prod.derbytelegraph.co.uk/incoming/article4537868.ece/ALTERNATES/s1200b/2_AR_TEM_22-09-ashbyinteriors1jpeg.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRMVUZXYVVOUmRIVnhPWGcyVFJEZ0F4aUFCU2dLTWdZdEJJNU9FUXM",
+    "date": "09/25/2020, 07:00 AM, +0000 UTC",
+    "iso_date": "2020-09-25T07:00:00Z"
+   },
+   {
+    "position": 16,
+    "title": "SyLights Allows You To Create Online Lighting Diagrams",
+    "source": {
+     "name": "DIY Photography",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.diyphotography.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Udi Tirosh"
+     ]
+    },
+    "link": "https://www.diyphotography.net/sylights-allows-you-to-create-online-lighting-diagrams/",
+    "thumbnail": "https://www.diyphotography.net/files/images/3/strip-light-on-diagram_s.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTJTa3BIVWtOeFl6VktaekV3VFJDZEFSajZBU2dLTWdZRlFveHpPUWM",
+    "date": "11/26/2016, 02:46 AM, +0000 UTC",
+    "iso_date": "2016-11-26T02:46:14Z"
+   },
+   {
+    "position": 17,
+    "title": "Lighting It Up: MPOWERD’s Seungah Jeong",
+    "source": {
+     "name": "Outside Magazine",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.outsideonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Tracy Ross"
+     ]
+    },
+    "link": "https://www.outsideonline.com/business-journal/issues/mpowerd-seungah-jeong-feature/",
+    "thumbnail": "https://cdn.outsideonline.com/wp-content/uploads/2022/04/tracyross_seungah-17-1-scaled.jpg?crop=25:14&width=500&enable=upscale",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU1jakZmWlRSTFkzazRRVnB0VFJDWUFoajBBeWdLTWdhdFJaak9vUWc",
+    "date": "01/28/2020, 08:00 AM, +0000 UTC",
+    "iso_date": "2020-01-28T08:00:00Z"
+   },
+   {
+    "position": 18,
+    "title": "Lighting Group Acquires $160M Online Lighting Retailer",
+    "source": {
+     "name": "Inside Lighting",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://inside.lighting&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://inside.lighting/news/21q2/lighting-group-acquires-160m-online-lighting-retailer",
+    "thumbnail": "https://inside.lighting/application/files/3916/1891/9496/2021_design_holding_ydesign_ylighting.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXdOMDlFUXpJMFRsRkJiMHgyVFJDUUF4ai1CU2dLTWdhWlJJN3NvUVk",
+    "date": "04/20/2021, 07:00 AM, +0000 UTC",
+    "iso_date": "2021-04-20T07:00:00Z"
+   },
+   {
+    "position": 19,
+    "title": "Zumtobel launches Quickcalc online lighting calculation program",
+    "source": {
+     "name": "Architecture & Design",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.architectureanddesign.com.au&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.architectureanddesign.com.au/editorial/product-news/zumtobel-launches-quickcalc-online-lighting-calcul",
+    "thumbnail": "https://www.architectureanddesign.com.au/_next/image?url=https%3A%2F%2Fassets.architectureanddesign.com.au%2FZumtobel-launches-Quickcalc-online-lighting-calcul.jpg&w=1080&q=75",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVFlRmN6Wm1kbE5raHRkVkYxVFJEREFSaURBaWdCTWdB",
+    "date": "02/19/2025, 01:07 PM, +0000 UTC",
+    "iso_date": "2025-02-19T13:07:55Z"
+   },
+   {
+    "position": 20,
+    "title": "Commercial Lighting Market Size | Industry Report, 2033",
+    "source": {
+     "name": "Grand View Research",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.grandviewresearch.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.grandviewresearch.com/industry-analysis/commercial-lighting-market-report",
+    "thumbnail": "https://www.grandviewresearch.com/static/img/research/commercial-lighting-market-snapshot.webp",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHhhRXRWVGxKVFRUSnRSMDU1VFJEREF4aW9CU2dLTWdhRlVvUXkyUUk",
+    "date": "08/20/2025, 09:41 AM, +0000 UTC",
+    "iso_date": "2025-08-20T09:41:30Z"
+   },
+   {
+    "position": 21,
+    "title": "The Best Online Stores for Chic, Unique, and Affordable Lighting",
+    "source": {
+     "name": "Camille Styles",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://camillestyles.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Caitlin Clark"
+     ]
+    },
+    "link": "https://camillestyles.com/design/best-online-stores-for-lighting/",
+    "thumbnail": "https://camillestyles.com/wp-content/uploads/2022/10/sophie-monet-nightstand-800x800.jpeg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZNMHQ0ZW5kRVdreHdUMDQ1VFJDcUJCaXFCQ2dLTWdZRlFJNDRHQVk",
+    "date": "04/10/2023, 07:00 AM, +0000 UTC",
+    "iso_date": "2023-04-10T07:00:00Z"
+   },
+   {
+    "position": 22,
+    "title": "Lighting Research Center at Rensselaer Launches First Interactive, Online Lighting Design Resource for Homes",
+    "source": {
+     "name": "Rensselaer Polytechnic Institute (RPI)",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://news.rpi.edu&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://news.rpi.edu/luwakkey/3183",
+    "thumbnail": "https://news.rpi.edu/sites/default/files/styles/sixteen_by_nine_medium/public/2013_0520_lightingquad_410.jpg?itok=3zIIYtU0",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNTRaRlJWZGxwWk9YZHNiRVZFVFJDZkF4ampCU2dLTWdB",
+    "date": "05/20/2013, 07:00 AM, +0000 UTC",
+    "iso_date": "2013-05-20T07:00:00Z"
+   },
+   {
+    "position": 23,
+    "title": "CREATIVE LIGHTING online masterclasses and workshops teach us how to create inspiring imagery of architecture",
+    "source": {
+     "name": "Archisearch",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.archisearch.gr&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.archisearch.gr/lighting/creative-lighting-online-masterclasses-workshops/",
+    "date": "01/03/2020, 08:00 AM, +0000 UTC",
+    "iso_date": "2020-01-03T08:00:00Z"
+   },
+   {
+    "position": 24,
+    "title": "Kevin Kertz’s Excellent Lighting Diagrams Tool Goes Online",
+    "source": {
+     "name": "DIY Photography",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.diyphotography.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Udi Tirosh"
+     ]
+    },
+    "link": "https://www.diyphotography.net/kevin-kertzs-excellent-lighting-diagrams-gets-an-online-version/",
+    "thumbnail": "https://www.diyphotography.net/wp-content/uploads/2009/01/1487594145_791ddf8d3b_m.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVljbU5QUkVSd2R6ZDZiVVU0VFJDYUFSandBU2dLTWdZQklZcm1JQVk",
+    "date": "11/27/2016, 01:02 AM, +0000 UTC",
+    "iso_date": "2016-11-27T01:02:04Z"
+   },
+   {
+    "position": 25,
+    "title": "LEDinside: China’s Lighting E-commerce Market to Become Largest LED Distribution Channel",
+    "source": {
+     "name": "TrendForce",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.trendforce.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.trendforce.com/news/2014/10/31/ledinside-chinas-lighting-e-commerce-market-to-become-largest-led-distribution-channel/",
+    "thumbnail": "https://img.trendforce.com/tf_news/prod/led/2014-10/1414735900_24528.png",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNDJWMVJ6ZVVGTmNVeFVaM0YyVFJDdUFSaWlBaWdCTWdB",
+    "date": "10/31/2014, 07:00 AM, +0000 UTC",
+    "iso_date": "2014-10-31T07:00:00Z"
+   },
+   {
+    "position": 26,
+    "title": "Christmas Wish Tree campaign will feature online lighting ceremonies",
+    "source": {
+     "name": "Chatham Daily News",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.chathamdailynews.ca&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.chathamdailynews.ca/news/christmas-wish-tree-campaign-will-feature-online-lighting-ceremonies/",
+    "date": "11/13/2020, 08:00 AM, +0000 UTC",
+    "iso_date": "2020-11-13T08:00:00Z"
+   },
+   {
+    "position": 27,
+    "title": "Simulate Lighting in a Virtual Photo Studio with set.a.light 3D STUDIO",
+    "source": {
+     "name": "PetaPixel",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://petapixel.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Michael Zhang"
+     ]
+    },
+    "link": "https://petapixel.com/2013/05/03/simulate-lighting-in-a-virtual-photo-studio-with-set-a-light-3d-studio/",
+    "thumbnail": "https://petapixel.com/assets/uploads/2013/05/setalight.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTNXa1UyV0hsVGEyTkNUM1ZsVFJDR0F4anNCQ2dLTWdZSllKSUZyUWc",
+    "date": "05/03/2013, 07:00 AM, +0000 UTC",
+    "iso_date": "2013-05-03T07:00:00Z"
+   },
+   {
+    "position": 28,
+    "title": "LED Lighting with Less Carbon Emissions from Online Lighting",
+    "source": {
+     "name": "Architecture & Design",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.architectureanddesign.com.au&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.architectureanddesign.com.au/editorial/industry-news/school-kids-exposed-excess-co2",
+    "thumbnail": "https://www.architectureanddesign.com.au/_next/image?url=https%3A%2F%2Fassets.architectureanddesign.com.au%2Faustralian-classroom.jpg&w=1080&q=75",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHpTM1JGVTJOWVNWcDJSVFl5VFJEQ0F4allCQ2dLTWdZQnNJanB5UVE",
+    "date": "02/08/2025, 01:35 AM, +0000 UTC",
+    "iso_date": "2025-02-08T01:35:34Z"
+   },
+   {
+    "position": 29,
+    "title": "Illuminate Your Space with Elegance: My Design Angel Brings Premier European Lighting Brands to India",
+    "source": {
+     "name": "Issuewire.com",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.issuewire.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.issuewire.com/illuminate-your-space-with-elegance-my-design-angel-brings-premier-european-lighting-brands-to-india-1789903578597416",
+    "thumbnail": "https://s3-us-west-2.amazonaws.com/issuewireassets/primg/129750/muuto-in-india520030240.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVliMjlVVkZkeE56TTJURFV6VFJDNkFSaVBBaWdCTWdZQllJU0YxUU0",
+    "date": "02/03/2024, 08:00 AM, +0000 UTC",
+    "iso_date": "2024-02-03T08:00:00Z"
+   },
+   {
+    "position": 30,
+    "title": "Create and Share Lighting Diagrams on Your iPhone with Strobox",
+    "source": {
+     "name": "PetaPixel",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://petapixel.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Michael Zhang"
+     ]
+    },
+    "link": "https://petapixel.com/2009/12/09/create-and-share-lighting-diagrams-on-your-iphone-with-strobox/",
+    "thumbnail": "https://petapixel.com/assets/uploads/2009/12/stroboxscreen.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHhjR2xTUlZoNlV6WlBWRk4yVFJEMEF4aWdBeWdLTWdZTllvN29yQVk",
+    "date": "12/09/2009, 08:00 AM, +0000 UTC",
+    "iso_date": "2009-12-09T08:00:00Z"
+   },
+   {
+    "position": 31,
+    "title": "Bathroom Heaters and Exhausts Fan Units from Online Lighting",
+    "source": {
+     "name": "Architecture & Design",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.architectureanddesign.com.au&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Jarrod Reedie"
+     ]
+    },
+    "link": "https://www.architectureanddesign.com.au/editorial/industry-news/wests-tigers-liverpool-stadium-proposal-housing",
+    "thumbnail": "https://www.architectureanddesign.com.au/_next/image?url=https%3A%2F%2Fassets.architectureanddesign.com.au%2Fliverpool-nsw.jpg&w=640&q=75",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNW5ZbnBRVUhZeE1tNVNjM1kzVFJEQ0FSaURBaWdCTWdB",
+    "date": "02/05/2025, 12:05 PM, +0000 UTC",
+    "iso_date": "2025-02-05T12:05:28Z"
+   },
+   {
+    "position": 32,
+    "title": "Lighting store closing",
+    "source": {
+     "name": "Pueblo Chieftain",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.chieftain.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Dennis Darrow"
+     ]
+    },
+    "link": "https://www.chieftain.com/story/business/2019/01/22/lighting-store-closing/6233974007/",
+    "thumbnail": "https://www.chieftain.com/gcdn/authoring/2019/01/22/NTPC/ghows-CO-7ffeccdc-46fa-4839-e053-0100007f0d7b-5cc6f44c.jpeg?width=660&height=440&fit=crop&format=pjpg&auto=webp",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxjRFJ6ZFMxNGRWSkhSM1pMVFJDNEF4aVVCU2dLTWdZcGxZNnV0UVk",
+    "date": "01/21/2019, 08:00 AM, +0000 UTC",
+    "iso_date": "2019-01-21T08:00:00Z"
+   },
+   {
+    "position": 33,
+    "title": "Step and Floor Lights for Outdoor Illumination from Online Lighting",
+    "source": {
+     "name": "Architecture & Design",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.architectureanddesign.com.au&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.architectureanddesign.com.au/editorial/industry-news/the-eminence-oneill-architecture",
+    "thumbnail": "https://www.architectureanddesign.com.au/_next/image?url=https%3A%2F%2Fassets.architectureanddesign.com.au%2Fthe-eminence-1.jpg&w=1080&q=75",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNUxWbWM0ZERSQ1ZWZHhVRTlIVFJEQ0FSaURBaWdCTWdB",
+    "date": "06/22/2021, 07:00 AM, +0000 UTC",
+    "iso_date": "2021-06-22T07:00:00Z"
+   },
+   {
+    "position": 34,
+    "title": "LED Pendant Lighting from Online Lighting",
+    "source": {
+     "name": "Architecture & Design",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.architectureanddesign.com.au&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.architectureanddesign.com.au/editorial/industry-news/rooftop-garden-guide-university-of-melbourne",
+    "thumbnail": "https://assets.architectureanddesign.com.au/melbourne-skypark.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNTRNVUl3ZDFwSlowUlBTWE5WVFJEQ0F4allCQ2dLTWdNcE1CWQ",
+    "date": "02/05/2025, 11:16 AM, +0000 UTC",
+    "iso_date": "2025-02-05T11:16:55Z"
+   }
+  ],
+  "menu_links": [
+   {
+    "title": "United Kingdom",
+    "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNRGR6YzJNU0JXVnVMVWRDS0FBUAE",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=uk&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNRGR6YzJNU0JXVnVMVWRDS0FBUAE"
+   },
+   {
+    "title": "World",
+    "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSFFpZ0FQAQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=uk&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSFFpZ0FQAQ"
+   },
+   {
+    "title": "Your local news",
+    "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=uk&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+   },
+   {
+    "title": "Business",
+    "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSFFpZ0FQAQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=uk&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSFFpZ0FQAQ"
+   },
+   {
+    "title": "Technology",
+    "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSFFpZ0FQAQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=uk&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSFFpZ0FQAQ"
+   },
+   {
+    "title": "Entertainment",
+    "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSFFpZ0FQAQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=uk&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSFFpZ0FQAQ"
+   },
+   {
+    "title": "Sports",
+    "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSFFpZ0FQAQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=uk&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSFFpZ0FQAQ"
+   },
+   {
+    "title": "Science",
+    "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSFFpZ0FQAQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=uk&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSFFpZ0FQAQ"
+   },
+   {
+    "title": "Health",
+    "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=uk&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE"
+   }
+  ],
+  "related_topics": [
+   {
+    "topic_token": "CAAqLAgKIiZDQkFTRmdvTkwyY3ZNVEY0ZW0wemVubzNjQklGWlc0dFIwSW9BQVAB",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=uk&topic_token=CAAqLAgKIiZDQkFTRmdvTkwyY3ZNVEY0ZW0wemVubzNjQklGWlc0dFIwSW9BQVAB",
+    "title": "Online Lighting Shop"
+   }
+  ]
+ }
+}

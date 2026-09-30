@@ -1,0 +1,1377 @@
+{
+ "engine": "amazon_product",
+ "params": {
+  "asin": "B007LZ05IE",
+  "amazon_domain": "amazon.co.uk"
+ },
+ "fetched_at": "2026-09-30T10:34:09+00:00",
+ "data": {
+  "search_metadata": {
+   "id": "6abce5957a3b05d283f83948",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/UGMrkwaz3oa6GGPaMr8bPaq0D7XoLFzCeKstYW9HMhc/6abce5957a3b05d283f83948.json",
+   "markdown_endpoint": "https://serpapi.com/searches/UGMrkwaz3oa6GGPaMr8bPaq0D7XoLFzCeKstYW9HMhc/6abce5957a3b05d283f83948.md",
+   "created_at": "2026-09-30 10:33:57 UTC",
+   "processed_at": "2026-09-30 10:33:57 UTC",
+   "amazon_product_url": "https://www.amazon.co.uk/dp/B007LZ05IE/?",
+   "raw_html_file": "https://serpapi.com/searches/UGMrkwaz3oa6GGPaMr8bPaq0D7XoLFzCeKstYW9HMhc/6abce5957a3b05d283f83948.html",
+   "total_time_taken": 11.82
+  },
+  "search_parameters": {
+   "engine": "amazon_product",
+   "asin": "B007LZ05IE",
+   "amazon_domain": "amazon.co.uk",
+   "device": "desktop"
+  },
+  "product_results": {
+   "categories": [
+    {
+     "position": 1,
+     "name": "Lighting",
+     "link": "https://www.amazon.co.uk/Lighting-LED-bulbs-lamps-energy-saving/b/ref=dp_bc_1?ie=UTF8&node=213077031",
+     "node": "213077031",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&device=desktop&engine=amazon&node=213077031"
+    },
+    {
+     "position": 2,
+     "name": "Indoor Lighting",
+     "link": "https://www.amazon.co.uk/Lighting-Indoor-Bathroom-Bedroom-Lamps/b/ref=dp_bc_2?ie=UTF8&node=10709301",
+     "node": "10709301",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&device=desktop&engine=amazon&node=10709301"
+    },
+    {
+     "position": 3,
+     "name": "Lamps, Bases & Shades",
+     "link": "https://www.amazon.co.uk/lamps-home/b/ref=dp_bc_3?ie=UTF8&node=3764795031",
+     "node": "3764795031",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&device=desktop&engine=amazon&node=3764795031"
+    },
+    {
+     "position": 4,
+     "name": "Table Lamps",
+     "link": "https://www.amazon.co.uk/table-lamps-bedside-lamps-home/b/ref=dp_bc_4?ie=UTF8&node=3764796031",
+     "node": "3764796031",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&device=desktop&engine=amazon&node=3764796031"
+    }
+   ],
+   "asin": "B007LZ05IE",
+   "title": "Anika 62480 Hurricane Table Lamp with Touch Activated Base / 3 Brightness Settings/Easy to Install Bulb/Antique Brass Effect Base/Mains Powered / 28 x 12.5cm",
+   "link": "https://www.amazon.co.uk/Anika-Antique-Finish-Hurricane-Silver/dp/B007LZ05IE/",
+   "link_clean": "https://www.amazon.co.uk/dp/B007LZ05IE/",
+   "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B007LZ05IE&device=desktop&engine=amazon_product",
+   "variants": [
+    {
+     "title": "Colour Name",
+     "items": [
+      {
+       "position": 1,
+       "asin": "B007LZ05IE",
+       "name": "Brass",
+       "image": "https://m.media-amazon.com/images/I/31Jr4JmzFfL._SS64_.jpg",
+       "selected": true,
+       "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B007LZ05IE&device=desktop&engine=amazon_product"
+      },
+      {
+       "position": 2,
+       "asin": "B09MKRMHT5",
+       "name": "Chrome",
+       "image": "https://m.media-amazon.com/images/I/31sssR4WSgL._SS64_.jpg",
+       "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B09MKRMHT5&device=desktop&engine=amazon_product"
+      }
+     ]
+    }
+   ],
+   "brand": "Visit the Anika Store",
+   "thumbnail": "https://m.media-amazon.com/images/I/71kyaNh4pXL._AC_SY300_SX300_QL70_ML2_.jpg",
+   "thumbnails": [
+    "https://m.media-amazon.com/images/I/71kyaNh4pXL._AC_SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81rBikLSf+L._AC_SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71gpOiAL9qL._AC_SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/91cXsNYww8L._AC_SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/812F0ZVMUuL._AC_SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61DQnmOcLhL._AC_SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81CtqcTHtGL._AC_SL1500_.jpg"
+   ],
+   "rating": 4.4,
+   "reviews": 1156,
+   "bought_last_month": "50+ bought in past month",
+   "discount": "-20%",
+   "price": "£19.99",
+   "extracted_price": 19.99,
+   "promotions": [
+    {
+     "type": "offer",
+     "text": "Save 5%",
+     "discount_percent": 5,
+     "link": "https://www.amazon.co.uk/promotion/psp/A2P1ZTFRNJUUMV?ref=psp_external&redirectAsin=B007LZ05IE&redirectMerchantId=A3P5ROKL5A1OLE&ref=cxcw_psp_af_A2P1ZTFRNJUUMV&source=dp_cxcw"
+    },
+    {
+     "type": "offer",
+     "text": "Save 5%",
+     "discount_percent": 5
+    }
+   ],
+   "offers": [
+    "Save 5% on any 4"
+   ],
+   "delivery": [
+    "FREE delivery Saturday, 3 October on your first order to UK or Ireland. Details",
+    "Or fastest delivery Tomorrow, 1 October. Order within 7 hrs 40 mins. Details"
+   ],
+   "stock": "In stock"
+  },
+  "purchase_options": {
+   "buy_new": {
+    "caption": "Buy New",
+    "price": "£19.99",
+    "extracted_price": 19.99,
+    "delivery": [
+     "FREE delivery Saturday, 3 October on your first order to UK or Ireland. Details",
+     "Or fastest delivery Tomorrow, 1 October. Order within 7 hrs 40 mins. Details"
+    ],
+    "stock": "In stock",
+    "features": {
+     "shipper_seller": {
+      "text": "Amazon",
+      "details": {
+       "heading": "Shipper / Seller",
+       "content": "Amazon"
+      }
+     },
+     "returns": {
+      "text": "Returnable within 30 days of receipt",
+      "details": {
+       "heading": "Returnable within 30 days of receipt",
+       "content": "Item can be returned in its original condition for a full refund within 30 days of receipt"
+      },
+      "link": {
+       "text": "Read full return policy",
+       "link": "https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=GKM69DUUYKQWKWX7&ref_=dp_ret_policy"
+      }
+     },
+     "gift_options": {
+      "text": "Available at checkout Available at checkout This item is a gift. Change",
+      "details": {
+       "content": "Add gift options at checkout"
+      }
+     }
+    }
+   },
+   "buy_used": {
+    "caption": "Used – Like New",
+    "price": "£15.93",
+    "extracted_price": 15.93,
+    "delivery": [
+     "FREE delivery Saturday, 3 October on your first order to UK or Ireland. Details",
+     "Or fastest delivery Tomorrow, 1 October. Order within 4 hrs 10 mins. Details"
+    ],
+    "stock": "Only 1 left in stock.",
+    "features": {
+     "dispatches_from": "Amazon",
+     "sold_by": "Amazon Resale"
+    }
+   }
+  },
+  "item_specifications": {
+   "colour": "Brass",
+   "material": "Metal",
+   "brand": "Anika",
+   "product_dimensions": "49L x 49W x 110H millimetres",
+   "finish_type": "Polished",
+   "item_weight": "0.5 Kilograms",
+   "number_of_pieces": "1",
+   "theme": "Antique",
+   "item_diameter": "12.5 Centimetres",
+   "mounting_type": "Tabletop"
+  },
+  "about_item": [
+   "HURRICANE TABLE LAMP – Standing at 28cm tall, this antique-look bedside lamp includes a glass shade and brass effect base. Simply tap the lamp base to activate its dimmable function and instantly add a warm glow to any room.",
+   "TRADITIONAL LOOK – The lamp has an attractive, traditional look that will complement a wide variety of interior styles. It’s ideal for use as a bedside lamp but could also be used in living rooms, conservatories, and home offices.",
+   "3 BRIGHTNESS SETTINGS – This dimmable bedside lamp offers three levels of brightness - low, medium, and high. To switch between them, touch the lamp base to control the brightness to suit your preference. The fourth tap will turn the light off.",
+   "MAINS POWERED – The lamp is mains powered with a 1.5m cable and requires 1 x E14 40W Bulb (not included) which easily screws into place.",
+   "ANIKA LIGHTING – Anika is the leading manufacturer of homeware, bathroom, and kitchen essentials. View the Anika store on Amazon to view the whole range today."
+  ],
+  "bought_together": [
+   {
+    "position": 1,
+    "title": "Anika 62480 Hurricane Table Lamp with Touch Activated Base / 3 Brightness Settings/Easy to Install Bulb/Antique Brass Effect Base/Mains Powered / 28 x 12.5cm",
+    "link": "https://www.amazon.co.uk/product-reviews/B007LZ05IE/ref=sspa_dk_detail_sbt_d_sccl_2_cr/524-7963977-9453511?pd_rd_w=zyni3&content-id=amzn1.sym.ffea65f3-46ce-404f-94b7-a43e6a0d7b60&pf_rd_p=ffea65f3-46ce-404f-94b7-a43e6a0d7b60&pf_rd_r=FBM4DP1M0ZGD0PCPHSH0&pd_rd_wg=xzmLP&pd_rd_r=d4e1d99c-f3b7-40c7-b55c-088c0ab6d71c&pd_rd_i=B007LZ05IE",
+    "asin": "B007LZ05IE",
+    "link_clean": "https://www.amazon.co.uk/product-reviews/B007LZ05IE/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B007LZ05IE&device=desktop&engine=amazon_product",
+    "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/71kyaNh4pXL._AC_UL116_SR116,116_.jpg",
+    "rating": 4.4,
+    "reviews": 1156,
+    "price": "£19.99",
+    "extracted_price": 19.99,
+    "stock": "In stock"
+   },
+   {
+    "position": 2,
+    "title": "Aooshine Touch Control Bedside Lamps Set of 2 with USB-C+A Charging Ports | Touch Lamps with 3 Way Dimmable Table Lamps for Bedroom/Living Room/Study Room/Office with Grey Fabric Shade, Bulbs Included",
+    "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MToxNjU0NTU0ODUxOTk4MTAwOjE5NDg0NDQ0NDc6c3BfZGV0YWlsX3RoZW1hdGljOjMwMDUwNTM4NjExMjEzMjo6MDo6&url=%2FAooshine-Bedside-Charging-Dimmable-Included%2Fdp%2FB0DHK9SVYX%3Fpsc%3D1%26pd_rd_w%3Dzyni3%26content-id%3Damzn1.sym.ffea65f3-46ce-404f-94b7-a43e6a0d7b60%26pf_rd_p%3Dffea65f3-46ce-404f-94b7-a43e6a0d7b60%26pf_rd_r%3DFBM4DP1M0ZGD0PCPHSH0%26pd_rd_wg%3DxzmLP%26pd_rd_r%3Dd4e1d99c-f3b7-40c7-b55c-088c0ab6d71c%26ref_%3Dsspa_dk_detail_sbt_img_0%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM%3D&aref=BF9ij3wLfk",
+    "asin": "B0DHK9SVYX",
+    "link_clean": "https://www.amazon.co.uk/dp/B0DHK9SVYX/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0DHK9SVYX&device=desktop&engine=amazon_product",
+    "sponsored": true,
+    "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/710Ef-dvD2L._AC_UL116_SR116,116_.jpg",
+    "rating": 4.6,
+    "reviews": 547,
+    "price": "£31.99",
+    "extracted_price": 31.99,
+    "price_unit": "£16.00/count",
+    "extracted_price_unit": 16.0,
+    "prime": true,
+    "stock": "In stock"
+   }
+  ],
+  "related_products": [
+   {
+    "position": 1,
+    "asin": "B0D3SWQ6N5",
+    "title": "Aooshine Touch Table Lamp, Crystal Bedside Lamps for Living Room, Bedroom | 3 Way Dimmable, USB C+A Charging Ports, Bed Lamps with White Fabric Shade, UK mains plug, Bulb included",
+    "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MTo1ODQ5NDgwNDI3ODIwMzExOjE3OTA3NjQ0NDc6c3BfZGV0YWlsOjMwMDM4NjExMjI1OTYzMjo6Ojo&url=%2Fdp%2FB0D3SWQ6N5%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0D3SWQ6N5%26pd_rd_w%3DiQg1j%26content-id%3Damzn1.sym.67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_p%3D67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_r%3DFBM4DP1M0ZGD0PCPHSH0%26pd_rd_wg%3DxzmLP%26pd_rd_r%3Dd4e1d99c-f3b7-40c7-b55c-088c0ab6d71c%26aref%3D4I9kQ0T9Zb%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw&aref=4I9kQ0T9Zb&sp_cr=ZAZ",
+    "link_clean": "https://www.amazon.co.uk/dp/B0D3SWQ6N5/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0D3SWQ6N5&device=desktop&engine=amazon_product",
+    "sponsored": true,
+    "badges": [
+     "Limited time deal"
+    ],
+    "thumbnail": "https://m.media-amazon.com/images/I/61LknHowmsL._AC_UF480,480_SR480,480_.jpg",
+    "rating": 4.6,
+    "reviews": 465,
+    "discount": "-18%",
+    "price": "£27.97",
+    "extracted_price": 27.97,
+    "old_price": "null",
+    "save_with_coupon": "You pay £22.37"
+   },
+   {
+    "position": 2,
+    "asin": "B0DP2Q7X38",
+    "title": "VIMAZ Cordless Table Lamp Rechargeable,Portable Metal Gold Table Lamps,4000mAH Crystal Lantern Table Lamp Touch Lamp,3 Color Stepless Dimming Battery Operated Lamp for Indoor Outdoor,Camping (Gold)",
+    "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MTo1ODQ5NDgwNDI3ODIwMzExOjE3OTA3NjQ0NDc6c3BfZGV0YWlsOjMwMDY5NDI4MTQxNjAzMjo6Ojo&url=%2Fdp%2FB0DP2Q7X38%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0DP2Q7X38%26pd_rd_w%3DiQg1j%26content-id%3Damzn1.sym.67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_p%3D67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_r%3DFBM4DP1M0ZGD0PCPHSH0%26pd_rd_wg%3DxzmLP%26pd_rd_r%3Dd4e1d99c-f3b7-40c7-b55c-088c0ab6d71c%26aref%3DkVBkY3e6Vk%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw&aref=kVBkY3e6Vk&sp_cr=ZAZ",
+    "link_clean": "https://www.amazon.co.uk/dp/B0DP2Q7X38/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0DP2Q7X38&device=desktop&engine=amazon_product",
+    "sponsored": true,
+    "thumbnail": "https://m.media-amazon.com/images/I/711SH98SXOL._AC_UF480,480_SR480,480_.jpg",
+    "rating": 4.5,
+    "reviews": 102,
+    "discount": "-6%",
+    "price": "£16.99",
+    "extracted_price": 16.99,
+    "old_price": "null"
+   },
+   {
+    "position": 3,
+    "asin": "B0DNPXNBBJ",
+    "title": "Rechargeable Lamp,5200mAh Cordless Table Lamp,Gold LED Touch Lamps Bedside | Wireless Battery Operated Lamp With 3 Color Stepless Dimming,Memory and USB-C Charging,for Home Restaurant Patio",
+    "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MTo1ODQ5NDgwNDI3ODIwMzExOjE3OTA3NjQ0NDc6c3BfZGV0YWlsOjMwMDc4Mzg4MjQ0ODIzMjo6Ojo&url=%2Fdp%2FB0DNPXNBBJ%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0DNPXNBBJ%26pd_rd_w%3DiQg1j%26content-id%3Damzn1.sym.67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_p%3D67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_r%3DFBM4DP1M0ZGD0PCPHSH0%26pd_rd_wg%3DxzmLP%26pd_rd_r%3Dd4e1d99c-f3b7-40c7-b55c-088c0ab6d71c%26aref%3DUV7UM23FY9%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw&aref=UV7UM23FY9&sp_cr=ZAZ",
+    "link_clean": "https://www.amazon.co.uk/dp/B0DNPXNBBJ/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0DNPXNBBJ&device=desktop&engine=amazon_product",
+    "sponsored": true,
+    "thumbnail": "https://m.media-amazon.com/images/I/71ZdUDjOvaL._AC_UF480,480_SR480,480_.jpg",
+    "rating": 4.4,
+    "reviews": 168,
+    "price": "£17.99",
+    "extracted_price": 17.99
+   },
+   {
+    "position": 4,
+    "asin": "B0CHN2CKZC",
+    "title": "ONEWISH Touch Bedside Table Lamp - Modern Small Lamp for Bedroom Living Room Nightstand, Desk lamp with White Opal Glass Lamp Shade,6W Warm LED Bulb, 3 Way Dimmable, Simple Design",
+    "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MTo1ODQ5NDgwNDI3ODIwMzExOjE3OTA3NjQ0NDc6c3BfZGV0YWlsOjMwMDUzMjQ0MDY3MDMzMjo6Ojo&url=%2Fdp%2FB0CHN2CKZC%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0CHN2CKZC%26pd_rd_w%3DiQg1j%26content-id%3Damzn1.sym.67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_p%3D67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_r%3DFBM4DP1M0ZGD0PCPHSH0%26pd_rd_wg%3DxzmLP%26pd_rd_r%3Dd4e1d99c-f3b7-40c7-b55c-088c0ab6d71c%26aref%3DZExw2nA4LM%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw&aref=ZExw2nA4LM&sp_cr=ZAZ",
+    "link_clean": "https://www.amazon.co.uk/dp/B0CHN2CKZC/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0CHN2CKZC&device=desktop&engine=amazon_product",
+    "sponsored": true,
+    "thumbnail": "https://m.media-amazon.com/images/I/610HXT47T3L._AC_UF480,480_SR480,480_.jpg",
+    "rating": 4.1,
+    "reviews": 3431,
+    "price": "£29.99",
+    "extracted_price": 29.99
+   },
+   {
+    "position": 5,
+    "asin": "B0FC1N3F55",
+    "title": "Amingulry Cordless Rechargeable Table Lamp, Metal, Wood, Fabric, Gold | 4000mAh Battery Operated, 3 Way Modes, Dimmable LED Touch Beside Ambient Light, Portable for Bedroom Restaurant Outdoor",
+    "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MTo1ODQ5NDgwNDI3ODIwMzExOjE3OTA3NjQ0NDc6c3BfZGV0YWlsOjMwMDY2NjQwNTk4ODYzMjo6Ojo&url=%2Fdp%2FB0FC1N3F55%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0FC1N3F55%26pd_rd_w%3DiQg1j%26content-id%3Damzn1.sym.67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_p%3D67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_r%3DFBM4DP1M0ZGD0PCPHSH0%26pd_rd_wg%3DxzmLP%26pd_rd_r%3Dd4e1d99c-f3b7-40c7-b55c-088c0ab6d71c%26aref%3D8bSIVUmlka%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw&aref=8bSIVUmlka&sp_cr=ZAZ",
+    "link_clean": "https://www.amazon.co.uk/dp/B0FC1N3F55/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0FC1N3F55&device=desktop&engine=amazon_product",
+    "sponsored": true,
+    "badges": [
+     "Amazon's Choice"
+    ],
+    "thumbnail": "https://m.media-amazon.com/images/I/81u+7g9R+5L._AC_UF480,480_SR480,480_.jpg",
+    "rating": 4.3,
+    "reviews": 71,
+    "price": "£24.99",
+    "extracted_price": 24.99
+   },
+   {
+    "position": 6,
+    "asin": "B0FMFFW9W8",
+    "title": "LumaBrite Rechargeable Table Lamp - Upgrade 5200mAh Cordless Lamp with 3 Color Options & Stepless Dimming Touch Lamp Bedside Lamps Battery Table Lamp for Bedroom Living Room",
+    "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MTo1ODQ5NDgwNDI3ODIwMzExOjE3OTA3NjQ0NDc6c3BfZGV0YWlsOjMwMTM1NjQyODM5MzIzMjo6Ojo&url=%2Fdp%2FB0FMFFW9W8%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0FMFFW9W8%26pd_rd_w%3DiQg1j%26content-id%3Damzn1.sym.67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_p%3D67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_r%3DFBM4DP1M0ZGD0PCPHSH0%26pd_rd_wg%3DxzmLP%26pd_rd_r%3Dd4e1d99c-f3b7-40c7-b55c-088c0ab6d71c%26aref%3DfbZH8ZvFXS%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw&aref=fbZH8ZvFXS&sp_cr=ZAZ",
+    "link_clean": "https://www.amazon.co.uk/dp/B0FMFFW9W8/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0FMFFW9W8&device=desktop&engine=amazon_product",
+    "sponsored": true,
+    "thumbnail": "https://m.media-amazon.com/images/I/71729J6QfYL._AC_UF480,480_SR480,480_.jpg",
+    "rating": 4.3,
+    "reviews": 147,
+    "price": "£19.99",
+    "extracted_price": 19.99
+   },
+   {
+    "position": 7,
+    "asin": "B0BV1TN6GS",
+    "title": "BomKra Crystal Table Lamp, Dimmable 3 Colors LED Romantic Diamond Crystal Lamp, Rechargeable Touch Small Lamps, Bedside Nightstand Light for Bedroom Bar Restaurant (B)",
+    "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MTo1ODQ5NDgwNDI3ODIwMzExOjE3OTA3NjQ0NDc6c3BfZGV0YWlsOjMwMDUzMjE5MjIzNzgzMjo6Ojo&url=%2Fdp%2FB0BV1TN6GS%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0BV1TN6GS%26pd_rd_w%3DiQg1j%26content-id%3Damzn1.sym.67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_p%3D67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_r%3DFBM4DP1M0ZGD0PCPHSH0%26pd_rd_wg%3DxzmLP%26pd_rd_r%3Dd4e1d99c-f3b7-40c7-b55c-088c0ab6d71c%26aref%3DoUqoRlUAWK%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw&aref=oUqoRlUAWK&sp_cr=ZAZ",
+    "link_clean": "https://www.amazon.co.uk/dp/B0BV1TN6GS/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0BV1TN6GS&device=desktop&engine=amazon_product",
+    "sponsored": true,
+    "badges": [
+     "Limited time deal"
+    ],
+    "thumbnail": "https://m.media-amazon.com/images/I/71+ETSfF6FL._AC_UF480,480_SR480,480_.jpg",
+    "rating": 4.0,
+    "reviews": 373,
+    "discount": "-15%",
+    "price": "£13.59",
+    "extracted_price": 13.59,
+    "old_price": "null"
+   },
+   {
+    "position": 8,
+    "asin": "B0140WFL6G",
+    "title": "HomeLife Nebraska LED Storm Lamp with 15 Bright LED's / Carry Handle / Weatherproof Design / Variable Dimmer Settings / Energy Saving / Battery Operated - D1201CP - Copper",
+    "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MToxNTU3MzcwMjk3MTYzNjQ4OjE3OTA3NjQ0NDc6c3BfZGV0YWlsMjozMDA5OTI5MjQ0NTIxMzI6Ojo6&url=%2Fdp%2FB0140WFL6G%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0140WFL6G%26pd_rd_w%3DV2G1c%26content-id%3Damzn1.sym.1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_p%3D1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_r%3DFBM4DP1M0ZGD0PCPHSH0%26pd_rd_wg%3DxzmLP%26pd_rd_r%3Dd4e1d99c-f3b7-40c7-b55c-088c0ab6d71c%26aref%3D6UQk0vbtqD%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&aref=6UQk0vbtqD&sp_cr=ZAZ",
+    "link_clean": "https://www.amazon.co.uk/dp/B0140WFL6G/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0140WFL6G&device=desktop&engine=amazon_product",
+    "sponsored": true,
+    "thumbnail": "https://m.media-amazon.com/images/I/61O+rLf74vS._AC_UF480,480_SR480,480_.jpg",
+    "rating": 4.4,
+    "reviews": 1473,
+    "price": "£14.99",
+    "extracted_price": 14.99
+   },
+   {
+    "position": 9,
+    "asin": "B0H8YDJYV2",
+    "title": "Britalia Table Lamp, Glass and Metal, Gold and Ivory, Battery Powered LED, 19x19x30cm, Ivory Glass Flower Shade",
+    "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MToxNTU3MzcwMjk3MTYzNjQ4OjE3OTA3NjQ0NDc6c3BfZGV0YWlsMjozMDEyMDM1ODkwNjcxMzI6Ojo6&url=%2Fdp%2FB0H8YDJYV2%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0H8YDJYV2%26pd_rd_w%3DV2G1c%26content-id%3Damzn1.sym.1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_p%3D1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_r%3DFBM4DP1M0ZGD0PCPHSH0%26pd_rd_wg%3DxzmLP%26pd_rd_r%3Dd4e1d99c-f3b7-40c7-b55c-088c0ab6d71c%26aref%3D1Vsi7Q7etd%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&aref=1Vsi7Q7etd&sp_cr=ZAZ",
+    "link_clean": "https://www.amazon.co.uk/dp/B0H8YDJYV2/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0H8YDJYV2&device=desktop&engine=amazon_product",
+    "sponsored": true,
+    "thumbnail": "https://m.media-amazon.com/images/I/41IcZzZqNPL._AC_UF480,480_SR480,480_.jpg",
+    "price": "£25.99",
+    "extracted_price": 25.99
+   },
+   {
+    "position": 10,
+    "asin": "B09L78T81M",
+    "title": "One Fire Rechargeable lamp, Portable Light, Reading Light,Long Battery Life | 10-Level Brightness Adjustment, with 300 lumens of high brightness, for Crafting,for office ,for reading",
+    "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MToxNTU3MzcwMjk3MTYzNjQ4OjE3OTA3NjQ0NDc6c3BfZGV0YWlsMjozMDA4MjkwMTA2MjQ5MzI6Ojo6&url=%2Fdp%2FB09L78T81M%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB09L78T81M%26pd_rd_w%3DV2G1c%26content-id%3Damzn1.sym.1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_p%3D1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_r%3DFBM4DP1M0ZGD0PCPHSH0%26pd_rd_wg%3DxzmLP%26pd_rd_r%3Dd4e1d99c-f3b7-40c7-b55c-088c0ab6d71c%26aref%3Dg7EqpMmon0%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&aref=g7EqpMmon0&sp_cr=ZAZ",
+    "link_clean": "https://www.amazon.co.uk/dp/B09L78T81M/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B09L78T81M&device=desktop&engine=amazon_product",
+    "sponsored": true,
+    "badges": [
+     "Limited time deal"
+    ],
+    "thumbnail": "https://m.media-amazon.com/images/I/51W5KL75PCL._AC_UF480,480_SR480,480_.jpg",
+    "rating": 4.5,
+    "reviews": 11456,
+    "discount": "-21%",
+    "price": "£18.99",
+    "extracted_price": 18.99,
+    "old_price": "null"
+   },
+   {
+    "position": 11,
+    "asin": "B0BV1TN6GS",
+    "title": "BomKra Crystal Table Lamp, Dimmable 3 Colors LED Romantic Diamond Crystal Lamp, Rechargeable Touch Small Lamps, Bedside Nightstand Light for Bedroom Bar Restaurant (B)",
+    "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MToxNTU3MzcwMjk3MTYzNjQ4OjE3OTA3NjQ0NDc6c3BfZGV0YWlsMjozMDA1MzIxOTIyMzc4MzI6Ojo6&url=%2Fdp%2FB0BV1TN6GS%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0BV1TN6GS%26pd_rd_w%3DV2G1c%26content-id%3Damzn1.sym.1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_p%3D1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_r%3DFBM4DP1M0ZGD0PCPHSH0%26pd_rd_wg%3DxzmLP%26pd_rd_r%3Dd4e1d99c-f3b7-40c7-b55c-088c0ab6d71c%26aref%3DoUqoRlUAWK%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&aref=oUqoRlUAWK&sp_cr=ZAZ",
+    "link_clean": "https://www.amazon.co.uk/dp/B0BV1TN6GS/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0BV1TN6GS&device=desktop&engine=amazon_product",
+    "sponsored": true,
+    "badges": [
+     "Limited time deal"
+    ],
+    "thumbnail": "https://m.media-amazon.com/images/I/71+ETSfF6FL._AC_UF480,480_SR480,480_.jpg",
+    "rating": 4.0,
+    "reviews": 373,
+    "discount": "-15%",
+    "price": "£13.59",
+    "extracted_price": 13.59,
+    "old_price": "null"
+   },
+   {
+    "position": 12,
+    "asin": "B0D3SWQ6N5",
+    "title": "Aooshine Touch Table Lamp, Crystal Bedside Lamps for Living Room, Bedroom | 3 Way Dimmable, USB C+A Charging Ports, Bed Lamps with White Fabric Shade, UK mains plug, Bulb included",
+    "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MToxNTU3MzcwMjk3MTYzNjQ4OjE3OTA3NjQ0NDc6c3BfZGV0YWlsMjozMDAzODYxMTIyNTk2MzI6Ojo6&url=%2Fdp%2FB0D3SWQ6N5%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0D3SWQ6N5%26pd_rd_w%3DV2G1c%26content-id%3Damzn1.sym.1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_p%3D1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_r%3DFBM4DP1M0ZGD0PCPHSH0%26pd_rd_wg%3DxzmLP%26pd_rd_r%3Dd4e1d99c-f3b7-40c7-b55c-088c0ab6d71c%26aref%3D4I9kQ0T9Zb%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&aref=4I9kQ0T9Zb&sp_cr=ZAZ",
+    "link_clean": "https://www.amazon.co.uk/dp/B0D3SWQ6N5/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0D3SWQ6N5&device=desktop&engine=amazon_product",
+    "sponsored": true,
+    "badges": [
+     "Limited time deal"
+    ],
+    "thumbnail": "https://m.media-amazon.com/images/I/61LknHowmsL._AC_UF480,480_SR480,480_.jpg",
+    "rating": 4.6,
+    "reviews": 465,
+    "discount": "-18%",
+    "price": "£27.97",
+    "extracted_price": 27.97,
+    "old_price": "null",
+    "save_with_coupon": "You pay £22.37"
+   },
+   {
+    "position": 13,
+    "asin": "B0DP2Q7X38",
+    "title": "VIMAZ Cordless Table Lamp Rechargeable,Portable Metal Gold Table Lamps,4000mAH Crystal Lantern Table Lamp Touch Lamp,3 Color Stepless Dimming Battery Operated Lamp for Indoor Outdoor,Camping (Gold)",
+    "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MToxNTU3MzcwMjk3MTYzNjQ4OjE3OTA3NjQ0NDc6c3BfZGV0YWlsMjozMDA2OTQyODE0MTYwMzI6Ojo6&url=%2Fdp%2FB0DP2Q7X38%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0DP2Q7X38%26pd_rd_w%3DV2G1c%26content-id%3Damzn1.sym.1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_p%3D1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_r%3DFBM4DP1M0ZGD0PCPHSH0%26pd_rd_wg%3DxzmLP%26pd_rd_r%3Dd4e1d99c-f3b7-40c7-b55c-088c0ab6d71c%26aref%3DkVBkY3e6Vk%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&aref=kVBkY3e6Vk&sp_cr=ZAZ",
+    "link_clean": "https://www.amazon.co.uk/dp/B0DP2Q7X38/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0DP2Q7X38&device=desktop&engine=amazon_product",
+    "sponsored": true,
+    "thumbnail": "https://m.media-amazon.com/images/I/711SH98SXOL._AC_UF480,480_SR480,480_.jpg",
+    "rating": 4.5,
+    "reviews": 102,
+    "discount": "-6%",
+    "price": "£16.99",
+    "extracted_price": 16.99,
+    "old_price": "null"
+   },
+   {
+    "position": 14,
+    "asin": "B0D86WNWPX",
+    "title": "Candeldo Candle Warmer Lamp with Timer, Gold Flower Dimmable Wax Melt Lamp | Height adjustable, gift for women, mum, her, new home, house warming, birthday present, with 2 bulbs, for large jar candle",
+    "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MToxNTU3MzcwMjk3MTYzNjQ4OjE3OTA3NjQ0NDc6c3BfZGV0YWlsMjozMDEzNzUyMDg1NzI0MzI6Ojo6&url=%2Fdp%2FB0D86WNWPX%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0D86WNWPX%26pd_rd_w%3DV2G1c%26content-id%3Damzn1.sym.1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_p%3D1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_r%3DFBM4DP1M0ZGD0PCPHSH0%26pd_rd_wg%3DxzmLP%26pd_rd_r%3Dd4e1d99c-f3b7-40c7-b55c-088c0ab6d71c%26aref%3D1QWon95Vwx%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&aref=1QWon95Vwx&sp_cr=ZAZ",
+    "link_clean": "https://www.amazon.co.uk/dp/B0D86WNWPX/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0D86WNWPX&device=desktop&engine=amazon_product",
+    "sponsored": true,
+    "thumbnail": "https://m.media-amazon.com/images/I/71oofg15fdL._AC_UF480,480_SR480,480_.jpg",
+    "rating": 4.5,
+    "reviews": 151,
+    "discount": "-39%",
+    "price": "£16.99",
+    "extracted_price": 16.99,
+    "old_price": "null"
+   }
+  ],
+  "related_product_sections": [
+   {
+    "title": "Products related to this item",
+    "items": [
+     {
+      "position": 1,
+      "asin": "B0D3SWQ6N5",
+      "title": "Aooshine Touch Table Lamp, Crystal Bedside Lamps for Living Room, Bedroom | 3 Way Dimmable, USB C+A Charging Ports, Bed Lamps with White Fabric Shade, UK mains plug, Bulb included",
+      "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MTo1ODQ5NDgwNDI3ODIwMzExOjE3OTA3NjQ0NDc6c3BfZGV0YWlsOjMwMDM4NjExMjI1OTYzMjo6Ojo&url=%2Fdp%2FB0D3SWQ6N5%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0D3SWQ6N5%26pd_rd_w%3DiQg1j%26content-id%3Damzn1.sym.67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_p%3D67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_r%3DFBM4DP1M0ZGD0PCPHSH0%26pd_rd_wg%3DxzmLP%26pd_rd_r%3Dd4e1d99c-f3b7-40c7-b55c-088c0ab6d71c%26aref%3D4I9kQ0T9Zb%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw&aref=4I9kQ0T9Zb&sp_cr=ZAZ",
+      "link_clean": "https://www.amazon.co.uk/dp/B0D3SWQ6N5/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0D3SWQ6N5&device=desktop&engine=amazon_product",
+      "sponsored": true,
+      "badges": [
+       "Limited time deal"
+      ],
+      "thumbnail": "https://m.media-amazon.com/images/I/61LknHowmsL._AC_UF480,480_SR480,480_.jpg",
+      "rating": 4.6,
+      "reviews": 465,
+      "discount": "-18%",
+      "price": "£27.97",
+      "extracted_price": 27.97,
+      "old_price": "null",
+      "save_with_coupon": "You pay £22.37"
+     },
+     {
+      "position": 2,
+      "asin": "B0DP2Q7X38",
+      "title": "VIMAZ Cordless Table Lamp Rechargeable,Portable Metal Gold Table Lamps,4000mAH Crystal Lantern Table Lamp Touch Lamp,3 Color Stepless Dimming Battery Operated Lamp for Indoor Outdoor,Camping (Gold)",
+      "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MTo1ODQ5NDgwNDI3ODIwMzExOjE3OTA3NjQ0NDc6c3BfZGV0YWlsOjMwMDY5NDI4MTQxNjAzMjo6Ojo&url=%2Fdp%2FB0DP2Q7X38%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0DP2Q7X38%26pd_rd_w%3DiQg1j%26content-id%3Damzn1.sym.67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_p%3D67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_r%3DFBM4DP1M0ZGD0PCPHSH0%26pd_rd_wg%3DxzmLP%26pd_rd_r%3Dd4e1d99c-f3b7-40c7-b55c-088c0ab6d71c%26aref%3DkVBkY3e6Vk%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw&aref=kVBkY3e6Vk&sp_cr=ZAZ",
+      "link_clean": "https://www.amazon.co.uk/dp/B0DP2Q7X38/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0DP2Q7X38&device=desktop&engine=amazon_product",
+      "sponsored": true,
+      "thumbnail": "https://m.media-amazon.com/images/I/711SH98SXOL._AC_UF480,480_SR480,480_.jpg",
+      "rating": 4.5,
+      "reviews": 102,
+      "discount": "-6%",
+      "price": "£16.99",
+      "extracted_price": 16.99,
+      "old_price": "null"
+     },
+     {
+      "position": 3,
+      "asin": "B0DNPXNBBJ",
+      "title": "Rechargeable Lamp,5200mAh Cordless Table Lamp,Gold LED Touch Lamps Bedside | Wireless Battery Operated Lamp With 3 Color Stepless Dimming,Memory and USB-C Charging,for Home Restaurant Patio",
+      "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MTo1ODQ5NDgwNDI3ODIwMzExOjE3OTA3NjQ0NDc6c3BfZGV0YWlsOjMwMDc4Mzg4MjQ0ODIzMjo6Ojo&url=%2Fdp%2FB0DNPXNBBJ%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0DNPXNBBJ%26pd_rd_w%3DiQg1j%26content-id%3Damzn1.sym.67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_p%3D67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_r%3DFBM4DP1M0ZGD0PCPHSH0%26pd_rd_wg%3DxzmLP%26pd_rd_r%3Dd4e1d99c-f3b7-40c7-b55c-088c0ab6d71c%26aref%3DUV7UM23FY9%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw&aref=UV7UM23FY9&sp_cr=ZAZ",
+      "link_clean": "https://www.amazon.co.uk/dp/B0DNPXNBBJ/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0DNPXNBBJ&device=desktop&engine=amazon_product",
+      "sponsored": true,
+      "thumbnail": "https://m.media-amazon.com/images/I/71ZdUDjOvaL._AC_UF480,480_SR480,480_.jpg",
+      "rating": 4.4,
+      "reviews": 168,
+      "price": "£17.99",
+      "extracted_price": 17.99
+     },
+     {
+      "position": 4,
+      "asin": "B0CHN2CKZC",
+      "title": "ONEWISH Touch Bedside Table Lamp - Modern Small Lamp for Bedroom Living Room Nightstand, Desk lamp with White Opal Glass Lamp Shade,6W Warm LED Bulb, 3 Way Dimmable, Simple Design",
+      "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MTo1ODQ5NDgwNDI3ODIwMzExOjE3OTA3NjQ0NDc6c3BfZGV0YWlsOjMwMDUzMjQ0MDY3MDMzMjo6Ojo&url=%2Fdp%2FB0CHN2CKZC%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0CHN2CKZC%26pd_rd_w%3DiQg1j%26content-id%3Damzn1.sym.67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_p%3D67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_r%3DFBM4DP1M0ZGD0PCPHSH0%26pd_rd_wg%3DxzmLP%26pd_rd_r%3Dd4e1d99c-f3b7-40c7-b55c-088c0ab6d71c%26aref%3DZExw2nA4LM%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw&aref=ZExw2nA4LM&sp_cr=ZAZ",
+      "link_clean": "https://www.amazon.co.uk/dp/B0CHN2CKZC/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0CHN2CKZC&device=desktop&engine=amazon_product",
+      "sponsored": true,
+      "thumbnail": "https://m.media-amazon.com/images/I/610HXT47T3L._AC_UF480,480_SR480,480_.jpg",
+      "rating": 4.1,
+      "reviews": 3431,
+      "price": "£29.99",
+      "extracted_price": 29.99
+     },
+     {
+      "position": 5,
+      "asin": "B0FC1N3F55",
+      "title": "Amingulry Cordless Rechargeable Table Lamp, Metal, Wood, Fabric, Gold | 4000mAh Battery Operated, 3 Way Modes, Dimmable LED Touch Beside Ambient Light, Portable for Bedroom Restaurant Outdoor",
+      "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MTo1ODQ5NDgwNDI3ODIwMzExOjE3OTA3NjQ0NDc6c3BfZGV0YWlsOjMwMDY2NjQwNTk4ODYzMjo6Ojo&url=%2Fdp%2FB0FC1N3F55%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0FC1N3F55%26pd_rd_w%3DiQg1j%26content-id%3Damzn1.sym.67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_p%3D67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_r%3DFBM4DP1M0ZGD0PCPHSH0%26pd_rd_wg%3DxzmLP%26pd_rd_r%3Dd4e1d99c-f3b7-40c7-b55c-088c0ab6d71c%26aref%3D8bSIVUmlka%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw&aref=8bSIVUmlka&sp_cr=ZAZ",
+      "link_clean": "https://www.amazon.co.uk/dp/B0FC1N3F55/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0FC1N3F55&device=desktop&engine=amazon_product",
+      "sponsored": true,
+      "badges": [
+       "Amazon's Choice"
+      ],
+      "thumbnail": "https://m.media-amazon.com/images/I/81u+7g9R+5L._AC_UF480,480_SR480,480_.jpg",
+      "rating": 4.3,
+      "reviews": 71,
+      "price": "£24.99",
+      "extracted_price": 24.99
+     },
+     {
+      "position": 6,
+      "asin": "B0FMFFW9W8",
+      "title": "LumaBrite Rechargeable Table Lamp - Upgrade 5200mAh Cordless Lamp with 3 Color Options & Stepless Dimming Touch Lamp Bedside Lamps Battery Table Lamp for Bedroom Living Room",
+      "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MTo1ODQ5NDgwNDI3ODIwMzExOjE3OTA3NjQ0NDc6c3BfZGV0YWlsOjMwMTM1NjQyODM5MzIzMjo6Ojo&url=%2Fdp%2FB0FMFFW9W8%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0FMFFW9W8%26pd_rd_w%3DiQg1j%26content-id%3Damzn1.sym.67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_p%3D67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_r%3DFBM4DP1M0ZGD0PCPHSH0%26pd_rd_wg%3DxzmLP%26pd_rd_r%3Dd4e1d99c-f3b7-40c7-b55c-088c0ab6d71c%26aref%3DfbZH8ZvFXS%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw&aref=fbZH8ZvFXS&sp_cr=ZAZ",
+      "link_clean": "https://www.amazon.co.uk/dp/B0FMFFW9W8/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0FMFFW9W8&device=desktop&engine=amazon_product",
+      "sponsored": true,
+      "thumbnail": "https://m.media-amazon.com/images/I/71729J6QfYL._AC_UF480,480_SR480,480_.jpg",
+      "rating": 4.3,
+      "reviews": 147,
+      "price": "£19.99",
+      "extracted_price": 19.99
+     },
+     {
+      "position": 7,
+      "asin": "B0BV1TN6GS",
+      "title": "BomKra Crystal Table Lamp, Dimmable 3 Colors LED Romantic Diamond Crystal Lamp, Rechargeable Touch Small Lamps, Bedside Nightstand Light for Bedroom Bar Restaurant (B)",
+      "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MTo1ODQ5NDgwNDI3ODIwMzExOjE3OTA3NjQ0NDc6c3BfZGV0YWlsOjMwMDUzMjE5MjIzNzgzMjo6Ojo&url=%2Fdp%2FB0BV1TN6GS%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0BV1TN6GS%26pd_rd_w%3DiQg1j%26content-id%3Damzn1.sym.67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_p%3D67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_r%3DFBM4DP1M0ZGD0PCPHSH0%26pd_rd_wg%3DxzmLP%26pd_rd_r%3Dd4e1d99c-f3b7-40c7-b55c-088c0ab6d71c%26aref%3DoUqoRlUAWK%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw&aref=oUqoRlUAWK&sp_cr=ZAZ",
+      "link_clean": "https://www.amazon.co.uk/dp/B0BV1TN6GS/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0BV1TN6GS&device=desktop&engine=amazon_product",
+      "sponsored": true,
+      "badges": [
+       "Limited time deal"
+      ],
+      "thumbnail": "https://m.media-amazon.com/images/I/71+ETSfF6FL._AC_UF480,480_SR480,480_.jpg",
+      "rating": 4.0,
+      "reviews": 373,
+      "discount": "-15%",
+      "price": "£13.59",
+      "extracted_price": 13.59,
+      "old_price": "null"
+     }
+    ]
+   },
+   {
+    "title": "Products related to this item",
+    "items": [
+     {
+      "position": 1,
+      "asin": "B0140WFL6G",
+      "title": "HomeLife Nebraska LED Storm Lamp with 15 Bright LED's / Carry Handle / Weatherproof Design / Variable Dimmer Settings / Energy Saving / Battery Operated - D1201CP - Copper",
+      "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MToxNTU3MzcwMjk3MTYzNjQ4OjE3OTA3NjQ0NDc6c3BfZGV0YWlsMjozMDA5OTI5MjQ0NTIxMzI6Ojo6&url=%2Fdp%2FB0140WFL6G%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0140WFL6G%26pd_rd_w%3DV2G1c%26content-id%3Damzn1.sym.1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_p%3D1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_r%3DFBM4DP1M0ZGD0PCPHSH0%26pd_rd_wg%3DxzmLP%26pd_rd_r%3Dd4e1d99c-f3b7-40c7-b55c-088c0ab6d71c%26aref%3D6UQk0vbtqD%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&aref=6UQk0vbtqD&sp_cr=ZAZ",
+      "link_clean": "https://www.amazon.co.uk/dp/B0140WFL6G/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0140WFL6G&device=desktop&engine=amazon_product",
+      "sponsored": true,
+      "thumbnail": "https://m.media-amazon.com/images/I/61O+rLf74vS._AC_UF480,480_SR480,480_.jpg",
+      "rating": 4.4,
+      "reviews": 1473,
+      "price": "£14.99",
+      "extracted_price": 14.99
+     },
+     {
+      "position": 2,
+      "asin": "B0H8YDJYV2",
+      "title": "Britalia Table Lamp, Glass and Metal, Gold and Ivory, Battery Powered LED, 19x19x30cm, Ivory Glass Flower Shade",
+      "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MToxNTU3MzcwMjk3MTYzNjQ4OjE3OTA3NjQ0NDc6c3BfZGV0YWlsMjozMDEyMDM1ODkwNjcxMzI6Ojo6&url=%2Fdp%2FB0H8YDJYV2%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0H8YDJYV2%26pd_rd_w%3DV2G1c%26content-id%3Damzn1.sym.1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_p%3D1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_r%3DFBM4DP1M0ZGD0PCPHSH0%26pd_rd_wg%3DxzmLP%26pd_rd_r%3Dd4e1d99c-f3b7-40c7-b55c-088c0ab6d71c%26aref%3D1Vsi7Q7etd%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&aref=1Vsi7Q7etd&sp_cr=ZAZ",
+      "link_clean": "https://www.amazon.co.uk/dp/B0H8YDJYV2/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0H8YDJYV2&device=desktop&engine=amazon_product",
+      "sponsored": true,
+      "thumbnail": "https://m.media-amazon.com/images/I/41IcZzZqNPL._AC_UF480,480_SR480,480_.jpg",
+      "price": "£25.99",
+      "extracted_price": 25.99
+     },
+     {
+      "position": 3,
+      "asin": "B09L78T81M",
+      "title": "One Fire Rechargeable lamp, Portable Light, Reading Light,Long Battery Life | 10-Level Brightness Adjustment, with 300 lumens of high brightness, for Crafting,for office ,for reading",
+      "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MToxNTU3MzcwMjk3MTYzNjQ4OjE3OTA3NjQ0NDc6c3BfZGV0YWlsMjozMDA4MjkwMTA2MjQ5MzI6Ojo6&url=%2Fdp%2FB09L78T81M%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB09L78T81M%26pd_rd_w%3DV2G1c%26content-id%3Damzn1.sym.1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_p%3D1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_r%3DFBM4DP1M0ZGD0PCPHSH0%26pd_rd_wg%3DxzmLP%26pd_rd_r%3Dd4e1d99c-f3b7-40c7-b55c-088c0ab6d71c%26aref%3Dg7EqpMmon0%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&aref=g7EqpMmon0&sp_cr=ZAZ",
+      "link_clean": "https://www.amazon.co.uk/dp/B09L78T81M/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B09L78T81M&device=desktop&engine=amazon_product",
+      "sponsored": true,
+      "badges": [
+       "Limited time deal"
+      ],
+      "thumbnail": "https://m.media-amazon.com/images/I/51W5KL75PCL._AC_UF480,480_SR480,480_.jpg",
+      "rating": 4.5,
+      "reviews": 11456,
+      "discount": "-21%",
+      "price": "£18.99",
+      "extracted_price": 18.99,
+      "old_price": "null"
+     },
+     {
+      "position": 4,
+      "asin": "B0BV1TN6GS",
+      "title": "BomKra Crystal Table Lamp, Dimmable 3 Colors LED Romantic Diamond Crystal Lamp, Rechargeable Touch Small Lamps, Bedside Nightstand Light for Bedroom Bar Restaurant (B)",
+      "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MToxNTU3MzcwMjk3MTYzNjQ4OjE3OTA3NjQ0NDc6c3BfZGV0YWlsMjozMDA1MzIxOTIyMzc4MzI6Ojo6&url=%2Fdp%2FB0BV1TN6GS%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0BV1TN6GS%26pd_rd_w%3DV2G1c%26content-id%3Damzn1.sym.1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_p%3D1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_r%3DFBM4DP1M0ZGD0PCPHSH0%26pd_rd_wg%3DxzmLP%26pd_rd_r%3Dd4e1d99c-f3b7-40c7-b55c-088c0ab6d71c%26aref%3DoUqoRlUAWK%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&aref=oUqoRlUAWK&sp_cr=ZAZ",
+      "link_clean": "https://www.amazon.co.uk/dp/B0BV1TN6GS/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0BV1TN6GS&device=desktop&engine=amazon_product",
+      "sponsored": true,
+      "badges": [
+       "Limited time deal"
+      ],
+      "thumbnail": "https://m.media-amazon.com/images/I/71+ETSfF6FL._AC_UF480,480_SR480,480_.jpg",
+      "rating": 4.0,
+      "reviews": 373,
+      "discount": "-15%",
+      "price": "£13.59",
+      "extracted_price": 13.59,
+      "old_price": "null"
+     },
+     {
+      "position": 5,
+      "asin": "B0D3SWQ6N5",
+      "title": "Aooshine Touch Table Lamp, Crystal Bedside Lamps for Living Room, Bedroom | 3 Way Dimmable, USB C+A Charging Ports, Bed Lamps with White Fabric Shade, UK mains plug, Bulb included",
+      "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MToxNTU3MzcwMjk3MTYzNjQ4OjE3OTA3NjQ0NDc6c3BfZGV0YWlsMjozMDAzODYxMTIyNTk2MzI6Ojo6&url=%2Fdp%2FB0D3SWQ6N5%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0D3SWQ6N5%26pd_rd_w%3DV2G1c%26content-id%3Damzn1.sym.1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_p%3D1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_r%3DFBM4DP1M0ZGD0PCPHSH0%26pd_rd_wg%3DxzmLP%26pd_rd_r%3Dd4e1d99c-f3b7-40c7-b55c-088c0ab6d71c%26aref%3D4I9kQ0T9Zb%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&aref=4I9kQ0T9Zb&sp_cr=ZAZ",
+      "link_clean": "https://www.amazon.co.uk/dp/B0D3SWQ6N5/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0D3SWQ6N5&device=desktop&engine=amazon_product",
+      "sponsored": true,
+      "badges": [
+       "Limited time deal"
+      ],
+      "thumbnail": "https://m.media-amazon.com/images/I/61LknHowmsL._AC_UF480,480_SR480,480_.jpg",
+      "rating": 4.6,
+      "reviews": 465,
+      "discount": "-18%",
+      "price": "£27.97",
+      "extracted_price": 27.97,
+      "old_price": "null",
+      "save_with_coupon": "You pay £22.37"
+     },
+     {
+      "position": 6,
+      "asin": "B0DP2Q7X38",
+      "title": "VIMAZ Cordless Table Lamp Rechargeable,Portable Metal Gold Table Lamps,4000mAH Crystal Lantern Table Lamp Touch Lamp,3 Color Stepless Dimming Battery Operated Lamp for Indoor Outdoor,Camping (Gold)",
+      "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MToxNTU3MzcwMjk3MTYzNjQ4OjE3OTA3NjQ0NDc6c3BfZGV0YWlsMjozMDA2OTQyODE0MTYwMzI6Ojo6&url=%2Fdp%2FB0DP2Q7X38%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0DP2Q7X38%26pd_rd_w%3DV2G1c%26content-id%3Damzn1.sym.1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_p%3D1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_r%3DFBM4DP1M0ZGD0PCPHSH0%26pd_rd_wg%3DxzmLP%26pd_rd_r%3Dd4e1d99c-f3b7-40c7-b55c-088c0ab6d71c%26aref%3DkVBkY3e6Vk%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&aref=kVBkY3e6Vk&sp_cr=ZAZ",
+      "link_clean": "https://www.amazon.co.uk/dp/B0DP2Q7X38/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0DP2Q7X38&device=desktop&engine=amazon_product",
+      "sponsored": true,
+      "thumbnail": "https://m.media-amazon.com/images/I/711SH98SXOL._AC_UF480,480_SR480,480_.jpg",
+      "rating": 4.5,
+      "reviews": 102,
+      "discount": "-6%",
+      "price": "£16.99",
+      "extracted_price": 16.99,
+      "old_price": "null"
+     },
+     {
+      "position": 7,
+      "asin": "B0D86WNWPX",
+      "title": "Candeldo Candle Warmer Lamp with Timer, Gold Flower Dimmable Wax Melt Lamp | Height adjustable, gift for women, mum, her, new home, house warming, birthday present, with 2 bulbs, for large jar candle",
+      "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MToxNTU3MzcwMjk3MTYzNjQ4OjE3OTA3NjQ0NDc6c3BfZGV0YWlsMjozMDEzNzUyMDg1NzI0MzI6Ojo6&url=%2Fdp%2FB0D86WNWPX%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0D86WNWPX%26pd_rd_w%3DV2G1c%26content-id%3Damzn1.sym.1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_p%3D1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_r%3DFBM4DP1M0ZGD0PCPHSH0%26pd_rd_wg%3DxzmLP%26pd_rd_r%3Dd4e1d99c-f3b7-40c7-b55c-088c0ab6d71c%26aref%3D1QWon95Vwx%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&aref=1QWon95Vwx&sp_cr=ZAZ",
+      "link_clean": "https://www.amazon.co.uk/dp/B0D86WNWPX/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0D86WNWPX&device=desktop&engine=amazon_product",
+      "sponsored": true,
+      "thumbnail": "https://m.media-amazon.com/images/I/71oofg15fdL._AC_UF480,480_SR480,480_.jpg",
+      "rating": 4.5,
+      "reviews": 151,
+      "discount": "-39%",
+      "price": "£16.99",
+      "extracted_price": 16.99,
+      "old_price": "null"
+     }
+    ]
+   }
+  ],
+  "product_description": [
+   {
+    "position": 1,
+    "title": "Table Lamps",
+    "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4ccb0b13-ad73-4d49-977e-ee77534b78ae.__CR0,0,970,300_PT0_SX970_V1___.png"
+   },
+   {
+    "position": 2
+   },
+   {
+    "position": 3,
+    "features": [
+     {
+      "position": 1,
+      "title": "TOUCH OR SWITCH CONTROL",
+      "text": "Choose between touch or switch-controlled styles.",
+      "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e3d1b3b2-44a6-4801-95ef-3f4eefaccbd4.__CR0,0,3000,3000_PT0_SX300_V1___.jpg"
+     },
+     {
+      "position": 2,
+      "title": "VARIOUS DESIGNS",
+      "text": "The lamps come in a variety of stylish designs.",
+      "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7bc11ca4-eb12-4a43-ada1-630fbb6bfddf.__CR0,0,3000,3000_PT0_SX300_V1___.jpg"
+     },
+     {
+      "position": 3,
+      "title": "BRIGHTNESS SETTINGS",
+      "text": "The touch lamps have three different brightness settings to choose from.",
+      "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/390a85e1-aa4b-4f5b-bbef-0cba83590950.__CR0,0,3000,3000_PT0_SX300_V1___.jpg"
+     }
+    ]
+   },
+   {
+    "position": 4,
+    "compare_with_similar": [
+     {
+      "position": 1,
+      "asin": "B09V8B1X2Z",
+      "title": "Sarav Lamp",
+      "thumbnail": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a32ac1df-594b-4f67-9cbe-46068049ebb4.__CR750,0,1500,3000_PT0_SX150_V1___.jpg",
+      "link": "https://www.amazon.co.uk/dp/B09V8B1X2Z?ref=emc_s_m_5_i_atc",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B09V8B1X2Z&device=desktop&engine=amazon_product",
+      "rating": 4.3,
+      "reviews": 10,
+      "price": "£24.90",
+      "extracted_price": 24.9,
+      "other_anika_products": "✓"
+     },
+     {
+      "position": 2,
+      "asin": "B09ML21144",
+      "title": "Crystal Table Lamp",
+      "thumbnail": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0fd88ae4-f815-478c-983c-acaec1ee7902.__CR750,0,1500,3000_PT0_SX150_V1___.jpg",
+      "link": "https://www.amazon.co.uk/dp/B09ML21144?ref=emc_s_m_5_i_atc",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B09ML21144&device=desktop&engine=amazon_product",
+      "rating": 4.4,
+      "reviews": 14,
+      "price": "£19.99",
+      "extracted_price": 19.99,
+      "other_anika_products": "✓"
+     },
+     {
+      "position": 3,
+      "asin": "B09MKVJW6H",
+      "title": "Oval Table Lamp",
+      "thumbnail": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/723894f1-2017-4899-a94f-a0386a2ab246.__CR750,0,1500,3000_PT0_SX150_V1___.jpg",
+      "link": "https://www.amazon.co.uk/dp/B09MKVJW6H?ref=emc_s_m_5_i_atc",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B09MKVJW6H&device=desktop&engine=amazon_product",
+      "customer_reviews": ".aplus-v2 .aplus-review-right-padding { padding-right: 0.1rem; } —",
+      "price": "— no data",
+      "other_anika_products": "✓"
+     },
+     {
+      "position": 4,
+      "asin": "B09MKMSRW9",
+      "title": "Opal Dome Lamp",
+      "thumbnail": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/82757783-7b8e-4dd2-9722-17e855a623a0.__CR750,0,1500,3000_PT0_SX150_V1___.jpg",
+      "link": "https://www.amazon.co.uk/dp/B09MKMSRW9?ref=emc_s_m_5_i_atc",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B09MKMSRW9&device=desktop&engine=amazon_product",
+      "rating": 4.1,
+      "reviews": 352,
+      "price": "£22.99",
+      "extracted_price": 22.99,
+      "other_anika_products": "✓"
+     },
+     {
+      "position": 5,
+      "asin": "B09MKY9P1B",
+      "title": "Crystal Sphere Lamp",
+      "thumbnail": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f61a9d81-bc52-4e52-9695-4e97ec05a361.__CR750,0,1500,3000_PT0_SX150_V1___.jpg",
+      "link": "https://www.amazon.co.uk/dp/B09MKY9P1B?ref=emc_s_m_5_i_atc",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B09MKY9P1B&device=desktop&engine=amazon_product",
+      "customer_reviews": ".aplus-v2 .aplus-review-right-padding { padding-right: 0.1rem; } —",
+      "price": "— no data",
+      "other_anika_products": "✓"
+     }
+    ]
+   },
+   {
+    "position": 5,
+    "title": "ASAJHC",
+    "image": "https://m.media-amazon.com/images/S/aplus-media/vc/6db2b5ba-36a2-461c-82d2-fabdd35dd5eb.__CR0,0,970,300_PT0_SX970_V1___.jpg"
+   }
+  ],
+  "product_details": {
+   "brand_name": "Anika",
+   "number_of_pieces": "1",
+   "unit_count": "1.0 count",
+   "manufacturer": "Benross",
+   "global_trade_identification_number": "05025301624804",
+   "country_of_origin": "China",
+   "included_components": "1 x Hurricane Table Lamp",
+   "item_type_name": "Anika 62480 Hurricane Table Lamp with Touch Activated Base / 3 Brightness Settings / Easy to Install Bulb / Antique Brass Effect Base / Mains Powered / 28 x 12.5cm",
+   "model_number": "62480",
+   "manufacturer_part_number": "62480",
+   "manufacturer_warranty_description": "12 month manufacturer.",
+   "best_sellers_rank": [
+    {
+     "text": "2,710 in Lighting (See Top 100 in Lighting)",
+     "extracted_rank": 2710,
+     "link": "https://www.amazon.co.uk/gp/bestsellers/lighting/ref=pd_zg_ts_lighting",
+     "link_text": "See Top 100 in Lighting"
+    },
+    {
+     "text": "126 in Table Lamps",
+     "extracted_rank": 126,
+     "link": "https://www.amazon.co.uk/gp/bestsellers/lighting/3764796031/ref=pd_zg_hrsr_lighting",
+     "link_text": "Table Lamps"
+    },
+    {
+     "text": "4,584 in Kitchen Tools & Gadgets",
+     "extracted_rank": 4584,
+     "link": "https://www.amazon.co.uk/gp/bestsellers/kitchen/3147491/ref=pd_zg_hrsr_kitchen",
+     "link_text": "Kitchen Tools & Gadgets"
+    }
+   ],
+   "asin": "B007LZ05IE",
+   "customer_reviews": "4.4 out of 5 stars",
+   "rating": 4.4,
+   "reviews": 1156,
+   "colour": "Brass",
+   "theme": "Antique",
+   "occasion": "Home Use",
+   "item_dimensions_l_x_w_x_h": "49L x 49W x 110H millimetres",
+   "item_weight": "0.5 Kilograms",
+   "item_diameter": "12.5 Centimetres",
+   "material_type": "Metal",
+   "finish_type": "Polished",
+   "mounting_type": "Tabletop"
+  },
+  "sponsored_brands": [
+   {
+    "position": 1,
+    "asin": "B0FKBCFRPH",
+    "title": "MMOBIEL Cordless Table Lamp Rechargeable Metal LED Lamp with Touch Control, 3-Color Dimming, USB-C Charging, 5200mAh Battery for Bedroom, Restaurant, Bar, Patio, Indoor/Outdoor – Gold",
+    "link": "https://aax-eu-zaz.amazon.co.uk/x/c/JCBBybntEPNzhtwkDLW7jkcAAAGg8eD2eAoAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICA51f8m/clv1c_ek-wBff3Vcba5nIqeEZvQWgzhLK70PBP6p8cjn63DgYQpgK2ZP8o890s8H4g-MHGg77laar_yGO5dtD3TzI0YPCl5OdJbed2GR-p77UqxE_6O4A86hzqL0B4Azv0rz6xX7s7-h_yGS5F5_39X4W22MBaoNn0ZrWDwgQyzCWznL6vOA05fEoYdMIiO5itbRMvonJ7oxMr_sZImmHzr1STYH6CJVl8xa_bMjJX_H4rpsZWKQGY567f5PEYXd0AoNNA4dJcWAIDKV2Qez1Pw9-wiqdIsVxpoUQpR-Y55z0AHRhoSoTPN75nBYaX9JWCwzBuh3cbyPtOvMDbBKcAUcWqVwP3sZSVdLQW7Ri3Glp5s_kHvzc_5oebxwIzTl5BvxKPU_WL5GXpIENif2zX3SugpeJAiU1tE8-xJYMLMiDKEXlftL4qPi4eNZgY9uncxP7bN7vyFBz7rs9jYgG8u7WIREusnBKnadd-1SPOqZJPDKZZbEWxRWyALxmFsabiAoW-ozOq_VlBvnHCkL2tiPzBdW4BED1qbDfSkOSHwESrtsz1-2Ydn0l-z5FBChqXJUqz1-H-1yaO8fu9j41_qk1aWkojf0KgOU1x_3iuH_oJj2JvaSB6HYvqO9_ETzwztvs9eRh41om50OSaEcMIf6OIFQbNs8bk7oXdazUSXKX4th5O6TPirUbM0gOlBFQkh6SlDwG-x8_ggC8QOg8KBIlYbbkDrIPAqxagA3I9olTVw853zie-AGJIknaNoO4x-MKOsvRhAxGs_7fJ8HOSv3LbwiFpGe-vbFnWvsv6IXJ_0wNEJc-jrNZH27aBt9W5rAv-nL_0OpUMt5rBXlGgXTH07eULWvBnexc3VylTr7P-ynNO5tUtWIKAMegCkCF_GpkHNaKdfvRhZYotfQsEvmgBBL5D4ErKp68KVLXTRb2MjvsOl6Cparf94WovcN6oM34gXbcBYrLQ2jKCxiCy1rbqdIy4ZSoJM_Zq4AbAJuOZzMfNr_BvNRpWQiaC_yn2mgJvO8P4fbYJnunORQG2TxHsa3m-7TQekDYSkiu6cFznc9T7gaIVexEcNLDQz0UkF3wekb31851uQjlrRLc4DPtGKr4bl9EidaFZmrfT4H8_hlWP3aluQcvRYyZle8i5yJZ60qKftPHqX4SVVTjx5ayAVI_iLrWNtl9CbI3KbM7yBBf8UDBDqD6Vg9hwOj5c6N2Yascl-4u-IX_GJetcjxU-siu-cjiirVskXMuUV17l7g-duy3XqqqDO3fZ7sr6GALaQjeUd4plMulYAGEOf-ebloPjvmAlrKWSylp0ZwOT_tLnc1sainNG9Hu0P6e1R9u4jl9JkAS6tENqW6JI7Dto9jVuQbvmheQckxCOXDHD5hlfPTS3taIuo36AqMrkGRbC3AZkNp3lEHIqXfZFIBxqfx8MCuu9XkRuWdhCwaBt48NDysA2mN0UNl7P/https://www.amazon.co.uk/dp/B0FKBCFRPH/?_encoding=UTF8&aref=aJRMHnxBXi&pd_rd_i=B0FKBCFRPH&pd_rd_i=B0FKBCFRPH&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=5dFeP&content-id=amzn1.sym.fa3ea19a-f924-4ac4-867b-bbb541898b0c&pf_rd_p=fa3ea19a-f924-4ac4-867b-bbb541898b0c&pf_rd_r=FBM4DP1M0ZGD0PCPHSH0&pd_rd_wg=xzmLP&pd_rd_r=d4e1d99c-f3b7-40c7-b55c-088c0ab6d71c",
+    "link_clean": "https://www.amazon.co.uk/dp/B0FKBCFRPH/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0FKBCFRPH&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/31B-yLt8dhL._AC_SR100,100_QL65_.jpg",
+    "video": {
+     "link": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/75b46e9d-31a5-4efe-a991-bc3d57284f07.mp4/productVideoOptimized.mp4",
+     "thumbnail": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/75b46e9d-31a5-4efe-a991-bc3d57284f07.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+    },
+    "rating": 4.4,
+    "reviews": 70,
+    "price": "£24.99",
+    "extracted_price": 24.99
+   },
+   {
+    "position": 2,
+    "asin": "B0D3SWQ6N5",
+    "title": "Aooshine Touch Table Lamp, Crystal Bedside Lamps for Living Room, Bedroom | 3 Way Dimmable, USB C+A Charging Ports, Bed Lamps with White Fabric Shade, UK mains plug, Bulb included",
+    "link": "https://aax-eu-zaz.amazon.co.uk/x/c/JNvmi1biVMaznctQtAd8XnwAAAGg8eD2eAoAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICAlxGRg/clv1c_ek-wBff3Vcba5nIqeEZvQWgzhLK70PBP6nNAqiVHNbmFUTqiDF-oFBdZP4kh91p66VvM2UugARn9maFvpryRpytvgjz8t_cxVzl3fRHGVP2-ypdmEJNbk_yY4_1joD4RlAqt6yYubu0bWi216TlsWcHYr_XEtnWq0kXywSnKZOb-me3kRVe5ruR2YhpjBxUkBspRbh8T_-cJVat4uXjcufzOGEc5R4tUiCj0uAzoEQzeeJr8YYi1vKizv9s29MfvAZ0DhJDtRx8QPUW02Wlj2DiRNINgpcimDW1syYyoq7C9HPpvgcj8QPyn3szTFXSbpuonBcsI43SrNJAb0_ccP5atYD4i8rvfUWT4MPYROxZS9uMGMXPDlAn3aZD6OtoQpB7P1KmPFh-qEvFRYj2Z3v9uVEtGJAe42ynH17pmsqpSkxlr2JY6jjvZ_5YdaHg1vRYXUnHJpgjYHeKG-y9iIJkKBGdgwpDZPSVuyz-rLoXQQhyJ2wQiaw7zFNxcGmkJwM01Q_IZFQJXRWRpX813vOPLaNy4xOMPSLSEuGRErgkdc5XL6Z4SE0tyWyR03-HCw-tSG4kWMfu0uQ7_p805XtLsesdO6kxe8fa9nEHQNa8PtKNIFUx52iw44OY09Vu62CN2xrG5zGeEFzC3Dvt2F919yzV7_dJ7SaQRF8WqWDORratSTMrb5Hy_xOvtL00tt66-MN4xYe47MyFZ1NehlhhHrNJjJ0XQq3Ye8tQNhr-rZiLjq-OVSvRuSbmWTAOziY5PJuviig4v2nkdPjQ4doO4vDU35wiLZekXa0gPvlaDL9JMdMsUpto-ZPTfcho2G4t43cSugXuTXOXOvD6Agv_JyyOlFo0E-u0f6p2DpCgM8NW3I_7cLFGhYqbH2OFAZsvYywFhkai25OjTKp6jrX5kANzlW86N2k6OMCJxssFh3w5aqZkxV9XRahGNZATiP8Axl59LLfzYH1mEDKPWdSr4lOEzBLOFXSjWewnnsSuBiXWu15Npd-C0H__KKvauKRjfTTJIBgwcEKol9pl6O47szDGVILnwTBvFVB_JuiL-W5Yn9Azgr-6TynNiFH-tKxYQ8IBIBeBgrSkZx5tnYd_z_x4bfeC-9KLKnnZIL0s2uPzw4VhGTvna_yoNazsDltFMWvl4ZMhP4iQ_5pKsfMqL-P5xV8quTS4yAmUC5IR4_Nh9zLanA7HzpqueV3cMQv9sLVN0eSusHr_f8D_9Yps1-3gKAv1QlZbwhpbpgXNIZmhDYIVbS6Mwu1o99TVz0S9mgZjzvhXwbCBZZCcms5erV0tewtqO7rd4t0VgPRXJAAHkHu_j-5nvjSJWFQkAHUpHJ9cJj2VaGFHIoGbk6vciYkJHf_H0WpYvmFGeWVEBFHclkvc2zAGjfVBnUqYl8pQDZwNi86I9dW3agBjd3p4NLaaqlnYmX39krg67_HoNjcU/https://www.amazon.co.uk/dp/B0D3SWQ6N5/?_encoding=UTF8&aref=zm99lqK3N0&pd_rd_i=B0D3SWQ6N5&pd_rd_i=B0D3SWQ6N5&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=5dFeP&content-id=amzn1.sym.fa3ea19a-f924-4ac4-867b-bbb541898b0c&pf_rd_p=fa3ea19a-f924-4ac4-867b-bbb541898b0c&pf_rd_r=FBM4DP1M0ZGD0PCPHSH0&pd_rd_wg=xzmLP&pd_rd_r=d4e1d99c-f3b7-40c7-b55c-088c0ab6d71c",
+    "link_clean": "https://www.amazon.co.uk/dp/B0D3SWQ6N5/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0D3SWQ6N5&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/41NtSlSe4OL._AC_SR100,100_QL65_.jpg",
+    "video": {
+     "link": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/f2ee4cc9-c66d-4e69-a116-08f9d21787a2.mp4/productVideoOptimized.mp4",
+     "thumbnail": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/f2ee4cc9-c66d-4e69-a116-08f9d21787a2.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+    },
+    "rating": 4.6,
+    "reviews": 465,
+    "price": "£27.97",
+    "extracted_price": 27.97,
+    "old_price": "£33.99",
+    "extracted_old_price": 33.99
+   },
+   {
+    "position": 3,
+    "asin": "B07G98CLW7",
+    "title": "HOMCOM Industrial Tripod Floor Lamp Adjustable Height E14 Grey and Bronze | Nautical Searchlight, Wood Legs, Living Room, Bedroom",
+    "link": "https://aax-eu-zaz.amazon.co.uk/x/c/JKlTcedZMjikrrqeqClLv2YAAAGg8eD2eQoAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICAMvHSs/clv1c_ek-wBQf2UsbWBg0qe_kgDjpZAqqxLkSFWabcaxJoM9aLeViYpCiApf6QNkUQx2mgl0G2F7EuOuiBeu798H7vdk5Y-wfk_18Pvyyofs_FWPzwA_BJhCmPGkjAYjnzo2kzQZg6fChCsbfn3qvz8XnnkzGbpM_M9pVpFcrl4zUKnIecXnwrmui-VRw6Vpht_-3WrgDTgFXDb8fqVWFttVuwiuQ5dXVPCMgwRbPgEqizHMpdf8-3GcTaWDTyieOI8WTRXQ4HPKJnNtmduUTqho6E3AmMUS1wUZB-A_EpJdH9e-WgGHljtd-sDBoDsEVMO89MPRTKhu6cdh-dcuAk67zZh1s3J_TVSnUFjwiacpc4LouepQKzSB-I3cvTgweqg2X906OEbJvwL3rkt_BOUkM42sc9uy-KJUh-1C-tsLvOUMkDeiNd0KwMdqdK_KL5F2uGxGbJ8ynYAdyXfcl3SYDayoIEdTzjJs58B5fZw3ExoO3IA5e2jCVygHHEa7vSRF4NnoD3gICb1k2wor8SANIshdGaBCgUPO5LnJhUKutcbSkZuiOEHJZt5sNfLu-br376PChxVNf9m0djyfN0JvlCRsg-s0W3KQ76Wg-2TWKcy6lXCSfarLthdEUbF_OvaQ3c3W3DiaXpuSxOXXMtlclyJk_bJuuX4-TtdsTkufRhbtqykhiW9UuwR4m2VkicLg4QIO1ipVzGN5GjpfXImN6cbP_m9ewDtkZS38bbfzMmkeJ9CPfon75Bs9N6kHlmfgu1djq4VeJlrgFcm-tXXp2LiwwR7O342B3HzAIuUo0b0zFIbw8fxGRQrNV5AZYDljKjQQ9CA183p5OevA1UPgKGpZ3cUYwC8KpK98OuZl1MDiC4-OKh5Ogpw_hjb7VRTJTVsnhvYSWaQZktk-yWfE84DmY74MoL94mC5bZYNTztHnE4AAJXsax74pDqsc9Qj4bMqmpJoWYhLsV0SOfklokusC9Hu8ntYiKSnlTlWXvSsvgRhIscnFaicEOsp9-gcmeWkWxkzqq309fwbdEs4bmFGj1yXXYr7CXsV79n77V6M7oGWBgKhpEkrStgxtBbOOLTD1HcizoZjK-aUJkO1iBFWit4-dMe_c8RNTLmR7DibjUFWFrNVL5_RBSDcZG4ppbdOabJUawD2dbae_iT8d8ZDhznXOiB24YWGQ_L7XDd0u6wjw4t0Gy9AUXOFavk3miU7oQQ_vf_ULNIpLpgda6LiMUdrlJATbyIw-Ljv5WAxJmYUFQlopFlUM1YS9UscD5zxfe-RsAURlC8IDpZpqT95c7j8lqdQWTViVyUm3CbYhFNyLEM2XpdLx7jZKPhoecUIctj9xvLZtMc63UdRMaM8CVal94jPocPbLRGchBhgfRJAdvFA9zoM5yjmS3yLF65K5d9hlPYkKxhmXVrkV0rAVVvA6Skk8p41-B0K64oZEpw8nyK/https://www.amazon.co.uk/dp/B07G98CLW7/?_encoding=UTF8&aref=wya8geKvXI&pd_rd_i=B07G98CLW7&pd_rd_i=B07G98CLW7&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=5dFeP&content-id=amzn1.sym.fa3ea19a-f924-4ac4-867b-bbb541898b0c&pf_rd_p=fa3ea19a-f924-4ac4-867b-bbb541898b0c&pf_rd_r=FBM4DP1M0ZGD0PCPHSH0&pd_rd_wg=xzmLP&pd_rd_r=d4e1d99c-f3b7-40c7-b55c-088c0ab6d71c",
+    "link_clean": "https://www.amazon.co.uk/dp/B07G98CLW7/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B07G98CLW7&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/31KO5ABAJfL._AC_SR100,100_QL65_.jpg",
+    "video": {
+     "link": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/d1fcf392-6fc2-4bf8-946a-357555412d75.mp4/productVideoOptimized.mp4",
+     "thumbnail": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/d1fcf392-6fc2-4bf8-946a-357555412d75.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+    },
+    "rating": 4.6,
+    "reviews": 368
+   },
+   {
+    "position": 4,
+    "asin": "B0FN3L64YC",
+    "title": "Hapfish 2 Pack Rechargeable Cordless LED Table Lamp, 5000mAh Battery Lamps | 3 Color Modes, Dimmable, USB Desk Light for Dining, Bedside, Indoor, Outdoor, Living Room – Black",
+    "link": "https://aax-eu-zaz.amazon.co.uk/x/c/JGtqwmczH63T6O2GgUXMqGkAAAGg8eD2eQoAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICA_j8lL/clv1c_ek-wBfGXVcba5nIqpV0Qfw-ucU1C75d5sOd0uvq2yjWc4WD-8B6xTIrRczYqchLR2Vc-A2nH_UrmNe3G2zreZHTh8aLz4orxbJoEAM6FGtRSjRSaJ_xaLa78-s8AvrIV3wARMnazt8BRDthJ88C4sZHZoo08txWK0sL3yH_ujOaeW6jiBjK8vObuJaw9r0d0z0ZlQXuK3obGQu7whxBOUAKx7XOpgp-LIjT3LhYUKTfmzdZHcUVOwvAnQwV6Aq_YLCqcPOVymnPW80zjGiNqVzvgvLsPMb5UpC7hd6WWod4HynacAiPIUinWOz_CycAyB7YBUrBl_3sAVp_dT6Fr98VpsHqPSnRjaMXeVsTGK98dGGj7-wRZjXc5m9CHvgAl_5d-9o-OGRTRhpYIlFPOREe_9CauitvhhIKru-OpBH-eA4sRiW1u56NvZ_xC0ycsL6Twqh80V7rsDo8fvJyRHMMFL1txMrWJ6OK3Jb7UiXSTd0HGVMwsP8MIu9FZySWc2fyaSn90LYhKFclBWkFYkLkn3tTAV0fCP40PJ_snJbE_MPdChTwMBOBDG3H6c-mC9FYeMcsCM3v6rk2ElOAlxYSSV45xdngKqDIX2HjPYbPInm9JE89Hs_zcyE1cZsEMUSC_952IYr9ehaAUesOeF2bVsP5rZoddagUaa5ih2U250sD6oIomcw8j5XLsV2a7fzhL2qIAbL5vtbraQAcr5o5IiiCuoDq7AwN0A4m2r8ffW09bx5P7AdSI6TglU3SXDGl1Hdz86YZx6VXYczE1QUB8JpJWswSSjZovG8YcLfCbFlQ0YLDnHIlBX74TMQnR2S45ibXtL4ZWO8SqTXVNkeoN3uatKCQqI-zEfXCk3LWG1Xhus-opd4dzai7rvE2VyC8Un2_J991B_oEONGGxcFSgR5q60in11vQUH7suWp3yA90zkhPyfmFmSEdmeBLh-c-5wRZBV6h-qwYAj4HIPItu37DvZG-7K_lhO0UTY0T4rRjcFmSXWF1yjjTxv9ty5TZiyE0z0ZYUJ4O15q6DH8OD3qgR_EXTRqiJVt1hSxxRE_-kTBjvP0tGnpMjjM4AGtQVzd5lZm8SMeqzOsOsopZi7_GC3oSD-MJWpXGZ7EofoTUGlhm5VBi5UQC-v2QOF3E-ifwrAWso-T1cormCdpq-XMwdLUyEpZL8OAtSWlpBxdnXU0oquKeOnkR1Q3gc86MhugExSPB-wfes1COV0bvMmVFvHEJbm2HlPujXCHDziV-lBqIIjopfb_uW12WboWASkgRuMEixy7R2wj5UlwvTnHLAZVbEnRvTo6d26VMrGQ4UihVmfTqtsyQKmBKzxOM_vq-zKeXic51BsghYC_g_9nbaT0hMhPNEkZ0P5b6Rx9DGqbuv3h3lB-nnogjazJCaQezsGhcXgiKU-6D38qoCK61RUHFCUMoULWI_Fq5ew1WOobaaxWheyNy1Ng/https://www.amazon.co.uk/dp/B0FN3L64YC/?_encoding=UTF8&aref=l70Dh5Kutb&pd_rd_i=B0FN3L64YC&pd_rd_i=B0FN3L64YC&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=5dFeP&content-id=amzn1.sym.fa3ea19a-f924-4ac4-867b-bbb541898b0c&pf_rd_p=fa3ea19a-f924-4ac4-867b-bbb541898b0c&pf_rd_r=FBM4DP1M0ZGD0PCPHSH0&pd_rd_wg=xzmLP&pd_rd_r=d4e1d99c-f3b7-40c7-b55c-088c0ab6d71c",
+    "link_clean": "https://www.amazon.co.uk/dp/B0FN3L64YC/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0FN3L64YC&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/414KNyVS36L._AC_SR100,100_QL65_.jpg",
+    "video": {
+     "link": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/00d761ae-2ad0-451b-a5da-b743556d82ec.mp4/productVideoOptimized.mp4",
+     "thumbnail": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/00d761ae-2ad0-451b-a5da-b743556d82ec.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+    },
+    "rating": 4.7,
+    "reviews": 303,
+    "price": "£50.99",
+    "extracted_price": 50.99,
+    "old_price": "£59.99",
+    "extracted_old_price": 59.99
+   },
+   {
+    "position": 5,
+    "asin": "B0DYJD5FXQ",
+    "title": "Yinglap Rechargeable Cordless Table Lamp,5000mAh Battery Powered Lamps | Dimmable Magnetic RGB Bulbs & Remote, Wireless Small Touch Lamp for Living Room, Restaurant, Bedroom, Bedside - Black",
+    "link": "https://aax-eu-zaz.amazon.co.uk/x/c/JOxhwE1nk39Hd1EUo6-gOs0AAAGg8eD2egoAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICA4pKpF/clv1c_ek-YBYv3UsbWBg0qe_kgDjpZAqqxLkSFWSaoR0_LFdOLeToynIYm864H-E-y7UGEXXCY9mcDYeiBeu798Pxq7V8rGuMtb2bU9QXAlq8gv0AGyQnaRnw4PJl85vJkHkJR1QM5TKhfSJukM9wle2aapJEPw00dklnymtSgb7cpy5I1-Rt93UTn7FzJEEq6YJ25hSVLNwFRAMTK0uv7S1r6EhrXVA1bFFa6kQnxMYs86yIqDaVNiR9ER-7PvVLK5u4y92sdUEWWTxFfxr03NzSuREUDoUBBcdHNZKQD2izkOBSjRw3zBvbWoX6qTrIa6TVkY5FatTDUka0yjoDYH91pV6HHps6ozd_dg_u2J9Si2OTgkIKJeZnhocpbSHsOop1i6fU1Fowh8YYjW6NCDBfwJHTRwiVMFBGDo10J4J85lNUEpO_JWqo2gBjCuSRLpiwhCqWOYEqUtmGnZktLsNE0nIeYQoBCyCaH6tSxsJxkokdOXF0js5sWZ817s-QFl5dpvkKgMQzy6JDUnO2zaj2fVcV3sZO6LrIa9eNux01_EmlkJ5sCNueM27LuLJ4_PFBhHZSOe7PkOZeRuflInMkJiVSbc12Z4u9_-yRurZMk_ygODfAeu2rhKn-powV15UgN64buE8houOx_siql9KFPc8dqJkCLrEnCqXlOu_NTV32Q5kbfX3lLBjoAUcKpGlv164MFFGiZ2Apn-3lfwJBUpIxq_F9YSEd883ZwTD4MDQjdEcfBWuKhKsRGlPMaptCPSLvZNp-2qaIp75BdaGbKta8oG7h5X-Ax4uIHLrc52cp7upjAUKOyNcVZYF4z9IWLfem2MKcuumhxnvdWI7RZtX_fTyqb339VyWBUcovLGuJHMElLwjvSFNRtidYCuuAM0ICbgNHlibXe7EWtBo-sHgNsVzR64dW6xnehPZpxaPQxlh1Kwnoqhw_HZXPRN9tzcWA39CuRFGtDpEMPU3p2GsRdgD_KKgO-Xx2l9iRnM4XtDNAMwCo3euvgzQiiMVsDnXsQNGVAc8ysyF4XPBz8VOnzs-rZKzBKg0ZDKDVNA6zJIryCXijeslVjynWOLfZ4dGF8qQhhFH4lwlCiibUCikpdLS6-HBUHWrvJKYtn4amUDMCJzrWccwNSqaVVHFEeQ_YRmSm--QwYC_jJ37cEE2k_ME-lMEXjezbpJiCZkzn-1eg_XVAVstDd-mzXRx6r3pG5pHn4lMV57c9R7rQc6RnMEx76pEBtAKdbiq75R_AM8WBBbNR0RZL3rZrX6WG0VUXs3xTjkMviJymYY2yltcfqgs9BdpIu1HacZNekHwhIuLJLDbzwqmywChlb5Jeg4mVS7k76Ex4SfZG9QRTTMaGY9UWbZcDBDG5-pH5TxLTdZyptVoa0cJ_FGaqA4j7j0Ai4mK8wqZNnb2SoHoW2VvPo-C3xQ-c/https://www.amazon.co.uk/dp/B0DYJD5FXQ/?_encoding=UTF8&aref=jvtbUcmoy1&pd_rd_i=B0DYJD5FXQ&pd_rd_i=B0DYJD5FXQ&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=5dFeP&content-id=amzn1.sym.fa3ea19a-f924-4ac4-867b-bbb541898b0c&pf_rd_p=fa3ea19a-f924-4ac4-867b-bbb541898b0c&pf_rd_r=FBM4DP1M0ZGD0PCPHSH0&pd_rd_wg=xzmLP&pd_rd_r=d4e1d99c-f3b7-40c7-b55c-088c0ab6d71c",
+    "link_clean": "https://www.amazon.co.uk/dp/B0DYJD5FXQ/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0DYJD5FXQ&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/213Y0NdkUkL._AC_SR100,100_QL65_.jpg",
+    "video": {
+     "link": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/25eb0372-4066-41fc-ad49-99713cd7a43e.mp4/productVideoOptimized.mp4",
+     "thumbnail": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/25eb0372-4066-41fc-ad49-99713cd7a43e.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+    },
+    "rating": 4.5,
+    "reviews": 272,
+    "price": "£21.27",
+    "extracted_price": 21.27,
+    "old_price": "£27.99",
+    "extracted_old_price": 27.99
+   }
+  ],
+  "reviews_information": {
+   "summary": {
+    "text": "Customers find the hurricane lamp to be of good quality, with a decorative acrylic feature that doesn't try to be showy, and appreciate its different levels of brightness that are dim enough for nighttime use. The touch base receives positive feedback for its functionality, and customers find it easy to use, with one noting it's particularly suitable for elderly users. While some customers say it works very well, others report it doesn't work properly, and durability is a concern as customers mention the glass shade being fragile and prone to breaking.",
+    "insights": [
+     {
+      "title": "Quality",
+      "sentiment": "positive",
+      "mentions": {
+       "total": 177,
+       "positive": 157,
+       "negative": 20
+      },
+      "summary": "Customers are delighted with the quality of the hurricane table lamp, describing it as fabulous and excellent.",
+      "examples": [
+       {
+        "position": 1,
+        "snippet": "Nice lamp. Would have liked a larger version though as we needed a living room table lamp and this is more suited to a bedroom....",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/RWGEEP88QDKZA"
+       },
+       {
+        "position": 2,
+        "snippet": "Love it. Touch sensituve so you can control how bright you need it.",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R1JUMUO5D3WLJ"
+       },
+       {
+        "position": 3,
+        "snippet": "Item Returned, due to no longer being needed, but was of good quality. No issues with return...",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R1B9DX4AEXZGAP"
+       },
+       {
+        "position": 4,
+        "snippet": "A great lamp ,I have got it on my dining table looks brill size just fine and brightness is great easy to put together great value for money 💰 to...",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R3CB8FFBHG3HFA"
+       }
+      ]
+     },
+     {
+      "title": "Appearance",
+      "sentiment": "positive",
+      "mentions": {
+       "total": 152,
+       "positive": 149,
+       "negative": 3
+      },
+      "summary": "Customers appreciate the lamp's appearance, noting that it has a decorative acrylic feature and looks quality without being showy. One customer mentions it resembles an oil lamp.",
+      "examples": [
+       {
+        "position": 1,
+        "snippet": "A lovely lamp and really handy at night. But the significant fault is the fragile glass shade. I was always careful, but after 2 years, it broke....",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R2POIN65ORX69M"
+       },
+       {
+        "position": 2,
+        "snippet": "Good light emission. Looks good. Perfect bedside lamp. Check size as it’s not very big but we are happy with this product. Good value for money.",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R2PUU75B4WLFIE"
+       },
+       {
+        "position": 3,
+        "snippet": "...How wrong I was . This Lamp is beautiful and looks good quality. It fits perfectly on my bedside table . Love love it",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R1K0RJX44DCBFY"
+       },
+       {
+        "position": 4,
+        "snippet": "Lovely looking lamp, only problem is that when you put it on the brightest setting, the light flickers, so can only use them on the lowest setting,",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R375HCF7OHOKV7"
+       }
+      ]
+     },
+     {
+      "title": "Brightness",
+      "sentiment": "positive",
+      "mentions": {
+       "total": 60,
+       "positive": 54,
+       "negative": 6
+      },
+      "summary": "Customers appreciate the lamp's brightness options, which can be adjusted from dim to bright, with one customer noting that the lowest setting works well as a night light.",
+      "examples": [
+       {
+        "position": 1,
+        "snippet": "...easy to yo touch and off the light goes.. Three touch, for dim light, bright and full light.. I love it",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R1VELOX1U3KNVZ"
+       },
+       {
+        "position": 2,
+        "snippet": "...so need need to use the main light as the brightest setting it’s very bright,would recommend but delicate as the shade is glass and it’s quite pretty",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R1JELGDI0R1C8S"
+       },
+       {
+        "position": 3,
+        "snippet": "...seen the light and am about to start my own religion thank you oh great light",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/RSF2ZP0O8A0YF"
+       },
+       {
+        "position": 4,
+        "snippet": "...Looks much more expensive than it was and gives a lovely light.",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R1SKXMH1AU1MQC"
+       }
+      ]
+     },
+     {
+      "title": "Value for money",
+      "sentiment": "positive",
+      "mentions": {
+       "total": 59,
+       "positive": 51,
+       "negative": 8
+      },
+      "summary": "Customers find the hurricane table lamp to be excellent value for money, with several mentioning they would buy it again.",
+      "examples": [
+       {
+        "position": 1,
+        "snippet": "...Pretty glass. It looks really good when it is alight. Great value for money and an asset to my bedroom",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R1S1T7D5XCF3GD"
+       },
+       {
+        "position": 2,
+        "snippet": "...my husband broke the shade and could not replace it so as it is such good value bought the lamp again. Would definitely recommend....",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R1OXOUUONZ6QKC"
+       },
+       {
+        "position": 3,
+        "snippet": "This is a very pretty design and good value for money. The delivery was quick and i like it very much....",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R36QXIPTHZR746"
+       },
+       {
+        "position": 4,
+        "snippet": "What a lovely lamp glass shade is nice well Worth The money",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R10KZGWGIABJUO"
+       }
+      ]
+     },
+     {
+      "title": "Touch controls",
+      "sentiment": "positive",
+      "mentions": {
+       "total": 39,
+       "positive": 34,
+       "negative": 5
+      },
+      "summary": "Customers appreciate the touch controls of the lamp, particularly noting that it works well during the night and is easy to operate.",
+      "examples": [
+       {
+        "position": 1,
+        "snippet": "Very nice, touch lamp. Really pleased",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/REYF00RKR7D07"
+       },
+       {
+        "position": 2,
+        "snippet": "It looks quality without trying to be showy. I love that it is a touch light and am thinking of purchasing two for bedside.",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/RP4WLUKSSQIC4"
+       },
+       {
+        "position": 3,
+        "snippet": "Nice lamp easy touch",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R1C8Q7042IH9P1"
+       },
+       {
+        "position": 4,
+        "snippet": "...to fit on a small side table and this was ideal, especially the touch feature so it was easy to turn on and off as we had limited space to get to...",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R1Z47PQRQM60D1"
+       }
+      ]
+     },
+     {
+      "title": "Ease of use",
+      "sentiment": "positive",
+      "mentions": {
+       "total": 32,
+       "positive": 31,
+       "negative": 1
+      },
+      "summary": "Customers find the hurricane table lamp easy to use and set up, appreciating that it's simple to turn on and off.",
+      "examples": [
+       {
+        "position": 1,
+        "snippet": "As I live in an old cottage this suits my bedroom and is easy to use and very good light. I just love it",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R2XR1H15SJ7NVI"
+       },
+       {
+        "position": 2,
+        "snippet": "...dining table looks brill size just fine and brightness is great easy to put together great value for money 💰 to thankyou 😊",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R3CB8FFBHG3HFA"
+       },
+       {
+        "position": 3,
+        "snippet": "Elegant, simple to use, and good lighting but not overpowering.",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R16F0TRFEYRQEZ"
+       },
+       {
+        "position": 4,
+        "snippet": "I really liked the design and ease of use.",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/RHCH2P147OZWT"
+       }
+      ]
+     },
+     {
+      "title": "Functionality",
+      "sentiment": "mixed",
+      "mentions": {
+       "total": 55,
+       "positive": 27,
+       "negative": 28
+      },
+      "summary": "Customers have mixed experiences with the lamp's functionality, with some finding it works very well and serves its purpose, while others report that it doesn't work properly or consider it useless.",
+      "examples": [
+       {
+        "position": 1,
+        "snippet": "Didn’t work. Lamp in a constant loop of coming on (on its own), going through the various brightness modes and then switching off. Doesn’t work.",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R3ENJI1WBEQS0G"
+       },
+       {
+        "position": 2,
+        "snippet": "Works well Just as described. Doesn't come with a bulb so don't forget to order some at the same time",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/RBOZ8F248A0YF"
+       },
+       {
+        "position": 3,
+        "snippet": "Faulty",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R85450HQVDS9O"
+       },
+       {
+        "position": 4,
+        "snippet": "Just the job",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R3CQ7SR2HM1IHW"
+       }
+      ]
+     },
+     {
+      "title": "Durability",
+      "sentiment": "negative",
+      "mentions": {
+       "total": 28,
+       "positive": 5,
+       "negative": 23
+      },
+      "summary": "Customers report issues with the durability of the lamp, noting that the glass shade is fragile and can break easily with a slight knock.",
+      "examples": [
+       {
+        "position": 1,
+        "snippet": "I’m afraid I was really disappointed with this lamp very flimsy ,and connections to the shade not safe it really needed another ring to go around...",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R2Y0GFUUJKDL12"
+       },
+       {
+        "position": 2,
+        "snippet": "Lamp broke, terrible customer service",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/RBJEYCCQPQ3VF"
+       },
+       {
+        "position": 3,
+        "snippet": "...Handle the glass shade with care as it is extremely delicate. I highly recommend this lamp for design and efficiency...",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R1AQ5798V1K8LI"
+       },
+       {
+        "position": 4,
+        "snippet": "...The only downside is although the shade is beautiful it is very fragile a slight knock and it would break easily so for safety reasons keep it well...",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R87SOIHM2CU6U"
+       }
+      ]
+     }
+    ],
+    "images": [
+     "https://m.media-amazon.com/images/I/61ipNobFMPL.jpg",
+     "https://m.media-amazon.com/images/I/71ib19XP4bL.jpg",
+     "https://m.media-amazon.com/images/I/61yAWU87CQL.jpg",
+     "https://m.media-amazon.com/images/I/71d5VoRY+jL.jpg",
+     "https://m.media-amazon.com/images/I/71G+OZF-xfL.jpg",
+     "https://m.media-amazon.com/images/I/718TQdPNg0L.jpg",
+     "https://m.media-amazon.com/images/I/61W-0xJgrML.jpg",
+     "https://m.media-amazon.com/images/I/61slzhC3J3L.jpg",
+     "https://m.media-amazon.com/images/I/61MgIDbblTL.jpg",
+     "https://m.media-amazon.com/images/I/61st+yFhP3L.jpg",
+     "https://m.media-amazon.com/images/I/61o9xW2Uk+L.jpg",
+     "https://m.media-amazon.com/images/I/71MJ4+n-5bL.jpg"
+    ],
+    "customer_reviews": {
+     "5 star": 68,
+     "4 star": 17,
+     "3 star": 8,
+     "2 star": 2,
+     "1 star": 5
+    }
+   },
+   "authors_reviews": [
+    {
+     "position": 1,
+     "title": "Bright and beautiful. Five stars plus!",
+     "text": "The lamp arrived very well packed. The whole lamp is encased in moulded polystyrene in its own box and then inside a bigger Amazon box. The original box looks very small but the lamp base is cleverly packed inside the shade. It’s very easy to assemble although if you have large hands the bulb might be a bit fiddly. I bought the recommended bulbs at the same time. It would have been nice to have a bulb included but as the price of the lamp was very reasonable I don’t mind. The good points are -1. The lamp is well made and looks more expensive than it is.2. The 3 levels of light are perfect. The lowest is a perfect night light. The next is easily bright enough to read by. The brightest is still not hard on the eyes, even with a glass shade.3. As it is a touch lamp there is no cord trailing over the bedside cabinet where a lot of lamps have an inline switch. There is also no struggling to reach a switch often located at the base of the bulb. I bought it as I have rheumatoid arthritis and my hands are basically useless at night. The lightest touch is all that is required.4. I think the lamp is a nice size. The shade in particular is slim whereas on a lot of lamps the shade can get in the way on a bedside cabinet, particularly if you have limited space which is often the case. I have taken a photo with a phone to show the scale.5. The clear shade is so much better than a lot of the fabric covered ones which seem to be on the bulk of bedside lights. It doesn’t dull the light so you don’t need a high wattage bulb. You don’t need to colour match it other than choosing the base.The few negative points are -1. The touch base is very sensitive. If you are heavy handed the light will just turn on then immediately off but it is not a real problem.2. The cord could have been a bit longer. Fortunately my sockets are exactly in the middle of my double bed. Even though my bedside cabinets are quite tall the lamp is still at least 18 inches from the edge of the cabinet.3. The shade is fine glass which looks so much better than plastic but makes it unsuitable for a child’s room. If you knocked or dropped the lamp it would certainly break.The negative points are very very minor and no problem. The lamp looks more expensive than it is. It’s a perfect size and doesn’t crowd the bedside cabinet. It’s so easy to operate and it’s nice to have 3 light levels. It is also a nice bright light which many of todays lamps are not. I would certainly recommend it and am planning on buying a second one.",
+     "rating": 5.0,
+     "date": "7 January 2023",
+     "author": "S D.",
+     "author_link": "https://www.amazon.co.uk/gp/profile/amzn1.account.AGDVISE4CC5XWQVGGGKOK3QKYKCA?ref=cm_cr_dp_d_bdcrb_top",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+     "images": [
+      "https://m.media-amazon.com/images/I/61ipNobFMPL.jpg",
+      "https://m.media-amazon.com/images/I/71ib19XP4bL.jpg",
+      "https://m.media-amazon.com/images/I/71d5VoRY+jL.jpg",
+      "https://m.media-amazon.com/images/I/71G+OZF-xfL.jpg"
+     ],
+     "helpful_votes": "40 people found this helpful",
+     "verified_purchase": true,
+     "product": {
+      "colour_name": "Chrome"
+     }
+    },
+    {
+     "position": 2,
+     "title": "Stunning!",
+     "text": "Absolutely stunning! Really well made, 3 different brightness settings, plug fitting so no USB adapters, touch base control. Total bargain!! Highly recommend 👌",
+     "rating": 5.0,
+     "date": "12 April 2026",
+     "author": "Carrie Hynes",
+     "author_link": "https://www.amazon.co.uk/gp/profile/amzn1.account.AFA6YLC4HVKTZ24E3PHPPDWW3BSA?ref=cm_cr_dp_d_bdcrb_top",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+     "helpful_votes": "One person found this helpful",
+     "verified_purchase": true,
+     "product": {
+      "colour_name": "Brass"
+     }
+    },
+    {
+     "position": 3,
+     "title": "Very nice",
+     "text": "Pretty little bedside lamp",
+     "rating": 4.0,
+     "date": "9 July 2026",
+     "author": "Amazon Customer",
+     "author_link": "https://www.amazon.co.uk/gp/profile/amzn1.account.AHXTKXNZKJHH2GJWQ36CYGRI322Q?ref=cm_cr_dp_d_bdcrb_top",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+     "verified_purchase": true,
+     "product": {
+      "colour_name": "Chrome"
+     }
+    },
+    {
+     "position": 4,
+     "title": "X",
+     "text": "Fantastic",
+     "rating": 5.0,
+     "date": "8 September 2026",
+     "author": "Carole",
+     "author_link": "https://www.amazon.co.uk/gp/profile/amzn1.account.AG6SH5PKU3A2VYCAFZ4UBOTE3LGA?ref=cm_cr_dp_d_bdcrb_top",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+     "verified_purchase": true,
+     "product": {
+      "colour_name": "Chrome"
+     }
+    },
+    {
+     "position": 5,
+     "title": "Hurricane lamp",
+     "text": "The lamp is lovely the different settings are great I just purchased another one today They look so good 👍",
+     "rating": 5.0,
+     "date": "4 September 2026",
+     "author": "Alex",
+     "author_link": "https://www.amazon.co.uk/gp/profile/amzn1.account.AHYYIKIIMCM26XJ23WWPADIGKG7Q?ref=cm_cr_dp_d_bdcrb_top",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+     "verified_purchase": true,
+     "product": {
+      "colour_name": "Chrome"
+     }
+    },
+    {
+     "position": 6,
+     "title": "High risk delivery due to fragility",
+     "text": "Love the light, ordered a pair, when they arrived one had a shattered glass shade (visible without taking out of box (which had a visible crush into the corner). The other light was fine & ticked all boxes for replacing a pair of 10yr old bedside lights.Did an Amazon return, refund & re-order one light. Just arrived & yep, shade in bits again. Difficult to blame seller as well wrapped in tissue & polystyrene but yet again the box showed crush marks. The box didn’t say ‘FRAGILE’ but not sure many delivery drivers would pay that much care even so.Very frustrated but will try for 3rd time lucky as we do like the light that was delivered in one piece.And TBF, lots of reviews say this is fragile glass.",
+     "rating": 3.0,
+     "date": "9 April 2026",
+     "author": "malicarr",
+     "author_link": "https://www.amazon.co.uk/gp/profile/amzn1.account.AHEYXVH5PF2LIR5OJSXWJCWC2QIQ?ref=cm_cr_dp_d_bdcrb_top",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+     "verified_purchase": true,
+     "product": {
+      "colour_name": "Brass"
+     }
+    },
+    {
+     "position": 7,
+     "title": "Lamp",
+     "text": "Bought this for my bedroom wanted a dimmable lamp and it’s has 3 different brightness’s which are very good so need need to use the main light as the brightest setting it’s very bright,would recommend but delicate as the shade is glass and it’s quite pretty",
+     "rating": 5.0,
+     "date": "7 April 2026",
+     "author": "vickie",
+     "author_link": "https://www.amazon.co.uk/gp/profile/amzn1.account.AF4YTK23DC3IHWJKGSWLV3MTUSJA?ref=cm_cr_dp_d_bdcrb_top",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+     "verified_purchase": true,
+     "product": {
+      "colour_name": "Chrome"
+     }
+    },
+    {
+     "position": 8,
+     "title": "Glam Lamp",
+     "text": "I’m absolutely in love with this pretty lamp. The perfect size for a bedside cabinet.Well packaged and easy to put together.The only negative is that I’d prefer the wire and plug to be clear or white rather than black.Overall, I’m pleased with my purchase including the price ☺️",
+     "rating": 5.0,
+     "date": "4 October 2025",
+     "author": "ChantillyLace",
+     "author_link": "https://www.amazon.co.uk/gp/profile/amzn1.account.AEFZ5CWXMQHMD2IJUR3KBYMZDJ6A?ref=cm_cr_dp_d_bdcrb_top",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/5098ee39-da5e-41c0-95fc-c0a2fa28d963._CR0%2C26%2C281%2C281_UX460_SX48_.jpg",
+     "images": [
+      "https://m.media-amazon.com/images/I/61MgIDbblTL.jpg",
+      "https://m.media-amazon.com/images/I/61slzhC3J3L.jpg"
+     ],
+     "verified_purchase": true,
+     "product": {
+      "colour_name": "Brass"
+     }
+    }
+   ],
+   "other_countries_reviews": [
+    {
+     "position": 1,
+     "title": "Brilliantly fast and protected to the last",
+     "text": "Really lovely little lamp ,very well wrapped and protected also ,im just waiting on the bulbs for it now that I ordered and ill be up and running, definitely recommend buying the lamp though",
+     "rating": 5.0,
+     "date": "25 April 2026",
+     "author": "Julian",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+     "verified_purchase": true,
+     "product": {
+      "colour_name": "Chrome"
+     },
+     "country": {
+      "code": "IE",
+      "name": "Ireland"
+     },
+     "language": {
+      "code": "en",
+      "name": "English (Ireland)"
+     }
+    }
+   ]
+  }
+ }
+}

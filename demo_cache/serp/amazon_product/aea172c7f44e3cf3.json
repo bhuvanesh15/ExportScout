@@ -1,0 +1,1335 @@
+{
+ "engine": "amazon_product",
+ "params": {
+  "asin": "B0BW947XQK",
+  "amazon_domain": "amazon.co.uk"
+ },
+ "fetched_at": "2026-09-30T10:54:07+00:00",
+ "data": {
+  "search_metadata": {
+   "id": "6abcea3f895d907431fc0ff6",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/x2YEpeQ0nMSgX6m6wRcyljd0D6RyErKNnvUTc1uZIYI/6abcea3f895d907431fc0ff6.json",
+   "markdown_endpoint": "https://serpapi.com/searches/x2YEpeQ0nMSgX6m6wRcyljd0D6RyErKNnvUTc1uZIYI/6abcea3f895d907431fc0ff6.md",
+   "created_at": "2026-09-30 10:53:51 UTC",
+   "processed_at": "2026-09-30 10:53:51 UTC",
+   "amazon_product_url": "https://www.amazon.co.uk/dp/B0BW947XQK/?",
+   "raw_html_file": "https://serpapi.com/searches/x2YEpeQ0nMSgX6m6wRcyljd0D6RyErKNnvUTc1uZIYI/6abcea3f895d907431fc0ff6.html",
+   "total_time_taken": 15.49
+  },
+  "search_parameters": {
+   "engine": "amazon_product",
+   "asin": "B0BW947XQK",
+   "amazon_domain": "amazon.co.uk",
+   "device": "desktop"
+  },
+  "product_results": {
+   "categories": [
+    {
+     "position": 1,
+     "name": "Garden",
+     "link": "https://www.amazon.co.uk/Garden-Outdoors-Home/b/ref=dp_bc_1?ie=UTF8&node=11052671",
+     "node": "11052671",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&device=desktop&engine=amazon&node=11052671"
+    },
+    {
+     "position": 2,
+     "name": "Garden Tools & Watering Equipment",
+     "link": "https://www.amazon.co.uk/Garden-Tools-Watering-Equipment/b/ref=dp_bc_2?ie=UTF8&node=26389565031",
+     "node": "26389565031",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&device=desktop&engine=amazon&node=26389565031"
+    },
+    {
+     "position": 3,
+     "name": "Plant Containers & Accessories",
+     "link": "https://www.amazon.co.uk/planters/b/ref=dp_bc_3?ie=UTF8&node=4224862031",
+     "node": "4224862031",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&device=desktop&engine=amazon&node=4224862031"
+    },
+    {
+     "position": 4,
+     "name": "Flower Pots",
+     "link": "https://www.amazon.co.uk/garden-flower-pots/b/ref=dp_bc_4?ie=UTF8&node=4224875031",
+     "node": "4224875031",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&device=desktop&engine=amazon&node=4224875031"
+    }
+   ],
+   "asin": "B0BW947XQK",
+   "title": "tenn well 30cm Plant Pot with Liner, Black and Brown Cotton Plant Pots",
+   "link": "https://www.amazon.co.uk/tenn-well-Storage-Organiser-Decoration/dp/B0BW947XQK/",
+   "link_clean": "https://www.amazon.co.uk/dp/B0BW947XQK/",
+   "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0BW947XQK&device=desktop&engine=amazon_product",
+   "badges": [
+    "Frequently returned item Check the product details and customer reviews to learn more about this item."
+   ],
+   "variants": [
+    {
+     "title": "Colour Name",
+     "items": [
+      {
+       "position": 1,
+       "asin": "B0BW947XQK",
+       "name": "Black and Brown",
+       "image": "https://m.media-amazon.com/images/I/51xukhTeTAL._SS64_.jpg",
+       "selected": true,
+       "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0BW947XQK&device=desktop&engine=amazon_product"
+      },
+      {
+       "position": 2,
+       "asin": "B0BK9QT319",
+       "name": "White and Black",
+       "image": "https://m.media-amazon.com/images/I/41243wJCD0L._SS64_.jpg",
+       "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0BK9QT319&device=desktop&engine=amazon_product"
+      },
+      {
+       "position": 3,
+       "asin": "B09DCQ5LYB",
+       "name": "White and Brown",
+       "image": "https://m.media-amazon.com/images/I/51RHSaXh81S._SS64_.jpg",
+       "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B09DCQ5LYB&device=desktop&engine=amazon_product"
+      },
+      {
+       "position": 4,
+       "asin": "B0CC1K2BQC",
+       "name": "White and Grey",
+       "image": "https://m.media-amazon.com/images/I/51KpT1eEc+L._SS64_.jpg",
+       "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0CC1K2BQC&device=desktop&engine=amazon_product"
+      },
+      {
+       "position": 5,
+       "asin": "B0D147QL41",
+       "name": "White and Khaki",
+       "image": "https://m.media-amazon.com/images/I/51+mZfIGgiL._SS64_.jpg",
+       "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0D147QL41&device=desktop&engine=amazon_product"
+      }
+     ]
+    }
+   ],
+   "brand": "Visit the tenn well Store",
+   "thumbnail": "https://m.media-amazon.com/images/I/81CpXt1I53L._AC_SY300_SX300_QL70_ML2_.jpg",
+   "thumbnails": [
+    "https://m.media-amazon.com/images/I/81CpXt1I53L._AC_SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61YZ0dC7DqL._AC_SL1001_.jpg",
+    "https://m.media-amazon.com/images/I/710LMX-sgZL._AC_SL1001_.jpg",
+    "https://m.media-amazon.com/images/I/71Ia-K-zXpL._AC_SL1001_.jpg",
+    "https://m.media-amazon.com/images/I/61Wv9-4Y3zL._AC_SL1001_.jpg",
+    "https://m.media-amazon.com/images/I/81VXQxFa8cL._AC_SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71XjqiRTNHL._AC_SL1001_.jpg"
+   ],
+   "rating": 4.1,
+   "reviews": 900,
+   "discount": "-14%",
+   "price": "£15.99",
+   "extracted_price": 15.99,
+   "old_price": "£18.50",
+   "extracted_old_price": 18.5,
+   "delivery": [
+    "FREE delivery Saturday, 3 October on your first order to UK or Ireland. Details",
+    "Or fastest delivery Tomorrow, 1 October. Order within 7 hrs 20 mins. Details"
+   ],
+   "stock": "In stock"
+  },
+  "purchase_options": {
+   "single_offer": {
+    "price": "£15.99",
+    "extracted_price": 15.99,
+    "delivery": [
+     "FREE delivery Saturday, 3 October on your first order to UK or Ireland. Details",
+     "Or fastest delivery Tomorrow, 1 October. Order within 7 hrs 20 mins. Details"
+    ],
+    "stock": "In stock",
+    "features": {
+     "dispatches_from": {
+      "text": "Amazon",
+      "details": {
+       "heading": "Dispatches from",
+       "content": "Amazon"
+      }
+     },
+     "sold_by": {
+      "text": "T&H Store",
+      "details": {
+       "heading": "Sold by",
+       "content": "T&H Store"
+      },
+      "link": {
+       "text": "T&H Store",
+       "link": "https://www.amazon.co.uk/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3TZWS2IUORFGV&asin=B0BW947XQK&ref_=dp_merchant_link&isAmazonFulfilled=1"
+      }
+     },
+     "returns": {
+      "text": "Returnable within 30 days of receipt",
+      "details": {
+       "heading": "Returnable within 30 days of receipt",
+       "content": "Item can be returned in its original condition for a full refund within 30 days of receipt"
+      },
+      "link": {
+       "text": "Read full return policy",
+       "link": "https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=GKM69DUUYKQWKWX7&ref_=dp_ret_policy"
+      }
+     },
+     "gift_options": {
+      "text": "Available at checkout Available at checkout This item is a gift. Change",
+      "details": {
+       "content": "Add gift options at checkout"
+      }
+     }
+    }
+   }
+  },
+  "item_specifications": {
+   "material": "Cotton, Iron, Plastic",
+   "colour": "Black and Brown",
+   "special_feature": "Reinforced",
+   "style": "Modern",
+   "planter_form": "Plant Pot"
+  },
+  "about_item": [
+   "PREMIUM QUALITY - Made of natural cotton, the plant pot is safe to use. Reinforced woven on the basket to hold your flower pot safely. Upgraded version with a liner built in to avoid water leakage",
+   "SIZE - 11.8'' (30cm) Diameter x 11.8'' (30cm) Height. This plant pot basket best fits flower pot from 25cm to 27cm in diameter and 27cm or less in height",
+   "GREAT FOR INDOOR PLANT POT - By giving plant pot a whole new cover with this plant pot, it can not only beautify plants, add brightness for your modern home and lifestyle, but also can save your space",
+   "WIDE APPLICATION - This indoor plant basket is also a great storage bin to help keep your home well organized. It can be used to store toys, towels, sundries, socks etc. You could use it in your living room, bedroom, restroom and office",
+   "WAY TO RESHAPE - Shipping folded could make the basket distort for a little, you could either iron the basket outside or filled it with something bigger like blankets for a while to help restore"
+  ],
+  "bought_together": [
+   {
+    "position": 1,
+    "title": "tenn well 30cm Plant Pot with Liner, Black and Brown Cotton Plant Pots | Woven Storage Basket for Indoor Plants, Flower, Laundry Organiser and Home Decoration",
+    "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/81CpXt1I53L._AC_UL116_SR116,116_.jpg",
+    "price": "£15.99",
+    "extracted_price": 15.99,
+    "delivery": [
+     "Get it as soon as Saturday, Oct 3"
+    ],
+    "stock": "In stock"
+   },
+   {
+    "position": 2,
+    "title": "Mcbazel Moss Pole,Bendable Coir Plant Poles for Climbing Plants Growth,Indoor Outdoor Cheese Monstera Plant with Cable Ties & Plant Tape-120CM/47inch",
+    "link": "https://www.amazon.co.uk/Mcbazel-Bendable-Climbing-Monstera-Tapewith/dp/B0CH7SGNVH/ref=pd_bxgy_thbs_d_sccl_1/523-7994320-2147405?pd_rd_w=KdVxN&content-id=amzn1.sym.c74a04bb-1833-45ee-8b22-275d7d928695&pf_rd_p=c74a04bb-1833-45ee-8b22-275d7d928695&pf_rd_r=TEB1Q3WCXFVQMG8SD8K4&pd_rd_wg=1VVlI&pd_rd_r=dbbf1afc-5b5b-4fea-878d-78ec94af5ab1&pd_rd_i=B0CH7SGNVH&psc=1",
+    "asin": "B0CH7SGNVH",
+    "link_clean": "https://www.amazon.co.uk/Mcbazel-Bendable-Climbing-Monstera-Tapewith/dp/B0CH7SGNVH/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0CH7SGNVH&device=desktop&engine=amazon_product",
+    "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/71oKL5RJmzL._AC_UL116_SR116,116_.jpg",
+    "price": "£8.99",
+    "extracted_price": 8.99,
+    "delivery": [
+     "Get it as soon as Saturday, Oct 3"
+    ],
+    "stock": "In stock"
+   },
+   {
+    "position": 3,
+    "title": "Houseplant Focus Repotting Mix, 3L - Growth Technology Potting Soil for Indoor Plants - Peat-Free Compost Soil - Professional Grade House Plant Food, Brown",
+    "link": "https://www.amazon.co.uk/Growth-Technology-Houseplant-Focus-Repotting/dp/B09R832R2C/ref=pd_bxgy_thbs_d_sccl_2/523-7994320-2147405?pd_rd_w=KdVxN&content-id=amzn1.sym.c74a04bb-1833-45ee-8b22-275d7d928695&pf_rd_p=c74a04bb-1833-45ee-8b22-275d7d928695&pf_rd_r=TEB1Q3WCXFVQMG8SD8K4&pd_rd_wg=1VVlI&pd_rd_r=dbbf1afc-5b5b-4fea-878d-78ec94af5ab1&pd_rd_i=B09R832R2C&psc=1",
+    "asin": "B09R832R2C",
+    "link_clean": "https://www.amazon.co.uk/Growth-Technology-Houseplant-Focus-Repotting/dp/B09R832R2C/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B09R832R2C&device=desktop&engine=amazon_product",
+    "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/71uAfJFLG3L._AC_UL116_SR116,116_.jpg",
+    "price": "£6.95",
+    "extracted_price": 6.95,
+    "price_unit": "£2.32/l",
+    "extracted_price_unit": 2.32,
+    "stock": "In stock"
+   }
+  ],
+  "related_products": [
+   {
+    "position": 1,
+    "asin": "B0H9L1VXS3",
+    "title": "5FT Artificial Bird of Paradise Plant with 3 Realistic Flowers | Large Tropical Floor Plant with 8 Banana Leaves, Faux Strelitzia Plant for Living Room Bedroom Office Indoor Home Décor",
+    "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MTo3MTc3MDg4ODMwNjA3NTYyOjE3OTA3NjU2NDU6c3BfZGV0YWlsOjMwMTM3NTMyODYwNzMzMjo6Ojo&url=%2Fdp%2FB0H9L1VXS3%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0H9L1VXS3%26pd_rd_w%3D0Xb2I%26content-id%3Damzn1.sym.67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_p%3D67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_r%3DTEB1Q3WCXFVQMG8SD8K4%26pd_rd_wg%3D1VVlI%26pd_rd_r%3Ddbbf1afc-5b5b-4fea-878d-78ec94af5ab1%26aref%3DKOss7XrxUS%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw&aref=KOss7XrxUS&sp_cr=ZAZ",
+    "link_clean": "https://www.amazon.co.uk/dp/B0H9L1VXS3/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0H9L1VXS3&device=desktop&engine=amazon_product",
+    "sponsored": true,
+    "thumbnail": "https://m.media-amazon.com/images/I/71NFDRJV3LL._AC_UF480,480_SR480,480_.jpg",
+    "rating": 4.3,
+    "reviews": 37,
+    "price": "£69.99",
+    "extracted_price": 69.99,
+    "save_with_coupon": "You pay £62.99",
+    "climate_pledge_friendly": true
+   },
+   {
+    "position": 2,
+    "asin": "B07HC752CW",
+    "title": "DOKOT Seagrass Basket Belly Plant Pot Woven Basket With Handle, Foldable Laundry Basket Toys Storage (Natural)",
+    "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MTo3MTc3MDg4ODMwNjA3NTYyOjE3OTA3NjU2NDU6c3BfZGV0YWlsOjIwMDE4MTU1NTQ0NjA0Ojo6Og&url=%2Fdp%2FB07HC752CW%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB07HC752CW%26pd_rd_w%3D0Xb2I%26content-id%3Damzn1.sym.67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_p%3D67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_r%3DTEB1Q3WCXFVQMG8SD8K4%26pd_rd_wg%3D1VVlI%26pd_rd_r%3Ddbbf1afc-5b5b-4fea-878d-78ec94af5ab1%26aref%3DKV0KVXxpct%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw&aref=KV0KVXxpct&sp_cr=ZAZ",
+    "link_clean": "https://www.amazon.co.uk/dp/B07HC752CW/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B07HC752CW&device=desktop&engine=amazon_product",
+    "sponsored": true,
+    "thumbnail": "https://m.media-amazon.com/images/I/81aVVuF68UL._AC_UF480,480_SR480,480_.jpg",
+    "rating": 4.3,
+    "reviews": 6411,
+    "price": "£11.99",
+    "extracted_price": 11.99
+   },
+   {
+    "position": 3,
+    "asin": "B0G3QK43WH",
+    "title": "FUTURE GARDENING Plant Pot Saucers 18cm 25cm 30cm 35cm 40cm 45cm 50cm – Black Round Drip Tray Base/Plant Tray for Pots – Multi Pack 1–100 (Ø 30cm, Pack of 5)",
+    "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MTo3MTc3MDg4ODMwNjA3NTYyOjE3OTA3NjU2NDU6c3BfZGV0YWlsOjMwMDgzODE0NTYzNzYzMjo6Ojo&url=%2Fdp%2FB0G3QK43WH%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0G3QK43WH%26pd_rd_w%3D0Xb2I%26content-id%3Damzn1.sym.67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_p%3D67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_r%3DTEB1Q3WCXFVQMG8SD8K4%26pd_rd_wg%3D1VVlI%26pd_rd_r%3Ddbbf1afc-5b5b-4fea-878d-78ec94af5ab1%26aref%3DzXtIJAkvfy%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw&aref=zXtIJAkvfy&sp_cr=ZAZ",
+    "link_clean": "https://www.amazon.co.uk/dp/B0G3QK43WH/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0G3QK43WH&device=desktop&engine=amazon_product",
+    "sponsored": true,
+    "badges": [
+     "Amazon's Choice"
+    ],
+    "thumbnail": "https://m.media-amazon.com/images/I/71prcCSS1hL._AC_UF480,480_SR480,480_.jpg",
+    "rating": 4.7,
+    "reviews": 178,
+    "price": "£11.95",
+    "extracted_price": 11.95,
+    "price_unit": "£2.39 / count",
+    "extracted_price_unit": 2.39
+   },
+   {
+    "position": 4,
+    "asin": "B07PR9JX99",
+    "title": "Dahey Plant Basket Indoor for 25 cm Pot Woven Jute Planter, White & Beige | Fit 20-25 cm Planter, Reinforced Structure, Foldable No Liner Bin with Handles, Jute Cotton Rope, Decorative Flower Pot Cover",
+    "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MTo3MTc3MDg4ODMwNjA3NTYyOjE3OTA3NjU2NDU6c3BfZGV0YWlsOjMwMTA4Mzg2ODA1MTQzMjo6Ojo&url=%2Fdp%2FB07PR9JX99%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB07PR9JX99%26pd_rd_w%3D0Xb2I%26content-id%3Damzn1.sym.67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_p%3D67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_r%3DTEB1Q3WCXFVQMG8SD8K4%26pd_rd_wg%3D1VVlI%26pd_rd_r%3Ddbbf1afc-5b5b-4fea-878d-78ec94af5ab1%26aref%3Dk4LgZ55DQV%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw&aref=k4LgZ55DQV&sp_cr=ZAZ",
+    "link_clean": "https://www.amazon.co.uk/dp/B07PR9JX99/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B07PR9JX99&device=desktop&engine=amazon_product",
+    "sponsored": true,
+    "thumbnail": "https://m.media-amazon.com/images/I/71Fszf-cNyL._AC_UF480,480_SR480,480_.jpg",
+    "rating": 4.3,
+    "reviews": 2340,
+    "price": "£13.99",
+    "extracted_price": 13.99
+   },
+   {
+    "position": 5,
+    "asin": "B088FQ9GY4",
+    "title": "Seagrass Belly Basket Woven Plant Pot with Handles Natural Foldable for Storage Laundry Blankets Toys (Natural + Black)",
+    "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MTo3MTc3MDg4ODMwNjA3NTYyOjE3OTA3NjU2NDU6c3BfZGV0YWlsOjIwMDMxODU0NTU3NDk4Ojo6Og&url=%2Fdp%2FB088FQ9GY4%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB088FQ9GY4%26pd_rd_w%3D0Xb2I%26content-id%3Damzn1.sym.67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_p%3D67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_r%3DTEB1Q3WCXFVQMG8SD8K4%26pd_rd_wg%3D1VVlI%26pd_rd_r%3Ddbbf1afc-5b5b-4fea-878d-78ec94af5ab1%26aref%3DxufGzPLUwD%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw&aref=xufGzPLUwD&sp_cr=ZAZ",
+    "link_clean": "https://www.amazon.co.uk/dp/B088FQ9GY4/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B088FQ9GY4&device=desktop&engine=amazon_product",
+    "sponsored": true,
+    "thumbnail": "https://m.media-amazon.com/images/I/71Yawu9CwfL._AC_UF480,480_SR480,480_.jpg",
+    "rating": 4.1,
+    "reviews": 2525,
+    "discount": "-6%",
+    "price": "£11.32",
+    "extracted_price": 11.32,
+    "old_price": "null"
+   },
+   {
+    "position": 6,
+    "asin": "B0H6JJ9GYK",
+    "title": "Bamworld Woven Plant Pot Cover Beige 10 Inch | Made of 70 percent polyester and 30 percent cotton, this woven planter cover hides plain nursery pots for a warm aesthetic.",
+    "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MTo3MTc3MDg4ODMwNjA3NTYyOjE3OTA3NjU2NDU6c3BfZGV0YWlsOjMwMTMzNDI5NTA0MDMzMjo6Ojo&url=%2Fdp%2FB0H6JJ9GYK%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0H6JJ9GYK%26pd_rd_w%3D0Xb2I%26content-id%3Damzn1.sym.67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_p%3D67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_r%3DTEB1Q3WCXFVQMG8SD8K4%26pd_rd_wg%3D1VVlI%26pd_rd_r%3Ddbbf1afc-5b5b-4fea-878d-78ec94af5ab1%26aref%3DQsGy8AT39T%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw&aref=QsGy8AT39T&sp_cr=ZAZ",
+    "link_clean": "https://www.amazon.co.uk/dp/B0H6JJ9GYK/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0H6JJ9GYK&device=desktop&engine=amazon_product",
+    "sponsored": true,
+    "thumbnail": "https://m.media-amazon.com/images/I/81pfiCALUCL._AC_UF480,480_SR480,480_.jpg",
+    "price": "£12.99",
+    "extracted_price": 12.99
+   },
+   {
+    "position": 7,
+    "asin": "B0893D8M4V",
+    "title": "Straame 50L Black Barrel Plant Pot Tub, 45x33x34cm Indoor & Outdoor, 1 Pack | Lightweight watertight plastic with matte finish, rinse-clean surface and sturdy build for flowers, herbs, patios & balconies",
+    "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MTo3MTc3MDg4ODMwNjA3NTYyOjE3OTA3NjU2NDU6c3BfZGV0YWlsOjIwMDc1NTczNzA2MjA4Ojo6Og&url=%2Fdp%2FB0893D8M4V%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0893D8M4V%26pd_rd_w%3D0Xb2I%26content-id%3Damzn1.sym.67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_p%3D67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_r%3DTEB1Q3WCXFVQMG8SD8K4%26pd_rd_wg%3D1VVlI%26pd_rd_r%3Ddbbf1afc-5b5b-4fea-878d-78ec94af5ab1%26aref%3DSTirpguB5U%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw&aref=STirpguB5U&sp_cr=ZAZ",
+    "link_clean": "https://www.amazon.co.uk/dp/B0893D8M4V/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0893D8M4V&device=desktop&engine=amazon_product",
+    "sponsored": true,
+    "badges": [
+     "Early Prime Deal"
+    ],
+    "thumbnail": "https://m.media-amazon.com/images/I/61vdHTDKowL._AC_UF480,480_SR480,480_.jpg",
+    "rating": 4.5,
+    "reviews": 1142,
+    "discount": "-15%",
+    "price": "£11.89",
+    "extracted_price": 11.89,
+    "old_price": "null"
+   },
+   {
+    "position": 8,
+    "asin": "B0GF157S39",
+    "title": "WSMKSZ 25cm Self Watering Plant Pots Indoor Outdoor, 3 Pack Flower Pots | 10 inch Large Thick Plastic Planters Pots with Drainage Holes & Removable Deep Reservoir, Cotton Wick, White Brown",
+    "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MToxNDI4ODU0NjQ1MDU1MjM5OjE3OTA3NjU2NDU6c3BfZGV0YWlsMjozMDEwMTcxNTI1NzUwMzI6Ojo6&url=%2Fdp%2FB0GF157S39%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0GF157S39%26pd_rd_w%3DvXZyU%26content-id%3Damzn1.sym.1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_p%3D1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_r%3DTEB1Q3WCXFVQMG8SD8K4%26pd_rd_wg%3D1VVlI%26pd_rd_r%3Ddbbf1afc-5b5b-4fea-878d-78ec94af5ab1%26aref%3DKrzzF2iKUL%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&aref=KrzzF2iKUL&sp_cr=ZAZ",
+    "link_clean": "https://www.amazon.co.uk/dp/B0GF157S39/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0GF157S39&device=desktop&engine=amazon_product",
+    "sponsored": true,
+    "thumbnail": "https://m.media-amazon.com/images/I/71dQHeeSE7L._AC_UF480,480_SR480,480_.jpg",
+    "rating": 4.7,
+    "reviews": 95,
+    "discount": "-21%",
+    "price": "£22.79",
+    "extracted_price": 22.79,
+    "old_price": "null"
+   },
+   {
+    "position": 9,
+    "asin": "B0FZJFMFW8",
+    "title": "WSMKSZ 20cm Plant Pots Indoor Outdoor, 5 Pack Plastic Flower Pots, Black | Decorative House Planters Pots with Saucers & Drainage Holes, 3D Modern Wave Texture, for Pothos, Peace Lilys",
+    "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MToxNDI4ODU0NjQ1MDU1MjM5OjE3OTA3NjU2NDU6c3BfZGV0YWlsMjozMDA5NjQ3Njc4NjM3MzI6Ojo6&url=%2Fdp%2FB0FZJFMFW8%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0FZJFMFW8%26pd_rd_w%3DvXZyU%26content-id%3Damzn1.sym.1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_p%3D1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_r%3DTEB1Q3WCXFVQMG8SD8K4%26pd_rd_wg%3D1VVlI%26pd_rd_r%3Ddbbf1afc-5b5b-4fea-878d-78ec94af5ab1%26aref%3DypUyHtF6pT%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&aref=ypUyHtF6pT&sp_cr=ZAZ",
+    "link_clean": "https://www.amazon.co.uk/dp/B0FZJFMFW8/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0FZJFMFW8&device=desktop&engine=amazon_product",
+    "sponsored": true,
+    "thumbnail": "https://m.media-amazon.com/images/I/71hCQkA7KDL._AC_UF480,480_SR480,480_.jpg",
+    "rating": 4.8,
+    "reviews": 176,
+    "discount": "-12%",
+    "price": "£19.37",
+    "extracted_price": 19.37,
+    "price_unit": "£3.87 / count",
+    "extracted_price_unit": 3.87,
+    "old_price": "null"
+   },
+   {
+    "position": 10,
+    "asin": "B0GS5HPR3H",
+    "title": "SG Traders Outdoor Plant Pots - Premium Petal Garden Planters with Drainage Holes, Weatherproof Large Flower Pots for Patio & Garden Décor - Durable Modern Planters for Outdoor Plants (Pack of 2)",
+    "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MToxNDI4ODU0NjQ1MDU1MjM5OjE3OTA3NjU2NDU6c3BfZGV0YWlsMjozMDEwMzAxMzU1NzUzMzI6Ojo6&url=%2Fdp%2FB0GS5HPR3H%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0GS5HPR3H%26pd_rd_w%3DvXZyU%26content-id%3Damzn1.sym.1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_p%3D1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_r%3DTEB1Q3WCXFVQMG8SD8K4%26pd_rd_wg%3D1VVlI%26pd_rd_r%3Ddbbf1afc-5b5b-4fea-878d-78ec94af5ab1%26aref%3DDW3qxCjKF8%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&aref=DW3qxCjKF8&sp_cr=ZAZ",
+    "link_clean": "https://www.amazon.co.uk/dp/B0GS5HPR3H/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0GS5HPR3H&device=desktop&engine=amazon_product",
+    "sponsored": true,
+    "thumbnail": "https://m.media-amazon.com/images/I/81Ugv6rDjCL._AC_UF480,480_SR480,480_.jpg",
+    "rating": 4.4,
+    "reviews": 359,
+    "price": "£16.99",
+    "extracted_price": 16.99,
+    "price_unit": "£8.50 / count",
+    "extracted_price_unit": 8.5
+   },
+   {
+    "position": 11,
+    "asin": "B0CWFBRQLL",
+    "title": "PROFIKLA 30cm, 25cm,23cm Plastic Plant Pots, Pack of 3 Planters, Large Plant Pots with Drainage Holes and Saucers, Modern Decorative Flower Pots, Black",
+    "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MToxNDI4ODU0NjQ1MDU1MjM5OjE3OTA3NjU2NDU6c3BfZGV0YWlsMjozMDAyMzU3OTU4MTU1MzI6Ojo6&url=%2Fdp%2FB0CWFBRQLL%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0CWFBRQLL%26pd_rd_w%3DvXZyU%26content-id%3Damzn1.sym.1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_p%3D1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_r%3DTEB1Q3WCXFVQMG8SD8K4%26pd_rd_wg%3D1VVlI%26pd_rd_r%3Ddbbf1afc-5b5b-4fea-878d-78ec94af5ab1%26aref%3DxphtlKjuPm%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&aref=xphtlKjuPm&sp_cr=ZAZ",
+    "link_clean": "https://www.amazon.co.uk/dp/B0CWFBRQLL/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0CWFBRQLL&device=desktop&engine=amazon_product",
+    "sponsored": true,
+    "thumbnail": "https://m.media-amazon.com/images/I/71VUt+2bZ-L._AC_UF480,480_SR480,480_.jpg",
+    "rating": 4.8,
+    "reviews": 141,
+    "discount": "-17%",
+    "price": "£29.99",
+    "extracted_price": 29.99,
+    "price_unit": "£10.00 / count",
+    "extracted_price_unit": 10.0,
+    "old_price": "null"
+   },
+   {
+    "position": 12,
+    "asin": "B0893D8M4V",
+    "title": "Straame 50L Black Barrel Plant Pot Tub, 45x33x34cm Indoor & Outdoor, 1 Pack | Lightweight watertight plastic with matte finish, rinse-clean surface and sturdy build for flowers, herbs, patios & balconies",
+    "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MToxNDI4ODU0NjQ1MDU1MjM5OjE3OTA3NjU2NDU6c3BfZGV0YWlsMjoyMDA3NTU3MzcwNjIwODo6Ojo&url=%2Fdp%2FB0893D8M4V%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0893D8M4V%26pd_rd_w%3DvXZyU%26content-id%3Damzn1.sym.1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_p%3D1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_r%3DTEB1Q3WCXFVQMG8SD8K4%26pd_rd_wg%3D1VVlI%26pd_rd_r%3Ddbbf1afc-5b5b-4fea-878d-78ec94af5ab1%26aref%3DSTirpguB5U%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&aref=STirpguB5U&sp_cr=ZAZ",
+    "link_clean": "https://www.amazon.co.uk/dp/B0893D8M4V/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0893D8M4V&device=desktop&engine=amazon_product",
+    "sponsored": true,
+    "badges": [
+     "Early Prime Deal"
+    ],
+    "thumbnail": "https://m.media-amazon.com/images/I/61vdHTDKowL._AC_UF480,480_SR480,480_.jpg",
+    "rating": 4.5,
+    "reviews": 1142,
+    "discount": "-15%",
+    "price": "£11.89",
+    "extracted_price": 11.89,
+    "old_price": "null"
+   },
+   {
+    "position": 13,
+    "asin": "B0H6XDH99Y",
+    "title": "WSMKSZ 25cm Plant Pots Indoor Outdoor, 3 Pack Plastic Flower Pots, Black | 10 inch Decorative Planter Pots with Saucers & Drainage Holes, 3D Modern Wave Texture, for Monstera, Peace Lilys&House Plants",
+    "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MToxNDI4ODU0NjQ1MDU1MjM5OjE3OTA3NjU2NDU6c3BfZGV0YWlsMjozMDEzNzI0OTY2MzY0MzI6Ojo6&url=%2Fdp%2FB0H6XDH99Y%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0H6XDH99Y%26pd_rd_w%3DvXZyU%26content-id%3Damzn1.sym.1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_p%3D1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_r%3DTEB1Q3WCXFVQMG8SD8K4%26pd_rd_wg%3D1VVlI%26pd_rd_r%3Ddbbf1afc-5b5b-4fea-878d-78ec94af5ab1%26aref%3DmgKz1srPZd%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&aref=mgKz1srPZd&sp_cr=ZAZ",
+    "link_clean": "https://www.amazon.co.uk/dp/B0H6XDH99Y/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0H6XDH99Y&device=desktop&engine=amazon_product",
+    "sponsored": true,
+    "thumbnail": "https://m.media-amazon.com/images/I/717f9XcQI2L._AC_UF480,480_SR480,480_.jpg",
+    "rating": 4.6,
+    "reviews": 11,
+    "price": "£27.99",
+    "extracted_price": 27.99,
+    "price_unit": "£9.33 / count",
+    "extracted_price_unit": 9.33,
+    "save_with_coupon": "You pay £22.11"
+   },
+   {
+    "position": 14,
+    "asin": "B09KJM3P64",
+    "title": "KORAD Wood Effect Indoor Plant Pots with Saucer and Drainage Holes, Round, Modern and Decorative Flowerpot for All Houseplants, 6 sizes, 25 colours(18 cm - 7 inches)",
+    "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MToxNDI4ODU0NjQ1MDU1MjM5OjE3OTA3NjU2NDU6c3BfZGV0YWlsMjozMDA4MzM2MTg2MzM0MzI6Ojo6&url=%2Fdp%2FB09KJM3P64%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB09KJM3P64%26pd_rd_w%3DvXZyU%26content-id%3Damzn1.sym.1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_p%3D1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_r%3DTEB1Q3WCXFVQMG8SD8K4%26pd_rd_wg%3D1VVlI%26pd_rd_r%3Ddbbf1afc-5b5b-4fea-878d-78ec94af5ab1%26aref%3DYfZK8wC45e%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&aref=YfZK8wC45e&sp_cr=ZAZ",
+    "link_clean": "https://www.amazon.co.uk/dp/B09KJM3P64/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B09KJM3P64&device=desktop&engine=amazon_product",
+    "sponsored": true,
+    "badges": [
+     "Amazon's Choice"
+    ],
+    "thumbnail": "https://m.media-amazon.com/images/I/91anDiht+9L._AC_UF480,480_SR480,480_.jpg",
+    "rating": 4.6,
+    "reviews": 1694,
+    "price": "£9.49",
+    "extracted_price": 9.49
+   }
+  ],
+  "related_product_sections": [
+   {
+    "title": "Products related to this item",
+    "items": [
+     {
+      "position": 1,
+      "asin": "B0H9L1VXS3",
+      "title": "5FT Artificial Bird of Paradise Plant with 3 Realistic Flowers | Large Tropical Floor Plant with 8 Banana Leaves, Faux Strelitzia Plant for Living Room Bedroom Office Indoor Home Décor",
+      "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MTo3MTc3MDg4ODMwNjA3NTYyOjE3OTA3NjU2NDU6c3BfZGV0YWlsOjMwMTM3NTMyODYwNzMzMjo6Ojo&url=%2Fdp%2FB0H9L1VXS3%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0H9L1VXS3%26pd_rd_w%3D0Xb2I%26content-id%3Damzn1.sym.67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_p%3D67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_r%3DTEB1Q3WCXFVQMG8SD8K4%26pd_rd_wg%3D1VVlI%26pd_rd_r%3Ddbbf1afc-5b5b-4fea-878d-78ec94af5ab1%26aref%3DKOss7XrxUS%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw&aref=KOss7XrxUS&sp_cr=ZAZ",
+      "link_clean": "https://www.amazon.co.uk/dp/B0H9L1VXS3/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0H9L1VXS3&device=desktop&engine=amazon_product",
+      "sponsored": true,
+      "thumbnail": "https://m.media-amazon.com/images/I/71NFDRJV3LL._AC_UF480,480_SR480,480_.jpg",
+      "rating": 4.3,
+      "reviews": 37,
+      "price": "£69.99",
+      "extracted_price": 69.99,
+      "save_with_coupon": "You pay £62.99",
+      "climate_pledge_friendly": true
+     },
+     {
+      "position": 2,
+      "asin": "B07HC752CW",
+      "title": "DOKOT Seagrass Basket Belly Plant Pot Woven Basket With Handle, Foldable Laundry Basket Toys Storage (Natural)",
+      "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MTo3MTc3MDg4ODMwNjA3NTYyOjE3OTA3NjU2NDU6c3BfZGV0YWlsOjIwMDE4MTU1NTQ0NjA0Ojo6Og&url=%2Fdp%2FB07HC752CW%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB07HC752CW%26pd_rd_w%3D0Xb2I%26content-id%3Damzn1.sym.67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_p%3D67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_r%3DTEB1Q3WCXFVQMG8SD8K4%26pd_rd_wg%3D1VVlI%26pd_rd_r%3Ddbbf1afc-5b5b-4fea-878d-78ec94af5ab1%26aref%3DKV0KVXxpct%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw&aref=KV0KVXxpct&sp_cr=ZAZ",
+      "link_clean": "https://www.amazon.co.uk/dp/B07HC752CW/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B07HC752CW&device=desktop&engine=amazon_product",
+      "sponsored": true,
+      "thumbnail": "https://m.media-amazon.com/images/I/81aVVuF68UL._AC_UF480,480_SR480,480_.jpg",
+      "rating": 4.3,
+      "reviews": 6411,
+      "price": "£11.99",
+      "extracted_price": 11.99
+     },
+     {
+      "position": 3,
+      "asin": "B0G3QK43WH",
+      "title": "FUTURE GARDENING Plant Pot Saucers 18cm 25cm 30cm 35cm 40cm 45cm 50cm – Black Round Drip Tray Base/Plant Tray for Pots – Multi Pack 1–100 (Ø 30cm, Pack of 5)",
+      "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MTo3MTc3MDg4ODMwNjA3NTYyOjE3OTA3NjU2NDU6c3BfZGV0YWlsOjMwMDgzODE0NTYzNzYzMjo6Ojo&url=%2Fdp%2FB0G3QK43WH%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0G3QK43WH%26pd_rd_w%3D0Xb2I%26content-id%3Damzn1.sym.67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_p%3D67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_r%3DTEB1Q3WCXFVQMG8SD8K4%26pd_rd_wg%3D1VVlI%26pd_rd_r%3Ddbbf1afc-5b5b-4fea-878d-78ec94af5ab1%26aref%3DzXtIJAkvfy%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw&aref=zXtIJAkvfy&sp_cr=ZAZ",
+      "link_clean": "https://www.amazon.co.uk/dp/B0G3QK43WH/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0G3QK43WH&device=desktop&engine=amazon_product",
+      "sponsored": true,
+      "badges": [
+       "Amazon's Choice"
+      ],
+      "thumbnail": "https://m.media-amazon.com/images/I/71prcCSS1hL._AC_UF480,480_SR480,480_.jpg",
+      "rating": 4.7,
+      "reviews": 178,
+      "price": "£11.95",
+      "extracted_price": 11.95,
+      "price_unit": "£2.39 / count",
+      "extracted_price_unit": 2.39
+     },
+     {
+      "position": 4,
+      "asin": "B07PR9JX99",
+      "title": "Dahey Plant Basket Indoor for 25 cm Pot Woven Jute Planter, White & Beige | Fit 20-25 cm Planter, Reinforced Structure, Foldable No Liner Bin with Handles, Jute Cotton Rope, Decorative Flower Pot Cover",
+      "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MTo3MTc3MDg4ODMwNjA3NTYyOjE3OTA3NjU2NDU6c3BfZGV0YWlsOjMwMTA4Mzg2ODA1MTQzMjo6Ojo&url=%2Fdp%2FB07PR9JX99%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB07PR9JX99%26pd_rd_w%3D0Xb2I%26content-id%3Damzn1.sym.67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_p%3D67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_r%3DTEB1Q3WCXFVQMG8SD8K4%26pd_rd_wg%3D1VVlI%26pd_rd_r%3Ddbbf1afc-5b5b-4fea-878d-78ec94af5ab1%26aref%3Dk4LgZ55DQV%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw&aref=k4LgZ55DQV&sp_cr=ZAZ",
+      "link_clean": "https://www.amazon.co.uk/dp/B07PR9JX99/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B07PR9JX99&device=desktop&engine=amazon_product",
+      "sponsored": true,
+      "thumbnail": "https://m.media-amazon.com/images/I/71Fszf-cNyL._AC_UF480,480_SR480,480_.jpg",
+      "rating": 4.3,
+      "reviews": 2340,
+      "price": "£13.99",
+      "extracted_price": 13.99
+     },
+     {
+      "position": 5,
+      "asin": "B088FQ9GY4",
+      "title": "Seagrass Belly Basket Woven Plant Pot with Handles Natural Foldable for Storage Laundry Blankets Toys (Natural + Black)",
+      "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MTo3MTc3MDg4ODMwNjA3NTYyOjE3OTA3NjU2NDU6c3BfZGV0YWlsOjIwMDMxODU0NTU3NDk4Ojo6Og&url=%2Fdp%2FB088FQ9GY4%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB088FQ9GY4%26pd_rd_w%3D0Xb2I%26content-id%3Damzn1.sym.67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_p%3D67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_r%3DTEB1Q3WCXFVQMG8SD8K4%26pd_rd_wg%3D1VVlI%26pd_rd_r%3Ddbbf1afc-5b5b-4fea-878d-78ec94af5ab1%26aref%3DxufGzPLUwD%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw&aref=xufGzPLUwD&sp_cr=ZAZ",
+      "link_clean": "https://www.amazon.co.uk/dp/B088FQ9GY4/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B088FQ9GY4&device=desktop&engine=amazon_product",
+      "sponsored": true,
+      "thumbnail": "https://m.media-amazon.com/images/I/71Yawu9CwfL._AC_UF480,480_SR480,480_.jpg",
+      "rating": 4.1,
+      "reviews": 2525,
+      "discount": "-6%",
+      "price": "£11.32",
+      "extracted_price": 11.32,
+      "old_price": "null"
+     },
+     {
+      "position": 6,
+      "asin": "B0H6JJ9GYK",
+      "title": "Bamworld Woven Plant Pot Cover Beige 10 Inch | Made of 70 percent polyester and 30 percent cotton, this woven planter cover hides plain nursery pots for a warm aesthetic.",
+      "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MTo3MTc3MDg4ODMwNjA3NTYyOjE3OTA3NjU2NDU6c3BfZGV0YWlsOjMwMTMzNDI5NTA0MDMzMjo6Ojo&url=%2Fdp%2FB0H6JJ9GYK%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0H6JJ9GYK%26pd_rd_w%3D0Xb2I%26content-id%3Damzn1.sym.67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_p%3D67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_r%3DTEB1Q3WCXFVQMG8SD8K4%26pd_rd_wg%3D1VVlI%26pd_rd_r%3Ddbbf1afc-5b5b-4fea-878d-78ec94af5ab1%26aref%3DQsGy8AT39T%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw&aref=QsGy8AT39T&sp_cr=ZAZ",
+      "link_clean": "https://www.amazon.co.uk/dp/B0H6JJ9GYK/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0H6JJ9GYK&device=desktop&engine=amazon_product",
+      "sponsored": true,
+      "thumbnail": "https://m.media-amazon.com/images/I/81pfiCALUCL._AC_UF480,480_SR480,480_.jpg",
+      "price": "£12.99",
+      "extracted_price": 12.99
+     },
+     {
+      "position": 7,
+      "asin": "B0893D8M4V",
+      "title": "Straame 50L Black Barrel Plant Pot Tub, 45x33x34cm Indoor & Outdoor, 1 Pack | Lightweight watertight plastic with matte finish, rinse-clean surface and sturdy build for flowers, herbs, patios & balconies",
+      "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MTo3MTc3MDg4ODMwNjA3NTYyOjE3OTA3NjU2NDU6c3BfZGV0YWlsOjIwMDc1NTczNzA2MjA4Ojo6Og&url=%2Fdp%2FB0893D8M4V%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0893D8M4V%26pd_rd_w%3D0Xb2I%26content-id%3Damzn1.sym.67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_p%3D67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_r%3DTEB1Q3WCXFVQMG8SD8K4%26pd_rd_wg%3D1VVlI%26pd_rd_r%3Ddbbf1afc-5b5b-4fea-878d-78ec94af5ab1%26aref%3DSTirpguB5U%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw&aref=STirpguB5U&sp_cr=ZAZ",
+      "link_clean": "https://www.amazon.co.uk/dp/B0893D8M4V/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0893D8M4V&device=desktop&engine=amazon_product",
+      "sponsored": true,
+      "badges": [
+       "Early Prime Deal"
+      ],
+      "thumbnail": "https://m.media-amazon.com/images/I/61vdHTDKowL._AC_UF480,480_SR480,480_.jpg",
+      "rating": 4.5,
+      "reviews": 1142,
+      "discount": "-15%",
+      "price": "£11.89",
+      "extracted_price": 11.89,
+      "old_price": "null"
+     }
+    ]
+   },
+   {
+    "title": "More from frequently bought brands",
+    "items": [
+     {
+      "position": 1,
+      "asin": "B0GF157S39",
+      "title": "WSMKSZ 25cm Self Watering Plant Pots Indoor Outdoor, 3 Pack Flower Pots | 10 inch Large Thick Plastic Planters Pots with Drainage Holes & Removable Deep Reservoir, Cotton Wick, White Brown",
+      "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MToxNDI4ODU0NjQ1MDU1MjM5OjE3OTA3NjU2NDU6c3BfZGV0YWlsMjozMDEwMTcxNTI1NzUwMzI6Ojo6&url=%2Fdp%2FB0GF157S39%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0GF157S39%26pd_rd_w%3DvXZyU%26content-id%3Damzn1.sym.1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_p%3D1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_r%3DTEB1Q3WCXFVQMG8SD8K4%26pd_rd_wg%3D1VVlI%26pd_rd_r%3Ddbbf1afc-5b5b-4fea-878d-78ec94af5ab1%26aref%3DKrzzF2iKUL%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&aref=KrzzF2iKUL&sp_cr=ZAZ",
+      "link_clean": "https://www.amazon.co.uk/dp/B0GF157S39/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0GF157S39&device=desktop&engine=amazon_product",
+      "sponsored": true,
+      "thumbnail": "https://m.media-amazon.com/images/I/71dQHeeSE7L._AC_UF480,480_SR480,480_.jpg",
+      "rating": 4.7,
+      "reviews": 95,
+      "discount": "-21%",
+      "price": "£22.79",
+      "extracted_price": 22.79,
+      "old_price": "null"
+     },
+     {
+      "position": 2,
+      "asin": "B0FZJFMFW8",
+      "title": "WSMKSZ 20cm Plant Pots Indoor Outdoor, 5 Pack Plastic Flower Pots, Black | Decorative House Planters Pots with Saucers & Drainage Holes, 3D Modern Wave Texture, for Pothos, Peace Lilys",
+      "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MToxNDI4ODU0NjQ1MDU1MjM5OjE3OTA3NjU2NDU6c3BfZGV0YWlsMjozMDA5NjQ3Njc4NjM3MzI6Ojo6&url=%2Fdp%2FB0FZJFMFW8%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0FZJFMFW8%26pd_rd_w%3DvXZyU%26content-id%3Damzn1.sym.1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_p%3D1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_r%3DTEB1Q3WCXFVQMG8SD8K4%26pd_rd_wg%3D1VVlI%26pd_rd_r%3Ddbbf1afc-5b5b-4fea-878d-78ec94af5ab1%26aref%3DypUyHtF6pT%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&aref=ypUyHtF6pT&sp_cr=ZAZ",
+      "link_clean": "https://www.amazon.co.uk/dp/B0FZJFMFW8/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0FZJFMFW8&device=desktop&engine=amazon_product",
+      "sponsored": true,
+      "thumbnail": "https://m.media-amazon.com/images/I/71hCQkA7KDL._AC_UF480,480_SR480,480_.jpg",
+      "rating": 4.8,
+      "reviews": 176,
+      "discount": "-12%",
+      "price": "£19.37",
+      "extracted_price": 19.37,
+      "price_unit": "£3.87 / count",
+      "extracted_price_unit": 3.87,
+      "old_price": "null"
+     },
+     {
+      "position": 3,
+      "asin": "B0GS5HPR3H",
+      "title": "SG Traders Outdoor Plant Pots - Premium Petal Garden Planters with Drainage Holes, Weatherproof Large Flower Pots for Patio & Garden Décor - Durable Modern Planters for Outdoor Plants (Pack of 2)",
+      "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MToxNDI4ODU0NjQ1MDU1MjM5OjE3OTA3NjU2NDU6c3BfZGV0YWlsMjozMDEwMzAxMzU1NzUzMzI6Ojo6&url=%2Fdp%2FB0GS5HPR3H%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0GS5HPR3H%26pd_rd_w%3DvXZyU%26content-id%3Damzn1.sym.1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_p%3D1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_r%3DTEB1Q3WCXFVQMG8SD8K4%26pd_rd_wg%3D1VVlI%26pd_rd_r%3Ddbbf1afc-5b5b-4fea-878d-78ec94af5ab1%26aref%3DDW3qxCjKF8%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&aref=DW3qxCjKF8&sp_cr=ZAZ",
+      "link_clean": "https://www.amazon.co.uk/dp/B0GS5HPR3H/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0GS5HPR3H&device=desktop&engine=amazon_product",
+      "sponsored": true,
+      "thumbnail": "https://m.media-amazon.com/images/I/81Ugv6rDjCL._AC_UF480,480_SR480,480_.jpg",
+      "rating": 4.4,
+      "reviews": 359,
+      "price": "£16.99",
+      "extracted_price": 16.99,
+      "price_unit": "£8.50 / count",
+      "extracted_price_unit": 8.5
+     },
+     {
+      "position": 4,
+      "asin": "B0CWFBRQLL",
+      "title": "PROFIKLA 30cm, 25cm,23cm Plastic Plant Pots, Pack of 3 Planters, Large Plant Pots with Drainage Holes and Saucers, Modern Decorative Flower Pots, Black",
+      "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MToxNDI4ODU0NjQ1MDU1MjM5OjE3OTA3NjU2NDU6c3BfZGV0YWlsMjozMDAyMzU3OTU4MTU1MzI6Ojo6&url=%2Fdp%2FB0CWFBRQLL%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0CWFBRQLL%26pd_rd_w%3DvXZyU%26content-id%3Damzn1.sym.1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_p%3D1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_r%3DTEB1Q3WCXFVQMG8SD8K4%26pd_rd_wg%3D1VVlI%26pd_rd_r%3Ddbbf1afc-5b5b-4fea-878d-78ec94af5ab1%26aref%3DxphtlKjuPm%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&aref=xphtlKjuPm&sp_cr=ZAZ",
+      "link_clean": "https://www.amazon.co.uk/dp/B0CWFBRQLL/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0CWFBRQLL&device=desktop&engine=amazon_product",
+      "sponsored": true,
+      "thumbnail": "https://m.media-amazon.com/images/I/71VUt+2bZ-L._AC_UF480,480_SR480,480_.jpg",
+      "rating": 4.8,
+      "reviews": 141,
+      "discount": "-17%",
+      "price": "£29.99",
+      "extracted_price": 29.99,
+      "price_unit": "£10.00 / count",
+      "extracted_price_unit": 10.0,
+      "old_price": "null"
+     },
+     {
+      "position": 5,
+      "asin": "B0893D8M4V",
+      "title": "Straame 50L Black Barrel Plant Pot Tub, 45x33x34cm Indoor & Outdoor, 1 Pack | Lightweight watertight plastic with matte finish, rinse-clean surface and sturdy build for flowers, herbs, patios & balconies",
+      "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MToxNDI4ODU0NjQ1MDU1MjM5OjE3OTA3NjU2NDU6c3BfZGV0YWlsMjoyMDA3NTU3MzcwNjIwODo6Ojo&url=%2Fdp%2FB0893D8M4V%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0893D8M4V%26pd_rd_w%3DvXZyU%26content-id%3Damzn1.sym.1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_p%3D1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_r%3DTEB1Q3WCXFVQMG8SD8K4%26pd_rd_wg%3D1VVlI%26pd_rd_r%3Ddbbf1afc-5b5b-4fea-878d-78ec94af5ab1%26aref%3DSTirpguB5U%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&aref=STirpguB5U&sp_cr=ZAZ",
+      "link_clean": "https://www.amazon.co.uk/dp/B0893D8M4V/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0893D8M4V&device=desktop&engine=amazon_product",
+      "sponsored": true,
+      "badges": [
+       "Early Prime Deal"
+      ],
+      "thumbnail": "https://m.media-amazon.com/images/I/61vdHTDKowL._AC_UF480,480_SR480,480_.jpg",
+      "rating": 4.5,
+      "reviews": 1142,
+      "discount": "-15%",
+      "price": "£11.89",
+      "extracted_price": 11.89,
+      "old_price": "null"
+     },
+     {
+      "position": 6,
+      "asin": "B0H6XDH99Y",
+      "title": "WSMKSZ 25cm Plant Pots Indoor Outdoor, 3 Pack Plastic Flower Pots, Black | 10 inch Decorative Planter Pots with Saucers & Drainage Holes, 3D Modern Wave Texture, for Monstera, Peace Lilys&House Plants",
+      "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MToxNDI4ODU0NjQ1MDU1MjM5OjE3OTA3NjU2NDU6c3BfZGV0YWlsMjozMDEzNzI0OTY2MzY0MzI6Ojo6&url=%2Fdp%2FB0H6XDH99Y%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0H6XDH99Y%26pd_rd_w%3DvXZyU%26content-id%3Damzn1.sym.1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_p%3D1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_r%3DTEB1Q3WCXFVQMG8SD8K4%26pd_rd_wg%3D1VVlI%26pd_rd_r%3Ddbbf1afc-5b5b-4fea-878d-78ec94af5ab1%26aref%3DmgKz1srPZd%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&aref=mgKz1srPZd&sp_cr=ZAZ",
+      "link_clean": "https://www.amazon.co.uk/dp/B0H6XDH99Y/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0H6XDH99Y&device=desktop&engine=amazon_product",
+      "sponsored": true,
+      "thumbnail": "https://m.media-amazon.com/images/I/717f9XcQI2L._AC_UF480,480_SR480,480_.jpg",
+      "rating": 4.6,
+      "reviews": 11,
+      "price": "£27.99",
+      "extracted_price": 27.99,
+      "price_unit": "£9.33 / count",
+      "extracted_price_unit": 9.33,
+      "save_with_coupon": "You pay £22.11"
+     },
+     {
+      "position": 7,
+      "asin": "B09KJM3P64",
+      "title": "KORAD Wood Effect Indoor Plant Pots with Saucer and Drainage Holes, Round, Modern and Decorative Flowerpot for All Houseplants, 6 sizes, 25 colours(18 cm - 7 inches)",
+      "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MToxNDI4ODU0NjQ1MDU1MjM5OjE3OTA3NjU2NDU6c3BfZGV0YWlsMjozMDA4MzM2MTg2MzM0MzI6Ojo6&url=%2Fdp%2FB09KJM3P64%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB09KJM3P64%26pd_rd_w%3DvXZyU%26content-id%3Damzn1.sym.1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_p%3D1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_r%3DTEB1Q3WCXFVQMG8SD8K4%26pd_rd_wg%3D1VVlI%26pd_rd_r%3Ddbbf1afc-5b5b-4fea-878d-78ec94af5ab1%26aref%3DYfZK8wC45e%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&aref=YfZK8wC45e&sp_cr=ZAZ",
+      "link_clean": "https://www.amazon.co.uk/dp/B09KJM3P64/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B09KJM3P64&device=desktop&engine=amazon_product",
+      "sponsored": true,
+      "badges": [
+       "Amazon's Choice"
+      ],
+      "thumbnail": "https://m.media-amazon.com/images/I/91anDiht+9L._AC_UF480,480_SR480,480_.jpg",
+      "rating": 4.6,
+      "reviews": 1694,
+      "price": "£9.49",
+      "extracted_price": 9.49
+     }
+    ]
+   }
+  ],
+  "product_description": [
+   {
+    "position": 1,
+    "title": "the plant pot with liner",
+    "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4611e52c-c400-4573-af0e-3b5237a44861.__CR0,0,970,600_PT0_SX970_V1___.jpg"
+   },
+   {
+    "position": 2,
+    "title": "the best way to plant a planter basket",
+    "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8e26862c-0c7a-48c0-9d98-1a5b4bbe3d3b.__CR0,0,970,600_PT0_SX970_V1___.jpg"
+   },
+   {
+    "position": 3,
+    "features": [
+     {
+      "position": 1,
+      "title": "INDOOR PLANT POT COVER",
+      "text": "The plant pot can be used to decorate potted house planter, beautify your favorite plants. The natural woven cotton texture is healthy and does not hurt the environment. Plus it adds a modern flair to your house.",
+      "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b02064ca-7c31-4475-938e-8c1c1f970106.__CR0,0,300,300_PT0_SX300_V1___.jpg"
+     },
+     {
+      "position": 2,
+      "title": "STORAGE BASKET FOR TOYS",
+      "text": "It is also a good storage basket that can be used to organise small items like toys, towels, sundries, socks and magazines.",
+      "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1c1d22fe-25c0-4124-a69e-76f07361465e.__CR0,0,300,300_PT0_SX300_V1___.jpg"
+     },
+     {
+      "position": 3,
+      "title": "REMINDER NOTES",
+      "text": "The planter basket might distort for a little as it is folded during shipping. To restore its round shape, you could either iron the basket outside or filled it with something bigger like blankets for a while.",
+      "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1ee9ed3d-ae1a-41d1-b17e-d20a702d1560.__CR0,0,300,300_PT0_SX300_V1___.jpg"
+     }
+    ]
+   },
+   {
+    "position": 4,
+    "title": "a plant in a pot next to a chair",
+    "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/261f206f-d83c-4164-8f12-0c0a1c249140.__CR0,0,970,600_PT0_SX970_V1___.jpg"
+   }
+  ],
+  "product_details": {
+   "colour": "Black and Brown",
+   "product_style": "Modern",
+   "planter_form": "Plant Pot",
+   "item_shape": "Round",
+   "pattern": "Geometric",
+   "theme": "Floral",
+   "brand_name": "tenn well",
+   "included_components": "Planters",
+   "country_of_origin": "China",
+   "unit_count": "1.0 count",
+   "set_name": "1 x Planter",
+   "item_type_name": "30cm Plant Pot",
+   "manufacturer": "tenn well",
+   "best_sellers_rank": [
+    {
+     "text": "1,485 in Garden (See Top 100 in Garden)",
+     "extracted_rank": 1485,
+     "link": "https://www.amazon.co.uk/gp/bestsellers/outdoors/ref=pd_zg_ts_outdoors",
+     "link_text": "See Top 100 in Garden"
+    },
+    {
+     "text": "25 in Flower Pots",
+     "extracted_rank": 25,
+     "link": "https://www.amazon.co.uk/gp/bestsellers/outdoors/4224875031/ref=pd_zg_hrsr_outdoors",
+     "link_text": "Flower Pots"
+    }
+   ],
+   "asin": "B0BW947XQK",
+   "customer_reviews": "4.1 out of 5 stars",
+   "rating": 4.1,
+   "reviews": 900,
+   "item_dimensions_d_x_w_x_h": "30D x 30W x 30H centimetres",
+   "capacity": "17 centimetres",
+   "number_of_pieces": "1",
+   "number_of_levels": "1",
+   "item_weight": "0.76 Kilograms",
+   "item_dimensions": "30 x 30 x 30 centimetres",
+   "size": "30cm",
+   "other_special_features_of_the_product": "Reinforced",
+   "mounting_type": "Floor Standing",
+   "has_drainage": "No",
+   "plant_or_animal_product_type": "flower",
+   "material_type": "Cotton, Iron, Plastic",
+   "finish_type": "Painted",
+   "indoor_outdoor_usage": "Indoor"
+  },
+  "sponsored_brands": [
+   {
+    "position": 1,
+    "name": "Sponsored ad from Elho. Shop Elho.",
+    "link": "https://aax-eu-zaz.amazon.co.uk/x/c/JKwgsupVZCi-4_KXeteX4DMAAAGg8fM-OQoAAAH2AQBvbm9fdHhuX2JpZDIgICBvbm9fdHhuX2ltcDIgICAtXHKk/clv1c_ek-wBff3Vcba5noqeEZvQWgzhLK7kAYXBH9A0whLNefxUdqYup4zpgI7cVDCkTnavEPe1SdQ5G4n8fglejn8TMQe5aNT9ahg3YTXbupunQAWTTHbBnw0fIl65uoknqJQO_IWeVp2AxoUlFgdHX5OZVPbuu0cllT7sM7kP1eqSYwHNTMtFpmLfHCPpY96c7sc2rISxWmPDUs4taR6fMjGygbIiwo6QEDxsZ5h_4iudt_atUhOGyD1Y9oefqyOXlZ7Gugt0m93zeejG3XeoI-llJ-xBSZzs47ebk51t6Mvx6-tNd6xeBLXO33Ag4TBlTfgBJ8qEMcVtPvgkb6s-YsS80fPMt2mWyjeS6UjOJrH7dIf0V_p6PLOqD9HQVoAe9Tx3Bx3VwaLS9rsqM3pNrarYmOi-ckpLYfw5jGB8jnyQY7GlTL7j_MSpsx4Iy3gPbe1nvZbPMozR9IoXCNVGBOrM8OGmpjUBBIdlbEkfS_BUfYeCbu8JRNOY6cBsU8Qp3uRGNxzovdEXlRW-nxsygpdjcQXmTZ8eeqD0K6j7XU-duY_SxWeeBhHIo3dNOQe_15RqocSUOpwite1b7SR2y_58YsEUf8uxkO8s8Xm5gsB1uoUmqTgja6d_xWoljL3Tx4g7GBstBsc7GJqGZq2iqhgwDxfGRr95ahUv_vaXoPaGhqOvEBbQiTLfgAd1nobuR0bKmwiCIRHjQFj-0buJ_tQ_fCRO1ek9oKD35oijWC64khYRKWqgLN_0_NvzShNGQbs1wqyPBtr8J5ApIzhuxoghljyylMsFdPs8gGCfK8CpJqjXxeRJij5C8gxP0CmxLnero2eHWwhX66T7NPG5weKtbmFv0IV9R39qujn9JCVaIoo_TYppkftRGIXF2rDb0exo7aUwfKm-Wo0d5KMC919oJldtxdPJ8gBSXKN0ONqcEuaV4oMAa2zjyta6Gs3-STuhLUfRYBgn1oXpEuEJGI461MaAjUpL-cgNs0kG6xORAzPU45PBkJHw1goqtC4WGb29jFnpIdNKUEoY3_40deYmJYEFLLRKW3RZ15GftXUk4ui7zsyC7xGpBzjjnkyUWjOo7U4LAQvy_wLCGJlUkJOKpVKhy-6eYlIBvsHocu087aXBxLyE03v6uCrg0ozF9fDv6X0ympgPrn4qrvNcDZ0PZTkYdsKddIALfVhheRV0kS0oLmUqzJCZE1i_diIGjHZCkvrTDVButPfIlk3QnyjNXHDUC3Isi9ShQ5dNoDhVDzpV8piAQlQ6rNggQ0aMLBl23tmRlxPrrgk24A6AhaK6TxpQRzHg2Du5c4rLof_D7FzpwTGqgZQVOrvPTN-zJq0MWL-Be1hqHzuG6Wu2ue8sxYd1dd1183DEXEz0u8VvYtXIXcBDMa5a90AWZ4ZhU153f9lQLQ0Y7JN55GDaXwvBWgYGU7zdNQXFpFuCe-ARcQ4tBk5/https://www.amazon.co.uk/stores/page/881BD205-A2D7-4DBF-A283-A84021F7F4BA/?_encoding=UTF8&store_ref=SB_A01117183JXBYQKSLQAYN-A02854042ZSC8AU17VLTR&pd_rd_plhdr=t&aaxitk=276e7332a34877aef7c6f65ef3478ba3&hsa_cr_id=0&lp_asins=B0FND8N1LB%2CB0CZ7BLJSX%2CB0FGT62NZG&lp_slot=desktop-arbies&lp_page_asin=B0BW947XQK&aref=OjtQvNTO6K&pd_rd_i=ad1&ref_=sbx_be_dp_arbies_mbd_mb0_bkgd&pd_rd_w=YuAYr&content-id=amzn1.sym.3a94f937-2f2f-43f3-b944-7c861b27954f&pf_rd_p=3a94f937-2f2f-43f3-b944-7c861b27954f&pf_rd_r=TEB1Q3WCXFVQMG8SD8K4&pd_rd_wg=1VVlI&pd_rd_r=dbbf1afc-5b5b-4fea-878d-78ec94af5ab1"
+   },
+   {
+    "position": 2,
+    "name": "Sponsored ad from WSMKSZ. \"25cm Decorative Flower Pots.\" Shop WSMKSZ.",
+    "link": "https://aax-eu-zaz.amazon.co.uk/x/c/JDoKQ0eGwg6Az0Yn4P0pAqEAAAGg8fM-OgoAAAH2AQBvbm9fdHhuX2JpZDIgICBvbm9fdHhuX2ltcDIgICAvRDaR/clv1c_ek-wxff3VcbWTPuFiN33IfBwCrM5kPjozglfqxqMOiGvYT8WGeMxZvuG-09A8j_c9qxfb9KOOyzURi5WqsaoLz6pDR6kKlpFU3xzvbAgPMw6TwnYJkzcPLF-6uQU_iKQSmcM0h_iDVdiJ0yqggtupuyT4NyYjlHinowQjzao1ZaHacuM7oow_laO8GP6wipOeLzkMl9xJ1doF0K8tlxm2yMREXO0oa7iD6N9rPSqJiEfPNA9U-n2JN50n_GG4Q9g630dAVkUIEOPXBRTQjMlaqh6OnxAHlc0CXiYgigrr3PehPZkqp9hCZ1IjLfGhLDe7GQi90cYhENyI-J4MpmY2r0_Giq_Gcy5VXMg4o-9Hneq13MX9e-a83zO_eZvzlvtxM2Tkj-rkt-118A35Ti5RpSor0ej_-_Y7tMpU1xc2ULfCmOTqWkPNr1Jnb3a1I7_fitzG8ew9ur8ozrpVauOjNNkczc5hesOHXr7FzaZ7STVY2fXdGYG7UKZGwLVNa_OsF6w32hcAlsn1p_hLOl25OK-Wy-kr2KNuwlus9t1L5NoQW717leqnQp8XXj6qxV76lNNH5v0dEEFKL__y5kqlO_oLD01pOGMT3_xFaagEfEh-OpEk5gBKTNNjxT22nRcc-ZU46Md8agiKb5HNDvjHX69vdF0HXSr0aMDm8fmpIPM28hc7oQ9x33Wvm8yXsYHDKgY7qLCRxF9dm0rNgPCrEm4pD0Z0eyjPhruwvIKaKYHu9rtWyU35zlbmkMnWjPjwyaeMfTXu7xz5kTI0wMVgjO4EW9yNa3GNXkdqUMFbRBK89Qmt03WjViBtPZEnN9UgfpqRYaCAx5XT0fopxQMMDZnkwpLmzqbi3V4XQvDWRZe5ezMDCP8MiIafxDi6Jd-Sv6YqnHrMEG3wyMRoHvyFvrtlyYFiL-IWhL24URvvDpZhf21WPMgIPXULoWsCkc2zr6IU4uHI5DDoX6MO3Mq998g4YA87scoNBVDMBphmFEqz4Exsq0Xpvo1mpApKrN0b73M-uTGP0NFJGNMKxrxkxqU0uf9I_ySkyiPw4MNxYtvvsJLkB4h5QQxKS6zin9x76tHDb8hpwkzBJbYcorzcgX_98pq8AZYAnjAO9PSHg98k5esMZ0EOai_gj87p9eMr9vRNDj-r-0dfNaTFPGyf7SYya18VcvVkyfFAlcxpgSCYosT1X37hXJUXXxblob-_JCCzS9f5121tTMLYsMwKV9FIjsZYYxC9XN_B0W7S1V4jnq4oVYxjtSF1oqke5-BljpMkSNXzev4Cg_QiwaeJ7Zmaw5XjKvUux7itoEsJxUEnS45lDCya_Hj-OUtH3o8Be904610jJGUC3vfIbXlJswRtrLtoGhG-c6KgVMVR2gKSpddy9WTAxDsYYkgf8RYjblmkL831WdvwzdgY2dKIOlW4v3yG8UCmo5fc-hS1esL81zS04c-MTzQALoRhAkjwRMY/https://www.amazon.co.uk/stores/page/D99D3780-E9A3-44BC-A9C5-82D31AC07C74/?_encoding=UTF8&store_ref=SB_A103332416BC6FOMGEJID-A09284421ZVEJRXLH65LQ&pd_rd_plhdr=t&aaxitk=c048279edecf4420b7e9f734f1bb410f&hsa_cr_id=0&lp_asins=B0H6XCH2PP%2CB0H6XDH99Y%2CB0H6XG8X17&lp_slot=desktop-arbies&lp_page_asin=B0BW947XQK&aref=wUuGa7kvqf&pd_rd_i=ad2&ref_=sbx_be_dp_arbies_mbd_mb1_bkgd&pd_rd_w=YuAYr&content-id=amzn1.sym.3a94f937-2f2f-43f3-b944-7c861b27954f&pf_rd_p=3a94f937-2f2f-43f3-b944-7c861b27954f&pf_rd_r=TEB1Q3WCXFVQMG8SD8K4&pd_rd_wg=1VVlI&pd_rd_r=dbbf1afc-5b5b-4fea-878d-78ec94af5ab1"
+   },
+   {
+    "position": 3,
+    "name": "Sponsored ad from P Dot Wolf. Shop P Dot Wolf.",
+    "link": "https://aax-eu-zaz.amazon.co.uk/x/c/JL83Y-VD4SWzocN4Rjq2PJwAAAGg8fM-OwoAAAH2AQBvbm9fdHhuX2JpZDIgICBvbm9fdHhuX2ltcDIgICDGdgo1/clv1c_ek-YBYHXFcbWBg2jMzR3-fLIPQBSutb9mK4kRF7ym_GQNrzjGaFXrUMsb6i2t1fD_-kC0GcHduiBeoC1Tu1q7V8qCuPtfwfuaTEtz0thPNT3uldbe88ivEvcunm1I3NCgHF8YV1LxNfSwLRZCOjsRPBZqvE81hdqEsbl0wsKnYeYWnA7UNj734qeOUPKg63ztva3TnFWCT-w5QQuFkvBNfz-SF6-xx-_Tm5shpsBZ90hNAVOGTuDwre8P8xyhduCcuAxQgl7RokyHn5NNckhcWcG0iN0EKCm_-0l_Ji8fLO_FPQNMKLs10fCCAlcosoLi9_XHm1SF9h8s3xYgAu197q1K1KUJridb1Z8dyklY2st6S5oN0T4i26nDkdiplAdXN5wMFdsSewEdxvxhPuRoyJFmycKIP-52g4bYvKwbNHt-S0txW8vowuX5rBcvDnR4lxk0AoLuCb29683vyRKuMOi3SkX_RcJwABCSYRxQuKwNntzrC-gZhopFyYOTCnkCM-04bsk-fb4lj8vy1-21gWE8uPdEM-8NfVVeJiVGEYNS4eHcnTTIAtw9TKbj0OcHNSqunyblC2IaAqZMQ05gA2PsZIVr6cR_Ru-pnO1ETHE8FasJ6MwOf4V7p2rhZA-BSMNPxJ63uDBO0YGP1CC2uzjRKAM7Se3T3-3wWP91uoifsOY9HkrxEZaphqddoAH1WViHtlpIcEVAxqOraHHb_CDrlOZypXPz9_FL2BW0-AdKfkYeVLKbZDebrF2A4e-WAmt6U3U6VUDDudRl_3Ze5xSI6hFhTAAj2f7VPjMHx8p8hcynNyrbgfa-8z_2lVpNqXP5hcTOuKDkNJEEsf8rpeDSKs4xOh1MFznGvAIR2KPvoslkITUvEMi6EH8h9KOIGDt-C6-DiWGiOQDCBtzy-Yv-uNCOAHl_2EA8qSsM1MpniuytE9vt28o0HnVGvsxb2aJbk47uuWQwFHOUSXJkH84g_XSdfREprhE08XzeoiEwnmM-0dWHiMl1hjvvd-YdSk_yj2G_nnUWRPRpLV6RTrn51Ub8YEbbqaXnVklEFLI9ZYZCpleYMZTuJho8KfZzT0ZBXF3bLFBrCZ4BpOZ8JcAf_qk3aAMHXpiNbVtNTNwPMdVVbnGiipM8yulF9RGGG7stn3RqXykA-gh3WnsBjwbXgjMB-kqB7k4AL3PVoonNRnrora_ButkcGPGM6viDwy2hsWGx7LhnYgrctT-d0R3-CTCxpqc47M8uV877Hz1qtrosnvAOKJoso7Lv6WED0zzxIlTrhy5jvA_x7trjL1uHI7p0k93g7zeHZ6ORyJYe6FWbLAcMEwnHturjee94X6Rw0V2R6ZP7IOEcewfqxe5Wsax9knA1DdvLN4YEfwgQaZq8MxgioMlF-A_ycy4jocIZ4MUJ6U3IGvsTehrjRmU/https://www.amazon.co.uk/stores/page/2214B176-2651-430A-86CC-6CB32CDE7EBC/?_encoding=UTF8&store_ref=SB_A0698134DPM5J0Z1TYWF-A078324122OEJGQHDFGJ4&pd_rd_plhdr=t&aaxitk=b5f62ce9be67f5dc2440ac977eb972d7&hsa_cr_id=0&lp_asins=B0B6WWRN4M%2CB0B4BGFWHH%2CB09VCKTSM3&lp_slot=desktop-arbies&lp_page_asin=B0BW947XQK&aref=zr58triFkc&pd_rd_i=ad3&ref_=sbx_be_dp_arbies_mbd_mb2_bkgd&pd_rd_w=YuAYr&content-id=amzn1.sym.3a94f937-2f2f-43f3-b944-7c861b27954f&pf_rd_p=3a94f937-2f2f-43f3-b944-7c861b27954f&pf_rd_r=TEB1Q3WCXFVQMG8SD8K4&pd_rd_wg=1VVlI&pd_rd_r=dbbf1afc-5b5b-4fea-878d-78ec94af5ab1"
+   },
+   {
+    "position": 4,
+    "name": "Sponsored ad from T4U. Shop T4U.",
+    "link": "https://aax-eu-zaz.amazon.co.uk/x/c/JH7ikQmj3c03mwJw3AK3rfMAAAGg8fM-OwoAAAH2AQBvbm9fdHhuX2JpZDIgICBvbm9fdHhuX2ltcDIgICC55mEV/clv1c_ek-YBQvWFbbW5XojsutPkS5wfBxWu8TNkQ4h0whCt-dWdBb_r_jpN-Yzcg3l0xN4g5jh0ZXYKzZffigP9-O0EAE0_hJecCcHQI1o3qgS2u0-qhWqOqb39wRAgLn2r1otPyj9kB1QRBwMQyd53PJk5KVgKH2clV36guVSjTal1tb32aqbG0MhSdYa-ywlAmOwzy-NfStiT2NQNaV-ud_N_xpDu_0vUa7PqKzHzMrqxDQxk7hpoGTa1RZWlGbNlhXGAMDz3rpM0pa2kBl_dXQS_yrRQWSOXFcJ-kBXUbl29s8rsh6G3Ie35rXaYANs_qx11H7k3IaD9jeZ1krBIGLpVks5OvEDNO0wg95pdQSVDbZDEl6iFtNh5klhZPDw7J_jBUMVL-5bt4g-isrLKTC2vE32GKYau4Nh6m4J1vj63oOhFFHJukMoZw6qBt8UyAIkb_TTkoYqqFrdJgi5_2pJywS6EpQ7crUATpWSfmJ9fcaGIykVJkmPCdYZuduDd269fTC5AN8MpsB2p5jZaj1tnXYRb4mNRej0mJ4ZKPuf9b6o_gVxsAmZEDE7vRfB1CcQ30KlG5fr4PlpaUqBYjsisGF_Oi_9OW7eOpbZ_wfh-jZxPgBEz9soObC49A-7Gd67pUpjo5FU8eAUyiiPb1_MclPZAYqqfSuHJBt1Z49svEa3ibw47rLOp3zV2WweJax3jNmZMnHB4wiJIUSAiWO2dZK_7BCWCiIGt-4jYlKnXz18f5wLj_g0WpgtLf799ZSrToZoqGpKfctneZmAigGbo_HP8aFczPQsFGXHmxKvCi4pkOgd038BNq3jDr6-tjyjtH3y5gZGp5wTaLQbgx5nhpEBjAe-gWiDlG0yZdo9mcGB3ZyMMXy3IwC0ZBvIU_-C2ODVsHi0uH_CL0hleZaRfkmr6Nplaydql6xExDe2nyBNPXV6GYxMsrXNjc7q--F4UXDZUD7XY7kOX9RPmjsisfquQaWfdie_Oj44Df7RhmTr9tzwguSMz9K1twa_KePqgvV_JycxcoR4ULyPcoFiTwPhJdfVPJAuMn2fX_3_n5DVRRJy0XaR8mZD5CO0vJAB9qubkXNRXuBLK51tFtoNUFnbe0Tsygk-pVQeUJoMMaUOvUsr1F3Z-iEcXZtjAskx_I1hcUJ-SbA2mfcrUY80H1kEuTrjM_T2Fs8a7Rhsq-6AO1wVbA8TDNzQqNaUkkhhBizMwMlAdc20lD1nL6-56J7-oWaWqQcUY0pwcbqNzTVArSjgLNMMqbEGktqDGlUxe3dOEfxxupaU9qr0Vx5xtDtR0W_5LKJuQURLsHZmbiHhdNNtFDf4pR6euSIePFjGoI1xYTJBvsnpUpAZwZpIlrLqmb20Rk19vB7GO37HY8FDlry3WoNifwrxjWtBbiP3mfzHPemt5ZBGCn_4xkXiBYrAyXCBWi2X/https://www.amazon.co.uk/stores/page/C9CCE787-A050-4651-BFE0-2602BB8E4CD6/?_encoding=UTF8&store_ref=SB_A08510831L19BX31BMQPG-A06179142VWDHF0A34F44&pd_rd_plhdr=t&aaxitk=c455396586b8d6ba292a9ffc71cd21af&hsa_cr_id=0&lp_asins=B0G2BPGN3Y%2CB0G2BNRZ9S%2CB0G2BMG7Z8&lp_slot=desktop-arbies&lp_page_asin=B0BW947XQK&aref=jViQ0vuaJT&pd_rd_i=ad4&ref_=sbx_be_dp_arbies_mbd_mb3_bkgd&pd_rd_w=YuAYr&content-id=amzn1.sym.3a94f937-2f2f-43f3-b944-7c861b27954f&pf_rd_p=3a94f937-2f2f-43f3-b944-7c861b27954f&pf_rd_r=TEB1Q3WCXFVQMG8SD8K4&pd_rd_wg=1VVlI&pd_rd_r=dbbf1afc-5b5b-4fea-878d-78ec94af5ab1"
+   },
+   {
+    "position": 5,
+    "name": "Sponsored ad from Mario10. \"Best Premium Collection.\" Shop Mario10.",
+    "link": "https://aax-eu-zaz.amazon.co.uk/x/c/JAHMHsUVNkV4gde1eT6VVEAAAAGg8fM-PAoAAAH2AQBvbm9fdHhuX2JpZDIgICBvbm9fdHhuX2ltcDIgICBuNwfL/clv1c_ek-YBYHXErbWBgOjMzR3-fLIPQBSutaNcFtyMGnjHesDcvNC6VlKBNoGcOsY3xN4y0xnF7uuwZJf_u4Cderprn-baRxzPhFwoyH1jCRgzQ4-qJ07SglOjMHvxmH0ZPM_NCzq69kMAjmEu_MTZr5AGL-fMF2ekmmuGsjYL3erzpsvgdt9zlbFx2t_I38szZMBEEj3yemKGwDCoVzJ36ihafg_1Z-dpWfOQeiMpnhk4bQ_k1FncuytKWtcqOoKBinqtF1DhI0wcYyKFMf-AU7NaDVH5KWzbS4Qtkz8qsT_YHPehOlmCqG0IL7cIc_26Udq6yvfJWmcF0pq8VvXCTk2ZTzzRZSVlifQjBhj5s-tizD4q-FSgStvSmtZcDhBSvKVJWi0Di7sa-P_QXQQolzM6epFVfk2QraYkbaa25JdWVLZOoO1VcVy0NI8AKt19Yk4I9_gqtX2m_X4oya2TeHFL1rSoQNu7u6zui5fLkt0Qn7L1x_OdGYC7lo9ToTL9URRWNH5kRts_8d-W7mBzLB2DjQ06Zo0dS7fTO7tk9sHL5NRwejpuO5O845XodcJCkixmu9FQHCQ184TiV2PJuqhWM_0t5XZ3RF5pHXqiG1s6Srlky4CJsz0VtrTilVd5NtxY8ABUSRe6jNN6CqM0Wi0QHBY6tj03ccPjPMApIj7g_q1QUIJe4ot7FPLwKmEGpG2L3jHOZNPNXCIKfWxsKbcyzJ82zbtRR2hzSzqqrEgnsVmtrdcdN3qeQIdMNTDPv7xtIc9nXs6HERKRtImg9U0dx7-8R5RBGRTKa8xGqgZ3DedcsamLXnbmvIvpZnBBtLyBLV0dx0Apl5h8qEY2m8h0X2tAV4-sVxQsZnspVvJ0MzGLdM3rMD6bic6IpIflJhxH3EHWDzeOPgZHIqg6pX2MTvhkv3RF4yOcfKmIeTTWj_5NbNvSwSrwq6Vyy6dMN58rYaET0cLxdNFiVHrIrHu65bMbBOxRXawp7lNlkDjkLb60Y4ClZBAz-UH1Ffwizkhhnmti9ksO9FWDHhXZPl73NZ8g-2NMs3WAfLdVXqHjJnA2syIqOf9N7kZu68kkEbIGjDby75vDmrLX-qyxG8FPQLLO69Q0Lk50q9utmIalgCUuDM_qhXx0bNS3PpqBkNKxhIUGPZjnDoDy4F5cvI15TKGlz_j9azHOQLYnpebhJby5MKiFZA_Jvo2ZbtYJ1vsO8EOGU6lS30MG0XNOmXDmzO7mIlrEQUKTxKmzFAInF13rNfED3HLu7JxWOh2CLWtW1cbq6ABQEMJymA1gBrzVGw7nPtoFvfxxPHfsMqd-03Qu6Hkk4P_8yK8_7whbCd0jQz_XiDGWWCdFi3HqG6VmA5c_nWnYtuTcddBEMQVFcXoh3goJhnGKwanm-sYvaAJuNpNKJZuU99W2Npj5vJ6Eo8GYR4/https://www.amazon.co.uk/stores/page/B64D2C35-DC6A-412C-A189-8A6329019044/?_encoding=UTF8&store_ref=SB_A0299547133BYM7XA67N2-A002311915MT5QWSDNA0L&pd_rd_plhdr=t&aaxitk=3c4ffe7cbe81bd35c59c89997f2612a6&hsa_cr_id=0&lp_asins=B0CYX4S1SX&lp_slot=desktop-arbies&lp_page_asin=B0BW947XQK&aref=FM2Fc1GnSZ&pd_rd_i=ad5&ref_=sbx_be_dp_arbies_mbd_mb4_bkgd&pd_rd_w=YuAYr&content-id=amzn1.sym.3a94f937-2f2f-43f3-b944-7c861b27954f&pf_rd_p=3a94f937-2f2f-43f3-b944-7c861b27954f&pf_rd_r=TEB1Q3WCXFVQMG8SD8K4&pd_rd_wg=1VVlI&pd_rd_r=dbbf1afc-5b5b-4fea-878d-78ec94af5ab1"
+   }
+  ],
+  "reviews_information": {
+   "summary": {
+    "text": "Customers find the plant pot to be of good quality and appreciate its appearance, with one noting it makes plants look Instagram-worthy. The shape receives mixed feedback - while some find it good size, others report it doesn't retain its shape. The thin plastic material and poor plastic liner inside are concerns, and while some praise the waterproof lining, others report leakage issues. Value for money opinions are divided between those who consider it a great value and those who find it overpriced.",
+    "insights": [
+     {
+      "title": "Quality",
+      "sentiment": "positive",
+      "mentions": {
+       "total": 60,
+       "positive": 42,
+       "negative": 18
+      },
+      "summary": "Customers find these plant pots to be of good quality, describing them as lovely baskets that they would recommend.",
+      "examples": [
+       {
+        "position": 1,
+        "snippet": "Good quality",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R5JD42E16CSK2"
+       },
+       {
+        "position": 2,
+        "snippet": "Needed bigger holder for my plant .it’s perfect..looks good",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R24EWAU4QAXIWW"
+       },
+       {
+        "position": 3,
+        "snippet": "...The liner is very thin and of poor quality, would i recommend it or buy another....NO.",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R2QVE03WI0QNIW"
+       },
+       {
+        "position": 4,
+        "snippet": "This plant basket is a really good quality and it looks really nice. Can recommend",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R26QYYMS9WZ9XW"
+       }
+      ]
+     },
+     {
+      "title": "Appearance",
+      "sentiment": "positive",
+      "mentions": {
+       "total": 53,
+       "positive": 43,
+       "negative": 10
+      },
+      "summary": "Customers find the plant pot visually appealing, with one customer noting that it makes plants look Instagram-worthy, while another appreciates its modern contemporary style.",
+      "examples": [
+       {
+        "position": 1,
+        "snippet": "Looks great but water started seeping through immediately, had to put plant in a tesco bag to stop it ruining the floor",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R3AL3YIEXYGTKI"
+       },
+       {
+        "position": 2,
+        "snippet": "Lovely, affordable basket used for an artificial plant.",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R2DTUU5TVA7R19"
+       },
+       {
+        "position": 3,
+        "snippet": "I've had a lot of compliments about this plant pot! It looks good and matches a hamper i already have....",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R2RB51N58Z7F0"
+       },
+       {
+        "position": 4,
+        "snippet": "The item itself looks nice but it's ruined by the flat pack it came in. Completely distorted the shape and looks awful.",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/RLST534TJ99YQ"
+       }
+      ]
+     },
+     {
+      "title": "Value for money",
+      "sentiment": "mixed",
+      "mentions": {
+       "total": 20,
+       "positive": 12,
+       "negative": 8
+      },
+      "summary": "Customers have mixed opinions about the planter's value for money, with some finding it a great value while others say it's not worth the price.",
+      "examples": [
+       {
+        "position": 1,
+        "snippet": "...be hard to find decorative pots / baskets for bigger plants that are affordable but this one is great!",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R3CCSEAL1Q696V"
+       },
+       {
+        "position": 2,
+        "snippet": "...It looks nice, sturdy for a woven pot, yet still overpriced. Came folded and impossible to regain its normal cilinder shape....",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R3VI8NL6T38Z0I"
+       },
+       {
+        "position": 3,
+        "snippet": "Value for money sturdy fir what I wanted it fir",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/RU49DK2RVYG2D"
+       },
+       {
+        "position": 4,
+        "snippet": "Looks awful. Waste of money.",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R338HI47H9BJUZ"
+       }
+      ]
+     },
+     {
+      "title": "Size",
+      "sentiment": "mixed",
+      "mentions": {
+       "total": 17,
+       "positive": 10,
+       "negative": 7
+      },
+      "summary": "Customers have mixed opinions about the planter's size, with some finding it good while others say it's too small and causes problems when trying to fit other pots inside.",
+      "examples": [
+       {
+        "position": 1,
+        "snippet": "Good size, plastic lined. Great for pots you can't find a ceramic pot for",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R15ELVZKYW9HLB"
+       },
+       {
+        "position": 2,
+        "snippet": "Would look good but too big for my plant so have to rethink",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/RRDW1CLH1JKJH"
+       },
+       {
+        "position": 3,
+        "snippet": "nice size. it came folded though so trying to mould it back into shape!!",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R186E9WFRGDW5Z"
+       },
+       {
+        "position": 4,
+        "snippet": "...too small and b) the thinnest plastic but the wicker basket was deformed.",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R32AUK94ZWY5DJ"
+       }
+      ]
+     },
+     {
+      "title": "Liner",
+      "sentiment": "mixed",
+      "mentions": {
+       "total": 9,
+       "positive": 4,
+       "negative": 5
+      },
+      "summary": "Customers have mixed opinions about the plant pot's liner, with several noting the poor quality of the plastic material inside.",
+      "examples": [
+       {
+        "position": 1,
+        "snippet": "...It would have been good to have a more substantial liner (i.e made of a rigid plastic rather than plastic bag material)....",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R2RB51N58Z7F0"
+       },
+       {
+        "position": 2,
+        "snippet": "...It's lined so no issues when watering.",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/RN53AFD3NU9EX"
+       },
+       {
+        "position": 3,
+        "snippet": "The basket is ok but a couple of flaws in the weave. The liner is cheap clear plastic....",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R3D42Y7OTHAQ7X"
+       },
+       {
+        "position": 4,
+        "snippet": "Good size, plastic lined. Great for pots you can't find a ceramic pot for",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R15ELVZKYW9HLB"
+       }
+      ]
+     },
+     {
+      "title": "Leakage",
+      "sentiment": "mixed",
+      "mentions": {
+       "total": 8,
+       "positive": 5,
+       "negative": 3
+      },
+      "summary": "Customers have mixed experiences with water leakage in these plant pots, with some praising the waterproof lining while others report issues with water seeping through.",
+      "examples": [
+       {
+        "position": 1,
+        "snippet": "Good size for floor standing plants. Comes with plastic liner inside to protect from water leaks....",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R23GJC48OTH81C"
+       },
+       {
+        "position": 2,
+        "snippet": "Looks lovely, but leaks",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/RB0R9LM43HUEB"
+       },
+       {
+        "position": 3,
+        "snippet": "Nice plant pot it's all lined no water has leaks after a few weeks so far nice quality",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R15A7SQ318CQYV"
+       },
+       {
+        "position": 4,
+        "snippet": "...The plastic is thin on the inside but it will stop water getting through....",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R1TS1GRHAI8URY"
+       }
+      ]
+     },
+     {
+      "title": "Shape",
+      "sentiment": "negative",
+      "mentions": {
+       "total": 27,
+       "positive": 0,
+       "negative": 27
+      },
+      "summary": "Customers report issues with the pot's shape, noting that it doesn't maintain its form and is difficult to reshape.",
+      "examples": [
+       {
+        "position": 1,
+        "snippet": "It is very difficult to get into shape after arriving flat, but looks good after a lot of work to reshape",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R2D3YYK82EWFLJ"
+       },
+       {
+        "position": 2,
+        "snippet": "Totally misshapen and bent and unable to fix.",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/RI8C1GSQOTVVT"
+       },
+       {
+        "position": 3,
+        "snippet": "Very cheap and came flat, even though I've a pot in it now it still won't come to the right shape. Looks cheap and naff.",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/RYZ0QG1ZDMDXJ"
+       },
+       {
+        "position": 4,
+        "snippet": "Lovely pot holder but i still cant make it look round. Packed flat & wants to stay that way. Put pot plant in but still wants to stick out each side.",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R18GZZUW1LZGTZ"
+       }
+      ]
+     },
+     {
+      "title": "Thin material",
+      "sentiment": "negative",
+      "mentions": {
+       "total": 10,
+       "positive": 2,
+       "negative": 8
+      },
+      "summary": "Customers criticize the pot's thin plastic material.",
+      "examples": [
+       {
+        "position": 1,
+        "snippet": "...And even if it didn't have a hole - the plastic is so thin and flimsy that it would be a matter of days before you get one....",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R25525C4CQPLNI"
+       },
+       {
+        "position": 2,
+        "snippet": "...too small and b) the thinnest plastic but the wicker basket was deformed.",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R32AUK94ZWY5DJ"
+       },
+       {
+        "position": 3,
+        "snippet": "...The liner is very thin and of poor quality, would i recommend it or buy another....NO.",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R2QVE03WI0QNIW"
+       },
+       {
+        "position": 4,
+        "snippet": "Really nice. Thick rope so its very sturdy. The plastic is thin on the inside but it will stop water getting through....",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R1TS1GRHAI8URY"
+       }
+      ]
+     }
+    ],
+    "images": [
+     "https://m.media-amazon.com/images/I/71emKv45qHL.jpg",
+     "https://m.media-amazon.com/images/I/81ZEt-TYNiL.jpg",
+     "https://m.media-amazon.com/images/I/819iZwG2VnL.jpg",
+     "https://m.media-amazon.com/images/I/716a0tH2E8L.jpg",
+     "https://m.media-amazon.com/images/I/61+av6Vu8HL.jpg",
+     "https://m.media-amazon.com/images/I/616KkDH-8vL.jpg",
+     "https://m.media-amazon.com/images/I/71cnmEY-ftL.jpg",
+     "https://m.media-amazon.com/images/I/81YCTud8PzL.jpg",
+     "https://m.media-amazon.com/images/I/81VfDAZih6L.jpg",
+     "https://m.media-amazon.com/images/I/716zpMhIkfL.jpg",
+     "https://m.media-amazon.com/images/I/81vWPY9xY4L.jpg",
+     "https://m.media-amazon.com/images/I/71wv08PO9jL.jpg"
+    ],
+    "customer_reviews": {
+     "5 star": 56,
+     "4 star": 20,
+     "3 star": 11,
+     "2 star": 6,
+     "1 star": 7
+    }
+   },
+   "authors_reviews": [
+    {
+     "position": 1,
+     "title": "Stylish, woven, practical, and unusual plant pot.",
+     "text": "I would buy another one when needed.",
+     "rating": 5.0,
+     "date": "31 August 2026",
+     "author": "Dmitry Siberian",
+     "author_link": "https://www.amazon.co.uk/gp/profile/amzn1.account.AHTVBUUYJKE75X5BMNW4KB2N5O4A?ref=cm_cr_dp_d_bdcrb_top",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+     "verified_purchase": true,
+     "product": {
+      "colour_name": "Black and Brown"
+     }
+    },
+    {
+     "position": 2,
+     "title": "good but not perfect",
+     "text": "looks great but as mentioned by others, very hard to get the fabric to stay straight without wrinkles",
+     "rating": 4.0,
+     "date": "16 March 2026",
+     "author": "Sandy Olive",
+     "author_link": "https://www.amazon.co.uk/gp/profile/amzn1.account.AFJUPHVQ5LT4E32ESFMUZDIXPLMQ?ref=cm_cr_dp_d_bdcrb_top",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+     "verified_purchase": true,
+     "product": {
+      "colour_name": "White and Brown"
+     }
+    },
+    {
+     "position": 3,
+     "title": "Fits well",
+     "text": "Works well for our plant pot",
+     "rating": 5.0,
+     "date": "23 August 2026",
+     "author": "Mr Y.",
+     "author_link": "https://www.amazon.co.uk/gp/profile/amzn1.account.AHD66B56UKHAF7ZQPFSGJ4BVYZSA?ref=cm_cr_dp_d_bdcrb_top",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+     "verified_purchase": true,
+     "product": {
+      "colour_name": "White and Brown"
+     }
+    },
+    {
+     "position": 4,
+     "title": "Not easy to use",
+     "text": "Due to the way the items are backed it’s almost impossible to get them into the correct shape. I certainly wouldn’t buy again",
+     "rating": 3.0,
+     "date": "1 September 2026",
+     "author": "Chris P",
+     "author_link": "https://www.amazon.co.uk/gp/profile/amzn1.account.AFH6RFVR32FPQTA276H75CX2RNBQ?ref=cm_cr_dp_d_bdcrb_top",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+     "verified_purchase": true,
+     "product": {
+      "colour_name": "White and Black"
+     }
+    },
+    {
+     "position": 5,
+     "title": "Perfect 👌",
+     "text": "Absolutely perfect",
+     "rating": 5.0,
+     "date": "28 June 2026",
+     "author": "Afet Hamamci",
+     "author_link": "https://www.amazon.co.uk/gp/profile/amzn1.account.AF7KW34ZALV2TWABPWL54MY7NKKQ?ref=cm_cr_dp_d_bdcrb_top",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/ff1897b5-f9a5-4e33-be93-49b65dc1e412._CR0%2C0%2C333%2C333_UX460_SX48_.jpg",
+     "verified_purchase": true,
+     "product": {
+      "colour_name": "White and Grey"
+     }
+    },
+    {
+     "position": 6,
+     "title": "Fancy, First large pot and supported frame",
+     "text": "My plant had a remodel and looks right at home",
+     "rating": 5.0,
+     "date": "26 April 2026",
+     "author": "Amazon Customer",
+     "author_link": "https://www.amazon.co.uk/gp/profile/amzn1.account.AEIGRV4SR2GLRBCV52QZVYCXLZKQ?ref=cm_cr_dp_d_bdcrb_top",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+     "verified_purchase": true,
+     "product": {
+      "colour_name": "Black and Brown"
+     }
+    },
+    {
+     "position": 7,
+     "title": "Needs reshaping on arrival",
+     "text": "It is very difficult to get into shape after arriving flat, but looks good after a lot of work to reshape",
+     "rating": 4.0,
+     "date": "19 July 2026",
+     "author": "Les",
+     "author_link": "https://www.amazon.co.uk/gp/profile/amzn1.account.AHC2BT26TYTCRN2OVLZARNAAQERQ?ref=cm_cr_dp_d_bdcrb_top",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+     "verified_purchase": true,
+     "product": {
+      "colour_name": "Black and Brown"
+     }
+    },
+    {
+     "position": 8,
+     "title": "Lovely basket",
+     "text": "Lovely basket, good size and reasonably priced.",
+     "rating": 5.0,
+     "date": "24 April 2026",
+     "author": "J. C. Harwood",
+     "author_link": "https://www.amazon.co.uk/gp/profile/amzn1.account.AGFWFN6K4MIQ3SNPMBR5PJXG5O4Q?ref=cm_cr_dp_d_bdcrb_top",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+     "verified_purchase": true,
+     "product": {
+      "colour_name": "Black and Brown"
+     }
+    }
+   ],
+   "other_countries_reviews": [
+    {
+     "position": 1,
+     "title": "Beau pot en tissus",
+     "text": "Très beau pot. Demande beaucoup de terre. Équivalent à 25-30l de terre.Belle couleur, bonne couture.",
+     "rating": 5.0,
+     "date": "7 September 2026",
+     "author": "Client d'Amazon",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+     "verified_purchase": true,
+     "product": {
+      "colour_name": "White and Black"
+     },
+     "country": {
+      "code": "FR",
+      "name": "France"
+     },
+     "language": {
+      "code": "fr",
+      "name": "French (France)"
+     }
+    },
+    {
+     "position": 2,
+     "title": "Bof",
+     "text": "Beau mais ne reprend pas sa forme",
+     "rating": 3.0,
+     "date": "19 December 2023",
+     "author": "Cécile Duchesne",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/2a578a32-b49e-41e6-be0e-97cbb4d6d2fa._CR0%2C0%2C1125%2C1125_SX460_SX48_.jpg",
+     "verified_purchase": true,
+     "product": {
+      "colour_name": "White and Brown"
+     },
+     "country": {
+      "code": "BE",
+      "name": "Belgium"
+     },
+     "language": {
+      "code": "fr",
+      "name": "French"
+     }
+    },
+    {
+     "position": 3,
+     "title": "Perfetto",
+     "text": "Perfetto, molto bello e capiente. Di buona qualità",
+     "rating": 5.0,
+     "date": "6 September 2025",
+     "author": "Andrea",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+     "verified_purchase": true,
+     "product": {
+      "colour_name": "Black and Brown"
+     },
+     "country": {
+      "code": "IT",
+      "name": "Italy"
+     },
+     "language": {
+      "code": "it",
+      "name": "Italian (Italy)"
+     }
+    },
+    {
+     "position": 4,
+     "title": "Sehr hübsch anzusehen",
+     "text": "Sehr schöner Korb. Wirkt qualitativ sehr gut. Er entknittert sich auch recht schnell.",
+     "rating": 5.0,
+     "date": "30 July 2026",
+     "author": "Jaqueline",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+     "verified_purchase": true,
+     "product": {
+      "colour_name": "White and Khaki"
+     },
+     "country": {
+      "code": "DE",
+      "name": "Germany"
+     },
+     "language": {
+      "code": "de",
+      "name": "German (Germany)"
+     }
+    },
+    {
+     "position": 5,
+     "title": "Super cache pot",
+     "text": "Vraiment chouette comme cache pot ! Ça change, et l’intérieur plastifié permet de ne pas avoir peur que l’eau coule ! Je recommande ! Ça apporte une vrai touche de déco !",
+     "rating": 5.0,
+     "date": "22 March 2026",
+     "author": "Val",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+     "images": [
+      "https://m.media-amazon.com/images/I/81AOLLPEBGL.jpg"
+     ],
+     "verified_purchase": true,
+     "product": {
+      "colour_name": "Black and Brown"
+     },
+     "country": {
+      "code": "FR",
+      "name": "France"
+     },
+     "language": {
+      "code": "fr",
+      "name": "French (France)"
+     }
+    }
+   ]
+  }
+ }
+}

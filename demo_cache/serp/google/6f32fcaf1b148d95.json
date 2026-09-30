@@ -1,0 +1,584 @@
+{
+ "engine": "google",
+ "params": {
+  "q": "Electricpoint UK",
+  "gl": "uk",
+  "hl": "en",
+  "google_domain": "google.co.uk"
+ },
+ "fetched_at": "2026-09-30T10:51:54+00:00",
+ "data": {
+  "search_metadata": {
+   "id": "6abce9aff9656152978063c8",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/iPQxb9iHmUzwnozqVokIm00gLa61P5eej5XbL7eHQaQ/6abce9aff9656152978063c8.json",
+   "markdown_endpoint": "https://serpapi.com/searches/iPQxb9iHmUzwnozqVokIm00gLa61P5eej5XbL7eHQaQ/6abce9aff9656152978063c8.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/iPQxb9iHmUzwnozqVokIm00gLa61P5eej5XbL7eHQaQ/6abce9aff9656152978063c8.json_with_pixel_position",
+   "created_at": "2026-09-30 10:51:27 UTC",
+   "processed_at": "2026-09-30 10:51:27 UTC",
+   "google_url": "https://www.google.co.uk/search?q=Electricpoint+UK&oq=Electricpoint+UK&hl=en&gl=uk&sourceid=chrome&ie=UTF-8",
+   "raw_html_file": "https://serpapi.com/searches/iPQxb9iHmUzwnozqVokIm00gLa61P5eej5XbL7eHQaQ/6abce9aff9656152978063c8.html",
+   "total_time_taken": 26.61
+  },
+  "search_parameters": {
+   "engine": "google",
+   "q": "Electricpoint UK",
+   "google_domain": "google.co.uk",
+   "hl": "en",
+   "gl": "uk",
+   "device": "desktop"
+  },
+  "search_information": {
+   "query_displayed": "Electricpoint UK",
+   "total_results": 31200,
+   "time_taken_displayed": 0.66,
+   "organic_results_state": "Results for exact spelling"
+  },
+  "knowledge_graph": {
+   "title": "Electricpoint",
+   "type": "Electrical products wholesaler in London, England",
+   "entity_type": "local_nav",
+   "kgmid": "/g/11h7j8gyyt",
+   "knowledge_graph_search_link": "https://www.google.co.uk/search?kgmid=/g/11h7j8gyyt&hl=en-GB&q=Electricpoint",
+   "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en-GB&kgmid=%2Fg%2F11h7j8gyyt&q=Electricpoint",
+   "place_id": "ChIJVRF-aJKp2EcRg38VpodD5Rk",
+   "website": "https://www.electricpoint.com/electrical-wholesaler-near-me-greenwich?utm_source=google-business&utm_medium=greenwich&utm_campaign=Greenwich-Google-Business-Click",
+   "local_map": {
+    "image": "https://serpapi.com/searches/6abce9aff9656152978063c8/images/hVJ9GSay_5LBc9AyboqwUVd1YKFKR0DgtSNjPn_gXXc.webp",
+    "link": "https://www.google.co.uk/maps/place/Electricpoint/data=!4m2!3m1!1s0x0:0x19e54387a6157f83?sa=X&ved=2ahUKEwii7o-ykZaXAxWPQvEDHfhYKSoQ_BJ6BAgiEAA&hl=en&gl=uk"
+   },
+   "rating": 3.6,
+   "review_count": 159,
+   "address": "Units 9, & 10, Ramac Wy., London SE7 7AX",
+   "address_links": [
+    {
+     "text": "Address",
+     "link": "https://www.google.co.uk/search?sca_esv=d0c3879c3aba1c72&hl=en&gl=uk&sxsrf=APpeQnuKPw4XL49u7nYrnpBipQU1Hqkc8A:1790765512790&q=electricpoint+address&ludocid=1865971870501011331&sa=X&ved=2ahUKEwii7o-ykZaXAxWPQvEDHfhYKSoQ6BN6BAglEAI"
+    }
+   ],
+   "phone": "020 3994 5470",
+   "phone_links": [
+    {
+     "text": "Phone",
+     "link": "https://www.google.co.uk/search?sca_esv=d0c3879c3aba1c72&hl=en&gl=uk&sxsrf=APpeQnuKPw4XL49u7nYrnpBipQU1Hqkc8A:1790765512790&q=electricpoint+phone&ludocid=1865971870501011331&sa=X&ved=2ahUKEwii7o-ykZaXAxWPQvEDHfhYKSoQ6BN6BAgjEAI"
+    }
+   ],
+   "raw_hours": "Open · Closes 5 pm · More hours",
+   "hours": {
+    "wednesday": {
+     "opens": "7:30 am",
+     "closes": "5 pm"
+    },
+    "thursday": {
+     "opens": "7:30 am",
+     "closes": "5 pm"
+    },
+    "friday": {
+     "opens": "7:30 am",
+     "closes": "5 pm"
+    },
+    "saturday": {
+     "opens": "Closed"
+    },
+    "sunday": {
+     "opens": "Closed"
+    },
+    "monday": {
+     "opens": "7:30 am",
+     "closes": "5 pm"
+    },
+    "tuesday": {
+     "opens": "7:30 am",
+     "closes": "5 pm"
+    }
+   },
+   "merchant_description": "\"We’re Electricpoint, a trusted online electrical wholesaler serving professionals and DIYers across the UK. As part of the UK’s largest independent wholesale group, we stock top brands like Dimplex, Ohme, Fusebox, Rointe, Vent Axia, JCC and Aico, including energy-saving LED lighting. Our customers benefit from a price match guarantee, exclusive product lines, and eco-friendly delivery. Need it fast? We offer Click & Collect in Greenwich, Harringay, and Ipswich, plus fast UK-wide shipping with four dedicated delivery vehicles in London. Trade account holders enjoy special discounts and priority service. Can’t find what you need? Our friendly team is ready to help. Count on us for expert advice, quality products, and dependable delivery.\"",
+   "see_whats_in_store": [
+    {
+     "title": "Switches, Dimmers & Controls",
+     "link": "https://www.google.co.uk/search?hl=en&gl=GB&sts=11&lsf=seller:8041089,osf:1,store_mid:576462375273068473,store:17349956123573133347,s:l,root_cat:546886&q=switches,+dimmers+controls+Electricpoint&sa=X&ved=2ahUKEwii7o-ykZaXAxWPQvEDHfhYKSoQyPUBegQINRAF",
+     "image": "https://serpapi.com/images/i/UklGRkgBAABXRUJQVlA4IDwBAACQBwCdASowADAAPjUOjUaiEREPGCADRLSAY9S3hizZocNkzczSiMT9Ga9dquNKeCOWglNM9jyxDFOfZDScw-1N4N8IAIAA_u-v_0xv4j-IL_5cn_6W7Xq9daTJLpQPpBwD12DWDK7hen26KK1E5qBnFtA21QfJr_SArOiNsExdns5_8pY9jb_xMfzaphj4Ab35oBM_wDty_v8MLHlizYKCL1F5BMLRjnynlKF_AmMyrK5XfQlX62jPLIx3x6YqGdnI9TE-p_Ik-WxMKHm_7GfRGTqUkZFI8Avuuk-75Ya8x2ZLnD7yy8AKYxpAIYQC1udqf4kEffcapVQ8UvzP_RSU9Pd7adAZLOzgXLnBg0sij-qQHuTjRjcowa7z-dds4udeiRk4nbw_xDopUw97vX0Nmai_H9ooSvyqdfwA.webp"
+    },
+    {
+     "title": "Lighting",
+     "link": "https://www.google.co.uk/search?hl=en&gl=GB&sts=11&lsf=seller:8041089,osf:1,store_mid:576462375273068473,store:17349956123573133347,s:l,root_cat:529808&q=lighting+Electricpoint&sa=X&ved=2ahUKEwii7o-ykZaXAxWPQvEDHfhYKSoQyPUBegQINRAH",
+     "image": "https://serpapi.com/images/i/UklGRgIBAABXRUJQVlA4IPYAAADwBwCdASowADAAPj0Oj0eiEREKqCADxLSAaHavoTjLhUl78Ivs7wZeMxQOBBqJVcL-Wg6Zj80tIoWkF2MnBs0WqLbdaQGSDsAA_v1-Hw0LtqkecMfVI8t_zYnhTmD-EOHxtiPWoMgdrDLqVf7roFcOwvRlImIoq5eFqc4GT982zIgmhS50LGuu632jd-vMs97C-WPOu3JqLlTBZBBmZsNOB1fcHyw9X40LVLDlkVI4p9ZU18uxTjvp2ZUjb15_AsJEWwHRwTK2Yh9UKdquHh8k_AtCCRwOIVhidr5lylhQHcsYcfHX4JKzaS0WzXOccTMolswgAAA.webp"
+    },
+    {
+     "title": "Heating, Cooling & Ventilation",
+     "link": "https://www.google.co.uk/search?hl=en&gl=GB&sts=11&lsf=seller:8041089,osf:1,store_mid:576462375273068473,store:17349956123573133347,s:l,root_cat:537680&q=heating,+cooling+ventilation+Electricpoint&sa=X&ved=2ahUKEwii7o-ykZaXAxWPQvEDHfhYKSoQyPUBegQINRAJ",
+     "image": "https://serpapi.com/images/i/UklGRrgAAABXRUJQVlA4IKwAAADQBQCdASowADAAPjkMjkciERENUCADhLSABVpBDv3_F5Mbl_xqo6_Rw5Ky2rXyup3V1REBpAAAAP7_XUxBiCnp-_zPaz9RAACE63P8CvM6VlSF2suGOz_P8DLmvruGv9fHhGtCr6QyoMWu9pngpijFacyxvgQiUnj3-11wx1N9b6-F5HSI3P3eLb6Q0De7AHnrA7vV-q-3xAPKHWYYX-XNWzz3aXR24GiAAAAA.webp"
+    },
+    {
+     "title": "Light Fixtures & Ceiling Fans",
+     "link": "https://www.google.co.uk/search?hl=en&gl=GB&sts=11&lsf=seller:8041089,osf:1,store_mid:576462375273068473,store:17349956123573133347,s:l,root_cat:533693&q=light+fixtures+ceiling+fans+Electricpoint&sa=X&ved=2ahUKEwii7o-ykZaXAxWPQvEDHfhYKSoQyPUBegQINRAL",
+     "image": "https://serpapi.com/images/i/UklGRtoAAABXRUJQVlA4TM0AAAAvL8AHAM1lRP9jEwMR_Q_hNpIkRcq-53__LWVu4cCAlwgkbfz7dx6Ctm3j_PwprzEBL_B3WMqyMlExIMyEZSFceFMh1pVGMYoBkI50CqoworQOAbGJinUJKgAbO3Jl1x_oIA0g1EAAYiCwCkZgkg4EABgFhi4g-emxO9nAj3Nv7w1gsmAcAKAACABQRgiYLHd32q0Bvtx6Gy-KTcRQKAbCmJVAE7ESQBPl7ba7LQDw5VkraARiYCCtr2XSAsYFXUhSvYQRiHV-2czG8IcOAA.webp"
+    },
+    {
+     "title": "Electrical Wire, Cable & Connectors",
+     "link": "https://www.google.co.uk/search?hl=en&gl=GB&sts=11&lsf=seller:8041089,osf:1,store_mid:576462375273068473,store:17349956123573133347,s:l,root_cat:538675&q=electrical+wire,+cable+connectors+Electricpoint&sa=X&ved=2ahUKEwii7o-ykZaXAxWPQvEDHfhYKSoQyPUBegQINRAN",
+     "image": "https://serpapi.com/images/i/UklGRq4BAABXRUJQVlA4TKIBAAAvL0AJAM1lRP9jE4M-_P0PBkCSJFu10n2ufP-4y9jd3WGpBCtgF6zD3eHe892mfwQ5kiRFkufM7DHT9_TX5yRgBRi6U2IkSYokedYx8-kvID9jZUzAH6Dd_4ECAEALoojFpMtAQUEAAAoohDJWpBV744BYkURaA7FhEoMpYsWWYIKta0R_YzNklklBBKRomJ06_C6greAarGfOmk6uum0Ye_M_r93uw6Ohg0lpfqxd_4slVBUCQ2BhOJfbYAIFBIU2mj45Xf7_GBOFoqUJpuPgc_T8pTAAAAAXX3-HV4_PvI1e5vN8M7tJz8PCj-f3NUdnmxv3n4m_3_n8KZBd8je5lBKWsLWExLcBX5KGcsmv2kCbzUx0oDRRXfyWb7qPPudOXqNUMD7_c_Fw37_KSlLvRu_PzvQ02RNyf_t3d5nTw5fP25SYlAkKICi2KwDBKhNCXCEh0HOHWprYNuL0z2R2v9ZPXzADKAAJ0Lp-u5FNQrp1fD3w8j58D_76pPPkMPnfzt9_l_MEaBQKVEZAVVUIiMxGpgogUAhUQRIKmrkEaPcH.webp"
+    },
+    {
+     "title": "Electrical Boxes, Breakers & Fuses",
+     "link": "https://www.google.co.uk/search?hl=en&gl=GB&sts=11&lsf=seller:8041089,osf:1,store_mid:576462375273068473,store:17349956123573133347,s:l,root_cat:538644&q=electrical+boxes,+breakers+fuses+Electricpoint&sa=X&ved=2ahUKEwii7o-ykZaXAxWPQvEDHfhYKSoQyPUBegQINRAP",
+     "image": "https://serpapi.com/images/i/UklGRkoCAABXRUJQVlA4ID4CAADwCwCdASowADAAPmkamk0kISQkFVCADQlpAM8vet3n-JT4NZXvBlA8FNIFNH8ZX1Z6MXWgTBEnhKg3V2FiP9ScaWPMu2SmXA932gxydJ_Fz5df0nQpyvZKBKSTbfwbndm5_Fjv12BoAAD-_4IGEOTECZ3Y-xV0H3B0ocwvtwJC34CEWTYOAoek42o6_fel2vIesDbzkiDvdva2WhLM_dn2qf0nO0z4rFMUuy8CRQ3jF_Dg6jfc7eg-3SiVhX0OP22qjUDgNDvl9kpAjuqTW4fAiaRpnu6bcjFzle-s0kV8bOJBhNe05UrH4leDiB2y0yiC6qjs_oUZwsvGRdInspyN68mdQ21ZThnZnZzSByWUYnm8dICbfixufWYb2WkXDC-bZhE1Mj__UyP_cf0bHgcGVaax527vruYs_62EMGiNM5n-gT0o0ciyuPnXY58e3JD0H7ILPQgTymZWAe4J1pQrWF6n2zX-bWwOnRb0aXsPkMpzbkf-pq2VahddZwpALd9mSWSWyOhsZoOvwfjvIusiDhf2iCAkkDy5rCFyS8lQpRS7YFpAdPLBZ3PndooudyMyPYIQVDXtIt5KM-2753CdI-jbZCXd6QCTkot90wOnUQABgMarA3XtffmWS9QRcOhGvyQGgKvIDmuJEV7x-3gG3-buvz6Nlo5Oe35-5Iiqx9Xs4QpJUVFcSnvgDxsotcezGUs-WqtbH-usfEO_8EGnsVlysgGwJqQWEdUW5ah6iThDl-zAQtepGEFnWiAA.webp"
+    },
+    {
+     "title": "Tools",
+     "link": "https://www.google.co.uk/search?hl=en&gl=GB&sts=11&lsf=seller:8041089,osf:1,store_mid:576462375273068473,store:17349956123573133347,s:l,root_cat:529844&q=tools+Electricpoint&sa=X&ved=2ahUKEwii7o-ykZaXAxWPQvEDHfhYKSoQyPUBegQINRAR",
+     "image": "https://serpapi.com/images/i/UklGRmwBAABXRUJQVlA4IGABAADQCACdASowADAAPkEOkEgikVFLiCgEBLOAY8a5UGcKkfQu3usGi3ZHGuYKQhAvi7znwZrISkpwVuwYjcV_LC6sipn7iX9FZW_pytujzhwAAP7_QTnWMIycFuYv5XJQMva0ITrp8fXkCN0XNFgz8auJu_UHD8NP0BEqchLcV2b1meXJHBBwImrXiXVjrwFasjwY0bqtHkakdI30DifwHvXpqWK3o3t4ln62Mrve45jofRRKETCntyoxmr3zSUPGd6BPeTpJS6iqzqsjdyGPsuZjrYsfU70vSpXejVQNVWfT5uw63pVYAmjQ6mIQ0Y1r-3kVSXgLMeyM9W-Jkdmns-lORVraDT2RVfeFORW_vUon8YZbtfDPXv5Ptv5e-QSv4BgxLYd-xrQGUvuZBh3vye4eg5X8bScCbj7opDkNcjixZpOcoTl8ns5MJEGipiOx94okD15GqAC-rbwAIH76AAAA.webp"
+    },
+    {
+     "title": "Wall Plates, Outlets & Jacks",
+     "link": "https://www.google.co.uk/search?hl=en&gl=GB&sts=11&lsf=seller:8041089,osf:1,store_mid:576462375273068473,store:17349956123573133347,s:l,root_cat:538646&q=wall+plates,+outlets+jacks+Electricpoint&sa=X&ved=2ahUKEwii7o-ykZaXAxWPQvEDHfhYKSoQyPUBegQINRAT",
+     "image": "https://serpapi.com/images/i/UklGRvIBAABXRUJQVlA4IOYBAAAQCQCdASowABwAPlkSlksjkdHMADgFhLOAW-xoc2WeDqF32u52MT6GHpjSAF6iIX6qIqNN2HVgsT20EfuquH3d2Afx2wrhGxqEWvu0BiGYYOAA_v_-Cjk3uRneAHaq_WskwcjTbIZLTIa6QPmmKNoW_LQf7_V6FEe-aBoQH7LDtw16f-H75q_6Y3WUM3UXEv8Vh7Ckz634Mrf04ePnvhRC0fAjtu7IM6uNwHNUly_hqbhMtX_AXXJKrH4ofrufx6nvyte_hSPfn8y30XtpWHRZj4wzVmLTnoBQ93WqFE75xylvTw6dI-Jz0ow6nwMAex90_Gkf4YOvrX0FKAFz7d7EMAhZMiXfYijWkwFlP1LDJn2Xsdvpz-_rRpiF-YCKLasEQX5ya_V2_-aWGd69zIO_95a9X9c4EHceJd5jqSsaeYnFUZ4NrOw_BXIny--nRBeMZK4FQZEm2FthZU2PGfnIz1L-a1ODlY_2Hm_r6_nfzWBX9hXeYO4rzz5HwdJ7d9FbXI88a_ncjl-8Jqn1cAQyNCEo1MMfCSUasPVd_RWVCUI0ND2ExWUMZ8Z-xElGFfCq7sVDUchstIKp1Dd4Bm-5_cOk68-p-31vFia0M7-qUqiOG84QYY9G2KAag8ormTTf5JmAAAA.webp"
+    }
+   ],
+   "user_reviews": [
+    {
+     "summary": "Excellent service, very helpful, friendly staff, 5 stars for this company Mel",
+     "link": "https://www.google.com/maps/reviews/data=!4m5!14m4!1m3!1m2!1s112272420010854583597!2s0x47d8a992687e1155:0x19e54387a6157f83?ved=1t:31295&ictx=111",
+     "rating": 5.0,
+     "user": {
+      "name": "mel miles",
+      "link": "https://www.google.com/maps/contrib/112272420010854583597?hl=en-GB&ved=1t:31296&ictx=111",
+      "thumbnail": "https://serpapi.com/searches/6abce9aff9656152978063c8/images/hVJ9GSay_5LBc9AyboqwUYEmH-DgF8PuK6WzZPWWOQLkyKg8c7JwBDLpCwXfNprl.png"
+     }
+    },
+    {
+     "summary": "Wow, excellent prices, great customer service, great range of products.",
+     "link": "https://www.google.com/maps/reviews/data=!4m5!14m4!1m3!1m2!1s114072344290513336187!2s0x47d8a992687e1155:0x19e54387a6157f83?ved=1t:31295&ictx=111",
+     "rating": 5.0,
+     "user": {
+      "name": "Gillian McDonald",
+      "link": "https://www.google.com/maps/contrib/114072344290513336187?hl=en-GB&ved=1t:31296&ictx=111",
+      "thumbnail": "https://serpapi.com/searches/6abce9aff9656152978063c8/images/hVJ9GSay_5LBc9AyboqwUdWjMW07EPzxqArUMk3m_O9QZJpjtuVBa3KQ9sMPZYnA.png"
+     }
+    },
+    {
+     "summary": "Great price, easy to use ordering system and prompt delivery!",
+     "link": "https://www.google.com/maps/reviews/data=!4m5!14m4!1m3!1m2!1s117868682207498888365!2s0x47d8a992687e1155:0x19e54387a6157f83?ved=1t:31295&ictx=111",
+     "rating": 5.0,
+     "user": {
+      "name": "Anji Cordwell",
+      "link": "https://www.google.com/maps/contrib/117868682207498888365?hl=en-GB&ved=1t:31296&ictx=111",
+      "thumbnail": "https://serpapi.com/searches/6abce9aff9656152978063c8/images/hVJ9GSay_5LBc9AyboqwUbJ1yCdbEBsXNPHrnqW99XsCpjPFymCD4A-CpRB8_cvK.png"
+     }
+    }
+   ],
+   "unclaimed_listing": true,
+   "profiles": [
+    {
+     "name": "LinkedIn",
+     "link": "https://www.linkedin.com/company/electricpoint.com/",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&q=Electricpoint+UK",
+     "image": "https://serpapi.com/searches/6abce9aff9656152978063c8/images/hVJ9GSay_5LBc9AyboqwUUCxhEtQFIp0gbXU5spR0Wu4BtPTUGgv6IOHqCuW0Eti.png"
+    },
+    {
+     "name": "Facebook",
+     "link": "https://www.facebook.com/electricpoint.greenwich/",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&q=Electricpoint+UK",
+     "image": "https://serpapi.com/searches/6abce9aff9656152978063c8/images/hVJ9GSay_5LBc9AyboqwUZtNo32F4POg7uYNL3RdIaTgC6H8s1bRYy2j61-5lH6M.png"
+    },
+    {
+     "name": "YouTube",
+     "link": "https://www.youtube.com/@electricpointonline",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&q=Electricpoint+UK",
+     "image": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAP1BMVEX_____z8__n5__kJD_gID_cHD_YGD_v7__39__ICD_AAD_r6__EBD_7-__oKD_MDD_QED_UFD_X1__j4__f396G04EAAAAhklEQVR4AeXQRQLDQAwDQC3bajj5_1dLYb63czYKf8VY50OcBO9swkyUB_SBkfJQlqOXeKJAz_FEQM9zVCqXInqRIy-RC9W-AJDypgCwyoGiV68LkLJFwX6CVJcr8nBwZJgLXMaDAs9RxsMcLE949IQnEnpoeKjEpC25o12OpVwkTURy_JQX1r4RC2S7kZYAAAAASUVORK5CYII.png"
+    },
+    {
+     "name": "X (Twitter)",
+     "link": "https://x.com/electricpoint1/",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&q=Electricpoint+UK",
+     "image": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAABhUlEQVR4AczOA6xcARCF4X_us23btuLUQR3WZlhbQW3bto2gtm3b2J3GN4tY74uHh3okOi42Nj4AAUDwTvDEhisABCOAEAzYTBh0bN-lc5d0QgAhHPqX4Y4pkd367Zc-xMcXCPDg8TPwxeQH724Uj9N95GJ4pnHxby1xgCmV3v-GsFb7k0Iee7UjaQgmIYe9v9O4-wUKWaATyMPAViwvr1NnOQWDdTV5CHYSaKWLmaGDyvU4mTgQcllracaFr-9uk-yLM8k8fAJff0IUTghRVFu3M1ynkYk4nchiqqU3Ry05RDibMMhjtj6Ht3dJxVk_l1G64cspOusychBsCWm01WNM0jFs0sbEYUtIIuTXNco588OLh09JxE6wweuXEAvfL9PQus3-iU80N34KCaQyUOcxTTuSjEmMRI5rS9JwIZfD1t7ceo34YIpnuQ4nGwP8XXlq_fJZd9jE8KBHC5IwAELJ7dWrZ6fOuNhkgFgAEEIAwA1MQkw0AgDC_wnKycrKSQ2iPAkAVyNzq8rxicIAAAAASUVORK5CYII.png"
+    }
+   ]
+  },
+  "inline_images": [
+   {
+    "source": "https://www.facebook.com/Electricpoint42/posts/the-vchrgd-pro-range-is-available-at-electricpointthree-smart-chargers-one-serio/1354099296752268/",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDoLXzHRAaXmdfIHpm5aFGATZ899eUUZsfQ7JIeRcqV5YsubtZtwaQEok&s",
+    "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1354099223418942",
+    "title": "The VCHRGD Pro Range is available at Electricpoint Three ...",
+    "source_name": "Facebook"
+   },
+   {
+    "source": "https://www.electricpoint.com/blog",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMcPHcB0jGF8Sliez3JT-vicl08adCgGiTardx3ygO4hQUkYTAfZeZds0&s",
+    "original": "https://www.electricpoint.com/media/wysiwyg/portable-air-conditioner-buying-guide-uk.png",
+    "title": "Electricpoint | What's the Point?",
+    "source_name": "Electricpoint"
+   },
+   {
+    "source": "https://www.facebook.com/electricpoint.greenwich/",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL8Y9DTOfFd6FptdYWRwzUYbpuzTQ9D-UGI4kZfhmg4xXd41OMKzllnB0&s",
+    "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100068902072762",
+    "title": "Electricpoint | London",
+    "source_name": "Facebook"
+   },
+   {
+    "source": "https://www.electricpoint.com/mk-logic-plus-k5833whi-uk-1-gang-5a-250v-euro-2-module-socket-wh.html",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD6RSzNZgqgL3ny9gbMsbivB6WSlkvjhB_CbzykRO5ID51rJX8IdB3A9A&s",
+    "original": "https://www.electricpoint.com/media/catalog/product/cache/207e23213cf636ccdef205098cf3c8a3/m/k/mk-logic-k5833whi-uk-1-gang-5a-250v-euro-2-module-socket-white.jpg",
+    "title": "MK Logic K5833WHI Uk 1 Gang 5A 250V Euro 2 Module Socket White #",
+    "source_name": "Electricpoint"
+   },
+   {
+    "source": "https://www.electricpoint.com/about-us/careers",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQKpF5TduWLlHtL78FjevL5SCAzURa20Zn3ho8anNEcj7zgZX0FyzZO6g&s",
+    "original": "https://www.electricpoint.com/media/wysiwyg/electricpoint-marketing-office-banner.jpg",
+    "title": "Careers | Join Electricpoint",
+    "source_name": "Electricpoint"
+   },
+   {
+    "source": "https://www.electricpoint.com/electrical-brands/dexpro.html",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThiYYBmr99pDqv4kac-65GQ04Ub1hGcretNJy1mCOGM-rGqVojd0Ofe-Q&s",
+    "original": "https://www.electricpoint.com/media/catalog/product/cache/67ee89799642c567a71fc92f3699d937/2/k/2kw-fan-heater.gif",
+    "title": "DeXpro | Shop Now at Electricpoint for Fast UK Delivery",
+    "source_name": "Electricpoint"
+   },
+   {
+    "source": "https://www.electricpoint.com/blog",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3KfolGqxZ5gRrHgVyzOmD3gxZ0vMUuIzLc6BQ2wk5zH3bt4PcEVwB9ak&s",
+    "original": "https://www.electricpoint.com/media/wysiwyg/dimplex-edel-review-banner.png",
+    "title": "Electricpoint | What's the Point?",
+    "source_name": "Electricpoint"
+   },
+   {
+    "source": "https://www.amazon.co.uk/Gaugemaster-Right-Electric-Point-Radius/dp/B0003K1LJ6",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWgBHXg5jhCPJgj7UABqm7qmLlk_XYZ6mpr5Jyq2hQk_xIMqG3SYpWXeE&s",
+    "original": "https://m.media-amazon.com/images/I/617liSkeGNL._AC_UF894,1000_QL80_.jpg",
+    "title": "Gaugemaster Right Hand Electric Point Radius 481mm 15 Deg. : Amazon.co.uk:  Toys & Games",
+    "source_name": "Amazon UK"
+   },
+   {
+    "source": "https://www.facebook.com/Electricpoint42/posts/score-with-bg-is-now-livespend-20-or-more-on-bg-electrical-products-at-electricp/1328704189291779/",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ0UzkOQLWWCNjG5zbcfd-v7haOUcQDZIFfQQZzLSKxagzKxqd-94Vkpc&s",
+    "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1328704125958452",
+    "title": "Score with BG is now live. Spend £20 or more on BG ...",
+    "source_name": "Facebook"
+   }
+  ],
+  "related_questions": [
+   {
+    "question": "Is Electricpoint legit?",
+    "type": "ai_overview",
+    "page_token": "xVJQjXicHdDbboIwAADQ7Gd8lJu6YGKWMSmECEjtBfuyVKpUKZdIHeDb_mVfta9ZsvMJ5_tHXZvq94VJrbt-bRjDMMzLti3VeV6080dl8H5qCqPgSp14Ua1Xryvr7VJs_H7wPtrBy3DXkS00Eeggcrr2iIFmlriiwL0fqTvRgDmUJFJguIc1kEKxPW-yZXowncQiGfYjh28FTZpSw4BknIr0oOJR2HAXY613SCxzh_m0wU9udj2hzCN1NCJ7nDiRlABV5XZ0j5vYZpP5jHMVnENw2xHvGgfwwTCpeejFFKmBI7kguRhOllAI-QfgqP0JSVngcUTbTMNG3lLwrpEv-hiAKLhGHgyTKaUMEaXMHWI2VK6FkWiyamki5Y3Ul0cclgvhu3B2Kb42zux_bPN5qfW6u7flH9-Weig",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=xVJQjXicHdDbboIwAADQ7Gd8lJu6YGKWMSmECEjtBfuyVKpUKZdIHeDb_mVfta9ZsvMJ5_tHXZvq94VJrbt-bRjDMMzLti3VeV6080dl8H5qCqPgSp14Ua1Xryvr7VJs_H7wPtrBy3DXkS00Eeggcrr2iIFmlriiwL0fqTvRgDmUJFJguIc1kEKxPW-yZXowncQiGfYjh28FTZpSw4BknIr0oOJR2HAXY613SCxzh_m0wU9udj2hzCN1NCJ7nDiRlABV5XZ0j5vYZpP5jHMVnENw2xHvGgfwwTCpeejFFKmBI7kguRhOllAI-QfgqP0JSVngcUTbTMNG3lLwrpEv-hiAKLhGHgyTKaUMEaXMHWI2VK6FkWiyamki5Y3Ul0cclgvhu3B2Kb42zux_bPN5qfW6u7flH9-Weig",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGVtczVSMmxrTFhVM1dVUnlVV3BwTTJscGVEbEdWSFpqYjJvNVkydGFaV2R5V1dWdVJqTlRVMUZJY0ZWR2RIUkRVV0ZhYWw5cFJGWnNSR1pxYms4MFRrczBRMk5QUW1Od2RIUnhkaTExYVVKNmNVSlpjVGRIUW1rdFVSSVhlVTl0T0dGeFRIRk1OQzFHZUdNNFVDMU1SMnd3VVVrYUlrRkVjM0k1WmxOV1gwNXRPV1ZZU0VKdVRreE5kVjl3WW01MGQzSkVRMlk0VGxFIiwiZmN2IjoiMyIsImVpIjoieU9tOGFxTHFMNC1GeGM4UC1MR2wwUUkiLCJxYyI6IkNoQmxiR1ZqZEhKcFkzQnZhVzUwSUhWckVBQjlwOW8yUHciLCJxdWVzdGlvbiI6IklzIEVsZWN0cmljcG9pbnQgbGVnaXQ/IiwibGsiOiJHaFpwY3lCbGJHVmpkSEpwWTNCdmFXNTBJR3hsWjJsMCIsImJzIjoiYy1NeTVoTDNMRlp3elVsTkxpbktUQzdJejh3clVjaEpUYzhzc1RlU2tCTExMRlpJeFpUaU11T1NDczlJTEZFQVNpZm13VlVvZ0pXQTlaVkRaVkdsQkJnQiIsImlkIjoiZmNfeU9tOGFxTHFMNC1GeGM4UC1MR2wwUUlfMyJ9",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGVtczVSMmxrTFhVM1dVUnlVV3BwTTJscGVEbEdWSFpqYjJvNVkydGFaV2R5V1dWdVJqTlRVMUZJY0ZWR2RIUkRVV0ZhYWw5cFJGWnNSR1pxYms4MFRrczBRMk5QUW1Od2RIUnhkaTExYVVKNmNVSlpjVGRIUW1rdFVSSVhlVTl0T0dGeFRIRk1OQzFHZUdNNFVDMU1SMnd3VVVrYUlrRkVjM0k1WmxOV1gwNXRPV1ZZU0VKdVRreE5kVjl3WW01MGQzSkVRMlk0VGxFIiwiZmN2IjoiMyIsImVpIjoieU9tOGFxTHFMNC1GeGM4UC1MR2wwUUkiLCJxYyI6IkNoQmxiR1ZqZEhKcFkzQnZhVzUwSUhWckVBQjlwOW8yUHciLCJxdWVzdGlvbiI6IklzIEVsZWN0cmljcG9pbnQgbGVnaXQ%2FIiwibGsiOiJHaFpwY3lCbGJHVmpkSEpwWTNCdmFXNTBJR3hsWjJsMCIsImJzIjoiYy1NeTVoTDNMRlp3elVsTkxpbktUQzdJejh3clVjaEpUYzhzc1RlU2tCTExMRlpJeFpUaU11T1NDczlJTEZFQVNpZm13VlVvZ0pXQTlaVkRaVkdsQkJnQiIsImlkIjoiZmNfeU9tOGFxTHFMNC1GeGM4UC1MR2wwUUlfMyJ9"
+   },
+   {
+    "question": "What is an electric point?",
+    "type": "ai_overview",
+    "page_token": "rutc0HicHdDbboIwAADQ7Gd8lIvAoolZhlgYiyC1rdCXBcpNWi4RtoJv-5d91b5myc4nnO8fcev47xOtp2kYd4oipVxXfV-JYs369SdX0nHpmMJSIbKU8Z31bGkvJdsfR2kfemlHeBiIA9UL35J4k9-RvnUjIiwaw2vGTS-L6xJxLUaPSk00G4eANplOugLUI2vEiJzEoBgccm4i7A160fGJ6rA56dTBMSjhJn8k6vRO-DxAbB4oCpYMs_nUBG5KtndK6LVo8YI1PNFWGqlL6gsPDCYEJRo0yNEMaWvI05XIIvb7RBMOc31yAW8XsBHnDNU1w_OMnGiCXd2E4HVCx3w8AeC7N9-GXrCEV4oiTQQo5ipubJJ7wsqFbaXqFgQOPIckMUlD4KpkX_vN6n9s_1G2026499UfkxZ5aw",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=rutc0HicHdDbboIwAADQ7Gd8lIvAoolZhlgYiyC1rdCXBcpNWi4RtoJv-5d91b5myc4nnO8fcev47xOtp2kYd4oipVxXfV-JYs369SdX0nHpmMJSIbKU8Z31bGkvJdsfR2kfemlHeBiIA9UL35J4k9-RvnUjIiwaw2vGTS-L6xJxLUaPSk00G4eANplOugLUI2vEiJzEoBgccm4i7A160fGJ6rA56dTBMSjhJn8k6vRO-DxAbB4oCpYMs_nUBG5KtndK6LVo8YI1PNFWGqlL6gsPDCYEJRo0yNEMaWvI05XIIvb7RBMOc31yAW8XsBHnDNU1w_OMnGiCXd2E4HVCx3w8AeC7N9-GXrCEV4oiTQQo5ipubJJ7wsqFbaXqFgQOPIckMUlD4KpkX_vN6n9s_1G2026499UfkxZ5aw",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGVtczVSMmxrTFhVM1dVUnlVV3BwTTJscGVEbEdWSFpqYjJvNVkydGFaV2R5V1dWdVJqTlRVMUZJY0ZWR2RIUkRVV0ZhYWw5cFJGWnNSR1pxYms4MFRrczBRMk5QUW1Od2RIUnhkaTExYVVKNmNVSlpjVGRIUW1rdFVSSVhlVTl0T0dGeFRIRk1OQzFHZUdNNFVDMU1SMnd3VVVrYUlrRkVjM0k1WmxOV1gwNXRPV1ZZU0VKdVRreE5kVjl3WW01MGQzSkVRMlk0VGxFIiwiZmN2IjoiMyIsImVpIjoieU9tOGFxTHFMNC1GeGM4UC1MR2wwUUkiLCJxYyI6IkNoQmxiR1ZqZEhKcFkzQnZhVzUwSUhWckVBQjlwOW8yUHciLCJxdWVzdGlvbiI6IldoYXQgaXMgYW4gZWxlY3RyaWMgcG9pbnQ/IiwibGsiOiJHaFozYUdGMElHbHpJR1ZzWldOMGNtbGpJSEJ2YVc1MCIsImJzIjoiYy1NeTVoTDNMRlp3elVsTkxpbktUQzdJejh3clVjaEpUYzhzc1RlU2tCTExMRlpJeFpUaU11T1NDczlJTEZFQVNpZm13VlVvZ0pXQTlaVkRaVkdsQkJnQiIsImlkIjoiZmNfeU9tOGFxTHFMNC1GeGM4UC1MR2wwUUlfMyJ9",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGVtczVSMmxrTFhVM1dVUnlVV3BwTTJscGVEbEdWSFpqYjJvNVkydGFaV2R5V1dWdVJqTlRVMUZJY0ZWR2RIUkRVV0ZhYWw5cFJGWnNSR1pxYms4MFRrczBRMk5QUW1Od2RIUnhkaTExYVVKNmNVSlpjVGRIUW1rdFVSSVhlVTl0T0dGeFRIRk1OQzFHZUdNNFVDMU1SMnd3VVVrYUlrRkVjM0k1WmxOV1gwNXRPV1ZZU0VKdVRreE5kVjl3WW01MGQzSkVRMlk0VGxFIiwiZmN2IjoiMyIsImVpIjoieU9tOGFxTHFMNC1GeGM4UC1MR2wwUUkiLCJxYyI6IkNoQmxiR1ZqZEhKcFkzQnZhVzUwSUhWckVBQjlwOW8yUHciLCJxdWVzdGlvbiI6IldoYXQgaXMgYW4gZWxlY3RyaWMgcG9pbnQ%2FIiwibGsiOiJHaFozYUdGMElHbHpJR1ZzWldOMGNtbGpJSEJ2YVc1MCIsImJzIjoiYy1NeTVoTDNMRlp3elVsTkxpbktUQzdJejh3clVjaEpUYzhzc1RlU2tCTExMRlpJeFpUaU11T1NDczlJTEZFQVNpZm13VlVvZ0pXQTlaVkRaVkdsQkJnQiIsImlkIjoiZmNfeU9tOGFxTHFMNC1GeGM4UC1MR2wwUUlfMyJ9"
+   }
+  ],
+  "organic_results": [
+   {
+    "position": 1,
+    "title": "Cable Management | The UK's Leading Electrical Wholesaler",
+    "link": "https://www.electricpoint.com/cable-and-cable-management.html",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeAHrOzAVxZkSgmvoOcCFxJZkTss8q6nv-WY8q8ZategfwXUsZUZ5T_aLcMbfv8sDb6dCT17SPdQ4MZEwB8BXmHJ9Wx8nPoq_Bv3YtcqY61dfmxXdnq-Aiy4cfzZwAKsNceBQlM6KpCFNeIds2_tNw_BJmDI4mlGafA&ved=2ahUKEwii7o-ykZaXAxWPQvEDHfhYKSoQFnoECEwQAQ&uoh=1",
+    "displayed_link": "https://www.electricpoint.com › cable-and-cable-manage...",
+    "favicon": "https://serpapi.com/images/i/UklGRoAAAABXRUJQVlA4IHQAAABQAgCdASoQABAAAsBMJbACdAEfZtg5-x95HAAA_vhAVi9K1pbjn5A2jRVlurWt27O72Ijl8zw2TGHyhds8-f6-i4EbZJK0cYvsfAs5aY6t9Yzemt53jnfkTmjfse9aVd9NkN_uPes3u98vvp5z_19AQ6wAAA.webp",
+    "snippet": "Buy cable management products at trade prices from the UK's leading electrical wholesaler. Cable trays, conduit, trunking cable ties, and more.",
+    "snippet_highlighted_words": [
+     "UK's leading electrical wholesaler"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Buy cable management products at trade prices from the UK's leading electrical wholesaler. Cable trays, conduit, trunking cable ties, and more.",
+      "source_info_link": "https://www.electricpoint.com/cable-and-cable-management.html",
+      "icon": "https://serpapi.com/images/i/UklGRoAAAABXRUJQVlA4IHQAAABQAgCdASoQABAAAsBMJbACdAEfZtg5-x95HAAA_vhAVi9K1pbjn5A2jRVlurWt27O72Ijl8zw2TGHyhds8-f6-i4EbZJK0cYvsfAs5aY6t9Yzemt53jnfkTmjfse9aVd9NkN_uPes3u98vvp5z_19AQ6wAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CrABL2dvdG8_dXJsPUNBRVNlQUhyT3pBVnhaa1NnbXZvT2NDRnhKWmtUc3M4cTZudi1XWThxOFphdGVnZndYVXNaVVo1VF9hTGNNYmZ2OHNEYjZkQ1QxN1NQZFE0TVpFd0I4QlhtSEo5V3g4blBvcV9CdjNZdGNxWTYxZGZteFhkbnEtQWl5NGNmelp3QUtzTmNlQlFsTTZLcENGTmVJZHMyX3ROd19CSm1ESTRtbEdhZkESBBoCCAAavQQSABoAIgAqADIGCAESAnVrOgBCBAgBEABKAFoVCAESEWVsZWN0cmljcG9pbnQuY29tcgB6AIJAhAQIABAAGAAgACpJCg1lbGVjdHJpY3BvaW50FacIjEAaDmVsZWN0cmljIHBvaW50Gg9lbGVjdCByaWMgcG9pbnQaEml2O3A7ZWxlY3RyaWNwb2ludCoZCgJ1axXSYwJAGg51bml0ZWQga2luZ2RvbTKwAS9nb3RvP3VybD1DQUVTZUFIck96QVZ4WmtTZ212b09jQ0Z4SlprVHNzOHE2bnYtV1k4cThaYXRlZ2Z3WFVzWlVaNVRfYUxjTWJmdjhzRGI2ZENUMTdTUGRRNE1aRXdCOEJYbUhKOVd4OG5Qb3FfQnYzWXRjcVk2MWRmbXhYZG5xLUFpeTRjZnpad0FLc05jZUJRbE02S3BDRk5lSWRzMl90TndfQkptREk0bWxHYWZBOkRDYWJsZSBNYW5hZ2VtZW50IHwgVGhlIDxiPlVLJiMzOTtzPC9iPiBMZWFkaW5nIEVsZWN0cmljYWwgV2hvbGVzYWxlckKaAUJ1eSBjYWJsZSBtYW5hZ2VtZW50IHByb2R1Y3RzIGF0IHRyYWRlIHByaWNlcyBmcm9tIHRoZSA8Yj5VSyYjMzk7cyBsZWFkaW5nIGVsZWN0cmljYWwgd2hvbGVzYWxlcjwvYj4uIENhYmxlIHRyYXlzLCBjb25kdWl0LCB0cnVua2luZyBjYWJsZSB0aWVzLCBhbmQgbW9yZS4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CrABL2dvdG8_dXJsPUNBRVNlQUhyT3pBVnhaa1NnbXZvT2NDRnhKWmtUc3M4cTZudi1XWThxOFphdGVnZndYVXNaVVo1VF9hTGNNYmZ2OHNEYjZkQ1QxN1NQZFE0TVpFd0I4QlhtSEo5V3g4blBvcV9CdjNZdGNxWTYxZGZteFhkbnEtQWl5NGNmelp3QUtzTmNlQlFsTTZLcENGTmVJZHMyX3ROd19CSm1ESTRtbEdhZkESBBoCCAAavQQSABoAIgAqADIGCAESAnVrOgBCBAgBEABKAFoVCAESEWVsZWN0cmljcG9pbnQuY29tcgB6AIJAhAQIABAAGAAgACpJCg1lbGVjdHJpY3BvaW50FacIjEAaDmVsZWN0cmljIHBvaW50Gg9lbGVjdCByaWMgcG9pbnQaEml2O3A7ZWxlY3RyaWNwb2ludCoZCgJ1axXSYwJAGg51bml0ZWQga2luZ2RvbTKwAS9nb3RvP3VybD1DQUVTZUFIck96QVZ4WmtTZ212b09jQ0Z4SlprVHNzOHE2bnYtV1k4cThaYXRlZ2Z3WFVzWlVaNVRfYUxjTWJmdjhzRGI2ZENUMTdTUGRRNE1aRXdCOEJYbUhKOVd4OG5Qb3FfQnYzWXRjcVk2MWRmbXhYZG5xLUFpeTRjZnpad0FLc05jZUJRbE02S3BDRk5lSWRzMl90TndfQkptREk0bWxHYWZBOkRDYWJsZSBNYW5hZ2VtZW50IHwgVGhlIDxiPlVLJiMzOTtzPC9iPiBMZWFkaW5nIEVsZWN0cmljYWwgV2hvbGVzYWxlckKaAUJ1eSBjYWJsZSBtYW5hZ2VtZW50IHByb2R1Y3RzIGF0IHRyYWRlIHByaWNlcyBmcm9tIHRoZSA8Yj5VSyYjMzk7cyBsZWFkaW5nIGVsZWN0cmljYWwgd2hvbGVzYWxlcjwvYj4uIENhYmxlIHRyYXlzLCBjb25kdWl0LCB0cnVua2luZyBjYWJsZSB0aWVzLCBhbmQgbW9yZS4iAhABSABYAGgA",
+    "source": "Electricpoint"
+   },
+   {
+    "position": 2,
+    "title": "Smoke Alarms & Detectors",
+    "link": "https://www.electricpoint.com/smoke-alarms-detectors/smoke-alarms.html",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgQEB6zswFY3YoMQuVyuYn7AtxJ8jQBvWHY2SxJvetCNUxmfDmYtaVdaRf2S-1g19CtxBoc227lH39-GIjnwqC67zd29f_HWRGs7H0_bIIZQ5HpN0MefTNtdYWsMRbXA5AptnaPpIxQZhWF8JUISagj02lTxEQ_8d5x595eViu9RI_uU&ved=2ahUKEwii7o-ykZaXAxWPQvEDHfhYKSoQFnoECEcQAQ&uoh=1",
+    "displayed_link": "https://www.electricpoint.com › smoke-alarms-detectors",
+    "favicon": "https://serpapi.com/images/i/UklGRoAAAABXRUJQVlA4IHQAAABQAgCdASoQABAAAsBMJbACdAEfZtg5-x95HAAA_vhAVi9K1pbjn5A2jRVlurWt27O72Ijl8zw2TGHyhds8-f6-i4EbZJK0cYvsfAs5aY6t9Yzemt53jnfkTmjfse9aVd9NkN_uPes3u98vvp5z_19AQ6wAAA.webp",
+    "snippet": "We stock a range of Aico smoke alarms from battery operated to mains 230V, with detectors for every room in the home. Fast UK delivery.",
+    "snippet_highlighted_words": [
+     "Fast UK delivery"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "We stock a range of Aico smoke alarms from battery operated to mains 230V, with detectors for every room in the home. Fast UK delivery.",
+      "source_info_link": "https://www.electricpoint.com/smoke-alarms-detectors/smoke-alarms.html",
+      "icon": "https://serpapi.com/images/i/UklGRoAAAABXRUJQVlA4IHQAAABQAgCdASoQABAAAsBMJbACdAEfZtg5-x95HAAA_vhAVi9K1pbjn5A2jRVlurWt27O72Ijl8zw2TGHyhds8-f6-i4EbZJK0cYvsfAs5aY6t9Yzemt53jnfkTmjfse9aVd9NkN_uPes3u98vvp5z_19AQ6wAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=Cr0BL2dvdG8_dXJsPUNBRVNnUUVCNnpzd0ZZM1lvTVF1Vnl1WW43QXR4SjhqUUJ2V0hZMlN4SnZldENOVXhtZkRtWXRhVmRhUmYyUy0xZzE5Q3R4Qm9jMjI3bEgzOS1HSWpud3FDNjd6ZDI5Zl9IV1JHczdIMF9iSUlaUTVIcE4wTWVmVE50ZFlXc01SYlhBNUFwdG5hUHBJeFFaaFdGOEpVSVNhZ2owMmxUeEVRXzhkNXg1OTVlVml1OVJJX3VVEgQaAggAGrEEEgAaACIAKgAyBggDEgJ1azoAQgQIARAASgBaFQgBEhFlbGVjdHJpY3BvaW50LmNvbXIAegCCQPgDCAAQABgAIAAqSQoNZWxlY3RyaWNwb2ludBVRXspAGg5lbGVjdHJpYyBwb2ludBoPZWxlY3QgcmljIHBvaW50GhJpdjtwO2VsZWN0cmljcG9pbnQqGQoCdWsVYOeJPRoOdW5pdGVkIGtpbmdkb20yvQEvZ290bz91cmw9Q0FFU2dRRUI2enN3RlkzWW9NUXVWeXVZbjdBdHhKOGpRQnZXSFkyU3hKdmV0Q05VeG1mRG1ZdGFWZGFSZjJTLTFnMTlDdHhCb2MyMjdsSDM5LUdJam53cUM2N3pkMjlmX0hXUkdzN0gwX2JJSVpRNUhwTjBNZWZUTnRkWVdzTVJiWEE1QXB0bmFQcEl4UVpoV0Y4SlVJU2FnajAybFR4RVFfOGQ1eDU5NWVWaXU5UklfdVU6N1Ntb2tlIEFsYXJtcyAmYW1wOyBEZXRlY3RvcnMgfCA8Yj5FbGVjdHJpY3BvaW50PC9iPi5jb21CjgFXZSBzdG9jayBhIHJhbmdlIG9mIEFpY28gc21va2UgYWxhcm1zIGZyb20gYmF0dGVyeSBvcGVyYXRlZCB0byBtYWlucyAyMzBWLCB3aXRoIGRldGVjdG9ycyBmb3IgZXZlcnkgcm9vbSBpbiB0aGUgaG9tZS4gPGI-RmFzdCBVSyBkZWxpdmVyeTwvYj4uIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=Cr0BL2dvdG8_dXJsPUNBRVNnUUVCNnpzd0ZZM1lvTVF1Vnl1WW43QXR4SjhqUUJ2V0hZMlN4SnZldENOVXhtZkRtWXRhVmRhUmYyUy0xZzE5Q3R4Qm9jMjI3bEgzOS1HSWpud3FDNjd6ZDI5Zl9IV1JHczdIMF9iSUlaUTVIcE4wTWVmVE50ZFlXc01SYlhBNUFwdG5hUHBJeFFaaFdGOEpVSVNhZ2owMmxUeEVRXzhkNXg1OTVlVml1OVJJX3VVEgQaAggAGrEEEgAaACIAKgAyBggDEgJ1azoAQgQIARAASgBaFQgBEhFlbGVjdHJpY3BvaW50LmNvbXIAegCCQPgDCAAQABgAIAAqSQoNZWxlY3RyaWNwb2ludBVRXspAGg5lbGVjdHJpYyBwb2ludBoPZWxlY3QgcmljIHBvaW50GhJpdjtwO2VsZWN0cmljcG9pbnQqGQoCdWsVYOeJPRoOdW5pdGVkIGtpbmdkb20yvQEvZ290bz91cmw9Q0FFU2dRRUI2enN3RlkzWW9NUXVWeXVZbjdBdHhKOGpRQnZXSFkyU3hKdmV0Q05VeG1mRG1ZdGFWZGFSZjJTLTFnMTlDdHhCb2MyMjdsSDM5LUdJam53cUM2N3pkMjlmX0hXUkdzN0gwX2JJSVpRNUhwTjBNZWZUTnRkWVdzTVJiWEE1QXB0bmFQcEl4UVpoV0Y4SlVJU2FnajAybFR4RVFfOGQ1eDU5NWVWaXU5UklfdVU6N1Ntb2tlIEFsYXJtcyAmYW1wOyBEZXRlY3RvcnMgfCA8Yj5FbGVjdHJpY3BvaW50PC9iPi5jb21CjgFXZSBzdG9jayBhIHJhbmdlIG9mIEFpY28gc21va2UgYWxhcm1zIGZyb20gYmF0dGVyeSBvcGVyYXRlZCB0byBtYWlucyAyMzBWLCB3aXRoIGRldGVjdG9ycyBmb3IgZXZlcnkgcm9vbSBpbiB0aGUgaG9tZS4gPGI-RmFzdCBVSyBkZWxpdmVyeTwvYj4uIgIQAUgAWABoAA",
+    "source": "Electricpoint"
+   },
+   {
+    "position": 3,
+    "title": "Careers | Join Electricpoint",
+    "link": "https://www.electricpoint.com/about-us/careers",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaQHrOzAVEA8zyNLJQMiMHdzyEIQzpf7Evg2HkGzPRGGIcY93iRnRyjvAudLHYUpfAxtRZdLpPynPG9Iv5eFWZRUq_WlGkozdkmXcanNeKYYMqO-vCWkH_ODtHYqByXcUmCDrFLCSB-qQrQ&ved=2ahUKEwii7o-ykZaXAxWPQvEDHfhYKSoQFnoECEUQAQ&uoh=1",
+    "displayed_link": "https://www.electricpoint.com › about-us › careers",
+    "favicon": "https://serpapi.com/images/i/UklGRoAAAABXRUJQVlA4IHQAAABQAgCdASoQABAAAsBMJbACdAEfZtg5-x95HAAA_vhAVi9K1pbjn5A2jRVlurWt27O72Ijl8zw2TGHyhds8-f6-i4EbZJK0cYvsfAs5aY6t9Yzemt53jnfkTmjfse9aVd9NkN_uPes3u98vvp5z_19AQ6wAAA.webp",
+    "snippet": "Discover Careers at Electricpoint.com, a Fast Growing Online Electrical Wholesaler with a Great Employee Benefits Package.",
+    "snippet_highlighted_words": [
+     "Fast Growing Online Electrical Wholesaler"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Discover Careers at Electricpoint.com, a Fast Growing Online Electrical Wholesaler with a Great Employee Benefits Package.",
+      "source_info_link": "https://www.electricpoint.com/about-us/careers",
+      "icon": "https://serpapi.com/images/i/UklGRoAAAABXRUJQVlA4IHQAAABQAgCdASoQABAAAsBMJbACdAEfZtg5-x95HAAA_vhAVi9K1pbjn5A2jRVlurWt27O72Ijl8zw2TGHyhds8-f6-i4EbZJK0cYvsfAs5aY6t9Yzemt53jnfkTmjfse9aVd9NkN_uPes3u98vvp5z_19AQ6wAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVkVBOHp5TkxKUU1pTUhkenlFSVF6cGY3RXZnMkhrR3pQUkdHSWNZOTNpUm5SeWp2QXVkTEhZVXBmQXh0UlpkTHBQeW5QRzlJdjVlRldaUlVxX1dsR2tvemRrbVhjYW5OZUtZWU1xTy12Q1drSF9PRHRIWXFCeVhjVW1DRHJGTENTQi1xUXJREgQaAggAGu8DEgAaACIAKgAyBggBEgJ1azoAQgQIARAASgBaFQgBEhFlbGVjdHJpY3BvaW50LmNvbXIAegCCQLYDCAAQABgAIAAqSQoNZWxlY3RyaWNwb2ludBVBW99AGg5lbGVjdHJpYyBwb2ludBoPZWxlY3QgcmljIHBvaW50GhJpdjtwO2VsZWN0cmljcG9pbnQqGQoCdWsVRuEyPhoOdW5pdGVkIGtpbmdkb20ynAEvZ290bz91cmw9Q0FFU2FRSHJPekFWRUE4enlOTEpRTWlNSGR6eUVJUXpwZjdFdmcySGtHelBSR0dJY1k5M2lSblJ5anZBdWRMSFlVcGZBeHRSWmRMcFB5blBHOUl2NWVGV1pSVXFfV2xHa296ZGttWGNhbk5lS1lZTXFPLXZDV2tIX09EdEhZcUJ5WGNVbUNEckZMQ1NCLXFRclE6I0NhcmVlcnMgfCBKb2luIDxiPkVsZWN0cmljcG9pbnQ8L2I-QoEBRGlzY292ZXIgQ2FyZWVycyBhdCBFbGVjdHJpY3BvaW50LmNvbSwgYSA8Yj5GYXN0IEdyb3dpbmcgT25saW5lIEVsZWN0cmljYWwgV2hvbGVzYWxlcjwvYj4gd2l0aCBhIEdyZWF0IEVtcGxveWVlIEJlbmVmaXRzIFBhY2thZ2UuIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVkVBOHp5TkxKUU1pTUhkenlFSVF6cGY3RXZnMkhrR3pQUkdHSWNZOTNpUm5SeWp2QXVkTEhZVXBmQXh0UlpkTHBQeW5QRzlJdjVlRldaUlVxX1dsR2tvemRrbVhjYW5OZUtZWU1xTy12Q1drSF9PRHRIWXFCeVhjVW1DRHJGTENTQi1xUXJREgQaAggAGu8DEgAaACIAKgAyBggBEgJ1azoAQgQIARAASgBaFQgBEhFlbGVjdHJpY3BvaW50LmNvbXIAegCCQLYDCAAQABgAIAAqSQoNZWxlY3RyaWNwb2ludBVBW99AGg5lbGVjdHJpYyBwb2ludBoPZWxlY3QgcmljIHBvaW50GhJpdjtwO2VsZWN0cmljcG9pbnQqGQoCdWsVRuEyPhoOdW5pdGVkIGtpbmdkb20ynAEvZ290bz91cmw9Q0FFU2FRSHJPekFWRUE4enlOTEpRTWlNSGR6eUVJUXpwZjdFdmcySGtHelBSR0dJY1k5M2lSblJ5anZBdWRMSFlVcGZBeHRSWmRMcFB5blBHOUl2NWVGV1pSVXFfV2xHa296ZGttWGNhbk5lS1lZTXFPLXZDV2tIX09EdEhZcUJ5WGNVbUNEckZMQ1NCLXFRclE6I0NhcmVlcnMgfCBKb2luIDxiPkVsZWN0cmljcG9pbnQ8L2I-QoEBRGlzY292ZXIgQ2FyZWVycyBhdCBFbGVjdHJpY3BvaW50LmNvbSwgYSA8Yj5GYXN0IEdyb3dpbmcgT25saW5lIEVsZWN0cmljYWwgV2hvbGVzYWxlcjwvYj4gd2l0aCBhIEdyZWF0IEVtcGxveWVlIEJlbmVmaXRzIFBhY2thZ2UuIgIQAUgAWABoAA",
+    "source": "Electricpoint"
+   },
+   {
+    "position": 4,
+    "title": "ELECTRIC POINT LTD filing history - Companies House",
+    "link": "https://find-and-update.company-information.service.gov.uk/company/07632951/filing-history",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlQEB6zswFaC7ZLortrA1gtXbKxlgjGrUV3V-QVY5ebq1BNVajaaMKoggw1J4-UYV4roTo2VNbM069dN6PPW3nWxYWcjK19d3nCAlMGouCxoE5obVNfhyTsiUnScW_PsHlmrrztj-l1FMOlBrmCZBRx2Xl6g6b0EThiCAT65iZwBhzOOgW2sZRdN43VtF1jo6AggiLh8slQ&ved=2ahUKEwii7o-ykZaXAxWPQvEDHfhYKSoQFnoECEMQAQ&uoh=1",
+    "displayed_link": "https://find-and-update.company-information.service.gov.uk › ...",
+    "favicon": "https://serpapi.com/images/i/UklGRhgBAABXRUJQVlA4IAwBAAAwBgCdASocABwAPtE-tFooIigoFAEAGgloAJ0yhHp496oAiAFWyZytQAMtBxxeoo0v-ukyi91RSUmAAP5tq_b9aeTUksslz1bykvnoSeNsDcPyo5M_1_OL_N6zZIdLehoX_zUl-ET4KtFrXLBT8kc4tQu5oC8i_ugLTiU5sHmdS6vQ9o-_zd3Trc_rtaTl4-ncTsepxs0eCTVPA9c0v4EPxd1_zGFFZTm-3TgDWGON9_V8467cPT_lIoXVJCYHBvAamqBBmH12TC3ezccMwXyjcyz50b6euvyUReqT5RY2mJ-Kuu3NW7x52cE5EN9f1Y-44VHb19inO6ikqhd0FPC5piGcBUzPXX0ogAAA.webp",
+    "snippet": "ELECTRIC POINT LTD - Free company information from Companies House including registered office address, filing history, accounts, annual return, officers, ...",
+    "snippet_highlighted_words": [
+     "Free company information from Companies House"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "ELECTRIC POINT LTD - Free company information from Companies House including registered office address, filing history, accounts, annual return, officers, ...",
+      "source_info_link": "https://find-and-update.company-information.service.gov.uk/company/07632951/filing-history",
+      "icon": "https://serpapi.com/images/i/UklGRhgBAABXRUJQVlA4IAwBAAAwBgCdASocABwAPtE-tFooIigoFAEAGgloAJ0yhHp496oAiAFWyZytQAMtBxxeoo0v-ukyi91RSUmAAP5tq_b9aeTUksslz1bykvnoSeNsDcPyo5M_1_OL_N6zZIdLehoX_zUl-ET4KtFrXLBT8kc4tQu5oC8i_ugLTiU5sHmdS6vQ9o-_zd3Trc_rtaTl4-ncTsepxs0eCTVPA9c0v4EPxd1_zGFFZTm-3TgDWGON9_V8467cPT_lIoXVJCYHBvAamqBBmH12TC3ezccMwXyjcyz50b6euvyUReqT5RY2mJ-Kuu3NW7x52cE5EN9f1Y-44VHb19inO6ikqhd0FPC5piGcBUzPXX0ogAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CtgBL2dvdG8_dXJsPUNBRVNsUUVCNnpzd0ZhQzdaTG9ydHJBMWd0WGJLeGxnakdyVVYzVi1RVlk1ZWJxMUJOVmFqYWFNS29nZ3cxSjQtVVlWNHJvVG8yVk5iTTA2OWRONlBQVzNuV3hZV2NqSzE5ZDNuQ0FsTUdvdUN4b0U1b2JWTmZoeVRzaVVuU2NXX1BzSGxtcnJ6dGotbDFGTU9sQnJtQ1pCUngyWGw2ZzZiMEVUaGlDQVQ2NWlad0Joek9PZ1cyc1pSZE40M1Z0RjFqbzZBZ2dpTGg4c2xREgQaAggAGtYEEgAaACIAKgAyBggBEgJ1azoAQgQIARAASgBaAHIAegCCQLIECAAQABgAIAAqSQoNZWxlY3RyaWNwb2ludBUAAAAAGg5lbGVjdHJpYyBwb2ludBoPZWxlY3QgcmljIHBvaW50GhJpdjtwO2VsZWN0cmljcG9pbnQqGQoCdWsVjC4aQBoOdW5pdGVkIGtpbmdkb20y2AEvZ290bz91cmw9Q0FFU2xRRUI2enN3RmFDN1pMb3J0ckExZ3RYYkt4bGdqR3JVVjNWLVFWWTVlYnExQk5WYWphYU1Lb2dndzFKNC1VWVY0cm9UbzJWTmJNMDY5ZE42UFBXM25XeFlXY2pLMTlkM25DQWxNR291Q3hvRTVvYlZOZmh5VHNpVW5TY1dfUHNIbG1ycnp0ai1sMUZNT2xCcm1DWkJSeDJYbDZnNmIwRVRoaUNBVDY1aVp3Qmh6T09nVzJzWlJkTjQzVnRGMWpvNkFnZ2lMaDhzbFE6OjxiPkVMRUNUUklDIFBPSU5UPC9iPiBMVEQgZmlsaW5nIGhpc3RvcnkgLSBDb21wYW5pZXMgSG91c2VCqgFFTEVDVFJJQyBQT0lOVCBMVEQgLSA8Yj5GcmVlIGNvbXBhbnkgaW5mb3JtYXRpb24gZnJvbSBDb21wYW5pZXMgSG91c2U8L2I-IGluY2x1ZGluZyByZWdpc3RlcmVkIG9mZmljZSBhZGRyZXNzLCBmaWxpbmcgaGlzdG9yeSwgYWNjb3VudHMsIGFubnVhbCByZXR1cm4sIG9mZmljZXJzLCZuYnNwOy4uLiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CtgBL2dvdG8_dXJsPUNBRVNsUUVCNnpzd0ZhQzdaTG9ydHJBMWd0WGJLeGxnakdyVVYzVi1RVlk1ZWJxMUJOVmFqYWFNS29nZ3cxSjQtVVlWNHJvVG8yVk5iTTA2OWRONlBQVzNuV3hZV2NqSzE5ZDNuQ0FsTUdvdUN4b0U1b2JWTmZoeVRzaVVuU2NXX1BzSGxtcnJ6dGotbDFGTU9sQnJtQ1pCUngyWGw2ZzZiMEVUaGlDQVQ2NWlad0Joek9PZ1cyc1pSZE40M1Z0RjFqbzZBZ2dpTGg4c2xREgQaAggAGtYEEgAaACIAKgAyBggBEgJ1azoAQgQIARAASgBaAHIAegCCQLIECAAQABgAIAAqSQoNZWxlY3RyaWNwb2ludBUAAAAAGg5lbGVjdHJpYyBwb2ludBoPZWxlY3QgcmljIHBvaW50GhJpdjtwO2VsZWN0cmljcG9pbnQqGQoCdWsVjC4aQBoOdW5pdGVkIGtpbmdkb20y2AEvZ290bz91cmw9Q0FFU2xRRUI2enN3RmFDN1pMb3J0ckExZ3RYYkt4bGdqR3JVVjNWLVFWWTVlYnExQk5WYWphYU1Lb2dndzFKNC1VWVY0cm9UbzJWTmJNMDY5ZE42UFBXM25XeFlXY2pLMTlkM25DQWxNR291Q3hvRTVvYlZOZmh5VHNpVW5TY1dfUHNIbG1ycnp0ai1sMUZNT2xCcm1DWkJSeDJYbDZnNmIwRVRoaUNBVDY1aVp3Qmh6T09nVzJzWlJkTjQzVnRGMWpvNkFnZ2lMaDhzbFE6OjxiPkVMRUNUUklDIFBPSU5UPC9iPiBMVEQgZmlsaW5nIGhpc3RvcnkgLSBDb21wYW5pZXMgSG91c2VCqgFFTEVDVFJJQyBQT0lOVCBMVEQgLSA8Yj5GcmVlIGNvbXBhbnkgaW5mb3JtYXRpb24gZnJvbSBDb21wYW5pZXMgSG91c2U8L2I-IGluY2x1ZGluZyByZWdpc3RlcmVkIG9mZmljZSBhZGRyZXNzLCBmaWxpbmcgaGlzdG9yeSwgYWNjb3VudHMsIGFubnVhbCByZXR1cm4sIG9mZmljZXJzLCZuYnNwOy4uLiICEAFIAFgAaAA",
+    "source": "Find and update company information"
+   },
+   {
+    "position": 5,
+    "title": "Dehumidifiers | Fast UK Delivery",
+    "link": "https://www.electricpoint.com/extractor-fans-and-ventilation/ventilation/dehumidifiers.html",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlgEB6zswFahrYuMT_rwQ9CE1_cxgAIddJAbG4SSTy10U6lS0DX_DoluOEOeTcjj-8r1tWhpO1azwLWEcRNPgO3CL52QlWdc9Ey_8Oshm64eZq6DVra_rQ1mo7zxefjGHLESx6gjlsYlNtgN4aGYkaROtDu-fF-NH8SQq0fPFzNc3AbLnztXDL1Bx8-y3K_NP-yxyLu1x_xk&ved=2ahUKEwii7o-ykZaXAxWPQvEDHfhYKSoQFnoECGgQAQ&uoh=1",
+    "displayed_link": "https://www.electricpoint.com › ... › Ventilation",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_S_1ukpCL1DGVQq801kH_d1N00tvVEGA7BX_2i8vpKM1jR_-RBrsg&usqp=CAE&s",
+    "favicon": "https://serpapi.com/images/i/UklGRoAAAABXRUJQVlA4IHQAAABQAgCdASoQABAAAsBMJbACdAEfZtg5-x95HAAA_vhAVi9K1pbjn5A2jRVlurWt27O72Ijl8zw2TGHyhds8-f6-i4EbZJK0cYvsfAs5aY6t9Yzemt53jnfkTmjfse9aVd9NkN_uPes3u98vvp5z_19AQ6wAAA.webp",
+    "snippet": "Shop Dehumidifiers at Great Prices from Electricpoint & Keep Your Home Comfortable & Dry. Range of Sizes. Find Your Perfect Dehumidifier Today!",
+    "snippet_highlighted_words": [
+     "Shop Dehumidifiers at Great Prices from Electricpoint"
+    ],
+    "rich_snippet": {
+     "top": {
+      "detected_extensions": {
+       "rating": 4.8,
+       "free_day_returns": 45
+      },
+      "extensions": [
+       "4.8",
+       "store rating (6.5k)",
+       "Free delivery over £95",
+       "Free 45-day returns"
+      ]
+     }
+    },
+    "about_this_result": {
+     "source": {
+      "description": "Shop Dehumidifiers at Great Prices from Electricpoint & Keep Your Home Comfortable & Dry. Range of Sizes. Find Your Perfect Dehumidifier Today!",
+      "source_info_link": "https://www.electricpoint.com/extractor-fans-and-ventilation/ventilation/dehumidifiers.html",
+      "icon": "https://serpapi.com/images/i/UklGRoAAAABXRUJQVlA4IHQAAABQAgCdASoQABAAAsBMJbACdAEfZtg5-x95HAAA_vhAVi9K1pbjn5A2jRVlurWt27O72Ijl8zw2TGHyhds8-f6-i4EbZJK0cYvsfAs5aY6t9Yzemt53jnfkTmjfse9aVd9NkN_uPes3u98vvp5z_19AQ6wAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CtkBL2dvdG8_dXJsPUNBRVNsZ0VCNnpzd0ZhaHJZdU1UX3J3UTlDRTFfY3hnQUlkZEpBYkc0U1NUeTEwVTZsUzBEWF9Eb2x1T0VPZVRjamotOHIxdFdocE8xYXp3TFdFY1JOUGdPM0NMNTJRbFdkYzlFeV84T3NobTY0ZVpxNkRWcmFfclExbW83enhlZmpHSExFU3g2Z2psc1lsTnRnTjRhR1lrYVJPdER1LWZGLU5IOFNRcTBmUEZ6TmMzQWJMbnp0WERMMUJ4OC15M0tfTlAteXh5THUxeF94axIEGgIIABrqBBIAGgIIASIAKgAyBggBEgJ1azoAQgQIARAASgBaFQgBEhFlbGVjdHJpY3BvaW50LmNvbXIAegCCQK8ECAAQABgAIAAqSQoNZWxlY3RyaWNwb2ludBWZkcxAGg5lbGVjdHJpYyBwb2ludBoPZWxlY3QgcmljIHBvaW50GhJpdjtwO2VsZWN0cmljcG9pbnQqGQoCdWsVdDYUQBoOdW5pdGVkIGtpbmdkb20y2QEvZ290bz91cmw9Q0FFU2xnRUI2enN3RmFocll1TVRfcndROUNFMV9jeGdBSWRkSkFiRzRTU1R5MTBVNmxTMERYX0RvbHVPRU9lVGNqai04cjF0V2hwTzFhendMV0VjUk5QZ08zQ0w1MlFsV2RjOUV5XzhPc2htNjRlWnE2RFZyYV9yUTFtbzd6eGVmakdITEVTeDZnamxzWWxOdGdONGFHWWthUk90RHUtZkYtTkg4U1FxMGZQRnpOYzNBYkxuenRYREwxQng4LXkzS19OUC15eHlMdTF4X3hrOkJEZWh1bWlkaWZpZXJzIHwgRmFzdCA8Yj5VSzwvYj4gRGVsaXZlcnkgfCA8Yj5FbGVjdHJpY3BvaW50PC9iPi5jb21CngE8Yj5TaG9wIERlaHVtaWRpZmllcnMgYXQgR3JlYXQgUHJpY2VzIGZyb20gRWxlY3RyaWNwb2ludDwvYj4gJmFtcDsgS2VlcCBZb3VyIEhvbWUgQ29tZm9ydGFibGUgJmFtcDsgRHJ5LiBSYW5nZSBvZiBTaXplcy4gRmluZCBZb3VyIFBlcmZlY3QgRGVodW1pZGlmaWVyIFRvZGF5ISICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CtkBL2dvdG8_dXJsPUNBRVNsZ0VCNnpzd0ZhaHJZdU1UX3J3UTlDRTFfY3hnQUlkZEpBYkc0U1NUeTEwVTZsUzBEWF9Eb2x1T0VPZVRjamotOHIxdFdocE8xYXp3TFdFY1JOUGdPM0NMNTJRbFdkYzlFeV84T3NobTY0ZVpxNkRWcmFfclExbW83enhlZmpHSExFU3g2Z2psc1lsTnRnTjRhR1lrYVJPdER1LWZGLU5IOFNRcTBmUEZ6TmMzQWJMbnp0WERMMUJ4OC15M0tfTlAteXh5THUxeF94axIEGgIIABrqBBIAGgIIASIAKgAyBggBEgJ1azoAQgQIARAASgBaFQgBEhFlbGVjdHJpY3BvaW50LmNvbXIAegCCQK8ECAAQABgAIAAqSQoNZWxlY3RyaWNwb2ludBWZkcxAGg5lbGVjdHJpYyBwb2ludBoPZWxlY3QgcmljIHBvaW50GhJpdjtwO2VsZWN0cmljcG9pbnQqGQoCdWsVdDYUQBoOdW5pdGVkIGtpbmdkb20y2QEvZ290bz91cmw9Q0FFU2xnRUI2enN3RmFocll1TVRfcndROUNFMV9jeGdBSWRkSkFiRzRTU1R5MTBVNmxTMERYX0RvbHVPRU9lVGNqai04cjF0V2hwTzFhendMV0VjUk5QZ08zQ0w1MlFsV2RjOUV5XzhPc2htNjRlWnE2RFZyYV9yUTFtbzd6eGVmakdITEVTeDZnamxzWWxOdGdONGFHWWthUk90RHUtZkYtTkg4U1FxMGZQRnpOYzNBYkxuenRYREwxQng4LXkzS19OUC15eHlMdTF4X3hrOkJEZWh1bWlkaWZpZXJzIHwgRmFzdCA8Yj5VSzwvYj4gRGVsaXZlcnkgfCA8Yj5FbGVjdHJpY3BvaW50PC9iPi5jb21CngE8Yj5TaG9wIERlaHVtaWRpZmllcnMgYXQgR3JlYXQgUHJpY2VzIGZyb20gRWxlY3RyaWNwb2ludDwvYj4gJmFtcDsgS2VlcCBZb3VyIEhvbWUgQ29tZm9ydGFibGUgJmFtcDsgRHJ5LiBSYW5nZSBvZiBTaXplcy4gRmluZCBZb3VyIFBlcmZlY3QgRGVodW1pZGlmaWVyIFRvZGF5ISICEAFIAFgAaAA",
+    "source": "Electricpoint"
+   },
+   {
+    "position": 6,
+    "title": "Indra Smart Pro EV Charger Review 2026",
+    "link": "https://www.electricpoint.com/blog/indra-smart-pro-ev-charger-review",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfwHrOzAVl5K9cFsup4BzvL8i8q1qzaLzzhX4zPCJUWgS9tqniC9YLet9K4JJ88uR2BGMzRiTBiBA7Q-68zkGex9yqGEIkOcVfMeL176msNmRHQHvatw8gX-cv8DFGyTuiYyOCKV1OFDkuruWFouqxNlSb8vhy2b1ve6V7GObiIg&ved=2ahUKEwii7o-ykZaXAxWPQvEDHfhYKSoQFnoECGIQAQ&uoh=1",
+    "displayed_link": "https://www.electricpoint.com › ... › EV Chargers",
+    "favicon": "https://serpapi.com/images/i/UklGRoAAAABXRUJQVlA4IHQAAABQAgCdASoQABAAAsBMJbACdAEfZtg5-x95HAAA_vhAVi9K1pbjn5A2jRVlurWt27O72Ijl8zw2TGHyhds8-f6-i4EbZJK0cYvsfAs5aY6t9Yzemt53jnfkTmjfse9aVd9NkN_uPes3u98vvp5z_19AQ6wAAA.webp",
+    "date": "15 Apr 2026",
+    "snippet": "The Indra Smart Pro is one of the more capable home EV chargers available in the UK right now, It charges at 7.4kW, handles British weather ...",
+    "snippet_highlighted_words": [
+     "UK"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "The Indra Smart Pro is one of the more capable home EV chargers available in the UK right now, It charges at 7.4kW, handles British weather ...",
+      "source_info_link": "https://www.electricpoint.com/blog/indra-smart-pro-ev-charger-review",
+      "icon": "https://serpapi.com/images/i/UklGRoAAAABXRUJQVlA4IHQAAABQAgCdASoQABAAAsBMJbACdAEfZtg5-x95HAAA_vhAVi9K1pbjn5A2jRVlurWt27O72Ijl8zw2TGHyhds8-f6-i4EbZJK0cYvsfAs5aY6t9Yzemt53jnfkTmjfse9aVd9NkN_uPes3u98vvp5z_19AQ6wAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVmw1SzljRnN1cDRCenZMOGk4cTFxemFMenpoWDR6UENKVVdnUzl0cW5pQzlZTGV0OUs0Sko4OHVSMkJHTXpSaVRCaUJBN1EtNjh6a0dleDl5cUdFSWtPY1ZmTWVMMTc2bXNObVJIUUh2YXR3OGdYLWN2OERGR3lUdWlZeU9DS1YxT0ZEa3VydVdGb3VxeE5sU2I4dmh5MmIxdmU2VjdHT2JpSWcSBBoCCAAauQQSABoAIgAqADIGCAESAnVrOgBCBAgBEABKAFoVCAESEWVsZWN0cmljcG9pbnQuY29tcgB6AIJAgAQIABAAGAAgACpJCg1lbGVjdHJpY3BvaW50FYK5x0AaDmVsZWN0cmljIHBvaW50Gg9lbGVjdCByaWMgcG9pbnQaEml2O3A7ZWxlY3RyaWNwb2ludCoZCgJ1axWSzFk-Gg51bml0ZWQga2luZ2RvbTK5AS9nb3RvP3VybD1DQUVTZndIck96QVZsNUs5Y0ZzdXA0Qnp2TDhpOHExcXphTHp6aFg0elBDSlVXZ1M5dHFuaUM5WUxldDlLNEpKODh1UjJCR016UmlUQmlCQTdRLTY4emtHZXg5eXFHRUlrT2NWZk1lTDE3Nm1zTm1SSFFIdmF0dzhnWC1jdjhERkd5VHVpWXlPQ0tWMU9GRGt1cnVXRm91cXhObFNiOHZoeTJiMXZlNlY3R09iaUlnOjZJbmRyYSBTbWFydCBQcm8gRVYgQ2hhcmdlciBSZXZpZXcgMjAyNiAtIEVsZWN0cmljcG9pbnRCmwFUaGUgSW5kcmEgU21hcnQgUHJvIGlzIG9uZSBvZiB0aGUgbW9yZSBjYXBhYmxlIGhvbWUgRVYgY2hhcmdlcnMgYXZhaWxhYmxlIGluIHRoZSA8Yj5VSzwvYj4gcmlnaHQgbm93LCBJdCBjaGFyZ2VzIGF0IDcuNGtXLCBoYW5kbGVzIEJyaXRpc2ggd2VhdGhlciZuYnNwOy4uLiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVmw1SzljRnN1cDRCenZMOGk4cTFxemFMenpoWDR6UENKVVdnUzl0cW5pQzlZTGV0OUs0Sko4OHVSMkJHTXpSaVRCaUJBN1EtNjh6a0dleDl5cUdFSWtPY1ZmTWVMMTc2bXNObVJIUUh2YXR3OGdYLWN2OERGR3lUdWlZeU9DS1YxT0ZEa3VydVdGb3VxeE5sU2I4dmh5MmIxdmU2VjdHT2JpSWcSBBoCCAAauQQSABoAIgAqADIGCAESAnVrOgBCBAgBEABKAFoVCAESEWVsZWN0cmljcG9pbnQuY29tcgB6AIJAgAQIABAAGAAgACpJCg1lbGVjdHJpY3BvaW50FYK5x0AaDmVsZWN0cmljIHBvaW50Gg9lbGVjdCByaWMgcG9pbnQaEml2O3A7ZWxlY3RyaWNwb2ludCoZCgJ1axWSzFk-Gg51bml0ZWQga2luZ2RvbTK5AS9nb3RvP3VybD1DQUVTZndIck96QVZsNUs5Y0ZzdXA0Qnp2TDhpOHExcXphTHp6aFg0elBDSlVXZ1M5dHFuaUM5WUxldDlLNEpKODh1UjJCR016UmlUQmlCQTdRLTY4emtHZXg5eXFHRUlrT2NWZk1lTDE3Nm1zTm1SSFFIdmF0dzhnWC1jdjhERkd5VHVpWXlPQ0tWMU9GRGt1cnVXRm91cXhObFNiOHZoeTJiMXZlNlY3R09iaUlnOjZJbmRyYSBTbWFydCBQcm8gRVYgQ2hhcmdlciBSZXZpZXcgMjAyNiAtIEVsZWN0cmljcG9pbnRCmwFUaGUgSW5kcmEgU21hcnQgUHJvIGlzIG9uZSBvZiB0aGUgbW9yZSBjYXBhYmxlIGhvbWUgRVYgY2hhcmdlcnMgYXZhaWxhYmxlIGluIHRoZSA8Yj5VSzwvYj4gcmlnaHQgbm93LCBJdCBjaGFyZ2VzIGF0IDcuNGtXLCBoYW5kbGVzIEJyaXRpc2ggd2VhdGhlciZuYnNwOy4uLiICEAFIAFgAaAA",
+    "source": "Electricpoint"
+   },
+   {
+    "position": 7,
+    "title": "Electricpoint | London",
+    "link": "https://www.facebook.com/electricpoint.greenwich/?locale=en_GB",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeQHrOzAVuXFzQP_PcbAPlBFyvaCqE4JFXEBLbajaJ6-K5Gd3jfAe9QLqP1CUOVOLSZ9-Bcq51TgMax3LlwP8qtTjAWCT45Z8yJn204UB7bP2hPnlSI89Rjrt9RrQynadkPRk_WJcqhGfgFvVt9h3l94UuBlcQxVF2f0&ved=2ahUKEwii7o-ykZaXAxWPQvEDHfhYKSoQFnoECEQQAQ&uoh=1",
+    "displayed_link": "20+ followers",
+    "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "snippet": "Electrical wholesaler for Pro's & DIYers | Fast UK delivery | Price match. Open now Units 9 & 10, Ramac Way, London, United Kingdom, SE7 ... Links +44 20 3994 ...",
+    "snippet_highlighted_words": [
+     "Unit"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Electrical wholesaler for Pro's & DIYers | Fast UK delivery | Price match. Open now Units 9 & 10, Ramac Way, London, United Kingdom, SE7 ... Links +44 20 3994 ...",
+      "source_info_link": "https://www.facebook.com/electricpoint.greenwich/?locale=en_GB",
+      "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVnVYRnpRUF9QY2JBUGxCRnl2YUNxRTRKRlhFQkxiYWphSjYtSzVHZDNqZkFlOVFMcVAxQ1VPVk9MU1o5LUJjcTUxVGdNYXgzTGx3UDhxdFRqQVdDVDQ1Wjh5Sm4yMDRVQjdiUDJoUG5sU0k4OVJqcnQ5UnJReW5hZGtQUmtfV0pjcWhHZmdGdlZ0OWgzbDk0VXVCbGNReFZGMmYwEgQaAggAGq8EEgIIABoAIgAqADIGCAMSAnVrOgBCBAgBEABKAFoAcgB6AIJAiQQIABAAGAAgACpJCg1lbGVjdHJpY3BvaW50FRCuaUAaDmVsZWN0cmljIHBvaW50Gg9lbGVjdCByaWMgcG9pbnQaEml2O3A7ZWxlY3RyaWNwb2ludCoZCgJ1axWNF2M-Gg51bml0ZWQga2luZ2RvbTKxAS9nb3RvP3VybD1DQUVTZVFIck96QVZ1WEZ6UVBfUGNiQVBsQkZ5dmFDcUU0SkZYRUJMYmFqYUo2LUs1R2QzamZBZTlRTHFQMUNVT1ZPTFNaOS1CY3E1MVRnTWF4M0xsd1A4cXRUakFXQ1Q0NVo4eUpuMjA0VUI3YlAyaFBubFNJODlSanJ0OVJyUXluYWRrUFJrX1dKY3FoR2ZnRnZWdDloM2w5NFV1QmxjUXhWRjJmMDooPGI-RWxlY3RyaWNwb2ludDwvYj4gfCBMb25kb24gLSBGYWNlYm9va0K6AUVsZWN0cmljYWwgd2hvbGVzYWxlciBmb3IgUHJvJiMzOTtzICZhbXA7IERJWWVycyB8IEZhc3QgVUsgZGVsaXZlcnkgfCBQcmljZSBtYXRjaC4gT3BlbiBub3cgPGI-VW5pdDwvYj5zIDkgJmFtcDsgMTAsIFJhbWFjIFdheSwgTG9uZG9uLCBVbml0ZWQgS2luZ2RvbSwgU0U3IC4uLiBMaW5rcyArNDQgMjAgMzk5NCZuYnNwOy4uLiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVnVYRnpRUF9QY2JBUGxCRnl2YUNxRTRKRlhFQkxiYWphSjYtSzVHZDNqZkFlOVFMcVAxQ1VPVk9MU1o5LUJjcTUxVGdNYXgzTGx3UDhxdFRqQVdDVDQ1Wjh5Sm4yMDRVQjdiUDJoUG5sU0k4OVJqcnQ5UnJReW5hZGtQUmtfV0pjcWhHZmdGdlZ0OWgzbDk0VXVCbGNReFZGMmYwEgQaAggAGq8EEgIIABoAIgAqADIGCAMSAnVrOgBCBAgBEABKAFoAcgB6AIJAiQQIABAAGAAgACpJCg1lbGVjdHJpY3BvaW50FRCuaUAaDmVsZWN0cmljIHBvaW50Gg9lbGVjdCByaWMgcG9pbnQaEml2O3A7ZWxlY3RyaWNwb2ludCoZCgJ1axWNF2M-Gg51bml0ZWQga2luZ2RvbTKxAS9nb3RvP3VybD1DQUVTZVFIck96QVZ1WEZ6UVBfUGNiQVBsQkZ5dmFDcUU0SkZYRUJMYmFqYUo2LUs1R2QzamZBZTlRTHFQMUNVT1ZPTFNaOS1CY3E1MVRnTWF4M0xsd1A4cXRUakFXQ1Q0NVo4eUpuMjA0VUI3YlAyaFBubFNJODlSanJ0OVJyUXluYWRrUFJrX1dKY3FoR2ZnRnZWdDloM2w5NFV1QmxjUXhWRjJmMDooPGI-RWxlY3RyaWNwb2ludDwvYj4gfCBMb25kb24gLSBGYWNlYm9va0K6AUVsZWN0cmljYWwgd2hvbGVzYWxlciBmb3IgUHJvJiMzOTtzICZhbXA7IERJWWVycyB8IEZhc3QgVUsgZGVsaXZlcnkgfCBQcmljZSBtYXRjaC4gT3BlbiBub3cgPGI-VW5pdDwvYj5zIDkgJmFtcDsgMTAsIFJhbWFjIFdheSwgTG9uZG9uLCBVbml0ZWQgS2luZ2RvbSwgU0U3IC4uLiBMaW5rcyArNDQgMjAgMzk5NCZuYnNwOy4uLiICEAFIAFgAaAA",
+    "source": "Facebook · Electricpoint"
+   },
+   {
+    "position": 8,
+    "title": "In-Depth Electricpoint Reviews and Customer Ratings | Codes ...",
+    "link": "https://elec-point.codes.uk.net/ratings",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYgHrOzAVH4pgY_sSXWE4g5ydo01EnHs22Rh2bgocVN2mzKripl-XIG8wceng1_-DteMneUDESVfL-JJFS1838Zwa-kEahDTWEr3zmDz459PqkdXb9UtAmuF0UXrZwQK2e2Ki&ved=2ahUKEwii7o-ykZaXAxWPQvEDHfhYKSoQFnoECEgQAQ&uoh=1",
+    "displayed_link": "https://elec-point.codes.uk.net › ratings",
+    "favicon": "https://serpapi.com/images/i/UklGRsIAAABXRUJQVlA4ILYAAACwBQCdASocABwAPtE-tFooIigoFAEAGglsALsgOEjW2AmlkiLwv9aUk_WFMLAiC3CcoTSKx5AA_vYCW2z4_1eVye-QdII46wyaDA82DyuymPArZ8TpcYwKX0IgB808Km6hduqd2USVbt3aU_j316O2dWYn9i2IqnGRG8EL0bUY_kQZh8tzgvdglxTSqlzj0xKT4Wfl8oqezMQZ6N5pKhO9RMlB3zrF3WC_zln6fz2UcXGdHGAAAA.webp",
+    "snippet": "Electricpoint is a well-known supplier of electrical supplies in the UK, offering a wide range of products for both residential and commercial use.",
+    "snippet_highlighted_words": [
+     "Electricpoint is a well-known supplier of electrical supplies in the UK"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Electricpoint is a well-known supplier of electrical supplies in the UK, offering a wide range of products for both residential and commercial use.",
+      "source_info_link": "https://elec-point.codes.uk.net/ratings",
+      "icon": "https://serpapi.com/images/i/UklGRsIAAABXRUJQVlA4ILYAAACwBQCdASocABwAPtE-tFooIigoFAEAGglsALsgOEjW2AmlkiLwv9aUk_WFMLAiC3CcoTSKx5AA_vYCW2z4_1eVye-QdII46wyaDA82DyuymPArZ8TpcYwKX0IgB808Km6hduqd2USVbt3aU_j316O2dWYn9i2IqnGRG8EL0bUY_kQZh8tzgvdglxTSqlzj0xKT4Wfl8oqezMQZ6N5pKhO9RMlB3zrF3WC_zln6fz2UcXGdHGAAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CpIBL2dvdG8_dXJsPUNBRVNZZ0hyT3pBVkg0cGdZX3NTWFdFNGc1eWRvMDFFbkhzMjJSaDJiZ29jVk4ybXpLcmlwbC1YSUc4d2NlbmcxXy1EdGVNbmVVREVTVmZMLUpKRlMxODM4WndhLWtFYWhEVFdFcjN6bUR6NDU5UHFrZFhiOVV0QW11RjBVWHJad1FLMmUyS2kSBBoCCAAajAQSABoAIgAqADIGCAMSAnVrOgBCBAgBEABKAFoAcgB6AIJA6AMIABAAGAAgACpJCg1lbGVjdHJpY3BvaW50FeDip0AaDmVsZWN0cmljIHBvaW50Gg9lbGVjdCByaWMgcG9pbnQaEml2O3A7ZWxlY3RyaWNwb2ludCoZCgJ1axVapZBAGg51bml0ZWQga2luZ2RvbTKSAS9nb3RvP3VybD1DQUVTWWdIck96QVZINHBnWV9zU1hXRTRnNXlkbzAxRW5IczIyUmgyYmdvY1ZOMm16S3JpcGwtWElHOHdjZW5nMV8tRHRlTW5lVURFU1ZmTC1KSkZTMTgzOFp3YS1rRWFoRFRXRXIzem1EejQ1OVBxa2RYYjlVdEFtdUYwVVhyWndRSzJlMktpOkZJbi1EZXB0aCA8Yj5FbGVjdHJpY3BvaW50PC9iPiBSZXZpZXdzIGFuZCBDdXN0b21lciBSYXRpbmdzIHwgQ29kZXMgLi4uQpoBPGI-RWxlY3RyaWNwb2ludCBpcyBhIHdlbGwta25vd24gc3VwcGxpZXIgb2YgZWxlY3RyaWNhbCBzdXBwbGllcyBpbiB0aGUgVUs8L2I-LCBvZmZlcmluZyBhIHdpZGUgcmFuZ2Ugb2YgcHJvZHVjdHMgZm9yIGJvdGggcmVzaWRlbnRpYWwgYW5kIGNvbW1lcmNpYWwgdXNlLiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CpIBL2dvdG8_dXJsPUNBRVNZZ0hyT3pBVkg0cGdZX3NTWFdFNGc1eWRvMDFFbkhzMjJSaDJiZ29jVk4ybXpLcmlwbC1YSUc4d2NlbmcxXy1EdGVNbmVVREVTVmZMLUpKRlMxODM4WndhLWtFYWhEVFdFcjN6bUR6NDU5UHFrZFhiOVV0QW11RjBVWHJad1FLMmUyS2kSBBoCCAAajAQSABoAIgAqADIGCAMSAnVrOgBCBAgBEABKAFoAcgB6AIJA6AMIABAAGAAgACpJCg1lbGVjdHJpY3BvaW50FeDip0AaDmVsZWN0cmljIHBvaW50Gg9lbGVjdCByaWMgcG9pbnQaEml2O3A7ZWxlY3RyaWNwb2ludCoZCgJ1axVapZBAGg51bml0ZWQga2luZ2RvbTKSAS9nb3RvP3VybD1DQUVTWWdIck96QVZINHBnWV9zU1hXRTRnNXlkbzAxRW5IczIyUmgyYmdvY1ZOMm16S3JpcGwtWElHOHdjZW5nMV8tRHRlTW5lVURFU1ZmTC1KSkZTMTgzOFp3YS1rRWFoRFRXRXIzem1EejQ1OVBxa2RYYjlVdEFtdUYwVVhyWndRSzJlMktpOkZJbi1EZXB0aCA8Yj5FbGVjdHJpY3BvaW50PC9iPiBSZXZpZXdzIGFuZCBDdXN0b21lciBSYXRpbmdzIHwgQ29kZXMgLi4uQpoBPGI-RWxlY3RyaWNwb2ludCBpcyBhIHdlbGwta25vd24gc3VwcGxpZXIgb2YgZWxlY3RyaWNhbCBzdXBwbGllcyBpbiB0aGUgVUs8L2I-LCBvZmZlcmluZyBhIHdpZGUgcmFuZ2Ugb2YgcHJvZHVjdHMgZm9yIGJvdGggcmVzaWRlbnRpYWwgYW5kIGNvbW1lcmNpYWwgdXNlLiICEAFIAFgAaAA",
+    "source": "uk.net"
+   },
+   {
+    "position": 9,
+    "title": "ELECTRIC POINT LTD | Company Summary",
+    "link": "https://companycheck.co.uk/company/07632951/ELECTRIC-POINT-LTD/companies-house-data",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjgEB6zswFSAwQC9ZfhRt78T8heuMqr7LBmFQ6wLPHnMq_omNsZwDWCr-fN70aZoWPgCYnfeyGY3O6HjPURXNVgJ4zRUGksynLqSwkXKr6C7y2btC-CsSutAnXw2cTnAl9gWhBvmZH_BTSpel-RKGCFekDjq2dIM4v_PJ9IrIqAsnsrd3IfxtRAFodSbZONfa&ved=2ahUKEwii7o-ykZaXAxWPQvEDHfhYKSoQFnoECEIQAQ&uoh=1",
+    "displayed_link": "https://companycheck.co.uk › companies-house-data",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAJFBMVEVHcEw3ddA3ddA2ddAibM7e5_Zaitb___-UsONOg9TX4fTW4PSHUg9OAAAAA3RSTlMAYN1n6QEQAAAAd0lEQVR4AWNgVDaGAyMBBmFjJGDIAJJESDMYowDcXJMwFK5rGTLXJByF61qOzDVpL69Elm3HI-uaApNNdQYZOwUmm74EZOwUmGx6tbNJeDlcdnr5Fo9yJNnyChAXIVtBtmw6qqxZWrJxWhqIwggrtIBFC3a0SAEABnhsSiyEFJ4AAAAASUVORK5CYII.png",
+    "snippet": "UK Flag 109-115 ELEANOR CROSS ROAD, WALTHAM CROSS, HERTS, EN8 7NT. Status: Active. Company No: 07632951. Phone icon 02083427020. Website icon www.electricpoint.",
+    "snippet_highlighted_words": [
+     "109-115 ELEANOR CROSS ROAD, WALTHAM CROSS, HERTS, EN8 7NT"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "UK Flag 109-115 ELEANOR CROSS ROAD, WALTHAM CROSS, HERTS, EN8 7NT. Status: Active. Company No: 07632951. Phone icon 02083427020. Website icon www.electricpoint.",
+      "source_info_link": "https://companycheck.co.uk/company/07632951/ELECTRIC-POINT-LTD/companies-house-data",
+      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAJFBMVEVHcEw3ddA3ddA2ddAibM7e5_Zaitb___-UsONOg9TX4fTW4PSHUg9OAAAAA3RSTlMAYN1n6QEQAAAAd0lEQVR4AWNgVDaGAyMBBmFjJGDIAJJESDMYowDcXJMwFK5rGTLXJByF61qOzDVpL69Elm3HI-uaApNNdQYZOwUmm74EZOwUmGx6tbNJeDlcdnr5Fo9yJNnyChAXIVtBtmw6qqxZWrJxWhqIwggrtIBFC3a0SAEABnhsSiyEFJ4AAAAASUVORK5CYII.png"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=Cs4BL2dvdG8_dXJsPUNBRVNqZ0VCNnpzd0ZTQXdRQzlaZmhSdDc4VDhoZXVNcXI3TEJtRlE2d0xQSG5NcV9vbU5zWndEV0NyLWZONzBhWm9XUGdDWW5mZXlHWTNPNkhqUFVSWE5WZ0o0elJVR2tzeW5McVN3a1hLcjZDN3kyYnRDLUNzU3V0QW5YdzJjVG5BbDlnV2hCdm1aSF9CVFNwZWwtUktHQ0Zla0RqcTJkSU00dl9QSjlJcklxQXNuc3JkM0lmeHRSQUZvZFNiWk9OZmESBBoCCAAaugQSABoAIgAqADIGCAESAnVrOgBCBAgBEABKAFoAcgB6AIJAlgQIABAAGAAgACpJCg1lbGVjdHJpY3BvaW50FU5fbj8aDmVsZWN0cmljIHBvaW50Gg9lbGVjdCByaWMgcG9pbnQaEml2O3A7ZWxlY3RyaWNwb2ludCoZCgJ1axXIt0w_Gg51bml0ZWQga2luZ2RvbTLOAS9nb3RvP3VybD1DQUVTamdFQjZ6c3dGU0F3UUM5WmZoUnQ3OFQ4aGV1TXFyN0xCbUZRNndMUEhuTXFfb21Oc1p3RFdDci1mTjcwYVpvV1BnQ1luZmV5R1kzTzZIalBVUlhOVmdKNHpSVUdrc3luTHFTd2tYS3I2Qzd5MmJ0Qy1Dc1N1dEFuWHcyY1RuQWw5Z1doQnZtWkhfQlRTcGVsLVJLR0NGZWtEanEyZElNNHZfUEo5SXJJcUFzbnNyZDNJZnh0UkFGb2RTYlpPTmZhOis8Yj5FTEVDVFJJQyBQT0lOVDwvYj4gTFREIHwgQ29tcGFueSBTdW1tYXJ5QqcBVUsgRmxhZyA8Yj4xMDktMTE1IEVMRUFOT1IgQ1JPU1MgUk9BRCwgV0FMVEhBTSBDUk9TUywgSEVSVFMsIEVOOCA3TlQ8L2I-LiBTdGF0dXM6IEFjdGl2ZS4gQ29tcGFueSBObzogMDc2MzI5NTEuIFBob25lIGljb24gMDIwODM0MjcwMjAuIFdlYnNpdGUgaWNvbiB3d3cuZWxlY3RyaWNwb2ludC4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=Cs4BL2dvdG8_dXJsPUNBRVNqZ0VCNnpzd0ZTQXdRQzlaZmhSdDc4VDhoZXVNcXI3TEJtRlE2d0xQSG5NcV9vbU5zWndEV0NyLWZONzBhWm9XUGdDWW5mZXlHWTNPNkhqUFVSWE5WZ0o0elJVR2tzeW5McVN3a1hLcjZDN3kyYnRDLUNzU3V0QW5YdzJjVG5BbDlnV2hCdm1aSF9CVFNwZWwtUktHQ0Zla0RqcTJkSU00dl9QSjlJcklxQXNuc3JkM0lmeHRSQUZvZFNiWk9OZmESBBoCCAAaugQSABoAIgAqADIGCAESAnVrOgBCBAgBEABKAFoAcgB6AIJAlgQIABAAGAAgACpJCg1lbGVjdHJpY3BvaW50FU5fbj8aDmVsZWN0cmljIHBvaW50Gg9lbGVjdCByaWMgcG9pbnQaEml2O3A7ZWxlY3RyaWNwb2ludCoZCgJ1axXIt0w_Gg51bml0ZWQga2luZ2RvbTLOAS9nb3RvP3VybD1DQUVTamdFQjZ6c3dGU0F3UUM5WmZoUnQ3OFQ4aGV1TXFyN0xCbUZRNndMUEhuTXFfb21Oc1p3RFdDci1mTjcwYVpvV1BnQ1luZmV5R1kzTzZIalBVUlhOVmdKNHpSVUdrc3luTHFTd2tYS3I2Qzd5MmJ0Qy1Dc1N1dEFuWHcyY1RuQWw5Z1doQnZtWkhfQlRTcGVsLVJLR0NGZWtEanEyZElNNHZfUEo5SXJJcUFzbnNyZDNJZnh0UkFGb2RTYlpPTmZhOis8Yj5FTEVDVFJJQyBQT0lOVDwvYj4gTFREIHwgQ29tcGFueSBTdW1tYXJ5QqcBVUsgRmxhZyA8Yj4xMDktMTE1IEVMRUFOT1IgQ1JPU1MgUk9BRCwgV0FMVEhBTSBDUk9TUywgSEVSVFMsIEVOOCA3TlQ8L2I-LiBTdGF0dXM6IEFjdGl2ZS4gQ29tcGFueSBObzogMDc2MzI5NTEuIFBob25lIGljb24gMDIwODM0MjcwMjAuIFdlYnNpdGUgaWNvbiB3d3cuZWxlY3RyaWNwb2ludC4iAhABSABYAGgA",
+    "source": "Company Check",
+    "read_more_link": "https://companycheck.co.uk/company/07632951/ELECTRIC-POINT-LTD/companies-house-data#:~:text=109%2D115%20ELEANOR%20CROSS%20ROAD%2C%20WALTHAM,www.electricpoint.com"
+   }
+  ],
+  "related_searches": [
+   {
+    "block_position": 1,
+    "query": "Electricpoint uk reviews",
+    "link": "https://www.google.co.uk/search?sca_esv=d0c3879c3aba1c72&hl=en&gl=uk&sxsrf=APpeQnuKPw4XL49u7nYrnpBipQU1Hqkc8A:1790765512790&q=Electricpoint+uk+reviews&sa=X&ved=2ahUKEwii7o-ykZaXAxWPQvEDHfhYKSoQ1QJ6BAhbEAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&q=Electricpoint+uk+reviews"
+   },
+   {
+    "block_position": 1,
+    "query": "Electricpoint uk contact",
+    "link": "https://www.google.co.uk/search?sca_esv=d0c3879c3aba1c72&hl=en&gl=uk&sxsrf=APpeQnuKPw4XL49u7nYrnpBipQU1Hqkc8A:1790765512790&q=Electricpoint+uk+contact&sa=X&ved=2ahUKEwii7o-ykZaXAxWPQvEDHfhYKSoQ1QJ6BAhfEAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&q=Electricpoint+uk+contact"
+   }
+  ],
+  "pagination": {
+   "current": 1,
+   "next": "https://www.google.co.uk/search?q=Electricpoint+UK&sca_esv=d0c3879c3aba1c72&hl=en&gl=uk&sxsrf=APpeQnuKPw4XL49u7nYrnpBipQU1Hqkc8A:1790765512790&ei=yOm8aqLqL4-Fxc8P-LGl0QI&start=10&sa=N&sstk=AS6-VmIjDSIF0ad_bFCSp2bdksxdRHC0O-V4XKrj5Zi9MWYA9nu4sAl7sXe8g4KiL681AbrjpQKHfCmbeixpdx9mrpwEyhwheopdYQ&ved=2ahUKEwii7o-ykZaXAxWPQvEDHfhYKSoQ8NMDegQIXBAI",
+   "other_pages": {
+    "2": "https://www.google.co.uk/search?q=Electricpoint+UK&sca_esv=d0c3879c3aba1c72&hl=en&gl=uk&sxsrf=APpeQnuKPw4XL49u7nYrnpBipQU1Hqkc8A:1790765512790&ei=yOm8aqLqL4-Fxc8P-LGl0QI&start=10&sa=N&sstk=AS6-VmIjDSIF0ad_bFCSp2bdksxdRHC0O-V4XKrj5Zi9MWYA9nu4sAl7sXe8g4KiL681AbrjpQKHfCmbeixpdx9mrpwEyhwheopdYQ&ved=2ahUKEwii7o-ykZaXAxWPQvEDHfhYKSoQ8tMDegQIXBAE",
+    "3": "https://www.google.co.uk/search?q=Electricpoint+UK&sca_esv=d0c3879c3aba1c72&hl=en&gl=uk&sxsrf=APpeQnuKPw4XL49u7nYrnpBipQU1Hqkc8A:1790765512790&ei=yOm8aqLqL4-Fxc8P-LGl0QI&start=20&sa=N&sstk=AS6-VmIjDSIF0ad_bFCSp2bdksxdRHC0O-V4XKrj5Zi9MWYA9nu4sAl7sXe8g4KiL681AbrjpQKHfCmbeixpdx9mrpwEyhwheopdYQ&ved=2ahUKEwii7o-ykZaXAxWPQvEDHfhYKSoQ8tMDegQIXBAG"
+   }
+  },
+  "serpapi_pagination": {
+   "current": 1,
+   "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&q=Electricpoint+UK&start=10",
+   "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&q=Electricpoint+UK&start=10",
+   "other_pages": {
+    "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&q=Electricpoint+UK&start=10",
+    "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&q=Electricpoint+UK&start=20"
+   }
+  }
+ }
+}

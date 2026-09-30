@@ -1,0 +1,967 @@
+{
+ "engine": "amazon_product",
+ "params": {
+  "asin": "B07Q8RF9W7",
+  "amazon_domain": "amazon.co.uk"
+ },
+ "fetched_at": "2026-09-30T10:54:06+00:00",
+ "data": {
+  "search_metadata": {
+   "id": "6abcea3f271332e52b8bbba5",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/QqtFmnTwPYOZUw8BBKkBz9d9XnsiODl0ctVJ8gN_ei4/6abcea3f271332e52b8bbba5.json",
+   "markdown_endpoint": "https://serpapi.com/searches/QqtFmnTwPYOZUw8BBKkBz9d9XnsiODl0ctVJ8gN_ei4/6abcea3f271332e52b8bbba5.md",
+   "created_at": "2026-09-30 10:53:51 UTC",
+   "processed_at": "2026-09-30 10:53:51 UTC",
+   "amazon_product_url": "https://www.amazon.co.uk/dp/B07Q8RF9W7/?",
+   "raw_html_file": "https://serpapi.com/searches/QqtFmnTwPYOZUw8BBKkBz9d9XnsiODl0ctVJ8gN_ei4/6abcea3f271332e52b8bbba5.html",
+   "total_time_taken": 14.34
+  },
+  "search_parameters": {
+   "engine": "amazon_product",
+   "asin": "B07Q8RF9W7",
+   "amazon_domain": "amazon.co.uk",
+   "device": "desktop"
+  },
+  "product_results": {
+   "categories": [
+    {
+     "position": 1,
+     "name": "Garden",
+     "link": "https://www.amazon.co.uk/Garden-Outdoors-Home/b/ref=dp_bc_1?ie=UTF8&node=11052671",
+     "node": "11052671",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&device=desktop&engine=amazon&node=11052671"
+    },
+    {
+     "position": 2,
+     "name": "Garden Tools & Watering Equipment",
+     "link": "https://www.amazon.co.uk/Garden-Tools-Watering-Equipment/b/ref=dp_bc_2?ie=UTF8&node=26389565031",
+     "node": "26389565031",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&device=desktop&engine=amazon&node=26389565031"
+    },
+    {
+     "position": 3,
+     "name": "Plant Containers & Accessories",
+     "link": "https://www.amazon.co.uk/planters/b/ref=dp_bc_3?ie=UTF8&node=4224862031",
+     "node": "4224862031",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&device=desktop&engine=amazon&node=4224862031"
+    },
+    {
+     "position": 4,
+     "name": "Flower Pots",
+     "link": "https://www.amazon.co.uk/garden-flower-pots/b/ref=dp_bc_4?ie=UTF8&node=4224875031",
+     "node": "4224875031",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&device=desktop&engine=amazon&node=4224875031"
+    }
+   ],
+   "asin": "B07Q8RF9W7",
+   "title": "GEEZY 2x Wooden Rectangular Garden Planters & Flower Pots - Classic Large Raised Bed Baskets - Easy Assembly & Durable Wood Construction - Perfect for Patio, Balcony, or Backyard Gardening",
+   "link": "https://www.amazon.co.uk/Wooden-Garden-Planters-Planting-Rectangular/dp/B07Q8RF9W7/",
+   "link_clean": "https://www.amazon.co.uk/dp/B07Q8RF9W7/",
+   "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B07Q8RF9W7&device=desktop&engine=amazon_product",
+   "brand": "Visit the GEEZY Store",
+   "thumbnail": "https://m.media-amazon.com/images/I/81PJI6vJG3L._AC_SY300_SX300_QL70_ML2_.jpg",
+   "thumbnails": [
+    "https://m.media-amazon.com/images/I/81PJI6vJG3L._AC_SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/915mE63cuwL._AC_SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/91IVSOfIjFL._AC_SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/813mAG+BxwL._AC_SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/91IJLod+WML._AC_SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/91X+hGQamEL._AC_SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/911jiZn68yL._AC_SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/91+Azoz45hL._AC_SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/91nQb503jML._AC_SL1500_.jpg"
+   ],
+   "rating": 4.2,
+   "reviews": 1023,
+   "bought_last_month": "400+ bought in past month",
+   "price": "£39.99",
+   "extracted_price": 39.99,
+   "price_unit": "£20.00 / count",
+   "extracted_price_unit": 20.0,
+   "prime": true,
+   "delivery": [
+    "FREE delivery Saturday, 3 October. Order within 3 hrs 5 mins. Details"
+   ],
+   "stock": "In stock"
+  },
+  "purchase_options": {
+   "single_offer": {
+    "price": "£39.99",
+    "extracted_price": 39.99,
+    "price_unit": "£20.00 / count",
+    "extracted_price_unit": 20.0,
+    "delivery": [
+     "FREE delivery Saturday, 3 October. Order within 3 hrs 5 mins. Details"
+    ],
+    "stock": "In stock",
+    "features": {
+     "shipper_seller": {
+      "text": "The Magic Toy Shop",
+      "details": {
+       "heading": "Shipper / Seller",
+       "content": "The Magic Toy Shop"
+      },
+      "link": {
+       "text": "The Magic Toy Shop",
+       "link": "https://www.amazon.co.uk/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A17GEWISJQYEUB&asin=B07Q8RF9W7&ref_=dp_merchant_link"
+      }
+     },
+     "returns": {
+      "text": "Returnable within 30 days of receipt",
+      "details": {
+       "heading": "Returnable within 30 days of receipt",
+       "content": "Item can be returned in original condition for a full refund within 30 days of receipt unless seller’s return policy specifies more favourable return conditions. For seller’s return policy click on seller's name located in the \"Sold by\" section."
+      },
+      "link": {
+       "text": "Read full Amazon return policy",
+       "link": "https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=GKM69DUUYKQWKWX7&ref_=dp_ret_policy"
+      }
+     },
+     "payment": {
+      "text": "Secure transaction",
+      "details": {
+       "heading": "Your transaction is secure",
+       "content": "We work hard to protect your security and privacy. Our payment security system encrypts your information during transmission. We don’t share your credit card details with third-party sellers, and we don’t sell your information to others. Learn more"
+      },
+      "link": {
+       "text": "Learn more",
+       "link": "https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=201909010"
+      }
+     }
+    }
+   }
+  },
+  "item_specifications": {
+   "material": "Wood",
+   "colour": "2 X Large Rectangular Planters",
+   "special_feature": "Breathable, Drainage Hole, Portable",
+   "style": "Garden",
+   "planter_form": "Plant Pot"
+  },
+  "about_item": [
+   "LARGE RECTANGULAR WOODEN PLANTERS: Elevate your garden with these classic wooden planters, ideal for adding a touch of charm and sophistication to any outdoor space.",
+   "DURABLE WOOD CONSTRUCTION: Crafted from high-quality wood, these planters ensure lasting quality and durability, perfect for bedding plants and herbs.",
+   "EASY TO USE AND ADAPTABLE: These versatile planters seamlessly blend style with functionality, making them perfect for gardens, decking, and patios. Easily adapt your outdoor decor to match the season or your mood.",
+   "GREAT GIFT FOR GARDENING ENTHUSIASTS: Perfect for birthdays, holidays, or as a thoughtful gift for friends and family who love gardening and spending time outdoors.",
+   "Specifications: Packaging Dimensions: Height 88cm, Depth 19cm, Width 25cm, Weight 9500gm / Individual Planter Dimensions: Height 30cm, Depth 20cm, Width 90cm / Brand: GEEZY / Material: Wood"
+  ],
+  "bought_together": [
+   {
+    "position": 1,
+    "title": "GEEZY 2x Wooden Rectangular Garden Planters & Flower Pots - Classic Large Raised Bed Baskets - Easy Assembly & Durable Wood Construction - Perfect for Patio, Balcony, or Backyard Gardening",
+    "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/81PJI6vJG3L._AC_UL116_SR116,116_.jpg",
+    "price": "£39.99",
+    "extracted_price": 39.99,
+    "price_unit": "£20.00/count",
+    "extracted_price_unit": 20.0,
+    "delivery": [
+     "Get it as soon as Saturday, Oct 3"
+    ],
+    "stock": "In stock"
+   },
+   {
+    "position": 2,
+    "title": "GEEZY Square Wooden Garden Planters Set of 2 - Weather Resistant, Easy Assembly, Carry Handles, Outdoor Flower Pots - Raised Wooden Bed for Growing Flowers, Vegetables, Plants, Herbs",
+    "link": "https://www.amazon.co.uk/Wooden-Garden-Planters-Planting-Baskets/dp/B07NVH8W6T/ref=pd_bxgy_thbs_d_sccl_1/000-0000000-0000000?pd_rd_w=7vbOF&content-id=amzn1.sym.c74a04bb-1833-45ee-8b22-275d7d928695&pf_rd_p=c74a04bb-1833-45ee-8b22-275d7d928695&pf_rd_r=TMPEJDE6BMQW9B0W41SQ&pd_rd_wg=1tPeo&pd_rd_r=14adda19-b54c-4ef2-b22f-53960d6d958f&pd_rd_i=B07NVH8W6T&psc=1",
+    "asin": "B07NVH8W6T",
+    "link_clean": "https://www.amazon.co.uk/Wooden-Garden-Planters-Planting-Baskets/dp/B07NVH8W6T/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B07NVH8W6T&device=desktop&engine=amazon_product",
+    "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/71Uuxl6ViSL._AC_UL116_SR116,116_.jpg",
+    "price": "£31.99",
+    "extracted_price": 31.99,
+    "price_unit": "£16.00/count",
+    "extracted_price_unit": 16.0,
+    "delivery": [
+     "Get it as soon as Saturday, Oct 3"
+    ],
+    "stock": "In stock"
+   }
+  ],
+  "related_products": [
+   {
+    "position": 1,
+    "title": "PARTY DECOR Wooden Planter, Decking Wood, 90cm x 28cm x 25.5cm, for Outdoor and Indoor Use",
+    "link": "https://www.amazon.co.uk/PARTY-DECOR-Planter-Decking-Outdoor/dp/B0GXWW86M9/ref=pd_sbs_d_sccl_1_1/000-0000000-0000000?pd_rd_w=LRzMB&content-id=amzn1.sym.b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_p=b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_r=TMPEJDE6BMQW9B0W41SQ&pd_rd_wg=1tPeo&pd_rd_r=14adda19-b54c-4ef2-b22f-53960d6d958f&pd_rd_i=B0GXWW86M9&psc=1",
+    "asin": "B0GXWW86M9",
+    "link_clean": "https://www.amazon.co.uk/PARTY-DECOR-Planter-Decking-Outdoor/dp/B0GXWW86M9/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0GXWW86M9&device=desktop&engine=amazon_product",
+    "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/7168mDpcqQL._AC_UL165_SR165,165_.jpg",
+    "rating": 4.6,
+    "reviews": 34,
+    "price": "£32.95",
+    "extracted_price": 32.95
+   },
+   {
+    "position": 2,
+    "title": "Selections Large Rectangle Wooden Garden Trough Planter (90cm)",
+    "link": "https://www.amazon.co.uk/Selections-Rectangle-Wooden-Garden-Planter/dp/B0GZ8FJQVP/ref=pd_sbs_d_sccl_1_2/000-0000000-0000000?pd_rd_w=LRzMB&content-id=amzn1.sym.b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_p=b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_r=TMPEJDE6BMQW9B0W41SQ&pd_rd_wg=1tPeo&pd_rd_r=14adda19-b54c-4ef2-b22f-53960d6d958f&pd_rd_i=B0GZ8FJQVP&psc=1",
+    "asin": "B0GZ8FJQVP",
+    "link_clean": "https://www.amazon.co.uk/Selections-Rectangle-Wooden-Garden-Planter/dp/B0GZ8FJQVP/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0GZ8FJQVP&device=desktop&engine=amazon_product",
+    "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/61dvbNjLK8L._AC_UL165_SR165,165_.jpg",
+    "rating": 5.0,
+    "reviews": 2,
+    "price": "£27.98",
+    "extracted_price": 27.98
+   },
+   {
+    "position": 3,
+    "title": "Vivo Technologies Set of 2 Wooden Garden Planters Large Outdoor Flowers Plant Pot Rectangular Garden Planters Planting Raise",
+    "link": "https://www.amazon.co.uk/Vivo-Technologies-Planters-Rectangular-Planting/dp/B0F1XYKVQL/ref=pd_sbs_d_sccl_1_3/000-0000000-0000000?pd_rd_w=LRzMB&content-id=amzn1.sym.b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_p=b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_r=TMPEJDE6BMQW9B0W41SQ&pd_rd_wg=1tPeo&pd_rd_r=14adda19-b54c-4ef2-b22f-53960d6d958f&pd_rd_i=B0F1XYKVQL&psc=1",
+    "asin": "B0F1XYKVQL",
+    "link_clean": "https://www.amazon.co.uk/Vivo-Technologies-Planters-Rectangular-Planting/dp/B0F1XYKVQL/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0F1XYKVQL&device=desktop&engine=amazon_product",
+    "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/81G9Cp74hjL._AC_UL165_SR165,165_.jpg",
+    "rating": 4.1,
+    "reviews": 175,
+    "price": "£34.99",
+    "extracted_price": 34.99
+   },
+   {
+    "position": 4,
+    "title": "Classic 3ft Wooden Garden Planter – Ready Built Tanalised Pine Raised Bed – 89cm Large Outdoor Flower Box for Plants, Herbs &",
+    "link": "https://www.amazon.co.uk/Classic-3ft-Wooden-Garden-Planter/dp/B0GP6ZFGLR/ref=pd_sbs_d_sccl_1_4/000-0000000-0000000?pd_rd_w=LRzMB&content-id=amzn1.sym.b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_p=b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_r=TMPEJDE6BMQW9B0W41SQ&pd_rd_wg=1tPeo&pd_rd_r=14adda19-b54c-4ef2-b22f-53960d6d958f&pd_rd_i=B0GP6ZFGLR&psc=1",
+    "asin": "B0GP6ZFGLR",
+    "link_clean": "https://www.amazon.co.uk/Classic-3ft-Wooden-Garden-Planter/dp/B0GP6ZFGLR/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0GP6ZFGLR&device=desktop&engine=amazon_product",
+    "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/71TblTkaf3L._AC_UL165_SR165,165_.jpg",
+    "rating": 4.6,
+    "reviews": 100,
+    "price": "£39.99",
+    "extracted_price": 39.99
+   },
+   {
+    "position": 5,
+    "title": "The Hutch Company Sussex Slatted Garden Planter Ready Built Outdoor Flower Box for Plants, Herbs & Vegetables – Heavy Duty Wo",
+    "link": "https://www.amazon.co.uk/Hutch-Company-Sussex-Planters-SLATTED/dp/B0D5DD8VP4/ref=pd_sbs_d_sccl_1_5/000-0000000-0000000?pd_rd_w=LRzMB&content-id=amzn1.sym.b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_p=b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_r=TMPEJDE6BMQW9B0W41SQ&pd_rd_wg=1tPeo&pd_rd_r=14adda19-b54c-4ef2-b22f-53960d6d958f&pd_rd_i=B0D5DD8VP4&psc=1",
+    "asin": "B0D5DD8VP4",
+    "link_clean": "https://www.amazon.co.uk/Hutch-Company-Sussex-Planters-SLATTED/dp/B0D5DD8VP4/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0D5DD8VP4&device=desktop&engine=amazon_product",
+    "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/611sluDlCSL._AC_UL165_SR165,165_.jpg",
+    "rating": 4.5,
+    "reviews": 175,
+    "price": "£36.99",
+    "extracted_price": 36.99
+   },
+   {
+    "position": 6,
+    "title": "Toddmomy Rustic Wood Planter Box 11.81X3.74X2.76In Outdoor Flower Pot for Balcony Garden Succulent Plants Wooden Flower Plant",
+    "link": "https://www.amazon.co.uk/Toddmomy-Rectangular-Planter-Succulent-30x11x8-5cm/dp/B0CZBPNJ6X/ref=pd_sbs_d_sccl_1_6/000-0000000-0000000?pd_rd_w=LRzMB&content-id=amzn1.sym.b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_p=b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_r=TMPEJDE6BMQW9B0W41SQ&pd_rd_wg=1tPeo&pd_rd_r=14adda19-b54c-4ef2-b22f-53960d6d958f&pd_rd_i=B0CZBPNJ6X&psc=1",
+    "asin": "B0CZBPNJ6X",
+    "link_clean": "https://www.amazon.co.uk/Toddmomy-Rectangular-Planter-Succulent-30x11x8-5cm/dp/B0CZBPNJ6X/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0CZBPNJ6X&device=desktop&engine=amazon_product",
+    "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/61cobo7D0WL._AC_UL165_SR165,165_.jpg",
+    "rating": 3.9,
+    "reviews": 5,
+    "price": "£13.22",
+    "extracted_price": 13.22
+   }
+  ],
+  "related_product_sections": [
+   {
+    "title": "Customers who viewed this item also viewed",
+    "items": [
+     {
+      "position": 1,
+      "title": "PARTY DECOR Wooden Planter, Decking Wood, 90cm x 28cm x 25.5cm, for Outdoor and Indoor Use",
+      "link": "https://www.amazon.co.uk/PARTY-DECOR-Planter-Decking-Outdoor/dp/B0GXWW86M9/ref=pd_sbs_d_sccl_1_1/000-0000000-0000000?pd_rd_w=LRzMB&content-id=amzn1.sym.b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_p=b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_r=TMPEJDE6BMQW9B0W41SQ&pd_rd_wg=1tPeo&pd_rd_r=14adda19-b54c-4ef2-b22f-53960d6d958f&pd_rd_i=B0GXWW86M9&psc=1",
+      "asin": "B0GXWW86M9",
+      "link_clean": "https://www.amazon.co.uk/PARTY-DECOR-Planter-Decking-Outdoor/dp/B0GXWW86M9/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0GXWW86M9&device=desktop&engine=amazon_product",
+      "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/7168mDpcqQL._AC_UL165_SR165,165_.jpg",
+      "rating": 4.6,
+      "reviews": 34,
+      "price": "£32.95",
+      "extracted_price": 32.95
+     },
+     {
+      "position": 2,
+      "title": "Selections Large Rectangle Wooden Garden Trough Planter (90cm)",
+      "link": "https://www.amazon.co.uk/Selections-Rectangle-Wooden-Garden-Planter/dp/B0GZ8FJQVP/ref=pd_sbs_d_sccl_1_2/000-0000000-0000000?pd_rd_w=LRzMB&content-id=amzn1.sym.b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_p=b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_r=TMPEJDE6BMQW9B0W41SQ&pd_rd_wg=1tPeo&pd_rd_r=14adda19-b54c-4ef2-b22f-53960d6d958f&pd_rd_i=B0GZ8FJQVP&psc=1",
+      "asin": "B0GZ8FJQVP",
+      "link_clean": "https://www.amazon.co.uk/Selections-Rectangle-Wooden-Garden-Planter/dp/B0GZ8FJQVP/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0GZ8FJQVP&device=desktop&engine=amazon_product",
+      "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/61dvbNjLK8L._AC_UL165_SR165,165_.jpg",
+      "rating": 5.0,
+      "reviews": 2,
+      "price": "£27.98",
+      "extracted_price": 27.98
+     },
+     {
+      "position": 3,
+      "title": "Vivo Technologies Set of 2 Wooden Garden Planters Large Outdoor Flowers Plant Pot Rectangular Garden Planters Planting Raise",
+      "link": "https://www.amazon.co.uk/Vivo-Technologies-Planters-Rectangular-Planting/dp/B0F1XYKVQL/ref=pd_sbs_d_sccl_1_3/000-0000000-0000000?pd_rd_w=LRzMB&content-id=amzn1.sym.b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_p=b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_r=TMPEJDE6BMQW9B0W41SQ&pd_rd_wg=1tPeo&pd_rd_r=14adda19-b54c-4ef2-b22f-53960d6d958f&pd_rd_i=B0F1XYKVQL&psc=1",
+      "asin": "B0F1XYKVQL",
+      "link_clean": "https://www.amazon.co.uk/Vivo-Technologies-Planters-Rectangular-Planting/dp/B0F1XYKVQL/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0F1XYKVQL&device=desktop&engine=amazon_product",
+      "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/81G9Cp74hjL._AC_UL165_SR165,165_.jpg",
+      "rating": 4.1,
+      "reviews": 175,
+      "price": "£34.99",
+      "extracted_price": 34.99
+     },
+     {
+      "position": 4,
+      "title": "Classic 3ft Wooden Garden Planter – Ready Built Tanalised Pine Raised Bed – 89cm Large Outdoor Flower Box for Plants, Herbs &",
+      "link": "https://www.amazon.co.uk/Classic-3ft-Wooden-Garden-Planter/dp/B0GP6ZFGLR/ref=pd_sbs_d_sccl_1_4/000-0000000-0000000?pd_rd_w=LRzMB&content-id=amzn1.sym.b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_p=b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_r=TMPEJDE6BMQW9B0W41SQ&pd_rd_wg=1tPeo&pd_rd_r=14adda19-b54c-4ef2-b22f-53960d6d958f&pd_rd_i=B0GP6ZFGLR&psc=1",
+      "asin": "B0GP6ZFGLR",
+      "link_clean": "https://www.amazon.co.uk/Classic-3ft-Wooden-Garden-Planter/dp/B0GP6ZFGLR/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0GP6ZFGLR&device=desktop&engine=amazon_product",
+      "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/71TblTkaf3L._AC_UL165_SR165,165_.jpg",
+      "rating": 4.6,
+      "reviews": 100,
+      "price": "£39.99",
+      "extracted_price": 39.99
+     },
+     {
+      "position": 5,
+      "title": "The Hutch Company Sussex Slatted Garden Planter Ready Built Outdoor Flower Box for Plants, Herbs & Vegetables – Heavy Duty Wo",
+      "link": "https://www.amazon.co.uk/Hutch-Company-Sussex-Planters-SLATTED/dp/B0D5DD8VP4/ref=pd_sbs_d_sccl_1_5/000-0000000-0000000?pd_rd_w=LRzMB&content-id=amzn1.sym.b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_p=b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_r=TMPEJDE6BMQW9B0W41SQ&pd_rd_wg=1tPeo&pd_rd_r=14adda19-b54c-4ef2-b22f-53960d6d958f&pd_rd_i=B0D5DD8VP4&psc=1",
+      "asin": "B0D5DD8VP4",
+      "link_clean": "https://www.amazon.co.uk/Hutch-Company-Sussex-Planters-SLATTED/dp/B0D5DD8VP4/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0D5DD8VP4&device=desktop&engine=amazon_product",
+      "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/611sluDlCSL._AC_UL165_SR165,165_.jpg",
+      "rating": 4.5,
+      "reviews": 175,
+      "price": "£36.99",
+      "extracted_price": 36.99
+     },
+     {
+      "position": 6,
+      "title": "Toddmomy Rustic Wood Planter Box 11.81X3.74X2.76In Outdoor Flower Pot for Balcony Garden Succulent Plants Wooden Flower Plant",
+      "link": "https://www.amazon.co.uk/Toddmomy-Rectangular-Planter-Succulent-30x11x8-5cm/dp/B0CZBPNJ6X/ref=pd_sbs_d_sccl_1_6/000-0000000-0000000?pd_rd_w=LRzMB&content-id=amzn1.sym.b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_p=b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_r=TMPEJDE6BMQW9B0W41SQ&pd_rd_wg=1tPeo&pd_rd_r=14adda19-b54c-4ef2-b22f-53960d6d958f&pd_rd_i=B0CZBPNJ6X&psc=1",
+      "asin": "B0CZBPNJ6X",
+      "link_clean": "https://www.amazon.co.uk/Toddmomy-Rectangular-Planter-Succulent-30x11x8-5cm/dp/B0CZBPNJ6X/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0CZBPNJ6X&device=desktop&engine=amazon_product",
+      "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/61cobo7D0WL._AC_UL165_SR165,165_.jpg",
+      "rating": 3.9,
+      "reviews": 5,
+      "price": "£13.22",
+      "extracted_price": 13.22
+     }
+    ]
+   }
+  ],
+  "product_description": [
+   {
+    "position": 1,
+    "title": "Text reads &#39;GEEZY&#39;, &#39;RECTANGULAR&#39;, &#39;PLANTER SET OF 2&#39;. Wooden garden planters shown with growing plants and installation details.",
+    "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ca4357cc-ffe8-4ed2-b055-749a7c45d809.__CR0,0,2928,1200_PT0_SX1464_V1___.jpg"
+   },
+   {
+    "position": 2,
+    "carousel_images": [
+     {
+      "position": 1,
+      "title": "Text reads &#39;LARGE RECTANGULAR WOODEN PLANTERS&#39;. Multiple views of wooden raised garden beds or planters against brick walls with growing plants.",
+      "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9fc46b75-fd7c-4cef-8534-5b03f2298421.__CR0,0,2928,1200_PT0_SX1464_V1___.jpg"
+     },
+     {
+      "position": 2,
+      "title": "Text reads &#39;BEEKEEPING CONSTRUCTION&#39;. Series of wooden raised garden beds or planter boxes shown in outdoor setting with gravel pathways.",
+      "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a71b3caa-c3a1-4b1b-b6ed-7db38a011ed3.__CR0,0,2928,1200_PT0_SX1464_V1___.jpg"
+     },
+     {
+      "position": 3,
+      "title": "Multiple panels showing wooden deck or patio furniture settings with massage products. Text appears to be product benefits in Dutch language.",
+      "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8b7d7ee0-4156-4d25-8355-31d1d57e23e1.__CR0,0,2928,1200_PT0_SX1464_V1___.jpg"
+     },
+     {
+      "position": 4,
+      "title": "Text reads &#39;GREAT GIFT FOR GARDENING ENTHUSIASTS&#39;. Wooden raised garden planter box with blooming colorful flowers along a stone pathway.",
+      "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/092948ba-5ba0-4ddd-a9a7-e2036c84684b.__CR0,0,2928,1200_PT0_SX1464_V1___.jpg"
+     }
+    ]
+   },
+   {
+    "position": 3,
+    "title": "Wooden planter boxes filled with purple flowering lavender plants arranged in an outdoor garden setting.",
+    "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b5d9323e-c9f2-4315-bb69-fa520bb8882f.__CR0,0,2928,1200_PT0_SX1464_V1___.jpg"
+   },
+   {
+    "position": 4,
+    "title": "Text reads &#39;GEEZY&#39;. Outdoor wooden deck or patio space with potted plants and greenery visible along the edges.",
+    "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f822403c-e929-414f-8157-77b635674dd4.__CR0,0,2928,1200_PT0_SX1464_V1___.jpg"
+   },
+   {
+    "position": 5
+   },
+   {
+    "position": 6,
+    "compare_with_similar": [
+     {
+      "position": 1,
+      "asin": "B09NYGPSF2",
+      "title": "Round Flower Pot Planter",
+      "thumbnail": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/08768080-bb23-4ad7-a7b2-fbd23901f6ed.__CR0,0,400,450_PT0_SX200_V1___.jpg",
+      "link": "https://www.amazon.co.uk/dp/B09NYGPSF2?ref=emc_p_m_5_i_atc",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B09NYGPSF2&device=desktop&engine=amazon_product",
+      "rating": 4.4,
+      "reviews": 124,
+      "colour": "Anthracite",
+      "size_approx": "35 x 31 cm",
+      "shape": "Round",
+      "weight_approx": "0.50kg",
+      "material": "Plastic"
+     },
+     {
+      "position": 2,
+      "asin": "B0CW1YZSKC",
+      "title": "Stackable Flower Pots",
+      "thumbnail": "https://m.media-amazon.com/images/I/315wSJTqBvL.__AC_SR200,225___.jpg",
+      "link": "https://www.amazon.co.uk/dp/B0CW1YZSKC?ref=emc_p_m_5_i_atc",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0CW1YZSKC&device=desktop&engine=amazon_product",
+      "rating": 4.6,
+      "reviews": 145,
+      "price": "£14.99",
+      "extracted_price": 14.99,
+      "colour": "Black",
+      "size_approx": "H:21 x D:35.5 x W:42 cm",
+      "shape": "Round",
+      "weight_approx": "1.57kg",
+      "material": "Plastic"
+     },
+     {
+      "position": 3,
+      "asin": "B0DVLZB3KH",
+      "title": "Tomato Planter Pot",
+      "thumbnail": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/81eeb45c-1bdd-40c6-939d-d9f014c0a42d.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+      "link": "https://www.amazon.co.uk/dp/B0DVLZB3KH?ref=emc_p_m_5_i_atc",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0DVLZB3KH&device=desktop&engine=amazon_product",
+      "rating": 4.5,
+      "reviews": 118,
+      "price": "£15.99",
+      "extracted_price": 15.99,
+      "colour": "Black",
+      "size_approx": "H:29 x W:29 x L:116 cm",
+      "shape": "Round",
+      "weight_approx": "0.85kg",
+      "material": "Plastic"
+     },
+     {
+      "position": 4,
+      "asin": "B0DTPZ31G3",
+      "title": "2 Tier Metal Plant Stand",
+      "thumbnail": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/491ac6a3-c095-4dbf-a0a1-95ac56ae8ed0.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+      "link": "https://www.amazon.co.uk/dp/B0DTPZ31G3?ref=emc_p_m_5_i_atc",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0DTPZ31G3&device=desktop&engine=amazon_product",
+      "rating": 4.2,
+      "reviews": 19,
+      "colour": "Black",
+      "size_approx": "H:58 x D:22 x W:60 cm",
+      "shape": "Rectangular",
+      "weight_approx": "2.2kg",
+      "material": "Metal"
+     },
+     {
+      "position": 5,
+      "asin": "B09QXMV34S",
+      "title": "Greenhouse Table With Lid",
+      "thumbnail": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0d750233-50c8-4e1c-baed-ffebe97f0575.__CR0,0,400,450_PT0_SX200_V1___.jpg",
+      "link": "https://www.amazon.co.uk/dp/B09QXMV34S?ref=emc_p_m_5_i_atc",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B09QXMV34S&device=desktop&engine=amazon_product",
+      "rating": 4.3,
+      "reviews": 874,
+      "price": "£27.99",
+      "extracted_price": 27.99,
+      "colour": "Green or Black",
+      "size_approx": "H:84 x W:38 x L:77 cm",
+      "shape": "Oval",
+      "weight_approx": "2kg",
+      "material": "Plastic"
+     },
+     {
+      "position": 6,
+      "asin": "B0854HWMCM",
+      "title": "Bridge Hanging Planter",
+      "thumbnail": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7d29746d-f342-40f5-8530-4f0581380019.__CR0,0,400,450_PT0_SX200_V1___.jpg",
+      "link": "https://www.amazon.co.uk/dp/B0854HWMCM?ref=emc_p_m_5_i_atc",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0854HWMCM&device=desktop&engine=amazon_product",
+      "rating": 4.7,
+      "reviews": 339,
+      "price": "£8.09",
+      "extracted_price": 8.09,
+      "colour": "Anthracite",
+      "size_approx": "L:40 x H:26 x W:24,5 cm",
+      "shape": "Oval",
+      "weight_approx": "0.51kg",
+      "material": "Plastic"
+     },
+     {
+      "position": 7,
+      "asin": "B088M95PMZ",
+      "title": "Strawberry Planter",
+      "thumbnail": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b0ae0268-2c35-4239-9bad-1eaa6c77317a.__CR0,0,400,450_PT0_SX200_V1___.jpg",
+      "link": "https://www.amazon.co.uk/dp/B088M95PMZ?ref=emc_p_m_5_i_atc",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B088M95PMZ&device=desktop&engine=amazon_product",
+      "rating": 3.6,
+      "reviews": 515,
+      "colour": "Brown",
+      "size_approx": "L:35 x W:35 x H:12 cm.",
+      "shape": "Round",
+      "weight_approx": "0.15kg",
+      "material": "Plastic"
+     }
+    ]
+   }
+  ],
+  "product_details": {
+   "colour": "2 X Large Rectangular Planters",
+   "product_style": "Garden",
+   "planter_form": "Plant Pot",
+   "item_shape": "Rectangular",
+   "theme": "Garden",
+   "brand_name": "GEEZY",
+   "unit_count": "2.0 count",
+   "set_name": "2-Piece Planter Set",
+   "manufacturer": "GEEZY",
+   "best_sellers_rank": [
+    {
+     "text": "1,967 in Garden (See Top 100 in Garden)",
+     "extracted_rank": 1967,
+     "link": "https://www.amazon.co.uk/gp/bestsellers/outdoors/ref=pd_zg_ts_outdoors",
+     "link_text": "See Top 100 in Garden"
+    },
+    {
+     "text": "34 in Flower Pots",
+     "extracted_rank": 34,
+     "link": "https://www.amazon.co.uk/gp/bestsellers/outdoors/4224875031/ref=pd_zg_hrsr_outdoors",
+     "link_text": "Flower Pots"
+    }
+   ],
+   "asin": "B07Q8RF9W7",
+   "customer_reviews": "4.2 out of 5 stars",
+   "rating": 4.2,
+   "reviews": 1023,
+   "item_dimensions_d_x_w_x_h": "20D x 90W x 30H centimetres",
+   "capacity": "54 litres",
+   "number_of_pieces": "2",
+   "number_of_levels": "1",
+   "item_weight": "5.5 Kilograms",
+   "item_dimensions": "20 x 90 x 30 centimetres",
+   "size": "L",
+   "other_special_features_of_the_product": "Breathable, Drainage Hole, Portable",
+   "mounting_type": "Floor Standing",
+   "plant_or_animal_product_type": "Blume",
+   "material_type": "Wood",
+   "finish_type": "Unfinished",
+   "indoor_outdoor_usage": "Outdoor"
+  },
+  "reviews_information": {
+   "summary": {
+    "text": "Customers find the garden planter easy to assemble and appreciate its appearance, with one noting it looks great when stained. The build quality receives mixed feedback, with some finding it nicely made while others describe it as poorly manufactured. Customers disagree on the size, with some finding it great for flowers while others say it's too small for perennials. The sturdiness and value for money also get mixed reviews - while some find it sturdy and worth the price, others report it falling apart before use and consider it overpriced for its size. The wood quality receives negative feedback, with customers noting it isn't great.",
+    "insights": [
+     {
+      "title": "Assembly",
+      "sentiment": "positive",
+      "mentions": {
+       "total": 104,
+       "positive": 95,
+       "negative": 9
+      },
+      "summary": "Customers find the planters easy to assemble and appreciate that they are the right size for their needs.",
+      "examples": [
+       {
+        "position": 1,
+        "snippet": "Easy to assemble woods not the best mine look terrible only been up three days and I put limers in but the waters made the wood horrible and effects...",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R283ADCVM2A3JB"
+       },
+       {
+        "position": 2,
+        "snippet": "These are much better than I thought, well made and easy to put together as the holes were pre-drilled. ❤️ love them so much I've got another set.",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R1I7GLHES5H70L"
+       },
+       {
+        "position": 3,
+        "snippet": "Good product , easy to build. Little bit expensive as not very strong. Ultimately will look nice with a few small plants",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R16ZAU18KCABO7"
+       },
+       {
+        "position": 4,
+        "snippet": "Really nice and great for the price easy assembly would recommend",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R1EBHEYWL2FOOV"
+       }
+      ]
+     },
+     {
+      "title": "Appearance",
+      "sentiment": "positive",
+      "mentions": {
+       "total": 85,
+       "positive": 80,
+       "negative": 5
+      },
+      "summary": "Customers find the planters visually appealing, with one customer noting that they look great when stained to protect the wood.",
+      "examples": [
+       {
+        "position": 1,
+        "snippet": "They look great & nice all planted up. Have lined with rubble sacks & drainage holes. We shall see how long they last....",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R20CWRZE299FUA"
+       },
+       {
+        "position": 2,
+        "snippet": "...And make sure you buy membranes as this cannot be used without one . Looks good. Suitable for what I need them for",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R34GXCRPGD991A"
+       },
+       {
+        "position": 3,
+        "snippet": "...Easy to put together took me about 10mins for both by myself. Cute and a good size....",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R11LOIRP6QVN8G"
+       },
+       {
+        "position": 4,
+        "snippet": "Although these planters look nice and were easy to put together, they do not hold much. Just a few primroses!!",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R2Q18Q2DC41DP0"
+       }
+      ]
+     },
+     {
+      "title": "Quality",
+      "sentiment": "mixed",
+      "mentions": {
+       "total": 125,
+       "positive": 86,
+       "negative": 39
+      },
+      "summary": "Customers have mixed opinions about the quality of the planters, with some finding them excellent and brilliant, while others express disappointment.",
+      "examples": [
+       {
+        "position": 1,
+        "snippet": "Good quality, big size. I've painted these using garden/fence paint and I hope they last. These are built sturdily and provide ample space to plant.",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/REVCDML66DX0G"
+       },
+       {
+        "position": 2,
+        "snippet": "Great product",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R18TNPN1ZHXYT6"
+       },
+       {
+        "position": 3,
+        "snippet": "Very poor quality, cheap materials, looks like plastic. Very bad customer service. Cannot get my money back.",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R2IU8NKN0DFILX"
+       },
+       {
+        "position": 4,
+        "snippet": "Good product , easy to build. Little bit expensive as not very strong. Ultimately will look nice with a few small plants",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R16ZAU18KCABO7"
+       }
+      ]
+     },
+     {
+      "title": "Value for money",
+      "sentiment": "mixed",
+      "mentions": {
+       "total": 99,
+       "positive": 68,
+       "negative": 31
+      },
+      "summary": "Customers have mixed opinions about the planter's value for money, with some finding it a good product for the price while others feel it's not worth the cost, particularly noting that it's overpriced for its size.",
+      "examples": [
+       {
+        "position": 1,
+        "snippet": "Easy to construct, good value for money, bulbs planted now so expect a good display come spring!",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/RRD7FG48IFICN"
+       },
+       {
+        "position": 2,
+        "snippet": "The planters were good value although I had difficulty in putting them together....",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/RXQHO2ZG72GD7"
+       },
+       {
+        "position": 3,
+        "snippet": "...You get what you pay for lol",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R8YQW3RK9I6JU"
+       },
+       {
+        "position": 4,
+        "snippet": "The item is value for money. It looks nice and is better than my expectation.",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R3RV004RI0GQ8D"
+       }
+      ]
+     },
+     {
+      "title": "Sturdiness",
+      "sentiment": "mixed",
+      "mentions": {
+       "total": 80,
+       "positive": 24,
+       "negative": 56
+      },
+      "summary": "Customers have mixed experiences with the planters' sturdiness, with some finding them surprisingly sturdy and noting they hold up well to rain and sun, while others report that they fell apart before any soil or plants were added.",
+      "examples": [
+       {
+        "position": 1,
+        "snippet": "...high quality wood which this is definitely not high quality it's flimsy and cheap looking I shouldn't have expected more at the price tho my fault...",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R283ADCVM2A3JB"
+       },
+       {
+        "position": 2,
+        "snippet": "Easy to assemble, obviously not very sturdy and not very big but for the price what can you expect. So good value for money....",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R2ZNVRIDFZHE8J"
+       },
+       {
+        "position": 3,
+        "snippet": "I like everything about this product, easy to assemble, sturdy and good value for money",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R1VAJB8VUGOSZH"
+       },
+       {
+        "position": 4,
+        "snippet": "Good product , easy to build. Little bit expensive as not very strong. Ultimately will look nice with a few small plants",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R16ZAU18KCABO7"
+       }
+      ]
+     },
+     {
+      "title": "Size",
+      "sentiment": "mixed",
+      "mentions": {
+       "total": 32,
+       "positive": 15,
+       "negative": 17
+      },
+      "summary": "Customers have mixed opinions about the size of the planters, with some finding them nice and great for flowers, while others note they are far too small for planting perennials and not as tall as expected.",
+      "examples": [
+       {
+        "position": 1,
+        "snippet": "Well made and livemy design. Smaller than I was expecting but do look nice.",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R1PM3KBT3SK0JG"
+       },
+       {
+        "position": 2,
+        "snippet": "Very nice size planters at a very good price",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/RJVWPLJEMOVSW"
+       },
+       {
+        "position": 3,
+        "snippet": "Not as tall as I thought",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/ROYODR3M6RLXO"
+       },
+       {
+        "position": 4,
+        "snippet": "...Beautiful quality and perfect size. Good price. Cannot recommend enough",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R33DJV5HIWMA4F"
+       }
+      ]
+     },
+     {
+      "title": "Build quality",
+      "sentiment": "mixed",
+      "mentions": {
+       "total": 28,
+       "positive": 11,
+       "negative": 17
+      },
+      "summary": "Customers have mixed opinions about the construction of these planters, with some finding them nicely made while others report they are poorly manufactured.",
+      "examples": [
+       {
+        "position": 1,
+        "snippet": "A more narrow than I thought they'd be. Cheaply made, however, I'd already bought my plants to go in them. Easy to put together....",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R3K86D7HIRH3HI"
+       },
+       {
+        "position": 2,
+        "snippet": "These are much better than I thought, well made and easy to put together as the holes were pre-drilled. ❤️ love them so much I've got another set.",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R1I7GLHES5H70L"
+       },
+       {
+        "position": 3,
+        "snippet": "...Spend £40 on quality wood and make your own. Terrible, shoddy workmanship, obviously put together by 5 year olds in an indonesian sweat shop",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R3N3Z8VPM43JTA"
+       },
+       {
+        "position": 4,
+        "snippet": "...needs, but some of the panels varied in size which made the planters wonky when built. We bought 2 sets and 2 are perfect, 2 wonky....",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/RHDY9P9JPMB7Z"
+       }
+      ]
+     },
+     {
+      "title": "Wood quality",
+      "sentiment": "negative",
+      "mentions": {
+       "total": 26,
+       "positive": 4,
+       "negative": 22
+      },
+      "summary": "Customers express dissatisfaction with the wood quality of the planters, noting that it looks cheap and isn't great.",
+      "examples": [
+       {
+        "position": 1,
+        "snippet": "Poor quality given the price, flimsy, cheap wood, received damaged, poorly assembled....",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R3N3Z8VPM43JTA"
+       },
+       {
+        "position": 2,
+        "snippet": "Cheap quality wood, broken the wood while unboxing, very light weight and depth of 15 cm for soil filling",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/RFPOL3EIK26GV"
+       },
+       {
+        "position": 3,
+        "snippet": "So, the price for both of the planters is great. However, it says high quality wood and it isn’t at all....",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R8YQW3RK9I6JU"
+       },
+       {
+        "position": 4,
+        "snippet": "...A bit narrow and shorter than expected. The wood isn't the greatest, feels quite flimsy and thin. But for the price, you get what you pay for....",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/RA8ZO4YQMV0G2"
+       }
+      ]
+     }
+    ],
+    "images": [
+     "https://m.media-amazon.com/images/I/816WWpExlDL.jpg",
+     "https://m.media-amazon.com/images/I/71A9LvcDvlL.jpg",
+     "https://m.media-amazon.com/images/I/81Di3yjt0gL.jpg",
+     "https://m.media-amazon.com/images/I/71TX8INrprL.jpg",
+     "https://m.media-amazon.com/images/I/71Hhu6EM0QL.jpg",
+     "https://m.media-amazon.com/images/I/611EhRgpLkL.jpg",
+     "https://m.media-amazon.com/images/I/81sPsrg0apL.jpg",
+     "https://m.media-amazon.com/images/I/61NQYSDuhiL.jpg",
+     "https://m.media-amazon.com/images/I/814fSGcForL.jpg",
+     "https://m.media-amazon.com/images/I/719-oW7Dj3L.jpg",
+     "https://m.media-amazon.com/images/I/71Vls7pUVdL.jpg",
+     "https://m.media-amazon.com/images/I/81Vrnpzl8RL.jpg"
+    ],
+    "customer_reviews": {
+     "5 star": 61,
+     "4 star": 20,
+     "3 star": 11,
+     "2 star": 3,
+     "1 star": 5
+    }
+   },
+   "authors_reviews": [
+    {
+     "position": 1,
+     "title": "Will be buying again",
+     "text": "Love the colour! They’re a nice size, somewhat sturdy for those smaller flowers! Will be buying more to complete my garden soon! Very easy to put together too! I used cut offs off of the card box box they came in to stop the soil from coming out the bottom and poked some holes in. All round a wonderful product!",
+     "rating": 5.0,
+     "date": "16 May 2026",
+     "author": "Josie Foster",
+     "author_link": "https://www.amazon.co.uk/gp/profile/amzn1.account.AFUPYGN3BPA6GDTQFT2YRBALDUJQ?ref=cm_cr_dp_d_bdcrb_top",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+     "helpful_votes": "5 people found this helpful",
+     "verified_purchase": true,
+     "product": {
+      "colour_name": "2 X Large Rectangular Planters"
+     }
+    },
+    {
+     "position": 2,
+     "title": "GREAT ITEM",
+     "text": "i have bought these twice now and they are lovely.well made, easy to put up and look great painted. excellent delivery",
+     "rating": 5.0,
+     "date": "1 June 2026",
+     "author": "Super C",
+     "author_link": "https://www.amazon.co.uk/gp/profile/amzn1.account.AHZJPEUVFGGSX2GKIINGWC3GRUYA?ref=cm_cr_dp_d_bdcrb_top",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+     "helpful_votes": "3 people found this helpful",
+     "verified_purchase": true,
+     "product": {
+      "colour_name": "2 X Large Rectangular Planters"
+     }
+    },
+    {
+     "position": 3,
+     "title": "Very happy with purchase so far",
+     "text": "Good value for the money. Easy to put together. Looks as though they will rot quicker than more sturdy planters but won't know till next year. I lined with thick plastic to prolong the life. Be aware the stain comes out when watering, so needs hosing off as soon as it has finished draining as i wasn't quick enough and had to do a lot of scrubbing. All in all, happy with the purchase.",
+     "rating": 4.0,
+     "date": "13 June 2026",
+     "author": "HB",
+     "author_link": "https://www.amazon.co.uk/gp/profile/amzn1.account.AE62F4RCGOQK3VFZD6OEODJKZ5PQ?ref=cm_cr_dp_d_bdcrb_top",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+     "images": [
+      "https://m.media-amazon.com/images/I/81Di3yjt0gL.jpg"
+     ],
+     "helpful_votes": "9 people found this helpful",
+     "verified_purchase": true,
+     "product": {
+      "colour_name": "2 X Large Rectangular Planters"
+     }
+    },
+    {
+     "position": 4,
+     "title": "Great",
+     "text": "Great value",
+     "rating": 5.0,
+     "date": "16 June 2026",
+     "author": "mikejat76",
+     "author_link": "https://www.amazon.co.uk/gp/profile/amzn1.account.AFVLB4HWOVYC3JK2F2KCNP37AM6Q?ref=cm_cr_dp_d_bdcrb_top",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+     "verified_purchase": true,
+     "product": {
+      "colour_name": "2 X Large Rectangular Planters"
+     }
+    },
+    {
+     "position": 5,
+     "title": "Cheaply made...but looked nice once plant in.",
+     "text": "A more narrow than I thought they'd be. Cheaply made, however, I'd already bought my plants to go in them. Easy to put together. Not sure how long they will last? Had to use bin liners, to line them. Looked nice once flowers were in though.",
+     "rating": 3.0,
+     "date": "24 May 2026",
+     "author": "Sarah Angell",
+     "author_link": "https://www.amazon.co.uk/gp/profile/amzn1.account.AHF6UU73D5NLF45PYVW7INGSOT7Q?ref=cm_cr_dp_d_bdcrb_top",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+     "images": [
+      "https://m.media-amazon.com/images/I/71d5ZMCwIzL.jpg",
+      "https://m.media-amazon.com/images/I/71P1zC-9QiL.jpg",
+      "https://m.media-amazon.com/images/I/71XDraQLJ1L.jpg"
+     ],
+     "helpful_votes": "2 people found this helpful",
+     "verified_purchase": true,
+     "product": {
+      "colour_name": "2 X Large Rectangular Planters"
+     }
+    },
+    {
+     "position": 6,
+     "title": "Looks good!",
+     "text": "Again, very easy to assemble!",
+     "rating": 5.0,
+     "date": "24 July 2026",
+     "author": "Mark Reid",
+     "author_link": "https://www.amazon.co.uk/gp/profile/amzn1.account.AEFYS334HUPESBIQPQOL4QUXW6MA?ref=cm_cr_dp_d_bdcrb_top",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+     "verified_purchase": true,
+     "product": {
+      "colour_name": "2 X Large Rectangular Planters"
+     }
+    },
+    {
+     "position": 7,
+     "title": "Wooden planters",
+     "text": "Easy to put together, a good size and look beautiful.",
+     "rating": 5.0,
+     "date": "5 June 2026",
+     "author": "Bibi",
+     "author_link": "https://www.amazon.co.uk/gp/profile/amzn1.account.AGY4Y75EJ22P5HGZGLSOZFX6HE3A?ref=cm_cr_dp_d_bdcrb_top",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+     "images": [
+      "https://m.media-amazon.com/images/I/816WWpExlDL.jpg"
+     ],
+     "helpful_votes": "7 people found this helpful",
+     "verified_purchase": true,
+     "product": {
+      "colour_name": "2 X Large Rectangular Planters"
+     }
+    },
+    {
+     "position": 8,
+     "title": "Nice planters",
+     "text": "They look great & nice all planted up. Have lined with rubble sacks & drainage holes. We shall see how long they last. A bit thinner than I hoped but they do the job for now.",
+     "rating": 4.0,
+     "date": "27 June 2026",
+     "author": "Kerry Gillatt",
+     "author_link": "https://www.amazon.co.uk/gp/profile/amzn1.account.AGVZRQUPKFEEO37DF5DCYDRKUI7A?ref=cm_cr_dp_d_bdcrb_top",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+     "helpful_votes": "2 people found this helpful",
+     "verified_purchase": true,
+     "product": {
+      "colour_name": "2 X Large Rectangular Planters"
+     }
+    }
+   ]
+  }
+ }
+}

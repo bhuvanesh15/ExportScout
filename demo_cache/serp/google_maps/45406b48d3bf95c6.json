@@ -1,0 +1,1568 @@
+{
+ "engine": "google_maps",
+ "params": {
+  "q": "home accessories wholesaler",
+  "ll": "@51.5072,-0.1276,12z",
+  "type": "search",
+  "hl": "en"
+ },
+ "fetched_at": "2026-09-30T10:31:51+00:00",
+ "data": {
+  "search_metadata": {
+   "id": "6abce516fda60735e6e0cdea",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/fLtPBmgTHCP4yFqYCeRTb9b4_ipUFlJo4yBj2T3KUhE/6abce516fda60735e6e0cdea.json",
+   "markdown_endpoint": "https://serpapi.com/searches/fLtPBmgTHCP4yFqYCeRTb9b4_ipUFlJo4yBj2T3KUhE/6abce516fda60735e6e0cdea.md",
+   "created_at": "2026-09-30 10:31:50 UTC",
+   "processed_at": "2026-09-30 10:31:50 UTC",
+   "google_maps_url": "https://www.google.com/maps/search/home+accessories+wholesaler/@51.5072,-0.1276,12z/data=!3m1!4b1!4m2!2m1!6e5?hl=en",
+   "raw_html_file": "https://serpapi.com/searches/fLtPBmgTHCP4yFqYCeRTb9b4_ipUFlJo4yBj2T3KUhE/6abce516fda60735e6e0cdea.html",
+   "prettify_html_file": "https://serpapi.com/searches/fLtPBmgTHCP4yFqYCeRTb9b4_ipUFlJo4yBj2T3KUhE/6abce516fda60735e6e0cdea.prettify",
+   "total_time_taken": 0.77
+  },
+  "search_parameters": {
+   "engine": "google_maps",
+   "type": "search",
+   "q": "home accessories wholesaler",
+   "ll": "@51.5072,-0.1276,12z",
+   "google_domain": "google.com",
+   "hl": "en"
+  },
+  "search_information": {
+   "local_results_state": "Results for exact spelling",
+   "query_displayed": "home accessories wholesaler"
+  },
+  "local_results": [
+   {
+    "position": 1,
+    "title": "Dream Furnishings London",
+    "place_id": "ChIJlco0GLun2EcRzpfOdpC_gkY",
+    "data_id": "0x47d8a7bb1834ca95:0x4682bf9076ce97ce",
+    "data_cid": "5080833956816787406",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x47d8a7bb1834ca95%3A0x4682bf9076ce97ce&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x47d8a7bb1834ca95%3A0x4682bf9076ce97ce&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 51.5450751,
+     "longitude": 0.031645
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJlco0GLun2EcRzpfOdpC_gkY",
+    "provider_id": "/g/11bzs_942r",
+    "rating": 4.7,
+    "reviews": 207,
+    "type": "Furniture store",
+    "types": [
+     "Furniture store",
+     "Bed shop",
+     "Fitted furniture supplier",
+     "Furniture accessories",
+     "Furniture wholesaler",
+     "Sofa store"
+    ],
+    "type_id": "furniture_store",
+    "type_ids": [
+     "furniture_store",
+     "bed_shop",
+     "fitted_furniture_supplier",
+     "furniture_accessories",
+     "furniture_wholesaler",
+     "sofa_store"
+    ],
+    "address": "58 Green St, London, E7 8BZ, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Open · Closes 7 PM",
+    "hours": "Open · Closes 7 PM",
+    "operating_hours": {
+     "wednesday": "10 AM–7 PM",
+     "thursday": "10 AM–7 PM",
+     "friday": "10 AM–7 PM",
+     "saturday": "10 AM–7 PM",
+     "sunday": "11 AM–6 PM",
+     "monday": "10 AM–7 PM",
+     "tuesday": "10 AM–7 PM"
+    },
+    "phone": "+44 20 8552 2999",
+    "website": "https://dreamfurnishings.co.uk/?utm_source=google&utm_medium=GBP&utm_campaign=google-business-profile",
+    "extensions": [
+     {
+      "service_options": [
+       "Delivery",
+       "In-store pickup",
+       "In-store shopping",
+       "Onsite services"
+      ]
+     },
+     {
+      "accessibility": [
+       "Wheelchair accessible entrance"
+      ]
+     },
+     {
+      "offerings": [
+       "Assembly service"
+      ]
+     },
+     {
+      "crowd": [
+       "LGBTQ+ friendly",
+       "Transgender safespace"
+      ]
+     },
+     {
+      "payments": [
+       "Credit cards",
+       "Debit cards",
+       "NFC mobile payments"
+      ]
+     }
+    ],
+    "unsupported_extensions": [
+     {
+      "service_options": [
+       "Same-day delivery"
+      ]
+     }
+    ],
+    "service_options": {
+     "in_store_shopping": true,
+     "in_store_pickup": true,
+     "delivery": true
+    },
+    "user_review": "\"Good prices, delivered in the quoted time scale.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMqvLBrYZczwpFDrrvtJFhdYjWoFSdy8CZpRgmjlTGJu7UYGOh4NJsIabeoGFr6aT6-_DVC6QoiRAf5Z2bbDQ9ZJzQCNgt6N8R5NirHcVPSO4nNIWE_yhlpnB7QUcrySjrkSJab=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/B8ZKp3icHcTbboIwGADgJ-LgpnhIdqEw0EaLgIfAjYHKWrC03d-CwRfcM-xtluy7-H5_mDFKrxyHs3ebSkl53esaiBSmFsYmsnMolFpbRDtrf1C8O3wP-w3kBXk9VRgADAaF7J63Vxlm93HhFyqlXctPEern5zyK2RQjvSurWkYheOXJs27BxfcS2aTrr1nxVlVBsizQK_ExNR5epDPcwJZcjlk8FXh3_byNjCuxmSdnAmPWwiNDZfXxnLiua7H_iSX-ADP2Ri4"
+   },
+   {
+    "position": 2,
+    "title": "GK home decor",
+    "place_id": "ChIJp7WV6vwPdkgRectY2OrtC4c",
+    "data_id": "0x48760ffcea95b5a7:0x870bedead858cb79",
+    "data_cid": "9731133012771916665",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x48760ffcea95b5a7%3A0x870bedead858cb79&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x48760ffcea95b5a7%3A0x870bedead858cb79&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 51.4832952,
+     "longitude": -0.2005977
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJp7WV6vwPdkgRectY2OrtC4c",
+    "provider_id": "/g/11snw_2v01",
+    "rating": 5,
+    "reviews": 14,
+    "type": "Store",
+    "types": [
+     "Store"
+    ],
+    "type_id": "store",
+    "type_ids": [
+     "store"
+    ],
+    "address": "391 North End Rd, London, SW6 1NR, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+     "wednesday": "9 AM–8 PM",
+     "thursday": "9 AM–8 PM",
+     "friday": "9 AM–8 PM",
+     "saturday": "9 AM–8 PM",
+     "sunday": "10 AM–7:30 PM",
+     "monday": "9 AM–8 PM",
+     "tuesday": "9 AM–8 PM"
+    },
+    "phone": "+44 7491 319754",
+    "website": "https://www.gkhomedecor.com/",
+    "extensions": [
+     {
+      "planning": [
+       "Quick visit"
+      ]
+     },
+     {
+      "payments": [
+       "Credit cards",
+       "Debit cards",
+       "NFC mobile payments"
+      ]
+     }
+    ],
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=a7CAeDOPd_8quACmRIemXQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=5.3064713&pitch=-2.7182467&thumbfov=100",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/bpdWJXicHc1NEoIgGADQ27ATRE2tGaZxbNOqn1U7B_FLmBEhQKkzdaJuU9MF3vu8ZQjW7wjxwQGEVUG06gmTTyzHozHjBNwqj4XRZKUkyEX3M1fT3vLZqIHxqm3gcDoPXf1YmlZfj6BvFyT6TkwK5sA8cCckHuNPdGbAo-Peo8jqFEm2zdCLR7bBeVoWFc2RVUFIlmS4onVWlBX6h3ezMpqmX_BLPAI"
+   },
+   {
+    "position": 3,
+    "title": "London homestores",
+    "place_id": "ChIJn8Q5DwAQdkgRwVfDtkUAVEg",
+    "data_id": "0x487610000f39c49f:0x48540045b6c357c1",
+    "data_cid": "5211790968193505217",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x487610000f39c49f%3A0x48540045b6c357c1&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x487610000f39c49f%3A0x48540045b6c357c1&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 51.515665,
+     "longitude": -0.1888615
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJn8Q5DwAQdkgRwVfDtkUAVEg",
+    "provider_id": "/g/1tyzygn1",
+    "rating": 4.4,
+    "reviews": 73,
+    "type": "Home improvement store",
+    "types": [
+     "Home improvement store",
+     "Building materials supplier",
+     "Electrical supply store",
+     "Garden",
+     "Kitchen supply store",
+     "Paint store",
+     "Plumbing supply store"
+    ],
+    "type_id": "home_improvement_store",
+    "type_ids": [
+     "home_improvement_store",
+     "building_materials_supplier",
+     "electrical_supply_store",
+     "garden",
+     "kitchen_supply_store",
+     "paint_store",
+     "plumbing_supply_store"
+    ],
+    "address": "9 Westbourne Grove, London, W2 4UA, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+     "wednesday": "9 AM–8 PM",
+     "thursday": "9 AM–8 PM",
+     "friday": "9 AM–8 PM",
+     "saturday": "9 AM–8 PM",
+     "sunday": "10 AM–8 PM",
+     "monday": "9 AM–8 PM",
+     "tuesday": "9 AM–8 PM"
+    },
+    "phone": "+44 20 7908 1900",
+    "website": "https://homestores.shop/",
+    "extensions": [
+     {
+      "service_options": [
+       "Onsite services"
+      ]
+     },
+     {
+      "accessibility": [
+       "Wheelchair accessible entrance"
+      ]
+     },
+     {
+      "planning": [
+       "Quick visit"
+      ]
+     },
+     {
+      "payments": [
+       "Credit cards",
+       "Debit cards",
+       "NFC mobile payments"
+      ]
+     }
+    ],
+    "service_options": {
+     "onsite_services": true
+    },
+    "user_review": "\"Great selection of items and fair price.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMTIPTYjTN8ib9MlhjJjhhzc7hDkbfW-HRX3ZmohG1CkJLHpGvMhdoAcZ0_QTyTOx0sD-em8_YAQTEFlz_gOxIFKQiKa5CMTcsvMb63Dws8tLTSQOmplWt_44zo5LZk2NmcjEZU6HbouRg6=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/fh6lQ3icHcTBboIwGADgJ6rUoYhLPBAQUKmIq1G5EKmsv9BSYis6XnLnvc0Sv8P39wvGdPrTsgTYI64UF9VDV3emWlO1ZsSUtPj9ojVi2vL8vhOS0NWOnmu6dW_lnAio1zXAwGYQNOX3EcX7k51LBdHYb9ZJ3EU9gavyWI6LjP7Q9IV1gCrpFmcvo8tQDAVPX6twk902l6lPKNM9KR07eGrXJPQrS2UnjqaYTAY1TfLmYytZvcwPTlyqx547i-cYY4zgPUPtPyK3SE0"
+   },
+   {
+    "position": 4,
+    "title": "Artisan Furniture",
+    "place_id": "ChIJ0YitP9UadkgRSBqdb3qNhcU",
+    "data_id": "0x48761ad53fad88d1:0xc5858d7a6f9d1a48",
+    "data_cid": "14232937754372414024",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x48761ad53fad88d1%3A0xc5858d7a6f9d1a48&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x48761ad53fad88d1%3A0xc5858d7a6f9d1a48&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 51.4963847,
+     "longitude": -0.1308866
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ0YitP9UadkgRSBqdb3qNhcU",
+    "provider_id": "/g/11d_ynvn2q",
+    "rating": 4.5,
+    "reviews": 74,
+    "type": "Furniture store",
+    "types": [
+     "Furniture store",
+     "Furniture manufacturer",
+     "Furniture wholesaler",
+     "Wholesaler"
+    ],
+    "type_id": "furniture_store",
+    "type_ids": [
+     "furniture_store",
+     "furniture_manufacturer",
+     "furniture_wholesaler",
+     "wholesaler"
+    ],
+    "address": "2A Monck St, London, SW1P 2BQ, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Open · Closes 5 PM",
+    "hours": "Open · Closes 5 PM",
+    "operating_hours": {
+     "wednesday": "9 AM–5 PM",
+     "thursday": "9 AM–5 PM",
+     "friday": "9 AM–5 PM",
+     "saturday": "Closed",
+     "sunday": "Closed",
+     "monday": "9 AM–5 PM",
+     "tuesday": "9 AM–5 PM"
+    },
+    "phone": "+44 800 689 4736",
+    "website": "https://www.artisanfurniture.net/",
+    "extensions": [
+     {
+      "service_options": [
+       "Delivery",
+       "In-store pickup",
+       "In-store shopping"
+      ]
+     },
+     {
+      "planning": [
+       "Appointment required"
+      ]
+     },
+     {
+      "payments": [
+       "Credit cards",
+       "Debit cards"
+      ]
+     }
+    ],
+    "service_options": {
+     "in_store_shopping": true,
+     "in_store_pickup": true,
+     "delivery": true
+    },
+    "user_review": "\"It's a professional, friendly, and products are handmade and sturdy.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOr2bTykYbk-zhfudU_4v0lwUcevEb2sYZgJFyr9l0VTFwCSxciZm5DeHgnyzC-7ygGfrh41fnYyDOz9kwUZ9Jxy1974l8mWCJXxtyTVwPP7bhn3c_jY5mba7lSx9JKdytZESQsRg=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/1U_-YnicHcTdroIgAADgJyKxbMbZujizv9lFddRKb1oQQgnYgER8wx7hvE1b38X3_-bWPs1PEAg-GbG2ZYK-DNWkVZYqOyKtDJi-GgOICX6T7inkTo9x7psSN2Dg9etWXKIOClcQ2i3x2JQVS1deIwGP-colWU_ulZwu6IYpPyQg9mxdax6FtSr9YjegxhUVSnsfojgSM3lK0nNvfX50-32MuZqQy6OcSnyNRdajdHvztlpmB_PH5i6EEAL-nQD1AQzER-Y"
+   },
+   {
+    "position": 5,
+    "title": "Elite Home Decor",
+    "place_id": "ChIJmf3ulu8FdkgROGjRov2Qu40",
+    "data_id": "0x487605ef96eefd99:0x8dbb90fda2d16838",
+    "data_cid": "10212915999025489976",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x487605ef96eefd99%3A0x8dbb90fda2d16838&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x487605ef96eefd99%3A0x8dbb90fda2d16838&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 51.507818799999995,
+     "longitude": -0.1405681
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJmf3ulu8FdkgROGjRov2Qu40",
+    "provider_id": "/g/11shcwsbhx",
+    "rating": 4.6,
+    "reviews": 29,
+    "type": "Furniture store",
+    "types": [
+     "Furniture store"
+    ],
+    "type_id": "furniture_store",
+    "type_ids": [
+     "furniture_store"
+    ],
+    "address": "London, W1 1DG, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Open · Closes 5 PM",
+    "hours": "Open · Closes 5 PM",
+    "operating_hours": {
+     "wednesday": "9 AM–5 PM",
+     "thursday": "9 AM–5 PM",
+     "friday": "9 AM–5 PM",
+     "saturday": "10 AM–5 PM",
+     "sunday": "Closed",
+     "monday": "9 AM–5 PM",
+     "tuesday": "9 AM–5 PM"
+    },
+    "website": "https://elitehomedecor.co.uk/",
+    "extensions": [
+     {
+      "service_options": [
+       "Delivery",
+       "Onsite services"
+      ]
+     },
+     {
+      "planning": [
+       "Quick visit"
+      ]
+     },
+     {
+      "payments": [
+       "Credit cards",
+       "Debit cards",
+       "NFC mobile payments"
+      ]
+     }
+    ],
+    "service_options": {
+     "delivery": true
+    },
+    "user_review": "\"Very very good finely detailed products,  recommend to all.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNWJc5iwEKAjAoShnXuu-O48CxukhISOUrOnkzMqm7h_2vgj1FuDvMJ3dK_GXoehpR5aNotC0UDYggDmbPdwPAhMqS8clsLtDgdXlhUsyGj0hXwQwUM4fYwDR00C2Fy1H6oLjq6VgjEvQ8=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/TsuTyHicHcTBboIwGADgJ0KKohITD4Sqm4qohA1PBAvrv1paoC1VH9K7b7Nk3-F7v0DrVi1cl8NkRKWkvDaq7okUuhZ6RGTj0r5UyiHKDaOh5c3he0umv3a1C1koUxC5MU7iB9Hd3OAzTbI-Ebdn3DVzKMYDZd7a4CHeTqpdscllDe15Wh6kjlCGL5Ti5nqs7DGEuEsDwtVeY1rlHDL12DAEuT3ZLPZ_LhafEYrG64f3MZN71s2-KFsNp2BpPYSQA_8TR_wBNsZIsw"
+   },
+   {
+    "position": 6,
+    "title": "Artisan Stories - Ethically Handcrafted Leather Goods and Home Decor",
+    "place_id": "ChIJrWsBteAFdkgRxuh_4c5b4Dg",
+    "data_id": "0x487605e0b5016bad:0x38e05bcee17fe8c6",
+    "data_cid": "4098376605011798214",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x487605e0b5016bad%3A0x38e05bcee17fe8c6&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x487605e0b5016bad%3A0x38e05bcee17fe8c6&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 51.462493099999996,
+     "longitude": -0.1118135
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJrWsBteAFdkgRxuh_4c5b4Dg",
+    "provider_id": "/g/11c1v0jlqd",
+    "rating": 4.7,
+    "reviews": 38,
+    "type": "Home goods store",
+    "types": [
+     "Home goods store",
+     "Fashion accessories store",
+     "Furniture accessories",
+     "Gift shop",
+     "Glass & mirror shop",
+     "Glassware store",
+     "Boutique",
+     "Leather goods manufacturer",
+     "Leather goods store"
+    ],
+    "type_id": "home_goods_store",
+    "type_ids": [
+     "home_goods_store",
+     "fashion_accessories_store",
+     "furniture_accessories",
+     "gift_shop",
+     "glass_and_mirror_shop",
+     "glassware_store",
+     "boutique",
+     "leather_goods_manufacturer",
+     "leather_goods_store"
+    ],
+    "address": "36-37, Granville Arcade, Brixton village, Coldharbour Ln, London SW9 8PR, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Open · Closes 6:30 PM",
+    "hours": "Open · Closes 6:30 PM",
+    "operating_hours": {
+     "wednesday": "10:30 AM–6:30 PM",
+     "thursday": "10:30 AM–6:30 PM",
+     "friday": "10:30 AM–6:30 PM",
+     "saturday": "10:30 AM–6:30 PM",
+     "sunday": "11 AM–5 PM",
+     "monday": "10:30 AM–6 PM",
+     "tuesday": "10:30 AM–6:30 PM"
+    },
+    "phone": "+44 20 3915 3879",
+    "website": "http://artisanstories.co.uk/",
+    "extensions": [
+     {
+      "service_options": [
+       "Delivery",
+       "In-store pickup",
+       "In-store shopping",
+       "Onsite services"
+      ]
+     },
+     {
+      "accessibility": [
+       "Wheelchair accessible entrance"
+      ]
+     },
+     {
+      "amenities": [
+       "Wi-Fi"
+      ]
+     },
+     {
+      "planning": [
+       "Quick visit"
+      ]
+     },
+     {
+      "payments": [
+       "Credit cards",
+       "Debit cards",
+       "NFC mobile payments"
+      ]
+     }
+    ],
+    "unsupported_extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible parking lot"
+      ]
+     }
+    ],
+    "service_options": {
+     "in_store_shopping": true,
+     "in_store_pickup": true,
+     "delivery": true
+    },
+    "user_review": "\"Great range, super fast turnaround, secure packaging.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmP2oHEpz5hfzb0xoiYom3bPrByJdJru-viXk7uuU3RMFrs-BLV_7Z_Em8MPVh9G4m0JOraXkeiBP5XaeAhrdYmy3nkimMB6XbqSvByNSukvUP8gmzMNxkEcJpEXH7CKBgJJCa75hr80xnkX=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/RgBKFnicHcTBboMgAADQL6LSOatbskMxrg2tHVnThu7SKKVgEHAgTv3Jnfc3TfYO7-9X9n3nX6OolfFCWCtaHjx3zJqem37BrI6Eq7wHzEfrfOhaTZ7stujmRN7nGo62uVgd18ShCd-wC2BoqEpDOMWf5bvzAO3P1_TrWuisJGf5snnWEH-4iireIJLQiq-lu130FBvV6BKtaP19HNB0OAY1nEgm9FweRlUw3BV0m-Y7JDDOqzSRLoOjUfTtZwkhBPJ_BswDfrVJBg"
+   },
+   {
+    "position": 7,
+    "title": "Luxural",
+    "place_id": "ChIJf1ZQx_MSdkgRwsBrzxxfjMc",
+    "data_id": "0x487612f3c750567f:0xc78c5f1ccf6bc0c2",
+    "data_cid": "14378972287630819522",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x487612f3c750567f%3A0xc78c5f1ccf6bc0c2&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x487612f3c750567f%3A0xc78c5f1ccf6bc0c2&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 51.5391999,
+     "longitude": -0.33801739999999997
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJf1ZQx_MSdkgRwsBrzxxfjMc",
+    "provider_id": "/g/11gn1__q14",
+    "rating": 5,
+    "reviews": 131,
+    "type": "Furniture store",
+    "types": [
+     "Furniture store",
+     "Fitness equipment wholesaler"
+    ],
+    "type_id": "furniture_store",
+    "type_ids": [
+     "furniture_store",
+     "fitness_equipment_wholesaler"
+    ],
+    "address": "Lyon Way, Greenford, UB6 0BN, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Open · Closes 5:30 PM",
+    "hours": "Open · Closes 5:30 PM",
+    "operating_hours": {
+     "wednesday": "9:30 AM–5:30 PM",
+     "thursday": "9:30 AM–5:30 PM",
+     "friday": "9:30 AM–5:30 PM",
+     "saturday": "Closed",
+     "sunday": "Closed",
+     "monday": "9:30 AM–5:30 PM",
+     "tuesday": "9:30 AM–5:30 PM"
+    },
+    "website": "http://luxural.co.uk/",
+    "extensions": [
+     {
+      "service_options": [
+       "Delivery"
+      ]
+     },
+     {
+      "accessibility": [
+       "Wheelchair accessible parking lot"
+      ]
+     },
+     {
+      "payments": [
+       "Credit cards",
+       "Debit cards"
+      ]
+     }
+    ],
+    "service_options": {
+     "delivery": true
+    },
+    "user_review": "\"Offered a cost efficient product with quick and easy delivery.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPyuPiSZpaUEfvDcrduIgDrkhTI_fZXtRJF5zLkba6t3GyFepwXspJdT8zn2F427GOWIRyp9yI2dzmjuyEU-RbwmOzbK3ct1nsCMhJRGuqB1eRg3kTIbs4kJi5O8Tf2fqIyRMDJ-UPnN7E=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/dU3zIHicHcTbboIwAADQL6rcvG3JHpxc0m4KqZAZXwyU0jqgVNpKykfufX9j4nk4_39ca6neHafjwYINA-uoUXQkg9BU6AUZeoeNpVKAKGe3f8iuz6zJbqeLLIuoeYRkrA1k4djyHF6by1ljFK_m77Yq1zpIbEzldFYS1fl2Fn689DdJ-gOxlW8W-vXc_xobFQBXU5_O1VdAtCfU_sARTsz906OYBW0OK7Vs0W2VbvPGb-7Q4kOIQJGJ4yb6mDzXdQF_TYB4AnadSK4"
+   },
+   {
+    "position": 8,
+    "title": "MBS Wholesale Supplies",
+    "place_id": "ChIJUfyXuWITdkgR409xnEXmeIw",
+    "data_id": "0x48761362b997fc51:0x8c78e6459c714fe3",
+    "data_cid": "10122093349166993379",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x48761362b997fc51%3A0x8c78e6459c714fe3&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x48761362b997fc51%3A0x8c78e6459c714fe3&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 51.597079799999996,
+     "longitude": -0.3429774
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJUfyXuWITdkgR409xnEXmeIw",
+    "provider_id": "/g/1tg9s51s",
+    "rating": 4.3,
+    "reviews": 55,
+    "type": "Wholesaler",
+    "types": [
+     "Wholesaler",
+     "Chinaware store",
+     "Cleaning products supplier",
+     "Cutlery store",
+     "Disposable tableware supplier",
+     "Glassware wholesaler",
+     "Hotel supply store",
+     "Kitchen supply store",
+     "Restaurant supply store"
+    ],
+    "type_id": "wholesaler",
+    "type_ids": [
+     "wholesaler",
+     "chinaware_store",
+     "cleaning_products_supplier",
+     "cutlery_store",
+     "disposable_tableware_supplier",
+     "glassware_wholesaler",
+     "hotel_supply_store",
+     "kitchen_supply_store",
+     "restaurant_supply_store"
+    ],
+    "address": "Unit 4, Whitefriars Trading Estate, Tudor Rd, Harrow HA3 5JF, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Open · Closes 5 PM",
+    "hours": "Open · Closes 5 PM",
+    "operating_hours": {
+     "wednesday": "9 AM–5 PM",
+     "thursday": "9 AM–5 PM",
+     "friday": "9 AM–5 PM",
+     "saturday": "Closed",
+     "sunday": "Closed",
+     "monday": "9 AM–5 PM",
+     "tuesday": "9 AM–5 PM"
+    },
+    "phone": "+44 20 8424 8886",
+    "website": "https://www.mbswholesale.co.uk/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible entrance",
+       "Wheelchair accessible parking lot"
+      ]
+     },
+     {
+      "payments": [
+       "Credit cards",
+       "Debit cards"
+      ]
+     }
+    ],
+    "user_review": "\"Very competitive prices and efficient delivery.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNnLHgm6V2BIoVYLnbK39dNExzTNp4zA7lNQ4kw51Ov6Ila1xrK2alYgEBCFbpbwal3Eih1NiQOvgXyMrmcoO3dVsDr-XChkADNX7PvMCNHoXjTEEKVRM0oTvKkQ1b71Q639ydV=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/SfKtTXicHcRRDoIgAADQE5kSpautDzOazcRsjtmnogMTwYFhdcHO0G3aeh_v--HTNJqt6woOF0wpJtqHaTVVcmrltKBqcJmujHGoccPIjmLA8hyzwSfL_UmR21nWCdw0GD3fBR5X7zAQOF_18xpk1j-JCjx1sqzEjaF9dKzHeq4ERB0HuMszy8pXqgeqMtgQc9BOGfE-POAyuNg0wrEq7wVCCbmmnips0uegDkDuw82rIbsZeJ7n8P_UkT-RxkRu"
+   },
+   {
+    "position": 9,
+    "title": "Forma House Ltd",
+    "place_id": "ChIJ4SFWlGgGdkgRX80_x2PqLq4",
+    "data_id": "0x48760668945621e1:0xae2eea63c73fcd5f",
+    "data_cid": "12551226925793660255",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x48760668945621e1%3A0xae2eea63c73fcd5f&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x48760668945621e1%3A0xae2eea63c73fcd5f&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 51.4141767,
+     "longitude": -0.15360659999999998
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ4SFWlGgGdkgRX80_x2PqLq4",
+    "provider_id": "/g/1vgqckqq",
+    "rating": 4.7,
+    "reviews": 30,
+    "type": "Household goods wholesaler",
+    "types": [
+     "Household goods wholesaler",
+     "Kitchen supply store"
+    ],
+    "type_id": "household_goods_wholesaler",
+    "type_ids": [
+     "household_goods_wholesaler",
+     "kitchen_supply_store"
+    ],
+    "address": "Unit 3, 85 Streatham Rd, Mitcham CR4 2AP, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Open · Closes 5:30 PM",
+    "hours": "Open · Closes 5:30 PM",
+    "operating_hours": {
+     "wednesday": "8:30 AM–5:30 PM",
+     "thursday": "8:30 AM–5:30 PM",
+     "friday": "8:30 AM–5:30 PM",
+     "saturday": "Closed",
+     "sunday": "Closed",
+     "monday": "8:30 AM–5:30 PM",
+     "tuesday": "8:30 AM–5:30 PM"
+    },
+    "phone": "+44 20 8646 3883",
+    "website": "https://formahouse.co.uk/",
+    "extensions": [
+     {
+      "payments": [
+       "Credit cards",
+       "Debit cards"
+      ]
+     }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPAs9HH9t6srOkg9SNrnGigz95BfAny-ODHsuDrcgIeLVpgGHI_4SJqS_DUvE-dhfIkgVJVNgEUL0lfKhhfuelf-YjtjUELqPbMCO9ujNi5LIm9lMriASRqeHAiSpd1ZpCB2N1x=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/MFrN1XicHcRRboIwGADgE1XAzSU18aECsTgEswaS7cVobf-CpZS26LYL7gy7zZJ9D9_vjwrB-nUUafW0gHEELWYvHB9NECYs-DhE4M7eI-4jkt6tHo7EY0pxePGuvgFmlTO7Dr7xaiuJ-UJ1Rv2cOQ6FKFsLO1qcntl-YqesuefoqmRxg3bfVpA3Zazlq1JyFlqi9z70TV5Ox8shrfHcV92qLAasD64j7G0SlHTMXpMPm26XVfK5eSRxHCP1P0fmD-HCRZU"
+   },
+   {
+    "position": 10,
+    "title": "M-Home Decor",
+    "place_id": "ChIJQcbtFQAddkgRK6Zqzor8nUo",
+    "data_id": "0x48761d0015edc641:0x4a9dfc8ace6aa62b",
+    "data_cid": "5376731203249022507",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x48761d0015edc641%3A0x4a9dfc8ace6aa62b&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x48761d0015edc641%3A0x4a9dfc8ace6aa62b&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 51.5482984,
+     "longitude": -0.0549449
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJQcbtFQAddkgRK6Zqzor8nUo",
+    "provider_id": "/g/11n3wrrvs6",
+    "rating": 4.7,
+    "reviews": 3,
+    "unclaimed_listing": true,
+    "type": "Furniture store",
+    "types": [
+     "Furniture store"
+    ],
+    "type_id": "furniture_store",
+    "type_ids": [
+     "furniture_store"
+    ],
+    "address": "364 Mare St, London, E8 1HR, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Open · Closes 6:30 PM",
+    "hours": "Open · Closes 6:30 PM",
+    "operating_hours": {
+     "wednesday": "9:30 AM–6:30 PM",
+     "thursday": "9:30 AM–6:30 PM",
+     "friday": "9:30 AM–6:30 PM",
+     "saturday": "9:30 AM–6:30 PM",
+     "sunday": "9:30 AM–5:30 PM",
+     "monday": "9:30 AM–6:30 PM",
+     "tuesday": "9:30 AM–6:30 PM"
+    },
+    "phone": "+44 7771 917511",
+    "extensions": [
+     {
+      "payments": [
+       "Credit cards",
+       "Debit cards",
+       "NFC mobile payments"
+      ]
+     }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPhCeMIfpFdyTPbN7gehmCneCioPJKY6Yvwp7UUNFAoXgURNuyM7LEw7Suqhfr7LOLX7T_DaIJQd4mmXNx75VBDunjEHLR8WbQ5yRKH1nbMBxmbcmsFZ6df9vnwmCGLUp1PcU52LRqn48ar=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/6QbxQnicHcRLjoIwAADQEyGgYtXEhVbxVxDRzuBsJlBKq6EfKR855ay9zSS-xXv_8brWZm7bJR8NmFKspI2hFVGyprIeECVsVqXGWMTYS9jqUkQc0mBfaD_vr1EWAka5gJLCu4oOx9vk1nYaYBz6S5UwHIdNHwC06cClefKiAuiEEnD9Xaf7wzkfC5GEL-B9rdaNfGx2KJ5-Z2evj487V2bB6iUyIoz_M8mLWSs7AbcIazci2Bui-CnH07RadK7jOBb_TCz5D0DRSEA"
+   },
+   {
+    "position": 11,
+    "title": "Zacharia Accessories Wholesale",
+    "place_id": "ChIJo7dJkvkRdkgRQY0G7ZETDd0",
+    "data_id": "0x487611f99249b7a3:0xdd0d1391ed068d41",
+    "data_cid": "15928408974547127617",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x487611f99249b7a3%3A0xdd0d1391ed068d41&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x487611f99249b7a3%3A0xdd0d1391ed068d41&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 51.523615,
+     "longitude": -0.2768677
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJo7dJkvkRdkgRQY0G7ZETDd0",
+    "provider_id": "/g/1tkp4gf2",
+    "rating": 5,
+    "reviews": 34,
+    "type": "Fashion accessories store",
+    "types": [
+     "Fashion accessories store",
+     "Costume jewelry shop",
+     "Party store"
+    ],
+    "type_id": "fashion_accessories_store",
+    "type_ids": [
+     "fashion_accessories_store",
+     "costume_jewelry_shop",
+     "party_store"
+    ],
+    "address": "Unit 2, Anila House, Concord Business Centre, Concord Rd, London W3 0TJ, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Open · Closes 5 PM",
+    "hours": "Open · Closes 5 PM",
+    "operating_hours": {
+     "wednesday": "8 AM–5 PM",
+     "thursday": "8 AM–5 PM",
+     "friday": "8 AM–5 PM",
+     "saturday": "Closed",
+     "sunday": "Closed",
+     "monday": "8 AM–5 PM",
+     "tuesday": "8 AM–5 PM"
+    },
+    "phone": "+44 7525 099409",
+    "website": "http://www.zacharia-accessories.com/",
+    "extensions": [
+     {
+      "service_options": [
+       "Delivery"
+      ]
+     },
+     {
+      "payments": [
+       "Credit cards",
+       "Debit cards"
+      ]
+     }
+    ],
+    "service_options": {
+     "delivery": true
+    },
+    "user_review": "\"Very  helpful and some good quality products at reasonable prices.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOuxofQ-JhU2VYpyMI9oPypzj5Yqv-xOygbau4yTPQZ4cNBiaO3EgsFNUWfjYDBoB0ThtolEM-hBc0RlrnDvtbWoa9jYK-c-9Z6e6QdI7lM7DH03jBPHGl5eGOi3E0FynWx4PB_XK0IzuTc=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/8gpBgHicHcTBboIwGADgJ6pUQQ0mO1hBZQYBgyJeDNbaSmp_RgujvuTOe5sl-w7f748wptELx5HCHXEALlmnWUtBGabMiMLL4W2lNaLaWa76Rr6SboBHhj7FcXIqGxtHPqS2edfT8qtHQ2L5reo8m6fZxaN78qwSN-R6vT8Wj7oMCBCcCwMyjJEgFB9kq4Le3Aqo_LrcIYr8y4zNsns0l_E82GK3Jul2I6dskzzdEK-tKgYvJdfzDkfvLqcf32OMMRL_U6T-AENsR5Q"
+   },
+   {
+    "position": 12,
+    "title": "Eco Furniture",
+    "place_id": "ChIJvRbdJckTdkgREWvpHZQeV14",
+    "data_id": "0x487613c925dd16bd:0x5e571e941de96b11",
+    "data_cid": "6797935784044882705",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x487613c925dd16bd%3A0x5e571e941de96b11&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x487613c925dd16bd%3A0x5e571e941de96b11&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 51.564085999999996,
+     "longitude": -0.301512
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJvRbdJckTdkgREWvpHZQeV14",
+    "provider_id": "/g/12m99ds91",
+    "rating": 4.4,
+    "reviews": 15,
+    "unclaimed_listing": true,
+    "type": "Furniture wholesaler",
+    "types": [
+     "Furniture wholesaler",
+     "Furniture accessories",
+     "Furniture accessories supplier",
+     "Furniture store",
+     "Office furniture store",
+     "Rustic furniture store"
+    ],
+    "type_id": "furniture_wholesaler",
+    "type_ids": [
+     "furniture_wholesaler",
+     "furniture_accessories",
+     "furniture_accessories_supplier",
+     "furniture_store",
+     "office_furniture_store",
+     "rustic_furniture_store"
+    ],
+    "address": "East Lane Business Park, Unit-2 Main Dr, East Ln, Wembley HA9 7NA, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Open · Closes 5:30 PM",
+    "hours": "Open · Closes 5:30 PM",
+    "operating_hours": {
+     "wednesday": "9:30 AM–5:30 PM",
+     "thursday": "9:30 AM–5:30 PM",
+     "friday": "9:30 AM–5:30 PM",
+     "saturday": "10 AM–4 PM",
+     "sunday": "Closed",
+     "monday": "9:30 AM–5:30 PM",
+     "tuesday": "9:30 AM–5:30 PM"
+    },
+    "phone": "+44 20 8904 0333",
+    "website": "https://ecofurnishings.co.uk/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible entrance",
+       "Wheelchair accessible parking lot"
+      ]
+     },
+     {
+      "payments": [
+       "Credit cards",
+       "Debit cards"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 13,
+    "title": "Potenza Building Materials Ltd.",
+    "place_id": "ChIJxQcnMAAbdkgRBv_xstPptQg",
+    "data_id": "0x48761b00302707c5:0x8b5e9d3b2f1ff06",
+    "data_cid": "627664818537627398",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x48761b00302707c5%3A0x8b5e9d3b2f1ff06&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x48761b00302707c5%3A0x8b5e9d3b2f1ff06&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 51.520805599999996,
+     "longitude": -0.1081389
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJxQcnMAAbdkgRBv_xstPptQg",
+    "provider_id": "/g/11zk7qdr1t",
+    "rating": 5,
+    "reviews": 2,
+    "type": "Furniture wholesaler",
+    "types": [
+     "Furniture wholesaler",
+     "Furniture manufacturer",
+     "Office furniture store"
+    ],
+    "type_id": "furniture_wholesaler",
+    "type_ids": [
+     "furniture_wholesaler",
+     "furniture_manufacturer",
+     "office_furniture_store"
+    ],
+    "address": "4th Floor, 18 St Cross St, London EC1N 8UN, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+     "wednesday": "Open 24 hours",
+     "thursday": "Open 24 hours",
+     "friday": "Open 24 hours",
+     "saturday": "Open 24 hours",
+     "sunday": "Open 24 hours",
+     "monday": "Open 24 hours",
+     "tuesday": "Open 24 hours"
+    },
+    "phone": "+44 7360 787138",
+    "website": "https://potenza-uk.net/",
+    "extensions": [
+     {
+      "payments": [
+       "Credit cards",
+       "Debit cards"
+      ]
+     }
+    ],
+    "user_review": "\"Ordering in bulk saved us a ton, and the delivery was fast and hassle-free.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPGcBgcKwGhFVDLPxLB0MSyoqCb70om_fnNh-BIOgRJ_Dzgv5k1iLO-0HQr1SDJ6ZjAOl78YmBd5Rh2lXQDOsKKET3xZXY1ixnxweSYmlapWXju7hY2FT4t3759O5s5vUWtEhSFbhm7okOe=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/1VbJjHicHcRNUsIwGADQE4WmlBh1xgWlFKXVAEVp2TAQYz4gP7UJbfGSrr0NM77F-_sF72v3GAQKooG0VipxcaLh1nhh_IBbHchm7xziLhhP2lrpxYzHkmfdDNKPJF_0eYxfi6v9nhwotnr3Zd4AxS9Mrua75Ee25Bwec4bw87IJi2R-tz2NmaL3lY4_yQqGqlwmzGXZdB3127IKj73pO1FUWu3rTXm6UKiG6XrkI0oeGHGkfd_4KRTpATS1ZyaeuhBjjOB_jswNr6FHPw"
+   },
+   {
+    "position": 14,
+    "title": "The Decor Shop",
+    "place_id": "ChIJO1-V_FsPdkgRB1MjwuCKMSY",
+    "data_id": "0x48760f5bfc955f3b:0x26318ae0c2235307",
+    "data_cid": "2752133545234486023",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x48760f5bfc955f3b%3A0x26318ae0c2235307&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x48760f5bfc955f3b%3A0x26318ae0c2235307&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 51.5030137,
+     "longitude": -0.2266827
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJO1-V_FsPdkgRB1MjwuCKMSY",
+    "provider_id": "/g/11lwqp10p8",
+    "rating": 5,
+    "reviews": 5,
+    "type": "Wedding store",
+    "types": [
+     "Wedding store",
+     "Haberdashery",
+     "Party store"
+    ],
+    "type_id": "wedding_store",
+    "type_ids": [
+     "wedding_store",
+     "haberdashery",
+     "party_store"
+    ],
+    "address": "185B Shepherd's Bush Market, London, W12 8DF, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Open · Closes 6 PM",
+    "hours": "Open · Closes 6 PM",
+    "operating_hours": {
+     "wednesday": "10 AM–6 PM",
+     "thursday": "10 AM–6 PM",
+     "friday": "10 AM–6 PM",
+     "saturday": "10 AM–6 PM",
+     "sunday": "Closed",
+     "monday": "10 AM–6 PM",
+     "tuesday": "10 AM–6 PM"
+    },
+    "phone": "+44 7828 323591",
+    "extensions": [
+     {
+      "service_options": [
+       "In-store pickup",
+       "In-store shopping"
+      ]
+     },
+     {
+      "planning": [
+       "Quick visit"
+      ]
+     },
+     {
+      "payments": [
+       "Credit cards",
+       "Debit cards",
+       "NFC mobile payments"
+      ]
+     }
+    ],
+    "service_options": {
+     "in_store_shopping": true,
+     "in_store_pickup": true
+    },
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNQcpzGgEJaEp2XffFx9yui_7lLrel9ykH5fiNve1i5pELBSY0YkLaAevAKy0btmHg7r3QjiNv7oVGcnXusDOEOx3ioYZJZIyGpGn7LRGRUTBFTlsryFy-UEGv3Gc3OcGtTKN9UXA=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/_L4WpXicHcpLjoIwAADQEyHVxhBMXOBY6odAVDDgxmBTClrapi1o54ZzBG8zxs1bvfdfa60yC9_nLZwwKRmng6GaSGGpsBMie5_p2hiPGD_6GRXv0wNRv5ihXY3UrGya-BW6obsGPNGUh-6xmTddOtJpN1coWZ0qUD2SOqJjtHfgZvsNCzQ83D8lkGdMRDmYdYayF-xkddldtg4rLILkiI9FvopzbrSLnVcgPEJMYEawzfdpWJTR8jkFAHjtV-KJf7SvRoE"
+   },
+   {
+    "position": 15,
+    "title": "Auraa Design",
+    "place_id": "ChIJN8Uk3AgUdkgRW3mPT5ATSPY",
+    "data_id": "0x48761408dc24c537:0xf64813904f8f795b",
+    "data_cid": "17746455842184460635",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x48761408dc24c537%3A0xf64813904f8f795b&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x48761408dc24c537%3A0xf64813904f8f795b&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 51.603319899999995,
+     "longitude": -0.296997
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJN8Uk3AgUdkgRW3mPT5ATSPY",
+    "provider_id": "/g/11clt8rrsh",
+    "rating": 5,
+    "reviews": 19,
+    "type": "Office furniture store",
+    "types": [
+     "Office furniture store",
+     "Furniture accessories supplier",
+     "Furniture store",
+     "Interior architect office",
+     "Office refurbishment service",
+     "Office supply store"
+    ],
+    "type_id": "office_furniture_store",
+    "type_ids": [
+     "office_furniture_store",
+     "furniture_accessories_supplier",
+     "furniture_store",
+     "interior_architect_office",
+     "office_refurbishment_service",
+     "office_supply_store"
+    ],
+    "address": "582 Honeypot Ln, Stanmore, HA7 1JS, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+     "wednesday": "Open 24 hours",
+     "thursday": "Open 24 hours",
+     "friday": "Open 24 hours",
+     "saturday": "Open 24 hours",
+     "sunday": "Open 24 hours",
+     "monday": "Open 24 hours",
+     "tuesday": "Open 24 hours"
+    },
+    "phone": "+44 20 3915 8008",
+    "website": "https://www.auraadesign.co.uk/?utm_source=Google&utm_medium=Organic&utm_campaign=Uberall&utm_id=Google",
+    "extensions": [
+     {
+      "service_options": [
+       "White glove service",
+       "Delivery",
+       "Onsite services"
+      ]
+     },
+     {
+      "accessibility": [
+       "Wheelchair accessible entrance",
+       "Wheelchair accessible parking lot"
+      ]
+     },
+     {
+      "offerings": [
+       "Assembly service",
+       "Installation service"
+      ]
+     },
+     {
+      "crowd": [
+       "LGBTQ+ friendly",
+       "Transgender safespace"
+      ]
+     },
+     {
+      "planning": [
+       "Appointment required"
+      ]
+     },
+     {
+      "payments": [
+       "Checks",
+       "Credit cards",
+       "Debit cards"
+      ]
+     },
+     {
+      "parking": [
+       "Free parking lot"
+      ]
+     }
+    ],
+    "service_options": {
+     "delivery": true
+    },
+    "user_review": "\"High quality product and great customer service.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNuAGAWiX_nG5Pj9CS6zegFbXz6S0G27c7d72ewDSGhrfw0fZTeDpbhM7cr0UH34fTN-y7A0rukCf7lfhd9LW54tiaR6r5uBAVK9sET4_74HoSExXWLXjwPikWjQLfxpPL1aJHl=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/rexj23icHcRRDoIgAADQE6lUKrOtD7LSlTVLS9dPMwTRSBxgVhfsDN2mrffxvh-mdaemlsXZxKyEqDjpFZFYtJq02sTiblWyUMrAykL-o-P3XY8ClNX5pQ2cuPH8xH2TanXN324CgjHEsIRjMiySgEk6AHpOyaK7si3EEhzDiU3TnfGCCMj-5lPIKSu9KHNsXRcHVzr9HJ02nlqm9gXaoUiWzzyL8maI61vW7CP67OJoVKxDPhtGAACD_cdG-wM78kQL"
+   },
+   {
+    "position": 16,
+    "title": "Leyland SDM London Bridge | DIY & Decorating Store",
+    "place_id": "ChIJh9rO-1cDdkgRJyZ9fyaw60E",
+    "data_id": "0x48760357fbceda87:0x41ebb0267f7d2627",
+    "data_cid": "4750083911386474023",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x48760357fbceda87%3A0x41ebb0267f7d2627&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x48760357fbceda87%3A0x41ebb0267f7d2627&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 51.50492,
+     "longitude": -0.093397
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJh9rO-1cDdkgRJyZ9fyaw60E",
+    "provider_id": "/g/1vc818l1",
+    "rating": 4.4,
+    "reviews": 271,
+    "type": "Do-it-yourself shop",
+    "types": [
+     "Do-it-yourself shop",
+     "Building materials store",
+     "Electrical supply store",
+     "Hardware store",
+     "Lighting store",
+     "Paint store",
+     "Plumbing supply store",
+     "Safety equipment supplier",
+     "Tool store",
+     "Woodworking supply store"
+    ],
+    "type_id": "do_it_yourself_store",
+    "type_ids": [
+     "do_it_yourself_store",
+     "building_materials_store",
+     "electrical_supply_store",
+     "hardware_store",
+     "lighting_store",
+     "paint_store",
+     "plumbing_supply_store",
+     "safety_equipment_supplier",
+     "tool_store",
+     "woodworking_supply_store"
+    ],
+    "address": "38-40 Southwark St, London, SE1 1UN, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Open · Closes 7 PM",
+    "hours": "Open · Closes 7 PM",
+    "operating_hours": {
+     "wednesday": "6:30 AM–7 PM",
+     "thursday": "6:30 AM–7 PM",
+     "friday": "6:30 AM–7 PM",
+     "saturday": "7:30 AM–6 PM",
+     "sunday": "11 AM–5 PM",
+     "monday": "6:30 AM–7 PM",
+     "tuesday": "6:30 AM–7 PM"
+    },
+    "phone": "+44 20 7407 7778",
+    "website": "https://leylandsdm.co.uk/amlocator/london-bridge/?utm_source=google&utm_medium=organic&utm_campaign=LPM_google_London_Bridge",
+    "description": "Trade & consumer decorator's merchant. Established chain providing tools, paint & materials for professional & home decoration.",
+    "extensions": [
+     {
+      "service_options": [
+       "Delivery",
+       "Onsite services"
+      ]
+     },
+     {
+      "accessibility": [
+       "Wheelchair accessible entrance"
+      ]
+     },
+     {
+      "planning": [
+       "Quick visit"
+      ]
+     },
+     {
+      "payments": [
+       "Credit cards",
+       "Debit cards",
+       "NFC mobile payments"
+      ]
+     }
+    ],
+    "service_options": {
+     "delivery": true
+    },
+    "user_review": "\"Good selection of bits.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOOH4OON_eihnDSMjkq75V5Pnu8ViVM2fPUBOliAF1xWpM621vdInL3k80W00GtA335-SzoTKvctnCkuDRUc_xqAE2uJoNFYZMnqvhTqKBngKvcCxsG88lmnG8OYqoXUo97MK4V_MMMVBvW=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/jf0WFHicHcrBToMwGADgJ2IUGK6aeADmULHrso2yeSGmIkXKX7qWSnxJz76NZpfv9P3-CGtHc-f7UkSLVqlWNpNpLlyBbcAuuBr89vJmjMeNn2RulAOlj0tKt3XTCVgfyGevVzGLdzBh1jESfuzKlMou2QRzNZKbMHDvT_AS9RhVCOU2iaLYO3yrY-G4hayf1vuS17NOHsLpWW0351cC2omjLlJo_082mxxjOUCO6VmrU6luV6RYspoQwlJX3X8FCCFPXOUe_AGd4Uc5"
+   },
+   {
+    "position": 17,
+    "title": "YUVILITE Lighting",
+    "place_id": "ChIJ9RFHdx8RdkgRUcbmB9GhzSw",
+    "data_id": "0x4876111f774711f5:0x2ccda1d107e6c651",
+    "data_cid": "3228414427047315025",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x4876111f774711f5%3A0x2ccda1d107e6c651&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x4876111f774711f5%3A0x2ccda1d107e6c651&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 51.5555015,
+     "longitude": -0.26170689999999996
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ9RFHdx8RdkgRUcbmB9GhzSw",
+    "provider_id": "/g/1tdm7t7k",
+    "rating": 4.8,
+    "reviews": 89,
+    "type": "Lighting store",
+    "types": [
+     "Lighting store",
+     "Electrical products wholesaler"
+    ],
+    "type_id": "lighting_store",
+    "type_ids": [
+     "lighting_store",
+     "electrical_wholesaler"
+    ],
+    "address": "Unit 1, Drury Way Industrial Estate, Laxcon House, 5 Laxcon Cl, London NW10 0TG, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Open · Closes 5 PM",
+    "hours": "Open · Closes 5 PM",
+    "operating_hours": {
+     "wednesday": "9 AM–5 PM",
+     "thursday": "9 AM–5 PM",
+     "friday": "9 AM–5 PM",
+     "saturday": "Closed",
+     "sunday": "Closed",
+     "monday": "9 AM–5 PM",
+     "tuesday": "9 AM–5 PM"
+    },
+    "phone": "+44 20 8202 1355",
+    "website": "https://www.yuvilite.com/",
+    "extensions": [
+     {
+      "service_options": [
+       "Delivery",
+       "In-store pickup",
+       "In-store shopping",
+       "Onsite services"
+      ]
+     },
+     {
+      "planning": [
+       "Quick visit"
+      ]
+     },
+     {
+      "payments": [
+       "Credit cards",
+       "Debit cards",
+       "NFC mobile payments"
+      ]
+     },
+     {
+      "parking": [
+       "On-site parking"
+      ]
+     }
+    ],
+    "service_options": {
+     "in_store_shopping": true,
+     "in_store_pickup": true,
+     "delivery": true
+    },
+    "user_review": "\"Quality lighting and awesome prices.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPxpLw2ylfxdGRKbCqGEI_8L5pwHU6VIy89DIw86Wf30CLGyWhj0jxcjXQCBBAw8E4u6EAd9C2-UTMJuwiCJuCKhIkvhQW9EGReN1zLVNz37fGwDOoxHEOXXR_g0V5KdAZ3xkoyfA=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/GGZ_N3icHcTvEoEwAADwJ0ojUu58mNlNSuiozhfH-jNJSytb3tAjeBt3fh9-3w9r21rMdL1kxiDnPC_TTqQN5VWbVu2A8oeeNxchNCp0iF51-dip2pOjvsxUQgL3ip4EO2fLm9RydTRDp7fspSMtM8oMgDzSR6wAhaJFvEeLBZQWHncmhomNRtrxsFl38obWHXKZc3-xfWRjEqT-8O2F_tuYZkQut1yt8DaOg3MOwombwJOh7rzP4FwOAQAa-0-16gfmUUSt"
+   },
+   {
+    "position": 18,
+    "title": "House Interiors London",
+    "place_id": "ChIJVbFk8rsPdkgRIN-FMBRLmi8",
+    "data_id": "0x48760fbbf264b155:0x2f9a4b143085df20",
+    "data_cid": "3430136616281562912",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x48760fbbf264b155%3A0x2f9a4b143085df20&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x48760fbbf264b155%3A0x2f9a4b143085df20&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 51.4911617,
+     "longitude": -0.2067271
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJVbFk8rsPdkgRIN-FMBRLmi8",
+    "provider_id": "/g/11llz2ql9t",
+    "rating": 5,
+    "reviews": 3,
+    "type": "Furniture store",
+    "types": [
+     "Furniture store",
+     "Bedroom furniture store",
+     "Fitted furniture supplier",
+     "Furniture accessories",
+     "Furniture maker",
+     "Furniture manufacturer",
+     "Furniture wholesaler",
+     "Kitchen furniture store",
+     "Kitchen remodeler",
+     "Kitchen supply store"
+    ],
+    "type_id": "furniture_store",
+    "type_ids": [
+     "furniture_store",
+     "bedroom_furniture_store",
+     "fitted_furniture_supplier",
+     "furniture_accessories",
+     "furniture_maker",
+     "furniture_manufacturer",
+     "furniture_wholesaler",
+     "kitchen_furniture_store",
+     "kitchen_remodeler",
+     "kitchen_supply_store"
+    ],
+    "address": "169 North End Rd, London, W14 9NH, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Open · Closes 6 PM",
+    "hours": "Open · Closes 6 PM",
+    "operating_hours": {
+     "wednesday": "8 AM–6 PM",
+     "thursday": "8 AM–6 PM",
+     "friday": "8 AM–6 PM",
+     "saturday": "Closed",
+     "sunday": "Closed",
+     "monday": "8 AM–6 PM",
+     "tuesday": "8 AM–6 PM"
+    },
+    "phone": "+44 20 3972 1339",
+    "website": "http://house-interiors.co.uk/",
+    "extensions": [
+     {
+      "service_options": [
+       "Delivery"
+      ]
+     },
+     {
+      "payments": [
+       "Credit cards",
+       "Debit cards",
+       "NFC mobile payments"
+      ]
+     }
+    ],
+    "service_options": {
+     "delivery": true
+    },
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmP9PtyXy_HqtrNcWGWTHo-89JkzjMGlB50rMiSrSjAmC8j3QY1bAGdE8lyNzOI4iBJUqEL0ozx2yCPZYUEAMOrRxoWazZoY01YRIhuWMpBCRjzdt8fGIAoKOHBfO2zD9FEgj1gokw=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/QMqp8XicHcRRboIwGADgEyFFXQImPhSGgBNhoEF8Ma5AsRZ-bOuU3nBH8DYm-x6-11-r1CAXpsnb2YQCUF7fZS0I9Kru1YRAZ1JxltIg0sTe78C71EnVeBhP4U2JLSmCYheCYTvrq2ZxwN0PJOJLLnKGO89ms-_S-sFB5dt83Ookml_c9f7mbxDo53T00mO593GciOwJxVkfoURWmUXtvYgH18uYrpTdBBGGryR0m2SqP52VT5lF4fpYPiyEkNH-T4z-DVOTRfY"
+   },
+   {
+    "position": 19,
+    "title": "Round Two Retro",
+    "place_id": "ChIJ0R91GIoddkgRfD24f1-mago",
+    "data_id": "0x48761d8a18751fd1:0xa6aa65f7fb83d7c",
+    "data_cid": "750595217005493628",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x48761d8a18751fd1%3A0xa6aa65f7fb83d7c&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x48761d8a18751fd1%3A0xa6aa65f7fb83d7c&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 51.5894802,
+     "longitude": -0.0043123
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ0R91GIoddkgRfD24f1-mago",
+    "provider_id": "/g/11v62q751w",
+    "rating": 4.8,
+    "reviews": 20,
+    "type": "Furniture store",
+    "types": [
+     "Furniture store",
+     "Antique furniture store",
+     "Art dealer",
+     "Bar stool supplier",
+     "Furniture wholesaler",
+     "Glass & mirror shop",
+     "Lighting store",
+     "Poster store",
+     "Pottery store",
+     "Rug store"
+    ],
+    "type_id": "furniture_store",
+    "type_ids": [
+     "furniture_store",
+     "antique_furniture_store",
+     "art_dealer",
+     "bar_stool_supplier",
+     "furniture_wholesaler",
+     "glass_and_mirror_shop",
+     "lighting_store",
+     "poster_store",
+     "pottery_store",
+     "rug_store"
+    ],
+    "address": "Unit 1, 1, Golden Parade, London E17 3HU, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Open · Closes 6:30 PM",
+    "hours": "Open · Closes 6:30 PM",
+    "operating_hours": {
+     "wednesday": "9:30 AM–6:30 PM",
+     "thursday": "Closed",
+     "friday": "9:30 AM–6:30 PM",
+     "saturday": "9:30 AM–6:30 PM",
+     "sunday": "9:30 AM–6:30 PM",
+     "monday": "9:30 AM–6:30 PM",
+     "tuesday": "9:30 AM–6:30 PM"
+    },
+    "phone": "+44 7380 163778",
+    "extensions": [
+     {
+      "service_options": [
+       "Curbside pickup",
+       "Delivery",
+       "In-store pickup",
+       "In-store shopping",
+       "Onsite services",
+       "Same-day delivery"
+      ]
+     },
+     {
+      "accessibility": [
+       "Wheelchair accessible entrance",
+       "Wheelchair accessible seating"
+      ]
+     },
+     {
+      "offerings": [
+       "Repair services",
+       "Used goods"
+      ]
+     },
+     {
+      "amenities": [
+       "Gender-neutral restroom",
+       "Wi-Fi",
+       "Free Wi-Fi"
+      ]
+     },
+     {
+      "crowd": [
+       "LGBTQ+ friendly",
+       "Transgender safespace"
+      ]
+     },
+     {
+      "planning": [
+       "Quick visit"
+      ]
+     },
+     {
+      "payments": [
+       "Credit cards",
+       "Debit cards",
+       "NFC mobile payments"
+      ]
+     },
+     {
+      "parking": [
+       "Paid parking lot",
+       "Paid street parking"
+      ]
+     }
+    ],
+    "unsupported_extensions": [
+     {
+      "accessibility": [
+       "Assistive hearing loop",
+       "Wheelchair accessible parking lot",
+       "Wheelchair accessible restroom"
+      ]
+     }
+    ],
+    "service_options": {
+     "in_store_shopping": true,
+     "curbside_pickup": true,
+     "delivery": true
+    },
+    "user_review": "\"Really lovely shop and staff with good quality items and product knowledge.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmP6th7p_IXd951Sr39DRuqxvUQlraUrNmkiMP16uVtCvU8bKuEYDLmQ9UmNF9_Uv2RkdNXM0jR1qLLQou_20t7WgYKRPoepKNRNSNDr3-G4U80_D6jP28rbuaef-kDXRptugs2NmP1oUGA=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/pWjzSnicHcTNboIwAADgJ6q04BCW7GDsNAZsSk0VTwSxFoXS2h-2p9x9b7Nk3-H7_em9N-49isY-WUit5SiCE7bTkxeTX3RaRdK2zoHORevNbEZFU9-vTLOvb_kbOtokxyy8vmdejbbllqjhcaAoDSe_mXl2LcLnBZeqyrki27zhc8yGG6kP8MnQqywrHZoY-tVZXgpGtTAFYeRIsE3Abskz2OD0SePMXkMr7mDANTM-SBcTRZHmu_XHF4IQgv7_Dkx_kGZG0w"
+   },
+   {
+    "position": 20,
+    "title": "Urban Unison",
+    "place_id": "ChIJeSjE87ocdkgRPxehsOyAdGU",
+    "data_id": "0x48761cbaf3c42879:0x657480ecb0a1173f",
+    "data_cid": "7310609849193142079",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x48761cbaf3c42879%3A0x657480ecb0a1173f&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x48761cbaf3c42879%3A0x657480ecb0a1173f&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 51.527085899999996,
+     "longitude": -0.0798628
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJeSjE87ocdkgRPxehsOyAdGU",
+    "provider_id": "/g/1tmz6f29",
+    "rating": 3.7,
+    "reviews": 3,
+    "type": "Home goods store",
+    "types": [
+     "Home goods store",
+     "Appliance store",
+     "Baby store",
+     "Bathroom supply store",
+     "Countertop store",
+     "Furniture accessories",
+     "Furniture wholesaler",
+     "Health and beauty shop",
+     "Interior Decorator",
+     "Outdoor furniture store"
+    ],
+    "type_id": "home_goods_store",
+    "type_ids": [
+     "home_goods_store",
+     "appliance_store",
+     "baby_store",
+     "bathroom_supply_store",
+     "countertop_store",
+     "furniture_accessories",
+     "furniture_wholesaler",
+     "health_and_beauty_shop",
+     "interior_decorator",
+     "outdoor_furniture_store"
+    ],
+    "address": "House Dept 257, Rosden, 372 Old St, London EC1V 9LL, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Open · Closes 5 PM",
+    "hours": "Open · Closes 5 PM",
+    "operating_hours": {
+     "wednesday": "9 AM–5 PM",
+     "thursday": "9 AM–5 PM",
+     "friday": "9 AM–5 PM",
+     "saturday": "9 AM–5 PM",
+     "sunday": "Closed",
+     "monday": "9 AM–5 PM",
+     "tuesday": "9 AM–5 PM"
+    },
+    "phone": "+44 844 884 9645",
+    "website": "https://www.urbanunison.co.uk/",
+    "extensions": [
+     {
+      "service_options": [
+       "Delivery"
+      ]
+     },
+     {
+      "planning": [
+       "Quick visit"
+      ]
+     },
+     {
+      "payments": [
+       "Credit cards",
+       "Debit cards",
+       "NFC mobile payments"
+      ]
+     }
+    ],
+    "service_options": {
+     "delivery": true
+    },
+    "user_review": "\"Good quality product, very happy with it\"",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPiC9UsAiGeDbCm5nko5WxvQH-pFQE6tE-fppioiCGacmU-fceWr8NAdUcJRaxfxCjYdDmY3IKspRwyTGC3Yx6b41Q3XNkIG09ngy7MGu_29GCOC_KY_OxcPS_AVhANDT9BusqDOA=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/p2Lsd3icHcRZEsEwAADQE0VLbTXjI1JiGa2Wol-dinShWTQpcURHcBsz3sf7fkqtpZpYVl06nUKIoqatog0RXFOuO0Qwq2gypQBRFkRPWbNdhdxYwQpT74LYgN_F4GSe4RLIRTgf6jnIpaxEhXBGWAxyQk_N2IfXmKyjzOQG3ZKrxxJntVEyer0PGDmJGV763dA5-_cVtl1evEdb3KY9F6MApZskDQzZ7VN4LKHvHdxZqx5eAKevrm3boPxPAP8BSVtFXQ"
+   }
+  ],
+  "serpapi_pagination": {
+   "next": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&ll=%4051.5072%2C-0.1276%2C12z&q=home+accessories+wholesaler&start=20&type=search"
+  }
+ }
+}

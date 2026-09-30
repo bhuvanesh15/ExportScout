@@ -1,0 +1,1042 @@
+{
+ "engine": "amazon_product",
+ "params": {
+  "asin": "B07VXPBYK9",
+  "amazon_domain": "amazon.co.uk"
+ },
+ "fetched_at": "2026-09-30T10:34:15+00:00",
+ "data": {
+  "search_metadata": {
+   "id": "6abce595a3882de93ba26ff7",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/sF3ooChggSmHZIWfj54oRazOmd7r10QeWq8JByWCge0/6abce595a3882de93ba26ff7.json",
+   "markdown_endpoint": "https://serpapi.com/searches/sF3ooChggSmHZIWfj54oRazOmd7r10QeWq8JByWCge0/6abce595a3882de93ba26ff7.md",
+   "created_at": "2026-09-30 10:33:57 UTC",
+   "processed_at": "2026-09-30 10:33:57 UTC",
+   "amazon_product_url": "https://www.amazon.co.uk/dp/B07VXPBYK9/?",
+   "raw_html_file": "https://serpapi.com/searches/sF3ooChggSmHZIWfj54oRazOmd7r10QeWq8JByWCge0/6abce595a3882de93ba26ff7.html",
+   "total_time_taken": 18.22
+  },
+  "search_parameters": {
+   "engine": "amazon_product",
+   "asin": "B07VXPBYK9",
+   "amazon_domain": "amazon.co.uk",
+   "device": "desktop"
+  },
+  "product_results": {
+   "categories": [
+    {
+     "position": 1,
+     "name": "Home & Kitchen",
+     "link": "https://www.amazon.co.uk/Kitchen-cookware-glassware-cutlery-pans/b/ref=dp_bc_1?ie=UTF8&node=11052681",
+     "node": "11052681",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&device=desktop&engine=amazon&node=11052681"
+    },
+    {
+     "position": 2,
+     "name": "Home Accessories",
+     "link": "https://www.amazon.co.uk/Home-Accessories-Homeware-Furnishings-Kitchen/b/ref=dp_bc_2?ie=UTF8&node=376320011",
+     "node": "376320011",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&device=desktop&engine=amazon&node=376320011"
+    },
+    {
+     "position": 3,
+     "name": "Candles & Holders",
+     "link": "https://www.amazon.co.uk/Candles-Holders/b/ref=dp_bc_3?ie=UTF8&node=3028522031",
+     "node": "3028522031",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&device=desktop&engine=amazon&node=3028522031"
+    },
+    {
+     "position": 4,
+     "name": "Candleholders",
+     "link": "https://www.amazon.co.uk/Candleholders/b/ref=dp_bc_4?ie=UTF8&node=3028535031",
+     "node": "3028535031",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&device=desktop&engine=amazon&node=3028535031"
+    },
+    {
+     "position": 5,
+     "name": "Decorative Candle Lanterns",
+     "link": "https://www.amazon.co.uk/Decorative-Candle-Lanterns/b/ref=dp_bc_5?ie=UTF8&node=3028543031",
+     "node": "3028543031",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&device=desktop&engine=amazon&node=3028543031"
+    }
+   ],
+   "asin": "B07VXPBYK9",
+   "title": "JHY DESIGN Set of 2 Vintage Lanterns, Antique Black Grey Brushed Metal Candle Lanterns with Tempered Glass Panels, Decorative Hanging Lanterns for Fireplace, Garden, Porch, Wedding & Home Decor",
+   "link": "https://www.amazon.co.uk/JHY-DESIGN-Decorative-Lanterns-Weddings/dp/B07VXPBYK9/",
+   "link_clean": "https://www.amazon.co.uk/dp/B07VXPBYK9/",
+   "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B07VXPBYK9&device=desktop&engine=amazon_product",
+   "variants": [
+    {
+     "title": "Colour Name",
+     "items": [
+      {
+       "position": 1,
+       "asin": "B07VXPBYK9",
+       "name": "Antique Grey Brush",
+       "image": "https://m.media-amazon.com/images/I/51boUcFnItL._SS64_.jpg",
+       "selected": true,
+       "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B07VXPBYK9&device=desktop&engine=amazon_product"
+      },
+      {
+       "position": 2,
+       "asin": "B0FPLXCQNB",
+       "name": "Metal - Black",
+       "image": "https://m.media-amazon.com/images/I/41m7rjzmsbL._SS64_.jpg",
+       "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0FPLXCQNB&device=desktop&engine=amazon_product"
+      },
+      {
+       "position": 3,
+       "asin": "B0GQYGRMRK",
+       "name": "Gold 2",
+       "image": "https://m.media-amazon.com/images/I/51BS58a4OdL._SS64_.jpg",
+       "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0GQYGRMRK&device=desktop&engine=amazon_product"
+      },
+      {
+       "position": 4,
+       "asin": "B0GR4267TR",
+       "name": "Gold 39cm",
+       "image": "https://m.media-amazon.com/images/I/51OfExeGV6L._SS64_.jpg",
+       "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0GR4267TR&device=desktop&engine=amazon_product"
+      },
+      {
+       "position": 5,
+       "asin": "B0FPLYW5WG",
+       "name": "Jet Black",
+       "image": "https://m.media-amazon.com/images/I/514aKy0iJeL._SS64_.jpg",
+       "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0FPLYW5WG&device=desktop&engine=amazon_product"
+      },
+      {
+       "position": 6,
+       "asin": "B08L5V9CF8",
+       "name": "Silver",
+       "image": "https://m.media-amazon.com/images/I/41t+korU18L._SS64_.jpg",
+       "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B08L5V9CF8&device=desktop&engine=amazon_product"
+      }
+     ]
+    }
+   ],
+   "brand": "Visit the JHY DESIGN Store",
+   "thumbnail": "https://m.media-amazon.com/images/I/71cCNfGP1wL._AC_SY300_SX300_QL70_ML2_.jpg",
+   "thumbnails": [
+    "https://m.media-amazon.com/images/I/71cCNfGP1wL._AC_SL1254_.jpg",
+    "https://m.media-amazon.com/images/I/71WzYG548+L._AC_SL1254_.jpg",
+    "https://m.media-amazon.com/images/I/71FoLFPP0eL._AC_SL1254_.jpg",
+    "https://m.media-amazon.com/images/I/71zKc1SrymL._AC_SL1254_.jpg",
+    "https://m.media-amazon.com/images/I/71-hiLYQCIL._AC_SL1254_.jpg",
+    "https://m.media-amazon.com/images/I/61A1zJrElML._AC_SL1000_.jpg",
+    "https://m.media-amazon.com/images/I/81JGBvKvFYL._AC_SL1500_.jpg"
+   ],
+   "rating": 4.1,
+   "reviews": 1899,
+   "price": "£43.99",
+   "extracted_price": 43.99,
+   "price_unit": "£22.00 / count",
+   "extracted_price_unit": 22.0,
+   "old_price": "£60.98",
+   "extracted_old_price": 60.98,
+   "delivery": [
+    "FREE delivery Saturday, 3 October. Details",
+    "Or fastest delivery Tomorrow, 1 October. Order within 5 hrs 40 mins. Details"
+   ],
+   "stock": "In stock"
+  },
+  "purchase_options": {
+   "single_offer": {
+    "price": "£43.99",
+    "extracted_price": 43.99,
+    "price_unit": "£22.00 / count",
+    "extracted_price_unit": 22.0,
+    "delivery": [
+     "FREE delivery Saturday, 3 October. Details",
+     "Or fastest delivery Tomorrow, 1 October. Order within 5 hrs 40 mins. Details"
+    ],
+    "stock": "In stock",
+    "features": {
+     "dispatches_from": {
+      "text": "Amazon",
+      "details": {
+       "heading": "Dispatches from",
+       "content": "Amazon"
+      }
+     },
+     "sold_by": {
+      "text": "JHY DESIGN",
+      "details": {
+       "heading": "Sold by",
+       "content": "JHY DESIGN"
+      },
+      "link": {
+       "text": "JHY DESIGN",
+       "link": "https://www.amazon.co.uk/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1HNNK65WPQZXQ&asin=B07VXPBYK9&ref_=dp_merchant_link&isAmazonFulfilled=1"
+      }
+     },
+     "returns": {
+      "text": "Returnable within 30 days of receipt",
+      "details": {
+       "heading": "Returnable within 30 days of receipt",
+       "content": "Item can be returned in its original condition for a full refund within 30 days of receipt"
+      },
+      "link": {
+       "text": "Read full return policy",
+       "link": "https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=GKM69DUUYKQWKWX7&ref_=dp_ret_policy"
+      }
+     },
+     "packaging": {
+      "text": "Ships in product packaging",
+      "details": {
+       "heading": "Ships in product packaging",
+       "content": "This item has been tested to certify that it can dispatch safely in its original box or bag to avoid unnecessary packaging. Since 2015, we have reduced the weight of outbound packaging per shipment by 43% on average, that’s over 3 million tons of packaging material.If you still require Amazon packaging for this item, choose “Ship in Amazon packaging” at checkout. Learn more"
+      },
+      "link": {
+       "text": "Learn more",
+       "link": "https://www.amazon.co.uk/sipp_home"
+      }
+     }
+    }
+   }
+  },
+  "item_specifications": {
+   "colour": "Antique Grey Brush",
+   "material": "Metal, Tempered Glass",
+   "brand": "JHY DESIGN",
+   "product_dimensions": "20.3L x 20.3W x 40.6H centimetres",
+   "finish_type": "Distressed,Metal",
+   "item_weight": "2.68 Kilograms",
+   "number_of_pieces": "2",
+   "theme": "Wedding",
+   "item_diameter": "2.95 Inches",
+   "mounting_type": "freestanding"
+  },
+  "about_item": [
+   "VINTAGE ENGLISH COTTAGE STYLE- Bring timeless character to your home with these vintage decorative lanterns. Featuring an antique black metal finish with a subtle grey brushed effect, they create a charming rustic atmosphere that complements farmhouse, cottage and traditional interiors.",
+   "PREMIUM METAL FRAME & TEMPERED GLASS - Crafted from durable metal with clear tempered glass panels, these lanterns offer a refined decorative appearance while allowing candlelight or LED lights to shine beautifully from every angle. The detailed roof design and antique finish add an elegant handcrafted feel.",
+   "SET OF 2 SIZES FOR LAYERED DECOR - Includes two matching lantern sizes for flexible styling: Large Lantern: 19.5 x 19.5 x 41 cm; Small Lantern: 14 x 14 x 27 cm. Display them together for a layered look or separately throughout your home.",
+   "PLACE OR HANG ANYWHERE - Designed with a practical top hanging ring and stable base, these lanterns can be displayed on tables, shelves and fireplaces or hung in covered outdoor spaces such as porches, patios and garden areas.",
+   "VERSATILE HOME & EVENT DECOR - Perfect for creating a warm atmosphere in living rooms, hallways, gardens and special occasions. Ideal for fireplace styling, garden parties, weddings, Christmas decoration and farmhouse home accessories. Candles are not included."
+  ],
+  "bought_together": [
+   {
+    "position": 1,
+    "title": "JHY DESIGN Set of 2 Vintage Lanterns, Antique Black Grey Brushed Metal Candle Lanterns with Tempered Glass Panels, Decorative Hanging Lanterns for Fireplace, Garden, Porch, Wedding & Home Decor",
+    "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/71cCNfGP1wL._AC_UL116_SR116,116_.jpg",
+    "price": "£43.99",
+    "extracted_price": 43.99,
+    "price_unit": "£22.00/count",
+    "extracted_price_unit": 22.0,
+    "delivery": [
+     "Get it as soon as Saturday, Oct 3"
+    ],
+    "stock": "In stock"
+   },
+   {
+    "position": 2,
+    "title": "Ivyline S0073201037 Spaas Unscented Pillar Candle, ± 90 Hours, Ivory, 78mm Diameter, 200mm Height",
+    "link": "https://www.amazon.co.uk/Ivyline-S0073201037-Pillar-Candle-Ivory/dp/B008BI92EI/ref=pd_bxgy_thbs_d_sccl_1/000-0000000-0000000?pd_rd_w=xvZWJ&content-id=amzn1.sym.c74a04bb-1833-45ee-8b22-275d7d928695&pf_rd_p=c74a04bb-1833-45ee-8b22-275d7d928695&pf_rd_r=ZBXSMXE6NFCGB8TF0CQD&pd_rd_wg=6T2jw&pd_rd_r=e2c55748-c475-49b2-bfa6-3b88a2292df3&pd_rd_i=B008BI92EI&psc=1",
+    "asin": "B008BI92EI",
+    "link_clean": "https://www.amazon.co.uk/Ivyline-S0073201037-Pillar-Candle-Ivory/dp/B008BI92EI/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B008BI92EI&device=desktop&engine=amazon_product",
+    "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/51uha7nYQFL._AC_UL116_SR116,116_.jpg",
+    "price": "£5.80",
+    "extracted_price": 5.8,
+    "price_unit": "£7.84/kg",
+    "extracted_price_unit": 7.84,
+    "stock": "In stock"
+   }
+  ],
+  "related_products": [
+   {
+    "position": 1,
+    "title": "JHY DESIGN Candle Holders Set of 3 Decorative Lanterns 51&37 &24 cm High Vintage Style Hanging Candlesticks Metal for Indoor",
+    "link": "https://www.amazon.co.uk/JHY-DESIGN-Decorative-Candleholder-Weddings%EF%BC%88/dp/B08DHG25QH/ref=pd_sbs_d_sccl_1_1/000-0000000-0000000?pd_rd_w=voTo7&content-id=amzn1.sym.b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_p=b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_r=ZBXSMXE6NFCGB8TF0CQD&pd_rd_wg=6T2jw&pd_rd_r=e2c55748-c475-49b2-bfa6-3b88a2292df3&pd_rd_i=B08DHG25QH&psc=1",
+    "asin": "B08DHG25QH",
+    "link_clean": "https://www.amazon.co.uk/JHY-DESIGN-Decorative-Candleholder-Weddings%EF%BC%88/dp/B08DHG25QH/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B08DHG25QH&device=desktop&engine=amazon_product",
+    "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/814dPPiAVkL._AC_UL165_SR165,165_.jpg",
+    "rating": 4.4,
+    "reviews": 298,
+    "price": "£69.99",
+    "extracted_price": 69.99
+   },
+   {
+    "position": 2,
+    "title": "JHY DESIGN Set of 2 Hanging Lanterns 25cm High Vintage Metal Candle Holder Decorative Candlestick for Indoor Outdoor Event Pa",
+    "link": "https://www.amazon.co.uk/JHY-DESIGN-Decorative-Lanterns-25cm-Candleholder/dp/B082PTM7F7/ref=pd_sbs_d_sccl_1_2/000-0000000-0000000?pd_rd_w=voTo7&content-id=amzn1.sym.b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_p=b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_r=ZBXSMXE6NFCGB8TF0CQD&pd_rd_wg=6T2jw&pd_rd_r=e2c55748-c475-49b2-bfa6-3b88a2292df3&pd_rd_i=B082PTM7F7&psc=1",
+    "asin": "B082PTM7F7",
+    "link_clean": "https://www.amazon.co.uk/JHY-DESIGN-Decorative-Lanterns-25cm-Candleholder/dp/B082PTM7F7/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B082PTM7F7&device=desktop&engine=amazon_product",
+    "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/61Sp0smaMjL._AC_UL165_SR165,165_.jpg",
+    "rating": 4.6,
+    "reviews": 510,
+    "price": "£32.99",
+    "extracted_price": 32.99
+   },
+   {
+    "position": 3,
+    "title": "TRIROCKS Rustic Style Metal Candle Lantern Large Decorative Candlestick Holder with Tempered Glass for Thanksgiving Christmas",
+    "link": "https://www.amazon.co.uk/TRIROCKS-Decorative-Tempered-Christmas-Outdoors/dp/B0C53MSZJS/ref=pd_sbs_d_sccl_1_3/000-0000000-0000000?pd_rd_w=voTo7&content-id=amzn1.sym.b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_p=b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_r=ZBXSMXE6NFCGB8TF0CQD&pd_rd_wg=6T2jw&pd_rd_r=e2c55748-c475-49b2-bfa6-3b88a2292df3&pd_rd_i=B0C53MSZJS&psc=1",
+    "asin": "B0C53MSZJS",
+    "link_clean": "https://www.amazon.co.uk/TRIROCKS-Decorative-Tempered-Christmas-Outdoors/dp/B0C53MSZJS/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0C53MSZJS&device=desktop&engine=amazon_product",
+    "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/71egIbhc2DL._AC_UL165_SR165,165_.jpg",
+    "rating": 4.4,
+    "reviews": 287,
+    "price": "£42.98",
+    "extracted_price": 42.98
+   },
+   {
+    "position": 4,
+    "title": "JHY DESIGN Set of 2 Black Decorative Lanterns 44.5 cm & 34 cm Metal Candle Lanterns for Indoor Outdoor Events Paritie and Wed",
+    "link": "https://www.amazon.co.uk/JHY-DESIGN-Decorations-Lanterns-Moroccan/dp/B0BLYRRW7F/ref=pd_sbs_d_sccl_1_4/000-0000000-0000000?pd_rd_w=voTo7&content-id=amzn1.sym.b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_p=b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_r=ZBXSMXE6NFCGB8TF0CQD&pd_rd_wg=6T2jw&pd_rd_r=e2c55748-c475-49b2-bfa6-3b88a2292df3&pd_rd_i=B0BLYRRW7F&psc=1",
+    "asin": "B0BLYRRW7F",
+    "link_clean": "https://www.amazon.co.uk/JHY-DESIGN-Decorations-Lanterns-Moroccan/dp/B0BLYRRW7F/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0BLYRRW7F&device=desktop&engine=amazon_product",
+    "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/61xWqiDanzL._AC_UL165_SR165,165_.jpg",
+    "rating": 4.1,
+    "reviews": 328,
+    "price": "£53.99",
+    "extracted_price": 53.99
+   },
+   {
+    "position": 5,
+    "title": "TRIROCKS Set of 2 Stainless Steel Decorative Lanterns 34cm &26cm H Metal Candle Holders with Tempered Glass for Home Decor Li",
+    "link": "https://www.amazon.co.uk/TRIROCKS-Stainless-Decorative-Lanterns-Tempered/dp/B0DSJ49RSX/ref=pd_sbs_d_sccl_1_5/000-0000000-0000000?pd_rd_w=voTo7&content-id=amzn1.sym.b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_p=b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_r=ZBXSMXE6NFCGB8TF0CQD&pd_rd_wg=6T2jw&pd_rd_r=e2c55748-c475-49b2-bfa6-3b88a2292df3&pd_rd_i=B0DSJ49RSX&psc=1",
+    "asin": "B0DSJ49RSX",
+    "link_clean": "https://www.amazon.co.uk/TRIROCKS-Stainless-Decorative-Lanterns-Tempered/dp/B0DSJ49RSX/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0DSJ49RSX&device=desktop&engine=amazon_product",
+    "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/814WtpASuHL._AC_UL165_SR165,165_.jpg",
+    "rating": 3.8,
+    "reviews": 187,
+    "price": "£39.99",
+    "extracted_price": 39.99
+   },
+   {
+    "position": 6,
+    "title": "NUPTIO Lantern Black Outdoor for Candle: 35cm&24cm Tall Garden Candle Lanterns Indoor Hanging Decorative Memorial Metal Glass",
+    "link": "https://www.amazon.co.uk/NUPTIO-Lantern-Black-Outdoor-Candle/dp/B0CTXBBJC3/ref=pd_sbs_d_sccl_1_6/000-0000000-0000000?pd_rd_w=voTo7&content-id=amzn1.sym.b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_p=b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_r=ZBXSMXE6NFCGB8TF0CQD&pd_rd_wg=6T2jw&pd_rd_r=e2c55748-c475-49b2-bfa6-3b88a2292df3&pd_rd_i=B0CTXBBJC3&psc=1",
+    "asin": "B0CTXBBJC3",
+    "link_clean": "https://www.amazon.co.uk/NUPTIO-Lantern-Black-Outdoor-Candle/dp/B0CTXBBJC3/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0CTXBBJC3&device=desktop&engine=amazon_product",
+    "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/71PiZYa8UdL._AC_UL165_SR165,165_.jpg",
+    "rating": 4.3,
+    "reviews": 521,
+    "price": "£41.98",
+    "extracted_price": 41.98
+   }
+  ],
+  "related_product_sections": [
+   {
+    "title": "Customers who viewed this item also viewed",
+    "items": [
+     {
+      "position": 1,
+      "title": "JHY DESIGN Candle Holders Set of 3 Decorative Lanterns 51&37 &24 cm High Vintage Style Hanging Candlesticks Metal for Indoor",
+      "link": "https://www.amazon.co.uk/JHY-DESIGN-Decorative-Candleholder-Weddings%EF%BC%88/dp/B08DHG25QH/ref=pd_sbs_d_sccl_1_1/000-0000000-0000000?pd_rd_w=voTo7&content-id=amzn1.sym.b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_p=b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_r=ZBXSMXE6NFCGB8TF0CQD&pd_rd_wg=6T2jw&pd_rd_r=e2c55748-c475-49b2-bfa6-3b88a2292df3&pd_rd_i=B08DHG25QH&psc=1",
+      "asin": "B08DHG25QH",
+      "link_clean": "https://www.amazon.co.uk/JHY-DESIGN-Decorative-Candleholder-Weddings%EF%BC%88/dp/B08DHG25QH/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B08DHG25QH&device=desktop&engine=amazon_product",
+      "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/814dPPiAVkL._AC_UL165_SR165,165_.jpg",
+      "rating": 4.4,
+      "reviews": 298,
+      "price": "£69.99",
+      "extracted_price": 69.99
+     },
+     {
+      "position": 2,
+      "title": "JHY DESIGN Set of 2 Hanging Lanterns 25cm High Vintage Metal Candle Holder Decorative Candlestick for Indoor Outdoor Event Pa",
+      "link": "https://www.amazon.co.uk/JHY-DESIGN-Decorative-Lanterns-25cm-Candleholder/dp/B082PTM7F7/ref=pd_sbs_d_sccl_1_2/000-0000000-0000000?pd_rd_w=voTo7&content-id=amzn1.sym.b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_p=b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_r=ZBXSMXE6NFCGB8TF0CQD&pd_rd_wg=6T2jw&pd_rd_r=e2c55748-c475-49b2-bfa6-3b88a2292df3&pd_rd_i=B082PTM7F7&psc=1",
+      "asin": "B082PTM7F7",
+      "link_clean": "https://www.amazon.co.uk/JHY-DESIGN-Decorative-Lanterns-25cm-Candleholder/dp/B082PTM7F7/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B082PTM7F7&device=desktop&engine=amazon_product",
+      "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/61Sp0smaMjL._AC_UL165_SR165,165_.jpg",
+      "rating": 4.6,
+      "reviews": 510,
+      "price": "£32.99",
+      "extracted_price": 32.99
+     },
+     {
+      "position": 3,
+      "title": "TRIROCKS Rustic Style Metal Candle Lantern Large Decorative Candlestick Holder with Tempered Glass for Thanksgiving Christmas",
+      "link": "https://www.amazon.co.uk/TRIROCKS-Decorative-Tempered-Christmas-Outdoors/dp/B0C53MSZJS/ref=pd_sbs_d_sccl_1_3/000-0000000-0000000?pd_rd_w=voTo7&content-id=amzn1.sym.b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_p=b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_r=ZBXSMXE6NFCGB8TF0CQD&pd_rd_wg=6T2jw&pd_rd_r=e2c55748-c475-49b2-bfa6-3b88a2292df3&pd_rd_i=B0C53MSZJS&psc=1",
+      "asin": "B0C53MSZJS",
+      "link_clean": "https://www.amazon.co.uk/TRIROCKS-Decorative-Tempered-Christmas-Outdoors/dp/B0C53MSZJS/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0C53MSZJS&device=desktop&engine=amazon_product",
+      "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/71egIbhc2DL._AC_UL165_SR165,165_.jpg",
+      "rating": 4.4,
+      "reviews": 287,
+      "price": "£42.98",
+      "extracted_price": 42.98
+     },
+     {
+      "position": 4,
+      "title": "JHY DESIGN Set of 2 Black Decorative Lanterns 44.5 cm & 34 cm Metal Candle Lanterns for Indoor Outdoor Events Paritie and Wed",
+      "link": "https://www.amazon.co.uk/JHY-DESIGN-Decorations-Lanterns-Moroccan/dp/B0BLYRRW7F/ref=pd_sbs_d_sccl_1_4/000-0000000-0000000?pd_rd_w=voTo7&content-id=amzn1.sym.b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_p=b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_r=ZBXSMXE6NFCGB8TF0CQD&pd_rd_wg=6T2jw&pd_rd_r=e2c55748-c475-49b2-bfa6-3b88a2292df3&pd_rd_i=B0BLYRRW7F&psc=1",
+      "asin": "B0BLYRRW7F",
+      "link_clean": "https://www.amazon.co.uk/JHY-DESIGN-Decorations-Lanterns-Moroccan/dp/B0BLYRRW7F/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0BLYRRW7F&device=desktop&engine=amazon_product",
+      "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/61xWqiDanzL._AC_UL165_SR165,165_.jpg",
+      "rating": 4.1,
+      "reviews": 328,
+      "price": "£53.99",
+      "extracted_price": 53.99
+     },
+     {
+      "position": 5,
+      "title": "TRIROCKS Set of 2 Stainless Steel Decorative Lanterns 34cm &26cm H Metal Candle Holders with Tempered Glass for Home Decor Li",
+      "link": "https://www.amazon.co.uk/TRIROCKS-Stainless-Decorative-Lanterns-Tempered/dp/B0DSJ49RSX/ref=pd_sbs_d_sccl_1_5/000-0000000-0000000?pd_rd_w=voTo7&content-id=amzn1.sym.b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_p=b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_r=ZBXSMXE6NFCGB8TF0CQD&pd_rd_wg=6T2jw&pd_rd_r=e2c55748-c475-49b2-bfa6-3b88a2292df3&pd_rd_i=B0DSJ49RSX&psc=1",
+      "asin": "B0DSJ49RSX",
+      "link_clean": "https://www.amazon.co.uk/TRIROCKS-Stainless-Decorative-Lanterns-Tempered/dp/B0DSJ49RSX/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0DSJ49RSX&device=desktop&engine=amazon_product",
+      "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/814WtpASuHL._AC_UL165_SR165,165_.jpg",
+      "rating": 3.8,
+      "reviews": 187,
+      "price": "£39.99",
+      "extracted_price": 39.99
+     },
+     {
+      "position": 6,
+      "title": "NUPTIO Lantern Black Outdoor for Candle: 35cm&24cm Tall Garden Candle Lanterns Indoor Hanging Decorative Memorial Metal Glass",
+      "link": "https://www.amazon.co.uk/NUPTIO-Lantern-Black-Outdoor-Candle/dp/B0CTXBBJC3/ref=pd_sbs_d_sccl_1_6/000-0000000-0000000?pd_rd_w=voTo7&content-id=amzn1.sym.b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_p=b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_r=ZBXSMXE6NFCGB8TF0CQD&pd_rd_wg=6T2jw&pd_rd_r=e2c55748-c475-49b2-bfa6-3b88a2292df3&pd_rd_i=B0CTXBBJC3&psc=1",
+      "asin": "B0CTXBBJC3",
+      "link_clean": "https://www.amazon.co.uk/NUPTIO-Lantern-Black-Outdoor-Candle/dp/B0CTXBBJC3/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0CTXBBJC3&device=desktop&engine=amazon_product",
+      "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/71PiZYa8UdL._AC_UL165_SR165,165_.jpg",
+      "rating": 4.3,
+      "reviews": 521,
+      "price": "£41.98",
+      "extracted_price": 41.98
+     }
+    ]
+   }
+  ],
+  "product_description": [
+   {
+    "position": 1,
+    "title": "Metal Candle Lanterns",
+    "image": "https://m.media-amazon.com/images/S/aplus-media/sc/5ec09372-0357-434b-89ca-7c7e4b5338aa.__CR0,0,970,600_PT0_SX970_V1___.jpg"
+   },
+   {
+    "position": 2
+   },
+   {
+    "position": 3,
+    "features": [
+     {
+      "position": 1,
+      "text": "The top decorative loop is for easy carring, you can hang it on the tree or anywhere there is a hook.",
+      "image": "https://m.media-amazon.com/images/S/aplus-media/sc/5a210eee-5e4a-4c94-bba6-355910e666c7.__CR0,0,300,300_PT0_SX300_V1___.jpg"
+     },
+     {
+      "position": 2,
+      "text": "Door easy to open and closed.With a clasp in the one side of the window,you can easy to open the lantern.",
+      "image": "https://m.media-amazon.com/images/S/aplus-media/sc/6f01c54b-9815-4bad-ba72-459c8331eed0.__CR0,0,300,300_PT0_SX300_V1___.jpg"
+     },
+     {
+      "position": 3,
+      "text": "Tempered glass panes,greatly reduce the damage of glass when decorative lanterns in transportation,and protect the decorative lantern from external changes.",
+      "image": "https://m.media-amazon.com/images/S/aplus-media/sc/6977dfb0-13d6-42a7-bcce-11b7cdd797e0.__CR0,0,300,300_PT0_SX300_V1___.jpg"
+     }
+    ]
+   },
+   {
+    "position": 4,
+    "features": [
+     {
+      "position": 1,
+      "title": "Decorative your home and garden",
+      "text": "With a wind-proof Tempered glass,This candle holder can be easy to decorate your home indoor and out door.",
+      "image": "https://m.media-amazon.com/images/S/aplus-media/sc/4861d2dd-8238-441f-b64c-abb30b107149.__CR0,0,300,300_PT0_SX300_V1___.jpg"
+     },
+     {
+      "position": 2,
+      "title": "Wide range of applications",
+      "text": "Decorative for your living space, wedding and party, adding mare charm and beauty.",
+      "image": "https://m.media-amazon.com/images/S/aplus-media/sc/6d224298-d8c7-4442-be24-c21123c61567.__CR0,0,300,300_PT0_SX300_V1___.jpg"
+     },
+     {
+      "position": 3,
+      "title": "Light up the darkness",
+      "text": "Light up the darkness.Bring the light to where you are going,make a sense of safety with warm light.",
+      "image": "https://m.media-amazon.com/images/S/aplus-media/sc/d53213b8-aeb1-43c9-94e9-baffc9c7b1eb.__CR0,0,300,300_PT0_SX300_V1___.jpg"
+     }
+    ]
+   },
+   {
+    "position": 5,
+    "title": "ATTENTION",
+    "text": "The products are not sold with candles, but lanterns only. Never leave a burning candle unattended. Keep away from children and pets."
+   },
+   {
+    "position": 6,
+    "compare_with_similar": [
+     {
+      "position": 1,
+      "asin": "B0832YPZK5",
+      "title": "Metal Decorative Lantern",
+      "thumbnail": "https://m.media-amazon.com/images/S/aplus-media/sc/f67736e8-24a1-47a6-899d-4a5a20f7d894.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+      "link": "https://www.amazon.co.uk/dp/B0832YPZK5?ref=emc_s_m_5_i_atc",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0832YPZK5&device=desktop&engine=amazon_product",
+      "customer_reviews": ".aplus-v2 .aplus-review-right-padding { padding-right: 0.1rem; } —"
+     },
+     {
+      "position": 2,
+      "asin": "B0832YXMYW",
+      "title": "Metal Decorative Lanterns",
+      "thumbnail": "https://m.media-amazon.com/images/S/aplus-media/sc/abc5a893-01c7-4604-985d-7735f892be70.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+      "link": "https://www.amazon.co.uk/dp/B0832YXMYW?ref=emc_s_m_5_i_atc",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0832YXMYW&device=desktop&engine=amazon_product",
+      "customer_reviews": ".aplus-v2 .aplus-review-right-padding { padding-right: 0.1rem; } —"
+     },
+     {
+      "position": 3,
+      "asin": "B08N5QV16W",
+      "title": "White Candle Holder with European Hollow",
+      "thumbnail": "https://m.media-amazon.com/images/S/aplus-media/sc/22e1548d-8faf-4cd5-98bb-1774fc4d7eec.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+      "link": "https://www.amazon.co.uk/dp/B08N5QV16W?ref=emc_s_m_5_i_atc",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B08N5QV16W&device=desktop&engine=amazon_product",
+      "rating": 4.2,
+      "reviews": 160
+     },
+     {
+      "position": 4,
+      "asin": "B08N5RXPHK",
+      "title": "Black Birdcage Candlestick Lantern",
+      "thumbnail": "https://m.media-amazon.com/images/S/aplus-media/sc/53fdde22-556e-4d2f-bf0c-3ed3da1254eb.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+      "link": "https://www.amazon.co.uk/dp/B08N5RXPHK?ref=emc_s_m_5_i_atc",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B08N5RXPHK&device=desktop&engine=amazon_product",
+      "rating": 4.4,
+      "reviews": 199
+     },
+     {
+      "position": 5,
+      "asin": "B088TLXNWC",
+      "title": "Set of 2 Metal Decorative Candle Lanterns",
+      "thumbnail": "https://m.media-amazon.com/images/S/aplus-media/sc/f0b65c19-ffaf-4439-be3f-0cfefd9dab5c.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+      "link": "https://www.amazon.co.uk/dp/B088TLXNWC?ref=emc_s_m_5_i_atc",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B088TLXNWC&device=desktop&engine=amazon_product",
+      "rating": 4.2,
+      "reviews": 297
+     }
+    ]
+   }
+  ],
+  "product_details": {
+   "brand_name": "JHY DESIGN",
+   "number_of_pieces": "2",
+   "unit_count": "2.0 count",
+   "number_of_packs": "2",
+   "manufacturer": "JHY DESIGN",
+   "country_of_origin": "China",
+   "model_number": "4899",
+   "manufacturer_part_number": "4899",
+   "best_sellers_rank": [
+    {
+     "text": "76,306 in Home & Kitchen (See Top 100 in Home & Kitchen)",
+     "extracted_rank": 76306,
+     "link": "https://www.amazon.co.uk/gp/bestsellers/kitchen/ref=pd_zg_ts_kitchen",
+     "link_text": "See Top 100 in Home & Kitchen"
+    },
+    {
+     "text": "12 in Decorative Candle Lanterns",
+     "extracted_rank": 12,
+     "link": "https://www.amazon.co.uk/gp/bestsellers/kitchen/3028543031/ref=pd_zg_hrsr_kitchen",
+     "link_text": "Decorative Candle Lanterns"
+    }
+   ],
+   "asin": "B07VXPBYK9",
+   "customer_reviews": "4.1 out of 5 stars",
+   "rating": 4.1,
+   "reviews": 1899,
+   "colour": "Antique Grey Brush",
+   "theme": "Wedding",
+   "candle_holder_form": "Lantern",
+   "occasion": "Occasions:",
+   "item_dimensions_l_x_w_x_h": "20.3L x 20.3W x 40.6H centimetres",
+   "item_weight": "2.68 Kilograms",
+   "item_diameter": "2.95 Inches",
+   "material_type": "Metal, Tempered Glass",
+   "finish_type": "Distressed,Metal",
+   "mounting_type": "freestanding"
+  },
+  "reviews_information": {
+   "summary": {
+    "text": "Customers find the lanterns beautiful and exactly as advertised, with one mentioning they look expensive. However, the build quality receives mixed feedback, with some saying they're very well made while others find them not very well made. Moreover, durability is a concern as customers describe them as very flimsy, and several report issues with broken glass. Additionally, customers find the lanterns difficult to use, particularly noting that the glass is only held in place with tabs. Value for money is also mixed, with some finding them worth buying while others say they're not good for the price.",
+    "insights": [
+     {
+      "title": "Appearance",
+      "sentiment": "positive",
+      "mentions": {
+       "total": 41,
+       "positive": 39,
+       "negative": 2
+      },
+      "summary": "Customers love the appearance of these lanterns, describing them as lovely additions to their homes, with one customer noting that the battery-operated fairy lights inside look fabulous.",
+      "examples": [
+       {
+        "position": 1,
+        "snippet": "Great quality. They beautiful. I’m going to use them in the garden in summer and indoors in winter. Very happy customer. Jacqui",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R2YC0P0KUGKIPL"
+       },
+       {
+        "position": 2,
+        "snippet": "I thought these lanterns very attractive and quickly ordered a second set....",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R1VWOAT7K6T91K"
+       },
+       {
+        "position": 3,
+        "snippet": "Sturdy, stylish & has a vintage look..... good value for money",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R1NG80BVVO4SWI"
+       },
+       {
+        "position": 4,
+        "snippet": "Stunning!! They are exactly as advertised. They arrived very well packaged, (small one inside the large one)...",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R2D6RJINB4L55B"
+       }
+      ]
+     },
+     {
+      "title": "Quality",
+      "sentiment": "positive",
+      "mentions": {
+       "total": 41,
+       "positive": 31,
+       "negative": 10
+      },
+      "summary": "Customers are pleased with the lanterns, finding them exactly as advertised and highly recommending them.",
+      "examples": [
+       {
+        "position": 1,
+        "snippet": "Very nice lanterns, worth the money, only problem was large lantern came with broken panel which I think was down to delivery as outer box was...",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R3LOXJO2CN94MA"
+       },
+       {
+        "position": 2,
+        "snippet": "Nice",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/ROJE9PREOWEIA"
+       },
+       {
+        "position": 3,
+        "snippet": "Great quality. They beautiful. I’m going to use them in the garden in summer and indoors in winter. Very happy customer. Jacqui",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R2YC0P0KUGKIPL"
+       },
+       {
+        "position": 4,
+        "snippet": "Not worth the money poor quality wobbly windows and chiped glass in the corner",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R2T7R629M7I8Y0"
+       }
+      ]
+     },
+     {
+      "title": "Value for money",
+      "sentiment": "mixed",
+      "mentions": {
+       "total": 19,
+       "positive": 13,
+       "negative": 6
+      },
+      "summary": "Customers have mixed opinions about the lanterns' value for money, with some finding them worth buying while others say they are not good for the price.",
+      "examples": [
+       {
+        "position": 1,
+        "snippet": "...not very heavy and may not last a lifetime but I think they are good value for money",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R1VWOAT7K6T91K"
+       },
+       {
+        "position": 2,
+        "snippet": "...Overall, I feel that they are great value for money and can highly recommend product and supplier.",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/RV5C4PJ0RHKY"
+       },
+       {
+        "position": 3,
+        "snippet": "Not worth the money poor quality wobbly windows and chiped glass in the corner",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R2T7R629M7I8Y0"
+       },
+       {
+        "position": 4,
+        "snippet": "Very nice lanterns, worth the money, only problem was large lantern came with broken panel which I think was down to delivery as outer box was...",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R3LOXJO2CN94MA"
+       }
+      ]
+     },
+     {
+      "title": "Build quality",
+      "sentiment": "mixed",
+      "mentions": {
+       "total": 8,
+       "positive": 4,
+       "negative": 4
+      },
+      "summary": "Customers have mixed opinions about the lanterns' build quality, with some finding them very well made while others say they are not very well made.",
+      "examples": [
+       {
+        "position": 1,
+        "snippet": "They are very well made I gave one away as a present, they were very pleased",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R437CWQUP7SS3"
+       },
+       {
+        "position": 2,
+        "snippet": "...Not very well made and not worth £50.00. It's a shame as really looking forward to these. Cannot recommend. Nit value for money. Disappointed.",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R1V47CBQXSY1PY"
+       },
+       {
+        "position": 3,
+        "snippet": "We like these items as they are both well made and delicate at the same time. Just exactly what we wanted to sit on our slate hearth....",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/RWC19MPGSL2UA"
+       },
+       {
+        "position": 4,
+        "snippet": "...the actual; products have multiple dents, scrapes and other manufacturing flaws, additionally the panes of glass keep dropping inside the the...",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R1QB3JQSYRUCI"
+       }
+      ]
+     },
+     {
+      "title": "Durability",
+      "sentiment": "negative",
+      "mentions": {
+       "total": 13,
+       "positive": 3,
+       "negative": 10
+      },
+      "summary": "Customers find the lanterns to be very flimsy, with one customer reporting broken glass corners.",
+      "examples": [
+       {
+        "position": 1,
+        "snippet": "These lanterns are very flimsy not good for the money I have been contacted by the company and they have been on the ball with the complaint that I...",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R28A868WBBJD0O"
+       },
+       {
+        "position": 2,
+        "snippet": "Despite price these are flimsy with sharp edges and wonky glass ...dont waste your money",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R390ZM1A7H60TF"
+       },
+       {
+        "position": 3,
+        "snippet": "I would have lived these lanterns but baring in mind they are glass, the packaging was flimsy with no “Fragile” on the box hence they came smashed &...",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R2IO7IPVBNPJGY"
+       },
+       {
+        "position": 4,
+        "snippet": "We like these items as they are both well made and delicate at the same time. Just exactly what we wanted to sit on our slate hearth....",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/RWC19MPGSL2UA"
+       }
+      ]
+     },
+     {
+      "title": "Glass durability",
+      "sentiment": "negative",
+      "mentions": {
+       "total": 7,
+       "positive": 0,
+       "negative": 7
+      },
+      "summary": "Customers report issues with the glass durability of the lanterns, with multiple customers mentioning that the glass is broken or damaged upon arrival.",
+      "examples": [
+       {
+        "position": 1,
+        "snippet": "Glass broken",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R3NSIV6BAI2D72"
+       },
+       {
+        "position": 2,
+        "snippet": "The glass of the the lantern is damaged, this was as a gift for someone. Clearly this was broken before it was sent out so this is not good enough....",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R2CNVN83ADXWFC"
+       },
+       {
+        "position": 3,
+        "snippet": "...I’m afraid to fiddle with it as the glass is shattered in so many places ,it could fall apart....",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R3TOFTGTMSW0DJ"
+       },
+       {
+        "position": 4,
+        "snippet": "Not worth the money poor quality wobbly windows and chiped glass in the corner",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R2T7R629M7I8Y0"
+       }
+      ]
+     },
+     {
+      "title": "Ease of use",
+      "sentiment": "negative",
+      "mentions": {
+       "total": 6,
+       "positive": 1,
+       "negative": 5
+      },
+      "summary": "Customers find the lanterns difficult to use, with multiple reports of glass panels being loose upon opening and one customer noting that the glass is only held in place with tabs.",
+      "examples": [
+       {
+        "position": 1,
+        "snippet": "Slightly tricky to get smaller lantern out of the large one ..all glass was loose when we opened it but there are metal catches the you push to hold...",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R3CXTNNRJFWOKA"
+       },
+       {
+        "position": 2,
+        "snippet": "...arrived before time but the quality is not great as the glass is only held in with tab's that you get on picture frame and the metal is very sharp...",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/RZZVOQ2LRNP7N"
+       },
+       {
+        "position": 3,
+        "snippet": "Looks beautiful , good size, one lane of glass was loose so beware of this. So far very happy with the product although slightly expensive",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R5JROC56BOKLX"
+       },
+       {
+        "position": 4,
+        "snippet": "I love them. It was a bit awkward getting the smaller one out, but packed well.",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/RVJQGMD22A0EC"
+       }
+      ]
+     }
+    ],
+    "images": [
+     "https://m.media-amazon.com/images/I/61OyQEnOSBL.jpg",
+     "https://m.media-amazon.com/images/I/61-Ef-uW1BL.jpg",
+     "https://m.media-amazon.com/images/I/81wqe8YG7ML.jpg",
+     "https://m.media-amazon.com/images/I/71MKJsan28L.jpg",
+     "https://m.media-amazon.com/images/I/71A2+G9UchL.jpg",
+     "https://m.media-amazon.com/images/I/81wJzmq5QzL.jpg",
+     "https://m.media-amazon.com/images/I/71XVHX8zozL.jpg",
+     "https://m.media-amazon.com/images/I/718ONoBYErL.jpg",
+     "https://m.media-amazon.com/images/I/81VJijtaWUL.jpg",
+     "https://m.media-amazon.com/images/I/81zctRRcdpL.jpg",
+     "https://m.media-amazon.com/images/I/611fNlUoYeL.jpg",
+     "https://m.media-amazon.com/images/I/81vrjlaThgL.jpg"
+    ],
+    "customer_reviews": {
+     "5 star": 63,
+     "4 star": 15,
+     "3 star": 6,
+     "2 star": 6,
+     "1 star": 10
+    }
+   },
+   "authors_reviews": [
+    {
+     "position": 1,
+     "title": "Highly recommend",
+     "text": "I don’t normally write a review but I was so impressed with these. The company must have changed the packaging as they arrived in one piece, no broken glass! They were so well packed that I didn’t think they could have been damaged in transit.The product itself exactly matches the images so I haven’t felt the need to add more. Shipping was next day with no issues. Overall, I feel that they are great value for money and can highly recommend product and supplier.",
+     "rating": 5.0,
+     "date": "24 June 2021",
+     "author": "Alison Price",
+     "author_link": "https://www.amazon.co.uk/gp/profile/amzn1.account.AFLKLEGHVN73WDO27VN6L7R3SBOA?ref=cm_cr_dp_d_bdcrb_top",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+     "helpful_votes": "6 people found this helpful",
+     "verified_purchase": true,
+     "product": {
+      "colour_name": "Antique Grey Brush"
+     }
+    },
+    {
+     "position": 2,
+     "title": "Beautiful feature",
+     "text": "Stunning!!They are exactly as advertised. They arrived very well packaged, (small one inside the large one)Well packaged in polystyrene.I'm very impressed & would recommend.Product is exactly as described. Great value for money and I will be buying again.They look great on my coffee table & create a beautiful ambiance, I expect they would look equally beautiful outside.",
+     "rating": 5.0,
+     "date": "2 March 2023",
+     "author": "MacTheMan",
+     "author_link": "https://www.amazon.co.uk/gp/profile/amzn1.account.AHEPIBFCYKTW5Z67CTMORF32C4NQ?ref=cm_cr_dp_d_bdcrb_top",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+     "images": [
+      "https://m.media-amazon.com/images/I/61-Ef-uW1BL.jpg",
+      "https://m.media-amazon.com/images/I/61OyQEnOSBL.jpg"
+     ],
+     "helpful_votes": "4 people found this helpful",
+     "verified_purchase": true,
+     "product": {
+      "colour_name": "Antique Grey Brush"
+     }
+    },
+    {
+     "position": 3,
+     "title": "Pretty but nicer when lit",
+     "text": "Slightly tricky to get smaller lantern out of the large one ..all glass was loose when we opened it but there are metal catches the you push to hold the glass in so not really that much of a problem..but so lucky none of the glass was broken ..lanterns are very pretty when lit …on the whole quite pleased with them",
+     "rating": 4.0,
+     "date": "4 December 2022",
+     "author": "Wozza",
+     "author_link": "https://www.amazon.co.uk/gp/profile/amzn1.account.AH5YFAUKHDSNCKVCHVBXJJSA5TAA?ref=cm_cr_dp_d_bdcrb_top",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+     "verified_purchase": true
+    },
+    {
+     "position": 4,
+     "title": "Very good product.",
+     "text": "I love them. It was a bit awkward getting the smaller one out, but packed well.",
+     "rating": 5.0,
+     "date": "27 December 2025",
+     "author": "Amazon Customer",
+     "author_link": "https://www.amazon.co.uk/gp/profile/amzn1.account.AH6WKQZQ3DK3R25ULYCPMIJRGHHA?ref=cm_cr_dp_d_bdcrb_top",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+     "helpful_votes": "One person found this helpful",
+     "verified_purchase": true,
+     "product": {
+      "colour_name": "Silver"
+     }
+    },
+    {
+     "position": 5,
+     "title": "Beautiful but arrived broken",
+     "text": "Whilst the lanterns themselves were beautiful, the large one arrived with a significant smash and I couldn’t get the small one out without risking injury. I’ve returned them which is disappointing as I really like them aesthetically speaking; I’m hesitant to order them again as I’m concerned it’ll just happen again.",
+     "rating": 1.0,
+     "date": "18 March 2021",
+     "author": "Michelle De Santis",
+     "author_link": "https://www.amazon.co.uk/gp/profile/amzn1.account.AHFOTV63SX5QNAJKXKEOWW47X2EQ?ref=cm_cr_dp_d_bdcrb_top",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+     "images": [
+      "https://m.media-amazon.com/images/I/B1a8E0p48bS.jpg"
+     ],
+     "helpful_votes": "One person found this helpful",
+     "verified_purchase": true,
+     "product": {
+      "colour_name": "Antique Grey Brush"
+     }
+    },
+    {
+     "position": 6,
+     "title": "A very nice set of lanterns.",
+     "text": "A good set of lanterns. Thin metal and not sure how long they will last through winter but look great with candles inside. Wish they were the same size though, would probably look better.",
+     "rating": 5.0,
+     "date": "8 November 2020",
+     "author": "Raregoblin",
+     "author_link": "https://www.amazon.co.uk/gp/profile/amzn1.account.AECOIR6FW5ZGR3VVTEWCN67QDO7Q?ref=cm_cr_dp_d_bdcrb_top",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/d16d9f7a-f8b6-46d1-9fe4-621a1b07813c._CR0%2C0%2C500%2C500_SX460_SX48_.jpg",
+     "verified_purchase": true,
+     "product": {
+      "colour_name": "Antique Grey Brush"
+     }
+    },
+    {
+     "position": 7,
+     "title": "Beautiful as in image",
+     "text": "Beautiful 😍",
+     "rating": 5.0,
+     "date": "3 December 2025",
+     "author": "lorrainerodwell",
+     "author_link": "https://www.amazon.co.uk/gp/profile/amzn1.account.AG34CBQENV33IRUJSR6AC3OT4EEQ?ref=cm_cr_dp_d_bdcrb_top",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+     "verified_purchase": true,
+     "product": {
+      "colour_name": "Silver"
+     }
+    },
+    {
+     "position": 8,
+     "title": "Shape edges",
+     "text": "Delivery was and arrived before time but the quality is not great as the glass is only held in with tab's that you get on picture frame and the metal is very sharp on all the edges so I would not recommend these to anyone",
+     "rating": 2.0,
+     "date": "12 December 2025",
+     "author": "tracey lee",
+     "author_link": "https://www.amazon.co.uk/gp/profile/amzn1.account.AFGUPOC76P4Y4UHF7YOZF64VMKXA?ref=cm_cr_dp_d_bdcrb_top",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+     "verified_purchase": true,
+     "product": {
+      "colour_name": "Silver"
+     }
+    }
+   ],
+   "other_countries_reviews": [
+    {
+     "position": 1,
+     "title": "sehr gut",
+     "text": "Sie sehen sehr edel aus",
+     "rating": 5.0,
+     "date": "13 September 2026",
+     "author": "Rosengarten",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+     "verified_purchase": true,
+     "product": {
+      "colour_name": "Silver"
+     },
+     "country": {
+      "code": "DE",
+      "name": "Germany"
+     },
+     "language": {
+      "code": "de",
+      "name": "German (Germany)"
+     }
+    },
+    {
+     "position": 2,
+     "title": "Quality material",
+     "text": "These lanterns are a great price considering that they are metal and include the candles! I expect these to last for years and can always be touched up with black paint in years to come. I love that they don’t include glass as I have toddlers who love to look and poke at the lanterns so I don’t have to worry about breakage. I also love that I don’t have to clean the glass. I have other lanterns that have glass and the bugs get in and make a real mess of it; also the wasps like the ones with the glass better. They look beautiful on the wright iron tables of our outdoor cabin and are so cosy at night with the candles on! They are super easy to use and I also love how they can nest if and when you want to put them away for winter. Recommend!",
+     "rating": 5.0,
+     "date": "14 February 2026",
+     "author": "Amazon Customer",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+     "product": {
+      "colour_name": "Metal - Black"
+     },
+     "country": {
+      "code": "US",
+      "name": "United States"
+     },
+     "language": {
+      "code": "en",
+      "name": "English (United States)"
+     }
+    },
+    {
+     "position": 3,
+     "title": "Stimmungsvolle Laternen",
+     "text": "Diese beiden Laternen begleiten mich den ganzen Winter über vor meinem Terrassenfenster. Schlicht, nicht protzig oder übertrieben. Qualität ok.",
+     "rating": 5.0,
+     "date": "12 February 2026",
+     "author": "Kunde",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+     "verified_purchase": true,
+     "product": {
+      "colour_name": "Antique Grey Brush"
+     },
+     "country": {
+      "code": "DE",
+      "name": "Germany"
+     },
+     "language": {
+      "code": "de",
+      "name": "German (Germany)"
+     }
+    },
+    {
+     "position": 4,
+     "title": "Like items but had a little repair to do",
+     "text": "I like the items but the large had a bit of damage.",
+     "rating": 5.0,
+     "date": "2 June 2026",
+     "author": "Pen Name",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+     "verified_purchase": true,
+     "product": {
+      "colour_name": "Antique Grey Brush"
+     },
+     "country": {
+      "code": "US",
+      "name": "United States"
+     },
+     "language": {
+      "code": "en",
+      "name": "English (United States)"
+     }
+    },
+    {
+     "position": 5,
+     "title": "I absolutely love them - perfect",
+     "text": "Outstanding set of lanterns that will lift the look of any room - I absolutely love them",
+     "rating": 5.0,
+     "date": "6 January 2026",
+     "author": "My View",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+     "verified_purchase": true,
+     "product": {
+      "colour_name": "Silver"
+     },
+     "country": {
+      "code": "FR",
+      "name": "France"
+     },
+     "language": {
+      "code": "en",
+      "name": "English"
+     }
+    }
+   ]
+  }
+ }
+}

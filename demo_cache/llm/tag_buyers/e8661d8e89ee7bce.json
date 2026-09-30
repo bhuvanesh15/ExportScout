@@ -1,0 +1,84 @@
+{
+ "task": "tag_buyers",
+ "model": "claude-opus-5-5",
+ "created_at": "2026-09-30T10:52:05+00:00",
+ "output": {
+  "buyers": [
+   {
+    "index": 0,
+    "kind": "retailer",
+    "why": "Online lighting store selling lantern pendants; 6 active UK ad creatives."
+   },
+   {
+    "index": 1,
+    "kind": "wholesaler",
+    "why": "Electrical wholesaler with trade prices; lists antique brass glass lantern; very active UK ads."
+   },
+   {
+    "index": 2,
+    "kind": "retailer",
+    "why": "Sells nkuku antique brass lanterns and sources Asian and Indian pieces; 24 UK ad creatives."
+   },
+   {
+    "index": 3,
+    "kind": "retailer",
+    "why": "Sells Ivyline Hampton hurricane lantern, a direct match for the product."
+   },
+   {
+    "index": 4,
+    "kind": "retailer",
+    "why": "Sells Ivyline Hampton hurricane lantern, a direct match for the product."
+   },
+   {
+    "index": 5,
+    "kind": "online_brand",
+    "why": "Own-brand lighting selling antiqued brass lanterns, including exterior lanterns."
+   },
+   {
+    "index": 6,
+    "kind": "retailer",
+    "why": "Lighting seller stocking antique brass lanterns from Oaks Lighting."
+   },
+   {
+    "index": 7,
+    "kind": "retailer",
+    "why": "Lighting seller listing Elstead outdoor wall lanterns."
+   },
+   {
+    "index": 8,
+    "kind": "retailer",
+    "why": "Lighting seller listing Quoizel wall lanterns."
+   },
+   {
+    "index": 9,
+    "kind": "retailer",
+    "why": "Sells brass metal and glass square lantern."
+   },
+   {
+    "index": 10,
+    "kind": "retailer",
+    "why": "Sells metal and glass square lanterns."
+   },
+   {
+    "index": 11,
+    "kind": "retailer",
+    "why": "Sells aged brass table lantern."
+   },
+   {
+    "index": 12,
+    "kind": "retailer",
+    "why": "Lighting seller listing Quintiesse chain lantern."
+   },
+   {
+    "index": 13,
+    "kind": "unknown",
+    "why": "Lists antique brass hanging lanterns; unclear whether it makes its own goods or resells."
+   },
+   {
+    "index": 14,
+    "kind": "unknown",
+    "why": "Lists antique and polished brass hanging lanterns; unclear whether manufacturer or reseller."
+   }
+  ]
+ }
+}

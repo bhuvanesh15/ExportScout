@@ -1,0 +1,1771 @@
+{
+ "engine": "ebay",
+ "params": {
+  "_nkw": "hammered brass planter",
+  "ebay_domain": "ebay.co.uk"
+ },
+ "fetched_at": "2026-09-30T10:53:50+00:00",
+ "data": {
+  "search_metadata": {
+   "id": "6abcea1f73d224a82c3ccdf7",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/tovJHlXIH18BUgtqcQs4uio35CvQUfO3RydkHvx8hkM/6abcea1f73d224a82c3ccdf7.json",
+   "markdown_endpoint": "https://serpapi.com/searches/tovJHlXIH18BUgtqcQs4uio35CvQUfO3RydkHvx8hkM/6abcea1f73d224a82c3ccdf7.md",
+   "created_at": "2026-09-30 10:53:19 UTC",
+   "processed_at": "2026-09-30 10:53:19 UTC",
+   "ebay_url": "https://www.ebay.co.uk/sch/i.html?_nkw=hammered+brass+planter",
+   "raw_html_file": "https://serpapi.com/searches/tovJHlXIH18BUgtqcQs4uio35CvQUfO3RydkHvx8hkM/6abcea1f73d224a82c3ccdf7.html",
+   "total_time_taken": 29.99
+  },
+  "search_parameters": {
+   "engine": "ebay",
+   "_nkw": "hammered brass planter",
+   "ebay_domain": "ebay.co.uk"
+  },
+  "search_information": {
+   "organic_results_state": "Results for exact spelling",
+   "total_results": 1000,
+   "query_displayed": "hammered brass planter"
+  },
+  "categories": [
+   {
+    "name": "Collectables",
+    "link": "https://www.ebay.co.uk/sch/1/i.html?_nkw=hammered+brass+planter",
+    "id": 1,
+    "serpapi_link": "https://serpapi.com/search.json?_nkw=hammered+brass+planter&category_id=1&ebay_domain=ebay.co.uk&engine=ebay"
+   },
+   {
+    "name": "Other Collectable Brass Metalware",
+    "link": "https://www.ebay.co.uk/sch/3630/i.html?_nkw=hammered+brass+planter",
+    "id": 3630,
+    "serpapi_link": "https://serpapi.com/search.json?_nkw=hammered+brass+planter&category_id=3630&ebay_domain=ebay.co.uk&engine=ebay"
+   },
+   {
+    "name": "Collectable Planters",
+    "link": "https://www.ebay.co.uk/sch/86916/i.html?_nkw=hammered+brass+planter",
+    "id": 86916,
+    "serpapi_link": "https://serpapi.com/search.json?_nkw=hammered+brass+planter&category_id=86916&ebay_domain=ebay.co.uk&engine=ebay"
+   },
+   {
+    "name": "Collectable Copper Metalware",
+    "link": "https://www.ebay.co.uk/sch/1433/i.html?_nkw=hammered+brass+planter",
+    "id": 1433,
+    "serpapi_link": "https://serpapi.com/search.json?_nkw=hammered+brass+planter&category_id=1433&ebay_domain=ebay.co.uk&engine=ebay"
+   },
+   {
+    "name": "Other Collectable Metalware",
+    "link": "https://www.ebay.co.uk/sch/28/i.html?_nkw=hammered+brass+planter",
+    "id": 28,
+    "serpapi_link": "https://serpapi.com/search.json?_nkw=hammered+brass+planter&category_id=28&ebay_domain=ebay.co.uk&engine=ebay"
+   },
+   {
+    "name": "Collectable Vases",
+    "link": "https://www.ebay.co.uk/sch/73507/i.html?_nkw=hammered+brass+planter",
+    "id": 73507,
+    "serpapi_link": "https://serpapi.com/search.json?_nkw=hammered+brass+planter&category_id=73507&ebay_domain=ebay.co.uk&engine=ebay"
+   },
+   {
+    "name": "Collectable Brass Jugs & Vases",
+    "link": "https://www.ebay.co.uk/sch/90685/i.html?_nkw=hammered+brass+planter",
+    "id": 90685,
+    "serpapi_link": "https://serpapi.com/search.json?_nkw=hammered+brass+planter&category_id=90685&ebay_domain=ebay.co.uk&engine=ebay"
+   },
+   {
+    "name": "Home, Furniture & DIY",
+    "link": "https://www.ebay.co.uk/sch/11700/i.html?_nkw=hammered+brass+planter",
+    "id": 11700,
+    "serpapi_link": "https://serpapi.com/search.json?_nkw=hammered+brass+planter&category_id=11700&ebay_domain=ebay.co.uk&engine=ebay"
+   },
+   {
+    "name": "Antiques",
+    "link": "https://www.ebay.co.uk/sch/20081/i.html?_nkw=hammered+brass+planter",
+    "id": 20081,
+    "serpapi_link": "https://serpapi.com/search.json?_nkw=hammered+brass+planter&category_id=20081&ebay_domain=ebay.co.uk&engine=ebay"
+   },
+   {
+    "name": "Garden & Patio",
+    "link": "https://www.ebay.co.uk/sch/159912/i.html?_nkw=hammered+brass+planter",
+    "id": 159912,
+    "serpapi_link": "https://serpapi.com/search.json?_nkw=hammered+brass+planter&category_id=159912&ebay_domain=ebay.co.uk&engine=ebay"
+   },
+   {
+    "name": "Pottery, Ceramics & Glass",
+    "link": "https://www.ebay.co.uk/sch/870/i.html?_nkw=hammered+brass+planter",
+    "id": 870,
+    "serpapi_link": "https://serpapi.com/search.json?_nkw=hammered+brass+planter&category_id=870&ebay_domain=ebay.co.uk&engine=ebay"
+   }
+  ],
+  "organic_results": [
+   {
+    "title": "Vintage Brass Hammered Planter Embossed Farmhouse Cottage Homestead",
+    "link": "https://www.ebay.co.uk/itm/147522143794?_skw=hammered+brass+planter&itmmeta=01M3RZ5ZQ1NK87QNZ8Z9BCE9JS&hash=item2259014632:g:e00AAeSwU0pp60vH&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAWtSgzbPNBkXD613e%2BYLIgAbtEC3YqI5MHqe4nANjMO49bKkH8mLRwwfc6ZnR70559c%2BlIL0Ihwbu2tuyJWEVyxFb1108wjX8gilFSTEDaOt0d8LkxGPDWB1RXGoqVouR21jdaQC1rbv%2FwUfFtgKjBhtHxUU7Uhi5fX23ozbxco7%2FMaikyNkEwcpcLAME%2FbdLnpRHEg4djqtPpKEZemVv5iEjKfDQYL2YEZZuKC7fAf8RKTy7vCrE3LIyqV3D8kV0cX32s2ipm6%2FyVsP3JR77Xs4duo%2FIhyvKuTsPVUbKrhw%3D%3D%7Ctkp%3ABk9SR_j7l5-eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=147522143794",
+    "product_id": "147522143794",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£15.95",
+     "extracted": 15.95
+    },
+    "shipping": {
+     "raw": "+£3.38 delivery",
+     "extracted": 3.38
+    },
+    "buying_format": "buy_it_now",
+    "buying_format_text": "Buy It Now",
+    "thumbnail": "https://i.ebayimg.com/images/g/e00AAeSwU0pp60vH/s-l500.webp",
+    "seller": {
+     "username": "ipas62",
+     "reviews": 1700,
+     "positive_feedback_in_percentage": 99.8
+    }
+   },
+   {
+    "sponsored": true,
+    "title": "Antique Hammered Brass Lion Head Jardiniere Planter Embossed Courting Scene",
+    "link": "https://www.ebay.co.uk/itm/158025810450?_skw=hammered+brass+planter&itmmeta=01M3RZ5ZQ1WKTXRSK5ET1S6VGZ&hash=item24cb128212:g:1roAAeSwV~FqPRL9&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDZJ1czlu39nJLdJj4uhGyhkfWcZZM7ZJTbdl1m%2FelvvSXuM3APoigYdppw5YRRQRgvfY6klyYd%2ByB7rpK7NO58MfpowXO90tA%2ByvgrIB8X3HCtaR6Th17DZLJuUSp0nY5y2fArM%2F0IKPmAyPEZKUbsZOG5aSaqlTUSm3c6gjbIMwJHzBpyXCdRLEHjfiycDrQPiY8K8pUVDbP14XgkiSbnBNVBiHJp6505CleSKfFfezceGGXgCjBkxZg5Tc9kX4GUuyKTjCQebeAXLQ%2FDARiZ39RFMuou7jKUytxM%2FEwOkA%3D%3D%7Ctkp%3ABFBM-PuXn55o",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=158025810450",
+    "product_id": "158025810450",
+    "price": {
+     "raw": "£49.56",
+     "extracted": 49.56
+    },
+    "shipping": {
+     "raw": "+£6.65 delivery",
+     "extracted": 6.65
+    },
+    "buying_format": "accepts_offers",
+    "buying_format_text": "or Best Offer",
+    "thumbnail": "https://i.ebayimg.com/images/g/1roAAeSwV~FqPRL9/s-l500.webp",
+    "seller": {
+     "username": "beneath-the-willow",
+     "reviews": 980,
+     "positive_feedback_in_percentage": 100
+    }
+   },
+   {
+    "sponsored": true,
+    "title": "Victorian Brass Rococo Coal Scuttle | Antique Hammered Planter with Claw Feet",
+    "link": "https://www.ebay.co.uk/itm/298682643847?_skw=hammered+brass+planter&itmmeta=01M3RZ5ZQ1ZA3VFTFKMVM7FEZ8&hash=item458adf7587:g:0W8AAeSwgQNqq9-I&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDWaMi1whXK4lfOdU%2BPBmVCJLpo2gp1dF98mO68QUpQP0usZkeg5iktpNqKuqyzZ1RmvBCT27tK1Je1MuWf1zznUJkTImSemyLNQFF0V%2ByrYJxzqv75LId9jVAWMwizzyVfl18HpBCQ1RdcEi00S%2B1LGPkun0CsC4KScj7KvuUDw07QYnqsTK9U7%2BfO2aZ0X7tRAK8pkp8gpZduAZyeWima2IRflP6LfVdFCZjZIdfXA0tAGm5CfHQIumTWRkk2DQx0cRf%2FkLTfz%2FASoGz0Gur5CTSFl3Z1ql6jgVRNZjI%2FzQ%3D%3D%7Ctkp%3ABFBM-PuXn55o",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=298682643847",
+    "product_id": "298682643847",
+    "price": {
+     "raw": "£67.75",
+     "extracted": 67.75
+    },
+    "shipping": {
+     "raw": "+£5.21 delivery",
+     "extracted": 5.21
+    },
+    "buying_format": "accepts_offers",
+    "buying_format_text": "or Best Offer",
+    "thumbnail": "https://i.ebayimg.com/images/g/0W8AAeSwgQNqq9-I/s-l500.webp",
+    "seller": {
+     "username": "gallier86",
+     "reviews": 269,
+     "positive_feedback_in_percentage": 100
+    }
+   },
+   {
+    "sponsored": true,
+    "title": "Vintage hammered copper planter with brass lion handles",
+    "link": "https://www.ebay.co.uk/itm/307152601150?_skw=hammered+brass+planter&itmmeta=01M3RZ5ZQ1TC64R7EHD8C3KR1B&hash=item4783b8c03e:g:LbMAAeSwndxqkvmO&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDfpHBvVLjmi7va1NfMtHYxAcwTlCKFYzh4CQ%2Fm%2FQHQxfNf7FyCrzsgQPL1Y9RaTaB4eI07D%2FgzfyBS3eu%2F27f3Sh9Y3z3MersbE8fodXNboiF%2Faqr74b1XykS078c2bcwCsonDD77nrPn0RwHS6tVTf%2FWDlkVzKCdoHsCQ5HnzAwOU9%2BGL0qNHFdw3G5ktTV3njKysw05HoYUaPndfClkxU7XjJwpPmNTY%2Fc93ehvj1oVJxvja6jpDOzNrXak5n5R7gkJG%2BzvsdhBaFqzpR755%2FnVDypJ6tau%2BiL5QsTp01w%3D%3D%7Ctkp%3ABFBM-PuXn55o",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=307152601150",
+    "product_id": "307152601150",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£99.00",
+     "extracted": 99.0
+    },
+    "shipping": "Free delivery",
+    "returns": "Free returns",
+    "buying_format": "accepts_offers",
+    "buying_format_text": "or Best Offer",
+    "thumbnail": "https://i.ebayimg.com/images/g/LbMAAeSwndxqkvmO/s-l500.webp",
+    "seller": {
+     "username": "house-of-dragonfly",
+     "reviews": 3000,
+     "positive_feedback_in_percentage": 100
+    }
+   },
+   {
+    "title": "Vintage Indian Hand Hammered Brass Planter Twin Wall Honeycomb Traditional",
+    "link": "https://www.ebay.co.uk/itm/326827222071?_skw=hammered+brass+planter&itmmeta=01M3RZ5ZQ2JK6HM12450D9GG09&hash=item4c186ba437:g:uCQAAeSw6Eto9piK&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAJ%2FY%2FB6BITm786QgE9EqH2LjYesb8uRp715FYhRrVA4Q6DLq6foyJwNHYgDIksUaAAgRF6zy4nSDEFj2jAmYsUsOlQeh5dLtRgW%2BtjGJP0WP1hHxZbytcDTDgWcs2XxOb%2FBMZHmXpJYY5ZATww1yZMzK0PVoZNgmmQSmOCeAG9C7SP9tTrSib0kIK4vgoS%2F%2BIIuEOVPJDNaQ40RMKVMm62140%2FMb%2FFli0W8CnTHiO8kMtFY7itKXZNIYDJY9%2BFfI6ZvYD8tqgkUyf%2FEwlpSw6lf%2F1BfgiT5Ra7x4vXl41Nuw%3D%3D%7Ctkp%3ABk9SR_j7l5-eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=326827222071",
+    "product_id": "326827222071",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£11.01",
+     "extracted": 11.01
+    },
+    "shipping": "Free delivery in 3 days",
+    "buying_format": "accepts_offers",
+    "buying_format_text": "or Best Offer",
+    "thumbnail": "https://i.ebayimg.com/images/g/uCQAAeSw6Eto9piK/s-l500.webp",
+    "seller": {
+     "username": "cherryholtvintage",
+     "reviews": 3400,
+     "positive_feedback_in_percentage": 100
+    }
+   },
+   {
+    "new_listing": true,
+    "title": "Vintage Mid-Century Hammered Brass Rope & Tassel Cachepot Planter Flower Pot 5\"",
+    "link": "https://www.ebay.co.uk/itm/287616825715?_skw=hammered+brass+planter&itmmeta=01M3RZ5ZQ277N0PYPQ1V23QNWS&hash=item42f74c7973:g:tnIAAeSwvJNqvAXa&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAp%2BiiGqqc2BrWbCO59SvW9cz6IBbns0F1JEAH6hw3pesMLBPAxACGHPNS4xUtyBSNdhORC90nvjGoX%2Bbi9RoHL1Bsao3PPjeaC6xWb9X%2Bfj%2BBzAghlREF37%2BrfoHWq4WW2FZjPYAWNfw7PTZYUhz%2B%2BrqyvBYtnejJy7%2FGRwxlCIj5DAL3qRyMp870kpwFaQZIBi9j9PyzG9b32FKLfhyXNkohOyQPdyLEKplYj37DVitVTN%2Bmb5MnKsKV7E7WT8%2BukG2dSscpBTpFqVAJqleWJLNnVk4R4AbWyfIHDt1mkdQ%3D%3D%7Ctkp%3ABk9SR_j7l5-eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=287616825715",
+    "product_id": "287616825715",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£26.42",
+     "extracted": 26.42
+    },
+    "shipping": {
+     "raw": "+£2.94 delivery",
+     "extracted": 2.94
+    },
+    "buying_format": "accepts_offers",
+    "buying_format_text": "or Best Offer",
+    "thumbnail": "https://i.ebayimg.com/images/g/tnIAAeSwvJNqvAXa/s-l500.webp",
+    "seller": {
+     "username": "inthewildvintage",
+     "reviews": 1600,
+     "positive_feedback_in_percentage": 99.6
+    }
+   },
+   {
+    "title": "Vintage Hammered Brass Planter: Oval Pot with design on front",
+    "link": "https://www.ebay.co.uk/itm/397838661848?_skw=hammered+brass+planter&itmmeta=01M3RZ5ZQ2AANSZZBBY7SW23C6&hash=item5ca10838d8:g:4FUAAeSwtdFp3i07&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xBSUqhmwCI2mWFDkvIWqRXf6Xh0SlF3VBMsEvDMb7szlpBdoW%2FLb4oAY1nK5A%2BQnZmNbShbgOh7JF%2BxflBWUC0I0GfCcGSHjO7uYRhZ%2B0ic2jh%2BNJwTHXPrSFGRkkYwWLl1LstryQX6BzdoYfOFLQhS%2FL4s%2FPUYpH6yWWnHZZ26uhn6By6uLIYyabbMDsoQ1r%2BXA6Ge87xu236JCwHZTUSYwDCvzKcIWC0Zp7LvGi5OA003T4ivdA4PG5GKPFS7czU%3D%7Ctkp%3ABk9SR_j7l5-eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=397838661848",
+    "product_id": "397838661848",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£39.85",
+     "extracted": 39.85
+    },
+    "shipping": {
+     "raw": "+£3.71 delivery",
+     "extracted": 3.71
+    },
+    "buying_format": "buy_it_now",
+    "buying_format_text": "Buy It Now",
+    "thumbnail": "https://i.ebayimg.com/images/g/4FUAAeSwtdFp3i07/s-l500.webp",
+    "seller": {
+     "username": "clearmyshed2024",
+     "reviews": 549,
+     "positive_feedback_in_percentage": 100
+    }
+   },
+   {
+    "title": "Antique Vintage Handmade Embossed Hammered Brass Planter Plant Pot",
+    "link": "https://www.ebay.co.uk/itm/366565403900?_skw=hammered+brass+planter&itmmeta=01M3RZ5ZQ2JETV2BC4063NR98H&hash=item5559002cfc:g:Ur8AAeSwlsNox-L0&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xBQmb7ZSmUOiU0sLGJIjD7qGCBskUX8RoxohtQ0e1D2aY1q5cJpEFRWrJc0K3X31BsHmmmZWSXElIiOCHG3JhoHnaCwsKi2eS2JfsDKvrT9lBqmz%2BXGVNwMhRSSDiUdeil0BqdYlwD4i%2FH7pYdZV%2FaX8EklfJfSem8ju%2BY109x%2FsnE%2BC9J%2FMGqbYG0tdT9IKDRr343gypsqfErl%2FE3w6ZLleUtv18WZS9066fii8hNXBOf1hKtSdMrMYZlYkTGZjdQ%3D%7Ctkp%3ABk9SR_j7l5-eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=366565403900",
+    "product_id": "366565403900",
+    "price": {
+     "raw": "£25.00",
+     "extracted": 25.0
+    },
+    "shipping": {
+     "raw": "+£4.99 delivery",
+     "extracted": 4.99
+    },
+    "buying_format": "accepts_offers",
+    "buying_format_text": "or Best Offer",
+    "thumbnail": "https://i.ebayimg.com/images/g/Ur8AAeSwlsNox-L0/s-l500.webp",
+    "seller": {
+     "username": "ageofinteriors",
+     "reviews": 1200,
+     "positive_feedback_in_percentage": 100
+    }
+   },
+   {
+    "new_listing": true,
+    "title": "Vintage Hammered Brass Planter Pot with Ram Sheep Head Handles 11.5” x 7.5”",
+    "link": "https://www.ebay.co.uk/itm/307205076438?_skw=hammered+brass+planter&itmmeta=01M3RZ5ZQ21MZ83DHGYESFRMQA&hash=item4786d975d6:g:bhsAAeSwG3Jqu58U&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xD9VgH3%2B6WnzxMWv9dwhA%2BM5TcfthxzJDHh5PQL%2FhamoWL5JZAtROHrqqDvX3i2UOINe7RfC9%2BH3GPi9lwHEk2Um6WSyfmZR4QMkvKongFJmcuDvU9HxeGbfxHH2AjgmugmQ3tGocGLkCpcIEQnd2YFpxAi9EZ27Affog6Z43oV2y7L1dPQVbU%2BxDKqxl0YxVbde8jA9JqKMTTb9MWilPJZiRl60Xi9%2FaDzR%2BIXIRQwEibj2C8Fdry1IivJdIql64E%3D%7Ctkp%3ABk9SR_j7l5-eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=307205076438",
+    "product_id": "307205076438",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£85.29",
+     "extracted": 85.29
+    },
+    "old_price": {
+     "raw": "£89.78",
+     "extracted": 89.78,
+     "discount": "£85.29"
+    },
+    "shipping": {
+     "raw": "+£34.66 delivery",
+     "extracted": 34.66
+    },
+    "location": "from United States",
+    "buying_format": "buy_it_now",
+    "buying_format_text": "Buy It Now",
+    "thumbnail": "https://i.ebayimg.com/images/g/bhsAAeSwG3Jqu58U/s-l500.webp",
+    "seller": {
+     "username": "curiou49",
+     "reviews": 218,
+     "positive_feedback_in_percentage": 100
+    }
+   },
+   {
+    "title": "Vintage Hammered Brass Planter with Rope Bow & Tassels Decorative Jardiniere",
+    "link": "https://www.ebay.co.uk/itm/128061949791?_skw=hammered+brass+planter&itmmeta=01M3RZ5ZQ2KXT73SCZR81SXG14&hash=item1dd116475f:g:CzcAAeSw6xpqmvjE&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xAQgzjR81DRrluprxJ%2BPJJUYq%2B1L2nVTTOC%2FEZWcudK0SNIVI5yezu6aLsoOBx5ryivMP62H8rUE18BGcpEO8QQRCkGaHzrhkLG1M4GUyDKu%2BXQYLEBxXlyVQHjyr%2B8LVNZRgG%2BH1kMk17jmnkI8QItYn6oVhK%2B5uBLWYXdh8IJu1igx5JJeFDZHvmdlJZhiAKkMhjclBAjWojtjsYJASNjNVXkTZiWrwSsOx5IteWSmhh7FitIS8TpE3EpErFwCD4%3D%7Ctkp%3ABk9SR_j7l5-eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=128061949791",
+    "product_id": "128061949791",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£24.99",
+     "extracted": 24.99
+    },
+    "shipping": {
+     "raw": "+£4.50 delivery",
+     "extracted": 4.5
+    },
+    "buying_format": "buy_it_now",
+    "buying_format_text": "Buy It Now",
+    "thumbnail": "https://i.ebayimg.com/images/g/CzcAAeSw6xpqmvjE/s-l500.webp",
+    "seller": {
+     "username": "peonyvintagefinds",
+     "reviews": 3000,
+     "positive_feedback_in_percentage": 99.7
+    }
+   },
+   {
+    "title": "Vintage Heavy Hammered Brass Medallion Planter Pot Waste Basket 11.5” x 9.25”",
+    "link": "https://www.ebay.co.uk/itm/307202397319?_skw=hammered+brass+planter&itmmeta=01M3RZ5ZQ2RCVSVCGHN4J9E4ZY&hash=item4786b09487:g:Z5wAAeSwV~VquX~4&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xDqEKjna8bsVprBAUesKyvBMx12VXQYRFW--vXOCyVPBREj7iA8kNtEB8myvpa%2B4f%2F7qnUNssiTX%2FsJ2JTp4YwG9X8LjZwPe3cibnSZWp8Xmaerrm7NNeU2Oaua2O0GdOTuThdb2MWa1LpUL1DZoy%2FWzjenk8dDJMJIwxBr%2BmLfcuzRK6jb%2FGwTesKsR0bSZHZC7C4ZDhr00ZsY%2BgMANwFFRcYfF1yU%2B%2BhYqr%2B1M%2BLo3o%2Bvg%2FxzRm6jk%2Fs%2FU5zavOE%3D%7Ctkp%3ABk9SR_j7l5-eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=307202397319",
+    "product_id": "307202397319",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£102.52",
+     "extracted": 102.52
+    },
+    "old_price": {
+     "raw": "£107.92",
+     "extracted": 107.92,
+     "discount": "£102.52"
+    },
+    "shipping": {
+     "raw": "+£51.15 delivery",
+     "extracted": 51.15
+    },
+    "location": "from United States",
+    "buying_format": "buy_it_now",
+    "buying_format_text": "Buy It Now",
+    "thumbnail": "https://i.ebayimg.com/images/g/Z5wAAeSwV~VquX~4/s-l500.webp",
+    "seller": {
+     "username": "curiou49",
+     "reviews": 218,
+     "positive_feedback_in_percentage": 100
+    }
+   },
+   {
+    "title": "Vintage Hammered Copper Planter Pot Flower Cachepot with Brass Footed",
+    "link": "https://www.ebay.co.uk/itm/287606230994?_skw=hammered+brass+planter&itmmeta=01M3RZ5ZQ3SDR871FTWCGPXMXF&hash=item42f6aacfd2:g:guIAAeSwEchqofkw&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDEVqsEOrSQz%2Fb5AzFFY4fP8BhAiZvDl0mS7P1DGmvYF1bBWS0R8JL8gDEiln8WrINf9czxyKEGmUlLwTRBh7zzJJrKym5zXWhqK1Xdih2kbhfWoLugWqcPz9vAI949y4QobhKMhv9aEhQQ4Yr%2BAMw6P9MuS7LJgCP8mXuCDn2JetQKZZs8n6ub3Qi7UENKIvpLA4hPzxbhS1Td5iCH6K4FlItwrScoYKnTNkhnqef7wZc2cgkrnnOaUqa968imefWIQ9Bx51UdVjBwxyIdARvGCdabu1Kdd7fsMgWiAGCxDg%3D%3D%7Ctkp%3ABk9SR_j7l5-eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=287606230994",
+    "product_id": "287606230994",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£46.25",
+     "extracted": 46.25
+    },
+    "shipping": {
+     "raw": "+£27.03 delivery",
+     "extracted": 27.03
+    },
+    "location": "from United States",
+    "buying_format": "buy_it_now",
+    "buying_format_text": "Buy It Now",
+    "thumbnail": "https://i.ebayimg.com/images/g/guIAAeSwEchqofkw/s-l500.webp",
+    "seller": {
+     "username": "bayline33",
+     "reviews": 10,
+     "positive_feedback_in_percentage": 100
+    }
+   },
+   {
+    "sponsored": true,
+    "title": "Hexagon Hammered Copper pot with brass handles",
+    "link": "https://www.ebay.co.uk/itm/117263159752?_skw=hammered+brass+planter&itmmeta=01M3RZ5ZQ312BFM9PWP2QMVGQN&hash=item1b4d6dd1c8:g:xcAAAeSwlU9qOW5F&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAJ0IlMsCaqUylzURrrtToE3oVATTx714F5GM7sJO2DkxR%2BAeLAu3dFetbmyjXxewWBKUezp2m8Jg7hjhcq9xkaC01%2B%2FXZAG83lgCLHwM6LsXFsRRy2m1LheSbB8xv7rDC8NzMEU9WjwR48hczH1samDvrx5W8LEZfJ5Scz1mEy9%2BiFr4L35TP9JaxcBUS%2BTWzoIfc%2Bx6QF1Pb2hI6%2BALnPG%2B2E5Wy2%2FY96vuhiRec%2F8Se2JECcX43Yuc%2F3Gakdwjy%2B3l3Gn1lBbFJsE0FZZud9vVyPRe2ymbrKnT4Eza%2FNZg%3D%3D%7Ctkp%3ABFBM-PuXn55o",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=117263159752",
+    "product_id": "117263159752",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£98.75",
+     "extracted": 98.75
+    },
+    "shipping": {
+     "raw": "+£3.89 delivery",
+     "extracted": 3.89
+    },
+    "buying_format": "accepts_offers",
+    "buying_format_text": "or Best Offer",
+    "thumbnail": "https://i.ebayimg.com/images/g/xcAAAeSwlU9qOW5F/s-l500.webp",
+    "seller": {
+     "username": "wardrobeboutique80",
+     "reviews": 3200,
+     "positive_feedback_in_percentage": 99.8
+    }
+   },
+   {
+    "sponsored": true,
+    "title": "Set of 3 Vintage Hammered Brass Honeycomb Planters | Gold Metal Plant Pots",
+    "link": "https://www.ebay.co.uk/itm/177827131370?_skw=hammered+brass+planter&itmmeta=01M3RZ5ZQ36F76DVQYZXJM53X9&hash=item296752afea:g:zpQAAeSwQcVpf5or&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCLjL8AmVzzsKEQeEnbQQBNeVKVzLWrYYOVPUrw4yoWvScKyPpsQ8NixBi6jKXuIzGwDtGNWP9XuFVwYgDSpiyqfaWwb8cl1k%2F5XPdrs47%2FZbS68GBBxGv%2Fk7t0CzqK%2FaBOQTC2C3QGLim%2B9FJwPp%2Bs%2F9CCUy%2FKAaN%2BE%2FuM4yn6uJ8%2BvEeiNX%2F8DrSuSJ5ssVSb8fDZskpDCGTEZB0AJ3rJpFTqe%2BytFKIxroo5OfydFqQUEJVLjd7cL9N54BQ0U4%2Fsk1o1QBVRm34W8v3x4WsAHvNNeTvla01E6vI4vnkfmw%3D%3D%7Ctkp%3ABFBM-PuXn55o",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=177827131370",
+    "product_id": "177827131370",
+    "condition": "Brand new",
+    "price": {
+     "raw": "£59.99",
+     "extracted": 59.99
+    },
+    "shipping": "Free delivery",
+    "buying_format": "buy_it_now",
+    "buying_format_text": "Buy It Now",
+    "thumbnail": "https://i.ebayimg.com/images/g/zpQAAeSwQcVpf5or/s-l500.webp",
+    "seller": {
+     "username": "superfindz07",
+     "reviews": 658,
+     "positive_feedback_in_percentage": 100
+    }
+   },
+   {
+    "sponsored": true,
+    "title": "Vintage Hammered Brass Planter • Neoclassical Cachepot •",
+    "link": "https://www.ebay.co.uk/itm/257445846245?_skw=hammered+brass+planter&itmmeta=01M3RZ5ZQ3CHR8ND70SYC7ZM0S&hash=item3bf0f7dce5:g:~4kAAeSw2YFp1BlO&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCIIEQ9ubmUTgNx8U4mkXdlF2nOuKW%2Bt8ilacgKhpNkdzFDAo9uMmLNpTAYijz2%2BM8lDkLLaSgPVX7sz81LjNb49tk3zd4fQfVbiXeIrGSiZrcrVgSD1zk7%2FjaBNFou%2BVX55BQkG7BCQwq%2BxJbH%2BaZ9QeEh2f74ZuVp8sgn%2B%2Bzw7c%2FZ6QgZ%2FRd8Q%2FAGj3wMeQA6uwZVem%2FPPuYNPGRfYlELP3HBxn%2FSXNlhf06lwmKlVetmR3ygvNVOZMlfIWmD8ta78EwwtghpYRwbdce22gv8DLsE9HW5eKq51PcQW5%2Ffeg%3D%3D%7Ctkp%3ABFBM-PuXn55o",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=257445846245",
+    "product_id": "257445846245",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£23.32",
+     "extracted": 23.32
+    },
+    "shipping": {
+     "raw": "+£4.45 delivery",
+     "extracted": 4.45
+    },
+    "buying_format": "buy_it_now",
+    "buying_format_text": "Buy It Now",
+    "thumbnail": "https://i.ebayimg.com/images/g/~4kAAeSw2YFp1BlO/s-l500.webp",
+    "seller": {
+     "username": "collatecurate",
+     "reviews": 529,
+     "positive_feedback_in_percentage": 100
+    }
+   },
+   {
+    "sponsored": true,
+    "title": "Vintage Indian Brass Planter 8 in Jardinere Hammered w Handles",
+    "link": "https://www.ebay.co.uk/itm/366559134722?_skw=hammered+brass+planter&itmmeta=01M3RZ5ZQ3J13675T1VCPP2NTP&hash=item5558a08402:g:5MYAAeSwfRBqYRvH&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xB4slaKKLmG9vNhhAC8YwvIKAdPCSA4HIR8PayyZpFe6fig6UXcJyRf8KWc3r8WtOjHnhnMa%2BVJ3wH7TbF0H6a2nZuBoYCbabp9NrBr9lIRERShoHKSWe0mfHlDCA3SXOkhrT%2FKKHelEwnqvevTDoz1HOWtXar7jUQkHDIv%2BUWSeUFchZ98XVv%2FzgycPuOEO2xQiA%2B%2B%2BVHwCKup05qwtqcLJjZGEV6hvSoAndIcOxi%2BNVs7EhMdLM1BGKSdCWuJzmjEAySJAiUYx6cUw5fxLHV83licxdCZyQrD7hmsG8J7Uw%3D%3D%7Ctkp%3ABFBM-vuXn55o",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=366559134722",
+    "product_id": "366559134722",
+    "price": {
+     "raw": "£20.40",
+     "extracted": 20.4
+    },
+    "old_price": {
+     "raw": "£40.80",
+     "extracted": 40.8,
+     "discount": "£20.40"
+    },
+    "shipping": {
+     "raw": "+£37.77 delivery",
+     "extracted": 37.77
+    },
+    "location": "from United States",
+    "buying_format": "accepts_offers",
+    "buying_format_text": "or Best Offer",
+    "thumbnail": "https://i.ebayimg.com/images/g/5MYAAeSwfRBqYRvH/s-l500.webp",
+    "seller": {
+     "username": "electronic*attic",
+     "reviews": 28100,
+     "positive_feedback_in_percentage": 99.8
+    }
+   },
+   {
+    "title": "Vintage Large 18½\" Oval Hammered Brass Planter Pot with 2 Handles",
+    "link": "https://www.ebay.co.uk/itm/287538657646?_skw=hammered+brass+planter&itmmeta=01M3RZ5ZQ3XR4H3RCWJAKTR1Q3&hash=item42f2a3b96e:g:jF0AAeSwIR1qiKQi&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xCO0venJnEgcXmXRuNf%2BTQDtQu30mbX69bSaZKJ07Myfz%2BFgH7G1Man5fqufmiu5lNncXNnh%2B85np%2BUIqhIF%2BGPaLqc8emSo6C6YSetU5nLZNtuaqNqQgZYY%2BgN%2BvhXz41R2%2F%2BzlPVS0tSvQeZhH%2FF5AQGJQ9Pf1QspgI4yRs6kpQTz85zDzNEOZA4JdSXHKrAHhmRLXY3StGf8lecmNHWIbbGm9d1hdRszyQbIwdl0F7fzGu2rRR1ydhawNGtIVvo%3D%7Ctkp%3ABk9SR_r7l5-eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=287538657646",
+    "product_id": "287538657646",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£37.45",
+     "extracted": 37.45
+    },
+    "shipping": "Free delivery in 3 days",
+    "buying_format": "accepts_offers",
+    "buying_format_text": "or Best Offer",
+    "thumbnail": "https://i.ebayimg.com/images/g/jF0AAeSwIR1qiKQi/s-l500.webp",
+    "seller": {
+     "username": "uk-kis3",
+     "reviews": 3000,
+     "positive_feedback_in_percentage": 100
+    }
+   },
+   {
+    "title": "Vintage Brass Planter Hammered Flower Vase Garden Farmhouse Cottage Made India",
+    "link": "https://www.ebay.co.uk/itm/327274625309?_skw=hammered+brass+planter&itmmeta=01M3RZ5ZQ3W8HYM80N7RY24A75&hash=item4c3316791d:g:DzoAAeSw3CxqYf5-&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDGmUJS2Sd%2B6%2Fkvfr1iumvG%2FBTwThQH%2F8Lty4GKyDn9oD0V2ST%2FWxJDgcpE64SRJ92rLHO6XWBXooSmGco1Dfhj7O85%2FgBEhj84kC5Zuk7AyOCEhWtYQj8MDj%2FasEFufqTd4CRCPIMiFnYId6R%2BzMfaHb2thAZI3KpKMRbA2WMBoX9bgA6CSH%2B2n8HhlTDcKlge%2BuPFIhkK4arLCwQwEmeLF6ps%2BKhE832xXEJy5x7h21dfGPfy67dpgf3JyESqkFXBZIn7%2Bi4lsId5r84iHVQZ%2FmdE1uf%2Bf%2BDXF46XXoXCjw%3D%3D%7Ctkp%3ABk9SR_r7l5-eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=327274625309",
+    "product_id": "327274625309",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£45.00",
+     "extracted": 45.0
+    },
+    "shipping": {
+     "raw": "+£5.80 delivery",
+     "extracted": 5.8
+    },
+    "buying_format": "buy_it_now",
+    "buying_format_text": "Buy It Now",
+    "thumbnail": "https://i.ebayimg.com/images/g/DzoAAeSw3CxqYf5-/s-l500.webp",
+    "seller": {
+     "username": "josepmurph-67",
+     "reviews": 730,
+     "positive_feedback_in_percentage": 100
+    }
+   },
+   {
+    "title": "Vintage Hammered Brass Planter Pot Boho Cachepot (1261)",
+    "link": "https://www.ebay.co.uk/itm/407065845542?_skw=hammered+brass+planter&itmmeta=01M3RZ5ZQ3MHEGCV3XMNTRR4TJ&hash=item5ec703df26:g:MY4AAeSwuZlqUoRX&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xB20beOXz8Sd5vUhfkpxTAuTz1K8B5cmiO%2FpPBMf%2BrdX2PzUiEw2ZM0Xha1iQ%2BckHMGS9pTld83nQV9GgPw%2BXKzjGovHGrV%2FvqrEv%2FUst2Jbx%2F5bnlUGnU2OmaGXvQLKQjb0T8lYwUUhsbNk%2Fz52C%2BvXkbjrRmyxCGh8wsWqgDkiwZ%2F5sar1tXIvrX9l323Jto5aMbznBemQsBQNVzgwfVTdJVjy5Q3ZDXR4WKbJjlk%2BJUJhACVxxog1KegL%2BWng1Cj4IJ1DE4MCCBCySqhD31TttsCF2IpTX0NQqZNiDXZfw%3D%3D%7Ctkp%3ABk9SR_r7l5-eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=407065845542",
+    "product_id": "407065845542",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£21.25",
+     "extracted": 21.25
+    },
+    "shipping": {
+     "raw": "+£3.38 delivery",
+     "extracted": 3.38
+    },
+    "buying_format": "accepts_offers",
+    "buying_format_text": "or Best Offer",
+    "thumbnail": "https://i.ebayimg.com/images/g/MY4AAeSwuZlqUoRX/s-l500.webp",
+    "seller": {
+     "username": "loopandlabel",
+     "reviews": 361,
+     "positive_feedback_in_percentage": 100
+    }
+   },
+   {
+    "title": "Brass Planters set of 2 Hammered Metal Plant pots,Home & Garden.",
+    "link": "https://www.ebay.co.uk/itm/356735274515?_skw=hammered+brass+planter&itmmeta=01M3RZ5ZQ4PW3FFMTKG56V0CVV&hash=item530f144e13:g:CVAAAeSw9kBqmWwS&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xD1kOXPowP5PtldVxrJI6GTAon44oVpRnK42FV8cEet9LXj2l6ltOgyx6rAqRMoD7OKjWLpN86P74m5Jbqd83Uyf6XFFJzD%2FjpRB3ng29l%2BLuuic3mGMYogWN%2BDh8n0OhuhMpXr8eT4I%2BZDVu4rDLlPsrTkcWMthl2Kv2RcOxQyvRP1SgEISg8gDCUDfbW0ayW5rTutIVzSeshuRzWTfxScHa1MDIOVWEGC%2B57Uco66%2F3grtqmoqh%2BJ%2Bsty3ki%2FQ67%2FffxXTzxeuF0ZDU5Lqfa%2BxubUWV6fLLnsYYhajuCTLQ%3D%3D%7Ctkp%3ABk9SR_r7l5-eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=356735274515",
+    "product_id": "356735274515",
+    "condition": "Brand new",
+    "price": {
+     "raw": "£52.24",
+     "extracted": 52.24
+    },
+    "shipping": "Free delivery",
+    "buying_format": "accepts_offers",
+    "buying_format_text": "or Best Offer",
+    "thumbnail": "https://i.ebayimg.com/images/g/CVAAAeSw9kBqmWwS/s-l500.webp",
+    "seller": {
+     "username": "capital_homewares_europe",
+     "reviews": 1200,
+     "positive_feedback_in_percentage": 100
+    }
+   },
+   {
+    "title": "2x Vintage Hammered Brass Planter Pot Boho 7.5x9cm Printed SOLID BRASS",
+    "link": "https://www.ebay.co.uk/itm/206552486460?_skw=hammered+brass+planter&itmmeta=01M3RZ5ZQ4R1MEJC07QG17HYAW&hash=item30177cd23c:g:lnEAAeSwdb9qpX9f&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAAPNCwJseS8343hRqrUBlKhPUDdW%2BcMkl4N6antpBIHdGqp%2BoKWUEUvAV8gYTu6QzkLiql3Jnodjs5e2HwYX6PEPjeW8TaoKUl5oICeL7lxmUX4a0mUGJq5pE7eTkPA6NjYvj57KikH43LgDMOCqkbn6cUHSWLcVAUzfA8Sk5CPvvZb7Q1NX3TZy3a317%2BH56PGlP1KOQ5SHeXlRLnsD3aCBAryv9yZOu4L4GI4BvjU0RHNrqT6h0WWKx5sW9jGWWclN9dTgmzn9GBUrWEp2UZmbudtifvrynqzSONRNWE%2Fw%3D%3D%7Ctkp%3ABk9SR_r7l5-eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=206552486460",
+    "product_id": "206552486460",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£18.07",
+     "extracted": 18.07
+    },
+    "shipping": {
+     "raw": "+£3.38 delivery",
+     "extracted": 3.38
+    },
+    "buying_format": "buy_it_now",
+    "buying_format_text": "Buy It Now",
+    "thumbnail": "https://i.ebayimg.com/images/g/lnEAAeSwdb9qpX9f/s-l500.webp",
+    "seller": {
+     "username": "dkc9",
+     "reviews": 2400,
+     "positive_feedback_in_percentage": 100
+    }
+   },
+   {
+    "title": "Brass Persian Pot Hammered Detail Planter Vase For Flowers Rustic Patina",
+    "link": "https://www.ebay.co.uk/itm/178380586083?_skw=hammered+brass+planter&itmmeta=01M3RZ5ZQ4F8ZG6H42SRSP9WTT&hash=item29884fbc63:g:PW0AAeSwu~VoeN2l&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCxd3z1txkhQc57pMwvKj0YRtv7ofwlbU%2FiijGIs%2Bcmhav3fV2LWCSgfqgShjl8wGOWhqPFo%2FrhhRPFMGAcXE1yQFnYf3Y1bCGCgRO1mbYyA5J33kDeO8IiHlqxb8Ab0XznzAUghMC%2BOrho9nsQlTb1iov1z9fMZT1EMvk8oIVCLkhrknYj%2F5ceKQXaWqD2KhOl2PdFYigR6LfYnGWHkFCQtemWE7UsuwGaCbfMmfsH3y3EwoWa7XLULGVN2Ncc6sUhMCBKpJuYrTWrka0gwJwIJ0GlJObXlcE1pRWFe7IYCw%3D%3D%7Ctkp%3ABk9SR_r7l5-eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=178380586083",
+    "product_id": "178380586083",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£38.92",
+     "extracted": 38.92
+    },
+    "shipping": {
+     "raw": "+£3.71 delivery",
+     "extracted": 3.71
+    },
+    "buying_format": "accepts_offers",
+    "buying_format_text": "or Best Offer",
+    "thumbnail": "https://i.ebayimg.com/images/g/PW0AAeSwu~VoeN2l/s-l500.webp",
+    "seller": {
+     "username": "unclebulgariasemporium",
+     "reviews": 1600,
+     "positive_feedback_in_percentage": 100
+    }
+   },
+   {
+    "title": "Vintage Brass Repousse Bowl Planter 18cm Embossed Hand Hammered Floral Patina",
+    "link": "https://www.ebay.co.uk/itm/267773430749?_skw=hammered+brass+planter&itmmeta=01M3RZ5ZQ4E88XQ9R05RQQR2T9&hash=item3e588a4bdd:g:FHoAAeSww-FqlyBr&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBkgqe4O9Cjua%2F9fOVAgUBgci5O3vIDINszr3TLGawe3vR7%2B905UEq%2Fx%2BLeMJbVrVp%2BuRinXKwfXr33ATfrcmoHj0GzzOEDypLFBaKZ6lU2WG9TGlCFo3G%2BDhEeblkWBahYJoCvsdwYfuv2XPaHeMKwcKW0jVq%2BBnVNN7b%2FR%2Bpsw%2BxyX4IgkVVboTEI7IvekpfMkA9Y%2BKyNT7Jmvm3bWliJQGw9hJWrEmfLc2hm6d0Jrlyfons7zotYPDlcaifR1koQcn%2BdHfcfqZuAVpMDYuog3U6zGfLdt%2FbC3DJEW4D0aQ%3D%3D%7Ctkp%3ABk9SR_r7l5-eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=267773430749",
+    "product_id": "267773430749",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£31.58",
+     "extracted": 31.58
+    },
+    "shipping": {
+     "raw": "+£2.94 delivery",
+     "extracted": 2.94
+    },
+    "buying_format": "accepts_offers",
+    "buying_format_text": "or Best Offer",
+    "thumbnail": "https://i.ebayimg.com/images/g/FHoAAeSww-FqlyBr/s-l500.webp",
+    "seller": {
+     "username": "base-seri",
+     "reviews": 224,
+     "positive_feedback_in_percentage": 100
+    }
+   },
+   {
+    "title": "Vintage Hammered Brass Coal Log Bucket / Planter / Waste Paper Bin / Storage",
+    "link": "https://www.ebay.co.uk/itm/177827071292?_skw=hammered+brass+planter&itmmeta=01M3RZ5ZQ4X8JDRQZWWSB8QHN4&hash=item296751c53c:g:WmEAAeSwat1pf4wf&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xDol2Nhv9rpC9vR9EjWTWkgiodoMkt14Zgr%2FTDX6bV8Qh3246H7rBFrT%2FVwvkgRkvYB%2BF9pA80Gie9IzVg3MX%2BNRWrp1xc6wxf4i0GC4exj9sWEfdDDN5JDpTLSkOZTvBZM%2FVSh3OPUjNNvvwYLlonKftUL9zdqdqSDf5qK%2BVavKcZ7JK0qH0TUqcT%2BekoIG4fTwfJJoty3emMWasIY8%2FFXhmGKjfQFnXKWbbCvfYVlPOR7d4vMLbJA0ydq8bRogCs%3D%7Ctkp%3ABk9SR_r7l5-eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=177827071292",
+    "product_id": "177827071292",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£22.99",
+     "extracted": 22.99
+    },
+    "shipping": "Free delivery",
+    "buying_format": "accepts_offers",
+    "buying_format_text": "or Best Offer",
+    "thumbnail": "https://i.ebayimg.com/images/g/WmEAAeSwat1pf4wf/s-l500.webp",
+    "seller": {
+     "username": "henrysaysye",
+     "reviews": 97,
+     "positive_feedback_in_percentage": 100
+    }
+   },
+   {
+    "title": "Vintage Brass Trough Planter Plant Pot Handmade Hammered Oval Lion Head Handles",
+    "link": "https://www.ebay.co.uk/itm/278181367548?_skw=hammered+brass+planter&itmmeta=01M3RZ5ZQ4VVK8B0M2E99ZXDKE&hash=item40c4e6cefc:g:SwYAAOSwFjZm7Wxu&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAm6p52ghen7lvUoofse4iZcFA%2Bgyvl%2FSHW39HWHVegSjZ%2F2pvoXXK505o%2FwMJFxBVtcKhfIae1fZ%2Fosk%2BT6840sUHSQ66lTN3m7TFWTWielDraZ82tBbNpukFsze7fwvirctoAUZiplL4oEYXgiBkQ0bVugEu49QiFN6zSTJe3N4XLNIt3qHx5sem9owk9Mqmg2%2BSHZ5vFXvtzQBGYuq2p8snQinSwDyKLTw6S%2B5TWxlFleQRFWhQ6vop%2BbrycviKPRVoQ8maZYXMbtOaipn%2Fzr53zowTg0FcrkBjT8b%2Bs%2Bg%3D%3D%7Ctkp%3ABk9SR_r7l5-eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=278181367548",
+    "product_id": "278181367548",
+    "price": {
+     "raw": "£36.74",
+     "extracted": 36.74
+    },
+    "shipping": {
+     "raw": "+£4.06 delivery",
+     "extracted": 4.06
+    },
+    "buying_format": "buy_it_now",
+    "buying_format_text": "Buy It Now",
+    "thumbnail": "https://i.ebayimg.com/images/g/SwYAAOSwFjZm7Wxu/s-l500.webp",
+    "seller": {
+     "username": "waterkristal",
+     "reviews": 1400,
+     "positive_feedback_in_percentage": 100
+    }
+   },
+   {
+    "title": "Vintage & Copper Brass Planter Jardiniere 9.5” Footed Oval Hammered Floral deco",
+    "link": "https://www.ebay.co.uk/itm/168691588961?_skw=hammered+brass+planter&itmmeta=01M3RZ5ZQ4K937BN3VTBKMVV0G&hash=item2746cd5f61:g:aewAAeSwk-FpbmVB&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xB%2Bts2jHbN%2B7djSqo8VNqsVoly83qjN78vumqpJHxYxUUvlOfx5uUikG6veBtX7jBXR96orzz51kn37wKKEU8GkrkPtBc95nx0gnShseSTVTWax3PPJcrC528qnTOBdgr07LxohzRh63%2BKzRIYNustFfyqLLOwbZJir7i3yklbuYOykbB7BsIrb3hzn0QwtFb7CXSyzRi2q%2B71yvWiePlM4kT0NFP7NPlNlSi4p0s4FGJwVjSKH%2FpN68pu%2Bn0MvBcI%3D%7Ctkp%3ABk9SR_r7l5-eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=168691588961",
+    "product_id": "168691588961",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£72.99",
+     "extracted": 72.99
+    },
+    "shipping": "Free delivery",
+    "returns": "Free returns",
+    "buying_format": "buy_it_now",
+    "buying_format_text": "Buy It Now",
+    "thumbnail": "https://i.ebayimg.com/images/g/aewAAeSwk-FpbmVB/s-l500.webp",
+    "seller": {
+     "username": "gift_edshop",
+     "reviews": 1100,
+     "positive_feedback_in_percentage": 100
+    }
+   },
+   {
+    "title": "ANTIQUE HAMMERED BRASS PLANTER ON CARVED WOODEN LEGS. MARKED HONG KONG TO BASE.",
+    "link": "https://www.ebay.co.uk/itm/306876893549?_skw=hammered+brass+planter&itmmeta=01M3RZ5ZQ4A1X4N46MHTHHG8Z2&hash=item477349c96d:g:ptYAAeSwufBoZxW7&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xBjcq%2FMKNHFj2hJ%2BZ%2BcWvj62ADXdm9OrDJiiyGxQyDSP1r3oMKkk9UY8zZFDh%2BOAYgKdbR%2ByE4%2B35HZJDP5o5ndKgfmWXcMEHeGsRjTlMEpWVJOQedgjmoLAqvnsqbMJLEEI25W4bnH%2Bx7VaWVEzOzOUoRwqNcgdVPaEHnQS6ALpdseHLTI7llkDXUUG%2BZVHesbsJebEKhDP04fuHPfE87IhHMCwuFqNZRijOPD8au0gRp9urK--3ipyUd9%2BhMnMPE%3D%7Ctkp%3ABk9SR_r7l5-eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=306876893549",
+    "product_id": "306876893549",
+    "price": {
+     "raw": "£36.75",
+     "extracted": 36.75
+    },
+    "shipping": {
+     "raw": "+£10.50 delivery",
+     "extracted": 10.5
+    },
+    "buying_format": "accepts_offers",
+    "buying_format_text": "or Best Offer",
+    "thumbnail": "https://i.ebayimg.com/images/g/ptYAAeSwufBoZxW7/s-l500.webp",
+    "seller": {
+     "username": "johnlaw51",
+     "reviews": 1000,
+     "positive_feedback_in_percentage": 100
+    }
+   },
+   {
+    "title": "Pair of XL Vintage Hammered Copper Brass Planters @16.5cm Tall - Tall vases",
+    "subtitle": "Brass",
+    "link": "https://www.ebay.co.uk/itm/366693976382?_skw=hammered+brass+planter&itmmeta=01M3RZ5ZQ584B6WHYRG9RVWEYS&hash=item5560aa093e:g:4TgAAeSw0mVquBwU&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xBgqL5GmUed%2Bhai%2BG2Xi3mVB4quaFPGMcS8ZW2%2BZVxW5OTeGi%2FxXV64zghQQ6I%2FwIKVMQZku5SU76%2FssEktLgrdcHwfmc%2BuOIObO%2Bs7DKnmxyi%2BJsZVgorcLBVjN8%2FSavCWnAYhRfj96J0a7l11vEMi67RlXV3%2Fc0a%2BqwWnXHKlOko7gd%2F3d9SbrrZCCYgxqjfUNd6wjI%2FmbYt444EWl0UXnznepRBz5fvBvCKaRnTzNpIeQrcT%2F2k5ykUbSv1TjGY%3D%7Ctkp%3ABk9SR_r7l5-eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=366693976382",
+    "product_id": "366693976382",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£15.96",
+     "extracted": 15.96
+    },
+    "shipping": {
+     "raw": "+£3.38 delivery",
+     "extracted": 3.38
+    },
+    "buying_format": "buy_it_now",
+    "buying_format_text": "Buy It Now",
+    "thumbnail": "https://i.ebayimg.com/images/g/4TgAAeSw0mVquBwU/s-l500.webp",
+    "seller": {
+     "username": "aw.sla-21",
+     "reviews": 1100,
+     "positive_feedback_in_percentage": 99.8
+    }
+   },
+   {
+    "sponsored": true,
+    "title": "Vintage Hammered Brass Planter Bowl Foo Dog Ring Handles Hong Kong 15.5 In",
+    "link": "https://www.ebay.co.uk/itm/188931925134?_skw=hammered+brass+planter&itmmeta=01M3RZ5ZQ5D13VGBVEKKM95JPB&hash=item2bfd38648e:g:XaQAAeSwErFqqK03&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBTCvs2uupGkmauEPlCdhjLV7xTDcAg46Qq34YXhNO7CACZ3f1dXB%2BPDTmKiCXDPxWM%2FUP7Se49tfHizLkkgTEkFeq5CxKDNfygu9pMb1K59fvUWYH%2FX9001NjvxwB3Bvcu40ATh%2BTTXm3bMPGl2oYKguKUhgTiXMWJ0JkgwAvKusNBnL02erXdVRebt0g7%2FNRlyhjl1tpSrzX9Z4mL%2BmzWYvMS1ikTpmWfjmmclD45j3pP%2B3oA5dYFWV5lwa7BMXTnvHD835pVBh4ogO3zZqwnyXQ4SBNkYkmMHD5kqH6JzA%3D%3D%7Ctkp%3ABFBM-vuXn55o",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=188931925134",
+    "product_id": "188931925134",
+    "price": {
+     "raw": "£155.99",
+     "extracted": 155.99
+    },
+    "old_price": {
+     "raw": "£162.48",
+     "extracted": 162.48,
+     "discount": "£155.99"
+    },
+    "shipping": {
+     "raw": "+£23.17 delivery",
+     "extracted": 23.17
+    },
+    "location": "from United States",
+    "buying_format": "accepts_offers",
+    "buying_format_text": "or Best Offer",
+    "thumbnail": "https://i.ebayimg.com/images/g/XaQAAeSwErFqqK03/s-l500.webp",
+    "seller": {
+     "username": "belle-afrikarts",
+     "reviews": 759,
+     "positive_feedback_in_percentage": 100
+    }
+   },
+   {
+    "sponsored": true,
+    "title": "Pure Copper Water Dispenser Matka 6 Lt Hammered Container Pot with Brass Stand",
+    "link": "https://www.ebay.co.uk/itm/820144828293?_skw=hammered+brass+planter&itmmeta=01M3RZ5ZQ5X62X969ZRQGARXW6&hash=itembef470ef85:g:fwUAAeSw3TxqrgTb&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCEBeCX%2F0LoixQIINrfpn9e0FoNFyuYjNhAAP4WD0DgrtPh62RHcE%2FbiaT3gKN5PZOlXpYx9hwGbAl1gZ5tRQ%2FpSkR1ExQ9Sd3TmFkgdBP28T1tA9NURClZNhCrlHOz4p0EfjlS1WigCdRQZWYxqpddLg979xSFL8zGEZZ9L4NgcytnRHgE0FW9cX%2BVZH7Dcw%2BRew4MLhrOHcr%2B%2BNSDN5cKDG3qh1GXrfTfGp90fLID7zwal9AAcFz3Qkm4Rl370BSsRyYhrO0jSwOKQr56637j%2F0MiyOGFp66kmrjiz%2BbqBw%3D%3D%7Ctkp%3ABFBM-vuXn55o",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=820144828293",
+    "product_id": "820144828293",
+    "condition": "Brand new",
+    "price": {
+     "raw": "£119.99",
+     "extracted": 119.99
+    },
+    "shipping": "Free delivery in 3 days",
+    "promotion": "Save up to 15% with Multi-buy",
+    "buying_format": "accepts_offers",
+    "buying_format_text": "or Best Offer",
+    "thumbnail": "https://i.ebayimg.com/images/g/fwUAAeSw3TxqrgTb/s-l500.webp",
+    "seller": {
+     "username": "ayurveda.living",
+     "reviews": 2,
+     "positive_feedback_in_percentage": 100
+    }
+   },
+   {
+    "sponsored": true,
+    "title": "Vintage Hammered Brass Planter Cachepot Grape Handles Footed Bowl Jardiniere 11\"",
+    "link": "https://www.ebay.co.uk/itm/178451508654?_skw=hammered+brass+planter&itmmeta=01M3RZ5ZQ52T571NHW3F1TFFBD&hash=item298c89edae:g:haQAAeSwPgVqkxTd&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xC2O94qeljxvve9ugy2lOVZYtgJvXFFzE72thvBmHPkizM55YKVPX6rxlN6uk6y1bz6yPDmGHfX9Ldc0vFc1Q8UUBrw06x%2FQn0%2FaNL5uhDGZk%2BMTKjGlnVUBWH6AOPtDgsVda8l2uUr2V0fP6D%2FBGccuY6ONBuJs2qD4VwdoZgmYGN%2FwPIqqTD8NaUSN3UAyzUEeovd%2BqCDiaQ3htH0Gdg9vC5M3hl%2FtJRY%2FbomYeNavugCK6yHn1aJdJA0csJ6gZXhbAXXRF2SKUdOAdVPfbjdKuyS01xLfMHDaWYlUzVo4w%3D%3D%7Ctkp%3ABFBM-vuXn55o",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=178451508654",
+    "product_id": "178451508654",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£40.78",
+     "extracted": 40.78
+    },
+    "shipping": {
+     "raw": "+£34.31 delivery",
+     "extracted": 34.31
+    },
+    "location": "from United States",
+    "buying_format": "accepts_offers",
+    "buying_format_text": "or Best Offer",
+    "thumbnail": "https://i.ebayimg.com/images/g/haQAAeSwPgVqkxTd/s-l500.webp",
+    "seller": {
+     "username": "hausdesigns",
+     "reviews": 1300,
+     "positive_feedback_in_percentage": 99.7
+    }
+   },
+   {
+    "sponsored": true,
+    "title": "Vintage Arts & Crafts Hammered Brass Jardinière / Planter on Ball Feet",
+    "link": "https://www.ebay.co.uk/itm/236944302079?_skw=hammered+brass+planter&itmmeta=01M3RZ5ZQ52SEKFCJ7NBPM1BQF&hash=item372afb1fff:g:tu0AAeSw-1dqWlZJ&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDphy9nMyapOtKUHv4Xf9%2FrUwAE0VMkfhGMOn0vGwO9Me6dQNoKkkwyQc8l6c75UvNMMcQdUX%2BeyoRR53iN3qcZHQ1%2BU8c6b7dMT3mVGuxWZjnDeHzTGyzbrSVjuuLZbzByTryfUSlH%2By4AconWmP5Bz%2FfoOtEhArYjefvaq9W8HGt6taL7ZC3a6giilyuU--QvZHnAZEWfeIYMs7DtAloZwasUPWDColCEgYxk8S9feYkPVLpvljii4xaEsXIqbjdtucP2rmD0ylbk8u4c1TZ2N31%2BOlCITNceD7d1iQ1fwg%3D%3D%7Ctkp%3ABFBM-vuXn55o",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=236944302079",
+    "product_id": "236944302079",
+    "price": {
+     "raw": "£95.00",
+     "extracted": 95.0
+    },
+    "shipping": {
+     "raw": "+£9.95 delivery",
+     "extracted": 9.95
+    },
+    "buying_format": "accepts_offers",
+    "buying_format_text": "or Best Offer",
+    "thumbnail": "https://i.ebayimg.com/images/g/tu0AAeSw-1dqWlZJ/s-l500.webp",
+    "seller": {
+     "username": "mk45sales",
+     "reviews": 2400,
+     "positive_feedback_in_percentage": 99.8
+    }
+   },
+   {
+    "title": "Vtg.Repousse Brass Planter, Hand Hammered Boho Flower Pot↨ 11cm Ø 15.4 cm",
+    "link": "https://www.ebay.co.uk/itm/257624914012?_skw=hammered+brass+planter&itmmeta=01M3RZ5ZQ54DMERAAC3FWVP50A&hash=item3bfba4385c:g:QWgAAeSwsIxqWTgW&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAHrUWyOdT2wyZQOJEi%2FA5LFHBNU0%2Bpigga64Is7y6KYYoxOs%2BP8NULZwvYNGb%2FLJxGAZWvQGkkTehbXwutlkx%2FfvWNmuv4wD2Pi7fWkVhvTp8cl1FEGXmQ7pvaqQBIEHFSjLPnz9%2F9WNtLJHyA06KHb1HuZlFjh%2FRzRFwFf2Z4vW5j09Af%2FezznKUcAc5LJcBeWk4bAhBcOoFKTFTedb0VOMG%2FdOiNYyfNrvC%2BYpHI9alf9LEhGZbzJ%2B2Kwj7fLWeY%2FxR%2Bl310uP8jXnvhWVCWKam6ErWDXcEjd5cA1IVA2Q%3D%3D%7Ctkp%3ABk9SR_r7l5-eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=257624914012",
+    "product_id": "257624914012",
+    "price": {
+     "raw": "£26.42",
+     "extracted": 26.42
+    },
+    "shipping": {
+     "raw": "+£5.15 delivery in 2-3 days",
+     "extracted": 5.15
+    },
+    "buying_format": "buy_it_now",
+    "buying_format_text": "Buy It Now",
+    "thumbnail": "https://i.ebayimg.com/images/g/QWgAAeSwsIxqWTgW/s-l500.webp",
+    "seller": {
+     "username": "robaklondon",
+     "reviews": 1700,
+     "positive_feedback_in_percentage": 100
+    }
+   },
+   {
+    "title": "Vintage Brass Bucket Scuttle Planter Hammered Flower Fruit Pot Holder Lion 31cm",
+    "link": "https://www.ebay.co.uk/itm/800483525898?_skw=hammered+brass+planter&itmmeta=01M3RZ5ZQ5H7NMHE94FKSGYTTR&hash=itemba6089450a:g:wrUAAeSwAfJqePKY&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDkpsXBZJl21bcf5d6AigVbcnKRJXBvvfol%2BH0gcPzOO3deHBtFrl37eKgqq8%2BGkTc%2BWSnjyDp5oNbSVEzB%2B1kd9hGAiaBFNq4UCUm38N2TTyKKTs8z4MbkJlciHpB%2FlpJuhpJnselS3RtuHOr1oY0Zubos46wiKsvhpuDYla2d9P%2BCkGs%2BwbaiAYBv0FF8sAvKNqcyAuX99pNRApQPNfyF%2FwgCoQgS2HcP1kppcLnAOSTXjFQMkQO1xJUabhFKz3rZCiYpEZujTWvS%2BatSQU7K--KuzAX2bb76xsnyLauetw%3D%3D%7Ctkp%3ABk9SR_r7l5-eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=800483525898",
+    "product_id": "800483525898",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£38.82",
+     "extracted": 38.82
+    },
+    "shipping": {
+     "raw": "+£3.71 delivery",
+     "extracted": 3.71
+    },
+    "buying_format": "accepts_offers",
+    "buying_format_text": "or Best Offer",
+    "thumbnail": "https://i.ebayimg.com/images/g/wrUAAeSwAfJqePKY/s-l500.webp",
+    "seller": {
+     "username": "pinal85",
+     "reviews": 416,
+     "positive_feedback_in_percentage": 100
+    }
+   },
+   {
+    "title": "Hammered Brass Trinket Key Bowl Planter With Great Patina 1980s",
+    "link": "https://www.ebay.co.uk/itm/257300773151?_skw=hammered+brass+planter&itmmeta=01M3RZ5ZQ6051EQR2GYMESY6RG&hash=item3be852391f:g:OkAAAeSwTfxn98xH&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xDbqqOsZBmBMuvXtWUfWuiNanJfLH67Y2pgb7bRHF00a7ObgRdzNhtz0wjgCxkngEEocvVjcd7ZLTFIkpqPfxIxWbgOu2iHPX94TOzw9mkYJ75vGP54v91K95JKOK533YXRHSSu3%2Bo6a0nANYjZ9BtEWfHoSWg%2FOrA88MHZS3HoAQ01tsPB0TFTfG%2BRWHruMl0zm2u9wasg5tHbqRK4xb0%2BPtsWTqo1%2FhLbNkUcKHEa9k0noGAOJatxwaexZ36JC6g%3D%7Ctkp%3ABk9SR_r7l5-eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=257300773151",
+    "product_id": "257300773151",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£23.73",
+     "extracted": 23.73
+    },
+    "shipping": {
+     "raw": "+£2.94 delivery",
+     "extracted": 2.94
+    },
+    "buying_format": "accepts_offers",
+    "buying_format_text": "or Best Offer",
+    "thumbnail": "https://i.ebayimg.com/images/g/OkAAAeSwTfxn98xH/s-l500.webp",
+    "seller": {
+     "username": "olivia1403",
+     "reviews": 671,
+     "positive_feedback_in_percentage": 100
+    }
+   },
+   {
+    "title": "Antique Early 19th Century Brass Hand Hammered Planter Two Handles & Small Feet",
+    "link": "https://www.ebay.co.uk/itm/278243012002?_skw=hammered+brass+planter&itmmeta=01M3RZ5ZQ68V7ACZFC875A3871&hash=item40c8936da2:g:TIkAAeSwRTtqcH8P&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xC9CwDYPDPEPQSvxP1omUhXnjCb%2FW%2BHWeNOvJvzlrk5TnOkAHJTren64tGupAkqQGV3I0onTOb3%2FU0pU5tcv1aNnDLN2PvAljN176A0GWK%2FNEz3Zjf1mfyRNZ5XVRXRAZ8IfRCHNX79SX11LwFJolfbjbRmRFzgYYYWhywSxo9Kydeybshma0xPRmtEBPBEG2FCRTngXVbvK5RXoSV5UF7goGbhg%2ByumvLBRnrsVldz6p7Mf3HbX%2FWL39IOYOEDHYU%3D%7Ctkp%3ABk9SR_r7l5-eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=278243012002",
+    "product_id": "278243012002",
+    "price": {
+     "raw": "£31.58",
+     "extracted": 31.58
+    },
+    "shipping": {
+     "raw": "+£3.38 delivery",
+     "extracted": 3.38
+    },
+    "buying_format": "buy_it_now",
+    "buying_format_text": "Buy It Now",
+    "thumbnail": "https://i.ebayimg.com/images/g/TIkAAeSwRTtqcH8P/s-l500.webp",
+    "seller": {
+     "username": "alexandersallsorts",
+     "reviews": 2500,
+     "positive_feedback_in_percentage": 100
+    }
+   },
+   {
+    "title": "XL Antique Hammered Copper Pot Roll Edge Dovetail Seam Brass Lion Planter Window",
+    "link": "https://www.ebay.co.uk/itm/257194410336?_skw=hammered+brass+planter&itmmeta=01M3RZ5ZQ6RH0CC3CW38Z89CC4&hash=item3be1fb4160:g:rtsAAeSwO8tpAm9v&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xBegDz5F7wTd8caOS6RYu9hzQzcIrlPSj2S5S6LiQyTezIzxMF%2Btoa6s8n%2FkfqP5DBoyqGK%2FSMIcjSoxiHeN9aWmkQOWNPX7tIbUHvCwOJZbeC8jC7iWBEnKafgEuAHw0rZKLgK57Bm%2F7d4e1ht4P7LVfwRlTSOxV%2Bgf%2FeOsFIRb4w%2FTm6UFhpMe1YILhQzCefFIi2mDO%2Bu03DEHqs63Gs6RBeugn%2BOgHTmlZqbhn1K68bKlWLHXuGFHP5S7G%2Boa4g%3D%7Ctkp%3ABk9SR_r7l5-eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=257194410336",
+    "product_id": "257194410336",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£157.50",
+     "extracted": 157.5
+    },
+    "old_price": {
+     "raw": "£175.00",
+     "extracted": 175.0,
+     "discount": "£157.50"
+    },
+    "shipping": {
+     "raw": "+£14.99 delivery",
+     "extracted": 14.99
+    },
+    "buying_format": "buy_it_now",
+    "buying_format_text": "Buy It Now",
+    "thumbnail": "https://i.ebayimg.com/images/g/rtsAAeSwO8tpAm9v/s-l500.webp",
+    "seller": {
+     "username": "honeypickedvintage",
+     "reviews": 4400,
+     "positive_feedback_in_percentage": 100
+    }
+   },
+   {
+    "title": "Vintage Round Hammered Brass Planter / Jardiniere With Lions Head Handles",
+    "link": "https://www.ebay.co.uk/itm/297485863161?_skw=hammered+brass+planter&itmmeta=01M3RZ5ZQ6YXZZ05G42JAS7CK0&hash=item45438a08f9:g:xhwAAeSwu~VofpxF&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDbocrQFpAOAIGlnVNhK%2BoPEApxx%2B0bgjz6KHupfqNks6RT8Zxnl7H0uciErlv9Ry9UNCqVjNGCDDXt9EIlGC9AWHf9rFMIeXc8o84mVnbtFouq9J7NdNdCo%2BzVDe3BwjqPHy5eZ24yF%2B9i54GTbdQLltyW4kw%2BvWFEwDOG4Nef7OZ034KO7L1WR50%2Ba5Tp1zcx5IIzu6nezSYjT5kYnOuxOt5Dsiq4RbGotSWoPLaXDjxYindQOTc05jLhYTXbzWW6W5QUOEQjGWpEyL37LHaI1lXnsrQ69D2oqF%2Fs8RCdRQ%3D%3D%7Ctkp%3ABk9SR_r7l5-eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=297485863161",
+    "product_id": "297485863161",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£24.23",
+     "extracted": 24.23
+    },
+    "shipping": {
+     "raw": "+£3.71 delivery",
+     "extracted": 3.71
+    },
+    "buying_format": "buy_it_now",
+    "buying_format_text": "Buy It Now",
+    "thumbnail": "https://i.ebayimg.com/images/g/xhwAAeSwu~VofpxF/s-l500.webp",
+    "seller": {
+     "username": "bluefruitybits",
+     "reviews": 2200,
+     "positive_feedback_in_percentage": 100
+    }
+   },
+   {
+    "sponsored": true,
+    "title": "ANTIQUE BRASS HAMMERED GRAPE RELIEF JARDINIERE PLANTER",
+    "link": "https://www.ebay.co.uk/itm/358628880579?_skw=hammered+brass+planter&itmmeta=01M3RZ5ZQ6J6THKNEYWWHSH7B9&hash=item537ff270c3:g:hnkAAeSwCttqHqJp&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xD5qzxgxpIgg%2FlhP87yZlsWWpIy3uH8qy%2BDW%2F07q3xXDnD0QkwtDS1LUwZ4pxINqeqJFcjrU1FbaaRssvX6tRFZKM%2Fx%2BIvo8H3DlYoNvZkVmo6vVzBC%2Fn3cqGZAFYDZDeiGwa4fNqncBY9KwQE2SyWV8kCJ5cagPJucxijQzijjrtCd4x5YdYfOATx1z7Spb6bMG%2FDUq%2FHdglDRMn8ZWgvt08VQW%2BrwsQi1E0GG9ujerBNLkYVFfT1M4jvC%2FHUe%2BrZeRqljNAd7NxRG7qXVQCSx%2BGpVbrJDvpytyYqTo83HgA%3D%3D%7Ctkp%3ABFBM_PuXn55o",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=358628880579",
+    "product_id": "358628880579",
+    "price": {
+     "raw": "£33.99",
+     "extracted": 33.99
+    },
+    "old_price": {
+     "raw": "£39.99",
+     "extracted": 39.99,
+     "discount": "£33.99"
+    },
+    "shipping": {
+     "raw": "+£6.40 delivery",
+     "extracted": 6.4
+    },
+    "buying_format": "buy_it_now",
+    "buying_format_text": "Buy It Now",
+    "thumbnail": "https://i.ebayimg.com/images/g/hnkAAeSwCttqHqJp/s-l500.webp",
+    "seller": {
+     "username": "lloydsoutfitters",
+     "reviews": 11200,
+     "positive_feedback_in_percentage": 99.8
+    }
+   },
+   {
+    "sponsored": true,
+    "title": "Vtg Arts Crafts Hammered Copper Brass Planter Cachepot Tulip Crown Handles Large",
+    "link": "https://www.ebay.co.uk/itm/188450393515?_skw=hammered+brass+planter&itmmeta=01M3RZ5ZQ6V4YD1V9KZJZ8MJY8&hash=item2be084cdab:g:GpcAAeSwPtlqHN7X&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xD2OyfhCMNsNNtnPsCVDu%2FS6MQ8XcmFfEL2592qZDmZvfDf5%2FA5c0lxOXe65MHBKHzKG1QoWa98UV2TZ3a3JwXwSiAOP%2B0JUNqqBLhotx2JECHz9rrF27wuINM9uyk%2FqkSCcUc4R7b9gXhZl%2BxLBMCuw8YRQ65wHCWk0x9HXHHOYjOZbkNzeNoMfeQvZrEBr6faAXXY8m6fNeYKC23EDGVgd8N%2BwrHUa0Q9Mha7sAs%2BXAycyR5qdZ8%2F3G3QHOyqET08JLzHPA2hGIM7b8fiDnE3bBI5snIlqdxjOaAYqJB80g%3D%3D%7Ctkp%3ABFBM_PuXn55o",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=188450393515",
+    "product_id": "188450393515",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£79.81",
+     "extracted": 79.81
+    },
+    "shipping": {
+     "raw": "+£38.04 delivery",
+     "extracted": 38.04
+    },
+    "location": "from United States",
+    "buying_format": "buy_it_now",
+    "buying_format_text": "Buy It Now",
+    "thumbnail": "https://i.ebayimg.com/images/g/GpcAAeSwPtlqHN7X/s-l500.webp",
+    "seller": {
+     "username": "greswee",
+     "reviews": 5000,
+     "positive_feedback_in_percentage": 99.7
+    }
+   },
+   {
+    "title": "Vintage Hammered Brass Bowl Planter w Feet India Patina Cauldron 5\"H 7\" Diameter",
+    "link": "https://www.ebay.co.uk/itm/256730490205?_skw=hammered+brass+planter&itmmeta=01M3RZ5ZQ6KDXYEWAEC62MEK4H&hash=item3bc654655d:g:NPYAAOSwcWdnR0rb&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xDIhGqvTIiLZqPznKFhnLAxAPzj8b0fnhHzZRLyZiU4ytRXugvIfPMeF4%2BF5fACNqSB8TkwtQunEU3%2FoHbA%2FF3%2B0%2BKu6OQbMr%2Ft2tfnSZbE0Tn923Y6klKrO%2FRO0XdkySCwIKBECmV9IE9Xu2BXU3sJg5JrbfFI8grwmncIfwWyvltAlMb2IdpuAslvA83auto8uWJQKH52CVgX1nFle9iROC3XiBSWiTqWjDJlEGHZ9f2e476gZ92RXDDs3fdchf0%3D%7Ctkp%3ABk9SR_z7l5-eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=256730490205",
+    "product_id": "256730490205",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£36.00",
+     "extracted": 36.0
+    },
+    "shipping": {
+     "raw": "+£7.65 delivery",
+     "extracted": 7.65
+    },
+    "buying_format": "accepts_offers",
+    "buying_format_text": "or Best Offer",
+    "thumbnail": "https://i.ebayimg.com/images/g/NPYAAOSwcWdnR0rb/s-l500.webp",
+    "seller": {
+     "username": "communityreuseshop",
+     "reviews": 3700,
+     "positive_feedback_in_percentage": 100
+    }
+   },
+   {
+    "title": "Victorian Very Large Rare Hammered pure Copper and Brass Planter, log ,Coal Buck",
+    "link": "https://www.ebay.co.uk/itm/298706858175?_skw=hammered+brass+planter&itmmeta=01M3RZ5ZQ6WMGTP173RFXBNKYN&hash=item458c50f0bf:g:tT4AAeSwsdppv-fT&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xCGQWx3qGoZGt551mk2Xz6aTLj61WKvSsQagwfAL8q4Mia1i%2F%2BVZ8SdohjBKnP1SjFaankzskn8dNrSpppTMXaBbDXpjna%2BIPYZ9p8mwI2kFHSpo7AWhZo603ASzV8IdeXtVQEBdBSu6U9tPhAmLiegUHgz1bvVe9WfJS6AnFVvA0r8gHd%2FyrvqKm60c2mMQ0oLDTG4PrHjG%2BGEyu%2FWdFXp%2FszLLOH0CpaLVgul6PbcbH5UO%2BrrPhRWsifeZ0l3i2k%3D%7Ctkp%3ABk9SR_z7l5-eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=298706858175",
+    "product_id": "298706858175",
+    "price": {
+     "raw": "£148.93",
+     "extracted": 148.93
+    },
+    "shipping": {
+     "raw": "+£8.36 delivery",
+     "extracted": 8.36
+    },
+    "bids": {
+     "count": 0,
+     "time_left": "5d 8h left"
+    },
+    "buying_format": "auction",
+    "thumbnail": "https://i.ebayimg.com/images/g/tT4AAeSwsdppv-fT/s-l500.webp",
+    "seller": {
+     "username": "happy-days-high-end-art",
+     "reviews": 365,
+     "positive_feedback_in_percentage": 100
+    }
+   },
+   {
+    "title": "Vintage Hexagonal Brass Planter Geometric Patina Home Decor 9 X 4”",
+    "link": "https://www.ebay.co.uk/itm/196870533855?_skw=hammered+brass+planter&itmmeta=01M3RZ5ZQ68ERN6ZVF2YD6TMFJ&hash=item2dd665f2df:g:~QYAAOSwYo9nT09r&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xAQeD%2F4Zvf2fwdu85piuq0C9ClrBNuEbJFJQWZ7lZo5tpvx7694r8U5Fmy53S8SfIdO8%2FeyJiKrangHZXhPi98nACVVX5ki8Rp7cSSCxG5LSiwMmEL%2BNCmj1e4jVLHKQQ0xpoh5Jp5yDt0mH81MV4Zzios6KvkU48lEDikNEpuWXVuaIVGWjCQ4KJyVtVXhfB%2BtZ%2BKEODnSIGTlMnLNsTsrJc6Y0EB9uodumwDWw5ZPNHmU79YwR5DMYjXsE5f%2B72M%3D%7Ctkp%3ABk9SR_z7l5-eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=196870533855",
+    "product_id": "196870533855",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£29.52",
+     "extracted": 29.52
+    },
+    "shipping": {
+     "raw": "+£3.38 delivery",
+     "extracted": 3.38
+    },
+    "buying_format": "buy_it_now",
+    "buying_format_text": "Buy It Now",
+    "thumbnail": "https://i.ebayimg.com/images/g/~QYAAOSwYo9nT09r/s-l500.webp",
+    "seller": {
+     "username": "tallthinfish",
+     "reviews": 7200,
+     "positive_feedback_in_percentage": 99.8
+    }
+   },
+   {
+    "title": "Vtg Brass Metal Hand Hammered Oval Planter Jardiniere Claw Foot Paw Feet Handles",
+    "link": "https://www.ebay.co.uk/itm/407215769539?_skw=hammered+brass+planter&itmmeta=01M3RZ5ZQ7X6A42MP7FNY6CEH5&hash=item5ecff387c3:g:WMMAAeSwfEhqp8~s&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCqttv%2BCwJEwfyp%2FqgthT2o6HsCU3cAVKHvytjnowv5YIG36OAvHz2q9RY6%2BJY6czBjPDjVVWQQlCdhSpmvEZJTwH2uL2ERXZFWx0WG1QfKWTW3ku8c4K9bB8EHsiMfafSqDer7mSDnIx4qgN9nueoQTkxFdlyvm0K89kLZNLiCnCmZVIucEdsqI2d0wq%2BWrB0VGPlL2Bgdgy71omjvQxl9TnaKqCb4nks1vCZgLHkDuixTjSS68jM%2BxvhgYiQNsGbYXSDPxCTfVPzCx2eZiTTAQpOJCvVQPbVeox%2BtNlLLFA%3D%3D%7Ctkp%3ABk9SR_z7l5-eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=407215769539",
+    "product_id": "407215769539",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£38.09",
+     "extracted": 38.09
+    },
+    "shipping": {
+     "raw": "+£28.98 delivery",
+     "extracted": 28.98
+    },
+    "location": "from United States",
+    "watchers": "17 watchers",
+    "extracted_watchers": 17,
+    "buying_format": "buy_it_now",
+    "buying_format_text": "Buy It Now",
+    "thumbnail": "https://i.ebayimg.com/images/g/WMMAAeSwfEhqp8~s/s-l500.webp",
+    "seller": {
+     "username": "heathercorry",
+     "reviews": 2300,
+     "positive_feedback_in_percentage": 99.8
+    }
+   },
+   {
+    "new_listing": true,
+    "title": "Vintage Hammered Brass Planter with Pedestal",
+    "link": "https://www.ebay.co.uk/itm/800734702803?_skw=hammered+brass+planter&itmmeta=01M3RZ5ZQ7EF53TKMYGT2BM49T&hash=itemba6f81ecd3:g:eR8AAeSwFRlqvA3p&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xD4Rg0N2KGlKL6fCf844mOGJGK0eTZxchKiS1ydOO4lUomDe91Cz1k4ypZj%2FIv2jAsKHw5Tcx5hGvZFwBW0ez5ySVZm2JmGTS%2FosR%2BamRj%2FKMt3RSAXdmYIap12Hz4nqi5oVw3xGO7SeVazEqeQx3JffFYFqw77mwLY9gaxXrMFdLopVi%2BA%2F2Nb1jnJiJP0iooRce8DK%2BSOc9aNAyCBuY%2BLUAWXON8cNzSPwZl4Rav12ro0ieNaUqNDq%2BmaS3F1HYw%3D%7Ctkp%3ABk9SR_z7l5-eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=800734702803",
+    "product_id": "800734702803",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£19.95",
+     "extracted": 19.95
+    },
+    "shipping": {
+     "raw": "+£21.94 delivery",
+     "extracted": 21.94
+    },
+    "location": "from United States",
+    "buying_format": "accepts_offers",
+    "buying_format_text": "or Best Offer",
+    "thumbnail": "https://i.ebayimg.com/images/g/eR8AAeSwFRlqvA3p/s-l500.webp",
+    "seller": {
+     "username": "theelusive",
+     "reviews": 1100,
+     "positive_feedback_in_percentage": 99.9
+    }
+   },
+   {
+    "title": "Vintage Small Hammered Brass Round Planter with 2 Handles",
+    "link": "https://www.ebay.co.uk/itm/407237425607?_skw=hammered+brass+planter&itmmeta=01M3RZ5ZQ7H8T5E4QAM4TQG6KT&hash=item5ed13df9c7:g:DkYAAeSwhINqU7mc&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xDwRsNdCEu4%2Bikjlgqh2ioaf7K%2Fe%2FgR%2BoIDl3KP11LgwwwU0F9%2BPgsY%2BIJb66RG8wwq84GeFK3ySFAVkXlRiogF%2Fd%2FpV6sBMHgt7it8ZenfbXk%2FTVuh%2FkW3y7wTg3GL1MAHp4wa83DWMgMTmmGtWNhEHHIGSEabTNAcHjItGBL5eJMj4i6VrmHFmj6Xm001d8QiXB%2FgsHeFEyZ%2Fo5mxw5H%2F3PB0kYOhCrf%2BBnHyR6eno%2Bjmh79ru8O59leC%2FKndKXI%3D%7Ctkp%3ABk9SR_z7l5-eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=407237425607",
+    "product_id": "407237425607",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£15.95",
+     "extracted": 15.95
+    },
+    "shipping": {
+     "raw": "+£3.38 delivery",
+     "extracted": 3.38
+    },
+    "buying_format": "accepts_offers",
+    "buying_format_text": "or Best Offer",
+    "bids": {
+     "count": 0,
+     "time_left": "2d 9h left"
+    },
+    "thumbnail": "https://i.ebayimg.com/images/g/DkYAAeSwhINqU7mc/s-l500.webp",
+    "seller": {
+     "username": "bristolvintage1",
+     "reviews": 326,
+     "positive_feedback_in_percentage": 97.9
+    }
+   },
+   {
+    "title": "Vintage Hammered Brass Copper Planter With Handle Hanging Pot Jam Pan Basket",
+    "link": "https://www.ebay.co.uk/itm/406678903944?_skw=hammered+brass+planter&itmmeta=01M3RZ5ZQ7RFRVNYSZZJXRYRP3&hash=item5eaff39c88:g:UzkAAeSwkMFph1Fz&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xABdj4Ww5SFG2K6p60Xfy4hCxFIGDfs%2Bd8NhJYXL9sOcTGV8u3p9SgnlU%2Fr%2Fa6TrVRQd3lSkXKCKK3AeLPIeRMbik%2Bs8hF12xIBJkZCUl3qH4cSf9x1lKTe3fRP6oY44bYJ0c5raf%2BCaTbuJ2lxg5nEm3x1jty1NAdqTZDIfY0s8FMuC37opUVpfM3s7vXgx7r6RfGKJBHfskmjPfg3i8Ezh2ldBebHXl0bfgV8kAS%2FfVthWgSx4BIsmWkIWoT1%2FC%2Ft9XK3X7Qr%2BaCjtjq3dofDwt1LZHOVZc%2FueGQY6nReKw%3D%3D%7Ctkp%3ABk9SR_z7l5-eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=406678903944",
+    "product_id": "406678903944",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£49.99",
+     "extracted": 49.99
+    },
+    "shipping": {
+     "raw": "+£3.99 delivery",
+     "extracted": 3.99
+    },
+    "buying_format": "accepts_offers",
+    "buying_format_text": "or Best Offer",
+    "thumbnail": "https://i.ebayimg.com/images/g/UzkAAeSwkMFph1Fz/s-l500.webp",
+    "seller": {
+     "username": "scottishsalvage",
+     "reviews": 2400,
+     "positive_feedback_in_percentage": 99.7
+    }
+   },
+   {
+    "title": "Victorian British Hammered Brass Helmet Coal Scuttle Fireplace Bucket/Planter",
+    "link": "https://www.ebay.co.uk/itm/206560924817?_skw=hammered+brass+planter&itmmeta=01M3RZ5ZQ73NFGX1PDV7837RNQ&hash=item3017fd9491:g:W1EAAeSwMH9qqpM9&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xDW0lff7b2lvu5oVr1s2IU4eQESwneIKKDSZ38LMQIr4LZgbdtnrmQuK6vQzpiBHj%2Fuit4ot4N9SLrtzuW%2B3TOD9DUoOAyHmcEzIdKy%2FtzWpMq2EgpJp6wv0e5G0Qatjx58X6LFMXZzmRsknVncEvdA1MXRisXj6TSrfvTgoKRUp4jnBk2Sm%2FV4zXosABhmX2SJnhOEJQ1GVbEIRtbohf6P9Vbol3pWjRU5WlilCNujlFSKfR8DtLCNGokHdTbLexU%3D%7Ctkp%3ABk9SR_z7l5-eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=206560924817",
+    "product_id": "206560924817",
+    "price": {
+     "raw": "£45.00",
+     "extracted": 45.0
+    },
+    "shipping": {
+     "raw": "+£7.50 delivery",
+     "extracted": 7.5
+    },
+    "buying_format": "buy_it_now",
+    "buying_format_text": "Buy It Now",
+    "thumbnail": "https://i.ebayimg.com/images/g/W1EAAeSwMH9qqpM9/s-l500.webp",
+    "seller": {
+     "username": "edenvalleyhospice",
+     "reviews": 11100,
+     "positive_feedback_in_percentage": 100
+    }
+   },
+   {
+    "title": "Vintage Hammered Brass Coal Scuttle Planter Log Basket",
+    "link": "https://www.ebay.co.uk/itm/227227846966?_skw=hammered+brass+planter&itmmeta=01M3RZ5ZQ7HYD6VD0GV8C6KQBM&hash=item34e7d5c936:g:YSYAAeSwHappm0NQ&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCIqb19BJqFSNIiWrBFI%2BCqC%2B%2F56ohPxb1hXP5eKOpWwxRotQXHfhDsKG%2BeMVoXClnpL0cAz0X%2F%2BI7vonSv8uuloH9fVQmunETpwSNAGia8np0xATgk2s2tOw9k86RC2wA6uhuYy4Gv0qHx8NaCfNw8FE1lt%2BgnfaBTiFMTFag3C2xHeyayiDuUizDMjoA8KpK0H25FH1mk9g7m6jINxQoUZt4AWNht%2FSKgee1bfjP6btWBX5IjgxRELHal%2FKTkp%2FveaLJjo5CSSPBm4mapb4zcFPPxQKU0gBL9PJrXyxpsgQ%3D%3D%7Ctkp%3ABk9SR_z7l5-eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=227227846966",
+    "product_id": "227227846966",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£26.42",
+     "extracted": 26.42
+    },
+    "shipping": {
+     "raw": "+£3.71 delivery",
+     "extracted": 3.71
+    },
+    "buying_format": "accepts_offers",
+    "buying_format_text": "or Best Offer",
+    "thumbnail": "https://i.ebayimg.com/images/g/YSYAAeSwHappm0NQ/s-l500.webp",
+    "seller": {
+     "username": "gwynaur_84",
+     "reviews": 29,
+     "positive_feedback_in_percentage": 100
+    }
+   },
+   {
+    "title": "XL Antique Hammered Copper Pot Roll Edge Dovetail Seam Brass Lion Planter Bucket",
+    "link": "https://www.ebay.co.uk/itm/256648250372?_skw=hammered+brass+planter&itmmeta=01M3RZ5ZQ7SFKF0HS4WB8QW7VG&hash=item3bc16d8404:g:fcIAAOSw01xm5Ckp&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xDYmDjbkQoqhSw%2FK43YuDhnl8SKSSEQUraeKlSTvoP4d%2BbXaOVas6oLpQx3S%2BX6r3aEJLyTR2lAMJ7Cdv9lZ5QmTwek2Amr2sRHdE1EV4ft1GFw%2F2QEZbGxuFyvRG3Nhpz0SesMnwxGLKunQ860C1BMgCklV48KpEf%2BqzzsZvjKXCMz1R49NusrYs939ELRWM7%2F6F94OaIdwa549%2FS4ofxeFvMX%2F4MgxSfP%2BBvt3K4rItzRlETQGCX9W0xJ94V4UYI%3D%7Ctkp%3ABk9SR_z7l5-eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=256648250372",
+    "product_id": "256648250372",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£225.00",
+     "extracted": 225.0
+    },
+    "old_price": {
+     "raw": "£250.00",
+     "extracted": 250.0,
+     "discount": "£225.00"
+    },
+    "shipping": {
+     "raw": "+£14.99 delivery",
+     "extracted": 14.99
+    },
+    "watchers": "10 watchers",
+    "extracted_watchers": 10,
+    "buying_format": "buy_it_now",
+    "buying_format_text": "Buy It Now",
+    "thumbnail": "https://i.ebayimg.com/images/g/fcIAAOSw01xm5Ckp/s-l500.webp",
+    "seller": {
+     "username": "honeypickedvintage",
+     "reviews": 4400,
+     "positive_feedback_in_percentage": 100
+    }
+   },
+   {
+    "new_listing": true,
+    "title": "VTG Hammered Copper Pot Planter with Brass Handles and Legs, Cottage Core",
+    "subtitle": "Approximately 6 In Tall",
+    "link": "https://www.ebay.co.uk/itm/366700133346?_skw=hammered+brass+planter&itmmeta=01M3RZ5ZQ7G0ZED85JA320BKBW&hash=item556107fbe2:g:2-MAAeSwGNRqvA4q&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBsHLQsALKi8Sj9kgKwmtAurwL7%2FWGfUjWmUQRNMLWgd0d4GDbVZbo%2Fwd1QDpCc9aFP4MRKS2rBLyQ3QTkHCxYeYB91uuCSniy1Voay%2Ff4pK1kho7Ai7qURXO8NalqjVpUGqIlxB9HRd%2FJl6Q2lY5ROOR3ya274iPlHWqMbqUzIS5BReQoiV3MstI18QrbcrDhGo1RL741O%2FiXDhg1bnoQ%2BoB3o6%2Bck1MTZkh%2Bgxn11PnLpy63NXCInIFD4ss762jpYgGsxi2Gr3JH0DNSHDzWchvcLYVxTuwoqWax03Qjm1A%3D%3D%7Ctkp%3ABk9SR_z7l5-eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=366700133346",
+    "product_id": "366700133346",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£17.23",
+     "extracted": 17.23
+    },
+    "shipping": {
+     "raw": "+£29.64 delivery",
+     "extracted": 29.64
+    },
+    "location": "from United States",
+    "buying_format": "accepts_offers",
+    "buying_format_text": "or Best Offer",
+    "thumbnail": "https://i.ebayimg.com/images/g/2-MAAeSwGNRqvA4q/s-l500.webp",
+    "seller": {
+     "username": "bargo2729",
+     "reviews": 79,
+     "positive_feedback_in_percentage": 100
+    }
+   },
+   {
+    "title": "Vintage German Handcrafted Hammered Copper Planter Stamped Gilde, Brass Handles",
+    "link": "https://www.ebay.co.uk/itm/327377163267?_skw=hammered+brass+planter&itmmeta=01M3RZ5ZQ7FVRCMTB8PZZ3DNNV&hash=item4c39331403:g:-74AAeSwgqhqh2SI&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAM50KB%2F2FQZn%2B4H4A8Bk2GGuexhs9LXdcW43VnGlcrU5G3jhte0GRVcW9uf9E1a6rhEg%2B7nCWXldogeO8d0LQ1NeujMrfsV%2B0LblZJL6jWA1rcNaAjwF4%2FmRLh8BUlgnvvNPWzM1SMN0dxEaqLukSx5CHnOArs%2FnJjIwzqs11kz6jj3AActcJmpg8rLYo8Ol1bUgQcirUJKy89jTe%2BwZSbMOHXVaZmrp%2BHaER6WpnsWRMwA3B3PoyV9%2Fys5ykt7F8QDJif%2BmfJZ%2BH2eid69754Ysq3xFYS9b3BqsDRQhFpGg%3D%3D%7Ctkp%3ABk9SR_z7l5-eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=327377163267",
+    "product_id": "327377163267",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£42.00",
+     "extracted": 42.0
+    },
+    "shipping": {
+     "raw": "+£5.20 delivery",
+     "extracted": 5.2
+    },
+    "bids": {
+     "count": 0,
+     "time_left": "4d 9h left"
+    },
+    "buying_format": "auction",
+    "thumbnail": "https://i.ebayimg.com/images/g/-74AAeSwgqhqh2SI/s-l500.webp",
+    "seller": {
+     "username": "frenchrarebits",
+     "reviews": 9000,
+     "positive_feedback_in_percentage": 100
+    }
+   },
+   {
+    "title": "Larg Brass Planter Pot Hammered Floral Roses 10”",
+    "link": "https://www.ebay.co.uk/itm/146806673655?_skw=hammered+brass+planter&itmmeta=01M3RZ5ZQ82RQ4GBJBZATCQJB4&hash=item222e5c10f7:g:w~oAAeSwCtNotekF&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xADbTX502XjF0Jb7VvP4Rbc%2FsMpkzLyvSrVvtQ2rWcv9lkTI8coF4gPBt77PSWPmHIWwnMA0C9zpAm%2Fc43rd7e%2BaBVfDSo4WKJdhJf%2BqPkBO5i%2FBp4jOGoiNqQazHdo5ksrV5OhVDyW7qIPVLT1Lm1qDUQbyn7dfzD69hTCekXZ8qhyKbbwkAhn8OaWTmR9fDdtq0ewlwjS%2BxFdlCic4uJOOWmpwOHXIC50BzmA0nYE32gNOeTB2QahxdMS%2BAO8kx2RUttGADgq8h3%2FJ1ZRA1BATNMyH7pGJAaXd3vc3ZcEag%3D%3D%7Ctkp%3ABk9SR_z7l5-eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=146806673655",
+    "product_id": "146806673655",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£44.44",
+     "extracted": 44.44
+    },
+    "shipping": {
+     "raw": "+£43.52 delivery",
+     "extracted": 43.52
+    },
+    "location": "from United States",
+    "watchers": "17 watchers",
+    "extracted_watchers": 17,
+    "buying_format": "buy_it_now",
+    "buying_format_text": "Buy It Now",
+    "thumbnail": "https://i.ebayimg.com/images/g/w~oAAeSwCtNotekF/s-l500.webp",
+    "seller": {
+     "username": "grymauch",
+     "reviews": 902,
+     "positive_feedback_in_percentage": 100
+    }
+   },
+   {
+    "title": "Vintage Brass Planter Plant Pot Old Trough Tub Art Nouveau Hammered 8.5\"W",
+    "link": "https://www.ebay.co.uk/itm/205669663319?_skw=hammered+brass+planter&itmmeta=01M3RZ5ZQ8V9D5XD7P0SFNNK4F&hash=item2fe2de0257:g:d94AAeSwiq1onJGI&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBGIMPDqBndCQRRvfYxWwbNrk90bI5dsDniYmFuG4SzU%2BLALsAQnSACza%2F1Lz3majeAocY6Lrwex4G3XMVpB0jXzeCx7Re5NDe4f4YnYLUT8CiDwPTs%2F6Hee2D7ws6P2Swe2Dsd%2FZ7tJRT1XCh%2F1eTu%2BVCnay4QdmHcPLNphjTmvSJ18HC17b%2BYydlOdjwVUUs3QjQU5OFFH%2Fut5vPLTwcp8cTvXcmG2s6i4oyMantFdNdSxJo40fygBfHDtDTp%2FgB%2FjVeHNStldoj7IJcBPahEcFgHelYzTnOL4mDWgFbf0Q%3D%3D%7Ctkp%3ABk9SR_z7l5-eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=205669663319",
+    "product_id": "205669663319",
+    "price": {
+     "raw": "£21.00",
+     "extracted": 21.0
+    },
+    "shipping": {
+     "raw": "+£4.30 delivery",
+     "extracted": 4.3
+    },
+    "buying_format": "buy_it_now",
+    "buying_format_text": "Buy It Now",
+    "thumbnail": "https://i.ebayimg.com/images/g/d94AAeSwiq1onJGI/s-l500.webp",
+    "seller": {
+     "username": "harrogatehardware",
+     "reviews": 40200,
+     "positive_feedback_in_percentage": 99.9
+    }
+   },
+   {
+    "title": "Victorian Hammered Pure Copper & Brass, Planter/log/coal Bucket /Scuttle",
+    "link": "https://www.ebay.co.uk/itm/298706857124?_skw=hammered+brass+planter&itmmeta=01M3RZ5ZQ8GFCSZ03YTDBFPGKS&hash=item458c50eca4:g:n7sAAeSwOvZpwEFS&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDj1WMp6t%2Fn07aYi%2BxPpWxX1yc9Kr%2F9GyPnFjX5AVIvD6C4TNRO6ccHRWpEGmDzp2HhG8VWP5zBzIk2Pk6Qx9mNosAKYgiG5J5cefKCSEdcVATBn%2Fu4rI%2FvALJ0uUwF%2FhfSl5DhAtxJMDACWTtqgkq8aTNagZEWv7RsPYJ%2BzH2s9ok8FudnliQADgx9FZPtZh%2Bz8pA3tDFv9qJCGlIzwInnZRmfob5kjCLkzGJbEFGu6L2KLByoiqvnbo2yAZ9B2mBWidCgqgR7HMKyiLu1PORkElWHLhE8dxmuJow%2Bs%2Fpejw%3D%3D%7Ctkp%3ABk9SR_z7l5-eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=298706857124",
+    "product_id": "298706857124",
+    "price": {
+     "raw": "£99.25",
+     "extracted": 99.25
+    },
+    "shipping": {
+     "raw": "+£7.64 delivery",
+     "extracted": 7.64
+    },
+    "bids": {
+     "count": 0,
+     "time_left": "5d 8h left"
+    },
+    "buying_format": "auction",
+    "thumbnail": "https://i.ebayimg.com/images/g/n7sAAeSwOvZpwEFS/s-l500.webp",
+    "seller": {
+     "username": "happy-days-high-end-art",
+     "reviews": 365,
+     "positive_feedback_in_percentage": 100
+    }
+   },
+   {
+    "title": "Vintage Brass Planter Plant Pot Old Trough Tub Art Nouveau Hammered 7\"W",
+    "link": "https://www.ebay.co.uk/itm/205669666020?_skw=hammered+brass+planter&itmmeta=01M3RZ5ZQ88Y78KJXAYA4XNWDT&hash=item2fe2de0ce4:g:GKoAAeSwQfZonJHz&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCXdjxMXZwzF3NJ9TNmprqZcPrg9zovHdhpPN4oONwRtKRro1z6Tt6UeKixbYBn1vXktJwKKS428qu9cgzVjPW6m2E5vV28pFkiOW1unWet--H73Tipup%2FwIz0Si6Gt1EOgiuQoUKm0vxCs3fmIc83EL89l0qQmyNr8gNdWCTqBTytNfkEhCBm2eoJtEG7bUXlGC67DnuyVS4TFZl4cLrAl1YpyO2AyAon8sRDe9Cgj8juq8o53h8hr806Ef2NmcEa2L3%2B%2FKPbRUqhD6vIvcAWzwfb2NJYKsZz%2FOIfFm7cDrQ%3D%3D%7Ctkp%3ABk9SR_77l5-eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=205669666020",
+    "product_id": "205669666020",
+    "price": {
+     "raw": "£18.00",
+     "extracted": 18.0
+    },
+    "shipping": {
+     "raw": "+£4.30 delivery",
+     "extracted": 4.3
+    },
+    "buying_format": "buy_it_now",
+    "buying_format_text": "Buy It Now",
+    "thumbnail": "https://i.ebayimg.com/images/g/GKoAAeSwQfZonJHz/s-l500.webp",
+    "seller": {
+     "username": "harrogatehardware",
+     "reviews": 40200,
+     "positive_feedback_in_percentage": 99.9
+    }
+   },
+   {
+    "new_listing": true,
+    "title": "Hammered Copper Brass Planter Oval Small Gold Vintage Patina Cachepot Jardiniere",
+    "link": "https://www.ebay.co.uk/itm/189015681136?_skw=hammered+brass+planter&itmmeta=01M3RZ5ZQ8VNXYXEW8601JY9W1&hash=item2c02366870:g:GRAAAeSwj8RqvJHo&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xDvSVIg6kucjtfSXba4c%2FINuAl6a21kd%2FuS3%2BKwl0%2BHA5tR434hD1p93Q8JAjGPM5QUW4YIfVlWIJ2oxyRVu19EGlNbbKs72s0TdAXrgS%2F%2BfPzhWZ7OqPpJYgSh95%2FWjabS13f%2FreJDS0slCyK57isgtKfuDNSnaX1WV%2Fo2ZT3IX7HOFQr0a1FBhAPvCFeZRhO5FByEusAiATgV5ve6%2FZS5gbhFJxqUANVRcPSUIk94fGdze5C7NQ9kF5o0qH%2FYaGs%3D%7Ctkp%3ABk9SR_77l5-eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=189015681136",
+    "product_id": "189015681136",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£31.74",
+     "extracted": 31.74
+    },
+    "shipping": {
+     "raw": "+£63.21 delivery",
+     "extracted": 63.21
+    },
+    "location": "from United States",
+    "buying_format": "accepts_offers",
+    "buying_format_text": "or Best Offer",
+    "thumbnail": "https://i.ebayimg.com/images/g/GRAAAeSwj8RqvJHo/s-l500.webp",
+    "seller": {
+     "username": "thedirtroadranch",
+     "reviews": 107,
+     "positive_feedback_in_percentage": 100
+    }
+   },
+   {
+    "title": "Vintage Flower & Plants Planter Solid Hammered Brass. 4.25 X 4 Inch Tall.",
+    "link": "https://www.ebay.co.uk/itm/286267960122?_skw=hammered+brass+planter&itmmeta=01M3RZ5ZQ80E6BSRF3RYN2A2B1&hash=item42a6e66b3a:g:-ZoAAOSwKaFniUsd&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCbvBfOq5x5KhRWETr6B5JwxLS87h0N6mVxIGw0QLUMsAbWlNYY71pX9Lf8nUh1BlFrQJ0QxXFlXNptmOwAqYteLj39Y1jRtILWf4LnKIyU7plmimGTTxyvidRG%2Fa9pitMA2oYuNNXAE7%2BqZfQmHnIliyLiyS82V2z3Lfa6iyXvtVtXnVErtZm%2FQOOaKuraw3BgkCaq7%2BCNEstG2%2FKJtHpQscEvvBVllmWrfEPo%2BUQwZvto6dWyq595L2KdCyNaEd9MwwwCveTxp89AUXK62PD8yIO8pIOsvLtJ4Pa8f%2FsGPA%3D%3D%7Ctkp%3ABk9SR_77l5-eaA",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=286267960122",
+    "product_id": "286267960122",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£13.15",
+     "extracted": 13.15
+    },
+    "shipping": {
+     "raw": "+£15.15 delivery",
+     "extracted": 15.15
+    },
+    "location": "from United States",
+    "watchers": "18 watchers",
+    "extracted_watchers": 18,
+    "buying_format": "buy_it_now",
+    "buying_format_text": "Buy It Now",
+    "thumbnail": "https://i.ebayimg.com/images/g/-ZoAAOSwKaFniUsd/s-l500.webp",
+    "seller": {
+     "username": "aandetou",
+     "reviews": 689,
+     "positive_feedback_in_percentage": 100
+    }
+   },
+   {
+    "sponsored": true,
+    "title": "Set 2 Vintage Middle Eastern Copper Hanging Planter Pot Beggars Bowl Bull Head",
+    "link": "https://www.ebay.co.uk/itm/267768325162?_skw=hammered+brass+planter&itmmeta=01M3RZ5ZQ9R449M0EE34M10P04&hash=item3e583c642a:g:HnoAAeSwG9Fqj2x6&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCp7hNx7PfjgwacUe0UkWlnTvAkvmgq00QTCm7rkb8FOLMZx9WqNtwfcchNEGG2W1SdAN8pBhvlbOjgGx3eZJgZ%2BFNTPKPnnhYPYJpZ%2Ft3FSmGHyGA2cI0rbW75iE2RslxsE0S7%2FaWD1IlUBBNNSJqB5S4L59JN9n5WLeAx04i%2F2UF7XU0%2BFBW5vJcf80O4GGujhCVAHnPTcahcrrPBPOYB5MUhhOBLOHjxtcXcKAfWDLZrIEN6%2FQfv3HMDRZFk6NQ6diF3YPWSgHYXQvtVg9kKATdJ%2F7GDL7IKwwaBnhChow%3D%3D%7Ctkp%3ABFBM_vuXn55o",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=267768325162",
+    "product_id": "267768325162",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£122.43",
+     "extracted": 122.43
+    },
+    "shipping": {
+     "raw": "+£43.91 delivery",
+     "extracted": 43.91
+    },
+    "location": "from United States",
+    "buying_format": "buy_it_now",
+    "buying_format_text": "Buy It Now",
+    "thumbnail": "https://i.ebayimg.com/images/g/HnoAAeSwG9Fqj2x6/s-l500.webp",
+    "seller": {
+     "username": "wefamlee15ew",
+     "reviews": 1400,
+     "positive_feedback_in_percentage": 99.7
+    }
+   },
+   {
+    "sponsored": true,
+    "title": "Vintage Hammered Brass Footed Planter With Lions Head Ring Handles",
+    "link": "https://www.ebay.co.uk/itm/357656963035?_skw=hammered+brass+planter&itmmeta=01M3RZ5ZQ9R62EBRRDQE0HNRSV&hash=item53460427db:g:pEYAAOSwU1NmltQ3&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBaAKAfpfPjSw7u7yoC8CFTaC9zJpBlzBY46s4dZGn9LIzO8FLzR1ZHzuherDz64Ft71ur5Nz2gpn0UFuGjAy2493de8UxqgnuSuO0VSsfg6yES899GXuo7cKHZsLhQ3ea0%2FyIF6f6aueAX2LkzZUiorpFqX9MBv9Kx%2FydB%2BooHNFJ6J5zlhRumYqdd4bbNR9S2qUt7xZH%2F1jZh8J9rS2UFyp1P%2BsbD5w2PZVo0NgoxVGTweMSP3UU6uCkO%2FkjYSR6D224V3ZF2PVIHym7OMO%2FFDqRhFrTMmf5Xi6pWz1h3YQ%3D%3D%7Ctkp%3ABFBM_vuXn55o",
+    "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=357656963035",
+    "product_id": "357656963035",
+    "condition": "Pre-owned",
+    "price": {
+     "raw": "£103.92",
+     "extracted": 103.92
+    },
+    "shipping": {
+     "raw": "+£3.89 delivery",
+     "extracted": 3.89
+    },
+    "buying_format": "accepts_offers",
+    "buying_format_text": "or Best Offer",
+    "thumbnail": "https://i.ebayimg.com/images/g/pEYAAOSwU1NmltQ3/s-l500.webp",
+    "seller": {
+     "username": "sullivan-pon-0",
+     "reviews": 15,
+     "positive_feedback_in_percentage": 100
+    }
+   }
+  ],
+  "inline_results": [
+   {
+    "title": "Quality pre-owned picks",
+    "subtitle": "Exceptional finds, exceptional savings | S؜ponsored",
+    "items": [
+     {
+      "title": "Vintage Brass Hammered Planter Embossed Farmhouse Cottage Homestead",
+      "link": "https://www.ebay.co.uk/itm/147522143794?_skw=hammered+brass+planter&itmmeta=01M3RZ5ZRBM3AANS01KXRFD7G3&hash=item2259014632:g:e00AAeSwU0pp60vH&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDV1O1mhsUNbaZCPzyjOO4IPk5GrBVxKLkpOo1nZjUvh7vsJZ70M5QVZMxCvbmaulwJGM%2Br25WUa9Y9Kq9IIR1ASifp02YpihfutT1Pxh2nxjU%2FMA6o70vZStF32lGiaBMRw23s4Jk2TReyMxxaau9xaH7AvcDFTExGf1aELK3VsS3rvCHj4OgVVMqeuIGwjejDMa61sISCwgQ4XUDpDrwuBSvV8NgZoVhK%2B2ta%2FDAWy%2FHvAAZ%2B0z2Q%2Fv187KHbPrUG78tmB6nqQ02UT3ShDqv8KWLNRJ4RtNq7ALEwj8K5jg%3D%3D%7Ctkp%3ABFBM8PyXn55o",
+      "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=147522143794",
+      "product_id": "147522143794",
+      "price": {
+       "raw": "£15.95",
+       "extracted": 15.95
+      },
+      "shipping": {
+       "raw": "+£3.38 delivery",
+       "extracted": 3.38
+      },
+      "condition": "Pre-owned",
+      "thumbnail": "https://i.ebayimg.com/images/g/e00AAeSwU0pp60vH/s-l500.webp"
+     },
+     {
+      "title": "Brass Persian Pot Hammered Detail Planter Vase For Flowers Rustic Patina",
+      "link": "https://www.ebay.co.uk/itm/178380586083?_skw=hammered+brass+planter&itmmeta=01M3RZ5ZRBBD8VV7TX046SHC2G&hash=item29884fbc63:g:PW0AAeSwu~VoeN2l&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBBsDjLPekJ7JA0MRZzXfiB9%2ByvsiqUCQMhOKw3XaAF4%2BoRycSV21cICRG1dIJWcKsCXQQP5iexKU0IpZLKMofpyys9dyL96g1dFtLTYOJyBDbMimJYBL24P7HaaG8h88D%2Bwd5OOLZG9DgFKaAB6Kxykp97h7foUvkQLh5gp9WutD1PdghHdqN4T55bm8nTrlyyWZBLiM8MpXlJZ%2BE2MKeYRTbxb2AMm1u2NGQmX3ubvnAOD8vJKfBX1QILhZom%2Ba61OJf6pP4rWngGI3%2BCnR1LktOyBPAvRdNRlFEhJrpmYA%3D%3D%7Ctkp%3ABFBM8PyXn55o",
+      "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=178380586083",
+      "product_id": "178380586083",
+      "price": {
+       "raw": "£38.92",
+       "extracted": 38.92
+      },
+      "shipping": {
+       "raw": "+£3.71 delivery",
+       "extracted": 3.71
+      },
+      "condition": "Pre-owned",
+      "thumbnail": "https://i.ebayimg.com/images/g/PW0AAeSwu~VoeN2l/s-l500.webp"
+     },
+     {
+      "title": "Vintage Hammered Brass Planter with Pedestal",
+      "link": "https://www.ebay.co.uk/itm/800734702803?_skw=hammered+brass+planter&itmmeta=01M3RZ5ZRBSQJF38SQZQ62YR9Y&hash=itemba6f81ecd3:g:eR8AAeSwFRlqvA3p&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBKhzgaKWAcfSrmKJGkYDQ0Eg27GUST3tL3Z5yeOxfZ6%2FKiFHtzTPvYtELPQy95DKEhc6JA4ARsEHOUEj%2FqV80r953JVtTHCugGlsb4WeE4PIR7PAwzfqjiEb0xE4WoxLuJyBKm9yb1kBDnDPAadeYQHGOpYBDjimJge80RQCiEeJYwvh2tEfRiVkHDdm5ddpckmKfbJ1YCGzrHJG8CoVZei65Tk8u2yOwv8%2FmtvQh2uzKamZruSqOSZN2wVsayjA7ujLq%2BqTzoC1%2Fmk0GaZ9tEYtZPfc%2Fj70Cv%2BGl0YifIRg%3D%3D%7Ctkp%3ABFBM8PyXn55o",
+      "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=800734702803",
+      "product_id": "800734702803",
+      "price": {
+       "raw": "£19.95",
+       "extracted": 19.95
+      },
+      "shipping": {
+       "raw": "+£21.94 delivery",
+       "extracted": 21.94
+      },
+      "condition": "Pre-owned",
+      "thumbnail": "https://i.ebayimg.com/images/g/eR8AAeSwFRlqvA3p/s-l500.webp"
+     },
+     {
+      "title": "Vtg Hand Hammered Brass Planter Oval Jardiniere Planter 8 3/4” X 6 3/4”",
+      "link": "https://www.ebay.co.uk/itm/398193672922?_skw=hammered+brass+planter&itmmeta=01M3RZ5ZRBTM6QBP2MDDWJD4G4&hash=item5cb63142da:g:qycAAeSwlJxpaBMk&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDxzEwC4mYv8gRtK0H7T0PhnEjMGS6gJfb2VMzTOvU88xeLjgI%2F%2BUT4txSyb4Y618W0CAF1hUNMPLP87emSIAjxvCySWC0oXbW7V6bkfezneIdO1E8aEAuAgX21gKkye8plik1GS94IoyrzHgdFfYd2PlKh%2BRzZSD%2Fs4yY%2F95DpAQuKUgw3PR5ceCC2FSF0c%2FA1srD6mg0ftBy3Pa%2BJcrIHSR0RAULX7DCa%2Fxz38hBz8dbtn0Bjkx8LiTQJJonyBo40cKs3NybtlZcEYty4vfA06%2B1vGEWxRYH5g7scyZ4xdg%3D%3D%7Ctkp%3ABFBM8PyXn55o",
+      "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=398193672922",
+      "product_id": "398193672922",
+      "price": {
+       "raw": "£37.18",
+       "extracted": 37.18
+      },
+      "shipping": {
+       "raw": "+£30.21 delivery",
+       "extracted": 30.21
+      },
+      "condition": "Pre-owned",
+      "thumbnail": "https://i.ebayimg.com/images/g/qycAAeSwlJxpaBMk/s-l500.webp"
+     },
+     {
+      "title": "Vintage Hammered Brass Bowl Planter w Feet India Patina Cauldron 5\"H 7\" Diameter",
+      "link": "https://www.ebay.co.uk/itm/256730490205?_skw=hammered+brass+planter&itmmeta=01M3RZ5ZRBSGQ5TF18XPJBCBQQ&hash=item3bc654655d:g:NPYAAOSwcWdnR0rb&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDPDs0fBCiJpoWQs2Q6DkbnuPuDfj59NYDrEybENlEdiblnqvh93Hi5XPoiE2gg951OLEN19fVjGhbKYCCgerdVjV%2FP2Irsy61mKbo3V%2FGE3ae17xaFa5FCRXwVUseFQ557MMVRmlJ0BVbEVi3WTnwgdeEx6bXaatq0%2B17urU0kj97%2BwW9ebCFXw70NsncNFnYKmKuMFt6aiSrs7Aa2W89FvS4oaLl4my32q5ytsPXn1HD2R7GWk8IAeYwtkTRjv4VxTfymGFQwWOdOZASRnPENDgAthsN1puDOrqTM7N%2Bg1Q%3D%3D%7Ctkp%3ABFBM8PyXn55o",
+      "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=256730490205",
+      "product_id": "256730490205",
+      "price": {
+       "raw": "£36.00",
+       "extracted": 36.0
+      },
+      "shipping": {
+       "raw": "+£7.65 delivery",
+       "extracted": 7.65
+      },
+      "condition": "Pre-owned",
+      "thumbnail": "https://i.ebayimg.com/images/g/NPYAAOSwcWdnR0rb/s-l500.webp"
+     },
+     {
+      "title": "Vintage Hammered Brass Planter Pot",
+      "link": "https://www.ebay.co.uk/itm/336817037345?_skw=hammered+brass+planter&itmmeta=01M3RZ5ZRBDKHBWYSNJ8A28QYD&hash=item4e6bdc2021:g:M3QAAeSwlONpxvgf&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAd5UNszJP6vr%2BZ537PjJhLPvOjujrw7u%2BgXKzIcvtkyTwbECDTDknuocaHP3q6dDOdTvH1%2FflcgKB%2BKZSX9qpjR137XJMovK2j1B8H42oPmCoUqFWl%2B%2Ba0GbLiwg9owUDaVxkATR%2BIZ5tLy2nWuzDDJCW7gDjFfiTcI0zMoxmJByzIxwjGJgrcfKzql4oHlKOV0lc4DningVB4rRY2bF9VYJAvs%2BgMQrIJJJuT8%2FtDqUq20X53w5jWNjtWFlHsgBM80B9B4Fjmgajq8aO%2BcpqFOLPH8CocvhKvcs3JXGa7QA%3D%3D%7Ctkp%3ABFBM8PyXn55o",
+      "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=336817037345",
+      "product_id": "336817037345",
+      "price": {
+       "raw": "£20.40",
+       "extracted": 20.4
+      },
+      "shipping": {
+       "raw": "+£16.00 delivery",
+       "extracted": 16.0
+      },
+      "condition": "Pre-owned",
+      "thumbnail": "https://i.ebayimg.com/images/g/M3QAAeSwlONpxvgf/s-l500.webp"
+     },
+     {
+      "title": "Vintage Solid Hammered Brass Decorative Bowl Low Planter India MCM",
+      "link": "https://www.ebay.co.uk/itm/158292754377?_skw=hammered+brass+planter&itmmeta=01M3RZ5ZRB1F5KJYFSA485ZGWT&hash=item24dafbbfc9:g:HYcAAeSwmuBqqHyo&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCwVTf0LL8hw7wmLyriyXlVphnVmmOxTXnSlrWtaTqA912FsWCBjyWGBNtXNwhgjrRLymNYmLsHmbBcKEIx68erGsmAf33rloi2%2FAaOJdOzkc51tUpy%2FxqEyCWphfiKwi4qNiNfbrqBdfjkpx%2FovNfTM5Txgd89LO3ITNsq2am%2BCdQBZtqwomvu6bs0U1XzVQeuH33vDyg73YZYJYkxbGJT9Zn5mDPtphVSTs90BVhBmhgVq4ehXInD9AbrcQCi4WhqcGiWnB0Ncob77LNgyZXAhVvSmHqJw24rBLhU7ygwmQ%3D%3D%7Ctkp%3ABFBM8PyXn55o",
+      "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=158292754377",
+      "product_id": "158292754377",
+      "price": {
+       "raw": "£25.39",
+       "extracted": 25.39
+      },
+      "shipping": {
+       "raw": "+£18.27 delivery",
+       "extracted": 18.27
+      },
+      "watchers": "18 watchers",
+      "extracted_watchers": 18,
+      "condition": "Pre-owned",
+      "thumbnail": "https://i.ebayimg.com/images/g/HYcAAeSwmuBqqHyo/s-l500.webp"
+     },
+     {
+      "title": "Vintage Hammered Brass Planter Cachepot Jardiniere Boho Morocco Hand Made Pot 8”",
+      "link": "https://www.ebay.co.uk/itm/198662948513?_skw=hammered+brass+planter&itmmeta=01M3RZ5ZRBHC41BZGZTK0NPMWT&hash=item2e413c06a1:g:xfgAAeSwZBBqtHhc&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAZO5MxS8JbVeVSHZvbHAvnkKvz1%2FEu1OgQSVfFOVOPmyiVfSPobqQge7Lmfyp%2BIVWqsHzrSG6%2FDdylB5g9ewpgn7BjGLREhQexHNw%2FyIozFTrALzkWQLM5kdHoY3XDUXD2w%2Bula3nSfc9z%2FMkEUG93HbyN%2BUk3YjcXDGEhWbFlUl7fLUIk7bzOgiCaPlZ%2BjYdBq1suOFkbfpxstSptCL9%2Bbt4sy8Hhv1uA7jeh%2BqHRtRmi%2BfeEE%2FHjDSnRzVE3Iw0b4qssXDRSsF9OCKXUXW80qlFD5RGIoIcagvARApSQiQ%3D%3D%7Ctkp%3ABFBM8PyXn55o",
+      "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=198662948513",
+      "product_id": "198662948513",
+      "price": {
+       "raw": "£36.27",
+       "extracted": 36.27
+      },
+      "shipping": {
+       "raw": "+£35.57 delivery",
+       "extracted": 35.57
+      },
+      "condition": "Pre-owned",
+      "thumbnail": "https://i.ebayimg.com/images/g/xfgAAeSwZBBqtHhc/s-l500.webp"
+     },
+     {
+      "title": "Solid Brass Planter Pot Tassel & Rope Urn Cachpot Hammered Metal Made In India",
+      "link": "https://www.ebay.co.uk/itm/366695465917?_skw=hammered+brass+planter&itmmeta=01M3RZ5ZRBX8BVPHZBN0VPB5P0&hash=item5560c0c3bd:g:hLQAAeSwmIRquTM-&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBO2w9w7i8Ut95ZX26wJaYirZrntjEbbBG7sJsrx88FSOHTKsDVrdPy%2FiDvo9tRcbSKECML3DmjVUAEr5D1A5PWHLyyVhIcFQtl%2BkLqALBqTqbmPEvcZ%2BQOFYYMO0vXU1o2rInGPqQgs3%2FEGxOCd2w55CD97GutC1vXkSA%2F1oVW7CSFwgpfcBFwiq9GOwI%2Bn9RsrMh0S%2Ftbpz%2Fy0LIOFgZepKYb0BgSfc1P4DdAsJqggCYmV8HdDa2E%2FkcxlL4f69%2B4P%2FgiyE363o0fyO7Q3KXkMQXwcaCUe9VLcHQZ6yo0JA%3D%3D%7Ctkp%3ABFBM8PyXn55o",
+      "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=366695465917",
+      "product_id": "366695465917",
+      "price": {
+       "raw": "£27.16",
+       "extracted": 27.16
+      },
+      "shipping": {
+       "raw": "+£33.23 delivery",
+       "extracted": 33.23
+      },
+      "condition": "Pre-owned",
+      "thumbnail": "https://i.ebayimg.com/images/g/hLQAAeSwmIRquTM-/s-l500.webp"
+     },
+     {
+      "title": "Vintage Hammered Brass Planter",
+      "link": "https://www.ebay.co.uk/itm/800734704291?_skw=hammered+brass+planter&itmmeta=01M3RZ5ZRBY4W6J3RQ8GBXXX6Y&hash=itemba6f81f2a3:g:2ggAAeSweHNqvA4L&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBGWVlbDWyNrROPu%2BddVt89VGN6O7mYTHwcRmuDK6h4gxT5jITKwdxbSfMKVFiXgJkCjoP9SuDreqOgFvliClfVNunFlHOHK9HFUpDWcGspRdHoDDBYUG2B1k2OqG1QfX71qVhRZZErgQotnZIY8Xl2OW%2BtUrWalvQR9mn7mATMfAeA8QUy1Crcft7j7b43KU4i3qI8HGu2B0ad6hB4nQV18%2FONGGh%2FZgcgUWT84%2F%2BqlA3VNXcqU83qxUclOgaLVMkNCls7CzcIq1qgDLKxzi%2B5liGOFfNK0pVUvowcrxoEBQ%3D%3D%7Ctkp%3ABFBM8vyXn55o",
+      "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=800734704291",
+      "product_id": "800734704291",
+      "price": {
+       "raw": "£22.67",
+       "extracted": 22.67
+      },
+      "shipping": {
+       "raw": "+£27.29 delivery",
+       "extracted": 27.29
+      },
+      "condition": "Pre-owned",
+      "thumbnail": "https://i.ebayimg.com/images/g/2ggAAeSweHNqvA4L/s-l500.webp"
+     },
+     {
+      "title": "Vintage Brass Hammered Metal Footed Planter w/ Side Handles Rope-Style Trim",
+      "link": "https://www.ebay.co.uk/itm/278368067904?_skw=hammered+brass+planter&itmmeta=01M3RZ5ZRBZTCDGD6MG5Q6EV4H&hash=item40d007a140:g:jFcAAeSwFqxqpViQ&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDSakGKmuygu%2BeRWTMdb3Mytlb8y4Ikgolaz0DO4BRFBDiu65ELfpPw2ptQyg3pOWT9lO0ph007GzDE0PH3HUrU%2FVFNwjigyW15jTDA9hNXFOJZO%2Fm%2Bm7FR84VlIqbCF3ca%2Fqg6A7DRRHktBhnrHE673%2BJ94BTq6S7VFoFX576F2fUYXR1ih41daJ%2Fh1pxjCqSmBeAqSUfPg0%2FNoG5X46k76JtCQlqgMA03Wf4ovFeXxePQxJY2nV2D4nVimmfymrOsa9ypooWJv86YAGjmsCoBSVbsZOjxsFiSonB4PfKAbw%3D%3D%7Ctkp%3ABFBM8vyXn55o",
+      "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=278368067904",
+      "product_id": "278368067904",
+      "price": {
+       "raw": "£41.72",
+       "extracted": 41.72
+      },
+      "shipping": {
+       "raw": "+£19.19 delivery",
+       "extracted": 19.19
+      },
+      "condition": "Pre-owned",
+      "thumbnail": "https://i.ebayimg.com/images/g/jFcAAeSwFqxqpViQ/s-l500.webp"
+     },
+     {
+      "title": "Beautiful Brass Hammered Planter 7” x 6.5”",
+      "link": "https://www.ebay.co.uk/itm/206582743012?_skw=hammered+brass+planter&itmmeta=01M3RZ5ZRBSZT0VV2WVKXYYPFX&hash=item30194a7fe4:g:FjkAAeSw6m5pomoe&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDpMfwBlGCp4oFMFNKXy78WKND92Pq%2BJ7IF52c%2BS5EXKBvRHn37sM5M6eXmi3PddopNGQtflRsOeIAAm1g381Tft%2BDWerA%2BW1fDAakjUNyA2nRQk0gO8AOnlFyTtUukZSdz1lt1mIRBKR58NnCJGU5YCAhFBIYu6GlzbyOgRViBDKrlVq1ra1UqraMGxuvODE%2BAKuR4vahH3cyqZ55tBfPuavVo05s2X%2BDl9MJfZhYMZgFX2Sx0s5pxoXpKDKy5vFVNgR86ttNbOAphu0NZHSIT6hFKmtnk1OW%2FFul2Vb%2BVIQ%3D%3D%7Ctkp%3ABFBM8vyXn55o",
+      "serpapi_link": "https://serpapi.com/search.json?ebay_domain=ebay.co.uk&engine=ebay_product&product_id=206582743012",
+      "product_id": "206582743012",
+      "price": {
+       "raw": "£27.16",
+       "extracted": 27.16
+      },
+      "shipping": {
+       "raw": "+£29.87 delivery",
+       "extracted": 29.87
+      },
+      "condition": "Pre-owned",
+      "thumbnail": "https://i.ebayimg.com/images/g/FjkAAeSw6m5pomoe/s-l500.webp"
+     }
+    ]
+   }
+  ],
+  "pagination": {
+   "current": 1,
+   "next": "https://www.ebay.co.uk/sch/i.html?_nkw=hammered+brass+planter&_pgn=2",
+   "other_pages": {
+    "1": "https://www.ebay.co.uk/sch/i.html?_nkw=hammered+brass+planter&_pgn=1",
+    "2": "https://www.ebay.co.uk/sch/i.html?_nkw=hammered+brass+planter&_pgn=2",
+    "3": "https://www.ebay.co.uk/sch/i.html?_nkw=hammered+brass+planter&_pgn=3",
+    "4": "https://www.ebay.co.uk/sch/i.html?_nkw=hammered+brass+planter&_pgn=4",
+    "5": "https://www.ebay.co.uk/sch/i.html?_nkw=hammered+brass+planter&_pgn=5&rt=nc",
+    "6": "https://www.ebay.co.uk/sch/i.html?_nkw=hammered+brass+planter&_pgn=6&rt=nc",
+    "7": "https://www.ebay.co.uk/sch/i.html?_nkw=hammered+brass+planter&_pgn=7&rt=nc",
+    "8": "https://www.ebay.co.uk/sch/i.html?_nkw=hammered+brass+planter&_pgn=8&rt=nc",
+    "9": "https://www.ebay.co.uk/sch/i.html?_nkw=hammered+brass+planter&_pgn=9&rt=nc",
+    "10": "https://www.ebay.co.uk/sch/i.html?_nkw=hammered+brass+planter&_pgn=10&rt=nc"
+   }
+  },
+  "serpapi_pagination": {
+   "current": 1,
+   "next_link": "https://serpapi.com/search.json?_nkw=hammered+brass+planter&_pgn=2&ebay_domain=ebay.co.uk&engine=ebay",
+   "next": "https://serpapi.com/search.json?_nkw=hammered+brass+planter&_pgn=2&ebay_domain=ebay.co.uk&engine=ebay",
+   "other_pages": {
+    "1": "https://serpapi.com/search.json?_nkw=hammered+brass+planter&_pgn=1&ebay_domain=ebay.co.uk&engine=ebay",
+    "2": "https://serpapi.com/search.json?_nkw=hammered+brass+planter&_pgn=2&ebay_domain=ebay.co.uk&engine=ebay",
+    "3": "https://serpapi.com/search.json?_nkw=hammered+brass+planter&_pgn=3&ebay_domain=ebay.co.uk&engine=ebay",
+    "4": "https://serpapi.com/search.json?_nkw=hammered+brass+planter&_pgn=4&ebay_domain=ebay.co.uk&engine=ebay",
+    "5": "https://serpapi.com/search.json?_nkw=hammered+brass+planter&_pgn=5&ebay_domain=ebay.co.uk&engine=ebay",
+    "6": "https://serpapi.com/search.json?_nkw=hammered+brass+planter&_pgn=6&ebay_domain=ebay.co.uk&engine=ebay",
+    "7": "https://serpapi.com/search.json?_nkw=hammered+brass+planter&_pgn=7&ebay_domain=ebay.co.uk&engine=ebay",
+    "8": "https://serpapi.com/search.json?_nkw=hammered+brass+planter&_pgn=8&ebay_domain=ebay.co.uk&engine=ebay",
+    "9": "https://serpapi.com/search.json?_nkw=hammered+brass+planter&_pgn=9&ebay_domain=ebay.co.uk&engine=ebay",
+    "10": "https://serpapi.com/search.json?_nkw=hammered+brass+planter&_pgn=10&ebay_domain=ebay.co.uk&engine=ebay"
+   }
+  }
+ }
+}

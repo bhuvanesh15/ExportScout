@@ -1,0 +1,1238 @@
+{
+ "engine": "amazon_product",
+ "params": {
+  "asin": "B07MZ68QJM",
+  "amazon_domain": "amazon.co.uk"
+ },
+ "fetched_at": "2026-09-30T10:54:01+00:00",
+ "data": {
+  "search_metadata": {
+   "id": "6abcea3f1290d94be54e58e5",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/Ei4Hgu9Q-glfXoPAogC22omS1apfOWuzxwCZKs6D9yw/6abcea3f1290d94be54e58e5.json",
+   "markdown_endpoint": "https://serpapi.com/searches/Ei4Hgu9Q-glfXoPAogC22omS1apfOWuzxwCZKs6D9yw/6abcea3f1290d94be54e58e5.md",
+   "created_at": "2026-09-30 10:53:51 UTC",
+   "processed_at": "2026-09-30 10:53:51 UTC",
+   "amazon_product_url": "https://www.amazon.co.uk/dp/B07MZ68QJM/?",
+   "raw_html_file": "https://serpapi.com/searches/Ei4Hgu9Q-glfXoPAogC22omS1apfOWuzxwCZKs6D9yw/6abcea3f1290d94be54e58e5.html",
+   "total_time_taken": 9.31
+  },
+  "search_parameters": {
+   "engine": "amazon_product",
+   "asin": "B07MZ68QJM",
+   "amazon_domain": "amazon.co.uk",
+   "device": "desktop"
+  },
+  "product_results": {
+   "categories": [
+    {
+     "position": 1,
+     "name": "Garden",
+     "link": "https://www.amazon.co.uk/Garden-Outdoors-Home/b/ref=dp_bc_1?ie=UTF8&node=11052671",
+     "node": "11052671",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&device=desktop&engine=amazon&node=11052671"
+    },
+    {
+     "position": 2,
+     "name": "Garden Tools & Watering Equipment",
+     "link": "https://www.amazon.co.uk/Garden-Tools-Watering-Equipment/b/ref=dp_bc_2?ie=UTF8&node=26389565031",
+     "node": "26389565031",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&device=desktop&engine=amazon&node=26389565031"
+    },
+    {
+     "position": 3,
+     "name": "Plant Containers & Accessories",
+     "link": "https://www.amazon.co.uk/planters/b/ref=dp_bc_3?ie=UTF8&node=4224862031",
+     "node": "4224862031",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&device=desktop&engine=amazon&node=4224862031"
+    },
+    {
+     "position": 4,
+     "name": "Flower Pots",
+     "link": "https://www.amazon.co.uk/garden-flower-pots/b/ref=dp_bc_4?ie=UTF8&node=4224875031",
+     "node": "4224875031",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&device=desktop&engine=amazon&node=4224875031"
+    }
+   ],
+   "asin": "B07MZ68QJM",
+   "title": "KORAD OLD GOLD flower indoor plant pot with saucer plastic gloss modern decorative planter with drainage holes (26 cm)",
+   "link": "https://www.amazon.co.uk/Korad-plastic-decorative-planter-drainage/dp/B07MZ68QJM/",
+   "link_clean": "https://www.amazon.co.uk/dp/B07MZ68QJM/",
+   "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B07MZ68QJM&device=desktop&engine=amazon_product",
+   "badges": [
+    "Amazon's Choice"
+   ],
+   "variants": [
+    {
+     "title": "Size Name",
+     "items": [
+      {
+       "position": 1,
+       "asin": "B07MZ7WN53",
+       "name": "12 cm",
+       "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B07MZ7WN53&device=desktop&engine=amazon_product"
+      },
+      {
+       "position": 2,
+       "asin": "B07MZ7FLKK",
+       "name": "14 cm",
+       "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B07MZ7FLKK&device=desktop&engine=amazon_product"
+      },
+      {
+       "position": 3,
+       "asin": "B07MZ6J3BN",
+       "name": "16 cm",
+       "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B07MZ6J3BN&device=desktop&engine=amazon_product"
+      },
+      {
+       "position": 4,
+       "asin": "B07WHSB1LZ",
+       "name": "18 cm",
+       "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B07WHSB1LZ&device=desktop&engine=amazon_product"
+      },
+      {
+       "position": 5,
+       "asin": "B07MZ6G9PB",
+       "name": "21 cm",
+       "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B07MZ6G9PB&device=desktop&engine=amazon_product"
+      },
+      {
+       "position": 6,
+       "asin": "B07MZ68QJM",
+       "name": "26 cm",
+       "selected": true,
+       "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B07MZ68QJM&device=desktop&engine=amazon_product"
+      },
+      {
+       "position": 7,
+       "asin": "B0GF2XDY1G",
+       "name": "32 cm",
+       "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0GF2XDY1G&device=desktop&engine=amazon_product"
+      }
+     ]
+    }
+   ],
+   "brand": "Visit the KORAD Store",
+   "thumbnail": "https://m.media-amazon.com/images/I/91oP0PlqOIL._AC_SY300_SX300_QL70_ML2_.jpg",
+   "thumbnails": [
+    "https://m.media-amazon.com/images/I/91oP0PlqOIL._AC_SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71qYNKn2+ML._AC_SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/817rPQN-ATL._AC_SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71hk3y2muPL._AC_SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/917hRma0zBL._AC_SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/713kCrBlsVL._AC_SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71mERVISQML._AC_SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/615sgipAo5L._AC_SL1500_.jpg"
+   ],
+   "rating": 4.5,
+   "reviews": 1299,
+   "bought_last_month": "50+ bought in past month",
+   "price": "£14.99",
+   "extracted_price": 14.99,
+   "delivery": [
+    "FREE delivery Tomorrow, 1 October on your first order to UK or Ireland. Order within 1 hr 6 mins. Details"
+   ],
+   "stock": "Only 10 left in stock."
+  },
+  "purchase_options": {
+   "single_offer": {
+    "price": "£14.99",
+    "extracted_price": 14.99,
+    "delivery": [
+     "FREE delivery Tomorrow, 1 October on your first order to UK or Ireland. Order within 1 hr 6 mins. Details"
+    ],
+    "stock": "Only 10 left in stock.",
+    "features": {
+     "shipper_seller": {
+      "text": "Sparkle Plants",
+      "details": {
+       "heading": "Shipper / Seller",
+       "content": "Sparkle Plants"
+      },
+      "link": {
+       "text": "Sparkle Plants",
+       "link": "https://www.amazon.co.uk/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1HV2WRKHLW7X1&asin=B07MZ68QJM&ref_=dp_merchant_link"
+      }
+     },
+     "returns": {
+      "text": "Returnable within 30 days of receipt",
+      "details": {
+       "heading": "Returnable within 30 days of receipt",
+       "content": "Item can be returned in original condition for a full refund within 30 days of receipt unless seller’s return policy specifies more favourable return conditions. For seller’s return policy click on seller's name located in the \"Sold by\" section."
+      },
+      "link": {
+       "text": "Read full Amazon return policy",
+       "link": "https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=GKM69DUUYKQWKWX7&ref_=dp_ret_policy"
+      }
+     },
+     "payment": {
+      "text": "Secure transaction",
+      "details": {
+       "heading": "Your transaction is secure",
+       "content": "We work hard to protect your security and privacy. Our payment security system encrypts your information during transmission. We don’t share your credit card details with third-party sellers, and we don’t sell your information to others. Learn more"
+      },
+      "link": {
+       "text": "Learn more",
+       "link": "https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=201909010"
+      }
+     }
+    }
+   }
+  },
+  "item_specifications": {
+   "material": "Plastic, Polypropylene (PP)",
+   "colour": "Gold",
+   "special_feature": "Lightweight",
+   "style": "Modern",
+   "planter_form": "Plant Pot"
+  },
+  "about_item": [
+   "Perfect pots with saucers and drainage holes for both modern and classic interiors, they give any room a stylish look. Ideal for private homes and places like offices, restaurants, receptions, and many other premises of classic, representative style. Great for indoor green plants, herbs, and flowers such as orchids, roses, succulents, cactuses, ferns etc.",
+   "Our round plant pots are available in 25 colours and 6 small, medium, large sizes, mix match and play with style. You can combine your plants according to your personal taste using as many pots as you need. Each pot has very modern and unique, eye-catching design perfect for any plant, flower composition",
+   "6 sizes 12 CM POT 12 cm height, 12.6 cm top diameter, 11 cm bottom diameter, 11 cm depth 14 CM POT 13.5cm height, 15.5 cm top diameter, 12.5 cm bottom diameter, 12.5 depth 16 CM POT 15.2 cm height, 16 cm top diameter, 13.9 bottom diameter, 13.9 cm depth 18 CM POT 17.8 cm height, 18.5 cm top diameter, 16 cm bottom diameter, 16 cm depth 21 CM POT 20.8 cm height, 21.5 cm top diameter, 18,7 bottom diameter, 19 cm depth 26 CM POT 25.8 cm height, 26.4 cm top diameter, 23 cm bottom, 24 cm depth",
+   "Drainage holes and saucer. Each pot has drainage holes and saucer attached to the bottom by pins. Saucer can be removed when needed. Except for a few aquatic plants, plant roots don’t like to sit in water. They need to exchange oxygen and carbon dioxide with the air, and excess water closes off the air pockets in soil. Plants in pots without drainage holes are prone to becoming overwatered. Even if the soil surface appears dry, the soil at the bottom of the pot may be sopping wet.",
+   "Flowerpots with stand created for long-lasting. Made from sturdy, durable plastic, resistant to distortion and very light. Classic round shape. Aesthetic, easy to clean and suitable for all interiors, they beautifully emphasize the values of plants. Flowerpots from the Decor series with an integrated saucer have beautiful and elegant look which attracts the eye. Simple forms harmonize well with various styles of interior design."
+  ],
+  "bought_together": [
+   {
+    "position": 1,
+    "title": "KORAD OLD GOLD flower indoor plant pot with saucer plastic gloss modern decorative planter with drainage holes (26 cm)",
+    "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/91oP0PlqOIL._AC_UL116_SR116,116_.jpg",
+    "price": "£14.99",
+    "extracted_price": 14.99,
+    "stock": "Only 10 left in stock."
+   },
+   {
+    "position": 2,
+    "title": "KORAD Wood Large Flower Indoor Plant Pot with Saucer Plastic Gloss Modern Decorative Planter with Drainage Holes, 6 Sizes, 25 colours (26 cm - 10.2 inch)",
+    "link": "https://www.amazon.co.uk/KORAD-Plastic-Decorative-Planter-Drainage/dp/B07MZ7YK8V/ref=pd_bxgy_thbs_d_sccl_1/522-0250752-0434709?pd_rd_w=R2JmI&content-id=amzn1.sym.c74a04bb-1833-45ee-8b22-275d7d928695&pf_rd_p=c74a04bb-1833-45ee-8b22-275d7d928695&pf_rd_r=BQE313TVSMYPB53VYVHQ&pd_rd_wg=gcJ5W&pd_rd_r=bf923313-da6a-4dda-a8d1-a5da953b2d78&pd_rd_i=B07MZ7YK8V&psc=1",
+    "asin": "B07MZ7YK8V",
+    "link_clean": "https://www.amazon.co.uk/KORAD-Plastic-Decorative-Planter-Drainage/dp/B07MZ7YK8V/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B07MZ7YK8V&device=desktop&engine=amazon_product",
+    "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/91anDiht+9L._AC_UL116_SR116,116_.jpg",
+    "price": "£15.99",
+    "extracted_price": 15.99,
+    "stock": "In stock"
+   }
+  ],
+  "related_products": [
+   {
+    "position": 1,
+    "asin": "B0B5B5WSM4",
+    "title": "INNA-Glas Vintage plant pot MAGO made of ceramics, gold, 25 cm, Ø 27 cm | washed effect - Planter",
+    "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MToyODYxNzA0MTY4NjcyMTMyOjE3OTA3NjU2Mzg6c3BfZGV0YWlsOjMwMDU3NDQ5MjY0NTEzMjo6Ojo&url=%2Fdp%2FB0B5B5WSM4%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0B5B5WSM4%26pd_rd_w%3DG7bi8%26content-id%3Damzn1.sym.67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_p%3D67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_r%3DBQE313TVSMYPB53VYVHQ%26pd_rd_wg%3DgcJ5W%26pd_rd_r%3Dbf923313-da6a-4dda-a8d1-a5da953b2d78%26aref%3DYTJzEg7lR5%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw&aref=YTJzEg7lR5&sp_cr=ZAZ",
+    "link_clean": "https://www.amazon.co.uk/dp/B0B5B5WSM4/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0B5B5WSM4&device=desktop&engine=amazon_product",
+    "sponsored": true,
+    "thumbnail": "https://m.media-amazon.com/images/I/71jeRwcyAvL._AC_UF480,480_SR480,480_.jpg",
+    "rating": 5.0,
+    "reviews": 2,
+    "price": "£49.90",
+    "extracted_price": 49.9
+   },
+   {
+    "position": 2,
+    "asin": "B09BLG8LY5",
+    "title": "Gold Plant Pot with Black Plant Stand - Gold Planters Large Indoor",
+    "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MToyODYxNzA0MTY4NjcyMTMyOjE3OTA3NjU2Mzg6c3BfZGV0YWlsOjMwMDA5ODg5ODgyOTgzMjo6Ojo&url=%2Fdp%2FB09BLG8LY5%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB09BLG8LY5%26pd_rd_w%3DG7bi8%26content-id%3Damzn1.sym.67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_p%3D67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_r%3DBQE313TVSMYPB53VYVHQ%26pd_rd_wg%3DgcJ5W%26pd_rd_r%3Dbf923313-da6a-4dda-a8d1-a5da953b2d78%26aref%3Dh6HuVOEdOo%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw&aref=h6HuVOEdOo&sp_cr=ZAZ",
+    "link_clean": "https://www.amazon.co.uk/dp/B09BLG8LY5/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B09BLG8LY5&device=desktop&engine=amazon_product",
+    "sponsored": true,
+    "thumbnail": "https://m.media-amazon.com/images/I/710xqm5UibL._AC_UF480,480_SR480,480_.jpg",
+    "rating": 4.3,
+    "reviews": 208,
+    "discount": "-20%",
+    "price": "£39.99",
+    "extracted_price": 39.99,
+    "old_price": "null"
+   },
+   {
+    "position": 3,
+    "asin": "B07T2N9LP2",
+    "title": "KORAD COPPER Flower Indoor Plant Pot with Saucer – Glossy Modern Decorative Plastic Planter with Drainage Holes for Indoor Plan- (Copper, 5.6 inches (14 cm))",
+    "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MToyODYxNzA0MTY4NjcyMTMyOjE3OTA3NjU2Mzg6c3BfZGV0YWlsOjIwMDMxNzQyNzg4NzAzOjo6Og&url=%2Fdp%2FB07T2N9LP2%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB07T2N9LP2%26pd_rd_w%3DG7bi8%26content-id%3Damzn1.sym.67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_p%3D67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_r%3DBQE313TVSMYPB53VYVHQ%26pd_rd_wg%3DgcJ5W%26pd_rd_r%3Dbf923313-da6a-4dda-a8d1-a5da953b2d78%26aref%3DIZVy51eXdb%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw&aref=IZVy51eXdb&sp_cr=ZAZ",
+    "link_clean": "https://www.amazon.co.uk/dp/B07T2N9LP2/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B07T2N9LP2&device=desktop&engine=amazon_product",
+    "sponsored": true,
+    "thumbnail": "https://m.media-amazon.com/images/I/715nceRt4mL._AC_UF480,480_SR480,480_.jpg",
+    "rating": 4.6,
+    "reviews": 1130,
+    "price": "£8.69",
+    "extracted_price": 8.69
+   },
+   {
+    "position": 4,
+    "asin": "B07MZ8CZWT",
+    "title": "KORAD Wood Effect Large Indoor Plant Pot with Saucer Plastic Gloss Modern Decorative Planter with Drainage Holes (21 cm - 8.3 inch)",
+    "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MToyODYxNzA0MTY4NjcyMTMyOjE3OTA3NjU2Mzg6c3BfZGV0YWlsOjMwMDgzMjcxMjEwODMzMjo6Ojo&url=%2Fdp%2FB07MZ8CZWT%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB07MZ8CZWT%26pd_rd_w%3DG7bi8%26content-id%3Damzn1.sym.67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_p%3D67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_r%3DBQE313TVSMYPB53VYVHQ%26pd_rd_wg%3DgcJ5W%26pd_rd_r%3Dbf923313-da6a-4dda-a8d1-a5da953b2d78%26aref%3DQ4np8tEZkn%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw&aref=Q4np8tEZkn&sp_cr=ZAZ",
+    "link_clean": "https://www.amazon.co.uk/dp/B07MZ8CZWT/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B07MZ8CZWT&device=desktop&engine=amazon_product",
+    "sponsored": true,
+    "badges": [
+     "Amazon's Choice"
+    ],
+    "thumbnail": "https://m.media-amazon.com/images/I/91anDiht+9L._AC_UF480,480_SR480,480_.jpg",
+    "rating": 4.6,
+    "reviews": 1694,
+    "price": "£12.99",
+    "extracted_price": 12.99
+   },
+   {
+    "position": 5,
+    "asin": "B07MZ76Z62",
+    "title": "KORAD Old Silver Indoor Plant Pots with Drainage Holes and Attached Saucer, Round Modern Decorative Plastic Flowerpots for Houseplants, Succulents, 6 Sizes, 25 Colour Options- (26 cm(10.2 inches))",
+    "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MToyODYxNzA0MTY4NjcyMTMyOjE3OTA3NjU2Mzg6c3BfZGV0YWlsOjMwMDgzMjcxNzIyNDczMjo6Ojo&url=%2Fdp%2FB07MZ76Z62%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB07MZ76Z62%26pd_rd_w%3DG7bi8%26content-id%3Damzn1.sym.67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_p%3D67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_r%3DBQE313TVSMYPB53VYVHQ%26pd_rd_wg%3DgcJ5W%26pd_rd_r%3Dbf923313-da6a-4dda-a8d1-a5da953b2d78%26aref%3DWGKIqBUV4r%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw&aref=WGKIqBUV4r&sp_cr=ZAZ",
+    "link_clean": "https://www.amazon.co.uk/dp/B07MZ76Z62/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B07MZ76Z62&device=desktop&engine=amazon_product",
+    "sponsored": true,
+    "thumbnail": "https://m.media-amazon.com/images/I/71J3DN1SzRL._AC_UF480,480_SR480,480_.jpg",
+    "rating": 4.5,
+    "reviews": 269,
+    "price": "£14.99",
+    "extracted_price": 14.99
+   },
+   {
+    "position": 6,
+    "asin": "B09KP1RNCG",
+    "title": "KORAD Cristal Indoor Flower Pot Covers without Drainage Holes | Round Plastic Plant Pots Container for All Houseplants | 9 Modern Colours & 7 Sizes- (Gold, 14 cm - 5.5 inches)",
+    "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MToyODYxNzA0MTY4NjcyMTMyOjE3OTA3NjU2Mzg6c3BfZGV0YWlsOjMwMDgzMjcyMDE2MTAzMjo6Ojo&url=%2Fdp%2FB09KP1RNCG%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB09KP1RNCG%26pd_rd_w%3DG7bi8%26content-id%3Damzn1.sym.67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_p%3D67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_r%3DBQE313TVSMYPB53VYVHQ%26pd_rd_wg%3DgcJ5W%26pd_rd_r%3Dbf923313-da6a-4dda-a8d1-a5da953b2d78%26aref%3DpBbFtK65j9%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw&aref=pBbFtK65j9&sp_cr=ZAZ",
+    "link_clean": "https://www.amazon.co.uk/dp/B09KP1RNCG/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B09KP1RNCG&device=desktop&engine=amazon_product",
+    "sponsored": true,
+    "thumbnail": "https://m.media-amazon.com/images/I/51qHeoxRtZL._AC_UF480,480_SR480,480_.jpg",
+    "rating": 4.4,
+    "reviews": 1891,
+    "price": "£7.49",
+    "extracted_price": 7.49
+   },
+   {
+    "position": 7,
+    "asin": "B098B1TFSX",
+    "title": "KORAD Antique Silver Indoor Plant Pots, 6 Sizes, Mix and Match Your Decor – Plant Pot Planter with Drainage Holes and Matching Saucer for All Houseplants – Modern Home Decor Round Flower Pot (14cm)",
+    "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MToyODYxNzA0MTY4NjcyMTMyOjE3OTA3NjU2Mzg6c3BfZGV0YWlsOjMwMDgzMjcxNzIyNDkzMjo6Ojo&url=%2Fdp%2FB098B1TFSX%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB098B1TFSX%26pd_rd_w%3DG7bi8%26content-id%3Damzn1.sym.67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_p%3D67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_r%3DBQE313TVSMYPB53VYVHQ%26pd_rd_wg%3DgcJ5W%26pd_rd_r%3Dbf923313-da6a-4dda-a8d1-a5da953b2d78%26aref%3DEO08w5K7hg%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw&aref=EO08w5K7hg&sp_cr=ZAZ",
+    "link_clean": "https://www.amazon.co.uk/dp/B098B1TFSX/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B098B1TFSX&device=desktop&engine=amazon_product",
+    "sponsored": true,
+    "thumbnail": "https://m.media-amazon.com/images/I/91LYE8+0lLL._AC_UF480,480_SR480,480_.jpg",
+    "rating": 4.5,
+    "reviews": 300,
+    "price": "£8.49",
+    "extracted_price": 8.49
+   },
+   {
+    "position": 8,
+    "asin": "B07MZ76Z62",
+    "title": "KORAD Old Silver Indoor Plant Pots with Drainage Holes and Attached Saucer, Round Modern Decorative Plastic Flowerpots for Houseplants, Succulents, 6 Sizes, 25 Colour Options- (26 cm(10.2 inches))",
+    "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MTo4NjczMjc2NTYzMDkxNTI0OjE3OTA3NjU2Mzg6c3BfZGV0YWlsMjozMDA4MzI3MTcyMjQ3MzI6Ojo6&url=%2Fdp%2FB07MZ76Z62%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB07MZ76Z62%26pd_rd_w%3DoKTqJ%26content-id%3Damzn1.sym.1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_p%3D1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_r%3DBQE313TVSMYPB53VYVHQ%26pd_rd_wg%3DgcJ5W%26pd_rd_r%3Dbf923313-da6a-4dda-a8d1-a5da953b2d78%26aref%3DWGKIqBUV4r%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&aref=WGKIqBUV4r&sp_cr=ZAZ",
+    "link_clean": "https://www.amazon.co.uk/dp/B07MZ76Z62/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B07MZ76Z62&device=desktop&engine=amazon_product",
+    "sponsored": true,
+    "thumbnail": "https://m.media-amazon.com/images/I/71J3DN1SzRL._AC_UF480,480_SR480,480_.jpg",
+    "rating": 4.5,
+    "reviews": 269,
+    "price": "£14.99",
+    "extracted_price": 14.99
+   },
+   {
+    "position": 9,
+    "asin": "B098B1TFSX",
+    "title": "KORAD Antique Silver Indoor Plant Pots, 6 Sizes, Mix and Match Your Decor – Plant Pot Planter with Drainage Holes and Matching Saucer for All Houseplants – Modern Home Decor Round Flower Pot (14cm)",
+    "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MTo4NjczMjc2NTYzMDkxNTI0OjE3OTA3NjU2Mzg6c3BfZGV0YWlsMjozMDA4MzI3MTcyMjQ5MzI6Ojo6&url=%2Fdp%2FB098B1TFSX%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB098B1TFSX%26pd_rd_w%3DoKTqJ%26content-id%3Damzn1.sym.1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_p%3D1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_r%3DBQE313TVSMYPB53VYVHQ%26pd_rd_wg%3DgcJ5W%26pd_rd_r%3Dbf923313-da6a-4dda-a8d1-a5da953b2d78%26aref%3DEO08w5K7hg%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&aref=EO08w5K7hg&sp_cr=ZAZ",
+    "link_clean": "https://www.amazon.co.uk/dp/B098B1TFSX/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B098B1TFSX&device=desktop&engine=amazon_product",
+    "sponsored": true,
+    "thumbnail": "https://m.media-amazon.com/images/I/91LYE8+0lLL._AC_UF480,480_SR480,480_.jpg",
+    "rating": 4.5,
+    "reviews": 300,
+    "price": "£8.49",
+    "extracted_price": 8.49
+   },
+   {
+    "position": 10,
+    "asin": "B07VB9HDKN",
+    "title": "KORAD White with Silver Flecks Indoor Plant Pots with Drainage Holes and Matching Saucer, Round, Modern and Decorative Flowerpot for All Houseplants, 6 Sizes, 25 Colours (12 cm - 4.7 inch)",
+    "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MTo4NjczMjc2NTYzMDkxNTI0OjE3OTA3NjU2Mzg6c3BfZGV0YWlsMjoyMDAzMTc0Mjc4NTQwMzo6Ojo&url=%2Fdp%2FB07VB9HDKN%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB07VB9HDKN%26pd_rd_w%3DoKTqJ%26content-id%3Damzn1.sym.1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_p%3D1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_r%3DBQE313TVSMYPB53VYVHQ%26pd_rd_wg%3DgcJ5W%26pd_rd_r%3Dbf923313-da6a-4dda-a8d1-a5da953b2d78%26aref%3D9TCIHDH5Mo%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&aref=9TCIHDH5Mo&sp_cr=ZAZ",
+    "link_clean": "https://www.amazon.co.uk/dp/B07VB9HDKN/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B07VB9HDKN&device=desktop&engine=amazon_product",
+    "sponsored": true,
+    "thumbnail": "https://m.media-amazon.com/images/I/51vktvONkVL._AC_UF480,480_SR480,480_.jpg",
+    "rating": 4.5,
+    "reviews": 1578,
+    "price": "£8.49",
+    "extracted_price": 8.49
+   },
+   {
+    "position": 11,
+    "asin": "B084M8BNNP",
+    "title": "KORAD Cristal Indoor Flower Pot Covers without Drainage Holes | Round Plastic Plant Pots Container for All Houseplants | 9 Modern Colours & 7 Sizes- (White, 12 cm - 4.7 inches)",
+    "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MTo4NjczMjc2NTYzMDkxNTI0OjE3OTA3NjU2Mzg6c3BfZGV0YWlsMjoyMDAzMTc0Mjc5NDMwMzo6Ojo&url=%2Fdp%2FB084M8BNNP%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB084M8BNNP%26pd_rd_w%3DoKTqJ%26content-id%3Damzn1.sym.1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_p%3D1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_r%3DBQE313TVSMYPB53VYVHQ%26pd_rd_wg%3DgcJ5W%26pd_rd_r%3Dbf923313-da6a-4dda-a8d1-a5da953b2d78%26aref%3DTfAGx4tas5%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&aref=TfAGx4tas5&sp_cr=ZAZ",
+    "link_clean": "https://www.amazon.co.uk/dp/B084M8BNNP/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B084M8BNNP&device=desktop&engine=amazon_product",
+    "sponsored": true,
+    "badges": [
+     "Amazon's Choice"
+    ],
+    "thumbnail": "https://m.media-amazon.com/images/I/51hJAVbjmhL._AC_UF480,480_SR480,480_.jpg",
+    "rating": 4.4,
+    "reviews": 1891,
+    "price": "£7.79",
+    "extracted_price": 7.79
+   },
+   {
+    "position": 12,
+    "asin": "B0B5B5WSM4",
+    "title": "INNA-Glas Vintage plant pot MAGO made of ceramics, gold, 25 cm, Ø 27 cm | washed effect - Planter",
+    "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MTo4NjczMjc2NTYzMDkxNTI0OjE3OTA3NjU2Mzg6c3BfZGV0YWlsMjozMDA1NzQ0OTI2NDUxMzI6Ojo6&url=%2Fdp%2FB0B5B5WSM4%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0B5B5WSM4%26pd_rd_w%3DoKTqJ%26content-id%3Damzn1.sym.1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_p%3D1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_r%3DBQE313TVSMYPB53VYVHQ%26pd_rd_wg%3DgcJ5W%26pd_rd_r%3Dbf923313-da6a-4dda-a8d1-a5da953b2d78%26aref%3DYTJzEg7lR5%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&aref=YTJzEg7lR5&sp_cr=ZAZ",
+    "link_clean": "https://www.amazon.co.uk/dp/B0B5B5WSM4/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0B5B5WSM4&device=desktop&engine=amazon_product",
+    "sponsored": true,
+    "thumbnail": "https://m.media-amazon.com/images/I/71jeRwcyAvL._AC_UF480,480_SR480,480_.jpg",
+    "rating": 5.0,
+    "reviews": 2,
+    "price": "£49.90",
+    "extracted_price": 49.9
+   },
+   {
+    "position": 13,
+    "asin": "B09BLG8LY5",
+    "title": "Gold Plant Pot with Black Plant Stand - Gold Planters Large Indoor",
+    "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MTo4NjczMjc2NTYzMDkxNTI0OjE3OTA3NjU2Mzg6c3BfZGV0YWlsMjozMDAwOTg4OTg4Mjk4MzI6Ojo6&url=%2Fdp%2FB09BLG8LY5%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB09BLG8LY5%26pd_rd_w%3DoKTqJ%26content-id%3Damzn1.sym.1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_p%3D1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_r%3DBQE313TVSMYPB53VYVHQ%26pd_rd_wg%3DgcJ5W%26pd_rd_r%3Dbf923313-da6a-4dda-a8d1-a5da953b2d78%26aref%3Dh6HuVOEdOo%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&aref=h6HuVOEdOo&sp_cr=ZAZ",
+    "link_clean": "https://www.amazon.co.uk/dp/B09BLG8LY5/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B09BLG8LY5&device=desktop&engine=amazon_product",
+    "sponsored": true,
+    "thumbnail": "https://m.media-amazon.com/images/I/710xqm5UibL._AC_UF480,480_SR480,480_.jpg",
+    "rating": 4.3,
+    "reviews": 208,
+    "discount": "-20%",
+    "price": "£39.99",
+    "extracted_price": 39.99,
+    "old_price": "null"
+   },
+   {
+    "position": 14,
+    "asin": "B07T2N9LP2",
+    "title": "KORAD COPPER Flower Indoor Plant Pot with Saucer – Glossy Modern Decorative Plastic Planter with Drainage Holes for Indoor Plan- (Copper, 5.6 inches (14 cm))",
+    "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MTo4NjczMjc2NTYzMDkxNTI0OjE3OTA3NjU2Mzg6c3BfZGV0YWlsMjoyMDAzMTc0Mjc4ODcwMzo6Ojo&url=%2Fdp%2FB07T2N9LP2%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB07T2N9LP2%26pd_rd_w%3DoKTqJ%26content-id%3Damzn1.sym.1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_p%3D1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_r%3DBQE313TVSMYPB53VYVHQ%26pd_rd_wg%3DgcJ5W%26pd_rd_r%3Dbf923313-da6a-4dda-a8d1-a5da953b2d78%26aref%3DIZVy51eXdb%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&aref=IZVy51eXdb&sp_cr=ZAZ",
+    "link_clean": "https://www.amazon.co.uk/dp/B07T2N9LP2/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B07T2N9LP2&device=desktop&engine=amazon_product",
+    "sponsored": true,
+    "thumbnail": "https://m.media-amazon.com/images/I/715nceRt4mL._AC_UF480,480_SR480,480_.jpg",
+    "rating": 4.6,
+    "reviews": 1130,
+    "price": "£8.69",
+    "extracted_price": 8.69
+   }
+  ],
+  "related_product_sections": [
+   {
+    "title": "Products related to this item",
+    "items": [
+     {
+      "position": 1,
+      "asin": "B0B5B5WSM4",
+      "title": "INNA-Glas Vintage plant pot MAGO made of ceramics, gold, 25 cm, Ø 27 cm | washed effect - Planter",
+      "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MToyODYxNzA0MTY4NjcyMTMyOjE3OTA3NjU2Mzg6c3BfZGV0YWlsOjMwMDU3NDQ5MjY0NTEzMjo6Ojo&url=%2Fdp%2FB0B5B5WSM4%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0B5B5WSM4%26pd_rd_w%3DG7bi8%26content-id%3Damzn1.sym.67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_p%3D67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_r%3DBQE313TVSMYPB53VYVHQ%26pd_rd_wg%3DgcJ5W%26pd_rd_r%3Dbf923313-da6a-4dda-a8d1-a5da953b2d78%26aref%3DYTJzEg7lR5%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw&aref=YTJzEg7lR5&sp_cr=ZAZ",
+      "link_clean": "https://www.amazon.co.uk/dp/B0B5B5WSM4/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0B5B5WSM4&device=desktop&engine=amazon_product",
+      "sponsored": true,
+      "thumbnail": "https://m.media-amazon.com/images/I/71jeRwcyAvL._AC_UF480,480_SR480,480_.jpg",
+      "rating": 5.0,
+      "reviews": 2,
+      "price": "£49.90",
+      "extracted_price": 49.9
+     },
+     {
+      "position": 2,
+      "asin": "B09BLG8LY5",
+      "title": "Gold Plant Pot with Black Plant Stand - Gold Planters Large Indoor",
+      "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MToyODYxNzA0MTY4NjcyMTMyOjE3OTA3NjU2Mzg6c3BfZGV0YWlsOjMwMDA5ODg5ODgyOTgzMjo6Ojo&url=%2Fdp%2FB09BLG8LY5%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB09BLG8LY5%26pd_rd_w%3DG7bi8%26content-id%3Damzn1.sym.67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_p%3D67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_r%3DBQE313TVSMYPB53VYVHQ%26pd_rd_wg%3DgcJ5W%26pd_rd_r%3Dbf923313-da6a-4dda-a8d1-a5da953b2d78%26aref%3Dh6HuVOEdOo%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw&aref=h6HuVOEdOo&sp_cr=ZAZ",
+      "link_clean": "https://www.amazon.co.uk/dp/B09BLG8LY5/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B09BLG8LY5&device=desktop&engine=amazon_product",
+      "sponsored": true,
+      "thumbnail": "https://m.media-amazon.com/images/I/710xqm5UibL._AC_UF480,480_SR480,480_.jpg",
+      "rating": 4.3,
+      "reviews": 208,
+      "discount": "-20%",
+      "price": "£39.99",
+      "extracted_price": 39.99,
+      "old_price": "null"
+     },
+     {
+      "position": 3,
+      "asin": "B07T2N9LP2",
+      "title": "KORAD COPPER Flower Indoor Plant Pot with Saucer – Glossy Modern Decorative Plastic Planter with Drainage Holes for Indoor Plan- (Copper, 5.6 inches (14 cm))",
+      "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MToyODYxNzA0MTY4NjcyMTMyOjE3OTA3NjU2Mzg6c3BfZGV0YWlsOjIwMDMxNzQyNzg4NzAzOjo6Og&url=%2Fdp%2FB07T2N9LP2%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB07T2N9LP2%26pd_rd_w%3DG7bi8%26content-id%3Damzn1.sym.67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_p%3D67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_r%3DBQE313TVSMYPB53VYVHQ%26pd_rd_wg%3DgcJ5W%26pd_rd_r%3Dbf923313-da6a-4dda-a8d1-a5da953b2d78%26aref%3DIZVy51eXdb%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw&aref=IZVy51eXdb&sp_cr=ZAZ",
+      "link_clean": "https://www.amazon.co.uk/dp/B07T2N9LP2/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B07T2N9LP2&device=desktop&engine=amazon_product",
+      "sponsored": true,
+      "thumbnail": "https://m.media-amazon.com/images/I/715nceRt4mL._AC_UF480,480_SR480,480_.jpg",
+      "rating": 4.6,
+      "reviews": 1130,
+      "price": "£8.69",
+      "extracted_price": 8.69
+     },
+     {
+      "position": 4,
+      "asin": "B07MZ8CZWT",
+      "title": "KORAD Wood Effect Large Indoor Plant Pot with Saucer Plastic Gloss Modern Decorative Planter with Drainage Holes (21 cm - 8.3 inch)",
+      "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MToyODYxNzA0MTY4NjcyMTMyOjE3OTA3NjU2Mzg6c3BfZGV0YWlsOjMwMDgzMjcxMjEwODMzMjo6Ojo&url=%2Fdp%2FB07MZ8CZWT%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB07MZ8CZWT%26pd_rd_w%3DG7bi8%26content-id%3Damzn1.sym.67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_p%3D67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_r%3DBQE313TVSMYPB53VYVHQ%26pd_rd_wg%3DgcJ5W%26pd_rd_r%3Dbf923313-da6a-4dda-a8d1-a5da953b2d78%26aref%3DQ4np8tEZkn%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw&aref=Q4np8tEZkn&sp_cr=ZAZ",
+      "link_clean": "https://www.amazon.co.uk/dp/B07MZ8CZWT/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B07MZ8CZWT&device=desktop&engine=amazon_product",
+      "sponsored": true,
+      "badges": [
+       "Amazon's Choice"
+      ],
+      "thumbnail": "https://m.media-amazon.com/images/I/91anDiht+9L._AC_UF480,480_SR480,480_.jpg",
+      "rating": 4.6,
+      "reviews": 1694,
+      "price": "£12.99",
+      "extracted_price": 12.99
+     },
+     {
+      "position": 5,
+      "asin": "B07MZ76Z62",
+      "title": "KORAD Old Silver Indoor Plant Pots with Drainage Holes and Attached Saucer, Round Modern Decorative Plastic Flowerpots for Houseplants, Succulents, 6 Sizes, 25 Colour Options- (26 cm(10.2 inches))",
+      "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MToyODYxNzA0MTY4NjcyMTMyOjE3OTA3NjU2Mzg6c3BfZGV0YWlsOjMwMDgzMjcxNzIyNDczMjo6Ojo&url=%2Fdp%2FB07MZ76Z62%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB07MZ76Z62%26pd_rd_w%3DG7bi8%26content-id%3Damzn1.sym.67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_p%3D67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_r%3DBQE313TVSMYPB53VYVHQ%26pd_rd_wg%3DgcJ5W%26pd_rd_r%3Dbf923313-da6a-4dda-a8d1-a5da953b2d78%26aref%3DWGKIqBUV4r%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw&aref=WGKIqBUV4r&sp_cr=ZAZ",
+      "link_clean": "https://www.amazon.co.uk/dp/B07MZ76Z62/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B07MZ76Z62&device=desktop&engine=amazon_product",
+      "sponsored": true,
+      "thumbnail": "https://m.media-amazon.com/images/I/71J3DN1SzRL._AC_UF480,480_SR480,480_.jpg",
+      "rating": 4.5,
+      "reviews": 269,
+      "price": "£14.99",
+      "extracted_price": 14.99
+     },
+     {
+      "position": 6,
+      "asin": "B09KP1RNCG",
+      "title": "KORAD Cristal Indoor Flower Pot Covers without Drainage Holes | Round Plastic Plant Pots Container for All Houseplants | 9 Modern Colours & 7 Sizes- (Gold, 14 cm - 5.5 inches)",
+      "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MToyODYxNzA0MTY4NjcyMTMyOjE3OTA3NjU2Mzg6c3BfZGV0YWlsOjMwMDgzMjcyMDE2MTAzMjo6Ojo&url=%2Fdp%2FB09KP1RNCG%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB09KP1RNCG%26pd_rd_w%3DG7bi8%26content-id%3Damzn1.sym.67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_p%3D67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_r%3DBQE313TVSMYPB53VYVHQ%26pd_rd_wg%3DgcJ5W%26pd_rd_r%3Dbf923313-da6a-4dda-a8d1-a5da953b2d78%26aref%3DpBbFtK65j9%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw&aref=pBbFtK65j9&sp_cr=ZAZ",
+      "link_clean": "https://www.amazon.co.uk/dp/B09KP1RNCG/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B09KP1RNCG&device=desktop&engine=amazon_product",
+      "sponsored": true,
+      "thumbnail": "https://m.media-amazon.com/images/I/51qHeoxRtZL._AC_UF480,480_SR480,480_.jpg",
+      "rating": 4.4,
+      "reviews": 1891,
+      "price": "£7.49",
+      "extracted_price": 7.49
+     },
+     {
+      "position": 7,
+      "asin": "B098B1TFSX",
+      "title": "KORAD Antique Silver Indoor Plant Pots, 6 Sizes, Mix and Match Your Decor – Plant Pot Planter with Drainage Holes and Matching Saucer for All Houseplants – Modern Home Decor Round Flower Pot (14cm)",
+      "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MToyODYxNzA0MTY4NjcyMTMyOjE3OTA3NjU2Mzg6c3BfZGV0YWlsOjMwMDgzMjcxNzIyNDkzMjo6Ojo&url=%2Fdp%2FB098B1TFSX%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB098B1TFSX%26pd_rd_w%3DG7bi8%26content-id%3Damzn1.sym.67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_p%3D67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_r%3DBQE313TVSMYPB53VYVHQ%26pd_rd_wg%3DgcJ5W%26pd_rd_r%3Dbf923313-da6a-4dda-a8d1-a5da953b2d78%26aref%3DEO08w5K7hg%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw&aref=EO08w5K7hg&sp_cr=ZAZ",
+      "link_clean": "https://www.amazon.co.uk/dp/B098B1TFSX/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B098B1TFSX&device=desktop&engine=amazon_product",
+      "sponsored": true,
+      "thumbnail": "https://m.media-amazon.com/images/I/91LYE8+0lLL._AC_UF480,480_SR480,480_.jpg",
+      "rating": 4.5,
+      "reviews": 300,
+      "price": "£8.49",
+      "extracted_price": 8.49
+     }
+    ]
+   },
+   {
+    "title": "Products related to this item",
+    "items": [
+     {
+      "position": 1,
+      "asin": "B07MZ76Z62",
+      "title": "KORAD Old Silver Indoor Plant Pots with Drainage Holes and Attached Saucer, Round Modern Decorative Plastic Flowerpots for Houseplants, Succulents, 6 Sizes, 25 Colour Options- (26 cm(10.2 inches))",
+      "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MTo4NjczMjc2NTYzMDkxNTI0OjE3OTA3NjU2Mzg6c3BfZGV0YWlsMjozMDA4MzI3MTcyMjQ3MzI6Ojo6&url=%2Fdp%2FB07MZ76Z62%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB07MZ76Z62%26pd_rd_w%3DoKTqJ%26content-id%3Damzn1.sym.1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_p%3D1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_r%3DBQE313TVSMYPB53VYVHQ%26pd_rd_wg%3DgcJ5W%26pd_rd_r%3Dbf923313-da6a-4dda-a8d1-a5da953b2d78%26aref%3DWGKIqBUV4r%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&aref=WGKIqBUV4r&sp_cr=ZAZ",
+      "link_clean": "https://www.amazon.co.uk/dp/B07MZ76Z62/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B07MZ76Z62&device=desktop&engine=amazon_product",
+      "sponsored": true,
+      "thumbnail": "https://m.media-amazon.com/images/I/71J3DN1SzRL._AC_UF480,480_SR480,480_.jpg",
+      "rating": 4.5,
+      "reviews": 269,
+      "price": "£14.99",
+      "extracted_price": 14.99
+     },
+     {
+      "position": 2,
+      "asin": "B098B1TFSX",
+      "title": "KORAD Antique Silver Indoor Plant Pots, 6 Sizes, Mix and Match Your Decor – Plant Pot Planter with Drainage Holes and Matching Saucer for All Houseplants – Modern Home Decor Round Flower Pot (14cm)",
+      "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MTo4NjczMjc2NTYzMDkxNTI0OjE3OTA3NjU2Mzg6c3BfZGV0YWlsMjozMDA4MzI3MTcyMjQ5MzI6Ojo6&url=%2Fdp%2FB098B1TFSX%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB098B1TFSX%26pd_rd_w%3DoKTqJ%26content-id%3Damzn1.sym.1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_p%3D1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_r%3DBQE313TVSMYPB53VYVHQ%26pd_rd_wg%3DgcJ5W%26pd_rd_r%3Dbf923313-da6a-4dda-a8d1-a5da953b2d78%26aref%3DEO08w5K7hg%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&aref=EO08w5K7hg&sp_cr=ZAZ",
+      "link_clean": "https://www.amazon.co.uk/dp/B098B1TFSX/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B098B1TFSX&device=desktop&engine=amazon_product",
+      "sponsored": true,
+      "thumbnail": "https://m.media-amazon.com/images/I/91LYE8+0lLL._AC_UF480,480_SR480,480_.jpg",
+      "rating": 4.5,
+      "reviews": 300,
+      "price": "£8.49",
+      "extracted_price": 8.49
+     },
+     {
+      "position": 3,
+      "asin": "B07VB9HDKN",
+      "title": "KORAD White with Silver Flecks Indoor Plant Pots with Drainage Holes and Matching Saucer, Round, Modern and Decorative Flowerpot for All Houseplants, 6 Sizes, 25 Colours (12 cm - 4.7 inch)",
+      "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MTo4NjczMjc2NTYzMDkxNTI0OjE3OTA3NjU2Mzg6c3BfZGV0YWlsMjoyMDAzMTc0Mjc4NTQwMzo6Ojo&url=%2Fdp%2FB07VB9HDKN%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB07VB9HDKN%26pd_rd_w%3DoKTqJ%26content-id%3Damzn1.sym.1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_p%3D1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_r%3DBQE313TVSMYPB53VYVHQ%26pd_rd_wg%3DgcJ5W%26pd_rd_r%3Dbf923313-da6a-4dda-a8d1-a5da953b2d78%26aref%3D9TCIHDH5Mo%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&aref=9TCIHDH5Mo&sp_cr=ZAZ",
+      "link_clean": "https://www.amazon.co.uk/dp/B07VB9HDKN/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B07VB9HDKN&device=desktop&engine=amazon_product",
+      "sponsored": true,
+      "thumbnail": "https://m.media-amazon.com/images/I/51vktvONkVL._AC_UF480,480_SR480,480_.jpg",
+      "rating": 4.5,
+      "reviews": 1578,
+      "price": "£8.49",
+      "extracted_price": 8.49
+     },
+     {
+      "position": 4,
+      "asin": "B084M8BNNP",
+      "title": "KORAD Cristal Indoor Flower Pot Covers without Drainage Holes | Round Plastic Plant Pots Container for All Houseplants | 9 Modern Colours & 7 Sizes- (White, 12 cm - 4.7 inches)",
+      "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MTo4NjczMjc2NTYzMDkxNTI0OjE3OTA3NjU2Mzg6c3BfZGV0YWlsMjoyMDAzMTc0Mjc5NDMwMzo6Ojo&url=%2Fdp%2FB084M8BNNP%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB084M8BNNP%26pd_rd_w%3DoKTqJ%26content-id%3Damzn1.sym.1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_p%3D1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_r%3DBQE313TVSMYPB53VYVHQ%26pd_rd_wg%3DgcJ5W%26pd_rd_r%3Dbf923313-da6a-4dda-a8d1-a5da953b2d78%26aref%3DTfAGx4tas5%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&aref=TfAGx4tas5&sp_cr=ZAZ",
+      "link_clean": "https://www.amazon.co.uk/dp/B084M8BNNP/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B084M8BNNP&device=desktop&engine=amazon_product",
+      "sponsored": true,
+      "badges": [
+       "Amazon's Choice"
+      ],
+      "thumbnail": "https://m.media-amazon.com/images/I/51hJAVbjmhL._AC_UF480,480_SR480,480_.jpg",
+      "rating": 4.4,
+      "reviews": 1891,
+      "price": "£7.79",
+      "extracted_price": 7.79
+     },
+     {
+      "position": 5,
+      "asin": "B0B5B5WSM4",
+      "title": "INNA-Glas Vintage plant pot MAGO made of ceramics, gold, 25 cm, Ø 27 cm | washed effect - Planter",
+      "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MTo4NjczMjc2NTYzMDkxNTI0OjE3OTA3NjU2Mzg6c3BfZGV0YWlsMjozMDA1NzQ0OTI2NDUxMzI6Ojo6&url=%2Fdp%2FB0B5B5WSM4%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0B5B5WSM4%26pd_rd_w%3DoKTqJ%26content-id%3Damzn1.sym.1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_p%3D1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_r%3DBQE313TVSMYPB53VYVHQ%26pd_rd_wg%3DgcJ5W%26pd_rd_r%3Dbf923313-da6a-4dda-a8d1-a5da953b2d78%26aref%3DYTJzEg7lR5%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&aref=YTJzEg7lR5&sp_cr=ZAZ",
+      "link_clean": "https://www.amazon.co.uk/dp/B0B5B5WSM4/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0B5B5WSM4&device=desktop&engine=amazon_product",
+      "sponsored": true,
+      "thumbnail": "https://m.media-amazon.com/images/I/71jeRwcyAvL._AC_UF480,480_SR480,480_.jpg",
+      "rating": 5.0,
+      "reviews": 2,
+      "price": "£49.90",
+      "extracted_price": 49.9
+     },
+     {
+      "position": 6,
+      "asin": "B09BLG8LY5",
+      "title": "Gold Plant Pot with Black Plant Stand - Gold Planters Large Indoor",
+      "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MTo4NjczMjc2NTYzMDkxNTI0OjE3OTA3NjU2Mzg6c3BfZGV0YWlsMjozMDAwOTg4OTg4Mjk4MzI6Ojo6&url=%2Fdp%2FB09BLG8LY5%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB09BLG8LY5%26pd_rd_w%3DoKTqJ%26content-id%3Damzn1.sym.1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_p%3D1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_r%3DBQE313TVSMYPB53VYVHQ%26pd_rd_wg%3DgcJ5W%26pd_rd_r%3Dbf923313-da6a-4dda-a8d1-a5da953b2d78%26aref%3Dh6HuVOEdOo%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&aref=h6HuVOEdOo&sp_cr=ZAZ",
+      "link_clean": "https://www.amazon.co.uk/dp/B09BLG8LY5/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B09BLG8LY5&device=desktop&engine=amazon_product",
+      "sponsored": true,
+      "thumbnail": "https://m.media-amazon.com/images/I/710xqm5UibL._AC_UF480,480_SR480,480_.jpg",
+      "rating": 4.3,
+      "reviews": 208,
+      "discount": "-20%",
+      "price": "£39.99",
+      "extracted_price": 39.99,
+      "old_price": "null"
+     },
+     {
+      "position": 7,
+      "asin": "B07T2N9LP2",
+      "title": "KORAD COPPER Flower Indoor Plant Pot with Saucer – Glossy Modern Decorative Plastic Planter with Drainage Holes for Indoor Plan- (Copper, 5.6 inches (14 cm))",
+      "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MTo4NjczMjc2NTYzMDkxNTI0OjE3OTA3NjU2Mzg6c3BfZGV0YWlsMjoyMDAzMTc0Mjc4ODcwMzo6Ojo&url=%2Fdp%2FB07T2N9LP2%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB07T2N9LP2%26pd_rd_w%3DoKTqJ%26content-id%3Damzn1.sym.1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_p%3D1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_r%3DBQE313TVSMYPB53VYVHQ%26pd_rd_wg%3DgcJ5W%26pd_rd_r%3Dbf923313-da6a-4dda-a8d1-a5da953b2d78%26aref%3DIZVy51eXdb%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&aref=IZVy51eXdb&sp_cr=ZAZ",
+      "link_clean": "https://www.amazon.co.uk/dp/B07T2N9LP2/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B07T2N9LP2&device=desktop&engine=amazon_product",
+      "sponsored": true,
+      "thumbnail": "https://m.media-amazon.com/images/I/715nceRt4mL._AC_UF480,480_SR480,480_.jpg",
+      "rating": 4.6,
+      "reviews": 1130,
+      "price": "£8.69",
+      "extracted_price": 8.69
+     }
+    ]
+   }
+  ],
+  "product_description": [
+   {
+    "position": 1,
+    "title": "a set of 12 metal glass tumblers",
+    "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/06061031-0661-46cb-9c29-ea6b527da542.__CR111,0,1316,814_PT0_SX970_V1___.png"
+   },
+   {
+    "position": 2
+   },
+   {
+    "position": 3,
+    "features": [
+     {
+      "position": 1,
+      "title": "Made from Durable Recycled Plastic",
+      "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a5fbbe99-ca8c-46c3-ad3a-ed42fdcf391a.__CR0,0,1000,1000_PT0_SX220_V1___.jpg"
+     },
+     {
+      "position": 2,
+      "title": "Drainage Holes",
+      "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4334acd1-9ff4-401f-b65c-04bd99d12025.__CR0,0,1000,1000_PT0_SX220_V1___.jpg"
+     },
+     {
+      "position": 3,
+      "title": "Matching Saucer",
+      "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/851e3911-ab91-4ccd-9933-53984c463fb9.__CR0,0,1000,1000_PT0_SX220_V1___.jpg"
+     },
+     {
+      "position": 4,
+      "title": "Large Variety"
+     }
+    ]
+   },
+   {
+    "position": 4
+   },
+   {
+    "position": 5
+   }
+  ],
+  "product_details": {
+   "colour": "Gold",
+   "product_style": "Modern",
+   "planter_form": "Plant Pot",
+   "item_shape": "Cylindrical",
+   "pattern": "Solid",
+   "theme": "Plants",
+   "brand_name": "KORAD",
+   "included_components": "Saucer",
+   "country_of_origin": "Poland",
+   "unit_count": "1.0 count",
+   "item_type_name": "planter",
+   "manufacturer": "Decor",
+   "manufacturer_part_number": "aoxp-s16dik-ccd",
+   "best_sellers_rank": [
+    {
+     "text": "5,393 in Garden (See Top 100 in Garden)",
+     "extracted_rank": 5393,
+     "link": "https://www.amazon.co.uk/gp/bestsellers/outdoors/ref=pd_zg_ts_outdoors",
+     "link_text": "See Top 100 in Garden"
+    },
+    {
+     "text": "134 in Flower Pots",
+     "extracted_rank": 134,
+     "link": "https://www.amazon.co.uk/gp/bestsellers/outdoors/4224875031/ref=pd_zg_hrsr_outdoors",
+     "link_text": "Flower Pots"
+    }
+   ],
+   "asin": "B07MZ68QJM",
+   "customer_reviews": "4.5 out of 5 stars",
+   "rating": 4.5,
+   "reviews": 1299,
+   "item_dimensions_d_x_w_x_h": "24D x 26.4W x 25.8H centimetres",
+   "capacity": "12 litres",
+   "number_of_pieces": "1",
+   "number_of_levels": "1",
+   "item_weight": "630 Grams",
+   "item_dimensions": "24 x 26.4 x 25.8 centimetres",
+   "size": "26 cm",
+   "other_special_features_of_the_product": "Lightweight",
+   "mounting_type": "Tabletop",
+   "has_drainage": "Yes",
+   "plant_or_animal_product_type": "Flower",
+   "material_type": "Plastic, Polypropylene (PP)",
+   "finish_type": "Lacquered",
+   "indoor_outdoor_usage": "Indoor"
+  },
+  "sponsored_brands": [
+   {
+    "position": 1,
+    "asin": "B0B4BGFWHH",
+    "title": "35cm (14”) Diameter Pack of 4, UK Made Plant Pot Saucers, Flower Pot Saucer - Black Plastic Plant Saucers - Ideal as a Drip Base Plant Pot Trays For Garden Pot Saucer Indoor/Outdoor Plants",
+    "link": "https://aax-eu-zaz.amazon.co.uk/x/c/JFa9SK8b_br5_J7EP3-0szIAAAGg8fMlpAoAAAH2AQBvbm9fdHhuX2JpZDMgICBvbm9fdHhuX2ltcDEgICDYUkFE/clv1c_ek-wxff3VcbaDfuFCN33IfBwCrM5kGg1WfKXepB3NUHbvlPzhG9T81ZQN3nUxGlfRgGVxPNgHbZr8zDcXLhr-Hn8WfNXjpvK2AX13tnrXdw-CN3nKXH4lbZ55uRU_iKQ0nx7dfMjDtt7m_azZFvi7HuJptiMVlVvmlXz1gvCjKQcVXgbKt_6KfIcIIG7TqvLoQKYdgl6WofGy9BVB1GQ8u3yNNWZBoFV_ba6SpIk4yM6i6QVLGuobPoR_YyeHMp82Mgl1i5ngecgK2XWIS_nJ_qCC8TTtM_Obs7JUKKthndeddKvcFFryXvdA5jFFAdm_ptVEB4SLnfTmb-cWQ-EqvWqQDnFXFxRJiI9uOJG0BZMRXQzXZFstkLGpzxY9iPBxEQtiFnIN9kKmIckVfGhstOwPCX2qN4j477bynDoGQ7fnBINWC3iMGMiTAUwGemBikrMvGUPFGswZBDtr5jmKJKxVYB4tKiH5UpRdiiPERihL_gO8fgWesx7xbcI5NOGZjI5vuuatQ9PHKz6XDcEBPYXXhetSYvbul2TnJbSDtFaVXhpG3QNDQtgs_ISkYy3d5NJm2eUclV5RfosgccLCg28ft5gTIEeHJNCdxjKoHml7s55lZsoaomMyN3Pbx5EVsTAbF2Hvm4txcRdzmq2ir9lPgS0bCBkWeH6Bd33JOZrD20_2iuvZ7--VN4lmWKHLxF3CopfMI9ZMlbMyg_-nVPrSjZT0CVWOCCE20gf3TPwo8V9PYJvCCOK8pIeV2pCARwnScqR9Wi6I4mTg1GvFGYY8L2YvYXsUYoyKa6Ik4MO57gTQQnESxIppRXeD_Dr0Bs5EvptAKtAhDmrPP0ponQiz-ghHTmvl3U-lEe7OJkh0xs9cjpb92p0WY6SzezqUuWXj3EBpYVSb3Rq1yH8OD4q7hNem2qqzgLtLFdXNREeF2r9ana9XEPrMAVnhQc9WEz3qIrxVmmsc1aMa04485WnS6CGTfW_qHtQ8W21XXSJoFcuZNagymHYpoieR3rDCsQbHF3t3CkK_6ibPWO6Jd00A-h4gzDTuwIMVQeMc9ysFXubfnldAOAhldwAfhrERs8v4Xl9iw-YNrOrmpRZ_46EHGJiyoBYeFHlBOSN0Pc4mq0jx1r3ufFYGPo1Q6v2JnOc7XtFkmvJ7bJvkwHLYPf7-P-VV0oPQ9fQZ15IIELs8ptOwKTu8j6eoQxxN5tnGwoSaTLApqDpbbrKERrfcFh4cnrFYkOzSddLZUGXEQgJDA1RUMgeoNv2g4y8qxi3T6WGsvRLKeT4d69Crzv8JSUUM6GKrYCv4PdmxDps88kUXExcXLr3O5RxWMNn78RfLV8nO-yd2-rpHXW1xeu2lrHUUWTT03mK4dCAt1x3OmGISKNAduTC20pkcESOh9eqaUhkakvXZ_JJDg8LzSatdRcLlBipLkhgAvA6Puv6NKrlbKA/https://www.amazon.co.uk/dp/B0B4BGFWHH/?_encoding=UTF8&aref=KXWtlijetQ&pd_rd_i=B0B4BGFWHH&pd_rd_i=B0B4BGFWHH&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=x3VxU&content-id=amzn1.sym.fa3ea19a-f924-4ac4-867b-bbb541898b0c&pf_rd_p=fa3ea19a-f924-4ac4-867b-bbb541898b0c&pf_rd_r=BQE313TVSMYPB53VYVHQ&pd_rd_wg=gcJ5W&pd_rd_r=bf923313-da6a-4dda-a8d1-a5da953b2d78",
+    "link_clean": "https://www.amazon.co.uk/dp/B0B4BGFWHH/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0B4BGFWHH&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/31pmtdfgPlL._AC_SR100,100_QL65_.jpg",
+    "video": {
+     "link": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/bd28c05c-0ffa-4695-9642-9cb68a5baf51.mp4/productVideoOptimized.mp4",
+     "thumbnail": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/bd28c05c-0ffa-4695-9642-9cb68a5baf51.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+    },
+    "rating": 4.7,
+    "reviews": 781,
+    "price": "£15.00",
+    "extracted_price": 15.0
+   },
+   {
+    "position": 2,
+    "asin": "B09TBJLV63",
+    "title": "SG Traders Large Urn Plant Pot Stand, Flower Pots Outdoor Garden Planters, Indoor Plant Pot, Tall Planter with Drainage Holes Strong Plastic Black with Gold Outdoor Large Planters Urns D43 x H49cm",
+    "link": "https://aax-eu-zaz.amazon.co.uk/x/c/JNvFw2PFjoeXTo29tVXKKfIAAAGg8fMlpgoAAAH2AQBvbm9fdHhuX2JpZDMgICBvbm9fdHhuX2ltcDEgICA_VPWk/clv1c_ek-YBYHXFcbWBg2jMzQfDzpZAiiRLtt1TdweIF7ym5k40paO33p4ccK6woENg2A4H9HCpuPK4--_jfEFbnX_PNoIje731v9Y-qhx3VkX7Io-6JXzEFIN1Ra6oPpsgCZZ0xLLQtpPdtvdqoi7JEXC8G9P4duIqjX6s3agD_aozpsPQbu8Y1TgxZsmb6FCNNZBrn4xYMnLGQnegTzxn6ihyuA5tJ9OPFToYzbsJ1G78TI-i53H-okLIXA2AxiOu2X74m86QgnHpaWIwPT9Dz2ScMmDUTNwUZw4OKsuJim8dBmgGHmrt8cEx-4qgfk9Hy6X-KesAr0Tp8hDlUDWjPcVYXFkQN91jtaPlFb6aJuk2NmlGk7RUWggp1FFLwnAlTEJ3ezdiXJx8ZudWCv6Bb2YiMwF7dj2TWTVbDYEq2KWYRSrLFiigRb2TFmAET_FB9bddytIb0oI4BIisRmtpiH-ZF-1_EL488INyMsxhuW7_t8iGIlkJcWS8jdJcmhL_4dEh7FGPV3yVAvG8r6u05OYAgK7B1lVzuEMdv7LVjHPZO1NhIKUNaHnvQBewBCIA7-TXHVI8adV8mmNzsXz8vwJ9nHJ_i5PzEK4f1Q8OI5R8gA2jIhBj0GQrnigban9jMEMDd6sGZbVBd3K1yQbCrYChZIF-3n1Xwo6J-5j4zQetyAtLH8ea7L9DOO8uoh1EBhSC4SexvM_D3eeQ89Cjl9Wo0biFBsedNzYoCN7pjyXzFNZ8GL1GGr6qGYlAip7FeYT6xxk6MUkQR-e_aEVRgFXGJZpMGBIMkecK8ovHJ5VTchwsXd63qYpLe7YYDB86Erpr0OeMsajjoJwxxTITOUgNF5Y9cWRhXs-zigHSOfUdG80VP3KA0BnRizHgnuJNar9ThCKb90uMVunwc8FuNRWQirV75SuRnUQCHewGms1wROrFhTHoDsIcHjWX5qwYWRr18t24oIHUwXVNr6Yy_vnHneBfAslChPw8bo6pEtLiTdGRZFY8qlYajCvjgB3aO_H1CiDE_wDWboKvEFkZuCaZy7C--DqaaWU7_5xevNbrv_F_lpR3387bYuJco1wrc9K5YxoAG5UcGHeIqkO7rm_S0oyARgvlmNyJQndLaH6QeQmgmjknDtkRtntiBd5N5zxT8cf8lrQKmlaAXh2f7vEMf3vOvvhA1XqBpiJi47hUL5OSG4n3buQjVTQSmvAqybc41XReT6tyNoK_dygICF8QhGx6AvX9e-N9DRuexrItRU0Z8alF3esGCxU0WjSaIoFVwkYUje5EVrOXWTBVe7yuV8GMy4ASFQlRNRL8IQ0cZLjODlLKbD6b61vu64pbpuiRhrKRCT3Y5BRKFNOu1NbX_aU62UzoagPL0jKwTLlmuh22lwjOWgwI8GDW26F5wq2CpVM2tDwfbWH1n40pXjNE-JI3Gs/https://www.amazon.co.uk/dp/B09TBJLV63/?_encoding=UTF8&aref=PC0Coq0Ehj&pd_rd_i=B09TBJLV63&pd_rd_i=B09TBJLV63&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=x3VxU&content-id=amzn1.sym.fa3ea19a-f924-4ac4-867b-bbb541898b0c&pf_rd_p=fa3ea19a-f924-4ac4-867b-bbb541898b0c&pf_rd_r=BQE313TVSMYPB53VYVHQ&pd_rd_wg=gcJ5W&pd_rd_r=bf923313-da6a-4dda-a8d1-a5da953b2d78",
+    "link_clean": "https://www.amazon.co.uk/dp/B09TBJLV63/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B09TBJLV63&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/51RNHCw6sfL._AC_SR100,100_QL65_.jpg",
+    "video": {
+     "link": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/2109d0e9-3d99-464e-a947-13835bf55be7.mp4/productVideoOptimized.mp4",
+     "thumbnail": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/2109d0e9-3d99-464e-a947-13835bf55be7.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+    },
+    "rating": 4.7,
+    "reviews": 591,
+    "price": "£23.99",
+    "extracted_price": 23.99
+   },
+   {
+    "position": 3,
+    "asin": "B0C4SVZ6CZ",
+    "title": "Self Watering Plant Pots Indoor, Set of 3 10.5 Inch Herb Planter Box | Window Box Planter with Drainage Tray, Rectangular Planters, Modern Design, Herb Pots for Outdoor Garden, Patio, Office",
+    "link": "https://aax-eu-zaz.amazon.co.uk/x/c/JGjLtSWUOnJqprsFp9uXfH4AAAGg8fMlpwoAAAH2AQBvbm9fdHhuX2JpZDMgICBvbm9fdHhuX2ltcDEgICCrcTS6/clv1c_ek-wBff3Vcba5nIqeEZvQWgzhLK70HBI6p8ffx6z-vgQJgG2ZGwDWeh_9TU17Ce-XzkqM9baI3I2osdj49vdU2J8Ah4ZOjMp4yQWNs7VGuwF5_XW-1VnCWe4WskUYPpxWu8Jx4jEoKPNAu_x7308-cG7YN0ZlvRvmMru3_-qDQcSiqAtY76-FPwIvBBXdoB4EW7IZk5FAQswwQx9d_mlqz8bfG9rqKiEAQ2VlXDuBX1oN8TGARwuyQPnonInb1wk6syBFnbIwvvFMLCLq3ybSrA-rE91WqcWDyNj-LifmG869AxuyCvwzIpPaMm-2vIz8h4CUoHVsh_zmwAn7gfPbda6GAgxaSGbXdYnvtFY3lURjVtRVvzm8nFM91NaBKX0aQAFOQjSH_0-A4hwgACWrZWe25K11cj3sTblHQgfm75gjiRF_BcOp7Mmm8IWPcaToou3zVGbvGTR02mjnC6MVOw8OCKSm5maDDxoxHFR6X9Qk-yoGGLhMKNCkYC09_6nxFyDJ72l9TNe7Ugn-x5FAa6rGjRLqwKY8F3UE5oO9nyzvOk4A5Z8AQp2P0bhPXSP0UVoyKQH_w50llDVqe6brQF5ltEbu0xA4K0E3k0a5WTPRM4X6RKSnxAzN7g5Oq37gQWuMlXTrd4u5rnsB1thiOixnSKgrTfAW8HQzzYGDrLyWoZopp3UgUeFfLd7AJ7_ePgEO0SknNkekNsgWYfPQkmtfwP5ij3z_unbb4hV6_tSMKV_AtmBRVq7Sie4KxeyN5XttwduVsFupybgDsLfZIuXd00JIfcIVQJjtiJpbmEnHu7_k72m81NhN1zzAZsTeY_xqW5eu0LGTIvgWWFsvYHlnISMylVIAejRaElgdBw9Lgrct7m7RKPo1evcck8PjeJ5u5zeNM2BUYZMCROQheDTgcJzMyNt-8-HLvXw8VvST8TRy5itjnKNSH-KlBoomyiPq8KebT5jrIxlAB9qqM4s2xyk_O4DExYCv6ZJMuTi4VzIwM9Ny1ALK2AhwF8e26nifPhgP0T6EeVlT5uU6AtGN2WMHppPRVaTH-IvMMBsZompIRFRofZbz3LY9h-H85yIDy4mbRuM-vW4hFNOPzn4WF5158LSZzxe3Z_tVV37ScZc1BWpjQHlFarQe0m2ugCuIWfUAAYMhEXDIK8MuEEq5979vRLPl5kQGDNIH9gljzsPZU7I2LZNsaJJoQkrw08YieOIgak6QgUpkV2XcCfRbnIO-JSMNOOr6oQl7Bhf4nrjNyi4J5D9kuykTAv_R6JoVDMsi4pxO7bwJV5HQOaFI27flGgcdoDyqbQ7d2Ze6EGp7-SOD_tbWdpUphNvc3htKxott3y2x80h-UjekVe6an8iv2hqlEhcFEGXZZbhkNA8JgLYpa2NkQPCjSaSKG5FxS3MKUNFuhGRQy7f5xs6IdPNaNnholTOV_ryp9HDyZzSiKuq2lk84X43/https://www.amazon.co.uk/dp/B0C4SVZ6CZ/?_encoding=UTF8&aref=J8B1EwOdnN&pd_rd_i=B0C4SVZ6CZ&pd_rd_i=B0C4SVZ6CZ&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=x3VxU&content-id=amzn1.sym.fa3ea19a-f924-4ac4-867b-bbb541898b0c&pf_rd_p=fa3ea19a-f924-4ac4-867b-bbb541898b0c&pf_rd_r=BQE313TVSMYPB53VYVHQ&pd_rd_wg=gcJ5W&pd_rd_r=bf923313-da6a-4dda-a8d1-a5da953b2d78",
+    "link_clean": "https://www.amazon.co.uk/dp/B0C4SVZ6CZ/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0C4SVZ6CZ&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/411u4RgceyS._AC_SR100,100_QL65_.jpg",
+    "video": {
+     "link": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/809ecfd8-1d49-4b15-8087-0c7703162f18.mp4/productVideoOptimized.mp4",
+     "thumbnail": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/809ecfd8-1d49-4b15-8087-0c7703162f18.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+    },
+    "rating": 4.6,
+    "reviews": 338,
+    "price": "£16.99",
+    "extracted_price": 16.99
+   },
+   {
+    "position": 4,
+    "asin": "B0DSLVJLQ9",
+    "title": "Smiley Face Planter Pot with Rocking Chair Base, Large Size, Resin Indoor Outdoor Flowerpot for Succulents, Cacti, String of Pearls, Fun Decorative Gift for Home, Garden, Desk, Kids’ Rooms",
+    "link": "https://aax-eu-zaz.amazon.co.uk/x/c/JNDrpukNGwNqcR60Ndiv2cIAAAGg8fMlqAoAAAH2AQBvbm9fdHhuX2JpZDMgICBvbm9fdHhuX2ltcDEgICBLgB8p/clv1c_ek-wBff3Vcba5nIqeEavAcGUxrKZkPwHvTy3pSFHNTmsYU9FvwfvTIrRM_Qg-GbpNzzv92lCGyVr4Q2cfLZzcYGw8WIJ8wDtSjKDfueAUI1QY9mQiFPsHGWYenGk9HDVJkYnsr4HAmKLktYfB3nzutXPqB291jVqksrmn_8qDAYRNKt-Urqb0iD_gipITQTaYnFqd4uKXYOFUO7luw-Rxn_jCxT87lDtqYbAh5JV64YMpGcwyKkSl-0osn-Nk9mvEydHvzw70NGZLAbpSUe_iSSIQ7pP3NRQ97s7x8wDGqfcATjsyfOvhkvSTcsQXBql9Dn8pcvVoNehriyhBsmiHj0FVzL8M7b2yXrjE5FKrVaUenE5BiqN270O70XyCl7O81hpW0kO-X0OaTvuGq-vSEfHdCEAZwP_a0O2P6LaOxHoMmPyiW0u6CFvZ_xSV677nmt7G2_XEyzNS5DYvJyXBGapNz2FvwoM4-kvGT3H2wTUeprIU7ZY0fP4zB71DxMK6KjiMGIb3FL9R6q7fAJkvy9_b8BbHOKm3G83KX5Tik1ImGxm7mC-PDUcXKClgAGdKCkkPzRK3gapBxMcqvl9Wrbw4KpBG-QOcJprY5PgIm3zn-IM4ioTE01Roh3xfabf5LQzH0gIAbTUW5VO4C1pZ8gbqr5S99JzScREq1Oba_9P3OXYBO3wR5fZgYpfyTsCQ9_H-odEICm9mQmn6AR9VjeIfCEfjKf80jkCL0nW8QhSiIwNnmpsLRrECEzJsVZXm6eDLZUBJVOjDFqQYT-LKivheKyk70EO_qAfZFLOqcs7CsQe7WPSqroQuh3WVKLNNXvD7FwSSXzCXKX3B0Qd2WpZNfwPl3lVxLr7OCFdrDMre3EVbciQa-wTUrn75GwJgErLzaKHdWDuWEyNJkTaoaOm8OKRJ8l6IvlFVlLpo9uZk3-nE4cqURroy2CisBxiLfo7xvkN6BRtzxKhhDmhsNAcKTLPqicKkQzvDZseV2TKQpYN3v4EDorXPFqx6fJBGdPRBTs3JuKa52XD6bfex-wr2eBDeXG8A43C-tKAawz_s-vpsDSQIbN5sG8zDgT8-HoQkF9JEXyLv9P7R3cEnDPIHWdiMUKsxONQzp06Lf7Jm2K8XNfySEhk4xBzDFjOMavEPHYkX_awLb__gijlfh9w0LZZU7WslM-7s44DgC4mywwarTtFV05gUA3QgXW6IuZ284XbB1ZPJkM2bzuIYE6oSixP3vYbGz4jNYdcl6JRXM6RDNtUE4AF_PBBXHDNumH5RIrl0O1cwQHkXjp2_QYfx3Lw43tP_QVv1O2pnQZ70KLMVJ0T1aPVNNAZ5vFVEtbKO5ZGj9kiwZsgA9DJ7UZ4eG_m_0AZ1JGf8Erw7afOCXzf8vh32pakYLgP4jKgc8gFMJtW0XlyaoMkT54C-Z0OALMPSPkfpBWWzPJh6FTps_neIknrtiyNSC0/https://www.amazon.co.uk/dp/B0DSLVJLQ9/?_encoding=UTF8&aref=3BxAFgWCf7&pd_rd_i=B0DSLVJLQ9&pd_rd_i=B0DSLVJLQ9&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=x3VxU&content-id=amzn1.sym.fa3ea19a-f924-4ac4-867b-bbb541898b0c&pf_rd_p=fa3ea19a-f924-4ac4-867b-bbb541898b0c&pf_rd_r=BQE313TVSMYPB53VYVHQ&pd_rd_wg=gcJ5W&pd_rd_r=bf923313-da6a-4dda-a8d1-a5da953b2d78",
+    "link_clean": "https://www.amazon.co.uk/dp/B0DSLVJLQ9/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0DSLVJLQ9&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/41QSKnqpnsL._AC_SR100,100_QL65_.jpg",
+    "video": {
+     "link": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/58099fe1-89a1-4f93-83a9-a66d32440d9d.mp4/productVideoOptimized.mp4",
+     "thumbnail": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/58099fe1-89a1-4f93-83a9-a66d32440d9d.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+    },
+    "rating": 4.3,
+    "reviews": 10,
+    "price": "£13.99",
+    "extracted_price": 13.99,
+    "old_price": "£16.99",
+    "extracted_old_price": 16.99
+   },
+   {
+    "position": 5,
+    "asin": "B0CNWXS24K",
+    "title": "LE TAUCI 30 cm Plant Pot, Ceramic Large Planters for Indoor Plants, Indoor Plant Pots for Home Garden Patio Office, Outdoor Flower Pots with Drainage Holes and Rubber Plug, White",
+    "link": "https://aax-eu-zaz.amazon.co.uk/x/c/JNknG4QiDbEQkSTizFn_NxMAAAGg8fMlqQoAAAH2AQBvbm9fdHhuX2JpZDMgICBvbm9fdHhuX2ltcDEgICB7L7QE/clv1c_ek-wBYf3Fbba5nIjMEZR34IogRCZNP85l0sajkPKldCrxPaRDtPNxSwPe91QsdAmRuUIixNlFwqauaeqHSjB4VmPMdTyp5WToajudl3XwgrWjQKSJ-RaLa74-s9ATkMTZ-Ui66Tvgt10xrXErgCZodLO8P2cEVVrk93s05c6zQcaSpFSyHZG7J92W3pcxE1PBH3v701zJ9coB0T_sYNWlz-anJptddR9wrgYXx36qg0FviqYRXtbsaTc2k4No6MNcTOSBYbRR2EKr36UBBcWnOQbY6yGAW9rLiURAUrm0aKdTA3JCIqe7ago-NX32LBLFZGXCNqm-iO-aj6EYwfPbZa62IiM-fW6ii4mrtN53lURs76FYFh-MDGh5cino5pRzg1VWnWwn9yPecM3-VYUXpipn0eOBz_AUG7NaEuHHj508lW_FH6boCwDe_O5_IsnkeL3s8w9QJJXdPE1zIVmkfjeP5pyQiFt_hqKoMsV93cAaCJKlOa1cu-pjZRvBMHi2iZAMn4jpqhZju7dpFY70mz595rObdNKTiUtqmBqQyNKSj8eBLPN_p70rYKiHZACskpR-OZbBgrVEnejlv9AY3_F1XPwx2R8cNHY20fNIP1o15_VVoT1n6NS2KSdu6OCVf5and3MulBi6cIbGn0UuR4WSCR-fyCJcNV0ZZCpf21o_oSK7yfPVJnnCClC-v-BZxzKBYm81-xRtzFJuB0TAhyOoFvQNj7XZNdk9pxWFqKKKb3A4Q0lOp89EHey_yowVnjoH5dF007F0AM-L7caWmFpIqgLY-NV8_7ZWnAFyhdMio1orkMjkc9KGe-fAS9k-uoD6Pk6Y2zaG6AO6MzjtrG5wFjeAavHsS3T7UmvsHJjU5SlKAKIaes39UhtV3ioDVIud-JmLkIOytgpJZwdLAQZ5YNEzD2CG1T4jc1J60WTmOjBlm5qb0VUkSBuQobNCYWLyh4wgdykl1LJZdYQi3ZGQoP09wjeUSroHY9edRhodBoGkOQKRE83c5TKZ2a5UOOW3sK_0MwWeTFMhDnm-S76UwcLX2CDOQmsJS6XN-SRREtbwa1Mf6Yt1m8IXbE43QpIYtb8-TRzz9qLl1zBgStTac4DfeabA8dsptM9pT5pduI4skNX5inMU3_PAmer4_Wn8y0V0Yw3yvZmv5V2NOej7Q0EN_LOl5kQOCPIKqFbWDvvUGPH9aNuXR4wyBmvl-401SI_8Wz-ESUzRpGTitTjZbcpMODoR2a2GscNolcIQ1RzalrOOBbTtB0rUwtydnleKl9q82Fd7mkkiZDq4YhDzN8Xtnq0yHBeepngZA6a36-oG5xDKKsFunyGZR66Ty-97T9BK2n5dojOBifOuvbwRlOSzmuBZ1PLU7mPRiHnkVGESqYdbLfGGBJnwyvkyvsGQAdGjw3OFoKGgPVUdhMQCrlFxCnjqODkWVDbVIxA92IGkf-zpFxc-7LD/https://www.amazon.co.uk/dp/B0CNWXS24K/?_encoding=UTF8&aref=4TrwTU8rE9&pd_rd_i=B0CNWXS24K&pd_rd_i=B0CNWXS24K&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=x3VxU&content-id=amzn1.sym.fa3ea19a-f924-4ac4-867b-bbb541898b0c&pf_rd_p=fa3ea19a-f924-4ac4-867b-bbb541898b0c&pf_rd_r=BQE313TVSMYPB53VYVHQ&pd_rd_wg=gcJ5W&pd_rd_r=bf923313-da6a-4dda-a8d1-a5da953b2d78",
+    "link_clean": "https://www.amazon.co.uk/dp/B0CNWXS24K/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0CNWXS24K&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/31rffla6riL._AC_SR100,100_QL65_.jpg",
+    "video": {
+     "link": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/a37c9cb3-a507-46ca-ba10-34d8b598322f.mp4/productVideoOptimized.mp4",
+     "thumbnail": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/a37c9cb3-a507-46ca-ba10-34d8b598322f.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+    },
+    "rating": 4.6,
+    "reviews": 669,
+    "price": "£59.99",
+    "extracted_price": 59.99,
+    "old_price": "£65.99",
+    "extracted_old_price": 65.99
+   }
+  ],
+  "reviews_information": {
+   "summary": {
+    "text": "Customers find the planter looks exactly like the picture and appreciate its value for money. The pot is sturdy, lightweight, and perfect for large indoor plants, with one customer noting it can hold up to 3-4 small succulents. They like its color and material, with one mentioning it feels like metal or ceramic painted in metallic paint.",
+    "insights": [
+     {
+      "title": "Appearance",
+      "sentiment": "positive",
+      "mentions": {
+       "total": 134,
+       "positive": 131,
+       "negative": 3
+      },
+      "summary": "Customers like the appearance of the planter, noting that it looks exactly like the picture and has a nice finish, with one customer mentioning it resembles brass.",
+      "examples": [
+       {
+        "position": 1,
+        "snippet": "...Looks great received compliments already! So much cheaper and actually nicer looking than alternatives I found at garden and DIY centres",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R1565ZDVB0CA4D"
+       },
+       {
+        "position": 2,
+        "snippet": "Good plant pot, lightweight and looks good as it is available in multiple colours and patterns to fit in with your decor....",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R390WDQW9BL0CZ"
+       },
+       {
+        "position": 3,
+        "snippet": "Wow these pots are beautiful and I am very happy I chose these. Looks great in the lounge and will certainly be buying more soon....",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R3RLXE6GKNJ3R8"
+       },
+       {
+        "position": 4,
+        "snippet": "I used this pot for a tall coconut plant. Looks lovely and more expensive looking than it cost.",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R20KG6F5FN89O6"
+       }
+      ]
+     },
+     {
+      "title": "Value for money",
+      "sentiment": "positive",
+      "mentions": {
+       "total": 57,
+       "positive": 52,
+       "negative": 5
+      },
+      "summary": "Customers find the planter to be a great value for money, describing it as a lovely-looking pot and saying they would buy it again.",
+      "examples": [
+       {
+        "position": 1,
+        "snippet": "...Ordered the larger 26cm Great value looks more expensive than is lightweight so perfect once potted ....",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R142IRK7U3GCLG"
+       },
+       {
+        "position": 2,
+        "snippet": "Lovely pots and good value for money and so many colours would definitely order more but can't seem to get the drainage dish off",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R2L01MTH3JJ4KP"
+       },
+       {
+        "position": 3,
+        "snippet": "Love the choice of colours great value for money thoroughly recommend",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R3TUP8U4ZYGO92"
+       },
+       {
+        "position": 4,
+        "snippet": "As described. I really love the aesthetic of this pot. Would buy again.",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/RIRYSYSLK9017"
+       }
+      ]
+     },
+     {
+      "title": "Size",
+      "sentiment": "positive",
+      "mentions": {
+       "total": 25,
+       "positive": 21,
+       "negative": 4
+      },
+      "summary": "Customers like the planter's size, finding it perfect for large plants, with one customer noting it can hold 3-4 small succulents.",
+      "examples": [
+       {
+        "position": 1,
+        "snippet": "Lovely pot perfect size",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R3HVS7AQZ8KXMV"
+       },
+       {
+        "position": 2,
+        "snippet": "Looks great, is a good size and not flimsy",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R3C98BAUAPEEYB"
+       },
+       {
+        "position": 3,
+        "snippet": "Great size looks lovely and sturdy helps having the drainage bottom",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/RUHPLUEDW7VB1"
+       },
+       {
+        "position": 4,
+        "snippet": "Large pot but nice colour",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R3L2AT1G5PSB9Z"
+       }
+      ]
+     },
+     {
+      "title": "Sturdiness",
+      "sentiment": "positive",
+      "mentions": {
+       "total": 23,
+       "positive": 17,
+       "negative": 6
+      },
+      "summary": "Customers find the planter sturdy.",
+      "examples": [
+       {
+        "position": 1,
+        "snippet": "...It’s so nice. It is sturdy and looks of a good quality - more like metal or ceramic painted in metallic paint. Very happy with it.",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R357VMM5F041ZZ"
+       },
+       {
+        "position": 2,
+        "snippet": "This is a classy looking plant pot, very sturdy & well worth the money. Highly recommended.",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R22D0MQM41ZHUS"
+       },
+       {
+        "position": 3,
+        "snippet": "Attractive muted gold and black plant pot with attached saucer, brittle plastic but doesn't look it....",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R26FW590FEC415"
+       },
+       {
+        "position": 4,
+        "snippet": "Beautiful pot which fits perfectly. Really sturdy and good quality. Very happy with my purchase.",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R1FZHQVYBFAOSM"
+       }
+      ]
+     },
+     {
+      "title": "Material",
+      "sentiment": "positive",
+      "mentions": {
+       "total": 18,
+       "positive": 14,
+       "negative": 4
+      },
+      "summary": "Customers appreciate the material of the planter, noting that it doesn't look like plastic and one customer mentions it feels more like metal or ceramic painted in metallic paint, while another describes it as sturdy.",
+      "examples": [
+       {
+        "position": 1,
+        "snippet": "Lovely planter. Will probably get a couple more. Doesn't look plastic and my reppotted plant is much happier.",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R3ROM72NC3POY6"
+       },
+       {
+        "position": 2,
+        "snippet": "...Have been recommending them to friends. They look classy and don't look like plastic at first. Lightweight and visually appealing.",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/RGQ3BCQNIUC3W"
+       },
+       {
+        "position": 3,
+        "snippet": "...It suits the colour scheme of the room. It doesn't look like plastic.",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R98D1BI0D6Y18"
+       },
+       {
+        "position": 4,
+        "snippet": "...Of course they are only plastic but good for the money",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R2CH7X14H1UWLX"
+       }
+      ]
+     },
+     {
+      "title": "Weight",
+      "sentiment": "positive",
+      "mentions": {
+       "total": 17,
+       "positive": 16,
+       "negative": 1
+      },
+      "summary": "Customers appreciate that the planter is very light.",
+      "examples": [
+       {
+        "position": 1,
+        "snippet": "...They arrived promptly and well packaged. They are lightweight, but seem quite sturdy. I particularly like that they come with a matching drip dish.",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R2V1J76G20JZ7D"
+       },
+       {
+        "position": 2,
+        "snippet": "...arrived early and am delighted with the quality and lightweight plant pot. Delighted thanks",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R21DRG7ECB7141"
+       },
+       {
+        "position": 3,
+        "snippet": "Very cute and light pot. Has drainage holes at the bottom, which is good to keep th plant healthy....",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/RDBHKMEDMUGN8"
+       },
+       {
+        "position": 4,
+        "snippet": "Great size great plant pot love the gold and black not heavy even with my plant in it very easy to move and really good quality value for money for...",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/RU2B488027MJ8"
+       }
+      ]
+     },
+     {
+      "title": "Indoor use",
+      "sentiment": "positive",
+      "mentions": {
+       "total": 14,
+       "positive": 13,
+       "negative": 1
+      },
+      "summary": "Customers find the planter suitable for indoor use, with one mentioning it's perfect for displaying a Peace Lily.",
+      "examples": [
+       {
+        "position": 1,
+        "snippet": "...water drainage without dripping all over your living room, so great pot for indoors.",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R390WDQW9BL0CZ"
+       },
+       {
+        "position": 2,
+        "snippet": "Great for my indoor plants",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/RV9MGMD5NYIUX"
+       },
+       {
+        "position": 3,
+        "snippet": "Looks good, love the built in saucer. Exactly what I needed.",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R2FKV3NKG1IWAV"
+       },
+       {
+        "position": 4,
+        "snippet": "Fit for purpose for planting amaryllis bulbs. Perfect present for my relatives. Lightweight but good value for money....",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/RDAA2QBBBMSWP"
+       }
+      ]
+     },
+     {
+      "title": "Color",
+      "sentiment": "positive",
+      "mentions": {
+       "total": 12,
+       "positive": 12,
+       "negative": 0
+      },
+      "summary": "Customers love the color of the planter and would buy it in other colors.",
+      "examples": [
+       {
+        "position": 1,
+        "snippet": "lovely colour. serves the purpose effectively!",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R2FZTB9V1OG0X0"
+       },
+       {
+        "position": 2,
+        "snippet": "Love the colour and quality. Really pleasantly surprised",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R20CHFQDMHKCL5"
+       },
+       {
+        "position": 3,
+        "snippet": "Good plant pot, lightweight and looks good as it is available in multiple colours and patterns to fit in with your decor....",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R390WDQW9BL0CZ"
+       },
+       {
+        "position": 4,
+        "snippet": "Large pot but nice colour",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R3L2AT1G5PSB9Z"
+       }
+      ]
+     }
+    ],
+    "images": [
+     "https://m.media-amazon.com/images/I/61cO0zKPaLL.jpg",
+     "https://m.media-amazon.com/images/I/71kJvRqVEPL.jpg",
+     "https://m.media-amazon.com/images/I/7168hsRdCcL.jpg",
+     "https://m.media-amazon.com/images/I/71Anp7-W2RL.jpg",
+     "https://m.media-amazon.com/images/I/B147qudM5ZS.jpg",
+     "https://m.media-amazon.com/images/I/71d8R2PvShL.jpg",
+     "https://m.media-amazon.com/images/I/71Mwbg3BEdL.jpg",
+     "https://m.media-amazon.com/images/I/71Aa5hMlEAL.jpg",
+     "https://m.media-amazon.com/images/I/81JP0xtAiUL.jpg",
+     "https://m.media-amazon.com/images/I/61DV7I9qy+L.jpg",
+     "https://m.media-amazon.com/images/I/71P0np1C1QL.jpg",
+     "https://m.media-amazon.com/images/I/71s7ESclieL.jpg"
+    ],
+    "customer_reviews": {
+     "5 star": 74,
+     "4 star": 17,
+     "3 star": 5,
+     "2 star": 1,
+     "1 star": 3
+    }
+   },
+   "authors_reviews": [
+    {
+     "position": 1,
+     "title": "Really nice pots",
+     "text": "I really like these (bought 2). Have been recommending them to friends. They look classy and don't look like plastic at first. Lightweight and visually appealing.",
+     "rating": 5.0,
+     "date": "7 June 2026",
+     "author": "Amazon Customer",
+     "author_link": "https://www.amazon.co.uk/gp/profile/amzn1.account.AHTPGJ4L22HIGBNXUY53FKTGUREA?ref=cm_cr_dp_d_bdcrb_top",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+     "helpful_votes": "One person found this helpful",
+     "verified_purchase": true,
+     "product": {
+      "size_name": "21 cm"
+     }
+    },
+    {
+     "position": 2,
+     "title": "Nice product",
+     "text": "Great product value for money good quality ideal for plants",
+     "rating": 5.0,
+     "date": "13 April 2026",
+     "author": "ronald keith need",
+     "author_link": "https://www.amazon.co.uk/gp/profile/amzn1.account.AGRJJTLGQB44TPQFZWBW45XULMJQ?ref=cm_cr_dp_d_bdcrb_top",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+     "verified_purchase": true,
+     "product": {
+      "size_name": "26 cm"
+     }
+    },
+    {
+     "position": 3,
+     "title": "As anticipated",
+     "text": "The plant pot is from a range I have already had a few from .but not this particular one.Ordered the larger 26cm Great value looks more expensive than is lightweight so perfect once potted . Delivery took a couple of days as advised, like that the tray matches & is with the pot however this is fiddly (hence 4*)to detach for watering it easy from the tray so not sure of it value but looks good soWould recommend",
+     "rating": 4.0,
+     "date": "9 October 2024",
+     "author": "Neat",
+     "author_link": "https://www.amazon.co.uk/gp/profile/amzn1.account.AGGSKAO23GUQR4EBTU7V43S3JUNQ?ref=cm_cr_dp_d_bdcrb_top",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+     "images": [
+      "https://m.media-amazon.com/images/I/81JP0xtAiUL.jpg",
+      "https://m.media-amazon.com/images/I/7168hsRdCcL.jpg"
+     ],
+     "helpful_votes": "3 people found this helpful",
+     "verified_purchase": true,
+     "product": {
+      "size_name": "26 cm"
+     }
+    },
+    {
+     "position": 4,
+     "title": "Beautiful gold plant pot",
+     "text": "Love this pot its good quality and goes lovely with my plant . I’m going to purchase more for my other plants",
+     "rating": 5.0,
+     "date": "24 March 2026",
+     "author": "Tarottricia",
+     "author_link": "https://www.amazon.co.uk/gp/profile/amzn1.account.AEIMNBPXJNRVOKBJVXBIOAI76YUA?ref=cm_cr_dp_d_bdcrb_top",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/d9ccadaf-d36e-458b-9bd3-6b187c61aa59._CR0%2C0%2C375%2C375_UX460_SX48_.jpg",
+     "images": [
+      "https://m.media-amazon.com/images/I/61cO0zKPaLL.jpg"
+     ],
+     "helpful_votes": "2 people found this helpful",
+     "verified_purchase": true,
+     "product": {
+      "size_name": "18 cm"
+     }
+    },
+    {
+     "position": 5,
+     "title": "Lovely item",
+     "text": "Beautiful pot which fits perfectly. Really sturdy and good quality. Very happy with my purchase.",
+     "rating": 5.0,
+     "date": "22 January 2026",
+     "author": "C Sykes",
+     "author_link": "https://www.amazon.co.uk/gp/profile/amzn1.account.AGVKV3J5N6EP3HESWROQ73NKI6ZA?ref=cm_cr_dp_d_bdcrb_top",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+     "images": [
+      "https://m.media-amazon.com/images/I/71kJvRqVEPL.jpg"
+     ],
+     "helpful_votes": "2 people found this helpful",
+     "verified_purchase": true,
+     "product": {
+      "size_name": "21 cm"
+     }
+    },
+    {
+     "position": 6,
+     "title": "Excellent product.",
+     "text": "Excellent product. Looks very classy. Well made and easy to use.Delivery was very quick.",
+     "rating": 5.0,
+     "date": "12 February 2026",
+     "author": "Ali Babs",
+     "author_link": "https://www.amazon.co.uk/gp/profile/amzn1.account.AFR57MVWVS5WKYY3FXIE2PEM6HYQ?ref=cm_cr_dp_d_bdcrb_top",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+     "helpful_votes": "One person found this helpful",
+     "verified_purchase": true,
+     "product": {
+      "size_name": "32 cm"
+     }
+    },
+    {
+     "position": 7,
+     "title": "Lovely classy potexcelkent value.",
+     "text": "Lovely pot looks really classy and shows off my Amarylis beautifully. And arrived early which is a bonus.",
+     "rating": 5.0,
+     "date": "10 January 2026",
+     "author": "Dottie",
+     "author_link": "https://www.amazon.co.uk/gp/profile/amzn1.account.AHSZPU5ZJLSLIP6HY5XEMHRJ4WDQ?ref=cm_cr_dp_d_bdcrb_top",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+     "helpful_votes": "One person found this helpful",
+     "verified_purchase": true,
+     "product": {
+      "size_name": "16 cm"
+     }
+    },
+    {
+     "position": 8,
+     "title": "Good quality, looks good",
+     "text": "Nice quality pot and looks really good - pleased",
+     "rating": 5.0,
+     "date": "25 February 2026",
+     "author": "Colin J.",
+     "author_link": "https://www.amazon.co.uk/gp/profile/amzn1.account.AFOA4FTYQAYWY3AOPGJOLDOZRABA?ref=cm_cr_dp_d_bdcrb_top",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+     "helpful_votes": "One person found this helpful",
+     "verified_purchase": true,
+     "product": {
+      "size_name": "26 cm"
+     }
+    }
+   ]
+  }
+ }
+}

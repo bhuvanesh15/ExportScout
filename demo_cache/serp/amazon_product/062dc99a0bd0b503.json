@@ -1,0 +1,1312 @@
+{
+ "engine": "amazon_product",
+ "params": {
+  "asin": "B07NQ136MR",
+  "amazon_domain": "amazon.co.uk"
+ },
+ "fetched_at": "2026-09-30T10:54:02+00:00",
+ "data": {
+  "search_metadata": {
+   "id": "6abcea3fde1f33e434b35389",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/t4Qg41DHaGmSLFGttGMfv69pwrU5gQVruDuvfllDKjg/6abcea3fde1f33e434b35389.json",
+   "markdown_endpoint": "https://serpapi.com/searches/t4Qg41DHaGmSLFGttGMfv69pwrU5gQVruDuvfllDKjg/6abcea3fde1f33e434b35389.md",
+   "created_at": "2026-09-30 10:53:51 UTC",
+   "processed_at": "2026-09-30 10:53:51 UTC",
+   "amazon_product_url": "https://www.amazon.co.uk/dp/B07NQ136MR/?",
+   "raw_html_file": "https://serpapi.com/searches/t4Qg41DHaGmSLFGttGMfv69pwrU5gQVruDuvfllDKjg/6abcea3fde1f33e434b35389.html",
+   "total_time_taken": 10.75
+  },
+  "search_parameters": {
+   "engine": "amazon_product",
+   "asin": "B07NQ136MR",
+   "amazon_domain": "amazon.co.uk",
+   "device": "desktop"
+  },
+  "product_results": {
+   "categories": [
+    {
+     "position": 1,
+     "name": "Garden",
+     "link": "https://www.amazon.co.uk/Garden-Outdoors-Home/b/ref=dp_bc_1?ie=UTF8&node=11052671",
+     "node": "11052671",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&device=desktop&engine=amazon&node=11052671"
+    },
+    {
+     "position": 2,
+     "name": "Garden Tools & Watering Equipment",
+     "link": "https://www.amazon.co.uk/Garden-Tools-Watering-Equipment/b/ref=dp_bc_2?ie=UTF8&node=26389565031",
+     "node": "26389565031",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&device=desktop&engine=amazon&node=26389565031"
+    },
+    {
+     "position": 3,
+     "name": "Plant Containers & Accessories",
+     "link": "https://www.amazon.co.uk/planters/b/ref=dp_bc_3?ie=UTF8&node=4224862031",
+     "node": "4224862031",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&device=desktop&engine=amazon&node=4224862031"
+    },
+    {
+     "position": 4,
+     "name": "Flower Pots",
+     "link": "https://www.amazon.co.uk/garden-flower-pots/b/ref=dp_bc_4?ie=UTF8&node=4224875031",
+     "node": "4224875031",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&device=desktop&engine=amazon&node=4224875031"
+    }
+   ],
+   "asin": "B07NQ136MR",
+   "title": "Leaf LEAF-7305 Large Metal Planter Hammered - Straight Edge, Gold Colour, 32 x 20 cm",
+   "link": "https://www.amazon.co.uk/Leaf-Large-Planter-Hammered-Colour-Straight/dp/B07NQ136MR/",
+   "link_clean": "https://www.amazon.co.uk/dp/B07NQ136MR/",
+   "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B07NQ136MR&device=desktop&engine=amazon_product",
+   "badges": [
+    "Amazon's Choice"
+   ],
+   "variants": [
+    {
+     "title": "Size Name",
+     "items": [
+      {
+       "position": 1,
+       "asin": "B07FPVT2VK",
+       "name": "22cm x 18cm",
+       "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B07FPVT2VK&device=desktop&engine=amazon_product"
+      },
+      {
+       "position": 2,
+       "asin": "B07NQ136MR",
+       "name": "32cm x 20cm",
+       "selected": true,
+       "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B07NQ136MR&device=desktop&engine=amazon_product"
+      },
+      {
+       "position": 3,
+       "asin": "B0F7LVJFYV",
+       "name": "32cm x 20cm (Pack of 2)",
+       "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0F7LVJFYV&device=desktop&engine=amazon_product"
+      }
+     ]
+    },
+    {
+     "title": "Colour Name",
+     "items": [
+      {
+       "position": 1,
+       "asin": "B07NQ136MR",
+       "name": "Gold",
+       "image": "https://m.media-amazon.com/images/I/41DchWEbYsL._SS64_.jpg",
+       "selected": true,
+       "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B07NQ136MR&device=desktop&engine=amazon_product"
+      },
+      {
+       "position": 2,
+       "asin": "B07NPXJ3LF",
+       "name": "Copper",
+       "image": "https://m.media-amazon.com/images/I/41pT2hY+kFL._SS64_.jpg",
+       "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B07NPXJ3LF&device=desktop&engine=amazon_product"
+      },
+      {
+       "position": 3,
+       "asin": "B07NPYHPS3",
+       "name": "Silver",
+       "image": "https://m.media-amazon.com/images/I/41DKUXItRSL._SS64_.jpg",
+       "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B07NPYHPS3&device=desktop&engine=amazon_product"
+      }
+     ]
+    }
+   ],
+   "variant_combinations": [
+    {
+     "dimensions": {
+      "size": "22cm x 18cm",
+      "color": "Copper"
+     },
+     "asin": "B07NQ124YP",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B07NQ124YP&device=desktop&engine=amazon_product"
+    },
+    {
+     "dimensions": {
+      "size": "22cm x 18cm",
+      "color": "Gold"
+     },
+     "asin": "B07FPVT2VK",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B07FPVT2VK&device=desktop&engine=amazon_product"
+    },
+    {
+     "dimensions": {
+      "size": "22cm x 18cm",
+      "color": "Silver"
+     },
+     "asin": "B07NPXFKXR",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B07NPXFKXR&device=desktop&engine=amazon_product"
+    },
+    {
+     "dimensions": {
+      "size": "32cm x 20cm",
+      "color": "Copper"
+     },
+     "asin": "B07NPXJ3LF",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B07NPXJ3LF&device=desktop&engine=amazon_product"
+    },
+    {
+     "dimensions": {
+      "size": "32cm x 20cm",
+      "color": "Gold"
+     },
+     "asin": "B07NQ136MR",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B07NQ136MR&device=desktop&engine=amazon_product"
+    },
+    {
+     "dimensions": {
+      "size": "32cm x 20cm",
+      "color": "Silver"
+     },
+     "asin": "B07NPYHPS3",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B07NPYHPS3&device=desktop&engine=amazon_product"
+    },
+    {
+     "dimensions": {
+      "size": "32cm x 20cm (Pack of 2)",
+      "color": "Copper"
+     },
+     "unavailable": true
+    },
+    {
+     "dimensions": {
+      "size": "32cm x 20cm (Pack of 2)",
+      "color": "Gold"
+     },
+     "asin": "B0F7LVJFYV",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0F7LVJFYV&device=desktop&engine=amazon_product"
+    },
+    {
+     "dimensions": {
+      "size": "32cm x 20cm (Pack of 2)",
+      "color": "Silver"
+     },
+     "asin": "B0F7LVCZ9Q",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0F7LVCZ9Q&device=desktop&engine=amazon_product"
+    }
+   ],
+   "brand": "Visit the Leaf Store",
+   "thumbnail": "https://m.media-amazon.com/images/I/61FUgVbKR3L._AC_SX300_SY300_QL70_ML2_.jpg",
+   "thumbnails": [
+    "https://m.media-amazon.com/images/I/61FUgVbKR3L._AC_SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61O6BXAh3OL._AC_SL1254_.jpg",
+    "https://m.media-amazon.com/images/I/61WXgtJRK6L._AC_SL1254_.jpg",
+    "https://m.media-amazon.com/images/I/715iZPcpaML._AC_SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71BMNAg1EkL._AC_SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81YxsLeRAWL._AC_SL1500_.jpg"
+   ],
+   "rating": 4.5,
+   "reviews": 334,
+   "price": "£36.99",
+   "extracted_price": 36.99,
+   "prime": true,
+   "delivery": [
+    "FREE delivery Saturday, 3 October. Details",
+    "Or fastest delivery Friday, 2 October. Order within 12 hrs 6 mins. Details"
+   ],
+   "stock": "In stock",
+   "description": "This metal planter measures 32cm wide x 20cm high. It is made of metal with a hammered finish. The inner diameter is 30cm (so this will fit any plants and looks brilliant as a centrepiece with multiple plants inside).these planters are all hand made in a rustic finish with intentional minor imperfections. As all these planters are hand made there are minor differences from one to another and each one is slightly unique.The price is for the planter only, but we have included some pictures to show how this would look with a couple of our plants to give an idea of size (plants shown are all available separately).we have this style of planter available in a range of colours and sizes and it is also available with a smooth or curved top edge.Intended for indoor use only."
+  },
+  "purchase_options": {
+   "single_offer": {
+    "price": "£36.99",
+    "extracted_price": 36.99,
+    "delivery": [
+     "FREE delivery Saturday, 3 October. Details",
+     "Or fastest delivery Friday, 2 October. Order within 12 hrs 6 mins. Details"
+    ],
+    "stock": "In stock",
+    "features": {
+     "shipper_seller": {
+      "text": "Amazon",
+      "details": {
+       "heading": "Shipper / Seller",
+       "content": "Amazon"
+      }
+     },
+     "returns": {
+      "text": "Returnable within 30 days of receipt",
+      "details": {
+       "heading": "Returnable within 30 days of receipt",
+       "content": "Item can be returned in its original condition for a full refund within 30 days of receipt"
+      },
+      "link": {
+       "text": "Read full return policy",
+       "link": "https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=GKM69DUUYKQWKWX7&ref_=dp_ret_policy"
+      }
+     },
+     "packaging": {
+      "text": "Ships in product packaging",
+      "details": {
+       "heading": "Ships in product packaging",
+       "content": "This item has been tested to certify that it can dispatch safely in its original box or bag to avoid unnecessary packaging. Since 2015, we have reduced the weight of outbound packaging per shipment by 43% on average, that’s over 3 million tons of packaging material.If you still require Amazon packaging for this item, choose “Ship in Amazon packaging” at checkout. Learn more"
+      },
+      "link": {
+       "text": "Learn more",
+       "link": "https://www.amazon.co.uk/sipp_home"
+      }
+     }
+    }
+   }
+  },
+  "item_specifications": {
+   "material": "Metal",
+   "colour": "Gold",
+   "special_feature": "Lightweight",
+   "style": "Modern",
+   "planter_form": "Plant Pot"
+  },
+  "about_item": [
+   "Leaf large metal planter 30 x 20cm hammered Gold colour - straight edge",
+   "As all these planters are hand made there are minor differences from one to another and each one is slightly unique",
+   "These planters are all hand made in a rustic finish With intentional minor imperfections",
+   "The price is for the planter only, but we have included some pictures to show how this would look with a couple of our plants to give an idea of size (both plants shown are 60cm high)",
+   "We have this Same planter available in a variety of sizes and colours. Intended for indoor use"
+  ],
+  "bought_together": [
+   {
+    "position": 1,
+    "title": "Leaf LEAF-7305 Large Metal Planter Hammered - Straight Edge, Gold Colour, 32 x 20 cm",
+    "link": "https://www.amazon.co.uk/product-reviews/B07NQ136MR/ref=sspa_dk_detail_sbt_d_sccl_2_cr/522-2803275-3343815?pd_rd_w=THhDE&content-id=amzn1.sym.ffea65f3-46ce-404f-94b7-a43e6a0d7b60&pf_rd_p=ffea65f3-46ce-404f-94b7-a43e6a0d7b60&pf_rd_r=AB75XYV7R194K9Y791YG&pd_rd_wg=DSNmp&pd_rd_r=f9bf3921-573b-4c58-bb63-d95d485f289d&pd_rd_i=B07NQ136MR",
+    "asin": "B07NQ136MR",
+    "link_clean": "https://www.amazon.co.uk/product-reviews/B07NQ136MR/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B07NQ136MR&device=desktop&engine=amazon_product",
+    "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/61FUgVbKR3L._AC_UL116_SR116,116_.jpg",
+    "rating": 4.5,
+    "reviews": 334,
+    "price": "£36.99",
+    "extracted_price": 36.99,
+    "stock": "In stock"
+   },
+   {
+    "position": 2,
+    "title": "Leaf LEAF-7311 Large Metal Planter 32 x 20cm Hammered Silver Colour-Curvy Edge, 32cm x 20cm",
+    "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MToyNTgzNDgyMTkyMjcwMjYyOjE5NDg0NDU2NDA6c3BfZGV0YWlsX3RoZW1hdGljOjIwMDIwODQxMTQ4MzA4OjowOjo=&url=%2FLeaf-Planter-Hammered-Silver-Colour-Curvy%2Fdp%2FB07NPYGBZ8%3Fpsc%3D1%26pd_rd_w%3DTHhDE%26content-id%3Damzn1.sym.ffea65f3-46ce-404f-94b7-a43e6a0d7b60%26pf_rd_p%3Dffea65f3-46ce-404f-94b7-a43e6a0d7b60%26pf_rd_r%3DAB75XYV7R194K9Y791YG%26pd_rd_wg%3DDSNmp%26pd_rd_r%3Df9bf3921-573b-4c58-bb63-d95d485f289d%26ref_%3Dsspa_dk_detail_sbt_img_0%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM%3D&aref=oTFvPIwn0o",
+    "asin": "B07NPYGBZ8",
+    "link_clean": "https://www.amazon.co.uk/dp/B07NPYGBZ8/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B07NPYGBZ8&device=desktop&engine=amazon_product",
+    "sponsored": true,
+    "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/61yllnARpKL._AC_UL116_SR116,116_.jpg",
+    "rating": 4.4,
+    "reviews": 285,
+    "price": "£33.99",
+    "extracted_price": 33.99,
+    "prime": true,
+    "stock": "Only 11 left in stock."
+   }
+  ],
+  "related_products": [
+   {
+    "position": 1,
+    "asin": "B09L5B71YR",
+    "title": "INNA-Glas Large planter, gold matt, 27 cm, Ø 32 cm | ceramic - Flower pot",
+    "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MTo1NTg2MjM0MDIyMDM5MjE5OjE3OTA3NjU2NDA6c3BfZGV0YWlsOjMwMDU3NDY2MjM2MzAzMjo6Ojo&url=%2Fdp%2FB09L5B71YR%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB09L5B71YR%26pd_rd_w%3DLL3MG%26content-id%3Damzn1.sym.67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_p%3D67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_r%3DAB75XYV7R194K9Y791YG%26pd_rd_wg%3DDSNmp%26pd_rd_r%3Df9bf3921-573b-4c58-bb63-d95d485f289d%26aref%3Da3oFn08uyT%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw&aref=a3oFn08uyT&sp_cr=ZAZ",
+    "link_clean": "https://www.amazon.co.uk/dp/B09L5B71YR/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B09L5B71YR&device=desktop&engine=amazon_product",
+    "sponsored": true,
+    "thumbnail": "https://m.media-amazon.com/images/I/61rde969a8L._AC_UF480,480_SR480,480_.jpg",
+    "rating": 5.0,
+    "reviews": 1,
+    "price": "£55.90",
+    "extracted_price": 55.9
+   },
+   {
+    "position": 2,
+    "asin": "B0DY831642",
+    "title": "INNA-Glas ILSE ceramic plant pot, gold, 31cm, Ø34cm | with grain pattern - Ceramic plant pot",
+    "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MTo1NTg2MjM0MDIyMDM5MjE5OjE3OTA3NjU2NDA6c3BfZGV0YWlsOjMwMTA5NDE2MjUyOTAzMjo6Ojo&url=%2Fdp%2FB0DY831642%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0DY831642%26pd_rd_w%3DLL3MG%26content-id%3Damzn1.sym.67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_p%3D67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_r%3DAB75XYV7R194K9Y791YG%26pd_rd_wg%3DDSNmp%26pd_rd_r%3Df9bf3921-573b-4c58-bb63-d95d485f289d%26aref%3DIAY51AXFKv%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw&aref=IAY51AXFKv&sp_cr=ZAZ",
+    "link_clean": "https://www.amazon.co.uk/dp/B0DY831642/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0DY831642&device=desktop&engine=amazon_product",
+    "sponsored": true,
+    "thumbnail": "https://m.media-amazon.com/images/I/61NefJiKuwL._AC_UF480,480_SR480,480_.jpg",
+    "rating": 5.0,
+    "reviews": 1,
+    "price": "£66.90",
+    "extracted_price": 66.9
+   },
+   {
+    "position": 3,
+    "asin": "B08YP8YDD8",
+    "title": "Leaf 28cm Silver Metal Octopus Bowl Style Planter, LEAF-7570",
+    "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MTo1NTg2MjM0MDIyMDM5MjE5OjE3OTA3NjU2NDA6c3BfZGV0YWlsOjMwMDQ3OTY3NDE1NjMzMjo6Ojo&url=%2Fdp%2FB08YP8YDD8%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB08YP8YDD8%26pd_rd_w%3DLL3MG%26content-id%3Damzn1.sym.67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_p%3D67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_r%3DAB75XYV7R194K9Y791YG%26pd_rd_wg%3DDSNmp%26pd_rd_r%3Df9bf3921-573b-4c58-bb63-d95d485f289d%26aref%3DWZh63Iabar%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw&aref=WZh63Iabar&sp_cr=ZAZ",
+    "link_clean": "https://www.amazon.co.uk/dp/B08YP8YDD8/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B08YP8YDD8&device=desktop&engine=amazon_product",
+    "sponsored": true,
+    "thumbnail": "https://m.media-amazon.com/images/I/71+07zJSpYL._AC_UF480,480_SR480,480_.jpg",
+    "rating": 3.3,
+    "reviews": 10,
+    "price": "£48.99",
+    "extracted_price": 48.99
+   },
+   {
+    "position": 4,
+    "asin": "B0B57F79LQ",
+    "title": "Melody Maison Large Gold Hammered Metal Planter 40cm x 38cm",
+    "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MTo1NTg2MjM0MDIyMDM5MjE5OjE3OTA3NjU2NDA6c3BfZGV0YWlsOjMwMDk0NzgzMDA0NzEzMjo6Ojo&url=%2Fdp%2FB0B57F79LQ%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0B57F79LQ%26pd_rd_w%3DLL3MG%26content-id%3Damzn1.sym.67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_p%3D67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_r%3DAB75XYV7R194K9Y791YG%26pd_rd_wg%3DDSNmp%26pd_rd_r%3Df9bf3921-573b-4c58-bb63-d95d485f289d%26aref%3D2RiMSKbj4w%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw&aref=2RiMSKbj4w&sp_cr=ZAZ",
+    "link_clean": "https://www.amazon.co.uk/dp/B0B57F79LQ/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0B57F79LQ&device=desktop&engine=amazon_product",
+    "sponsored": true,
+    "thumbnail": "https://m.media-amazon.com/images/I/61Ky2lJbRSL._AC_UF480,480_SR480,480_.jpg",
+    "rating": 4.7,
+    "reviews": 32,
+    "price": "£49.45",
+    "extracted_price": 49.45
+   },
+   {
+    "position": 5,
+    "asin": "B07Q6V6K12",
+    "title": "Leaf Large Curved Edge Hammered Metal Bowl, Gold, 32 x 20 cm",
+    "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MTo1NTg2MjM0MDIyMDM5MjE5OjE3OTA3NjU2NDA6c3BfZGV0YWlsOjMwMTE0NTg5OTgwNjYzMjo6Ojo&url=%2Fdp%2FB07Q6V6K12%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB07Q6V6K12%26pd_rd_w%3DLL3MG%26content-id%3Damzn1.sym.67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_p%3D67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_r%3DAB75XYV7R194K9Y791YG%26pd_rd_wg%3DDSNmp%26pd_rd_r%3Df9bf3921-573b-4c58-bb63-d95d485f289d%26aref%3D2SAHT3Cn46%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw&aref=2SAHT3Cn46&sp_cr=ZAZ",
+    "link_clean": "https://www.amazon.co.uk/dp/B07Q6V6K12/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B07Q6V6K12&device=desktop&engine=amazon_product",
+    "sponsored": true,
+    "thumbnail": "https://m.media-amazon.com/images/I/61RaoByZxsL._AC_UF480,480_SR480,480_.jpg",
+    "rating": 3.9,
+    "reviews": 18,
+    "price": "£53.99",
+    "extracted_price": 53.99
+   },
+   {
+    "position": 6,
+    "asin": "B0CWVWYWTP",
+    "title": "Olly & Rose Large Gold Plant Pot - Metal Plant Pots Indoor Planter 28cm (25cm at Top) Large Flower Pot (Gold, 28 cm)",
+    "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MTo1NTg2MjM0MDIyMDM5MjE5OjE3OTA3NjU2NDA6c3BfZGV0YWlsOjMwMDIyNjY4Mzc1NzQzMjo6Ojo&url=%2Fdp%2FB0CWVWYWTP%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0CWVWYWTP%26pd_rd_w%3DLL3MG%26content-id%3Damzn1.sym.67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_p%3D67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_r%3DAB75XYV7R194K9Y791YG%26pd_rd_wg%3DDSNmp%26pd_rd_r%3Df9bf3921-573b-4c58-bb63-d95d485f289d%26aref%3D9qswAAQXwN%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw&aref=9qswAAQXwN&sp_cr=ZAZ",
+    "link_clean": "https://www.amazon.co.uk/dp/B0CWVWYWTP/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0CWVWYWTP&device=desktop&engine=amazon_product",
+    "sponsored": true,
+    "thumbnail": "https://m.media-amazon.com/images/I/71msuuZhgKL._AC_UF480,480_SR480,480_.jpg",
+    "rating": 4.5,
+    "reviews": 37,
+    "discount": "-13%",
+    "price": "£54.99",
+    "extracted_price": 54.99,
+    "old_price": "null"
+   },
+   {
+    "position": 7,
+    "asin": "B0BN261JF6",
+    "title": "Olly & Rose Matt Metal Plant Pot with Gold Plant Stand - Tall 50cm Large Plant Pot Indoors with Stand - Large Decorative Planter",
+    "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MTo1NTg2MjM0MDIyMDM5MjE5OjE3OTA3NjU2NDA6c3BfZGV0YWlsOjIwMTA4NDUzOTkyNTk4Ojo6Og&url=%2Fdp%2FB0BN261JF6%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0BN261JF6%26pd_rd_w%3DLL3MG%26content-id%3Damzn1.sym.67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_p%3D67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_r%3DAB75XYV7R194K9Y791YG%26pd_rd_wg%3DDSNmp%26pd_rd_r%3Df9bf3921-573b-4c58-bb63-d95d485f289d%26aref%3DK7AyzMqAnp%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw&aref=K7AyzMqAnp&sp_cr=ZAZ",
+    "link_clean": "https://www.amazon.co.uk/dp/B0BN261JF6/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0BN261JF6&device=desktop&engine=amazon_product",
+    "sponsored": true,
+    "thumbnail": "https://m.media-amazon.com/images/I/61L9tpXpYOL._AC_UF480,480_SR480,480_.jpg",
+    "rating": 4.2,
+    "reviews": 112,
+    "price": "£59.99",
+    "extracted_price": 59.99
+   },
+   {
+    "position": 8,
+    "asin": "B0BN261JF6",
+    "title": "Olly & Rose Matt Metal Plant Pot with Gold Plant Stand - Tall 50cm Large Plant Pot Indoors with Stand - Large Decorative Planter",
+    "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MTo4Njg5MjI5NTMwODQ0ODY3OjE3OTA3NjU2NDA6c3BfZGV0YWlsMjoyMDEwODQ1Mzk5MjU5ODo6Ojo&url=%2Fdp%2FB0BN261JF6%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0BN261JF6%26pd_rd_w%3DpHV7I%26content-id%3Damzn1.sym.1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_p%3D1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_r%3DAB75XYV7R194K9Y791YG%26pd_rd_wg%3DDSNmp%26pd_rd_r%3Df9bf3921-573b-4c58-bb63-d95d485f289d%26aref%3DK7AyzMqAnp%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&aref=K7AyzMqAnp&sp_cr=ZAZ",
+    "link_clean": "https://www.amazon.co.uk/dp/B0BN261JF6/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0BN261JF6&device=desktop&engine=amazon_product",
+    "sponsored": true,
+    "thumbnail": "https://m.media-amazon.com/images/I/61L9tpXpYOL._AC_UF480,480_SR480,480_.jpg",
+    "rating": 4.2,
+    "reviews": 112,
+    "price": "£59.99",
+    "extracted_price": 59.99
+   },
+   {
+    "position": 9,
+    "asin": "B0FBM3CJ2W",
+    "title": "TNGGNT Artificial Plants Dracaena Tree 6FT, Large Artificial Plants Indoor | Artificial Plants Indoor, Fake Plants Tall Design, Tropical Leaves | Fake Plant for Offices, Living Rooms, Modern Decor",
+    "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MTo4Njg5MjI5NTMwODQ0ODY3OjE3OTA3NjU2NDA6c3BfZGV0YWlsMjozMDA4Mzg1MDI3MTMyMzI6Ojo6&url=%2Fdp%2FB0FBM3CJ2W%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0FBM3CJ2W%26pd_rd_w%3DpHV7I%26content-id%3Damzn1.sym.1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_p%3D1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_r%3DAB75XYV7R194K9Y791YG%26pd_rd_wg%3DDSNmp%26pd_rd_r%3Df9bf3921-573b-4c58-bb63-d95d485f289d%26aref%3Dsjmbr4LprS%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&aref=sjmbr4LprS&sp_cr=ZAZ",
+    "link_clean": "https://www.amazon.co.uk/dp/B0FBM3CJ2W/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0FBM3CJ2W&device=desktop&engine=amazon_product",
+    "sponsored": true,
+    "thumbnail": "https://m.media-amazon.com/images/I/81kFb519dCL._AC_UF480,480_SR480,480_.jpg",
+    "rating": 4.7,
+    "reviews": 439,
+    "price": "£85.99",
+    "extracted_price": 85.99,
+    "climate_pledge_friendly": true
+   },
+   {
+    "position": 10,
+    "asin": "B0DZCSYLY1",
+    "title": "Briful Artificial Succulent Plants Fake Plants in Gold Ceramic Pot, Faux Potted Plant Fake Succulents Arrangement, Artificial Plant Indoor for Office Desk Decor Decorative Home Accessories",
+    "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MTo4Njg5MjI5NTMwODQ0ODY3OjE3OTA3NjU2NDA6c3BfZGV0YWlsMjozMDA3MDI0MDEzMTQwMzI6Ojo6&url=%2Fdp%2FB0DZCSYLY1%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0DZCSYLY1%26pd_rd_w%3DpHV7I%26content-id%3Damzn1.sym.1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_p%3D1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_r%3DAB75XYV7R194K9Y791YG%26pd_rd_wg%3DDSNmp%26pd_rd_r%3Df9bf3921-573b-4c58-bb63-d95d485f289d%26aref%3DGR9CzHXy90%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&aref=GR9CzHXy90&sp_cr=ZAZ",
+    "link_clean": "https://www.amazon.co.uk/dp/B0DZCSYLY1/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0DZCSYLY1&device=desktop&engine=amazon_product",
+    "sponsored": true,
+    "thumbnail": "https://m.media-amazon.com/images/I/71kjHWbvqcL._AC_UF480,480_SR480,480_.jpg",
+    "rating": 4.3,
+    "reviews": 332,
+    "price": "£24.99",
+    "extracted_price": 24.99
+   },
+   {
+    "position": 11,
+    "asin": "B0CCQ7FW94",
+    "title": "GEPUTING Wall Hooks Heavy Adhesive Duty Holds 15kg Max (10) | Transparent Waterproof Oilproof Hooks for Bathroom Kitchen No Drilling Strong Adhesive Holds Towels Robes Coats Utensils",
+    "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MTo4Njg5MjI5NTMwODQ0ODY3OjE3OTA3NjU2NDA6c3BfZGV0YWlsMjozMDA1NDIxODk1NTc1MzI6Ojo6&url=%2Fdp%2FB0CCQ7FW94%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0CCQ7FW94%26pd_rd_w%3DpHV7I%26content-id%3Damzn1.sym.1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_p%3D1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_r%3DAB75XYV7R194K9Y791YG%26pd_rd_wg%3DDSNmp%26pd_rd_r%3Df9bf3921-573b-4c58-bb63-d95d485f289d%26aref%3D0mU4zJHagw%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&aref=0mU4zJHagw&sp_cr=ZAZ",
+    "link_clean": "https://www.amazon.co.uk/dp/B0CCQ7FW94/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0CCQ7FW94&device=desktop&engine=amazon_product",
+    "sponsored": true,
+    "badges": [
+     "Amazon's Choice"
+    ],
+    "thumbnail": "https://m.media-amazon.com/images/I/71vHsu2MwPL._AC_UF480,480_SR480,480_.jpg",
+    "rating": 4.5,
+    "reviews": 2907,
+    "price": "£8.95",
+    "extracted_price": 8.95,
+    "price_unit": "£0.90 / count",
+    "extracted_price_unit": 0.9,
+    "save_with_coupon": "You pay £8.50"
+   },
+   {
+    "position": 12,
+    "asin": "B09L5B71YR",
+    "title": "INNA-Glas Large planter, gold matt, 27 cm, Ø 32 cm | ceramic - Flower pot",
+    "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MTo4Njg5MjI5NTMwODQ0ODY3OjE3OTA3NjU2NDA6c3BfZGV0YWlsMjozMDA1NzQ2NjIzNjMwMzI6Ojo6&url=%2Fdp%2FB09L5B71YR%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB09L5B71YR%26pd_rd_w%3DpHV7I%26content-id%3Damzn1.sym.1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_p%3D1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_r%3DAB75XYV7R194K9Y791YG%26pd_rd_wg%3DDSNmp%26pd_rd_r%3Df9bf3921-573b-4c58-bb63-d95d485f289d%26aref%3Da3oFn08uyT%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&aref=a3oFn08uyT&sp_cr=ZAZ",
+    "link_clean": "https://www.amazon.co.uk/dp/B09L5B71YR/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B09L5B71YR&device=desktop&engine=amazon_product",
+    "sponsored": true,
+    "thumbnail": "https://m.media-amazon.com/images/I/61rde969a8L._AC_UF480,480_SR480,480_.jpg",
+    "rating": 5.0,
+    "reviews": 1,
+    "price": "£55.90",
+    "extracted_price": 55.9
+   },
+   {
+    "position": 13,
+    "asin": "B0DY831642",
+    "title": "INNA-Glas ILSE ceramic plant pot, gold, 31cm, Ø34cm | with grain pattern - Ceramic plant pot",
+    "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MTo4Njg5MjI5NTMwODQ0ODY3OjE3OTA3NjU2NDA6c3BfZGV0YWlsMjozMDEwOTQxNjI1MjkwMzI6Ojo6&url=%2Fdp%2FB0DY831642%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0DY831642%26pd_rd_w%3DpHV7I%26content-id%3Damzn1.sym.1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_p%3D1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_r%3DAB75XYV7R194K9Y791YG%26pd_rd_wg%3DDSNmp%26pd_rd_r%3Df9bf3921-573b-4c58-bb63-d95d485f289d%26aref%3DIAY51AXFKv%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&aref=IAY51AXFKv&sp_cr=ZAZ",
+    "link_clean": "https://www.amazon.co.uk/dp/B0DY831642/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0DY831642&device=desktop&engine=amazon_product",
+    "sponsored": true,
+    "thumbnail": "https://m.media-amazon.com/images/I/61NefJiKuwL._AC_UF480,480_SR480,480_.jpg",
+    "rating": 5.0,
+    "reviews": 1,
+    "price": "£66.90",
+    "extracted_price": 66.9
+   },
+   {
+    "position": 14,
+    "asin": "B08YP8YDD8",
+    "title": "Leaf 28cm Silver Metal Octopus Bowl Style Planter, LEAF-7570",
+    "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MTo4Njg5MjI5NTMwODQ0ODY3OjE3OTA3NjU2NDA6c3BfZGV0YWlsMjozMDA0Nzk2NzQxNTYzMzI6Ojo6&url=%2Fdp%2FB08YP8YDD8%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB08YP8YDD8%26pd_rd_w%3DpHV7I%26content-id%3Damzn1.sym.1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_p%3D1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_r%3DAB75XYV7R194K9Y791YG%26pd_rd_wg%3DDSNmp%26pd_rd_r%3Df9bf3921-573b-4c58-bb63-d95d485f289d%26aref%3DWZh63Iabar%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&aref=WZh63Iabar&sp_cr=ZAZ",
+    "link_clean": "https://www.amazon.co.uk/dp/B08YP8YDD8/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B08YP8YDD8&device=desktop&engine=amazon_product",
+    "sponsored": true,
+    "thumbnail": "https://m.media-amazon.com/images/I/71+07zJSpYL._AC_UF480,480_SR480,480_.jpg",
+    "rating": 3.3,
+    "reviews": 10,
+    "price": "£48.99",
+    "extracted_price": 48.99
+   }
+  ],
+  "related_product_sections": [
+   {
+    "title": "Products related to this item",
+    "items": [
+     {
+      "position": 1,
+      "asin": "B09L5B71YR",
+      "title": "INNA-Glas Large planter, gold matt, 27 cm, Ø 32 cm | ceramic - Flower pot",
+      "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MTo1NTg2MjM0MDIyMDM5MjE5OjE3OTA3NjU2NDA6c3BfZGV0YWlsOjMwMDU3NDY2MjM2MzAzMjo6Ojo&url=%2Fdp%2FB09L5B71YR%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB09L5B71YR%26pd_rd_w%3DLL3MG%26content-id%3Damzn1.sym.67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_p%3D67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_r%3DAB75XYV7R194K9Y791YG%26pd_rd_wg%3DDSNmp%26pd_rd_r%3Df9bf3921-573b-4c58-bb63-d95d485f289d%26aref%3Da3oFn08uyT%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw&aref=a3oFn08uyT&sp_cr=ZAZ",
+      "link_clean": "https://www.amazon.co.uk/dp/B09L5B71YR/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B09L5B71YR&device=desktop&engine=amazon_product",
+      "sponsored": true,
+      "thumbnail": "https://m.media-amazon.com/images/I/61rde969a8L._AC_UF480,480_SR480,480_.jpg",
+      "rating": 5.0,
+      "reviews": 1,
+      "price": "£55.90",
+      "extracted_price": 55.9
+     },
+     {
+      "position": 2,
+      "asin": "B0DY831642",
+      "title": "INNA-Glas ILSE ceramic plant pot, gold, 31cm, Ø34cm | with grain pattern - Ceramic plant pot",
+      "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MTo1NTg2MjM0MDIyMDM5MjE5OjE3OTA3NjU2NDA6c3BfZGV0YWlsOjMwMTA5NDE2MjUyOTAzMjo6Ojo&url=%2Fdp%2FB0DY831642%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0DY831642%26pd_rd_w%3DLL3MG%26content-id%3Damzn1.sym.67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_p%3D67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_r%3DAB75XYV7R194K9Y791YG%26pd_rd_wg%3DDSNmp%26pd_rd_r%3Df9bf3921-573b-4c58-bb63-d95d485f289d%26aref%3DIAY51AXFKv%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw&aref=IAY51AXFKv&sp_cr=ZAZ",
+      "link_clean": "https://www.amazon.co.uk/dp/B0DY831642/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0DY831642&device=desktop&engine=amazon_product",
+      "sponsored": true,
+      "thumbnail": "https://m.media-amazon.com/images/I/61NefJiKuwL._AC_UF480,480_SR480,480_.jpg",
+      "rating": 5.0,
+      "reviews": 1,
+      "price": "£66.90",
+      "extracted_price": 66.9
+     },
+     {
+      "position": 3,
+      "asin": "B08YP8YDD8",
+      "title": "Leaf 28cm Silver Metal Octopus Bowl Style Planter, LEAF-7570",
+      "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MTo1NTg2MjM0MDIyMDM5MjE5OjE3OTA3NjU2NDA6c3BfZGV0YWlsOjMwMDQ3OTY3NDE1NjMzMjo6Ojo&url=%2Fdp%2FB08YP8YDD8%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB08YP8YDD8%26pd_rd_w%3DLL3MG%26content-id%3Damzn1.sym.67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_p%3D67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_r%3DAB75XYV7R194K9Y791YG%26pd_rd_wg%3DDSNmp%26pd_rd_r%3Df9bf3921-573b-4c58-bb63-d95d485f289d%26aref%3DWZh63Iabar%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw&aref=WZh63Iabar&sp_cr=ZAZ",
+      "link_clean": "https://www.amazon.co.uk/dp/B08YP8YDD8/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B08YP8YDD8&device=desktop&engine=amazon_product",
+      "sponsored": true,
+      "thumbnail": "https://m.media-amazon.com/images/I/71+07zJSpYL._AC_UF480,480_SR480,480_.jpg",
+      "rating": 3.3,
+      "reviews": 10,
+      "price": "£48.99",
+      "extracted_price": 48.99
+     },
+     {
+      "position": 4,
+      "asin": "B0B57F79LQ",
+      "title": "Melody Maison Large Gold Hammered Metal Planter 40cm x 38cm",
+      "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MTo1NTg2MjM0MDIyMDM5MjE5OjE3OTA3NjU2NDA6c3BfZGV0YWlsOjMwMDk0NzgzMDA0NzEzMjo6Ojo&url=%2Fdp%2FB0B57F79LQ%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0B57F79LQ%26pd_rd_w%3DLL3MG%26content-id%3Damzn1.sym.67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_p%3D67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_r%3DAB75XYV7R194K9Y791YG%26pd_rd_wg%3DDSNmp%26pd_rd_r%3Df9bf3921-573b-4c58-bb63-d95d485f289d%26aref%3D2RiMSKbj4w%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw&aref=2RiMSKbj4w&sp_cr=ZAZ",
+      "link_clean": "https://www.amazon.co.uk/dp/B0B57F79LQ/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0B57F79LQ&device=desktop&engine=amazon_product",
+      "sponsored": true,
+      "thumbnail": "https://m.media-amazon.com/images/I/61Ky2lJbRSL._AC_UF480,480_SR480,480_.jpg",
+      "rating": 4.7,
+      "reviews": 32,
+      "price": "£49.45",
+      "extracted_price": 49.45
+     },
+     {
+      "position": 5,
+      "asin": "B07Q6V6K12",
+      "title": "Leaf Large Curved Edge Hammered Metal Bowl, Gold, 32 x 20 cm",
+      "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MTo1NTg2MjM0MDIyMDM5MjE5OjE3OTA3NjU2NDA6c3BfZGV0YWlsOjMwMTE0NTg5OTgwNjYzMjo6Ojo&url=%2Fdp%2FB07Q6V6K12%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB07Q6V6K12%26pd_rd_w%3DLL3MG%26content-id%3Damzn1.sym.67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_p%3D67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_r%3DAB75XYV7R194K9Y791YG%26pd_rd_wg%3DDSNmp%26pd_rd_r%3Df9bf3921-573b-4c58-bb63-d95d485f289d%26aref%3D2SAHT3Cn46%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw&aref=2SAHT3Cn46&sp_cr=ZAZ",
+      "link_clean": "https://www.amazon.co.uk/dp/B07Q6V6K12/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B07Q6V6K12&device=desktop&engine=amazon_product",
+      "sponsored": true,
+      "thumbnail": "https://m.media-amazon.com/images/I/61RaoByZxsL._AC_UF480,480_SR480,480_.jpg",
+      "rating": 3.9,
+      "reviews": 18,
+      "price": "£53.99",
+      "extracted_price": 53.99
+     },
+     {
+      "position": 6,
+      "asin": "B0CWVWYWTP",
+      "title": "Olly & Rose Large Gold Plant Pot - Metal Plant Pots Indoor Planter 28cm (25cm at Top) Large Flower Pot (Gold, 28 cm)",
+      "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MTo1NTg2MjM0MDIyMDM5MjE5OjE3OTA3NjU2NDA6c3BfZGV0YWlsOjMwMDIyNjY4Mzc1NzQzMjo6Ojo&url=%2Fdp%2FB0CWVWYWTP%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0CWVWYWTP%26pd_rd_w%3DLL3MG%26content-id%3Damzn1.sym.67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_p%3D67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_r%3DAB75XYV7R194K9Y791YG%26pd_rd_wg%3DDSNmp%26pd_rd_r%3Df9bf3921-573b-4c58-bb63-d95d485f289d%26aref%3D9qswAAQXwN%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw&aref=9qswAAQXwN&sp_cr=ZAZ",
+      "link_clean": "https://www.amazon.co.uk/dp/B0CWVWYWTP/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0CWVWYWTP&device=desktop&engine=amazon_product",
+      "sponsored": true,
+      "thumbnail": "https://m.media-amazon.com/images/I/71msuuZhgKL._AC_UF480,480_SR480,480_.jpg",
+      "rating": 4.5,
+      "reviews": 37,
+      "discount": "-13%",
+      "price": "£54.99",
+      "extracted_price": 54.99,
+      "old_price": "null"
+     },
+     {
+      "position": 7,
+      "asin": "B0BN261JF6",
+      "title": "Olly & Rose Matt Metal Plant Pot with Gold Plant Stand - Tall 50cm Large Plant Pot Indoors with Stand - Large Decorative Planter",
+      "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MTo1NTg2MjM0MDIyMDM5MjE5OjE3OTA3NjU2NDA6c3BfZGV0YWlsOjIwMTA4NDUzOTkyNTk4Ojo6Og&url=%2Fdp%2FB0BN261JF6%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0BN261JF6%26pd_rd_w%3DLL3MG%26content-id%3Damzn1.sym.67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_p%3D67a7787e-69bd-4913-9670-239f61f2c206%26pf_rd_r%3DAB75XYV7R194K9Y791YG%26pd_rd_wg%3DDSNmp%26pd_rd_r%3Df9bf3921-573b-4c58-bb63-d95d485f289d%26aref%3DK7AyzMqAnp%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw&aref=K7AyzMqAnp&sp_cr=ZAZ",
+      "link_clean": "https://www.amazon.co.uk/dp/B0BN261JF6/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0BN261JF6&device=desktop&engine=amazon_product",
+      "sponsored": true,
+      "thumbnail": "https://m.media-amazon.com/images/I/61L9tpXpYOL._AC_UF480,480_SR480,480_.jpg",
+      "rating": 4.2,
+      "reviews": 112,
+      "price": "£59.99",
+      "extracted_price": 59.99
+     }
+    ]
+   },
+   {
+    "title": "Products related to this item",
+    "items": [
+     {
+      "position": 1,
+      "asin": "B0BN261JF6",
+      "title": "Olly & Rose Matt Metal Plant Pot with Gold Plant Stand - Tall 50cm Large Plant Pot Indoors with Stand - Large Decorative Planter",
+      "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MTo4Njg5MjI5NTMwODQ0ODY3OjE3OTA3NjU2NDA6c3BfZGV0YWlsMjoyMDEwODQ1Mzk5MjU5ODo6Ojo&url=%2Fdp%2FB0BN261JF6%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0BN261JF6%26pd_rd_w%3DpHV7I%26content-id%3Damzn1.sym.1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_p%3D1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_r%3DAB75XYV7R194K9Y791YG%26pd_rd_wg%3DDSNmp%26pd_rd_r%3Df9bf3921-573b-4c58-bb63-d95d485f289d%26aref%3DK7AyzMqAnp%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&aref=K7AyzMqAnp&sp_cr=ZAZ",
+      "link_clean": "https://www.amazon.co.uk/dp/B0BN261JF6/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0BN261JF6&device=desktop&engine=amazon_product",
+      "sponsored": true,
+      "thumbnail": "https://m.media-amazon.com/images/I/61L9tpXpYOL._AC_UF480,480_SR480,480_.jpg",
+      "rating": 4.2,
+      "reviews": 112,
+      "price": "£59.99",
+      "extracted_price": 59.99
+     },
+     {
+      "position": 2,
+      "asin": "B0FBM3CJ2W",
+      "title": "TNGGNT Artificial Plants Dracaena Tree 6FT, Large Artificial Plants Indoor | Artificial Plants Indoor, Fake Plants Tall Design, Tropical Leaves | Fake Plant for Offices, Living Rooms, Modern Decor",
+      "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MTo4Njg5MjI5NTMwODQ0ODY3OjE3OTA3NjU2NDA6c3BfZGV0YWlsMjozMDA4Mzg1MDI3MTMyMzI6Ojo6&url=%2Fdp%2FB0FBM3CJ2W%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0FBM3CJ2W%26pd_rd_w%3DpHV7I%26content-id%3Damzn1.sym.1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_p%3D1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_r%3DAB75XYV7R194K9Y791YG%26pd_rd_wg%3DDSNmp%26pd_rd_r%3Df9bf3921-573b-4c58-bb63-d95d485f289d%26aref%3Dsjmbr4LprS%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&aref=sjmbr4LprS&sp_cr=ZAZ",
+      "link_clean": "https://www.amazon.co.uk/dp/B0FBM3CJ2W/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0FBM3CJ2W&device=desktop&engine=amazon_product",
+      "sponsored": true,
+      "thumbnail": "https://m.media-amazon.com/images/I/81kFb519dCL._AC_UF480,480_SR480,480_.jpg",
+      "rating": 4.7,
+      "reviews": 439,
+      "price": "£85.99",
+      "extracted_price": 85.99,
+      "climate_pledge_friendly": true
+     },
+     {
+      "position": 3,
+      "asin": "B0DZCSYLY1",
+      "title": "Briful Artificial Succulent Plants Fake Plants in Gold Ceramic Pot, Faux Potted Plant Fake Succulents Arrangement, Artificial Plant Indoor for Office Desk Decor Decorative Home Accessories",
+      "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MTo4Njg5MjI5NTMwODQ0ODY3OjE3OTA3NjU2NDA6c3BfZGV0YWlsMjozMDA3MDI0MDEzMTQwMzI6Ojo6&url=%2Fdp%2FB0DZCSYLY1%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0DZCSYLY1%26pd_rd_w%3DpHV7I%26content-id%3Damzn1.sym.1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_p%3D1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_r%3DAB75XYV7R194K9Y791YG%26pd_rd_wg%3DDSNmp%26pd_rd_r%3Df9bf3921-573b-4c58-bb63-d95d485f289d%26aref%3DGR9CzHXy90%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&aref=GR9CzHXy90&sp_cr=ZAZ",
+      "link_clean": "https://www.amazon.co.uk/dp/B0DZCSYLY1/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0DZCSYLY1&device=desktop&engine=amazon_product",
+      "sponsored": true,
+      "thumbnail": "https://m.media-amazon.com/images/I/71kjHWbvqcL._AC_UF480,480_SR480,480_.jpg",
+      "rating": 4.3,
+      "reviews": 332,
+      "price": "£24.99",
+      "extracted_price": 24.99
+     },
+     {
+      "position": 4,
+      "asin": "B0CCQ7FW94",
+      "title": "GEPUTING Wall Hooks Heavy Adhesive Duty Holds 15kg Max (10) | Transparent Waterproof Oilproof Hooks for Bathroom Kitchen No Drilling Strong Adhesive Holds Towels Robes Coats Utensils",
+      "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MTo4Njg5MjI5NTMwODQ0ODY3OjE3OTA3NjU2NDA6c3BfZGV0YWlsMjozMDA1NDIxODk1NTc1MzI6Ojo6&url=%2Fdp%2FB0CCQ7FW94%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0CCQ7FW94%26pd_rd_w%3DpHV7I%26content-id%3Damzn1.sym.1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_p%3D1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_r%3DAB75XYV7R194K9Y791YG%26pd_rd_wg%3DDSNmp%26pd_rd_r%3Df9bf3921-573b-4c58-bb63-d95d485f289d%26aref%3D0mU4zJHagw%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&aref=0mU4zJHagw&sp_cr=ZAZ",
+      "link_clean": "https://www.amazon.co.uk/dp/B0CCQ7FW94/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0CCQ7FW94&device=desktop&engine=amazon_product",
+      "sponsored": true,
+      "badges": [
+       "Amazon's Choice"
+      ],
+      "thumbnail": "https://m.media-amazon.com/images/I/71vHsu2MwPL._AC_UF480,480_SR480,480_.jpg",
+      "rating": 4.5,
+      "reviews": 2907,
+      "price": "£8.95",
+      "extracted_price": 8.95,
+      "price_unit": "£0.90 / count",
+      "extracted_price_unit": 0.9,
+      "save_with_coupon": "You pay £8.50"
+     },
+     {
+      "position": 5,
+      "asin": "B09L5B71YR",
+      "title": "INNA-Glas Large planter, gold matt, 27 cm, Ø 32 cm | ceramic - Flower pot",
+      "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MTo4Njg5MjI5NTMwODQ0ODY3OjE3OTA3NjU2NDA6c3BfZGV0YWlsMjozMDA1NzQ2NjIzNjMwMzI6Ojo6&url=%2Fdp%2FB09L5B71YR%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB09L5B71YR%26pd_rd_w%3DpHV7I%26content-id%3Damzn1.sym.1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_p%3D1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_r%3DAB75XYV7R194K9Y791YG%26pd_rd_wg%3DDSNmp%26pd_rd_r%3Df9bf3921-573b-4c58-bb63-d95d485f289d%26aref%3Da3oFn08uyT%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&aref=a3oFn08uyT&sp_cr=ZAZ",
+      "link_clean": "https://www.amazon.co.uk/dp/B09L5B71YR/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B09L5B71YR&device=desktop&engine=amazon_product",
+      "sponsored": true,
+      "thumbnail": "https://m.media-amazon.com/images/I/61rde969a8L._AC_UF480,480_SR480,480_.jpg",
+      "rating": 5.0,
+      "reviews": 1,
+      "price": "£55.90",
+      "extracted_price": 55.9
+     },
+     {
+      "position": 6,
+      "asin": "B0DY831642",
+      "title": "INNA-Glas ILSE ceramic plant pot, gold, 31cm, Ø34cm | with grain pattern - Ceramic plant pot",
+      "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MTo4Njg5MjI5NTMwODQ0ODY3OjE3OTA3NjU2NDA6c3BfZGV0YWlsMjozMDEwOTQxNjI1MjkwMzI6Ojo6&url=%2Fdp%2FB0DY831642%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0DY831642%26pd_rd_w%3DpHV7I%26content-id%3Damzn1.sym.1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_p%3D1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_r%3DAB75XYV7R194K9Y791YG%26pd_rd_wg%3DDSNmp%26pd_rd_r%3Df9bf3921-573b-4c58-bb63-d95d485f289d%26aref%3DIAY51AXFKv%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&aref=IAY51AXFKv&sp_cr=ZAZ",
+      "link_clean": "https://www.amazon.co.uk/dp/B0DY831642/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0DY831642&device=desktop&engine=amazon_product",
+      "sponsored": true,
+      "thumbnail": "https://m.media-amazon.com/images/I/61NefJiKuwL._AC_UF480,480_SR480,480_.jpg",
+      "rating": 5.0,
+      "reviews": 1,
+      "price": "£66.90",
+      "extracted_price": 66.9
+     },
+     {
+      "position": 7,
+      "asin": "B08YP8YDD8",
+      "title": "Leaf 28cm Silver Metal Octopus Bowl Style Planter, LEAF-7570",
+      "link": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MTo4Njg5MjI5NTMwODQ0ODY3OjE3OTA3NjU2NDA6c3BfZGV0YWlsMjozMDA0Nzk2NzQxNTYzMzI6Ojo6&url=%2Fdp%2FB08YP8YDD8%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB08YP8YDD8%26pd_rd_w%3DpHV7I%26content-id%3Damzn1.sym.1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_p%3D1058fabc-2812-4699-8245-ce27b495cfb1%26pf_rd_r%3DAB75XYV7R194K9Y791YG%26pd_rd_wg%3DDSNmp%26pd_rd_r%3Df9bf3921-573b-4c58-bb63-d95d485f289d%26aref%3DWZh63Iabar%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&aref=WZh63Iabar&sp_cr=ZAZ",
+      "link_clean": "https://www.amazon.co.uk/dp/B08YP8YDD8/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B08YP8YDD8&device=desktop&engine=amazon_product",
+      "sponsored": true,
+      "thumbnail": "https://m.media-amazon.com/images/I/71+07zJSpYL._AC_UF480,480_SR480,480_.jpg",
+      "rating": 3.3,
+      "reviews": 10,
+      "price": "£48.99",
+      "extracted_price": 48.99
+     }
+    ]
+   }
+  ],
+  "product_details": {
+   "colour": "Gold",
+   "product_style": "Modern",
+   "planter_form": "Plant Pot",
+   "item_shape": "Leaf",
+   "pattern": "Solid",
+   "theme": "Nature",
+   "subject_character": "Leaf",
+   "brand_name": "Leaf",
+   "included_components": "Plant",
+   "country_of_origin": "India",
+   "unit_count": "1.0 count",
+   "set_name": "No Set",
+   "global_trade_identification_number": "05060532973055",
+   "item_type_name": "Leaf Large Straight Edge Hammered Metal Planter",
+   "manufacturer": "LeafUK",
+   "model_number": "LEAF-7305",
+   "manufacturer_part_number": "LEAF-7305",
+   "best_sellers_rank": [
+    {
+     "text": "29,427 in Garden (See Top 100 in Garden)",
+     "extracted_rank": 29427,
+     "link": "https://www.amazon.co.uk/gp/bestsellers/outdoors/ref=pd_zg_ts_outdoors",
+     "link_text": "See Top 100 in Garden"
+    },
+    {
+     "text": "1,059 in Flower Pots",
+     "extracted_rank": 1059,
+     "link": "https://www.amazon.co.uk/gp/bestsellers/outdoors/4224875031/ref=pd_zg_hrsr_outdoors",
+     "link_text": "Flower Pots"
+    }
+   ],
+   "asin": "B07NQ136MR",
+   "customer_reviews": "4.5 out of 5 stars",
+   "rating": 4.5,
+   "reviews": 334,
+   "item_dimensions_d_x_w_x_h": "30D x 30W x 20H centimetres",
+   "capacity": "14.14 litres",
+   "number_of_pieces": "1",
+   "number_of_levels": "1",
+   "item_weight": "0.5 Kilograms",
+   "item_dimensions": "30 x 30 x 20 centimetres",
+   "size": "32cm x 20cm",
+   "other_special_features_of_the_product": "Lightweight",
+   "mounting_type": "Tabletop",
+   "plant_or_animal_product_type": "Planta",
+   "material_type": "Metal",
+   "finish_type": "Hammered",
+   "indoor_outdoor_usage": "Indoor"
+  },
+  "sponsored_brands": [
+   {
+    "position": 1,
+    "asin": "B094L8JCNN",
+    "title": "LáLáGreen Hanging Baskets for Plants with Coco Liner, Outdoor Metal Wire Hanging Planter Flower Pot Holder with Chain Hook for Garden, Balcony, Porch and Indoor Décor (3, 10 inch)",
+    "link": "https://aax-eu-zaz.amazon.co.uk/x/c/JK2EAzSLvzQcIKDIKwV-LLoAAAGg8fMr2QoAAAH2AQBvbm9fdHhuX2JpZDMgICBvbm9fdHhuX2ltcDEgICBNgd98/clv1c_ek-wBff3Vcba5nIqeEZvQWgzhLK70PBPYs9ZqiVHNTmsYf_NcvxQ9fgMwDnhNKn_bA2cl6igARn9uZIuodf7Xa_bAp7sRvNPVU-mEucgUP3-hwKSJ9xaLaz4-s9ATvGwP-42LvnDe4r3437KCs909ZR7odiAqi3QtnSAT3OsyJBTsTMiP2eoSFN6gpToR4sqFErrlnuL3YbOQu7ohxB23sGRbRd3LhjFDUTAfwT2EuLt4l1TuQCC5u0DIbFiQrf1fRs2VAJiCV0Cf6jkrkG-DudE0WRnoZyun_d9XUMQRBUSizPpp2Gt4wIqwYokLkqZLyF6cxVTg2Yp8WZ8a5RKciW5bzse_0YIN-CFmTK2RCHnElbeR_0GwBhIYo19AG1ALe8dZZtY0dSPecM3udo7XpCpnxd4YygIB-4TmvkizCjkUA3s6mmsPrwsgn9ydHn-fStrWG_UcyxJOKPMRjKMBH5OtB0Fp4Lt8-HeTEty2lTZfYPPQmAGSQxRv2edVXDYb-jsch5UootaEfdNmX9UEjko3MjANkfCPYoPV_vkXYFN8jeKPDpSBm-wefZA9g1hGoj_pbcAjbugoK2yKsIqmqNIibejT8oFGSEaP-VAL3kvedZYmFMV-idd74NeawmJZ02W33Yt6EsJ2aQKOJN3q_ZG8iMBcyL-1n7PC9Iue8qyJydhDvY1fSekGwmCAztfH6nxiWDT24bd-gTsbFhmWjO70SPT5_pHeHybUjb4sCMN3g6sVnVhznLFkJEYvsAwSPwLrMNr_vUnAZXhtDSibQHAEOPyZMPvrwesg1VNjPuWrkoSrw1vSeiJeNhabUDX0URzoFwHU0NW8kCW4_kWseFQlLIKESoeMJl9D_72R-gCI2q8IHe4P3uJxMnC2gHmVlI-d-JmLkD7OPSQVcnuDX67YCh3AGpbx0jw-FvdBaMwyy4q2nMP7WU12HuwLQRdX4KzwWllLYVUbII3oVI0WGZZZQFLcyeiAk5wH2Cqjn8gsjvfMM-gVfPkYuZTmaEc-6nifOZiH0T7kb4zKUtzPICUX2IclP4C-4WXSlL_cetIX6coemTipCwjnN2LMHRf4hfJCy4GbaOpdy5gEG9ylXNUnh7_5lA69tGVmbOsVsCuCN90sVNeWrNasP9upd8-opUFIE1p8OKpjR4Be0mr6MiDUlgOCJNazwK6XL7zqm-vuk1Q1uUsZiRrkP8CevUYgm7iIf1ukzngtvtGimemgYX4cyS5JNfH-Eh7YXEwsqhK1jJJrSzyxwvWT8l2Qq3hqwxCkUS6c61X0Bu8mapaiaNBavoX7yEplVzKi1qyQ4YWNt52T0urhySwktQ4fhswpxam_FVQIJmI55AwETIu9i0HKwvwaneHyaYuvFpgcSqUKTBz6o3vuvwZuFadayTnLzEXop6hNV2AO85I6CHCCFQi0Im6rMuiHAKVNFgmN74EibDE-LxppUx9wg8/https://www.amazon.co.uk/dp/B094L8JCNN/?_encoding=UTF8&aref=ZUiGNljyOV&pd_rd_i=B094L8JCNN&pd_rd_i=B094L8JCNN&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=C6Bgu&content-id=amzn1.sym.fa3ea19a-f924-4ac4-867b-bbb541898b0c&pf_rd_p=fa3ea19a-f924-4ac4-867b-bbb541898b0c&pf_rd_r=AB75XYV7R194K9Y791YG&pd_rd_wg=DSNmp&pd_rd_r=f9bf3921-573b-4c58-bb63-d95d485f289d",
+    "link_clean": "https://www.amazon.co.uk/dp/B094L8JCNN/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B094L8JCNN&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/41RDeg6-9CL._AC_SR100,100_QL65_.jpg",
+    "video": {
+     "link": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/dda761df-791f-4928-92a6-4b67130e54bb.mp4/productVideoOptimized.mp4",
+     "thumbnail": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/dda761df-791f-4928-92a6-4b67130e54bb.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+    },
+    "rating": 4.6,
+    "reviews": 387,
+    "price": "£15.29",
+    "extracted_price": 15.29,
+    "old_price": "£16.19",
+    "extracted_old_price": 16.19
+   },
+   {
+    "position": 2,
+    "asin": "B071VDS6L2",
+    "title": "Outsunny 45L Garden Planter with Trellis, Orange | Raised Bed for Climbing Plants, Vines, Flowers, Outdoor Planter Box for Patio",
+    "link": "https://aax-eu-zaz.amazon.co.uk/x/c/JCrsb38tujmfWtbFccfiZ5gAAAGg8fMr2goAAAH2AQBvbm9fdHhuX2JpZDMgICBvbm9fdHhuX2ltcDEgICC5N0R4/clv1c_ek-IxYHXFcbWDQPYak_rvWPkkBKfGldctrYFuA_jHcuqAZdOqG0SW74HcIqNYhoSv0QbPWty-xVYwhlzxT6yJ7_ZKhfZC-J1YRj3jOTpvEA3hxMnJrU0EIQiZ3l2rj6ZBx6cGlrx6mIMZmL9Vi04XJCfoMSEVlXtndr57W_yjCcdU2gnKqCc_NAH8yScx0ELgiz5fVDWngXew7Alu2CAMtrOSIh_RAhgJTaDfQ9hs4zFSqdylX9TnrFkIbaweYFA1kSSKzfnQrXLlHDJBtgLMBLJQCBVMBeaF8JNYoUDCN7Ho690l0V9m3LZ4iXm-1WxoQ9woowWuf78YGnvUqCL8MdmPOUwXUeaDkOVDrZQuQOu531qAs8UOcna2jd4yuhAAFO2hJJSWlRVZTHLT67jABjpXmkKSwTUu9Nq5ImzSDzs3rxhGWU2G6H4-VsgXZy7SI4XWgwkiCXjP_3gH1wVKtrKq84zAW4_ew6BH1ztH9b12Df4FxEkBoHSLQhchz0JcAqG6Utm2JSSSv6eIQevV269Vfo_Ihh2yDQu10lh2utjC2Y6eh39pEifRGSGABd6TjCsxjGyFYv19Z424lcnIOrgl3RFyAOXqtl-c7af3nkjwY9obygeS65F5FeiZHm0WlZmZoy6jsix03AR2Gunf9ByOYzZkoNuzIenH-XO_sxRZNrcbvYINTcBJ2ID4RCELsOmwlx4LB9mE85VGoZJ9k3J4G8uinZA2WF98RA3hQ1ccZJ7ZE7ULpupQDl9yiZNt3Qas9IsVlaV_5LqMWsFOK1GPGpMEBh8jKfr_m_Kp7NZJjLV0e70zVYL377bdds6fKuHxJwyWA-czKe8KM8Ui59obj8yeQ4DwWSHfYIHlOU-PCEcZF6-OojNnQqQzTpjmHD4PijRTNFdbxQNUS5Q-AxeFcfDf7kJfdd23I98NwgcInaYWuGtpuLOM6hEdxstoXjUdMIWPPisc1eca164zImvS6CGDfW7SltY8Q21o0QMoFcOZPa4SmHErsiOQ1rDDsQLHF3i3KkK-6ibPW--JNU0c-hoizLzuwMMVwdZCgL9q4JQnyCK2iDnJGFSjlRJUux2TzFSRI5s7AwRmKzMCxhMFeptAWAtC0-7R0Be1SNE35V9JZN1wG1QAc2yQOK7j2mepatiLYnKSQ556pMGxk-BbHi1NiusTJf5at30QfeGb3DVkvJje-CkKP5nnCoo6lee5ZnEvzpI0rMTnzbdNVl2GC0oraPHnBj2QartS1hAgjjm_eAKEpQMIdEd07Ntls3b2vYwV1j7gBNzImzaM3nvprv6OEAy5afiaHQteIhjsufAkYBRf5t2j5c4s6lgmHF94KhUUMQWNVWO2PhS3v9VmA56e6vpLBVMtKZeLFSa0mMRIH0lMoTTfJzKPC7qBl7NXO4bx_4ZZS2JPQZh8vUsgSERHco9TKac2ZpB3_B9/https://www.amazon.co.uk/dp/B071VDS6L2/?_encoding=UTF8&aref=rPrTcRPiLS&pd_rd_i=B071VDS6L2&pd_rd_i=B071VDS6L2&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=C6Bgu&content-id=amzn1.sym.fa3ea19a-f924-4ac4-867b-bbb541898b0c&pf_rd_p=fa3ea19a-f924-4ac4-867b-bbb541898b0c&pf_rd_r=AB75XYV7R194K9Y791YG&pd_rd_wg=DSNmp&pd_rd_r=f9bf3921-573b-4c58-bb63-d95d485f289d",
+    "link_clean": "https://www.amazon.co.uk/dp/B071VDS6L2/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B071VDS6L2&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/51Qdrn4LgLL._AC_SR100,100_QL65_.jpg",
+    "video": {
+     "link": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/87966a33-a4d7-4484-923d-84b90126014d.mp4/productVideoOptimized.mp4",
+     "thumbnail": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/87966a33-a4d7-4484-923d-84b90126014d.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+    },
+    "rating": 4.4,
+    "reviews": 468,
+    "price": "£31.99",
+    "extracted_price": 31.99
+   },
+   {
+    "position": 3,
+    "asin": "B0F9YB5P94",
+    "title": "Oncpcare Lotus Pot Planter – Glazed Ceramic Indoor Plant Bowl Lotus Pot for Bonsai, Succulents | Shallow Hydroponic Decorative Oriental Flower Bowl (Green)",
+    "link": "https://aax-eu-zaz.amazon.co.uk/x/c/JPwFB4JeM33m9MUbHY5K1JkAAAGg8fMr2goAAAH2AQBvbm9fdHhuX2JpZDMgICBvbm9fdHhuX2ltcDEgICClBnu5/clv1c_ek-IBYf3Fbba5nIjMEZR34IogRCZNNM5lw3ajkPKldArxVZQYGJoAXYZ0WBzpXu5LlL-K7sd-fO95S0legn59wfjhfBpke-Azypy_NmFzAguV3HJxSlPOmjgYjvyoA-BTrO2JlwgbSBbrmBWeMxCv8BapsGw7qWiAgQwziWz_N4v-Bj0GvJPjtjYUGHa7mYYFcF__k1TJ9coB0V_Mi3peMyZ2r5XXJJUPonpk4sV9XJJbr6CLJHZyXzwFXOlUZijlsSQy7JL_Cf9rR345vvYcr5PvEv2uehDbx6iWFK22MiomwudI0LpK2ai66aB8PAKGd_y50uMvFwjVkaTzHyb0wgqkQvNPX8i2kFU9defYyul7XQAHhthaiHxhc_2EbHp9b4XBW9WAoSu3H1rwBiUq9prmX-_FMulee6FF0C1UQU62Nc1sM-FH60ErS2Zjel0wngQjBEu-AeunoziTfNijujF7DRBr7LquBjCvS1kb7Iy7CD8gG7OGw0kM3EmKOc1cQJvTa0-z9STVtNKgQdx9ukGxlpQy9kK51xYkTFRFBN0X4ZnEYr7WDadQwtsDArchzZW0-1wCU_SzlZsWDcBo3MtcLyrnkZBHxXsM0-EH10nl1WL31hfT_ziOg5Fa_zd3R93WauVIPjx_Qn7_D6wMyHdvZYAeQIoVLUBU7s8ZmPWD8ELk1ISTLBDj-rLlzzJEdsQ9zxjCJgONbXsvWfq0W8XbFIPrj1MX1B-pYbh_KxrtRqjeM5pTTuaW-pYSD4bvo2lCNXALATzwMH7RBT1zremR96OpnNC2dW7pkiENzTBm2MBd-iR-MIYsvzJZhWTVnoSjAadfnTxzNwnRq-f8SWLaYuzjXxh260Ifmbx_tYhnYINvd1r92qUWY6aPenqUuL3l3mBtYUvanbMgNQVh9c_4RP2EHP4_wLtzNO-NBEeF1L6kly1YJNzs8P8Aym1MNbexi_CYWGzqzmH29Un0l4pypCBTfU5qXtc8Wy7XXTJoFcuKM0i9TVzs7-DQHrL9ineZZMwb1WLF-6xTQ9yZCXmiONMu6j4lLU0eITW8XbWvn-F7zgO8zjnJM20rcmcr5xyDWvzd_qjcIsTvf3i_V8a2biZFJfbi03p4ypmxdIfsU9ihGODKN1GjmGXMWZrLR2bGJzkWz2j5U1uoIoOM1_jqb8Asg4sQT46x5dD4ngMkHKC2eEhoedUdmJCz_R2Nh3KwNEU0zfyzQvnbgjAls5P67KPin1DKCM2_XXn946JCgfh3CdHoP-tFZHhIpAjQootscD5pbuaukaZhadiDnRrHTFosnQ73aZLxBrJYPhjZJS0dNsIiJmhnkzhCZx_1BGn0g4w-lBVIehSRWebUpbD6wiT6xXT4-TXzn3NflZlQDbih9E4pWKV_0RzCTAj0vhD4nZebvFv1B11wxRgJ7oU1Jbi-BjsN4HhxGYS5w/https://www.amazon.co.uk/dp/B0F9YB5P94/?_encoding=UTF8&aref=86dWB5Hvom&pd_rd_i=B0F9YB5P94&pd_rd_i=B0F9YB5P94&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=C6Bgu&content-id=amzn1.sym.fa3ea19a-f924-4ac4-867b-bbb541898b0c&pf_rd_p=fa3ea19a-f924-4ac4-867b-bbb541898b0c&pf_rd_r=AB75XYV7R194K9Y791YG&pd_rd_wg=DSNmp&pd_rd_r=f9bf3921-573b-4c58-bb63-d95d485f289d",
+    "link_clean": "https://www.amazon.co.uk/dp/B0F9YB5P94/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0F9YB5P94&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/41AZAt4DSEL._AC_SR100,100_QL65_.jpg",
+    "video": {
+     "link": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/2a0b3d6d-5baa-41f0-93ac-46ee21ec8511.mp4/productVideoOptimized.mp4",
+     "thumbnail": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/2a0b3d6d-5baa-41f0-93ac-46ee21ec8511.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+    },
+    "rating": 4.3,
+    "reviews": 213,
+    "price": "£20.99",
+    "extracted_price": 20.99
+   },
+   {
+    "position": 4,
+    "asin": "B0CJXZZ9WX",
+    "title": "vensovo 30.4 CM Galvanized Metal Vases for Flowers - 6 Pcs Farmhouse Decorative Tall Flower Bucket with Handles, Rustic French Tin Planter Buckets for Wedding Decor (Silver)",
+    "link": "https://aax-eu-zaz.amazon.co.uk/x/c/JHe7CDPfM_yC_437NBRIZPkAAAGg8fMr2woAAAH2AQBvbm9fdHhuX2JpZDMgICBvbm9fdHhuX2ltcDEgICDryZvA/clv1c_ek-wBfGXVcba5nIqpR0Qfw-ucU1C75d5sOd0uvq2yr0ruKtFv--v2AoRCy5MTJG8nLnXHq7rUtyMJFecvjDwfprg5Uve9DZeF7GmN07X2lVXqf9iwJ_lFWw6ZP8JdNvfD_uDONxfwc93ILKgLAdl9PQbIF-b2dbuhMoQRzdrTo_C3MdJG8W_AWY4Ph4ovyE8-WqS6vs7v8btluH5IWULWGiXnv5dMNkfiCKo4bONaZ8zEdymkvZ0IhstJZHPynMUoTPdT-MVxH017sIB_KWEn7mpq8gi6a7a_UtNCrxzbj0qcil-JLiYxK0RnzphMgK-ulFpt91dzI-hCu6w4Iws23nNfZqxjjEXL5F9X-Wn3tdxO2-gen_wmKZTcE_7JW5XmTJ2TPpmlqHRVpYFhUIWquWejN2bnY3P3VNLklEco75gjkZF3DGsXlQQi6hWhoaTtUbv2eIqbBm15-a577QV1pl3TesNtUJLru8NzzUfe7jB7OLF6kymNLBwMBhB7wdSxHXrDDMaNxa-Fl4E8PXdmbOf_kuvx_Iyd4PqGblPwQoJMuJMfO6ihnt2P4bhHVKaWuJJWPPUYQsQOfpXmrravznciFPvXEHdlorP2c_3sbhJ0CKVS6lH_Pug8DSRY-tX3W4rxwfE1WeHvKZV861L_GoId5O6C5TxnrWPeB61uZPazjNLaiWyba8YEbAADpUwUOPJkER5XThUDVRORDOqvJilKOLZB-1tuQtGLoyPhcQFO7l_AtmBQVj7SqO4K5fXkYjutweOVsVtp-bgXo6kTiPo0MqJYa1-tZCHBuWnpOk9QOt2KV2LToI-Pi3Pt0KEL2fwqW5GtlzCTIrgaWFsvYH9nEWMylXMAfTRaMljdBg9Lgr8tzkTWAeGPejeckfPrCNS3a_EmYs8Zb-6CROQ5eDTgcJzMyNv-c-PLvUeZHJ4Ml6PuD-MAI4ax3yR1xRFR7FkctjLXdCmHwtkh9uhC6kaQTaInQ2kxQ5ZOF753zu4wFLlLt7vE3zmTD0aSa3iRh0zvKb8nPfaJCHiESCasyGW_NGABJjV_lhpTGycl3OQKOw-oK-eeSFitNuwOBIGKcbpEzq4TFkwRfbPg615pGBSiX69zEA8YZ2tdzW_ID8zSzcTuDWZBHMboLejwQxDYuhWzDB5Qq9zGnjsL9vTrIi1VHHPP8F1DTqWNyctcdGOJS2_eIUgrOfTYGKjVnHUys5xFp35_ZO8g_rPbxKB6bpioUXu7-pzvPVx1KhVQ22RDuR-znSkzDbF9kABPO5y57P86Gv9__JzykW1Sb5Uj-F4RHQUZ7H_35NEVeiXwvf6ZTmparp9xG-MIXKgtJNdvG3Z2pA3aL7lKxvbDi4_aeNE-UmgRVmptsZw_jWLIUWAIby5rANTTy5tkMUk2ACUsJ9NziksKgG1vOd7C9RWxXSKo04cIvEiouiWkGNcz4h2ufdzsqJe-9yI1V4/https://www.amazon.co.uk/dp/B0CJXZZ9WX/?_encoding=UTF8&aref=qAJEnBPXFw&pd_rd_i=B0CJXZZ9WX&pd_rd_i=B0CJXZZ9WX&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=C6Bgu&content-id=amzn1.sym.fa3ea19a-f924-4ac4-867b-bbb541898b0c&pf_rd_p=fa3ea19a-f924-4ac4-867b-bbb541898b0c&pf_rd_r=AB75XYV7R194K9Y791YG&pd_rd_wg=DSNmp&pd_rd_r=f9bf3921-573b-4c58-bb63-d95d485f289d",
+    "link_clean": "https://www.amazon.co.uk/dp/B0CJXZZ9WX/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B0CJXZZ9WX&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/416YC4itFjL._AC_SR100,100_QL65_.jpg",
+    "video": {
+     "link": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/ffea6814-1662-4723-bb46-df85c38c5e42.mp4/productVideoOptimized.mp4",
+     "thumbnail": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/ffea6814-1662-4723-bb46-df85c38c5e42.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+    },
+    "rating": 4.6,
+    "reviews": 85,
+    "price": "£39.99",
+    "extracted_price": 39.99,
+    "old_price": "£42.99",
+    "extracted_old_price": 42.99
+   },
+   {
+    "position": 5,
+    "asin": "B09TBJLV63",
+    "title": "SG Traders Large Urn Plant Pot Stand, Flower Pots Outdoor Garden Planters, Indoor Plant Pot, Tall Planter with Drainage Holes Strong Plastic Black with Gold Outdoor Large Planters Urns D43 x H49cm",
+    "link": "https://aax-eu-zaz.amazon.co.uk/x/c/JEvf4OYkIR-xiG3OrZJwPckAAAGg8fMr2woAAAH2AQBvbm9fdHhuX2JpZDMgICBvbm9fdHhuX2ltcDEgICBlB-e2/clv1c_ek-YBfHXUsbWBg2qFvQgzqs9f4kGX7PUsl_0LN322lZpYw_cFtMFGmwr5V3gpAnZR2FILrO90e6_bb_7lnxz8IU0f7JVXdhdCU1MhfNJpEAnSQnKryFfC8Km8pl0qmkrI1lcHFpxu-Yp-wOGo1D7tVJfqP9MFlfsjPj93W-SjCQcW2A7aqJsiuZPwqg86CjFNW0RrGb7Dgt4pUQ8EgrF7vy6l-07GM2Xh5rNgeD36bvAczkmQrRUC05vZuj49GebymSzm3dK2Lq13TLZtCDJZcI39D85or4KBlEzehLKWQM0y9ZYP4uhxG3fkHxE0puo-D1iEcpDIV4kJmQ_IaS7Ivj3-Dt9wn1QcqUjQ5LHddVv3t1Vq919uvzp_QdcoohIpT08jkSe8t-HVuIvO4B61yFH67PxCTPppku2TrKmy4SUPtEjdOYCrhqOcTsnH97edxeWCjMAdEpLGHzMiHcalS-lJU-zwpRSScTaUEpJ0NTR_LUVv4YRr5bNzSrnA8jlCs-N1YB3_3ooxuBbgWPixePjyhfQuohm9skPrI3YFTOeTNDCh-n3mNfVQT94DAjEn51YnFIVCqsdYyixSuvJ7ZL8wFQ9E8y9M9XTVK2e0Aw2vOOwjWJM516X2taXegn5lVtJh_d0haQzJ_RuuWClCeReUZWSJErH9b091CTBWNK_Tjb5Y32O2Txqr9_zHU5RwtR-xyaryed_IKXirJhrAU1H7mDonzJeFZqGgJ2fpog8PHLVfJOmskWlKCW_N9jY33usQdB0JeAf0Ksg2lXBPTzPt98aJRv2tgHuu4b2AF9kxVhWMEK_R09qH7IGcceGNg0BmOMS4eEoVyXWH6-C6ptC-mfvd7XDPv0O7WDBus2pLxP-1QYrvw1WaZ43j69flUHUjftiQMFqlwTBF01n_MZ3CMdB4Mk2k-pPAruEajUri2Cw2Bc0pU-6GsZJkG3b9PwnPRid72zFQQetrfl0cMP3TUcAMeyFR85b-oOitiVJp48VP4mQNMO4gFg34iuPMom59QjfgU6nBiitek1TQiAujs3tJcIfa0Xa_6ex1456o8TGw5Lf--XspABgbgpZBiKRF7Qiqco5gh4OP6ZhuXIrbol9WhTwMm1um4CR9NAmjyJSMpWCqGYF1WWfw2MgS1BmTlFQZ9LahMn7DKiPa3kxIYN7WcXq5Tp1dYrblz1b5gRhyjfY_fpr2LNIPW5njvDu7OsptAnxCUkh6q4l0H_xLKonrm75B_AfDesLPH9_t1SJWKPKO2_xs--2iOOrWLU0EM-TkU8FwxpuBaUKGL_LTTn4BJK4Cp_wJWipBMyu-tRVhEA3PwC0MLpDTua-sWtuScJ0Xf1_rw4wq0V-aScSMyryS8Hb0E5MasQzm8wnILgtdrVgi4ImH-Q3qZFJiIxzWf9hzInMuhH6cjnmANpK/https://www.amazon.co.uk/dp/B09TBJLV63/?_encoding=UTF8&aref=PC0Coq0Ehj&pd_rd_i=B09TBJLV63&pd_rd_i=B09TBJLV63&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=C6Bgu&content-id=amzn1.sym.fa3ea19a-f924-4ac4-867b-bbb541898b0c&pf_rd_p=fa3ea19a-f924-4ac4-867b-bbb541898b0c&pf_rd_r=AB75XYV7R194K9Y791YG&pd_rd_wg=DSNmp&pd_rd_r=f9bf3921-573b-4c58-bb63-d95d485f289d",
+    "link_clean": "https://www.amazon.co.uk/dp/B09TBJLV63/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.co.uk&asin=B09TBJLV63&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/51RNHCw6sfL._AC_SR100,100_QL65_.jpg",
+    "video": {
+     "link": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/2109d0e9-3d99-464e-a947-13835bf55be7.mp4/productVideoOptimized.mp4",
+     "thumbnail": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/2109d0e9-3d99-464e-a947-13835bf55be7.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+    },
+    "rating": 4.7,
+    "reviews": 591,
+    "price": "£23.99",
+    "extracted_price": 23.99
+   }
+  ],
+  "reviews_information": {
+   "summary": {
+    "text": "Customers find the planter's appearance appealing, with one noting how it highlights plants inside perfectly, and they appreciate its quality and value for money. The size receives mixed feedback - while some find it decent, others mention the base is not broad enough. Similarly, stability opinions are divided, with some finding it sturdy while others describe it as unstable.",
+    "insights": [
+     {
+      "title": "Appearance",
+      "sentiment": "positive",
+      "mentions": {
+       "total": 41,
+       "positive": 40,
+       "negative": 1
+      },
+      "summary": "Customers appreciate the planter's appearance, particularly its cool silver color, with one customer noting how it highlights the plant inside perfectly and another mentioning how it brightens up the room.",
+      "examples": [
+       {
+        "position": 1,
+        "snippet": "Beautiful! I absolutely love this plant pot and it looks fantastic. Exactly what I wanted but not overly \"in your face\"....",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R1LEMQY6M9JYSQ"
+       },
+       {
+        "position": 2,
+        "snippet": "Slightly larger than I expected, but very attractive and well made.",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R3FZEJCVESBYE7"
+       },
+       {
+        "position": 3,
+        "snippet": "This is absolutely gorgeous. Great size. Not heavy. Looks lovely with big plant in.",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R3CB4HOEY2UH32"
+       },
+       {
+        "position": 4,
+        "snippet": "Beautiful planter",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R1OOYVQ40IQLU1"
+       }
+      ]
+     },
+     {
+      "title": "Quality",
+      "sentiment": "positive",
+      "mentions": {
+       "total": 40,
+       "positive": 38,
+       "negative": 2
+      },
+      "summary": "Customers find the planter to be of excellent quality, describing it as an amazing plant pot.",
+      "examples": [
+       {
+        "position": 1,
+        "snippet": "Slightly larger than I expected, but very attractive and well made.",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R3FZEJCVESBYE7"
+       },
+       {
+        "position": 2,
+        "snippet": "Slightly larger than expected but good quality and a nice addition to my home",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R2GIFR9CF1ECFZ"
+       },
+       {
+        "position": 3,
+        "snippet": "Arrived promptly, bigger than than I expected, nice and sturdy",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R14UE5WE20ZG2E"
+       },
+       {
+        "position": 4,
+        "snippet": "Great product and good quality...",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R26QXN21SH48FZ"
+       }
+      ]
+     },
+     {
+      "title": "Value for money",
+      "sentiment": "positive",
+      "mentions": {
+       "total": 14,
+       "positive": 11,
+       "negative": 3
+      },
+      "summary": "Customers find the planter offers good value for money.",
+      "examples": [
+       {
+        "position": 1,
+        "snippet": "I am so pleased with this item. Great value and exactly the right colour. I have a philodendron in it and looks fab.",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R391KLTE3XOIBV"
+       },
+       {
+        "position": 2,
+        "snippet": "...I absolutely love it. Great price too .",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R1NB5MBW3XNSI2"
+       },
+       {
+        "position": 3,
+        "snippet": "...planter that I was originally going to get, but it is definitely worth the money.",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R3AOH6RGZYNNS1"
+       },
+       {
+        "position": 4,
+        "snippet": "...In my opinion it’s too expensive for what it is.",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R2MHAII4NVVMHX"
+       }
+      ]
+     },
+     {
+      "title": "Size",
+      "sentiment": "mixed",
+      "mentions": {
+       "total": 14,
+       "positive": 9,
+       "negative": 5
+      },
+      "summary": "Customers have mixed opinions about the planter's size, with some finding it decent and slightly larger than expected, while others note that the base is not broad enough.",
+      "examples": [
+       {
+        "position": 1,
+        "snippet": "Lovely big planter that is perfect for my dining room and highlights the plant inside perfectly!",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/RY1CNNPXJMZZK"
+       },
+       {
+        "position": 2,
+        "snippet": "Base not broad enough which makes it unstable!",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R1RZOPL9IJN6U2"
+       },
+       {
+        "position": 3,
+        "snippet": "Just the planter size I needed. Looks as good as new.",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R1N0K8ZPIRJZ9Y"
+       },
+       {
+        "position": 4,
+        "snippet": "...But it doesn't have a drainage hold. Overall a good size and value for for your money.",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R3I4LQOX3H6Z1P"
+       }
+      ]
+     },
+     {
+      "title": "Stability",
+      "sentiment": "mixed",
+      "mentions": {
+       "total": 7,
+       "positive": 4,
+       "negative": 3
+      },
+      "summary": "Customers have mixed opinions about the planter's stability, with some finding it sturdy while others describe it as unstable.",
+      "examples": [
+       {
+        "position": 1,
+        "snippet": "...I think my peace lily will fare better against the puppy now it's sturdy and stable in a planter with some weight to it!...",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R3AOH6RGZYNNS1"
+       },
+       {
+        "position": 2,
+        "snippet": "Base not broad enough which makes it unstable!",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R1RZOPL9IJN6U2"
+       },
+       {
+        "position": 3,
+        "snippet": "Great look and very sturdy.",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R1SU1QD9NYU4O8"
+       },
+       {
+        "position": 4,
+        "snippet": "Not particularly happy with this. Poor quality, flimsy.",
+        "link": "https://www.amazon.co.uk/portal/customer-reviews/srp/-/R2XI84NMHUMTE9"
+       }
+      ]
+     }
+    ],
+    "images": [
+     "https://m.media-amazon.com/images/I/813UVgFtlKL.jpg",
+     "https://m.media-amazon.com/images/I/61Lb2u8+LBL.jpg",
+     "https://m.media-amazon.com/images/I/61j3TkAfeQL.jpg",
+     "https://m.media-amazon.com/images/I/71FqPpC9agL.jpg",
+     "https://m.media-amazon.com/images/I/61OBczKYAoL.jpg",
+     "https://m.media-amazon.com/images/I/61+K5k4PQIL.jpg",
+     "https://m.media-amazon.com/images/I/71fXgSOKLLL.jpg",
+     "https://m.media-amazon.com/images/I/D1Y73G4L2jS.jpg",
+     "https://m.media-amazon.com/images/I/71LavHFxQDL.jpg",
+     "https://m.media-amazon.com/images/I/61C3nApeFXL.jpg",
+     "https://m.media-amazon.com/images/I/71rZGgT3n0L.jpg",
+     "https://m.media-amazon.com/images/I/81YnkhHGS6L.jpg"
+    ],
+    "customer_reviews": {
+     "5 star": 78,
+     "4 star": 13,
+     "3 star": 1,
+     "2 star": 4,
+     "1 star": 4
+    }
+   },
+   "authors_reviews": [
+    {
+     "position": 1,
+     "title": "Nice pot",
+     "text": "This is absolutely gorgeous. Great size. Not heavy. Looks lovely with big plant in.",
+     "rating": 5.0,
+     "date": "2 August 2026",
+     "author": "David M.",
+     "author_link": "https://www.amazon.co.uk/gp/profile/amzn1.account.AET65XKQUXVWH4RPJV53MBXGPGHA?ref=cm_cr_dp_d_bdcrb_top",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+     "verified_purchase": true,
+     "product": {
+      "size_name": "32cm x 20cm",
+      "colour_name": "Gold"
+     }
+    },
+    {
+     "position": 2,
+     "title": "Beautiful, even nicer than the photos!",
+     "text": "Absolutely beautiful, measurements precise - my plant pot fitted perfectly inside. It's a decent size, and I think it's nicer looking than in the photos - both size and the copper colour. I think my peace lily will fare better against the puppy now it's sturdy and stable in a planter with some weight to it!It was well packaged in bubble wrap and a box - would actually make a lovely present. No drainage holes, which is perfect as my plant is already in a pot. It's twice the price of the planter that I was originally going to get, but it is definitely worth the money.",
+     "rating": 5.0,
+     "date": "4 March 2026",
+     "author": "Libby",
+     "author_link": "https://www.amazon.co.uk/gp/profile/amzn1.account.AHR7HYD5W2EG6KXCDZ3WOSMCHHUA?ref=cm_cr_dp_d_bdcrb_top",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+     "images": [
+      "https://m.media-amazon.com/images/I/813UVgFtlKL.jpg"
+     ],
+     "helpful_votes": "One person found this helpful",
+     "verified_purchase": true,
+     "product": {
+      "size_name": "22cm x 18cm",
+      "colour_name": "Copper"
+     }
+    },
+    {
+     "position": 3,
+     "title": "Looks nice",
+     "text": "Lovely pit looks like real copper",
+     "rating": 5.0,
+     "date": "4 May 2026",
+     "author": "Megan",
+     "author_link": "https://www.amazon.co.uk/gp/profile/amzn1.account.AEIJC27EMX6C5YERQL6LDXF4VIOA?ref=cm_cr_dp_d_bdcrb_top",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+     "verified_purchase": true,
+     "product": {
+      "size_name": "22cm x 18cm",
+      "colour_name": "Copper"
+     }
+    },
+    {
+     "position": 4,
+     "title": "Great looking product 👌",
+     "text": "Great product and good quality...",
+     "rating": 4.0,
+     "date": "3 October 2022",
+     "author": "D.A.",
+     "author_link": "https://www.amazon.co.uk/gp/profile/amzn1.account.AHB4HLD2CL7ZN4VCTGEGE3GOZROQ?ref=cm_cr_dp_d_bdcrb_top",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+     "helpful_votes": "One person found this helpful",
+     "verified_purchase": true,
+     "product": {
+      "size_name": "22cm x 18cm",
+      "colour_name": "Silver"
+     }
+    },
+    {
+     "position": 5,
+     "title": "Stunningly gorgeous in real life.",
+     "text": "This pot is absolutely gorgeous. The pictures do not do it justice at all. I was excited to receive it and when it arrived it was much higher quality than I thought it would be, it feels like it's worth twice the price, my only gripe is that it doesn't have any drainage, so just something to keep in mind, depending on the plant your housing in it. I love it so much I'm grabbing another one but in silver, I think they are an awesome bargain.",
+     "rating": 5.0,
+     "date": "27 July 2025",
+     "author": "S H Zamnoy",
+     "author_link": "https://www.amazon.co.uk/gp/profile/amzn1.account.AEFNJHN66MFG42OBTHUFCL3MQQLQ?ref=cm_cr_dp_d_bdcrb_top",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+     "helpful_votes": "One person found this helpful",
+     "verified_purchase": true,
+     "product": {
+      "size_name": "22cm x 18cm",
+      "colour_name": "Copper"
+     }
+    },
+    {
+     "position": 6,
+     "title": "Beautiful 😍",
+     "text": "Beautiful!I absolutely love this plant pot and it looks fantastic. Exactly what I wanted but not overly \"in your face\".The size is good but the bottom of thepot goes in,so be mindful of that when choosing it for your plant. Quality is great and it was cheaper than I saw a similar pot anywhere else!",
+     "rating": 5.0,
+     "date": "28 May 2025",
+     "author": "Kasia",
+     "author_link": "https://www.amazon.co.uk/gp/profile/amzn1.account.AFN3MO6UR4Z5MPZ5T7AWIR7UISSA?ref=cm_cr_dp_d_bdcrb_top",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+     "images": [
+      "https://m.media-amazon.com/images/I/61Lb2u8+LBL.jpg"
+     ],
+     "video": {
+      "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/647f323b-4ca0-4ece-b062-8468811e7b8f/default.vertical.jobtemplate.hls.m3u8",
+      "thumbnail": "https://m.media-amazon.com/images/I/61C+aMhtsuL._SY500_.jpg"
+     },
+     "helpful_votes": "3 people found this helpful",
+     "verified_purchase": true,
+     "product": {
+      "size_name": "22cm x 18cm",
+      "colour_name": "Gold"
+     }
+    },
+    {
+     "position": 7,
+     "title": "A lovely pot which stands out nicely",
+     "text": "The silver pot is very strong and sturdy. It has a good weight which is not to bad once the compost is in it. I love the cool colour of the silver it blends nicely in my living room. You can easily add and kind of plant to the pot. But it doesn't have a drainage hold. Overall a good size and value for for your money.",
+     "rating": 5.0,
+     "date": "14 January 2025",
+     "author": "Kazza",
+     "author_link": "https://www.amazon.co.uk/gp/profile/amzn1.account.AHKNDMRIVGTIJ6VPOTQWYJPI6HUQ?ref=cm_cr_dp_d_bdcrb_top",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+     "images": [
+      "https://m.media-amazon.com/images/I/61j3TkAfeQL.jpg",
+      "https://m.media-amazon.com/images/I/61OBczKYAoL.jpg",
+      "https://m.media-amazon.com/images/I/61+K5k4PQIL.jpg"
+     ],
+     "helpful_votes": "One person found this helpful",
+     "verified_purchase": true,
+     "product": {
+      "size_name": "22cm x 18cm",
+      "colour_name": "Silver"
+     }
+    },
+    {
+     "position": 8,
+     "title": "Copper plant pot holder",
+     "text": "Arrived promptly, bigger than than I expected, nice and sturdy",
+     "rating": 5.0,
+     "date": "6 January 2026",
+     "author": "KVG",
+     "author_link": "https://www.amazon.co.uk/gp/profile/amzn1.account.AFAPO6ZYOHCSJETZO43M3UOVYG3Q?ref=cm_cr_dp_d_bdcrb_top",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+     "verified_purchase": true,
+     "product": {
+      "size_name": "22cm x 18cm",
+      "colour_name": "Copper"
+     }
+    }
+   ],
+   "other_countries_reviews": [
+    {
+     "position": 1,
+     "title": "Tolles Dekostück",
+     "text": "Super",
+     "rating": 5.0,
+     "date": "10 February 2026",
+     "author": "Harald Pabst",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+     "verified_purchase": true,
+     "product": {
+      "size_name": "32cm x 20cm",
+      "colour_name": "Silver"
+     },
+     "country": {
+      "code": "DE",
+      "name": "Germany"
+     },
+     "language": {
+      "code": "en",
+      "name": "English"
+     }
+    },
+    {
+     "position": 2,
+     "title": "Eccezionale!",
+     "text": "Prodotto eccezionale come da descrizione, fa una gran bella figura!",
+     "rating": 5.0,
+     "date": "6 January 2024",
+     "author": "Fabiana",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+     "verified_purchase": true,
+     "product": {
+      "size_name": "32cm x 20cm",
+      "colour_name": "Gold"
+     },
+     "country": {
+      "code": "IT",
+      "name": "Italy"
+     },
+     "language": {
+      "code": "it",
+      "name": "Italian (Italy)"
+     }
+    },
+    {
+     "position": 3,
+     "title": "Du plus bel effet",
+     "text": "Magnifique Pot pour plante",
+     "rating": 5.0,
+     "date": "28 April 2025",
+     "author": "Nathalie",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+     "verified_purchase": true,
+     "product": {
+      "size_name": "32cm x 20cm",
+      "colour_name": "Gold"
+     },
+     "country": {
+      "code": "FR",
+      "name": "France"
+     },
+     "language": {
+      "code": "fr",
+      "name": "French (France)"
+     }
+    },
+    {
+     "position": 4,
+     "title": "Gorgeous!",
+     "text": "This planter is exactly what I was looking for!",
+     "rating": 5.0,
+     "date": "27 February 2020",
+     "author": "BeachBabe1217",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+     "verified_purchase": true,
+     "product": {
+      "size_name": "22cm x 18cm",
+      "colour_name": "Copper"
+     },
+     "country": {
+      "code": "US",
+      "name": "United States"
+     },
+     "language": {
+      "code": "en",
+      "name": "English (United States)"
+     }
+    },
+    {
+     "position": 5,
+     "title": "regalo perfecto",
+     "text": "Se lo regale a mis padres para un tiesto en el salon y perfecto! sigue como el primer dia y se ve estupendo",
+     "rating": 5.0,
+     "date": "7 February 2025",
+     "author": "Javier",
+     "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+     "images": [
+      "https://m.media-amazon.com/images/I/71W4S2YY+qL.jpg"
+     ],
+     "verified_purchase": true,
+     "product": {
+      "size_name": "22cm x 18cm",
+      "colour_name": "Gold"
+     },
+     "country": {
+      "code": "ES",
+      "name": "Spain"
+     },
+     "language": {
+      "code": "es",
+      "name": "Spanish (Spain)"
+     }
+    }
+   ]
+  }
+ }
+}

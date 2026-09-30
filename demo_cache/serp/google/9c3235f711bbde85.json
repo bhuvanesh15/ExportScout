@@ -1,0 +1,444 @@
+{
+ "engine": "google",
+ "params": {
+  "q": "Ivyline UK",
+  "gl": "uk",
+  "hl": "en",
+  "google_domain": "google.co.uk"
+ },
+ "fetched_at": "2026-09-30T10:56:06+00:00",
+ "data": {
+  "search_metadata": {
+   "id": "6abceac57223f4284b1143dc",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/OYwBASk1C6hNuUgzdYcSZ1upJSCpbZ-JJR2z5Ue69Z0/6abceac57223f4284b1143dc.json",
+   "markdown_endpoint": "https://serpapi.com/searches/OYwBASk1C6hNuUgzdYcSZ1upJSCpbZ-JJR2z5Ue69Z0/6abceac57223f4284b1143dc.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/OYwBASk1C6hNuUgzdYcSZ1upJSCpbZ-JJR2z5Ue69Z0/6abceac57223f4284b1143dc.json_with_pixel_position",
+   "created_at": "2026-09-30 10:56:05 UTC",
+   "processed_at": "2026-09-30 10:56:05 UTC",
+   "google_url": "https://www.google.co.uk/search?q=Ivyline+UK&oq=Ivyline+UK&hl=en&gl=uk&sourceid=chrome&ie=UTF-8",
+   "raw_html_file": "https://serpapi.com/searches/OYwBASk1C6hNuUgzdYcSZ1upJSCpbZ-JJR2z5Ue69Z0/6abceac57223f4284b1143dc.html",
+   "total_time_taken": 0.41
+  },
+  "search_parameters": {
+   "engine": "google",
+   "q": "Ivyline UK",
+   "google_domain": "google.co.uk",
+   "hl": "en",
+   "gl": "uk",
+   "device": "desktop"
+  },
+  "search_information": {
+   "query_displayed": "Ivyline UK",
+   "total_results": 36300,
+   "time_taken_displayed": 0.18,
+   "organic_results_state": "Results for exact spelling"
+  },
+  "ai_overview": {
+   "page_token": "oMwF7XiczVbvcqo4FH-AfY7ly7byT1vtDHMnCWCjrYiWbb1fGASMKIo1KrLfdvZV9qn2aTaAKLZi594PO3sUYpJzTs5Jzi8___w7DJbzf375a7rZrOgDz8dxXCNRREK_5ka17Zx3aLJ0-UkU0rU7_UZCZTvnpqHiL7lkp8icSxWB8wNl7783Hdq12g20bfSivtR5u00A5jJzxR471J8x__sZ5W2evea_yirr1GjNX9ptWBNWSHZmo9G9EdckQZJrBu8smA74D8XUAAaQtXlTJQgA7WtnqYoJUOqrEIJOU7moub90TZINdCuXxKkVZB8MMtV-fd-YUubCKpSG1RGb7DUqOnHWQJivOEyDIl_ncxAIDlsDzWNolYIvD-eWqLTo6NPsJW_P5_0IQLUOTBMWIXw4lWE5K6ilWaYabDNu1T2AcVCx2QcD9n0Bj_PoeopZIAg3i-0AOmWHinmPsOIV-PGaNSIfuFM3-7GmaU2jl5YQ6U0jIru3ePgaGwu1hfYuelzp27tk92Ly7pjphZHj-Z49tYVvWV-UxIbQku-bNxmeXHoEFC0DyogGce9dbNFnrfZUg2IBJXQ8kA8JaayPLp0V21l0ySATUsJByThA5WoqipOV9xwzNRyXHGi4n7btYsBgBwqgOy2HVuiCHJblxT8pHaCUFRbOW3wyP6pY-OSIlKfU-ecsP90DCIE4L1dTzfYFkiIA88M2ITDEbK4YhecoMyEIplqaFhyyfGim5p7qPwKaoA1wydshnrTgtcOS1jHF3AyXoIRYfaOs4nupzhyROcQsWAhyI5KBIl-LYHB2ilrFFYdYjtCqhOhVIVX3wZngAjMfIHAGHY8YdX1n9RrdlUSHs35fVFdqfZf0NHIZKtFi_GPk4_6_8FRQk3Wgpmo8aV_jKb0Kr1FT9jpR0zDHU7caTxo-URMpUZNQKJ2o6SOe0LCEJ5SkGgTql6npR_GEruAJX8NTmuklPJlVeMqo6QxPHUZNozI1neHpSE0Fnn6OmvDPUVMGLz9vznlqOyOVfKURpznRPeMOSDO73Ta64eY2SbzeWALkS76aLDYPC8cLb-zAe4BSZ5N4NzYbiB58j3tX8C5h_0P936wutwjXkSI49e53ZLVsu2c4U32hxbGvxp2B-BR-j2Xr1Rokf0TmTMYvwisQ12_tJ8vR3yeSqd_LlvMke87v3cSf9OGgtb2TAunN3nr6IHicL4w41u5un_eeazVUpCduMpCaIQh82WkPGrtgshon5sxYqcIKkMFLnMVDlY5nvfenathbPnMsbOorIrdYuwrb_zoBPRO8ElZraMQ4gLAnYk_MnjsGXMhR17F9ulM8wZWb9y1XdsaO6N5L3IJskpVSFzm6XCviv7FSQGA",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=oMwF7XiczVbvcqo4FH-AfY7ly7byT1vtDHMnCWCjrYiWbb1fGASMKIo1KrLfdvZV9qn2aTaAKLZi594PO3sUYpJzTs5Jzi8___w7DJbzf375a7rZrOgDz8dxXCNRREK_5ka17Zx3aLJ0-UkU0rU7_UZCZTvnpqHiL7lkp8icSxWB8wNl7783Hdq12g20bfSivtR5u00A5jJzxR471J8x__sZ5W2evea_yirr1GjNX9ptWBNWSHZmo9G9EdckQZJrBu8smA74D8XUAAaQtXlTJQgA7WtnqYoJUOqrEIJOU7moub90TZINdCuXxKkVZB8MMtV-fd-YUubCKpSG1RGb7DUqOnHWQJivOEyDIl_ncxAIDlsDzWNolYIvD-eWqLTo6NPsJW_P5_0IQLUOTBMWIXw4lWE5K6ilWaYabDNu1T2AcVCx2QcD9n0Bj_PoeopZIAg3i-0AOmWHinmPsOIV-PGaNSIfuFM3-7GmaU2jl5YQ6U0jIru3ePgaGwu1hfYuelzp27tk92Ly7pjphZHj-Z49tYVvWV-UxIbQku-bNxmeXHoEFC0DyogGce9dbNFnrfZUg2IBJXQ8kA8JaayPLp0V21l0ySATUsJByThA5WoqipOV9xwzNRyXHGi4n7btYsBgBwqgOy2HVuiCHJblxT8pHaCUFRbOW3wyP6pY-OSIlKfU-ecsP90DCIE4L1dTzfYFkiIA88M2ITDEbK4YhecoMyEIplqaFhyyfGim5p7qPwKaoA1wydshnrTgtcOS1jHF3AyXoIRYfaOs4nupzhyROcQsWAhyI5KBIl-LYHB2ilrFFYdYjtCqhOhVIVX3wZngAjMfIHAGHY8YdX1n9RrdlUSHs35fVFdqfZf0NHIZKtFi_GPk4_6_8FRQk3Wgpmo8aV_jKb0Kr1FT9jpR0zDHU7caTxo-URMpUZNQKJ2o6SOe0LCEJ5SkGgTql6npR_GEruAJX8NTmuklPJlVeMqo6QxPHUZNozI1neHpSE0Fnn6OmvDPUVMGLz9vznlqOyOVfKURpznRPeMOSDO73Ta64eY2SbzeWALkS76aLDYPC8cLb-zAe4BSZ5N4NzYbiB58j3tX8C5h_0P936wutwjXkSI49e53ZLVsu2c4U32hxbGvxp2B-BR-j2Xr1Rokf0TmTMYvwisQ12_tJ8vR3yeSqd_LlvMke87v3cSf9OGgtb2TAunN3nr6IHicL4w41u5un_eeazVUpCduMpCaIQh82WkPGrtgshon5sxYqcIKkMFLnMVDlY5nvfenathbPnMsbOorIrdYuwrb_zoBPRO8ElZraMQ4gLAnYk_MnjsGXMhR17F9ulM8wZWb9y1XdsaO6N5L3IJskpVSFzm6XCviv7FSQGA"
+  },
+  "organic_results": [
+   {
+    "position": 1,
+    "title": "Buy Home Garden Ivyline Online",
+    "link": "https://www.next.co.uk/shop/home/garden/f/brand-ivyline",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbwHrOzAV-2KoDishOkaHqqbw_HdqkW5HhCeIn35XOYIwHwJo9-YrChAMe_XM5GNCENSMAxYymxndH80lZaHPgU56kJD3b3syZV9sAEkuipJDRHueVvOqn7msxKX35Zr73nP7CsycG9k1aAyuzUURzg&ved=2ahUKEwiCi82qkpaXAxUQF1kFHdiKHykQFnoECDEQAQ&uoh=1",
+    "displayed_link": "https://www.next.co.uk › home › garden",
+    "thumbnail": "https://serpapi.com/searches/6abceac57223f4284b1143dc/images/CsjmmUiBfRcuUyEiczKxhrt_94NGpb_FA0LW9_oPSKY.jpeg",
+    "favicon": "https://serpapi.com/images/i/UklGRoYAAABXRUJQVlA4IHoAAAAQBACdASocABwAPrUurVanIacnG_DgFolpAACI5lpZ71MR19Tn7qIAAAD--KzJJrMYtW8HOYefoY2tz9Y2cU51n-4BB2x9TNXqR-yq4urkQzkuAhZjuBQ7tlZqeP4DcU8LTLftD6l3YI8Q2GdLgNZ8IWE7KVY5gAAAAA.webp",
+    "snippet": "Shop a wide range of Home Garden Ivyline with Next. Choose from 1000s of products here. Order Home Garden Ivyline now with express delivery.",
+    "snippet_highlighted_words": [
+     "Shop a wide range of Home Garden Ivyline with Next"
+    ],
+    "rich_snippet": {
+     "bottom": {
+      "detected_extensions": {
+       "free": 28
+      },
+      "extensions": [
+       "Free 28",
+       "day returns"
+      ]
+     }
+    },
+    "about_this_result": {
+     "source": {
+      "description": "Shop a wide range of Home Garden Ivyline with Next. Choose from 1000s of products here. Order Home Garden Ivyline now with express delivery.",
+      "source_info_link": "https://www.next.co.uk/shop/home/garden/f/brand-ivyline",
+      "icon": "https://serpapi.com/images/i/UklGRoYAAABXRUJQVlA4IHoAAAAQBACdASocABwAPrUurVanIacnG_DgFolpAACI5lpZ71MR19Tn7qIAAAD--KzJJrMYtW8HOYefoY2tz9Y2cU51n-4BB2x9TNXqR-yq4urkQzkuAhZjuBQ7tlZqeP4DcU8LTLftD6l3YI8Q2GdLgNZ8IWE7KVY5gAAAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CqQBL2dvdG8_dXJsPUNBRVNid0hyT3pBVi0yS29EaXNoT2thSHFxYndfSGRxa1c1SGhDZUluMzVYT1lJd0h3Sm85LVlyQ2hBTWVfWE01R05DRU5TTUF4WXlteG5kSDgwbFphSFBnVTU2a0pEM2Izc3laVjlzQUVrdWlwSkRSSHVlVnZPcW43bXN4S1gzNVpyNzNuUDdDc3ljRzlrMWFBeXV6VVVSemcSBBoCCAAa5gMSABoCCAEiACoAMgYIARICdWs6AEIECAEQAEoAWgByAHoAgkDAAwgAEAAYACAAKiYKB2l2eWxpbmUVtCdeQBoIaXZ5IGxpbmUaDGl2O3A7aXZ5bGluZSoZCgJ1axUNkDJAGg51bml0ZWQga2luZ2RvbTKkAS9nb3RvP3VybD1DQUVTYndIck96QVYtMktvRGlzaE9rYUhxcWJ3X0hkcWtXNUhoQ2VJbjM1WE9ZSXdId0pvOS1ZckNoQU1lX1hNNUdOQ0VOU01BeFl5bXhuZEg4MGxaYUhQZ1U1NmtKRDNiM3N5WlY5c0FFa3VpcEpEUkh1ZVZ2T3FuN21zeEtYMzVacjczblA3Q3N5Y0c5azFhQXl1elVVUnpnOjZCdXkgSG9tZSBHYXJkZW4gPGI-SXZ5bGluZTwvYj4gT25saW5lIHwgTmV4dCA8Yj5VSzwvYj5CkwE8Yj5TaG9wIGEgd2lkZSByYW5nZSBvZiBIb21lIEdhcmRlbiBJdnlsaW5lIHdpdGggTmV4dDwvYj4uIENob29zZSBmcm9tIDEwMDBzIG9mIHByb2R1Y3RzIGhlcmUuIE9yZGVyIEhvbWUgR2FyZGVuIEl2eWxpbmUgbm93IHdpdGggZXhwcmVzcyBkZWxpdmVyeS4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CqQBL2dvdG8_dXJsPUNBRVNid0hyT3pBVi0yS29EaXNoT2thSHFxYndfSGRxa1c1SGhDZUluMzVYT1lJd0h3Sm85LVlyQ2hBTWVfWE01R05DRU5TTUF4WXlteG5kSDgwbFphSFBnVTU2a0pEM2Izc3laVjlzQUVrdWlwSkRSSHVlVnZPcW43bXN4S1gzNVpyNzNuUDdDc3ljRzlrMWFBeXV6VVVSemcSBBoCCAAa5gMSABoCCAEiACoAMgYIARICdWs6AEIECAEQAEoAWgByAHoAgkDAAwgAEAAYACAAKiYKB2l2eWxpbmUVtCdeQBoIaXZ5IGxpbmUaDGl2O3A7aXZ5bGluZSoZCgJ1axUNkDJAGg51bml0ZWQga2luZ2RvbTKkAS9nb3RvP3VybD1DQUVTYndIck96QVYtMktvRGlzaE9rYUhxcWJ3X0hkcWtXNUhoQ2VJbjM1WE9ZSXdId0pvOS1ZckNoQU1lX1hNNUdOQ0VOU01BeFl5bXhuZEg4MGxaYUhQZ1U1NmtKRDNiM3N5WlY5c0FFa3VpcEpEUkh1ZVZ2T3FuN21zeEtYMzVacjczblA3Q3N5Y0c5azFhQXl1elVVUnpnOjZCdXkgSG9tZSBHYXJkZW4gPGI-SXZ5bGluZTwvYj4gT25saW5lIHwgTmV4dCA8Yj5VSzwvYj5CkwE8Yj5TaG9wIGEgd2lkZSByYW5nZSBvZiBIb21lIEdhcmRlbiBJdnlsaW5lIHdpdGggTmV4dDwvYj4uIENob29zZSBmcm9tIDEwMDBzIG9mIHByb2R1Y3RzIGhlcmUuIE9yZGVyIEhvbWUgR2FyZGVuIEl2eWxpbmUgbm93IHdpdGggZXhwcmVzcyBkZWxpdmVyeS4iAhABSABYAGgA",
+    "source": "Next"
+   },
+   {
+    "position": 2,
+    "title": "Ivyline - In All Planters and Tubs",
+    "link": "https://www.garden4less.co.uk/shop-brand/Ivyline?Category=All+Planters+and+Tubs&Colour=Black&srsltid=AU7gw4Xak9Wda_ytPgxxE7L7y4RWtCj9DF7MlGAm1RY_w-GZ7VsuWEL_",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAES1gEB6zswFShLdEPPILRaB2XwDdAyICqLC2MLXyJt1QoOzknAp93MYhlEVilUckl2qVfknjVhT0AsHXcLntAy5y6fd0_pBCnoyY6AKmA3bqB-FPP-f-PgZoS6R8viLWOgaO94LCcRLkP_WFRgMEPdW57RG2IatMoD3moEWu5t1E9BaWzvNjR0KGXcUb85E1W0pXr2Hettp_R6Uxvr1QxCkIw6DyZWGrRSSrFnXMewIKoqyzJ3VFq4k_Ka8H6wZOkaQoUNSlG82qYSGwKhUNYjIayNx0w0aU9t&ved=2ahUKEwiCi82qkpaXAxUQF1kFHdiKHykQFnoECBsQAQ&uoh=1",
+    "displayed_link": "https://www.garden4less.co.uk › shop-brand › Ivyline",
+    "favicon": "https://serpapi.com/images/i/UklGRkYBAABXRUJQVlA4IDoBAADwBgCdASocABwAPrUurVanIacnG_DgFolsAJ0y434i02EBtmLs53lUiPiL9jkbQKrvjh-CCpzTT9NFaW3wq4uAAP5SMM8rIdUSM9Wm-PcJ1DRooFczfPlS92bJJaqrXLjQg8rteYGgEb_8qzz0kAl9cv_z4iSxQyXY-uB-HX3nMMH1LU95OwPV7D9xHR0_Kygw-U6bjiGWB2dwdVpuSbsrm_mhBWfbeyCmv2XUN_eurTZAyN1_7iUYpLesU7nPkdT6VbH8O7UqZBgy065xcuUTk0ARfHT28KpVwZpbVvaccDNvox1M2doonO4y8Qa2rm62sqA6LVdMAiWSRjHE8IPknrw8WehLV5lntxrJayT5UrA9IrUkYbOiqfepIN_kvPK8GR98lns_-TRrKx8zd-TVK7aB22aAveMAAA.webp",
+    "snippet": "Buy Ivyline &amp; accessories at Garden4Less, Free Delivery on orders over £50* You can call us on 01283 543974. Phone: 01283 543974 E-mail: contact@garden4 ...",
+    "snippet_highlighted_words": [
+     "Ivyline"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Buy Ivyline &amp; accessories at Garden4Less, Free Delivery on orders over £50* You can call us on 01283 543974. Phone: 01283 543974 E-mail: contact@garden4 ...",
+      "source_info_link": "https://www.garden4less.co.uk/shop-brand/Ivyline?Category=All+Planters+and+Tubs&Colour=Black&srsltid=AU7gw4Xak9Wda_ytPgxxE7L7y4RWtCj9DF7MlGAm1RY_w-GZ7VsuWEL_",
+      "icon": "https://serpapi.com/images/i/UklGRkYBAABXRUJQVlA4IDoBAADwBgCdASocABwAPrUurVanIacnG_DgFolsAJ0y434i02EBtmLs53lUiPiL9jkbQKrvjh-CCpzTT9NFaW3wq4uAAP5SMM8rIdUSM9Wm-PcJ1DRooFczfPlS92bJJaqrXLjQg8rteYGgEb_8qzz0kAl9cv_z4iSxQyXY-uB-HX3nMMH1LU95OwPV7D9xHR0_Kygw-U6bjiGWB2dwdVpuSbsrm_mhBWfbeyCmv2XUN_eurTZAyN1_7iUYpLesU7nPkdT6VbH8O7UqZBgy065xcuUTk0ARfHT28KpVwZpbVvaccDNvox1M2doonO4y8Qa2rm62sqA6LVdMAiWSRjHE8IPknrw8WehLV5lntxrJayT5UrA9IrUkYbOiqfepIN_kvPK8GR98lns_-TRrKx8zd-TVK7aB22aAveMAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=Cq4CL2dvdG8_dXJsPUNBRVMxZ0VCNnpzd0ZTaExkRVBQSUxSYUIyWHdEZEF5SUNxTEMyTUxYeUp0MVFvT3prbkFwOTNNWWhsRVZpbFVja2wycVZma25qVmhUMEFzSFhjTG50QXk1eTZmZDBfcEJDbm95WTZBS21BM2JxQi1GUFAtZi1QZ1pvUzZSOHZpTFdPZ2FPOTRMQ2NSTGtQX1dGUmdNRVBkVzU3UkcySWF0TW9EM21vRVd1NXQxRTlCYVd6dk5qUjBLR1hjVWI4NUUxVzBwWHIySGV0dHBfUjZVeHZyMVF4Q2tJdzZEeVpXR3JSU1NyRm5YTWV3SUtvcXl6SjNWRnE0a19LYThINndaT2thUW9VTlNsRzgycVlTR3dLaFVOWWpJYXlOeDB3MGFVOXQSBBoCCAAauAQSABoAIgAqADIGCAESAnVrOgBCBAgBEABKAFoAcgB6AIJAlAQIABAAGAAgAComCgdpdnlsaW5lFZgdmEAaCGl2eSBsaW5lGgxpdjtwO2l2eWxpbmUqGQoCdWsVWRBhQBoOdW5pdGVkIGtpbmdkb20y1gEvZ290bz91cmw9Q0FFU2xBRUI2enN3RlFEU0RUZE8tbWhhOTZ3a05YZmJ3SVV6RldHWDVPZFp6YjgyQWRVQzdpcHVaZlFycDhmVUZwZGxuWFpaUDNuaEpEaG5EZTlmak85eVpzU0dhdTZWdEF3MWFsMmVSaFl6TnhzUUpKZlBVQXBnQnNMSVBCd1J4V3RWejh5SFBpMFAtbVZVZnVtM09vT2pBUjlDMWVjRG5xSkZGTmVZMHNwdkVVcXg0aTlhNFNkLWJkeTg5T2ZCXzZNTlBmM0JkQ3F2Ojo8Yj5JdnlsaW5lPC9iPiAtIEluIEFsbCBQbGFudGVycyBhbmQgVHVicyAtIEdhcmRlbjRMZXNzIFVLQrEBQnV5IDxiPkl2eWxpbmU8L2I-ICZhbXA7YW1wOyBhY2Nlc3NvcmllcyBhdCBHYXJkZW40TGVzcywgRnJlZSBEZWxpdmVyeSBvbiBvcmRlcnMgb3ZlciDCozUwKiBZb3UgY2FuIGNhbGwgdXMgb24gMDEyODMgNTQzOTc0LiBQaG9uZTogMDEyODMgNTQzOTc0IEUtbWFpbDogY29udGFjdEBnYXJkZW40Jm5ic3A7Li4uIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=Cq4CL2dvdG8_dXJsPUNBRVMxZ0VCNnpzd0ZTaExkRVBQSUxSYUIyWHdEZEF5SUNxTEMyTUxYeUp0MVFvT3prbkFwOTNNWWhsRVZpbFVja2wycVZma25qVmhUMEFzSFhjTG50QXk1eTZmZDBfcEJDbm95WTZBS21BM2JxQi1GUFAtZi1QZ1pvUzZSOHZpTFdPZ2FPOTRMQ2NSTGtQX1dGUmdNRVBkVzU3UkcySWF0TW9EM21vRVd1NXQxRTlCYVd6dk5qUjBLR1hjVWI4NUUxVzBwWHIySGV0dHBfUjZVeHZyMVF4Q2tJdzZEeVpXR3JSU1NyRm5YTWV3SUtvcXl6SjNWRnE0a19LYThINndaT2thUW9VTlNsRzgycVlTR3dLaFVOWWpJYXlOeDB3MGFVOXQSBBoCCAAauAQSABoAIgAqADIGCAESAnVrOgBCBAgBEABKAFoAcgB6AIJAlAQIABAAGAAgAComCgdpdnlsaW5lFZgdmEAaCGl2eSBsaW5lGgxpdjtwO2l2eWxpbmUqGQoCdWsVWRBhQBoOdW5pdGVkIGtpbmdkb20y1gEvZ290bz91cmw9Q0FFU2xBRUI2enN3RlFEU0RUZE8tbWhhOTZ3a05YZmJ3SVV6RldHWDVPZFp6YjgyQWRVQzdpcHVaZlFycDhmVUZwZGxuWFpaUDNuaEpEaG5EZTlmak85eVpzU0dhdTZWdEF3MWFsMmVSaFl6TnhzUUpKZlBVQXBnQnNMSVBCd1J4V3RWejh5SFBpMFAtbVZVZnVtM09vT2pBUjlDMWVjRG5xSkZGTmVZMHNwdkVVcXg0aTlhNFNkLWJkeTg5T2ZCXzZNTlBmM0JkQ3F2Ojo8Yj5JdnlsaW5lPC9iPiAtIEluIEFsbCBQbGFudGVycyBhbmQgVHVicyAtIEdhcmRlbjRMZXNzIFVLQrEBQnV5IDxiPkl2eWxpbmU8L2I-ICZhbXA7YW1wOyBhY2Nlc3NvcmllcyBhdCBHYXJkZW40TGVzcywgRnJlZSBEZWxpdmVyeSBvbiBvcmRlcnMgb3ZlciDCozUwKiBZb3UgY2FuIGNhbGwgdXMgb24gMDEyODMgNTQzOTc0LiBQaG9uZTogMDEyODMgNTQzOTc0IEUtbWFpbDogY29udGFjdEBnYXJkZW40Jm5ic3A7Li4uIgIQAUgAWABoAA",
+    "source": "Garden4Less UK"
+   },
+   {
+    "position": 3,
+    "title": "Ivyline Reviews | Read Customer Service ...",
+    "link": "https://uk.trustpilot.com/review/ivylinegb.co.uk?page=2",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbwHrOzAVlnt_INI9EO-qOrq6Kzof3WMpBLnfxoNr38A0ljlneVh7rF_mp1t4SHWMCef2UBReNoZmkiEWIpYFump6R6bmcfcYzxNsT9ZF4D_2aoDg0uHf4bGV5XzLcjHsRkC-d6X6TWLaUgdOxiwQNg&ved=2ahUKEwiCi82qkpaXAxUQF1kFHdiKHykQFnoECB4QAQ&uoh=1",
+    "displayed_link": "https://uk.trustpilot.com › ... › Wholesale › Wholesaler",
+    "favicon": "https://serpapi.com/images/i/UklGRsoAAABXRUJQVlA4IL4AAABQBQCdASocABwAPtFAtFooIqgoFAEAGglsAJ0y4sr21NIh0L_Wc9XnY51oZjrqPOOkIAAA_vaB2ebx-ZQJY40G7Ms4VgSg_dfZaQYtJgcWU-beznyIjhN1wYpjmozZyeMKizLM67K23cWxCdiZlwba-kk7-n1oZp5KD3cICp5uViEzGYmX6Luef9vGzPW-lMxUcuiCxFIiXQcD3jRZPkF5WMyiAjvwk-ss_LXRvy5ZDZMeqRp7EsP_UXPsgAAA.webp",
+    "snippet": "Founded in 1976, Ivyline has dedicated itself to making functional products beautiful, bringing elements of luxury to your home and garden.",
+    "snippet_highlighted_words": [
+     "Ivyline"
+    ],
+    "rich_snippet": {
+     "top": {
+      "detected_extensions": {
+       "rating": 4.6,
+       "reviews": 311
+      },
+      "extensions": [
+       "4.6(311)"
+      ]
+     }
+    },
+    "about_this_result": {
+     "source": {
+      "description": "Founded in 1976, Ivyline has dedicated itself to making functional products beautiful, bringing elements of luxury to your home and garden.",
+      "source_info_link": "https://uk.trustpilot.com/review/ivylinegb.co.uk?page=2",
+      "icon": "https://serpapi.com/images/i/UklGRsoAAABXRUJQVlA4IL4AAABQBQCdASocABwAPtFAtFooIqgoFAEAGglsAJ0y4sr21NIh0L_Wc9XnY51oZjrqPOOkIAAA_vaB2ebx-ZQJY40G7Ms4VgSg_dfZaQYtJgcWU-beznyIjhN1wYpjmozZyeMKizLM67K23cWxCdiZlwba-kk7-n1oZp5KD3cICp5uViEzGYmX6Luef9vGzPW-lMxUcuiCxFIiXQcD3jRZPkF5WMyiAjvwk-ss_LXRvy5ZDZMeqRp7EsP_UXPsgAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CqQBL2dvdG8_dXJsPUNBRVNid0hyT3pBVmxudF9JTkk5RU8tcU9ycTZLem9mM1dNcEJMbmZ4b05yMzhBMGxqbG5lVmg3ckZfbXAxdDRTSFdNQ2VmMlVCUmVOb1pta2lFV0lwWUZ1bXA2UjZibWNmY1l6eE5zVDlaRjREXzJhb0RnMHVIZjRiR1Y1WHpMY2pIc1JrQy1kNlg2VFdMYVVnZE94aXdRTmcSBBoCCAAa4gMSABoAIgAqADIGCAESAnVrOgBCBAgBEABKAFoAcgB6AIJAvgMIABAAGAAgAComCgdpdnlsaW5lFeMkh0AaCGl2eSBsaW5lGgxpdjtwO2l2eWxpbmUqGQoCdWsVD0-MQBoOdW5pdGVkIGtpbmdkb20ypAEvZ290bz91cmw9Q0FFU2J3SHJPekFWbG50X0lOSTlFTy1xT3JxNkt6b2YzV01wQkxuZnhvTnIzOEEwbGpsbmVWaDdyRl9tcDF0NFNIV01DZWYyVUJSZU5vWm1raUVXSXBZRnVtcDZSNmJtY2ZjWXp4TnNUOVpGNERfMmFvRGcwdUhmNGJHVjVYekxjakhzUmtDLWQ2WDZUV0xhVWdkT3hpd1FOZzo1PGI-SXZ5bGluZTwvYj4gUmV2aWV3cyB8IDIgb2YgMTUgLSBUcnVzdHBpbG90IFJldmlld3NCkgFGb3VuZGVkIGluIDE5NzYsIDxiPkl2eWxpbmU8L2I-IGhhcyBkZWRpY2F0ZWQgaXRzZWxmIHRvIG1ha2luZyBmdW5jdGlvbmFsIHByb2R1Y3RzIGJlYXV0aWZ1bCwgYnJpbmdpbmcgZWxlbWVudHMgb2YgbHV4dXJ5IHRvIHlvdXIgaG9tZSBhbmQgZ2FyZGVuLiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CqQBL2dvdG8_dXJsPUNBRVNid0hyT3pBVmxudF9JTkk5RU8tcU9ycTZLem9mM1dNcEJMbmZ4b05yMzhBMGxqbG5lVmg3ckZfbXAxdDRTSFdNQ2VmMlVCUmVOb1pta2lFV0lwWUZ1bXA2UjZibWNmY1l6eE5zVDlaRjREXzJhb0RnMHVIZjRiR1Y1WHpMY2pIc1JrQy1kNlg2VFdMYVVnZE94aXdRTmcSBBoCCAAa4gMSABoAIgAqADIGCAESAnVrOgBCBAgBEABKAFoAcgB6AIJAvgMIABAAGAAgAComCgdpdnlsaW5lFeMkh0AaCGl2eSBsaW5lGgxpdjtwO2l2eWxpbmUqGQoCdWsVD0-MQBoOdW5pdGVkIGtpbmdkb20ypAEvZ290bz91cmw9Q0FFU2J3SHJPekFWbG50X0lOSTlFTy1xT3JxNkt6b2YzV01wQkxuZnhvTnIzOEEwbGpsbmVWaDdyRl9tcDF0NFNIV01DZWYyVUJSZU5vWm1raUVXSXBZRnVtcDZSNmJtY2ZjWXp4TnNUOVpGNERfMmFvRGcwdUhmNGJHVjVYekxjakhzUmtDLWQ2WDZUV0xhVWdkT3hpd1FOZzo1PGI-SXZ5bGluZTwvYj4gUmV2aWV3cyB8IDIgb2YgMTUgLSBUcnVzdHBpbG90IFJldmlld3NCkgFGb3VuZGVkIGluIDE5NzYsIDxiPkl2eWxpbmU8L2I-IGhhcyBkZWRpY2F0ZWQgaXRzZWxmIHRvIG1ha2luZyBmdW5jdGlvbmFsIHByb2R1Y3RzIGJlYXV0aWZ1bCwgYnJpbmdpbmcgZWxlbWVudHMgb2YgbHV4dXJ5IHRvIHlvdXIgaG9tZSBhbmQgZ2FyZGVuLiICEAFIAFgAaAA",
+    "source": "Trustpilot"
+   },
+   {
+    "position": 4,
+    "title": "Home Garden and Outdoors Ivyline Water Features",
+    "link": "https://www.next.co.uk/shop/home/garden-and-outdoors/f/brand-ivyline-type-waterfeatures",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjwEB6zswFZAPecvWBec4MWaYOTs6r0Q9y71etUAgT8g17Dwlme7oNCrcGOeK4qRySNBsSDa_vCrTZ5pnS6XdjVCg4M_5a3AasmTktOioYlQGmqGmFfCDXwEHD_WuxgaxXyjFPhFmfP2EdNWpL3hBKeNFr8CpkaI9Db7CvyYMB5mA_QG5FkiCk8gX721uu31M8g&ved=2ahUKEwiCi82qkpaXAxUQF1kFHdiKHykQFnoECCcQAQ&uoh=1",
+    "displayed_link": "https://www.next.co.uk › home › garden-and-outdoors",
+    "thumbnail": "https://serpapi.com/searches/6abceac57223f4284b1143dc/images/CsjmmUiBfRcuUyEiczKxhiX8fM_ccgDYsLVbGbx68L4.jpeg",
+    "favicon": "https://serpapi.com/images/i/UklGRoYAAABXRUJQVlA4IHoAAAAQBACdASocABwAPrUurVanIacnG_DgFolpAACI5lpZ71MR19Tn7qIAAAD--KzJJrMYtW8HOYefoY2tz9Y2cU51n-4BB2x9TNXqR-yq4urkQzkuAhZjuBQ7tlZqeP4DcU8LTLftD6l3YI8Q2GdLgNZ8IWE7KVY5gAAAAA.webp",
+    "snippet": "Shop a wide range of Home Garden and Outdoors Ivyline Water Features with Next. Choose from 1000s of products here. Delivery to store or home delivery ...",
+    "snippet_highlighted_words": [
+     "Shop a wide range of Home Garden and Outdoors Ivyline Water Features"
+    ],
+    "rich_snippet": {
+     "bottom": {
+      "detected_extensions": {
+       "free": 28
+      },
+      "extensions": [
+       "Free 28",
+       "day returns"
+      ]
+     }
+    },
+    "about_this_result": {
+     "source": {
+      "description": "Shop a wide range of Home Garden and Outdoors Ivyline Water Features with Next. Choose from 1000s of products here. Delivery to store or home delivery ...",
+      "source_info_link": "https://www.next.co.uk/shop/home/garden-and-outdoors/f/brand-ivyline-type-waterfeatures",
+      "icon": "https://serpapi.com/images/i/UklGRoYAAABXRUJQVlA4IHoAAAAQBACdASocABwAPrUurVanIacnG_DgFolpAACI5lpZ71MR19Tn7qIAAAD--KzJJrMYtW8HOYefoY2tz9Y2cU51n-4BB2x9TNXqR-yq4urkQzkuAhZjuBQ7tlZqeP4DcU8LTLftD6l3YI8Q2GdLgNZ8IWE7KVY5gAAAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CtABL2dvdG8_dXJsPUNBRVNqd0VCNnpzd0ZaQVBlY3ZXQmVjNE1XYVlPVHM2cjBROXk3MWV0VUFnVDhnMTdEd2xtZTdvTkNyY0dPZUs0cVJ5U05Cc1NEYV92Q3JUWjVwblM2WGRqVkNnNE1fNWEzQWFzbVRrdE9pb1lsUUdtcUdtRmZDRFh3RUhEX1d1eGdheFh5akZQaEZtZlAyRWROV3BMM2hCS2VORnI4Q3BrYUk5RGI3Q3Z5WU1CNW1BX1FHNUZraUNrOGdYNzIxdXUzMU04ZxIEGgIIABqvBBIAGgIIASIAKgAyBggBEgJ1azoAQgQIARAASgBaAHIAegCCQIkECAAQABgAIAAqJgoHaXZ5bGluZRV2ljZAGghpdnkgbGluZRoMaXY7cDtpdnlsaW5lKhkKAnVrFQWdKUAaDnVuaXRlZCBraW5nZG9tMtABL2dvdG8_dXJsPUNBRVNqd0VCNnpzd0ZaQVBlY3ZXQmVjNE1XYVlPVHM2cjBROXk3MWV0VUFnVDhnMTdEd2xtZTdvTkNyY0dPZUs0cVJ5U05Cc1NEYV92Q3JUWjVwblM2WGRqVkNnNE1fNWEzQWFzbVRrdE9pb1lsUUdtcUdtRmZDRFh3RUhEX1d1eGdheFh5akZQaEZtZlAyRWROV3BMM2hCS2VORnI4Q3BrYUk5RGI3Q3Z5WU1CNW1BX1FHNUZraUNrOGdYNzIxdXUzMU04ZzpASG9tZSBHYXJkZW4gYW5kIE91dGRvb3JzIDxiPkl2eWxpbmU8L2I-IFdhdGVyIEZlYXR1cmVzIC0gTmV4dCBVS0KmATxiPlNob3AgYSB3aWRlIHJhbmdlIG9mIEhvbWUgR2FyZGVuIGFuZCBPdXRkb29ycyBJdnlsaW5lIFdhdGVyIEZlYXR1cmVzPC9iPiB3aXRoIE5leHQuIENob29zZSBmcm9tIDEwMDBzIG9mIHByb2R1Y3RzIGhlcmUuIERlbGl2ZXJ5IHRvIHN0b3JlIG9yIGhvbWUgZGVsaXZlcnkmbmJzcDsuLi4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CtABL2dvdG8_dXJsPUNBRVNqd0VCNnpzd0ZaQVBlY3ZXQmVjNE1XYVlPVHM2cjBROXk3MWV0VUFnVDhnMTdEd2xtZTdvTkNyY0dPZUs0cVJ5U05Cc1NEYV92Q3JUWjVwblM2WGRqVkNnNE1fNWEzQWFzbVRrdE9pb1lsUUdtcUdtRmZDRFh3RUhEX1d1eGdheFh5akZQaEZtZlAyRWROV3BMM2hCS2VORnI4Q3BrYUk5RGI3Q3Z5WU1CNW1BX1FHNUZraUNrOGdYNzIxdXUzMU04ZxIEGgIIABqvBBIAGgIIASIAKgAyBggBEgJ1azoAQgQIARAASgBaAHIAegCCQIkECAAQABgAIAAqJgoHaXZ5bGluZRV2ljZAGghpdnkgbGluZRoMaXY7cDtpdnlsaW5lKhkKAnVrFQWdKUAaDnVuaXRlZCBraW5nZG9tMtABL2dvdG8_dXJsPUNBRVNqd0VCNnpzd0ZaQVBlY3ZXQmVjNE1XYVlPVHM2cjBROXk3MWV0VUFnVDhnMTdEd2xtZTdvTkNyY0dPZUs0cVJ5U05Cc1NEYV92Q3JUWjVwblM2WGRqVkNnNE1fNWEzQWFzbVRrdE9pb1lsUUdtcUdtRmZDRFh3RUhEX1d1eGdheFh5akZQaEZtZlAyRWROV3BMM2hCS2VORnI4Q3BrYUk5RGI3Q3Z5WU1CNW1BX1FHNUZraUNrOGdYNzIxdXUzMU04ZzpASG9tZSBHYXJkZW4gYW5kIE91dGRvb3JzIDxiPkl2eWxpbmU8L2I-IFdhdGVyIEZlYXR1cmVzIC0gTmV4dCBVS0KmATxiPlNob3AgYSB3aWRlIHJhbmdlIG9mIEhvbWUgR2FyZGVuIGFuZCBPdXRkb29ycyBJdnlsaW5lIFdhdGVyIEZlYXR1cmVzPC9iPiB3aXRoIE5leHQuIENob29zZSBmcm9tIDEwMDBzIG9mIHByb2R1Y3RzIGhlcmUuIERlbGl2ZXJ5IHRvIHN0b3JlIG9yIGhvbWUgZGVsaXZlcnkmbmJzcDsuLi4iAhABSABYAGgA",
+    "source": "Next"
+   },
+   {
+    "position": 5,
+    "title": "Ivyline Orla Glazed Fern Planter, Green",
+    "link": "https://www.amazon.co.uk/Ivyline-Plant-Planter-Ceramic-Medium/dp/B0DYF2WBMV",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgwEB6zswFc3bbeFOIVCLPkZajNOop_QA2PerxOjo3zCPG-fysX_hbsmelbLXSRGaQblnA_xfQ4w6vgSRGnutWSh890hJVtnrFb8hwqsnMSpoZZDW97axonVO78VT2jW-E1C4iPoqTxuE_pR9VCpyC7pO4tdAfkt0BP_TXHRHCl5Jf504DA&ved=2ahUKEwiCi82qkpaXAxUQF1kFHdiKHykQFnoECBwQAQ&uoh=1",
+    "displayed_link": "https://www.amazon.co.uk › Ivyline-Plant-Planter-Ceram...",
+    "thumbnail": "https://serpapi.com/searches/6abceac57223f4284b1143dc/images/CsjmmUiBfRcuUyEiczKxhstNi2iBWLLi_-ROA3CK24E.jpeg",
+    "favicon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
+    "snippet": "Top highlights · Material. Ceramic · Colour. Green · Special feature. Lightweight, Portable, UV Resistant · Style. Contemporary · Planter form. Plant Pot.",
+    "snippet_highlighted_words": [
+     "Material. Ceramic"
+    ],
+    "rich_snippet": {
+     "top": {
+      "detected_extensions": {
+       "rating": 5.0,
+       "reviews": 15,
+       "price": 18.34,
+       "currency": "£",
+       "day_returns": 30
+      },
+      "extensions": [
+       "5.0(15)",
+       "£18.34",
+       "In stock",
+       "£4.49 delivery",
+       "30-day returns"
+      ]
+     }
+    },
+    "about_this_result": {
+     "source": {
+      "description": "Top highlights · Material. Ceramic · Colour. Green · Special feature. Lightweight, Portable, UV Resistant · Style. Contemporary · Planter form. Plant Pot.",
+      "source_info_link": "https://www.amazon.co.uk/Ivyline-Plant-Planter-Ceramic-Medium/dp/B0DYF2WBMV",
+      "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0ZjM2JiZUZPSVZDTFBrWmFqTk9vcF9RQTJQZXJ4T2pvM3pDUEctZnlzWF9oYnNtZWxiTFhTUkdhUWJsbkFfeGZRNHc2dmdTUkdudXRXU2g4OTBoSlZ0bnJGYjhod3Fzbk1TcG9aWkRXOTdheG9uVk83OFZUMmpXLUUxQzRpUG9xVHh1RV9wUjlWQ3B5QzdwTzR0ZEFma3QwQlBfVFhIUkhDbDVKZjUwNERBEgQaAggAGsEEEgAaAggBIgAqADIGCAESAnVrOgBCBAgBEABKAFoAcgB6AIJAmwQIABAAGAAgAComCgdpdnlsaW5lFcZ5lUAaCGl2eSBsaW5lGgxpdjtwO2l2eWxpbmUqGQoCdWsV8yZtQBoOdW5pdGVkIGtpbmdkb20ywAEvZ290bz91cmw9Q0FFU2d3RUI2enN3RmMzYmJlRk9JVkNMUGtaYWpOT29wX1FBMlBlcnhPam8zekNQRy1meXNYX2hic21lbGJMWFNSR2FRYmxuQV94ZlE0dzZ2Z1NSR251dFdTaDg5MGhKVnRuckZiOGh3cXNuTVNwb1paRFc5N2F4b25WTzc4VlQyalctRTFDNGlQb3FUeHVFX3BSOVZDcHlDN3BPNHRkQWZrdDBCUF9UWEhSSENsNUpmNTA0REE6RDxiPkl2eWxpbmU8L2I-IE9ybGEgR2xhemVkIEZlcm4gUGxhbnRlciwgR3JlZW4gOiBBbWF6b24uY28uPGI-dWs8L2I-QsQBVG9wIGhpZ2hsaWdodHMgJm1pZGRvdDsgPGI-TWF0ZXJpYWwuIENlcmFtaWM8L2I-ICZtaWRkb3Q7IENvbG91ci4gR3JlZW4gJm1pZGRvdDsgU3BlY2lhbCBmZWF0dXJlLiBMaWdodHdlaWdodCwgUG9ydGFibGUsIFVWIFJlc2lzdGFudCAmbWlkZG90OyBTdHlsZS4gQ29udGVtcG9yYXJ5ICZtaWRkb3Q7IFBsYW50ZXIgZm9ybS4gUGxhbnQgUG90LiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0ZjM2JiZUZPSVZDTFBrWmFqTk9vcF9RQTJQZXJ4T2pvM3pDUEctZnlzWF9oYnNtZWxiTFhTUkdhUWJsbkFfeGZRNHc2dmdTUkdudXRXU2g4OTBoSlZ0bnJGYjhod3Fzbk1TcG9aWkRXOTdheG9uVk83OFZUMmpXLUUxQzRpUG9xVHh1RV9wUjlWQ3B5QzdwTzR0ZEFma3QwQlBfVFhIUkhDbDVKZjUwNERBEgQaAggAGsEEEgAaAggBIgAqADIGCAESAnVrOgBCBAgBEABKAFoAcgB6AIJAmwQIABAAGAAgAComCgdpdnlsaW5lFcZ5lUAaCGl2eSBsaW5lGgxpdjtwO2l2eWxpbmUqGQoCdWsV8yZtQBoOdW5pdGVkIGtpbmdkb20ywAEvZ290bz91cmw9Q0FFU2d3RUI2enN3RmMzYmJlRk9JVkNMUGtaYWpOT29wX1FBMlBlcnhPam8zekNQRy1meXNYX2hic21lbGJMWFNSR2FRYmxuQV94ZlE0dzZ2Z1NSR251dFdTaDg5MGhKVnRuckZiOGh3cXNuTVNwb1paRFc5N2F4b25WTzc4VlQyalctRTFDNGlQb3FUeHVFX3BSOVZDcHlDN3BPNHRkQWZrdDBCUF9UWEhSSENsNUpmNTA0REE6RDxiPkl2eWxpbmU8L2I-IE9ybGEgR2xhemVkIEZlcm4gUGxhbnRlciwgR3JlZW4gOiBBbWF6b24uY28uPGI-dWs8L2I-QsQBVG9wIGhpZ2hsaWdodHMgJm1pZGRvdDsgPGI-TWF0ZXJpYWwuIENlcmFtaWM8L2I-ICZtaWRkb3Q7IENvbG91ci4gR3JlZW4gJm1pZGRvdDsgU3BlY2lhbCBmZWF0dXJlLiBMaWdodHdlaWdodCwgUG9ydGFibGUsIFVWIFJlc2lzdGFudCAmbWlkZG90OyBTdHlsZS4gQ29udGVtcG9yYXJ5ICZtaWRkb3Q7IFBsYW50ZXIgZm9ybS4gUGxhbnQgUG90LiICEAFIAFgAaAA",
+    "source": "Amazon UK",
+    "read_more_link": "https://www.amazon.co.uk/Ivyline-Plant-Planter-Ceramic-Medium/dp/B0DYF2WBMV#:~:text=Top%20highlights&text=Material,Ceramic&text=Colour,Green&text=Special%20feature,Lightweight%2C%20Portable%2C%20UV%20Resistant&text=Style,Contemporary&text=Planter%20form,Plant%20Pot"
+   },
+   {
+    "position": 6,
+    "title": "Buy Home Planters Ivyline Online",
+    "link": "https://www.next.co.uk/shop/home/garden/garden-and-outdoors/planters/f/brand-ivyline",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjAEB6zswFfmXcf7oe8mwjSE3gAlHjebDtkcOgjyFB55d-XXY8TomhcGnRwzDLAbiKryohqeZW4_OWSWEShH2nt2GAtQwYgLPfYHJkMeAauc3Vcm6Yj112TjMJ4ZytLgaw88rYGc0QLmJyH6jrG_OjcXBO7LU2bN_grstwuYmm5b3SqDCasLFlCpgCs34NQ&ved=2ahUKEwiCi82qkpaXAxUQF1kFHdiKHykQFnoECCIQAQ&uoh=1",
+    "displayed_link": "https://www.next.co.uk › ... › planters",
+    "thumbnail": "https://serpapi.com/searches/6abceac57223f4284b1143dc/images/CsjmmUiBfRcuUyEiczKxhp7t5hNDNlwMPd5ws9pLxJs.jpeg",
+    "favicon": "https://serpapi.com/images/i/UklGRoYAAABXRUJQVlA4IHoAAAAQBACdASocABwAPrUurVanIacnG_DgFolpAACI5lpZ71MR19Tn7qIAAAD--KzJJrMYtW8HOYefoY2tz9Y2cU51n-4BB2x9TNXqR-yq4urkQzkuAhZjuBQ7tlZqeP4DcU8LTLftD6l3YI8Q2GdLgNZ8IWE7KVY5gAAAAA.webp",
+    "snippet": "Shop a wide range of Home Planters Ivyline with Next. Choose from 1000s of products here. Order Home Planters Ivyline now with express delivery.",
+    "snippet_highlighted_words": [
+     "Shop a wide range of Home Planters Ivyline with Next"
+    ],
+    "rich_snippet": {
+     "bottom": {
+      "detected_extensions": {
+       "free": 28
+      },
+      "extensions": [
+       "Free 28",
+       "day returns"
+      ]
+     }
+    },
+    "about_this_result": {
+     "source": {
+      "description": "Shop a wide range of Home Planters Ivyline with Next. Choose from 1000s of products here. Order Home Planters Ivyline now with express delivery.",
+      "source_info_link": "https://www.next.co.uk/shop/home/garden/garden-and-outdoors/planters/f/brand-ivyline",
+      "icon": "https://serpapi.com/images/i/UklGRoYAAABXRUJQVlA4IHoAAAAQBACdASocABwAPrUurVanIacnG_DgFolpAACI5lpZ71MR19Tn7qIAAAD--KzJJrMYtW8HOYefoY2tz9Y2cU51n-4BB2x9TNXqR-yq4urkQzkuAhZjuBQ7tlZqeP4DcU8LTLftD6l3YI8Q2GdLgNZ8IWE7KVY5gAAAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CswBL2dvdG8_dXJsPUNBRVNqQUVCNnpzd0ZmbVhjZjdvZThtd2pTRTNnQWxIamViRHRrY09nanlGQjU1ZC1YWFk4VG9taGNHblJ3ekRMQWJpS3J5b2hxZVpXNF9PV1NXRVNoSDJudDJHQXRRd1lnTFBmWUhKa01lQWF1YzNWY202WWoxMTJUak1KNFp5dExnYXc4OHJZR2MwUUxtSnlINmpyR19PamNYQk83TFUyYk5fZ3JzdHd1WW1tNWIzU3FEQ2FzTEZsQ3BnQ3MzNE5REgQaAggAGpQEEgAaAggBIgAqADIGCAESAnVrOgBCBAgBEABKAFoAcgB6AIJA7gMIABAAGAAgAComCgdpdnlsaW5lFWgsQEAaCGl2eSBsaW5lGgxpdjtwO2l2eWxpbmUqGQoCdWsVjjEyQBoOdW5pdGVkIGtpbmdkb20yzAEvZ290bz91cmw9Q0FFU2pBRUI2enN3RmZtWGNmN29lOG13alNFM2dBbEhqZWJEdGtjT2dqeUZCNTVkLVhYWThUb21oY0duUnd6RExBYmlLcnlvaHFlWlc0X09XU1dFU2hIMm50MkdBdFF3WWdMUGZZSEprTWVBYXVjM1ZjbTZZajExMlRqTUo0Wnl0TGdhdzg4cllHYzBRTG1KeUg2anJHX09qY1hCTzdMVTJiTl9ncnN0d3VZbW01YjNTcURDYXNMRmxDcGdDczM0TlE6OEJ1eSBIb21lIFBsYW50ZXJzIDxiPkl2eWxpbmU8L2I-IE9ubGluZSB8IE5leHQgPGI-VUs8L2I-QpcBPGI-U2hvcCBhIHdpZGUgcmFuZ2Ugb2YgSG9tZSBQbGFudGVycyBJdnlsaW5lIHdpdGggTmV4dDwvYj4uIENob29zZSBmcm9tIDEwMDBzIG9mIHByb2R1Y3RzIGhlcmUuIE9yZGVyIEhvbWUgUGxhbnRlcnMgSXZ5bGluZSBub3cgd2l0aCBleHByZXNzIGRlbGl2ZXJ5LiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CswBL2dvdG8_dXJsPUNBRVNqQUVCNnpzd0ZmbVhjZjdvZThtd2pTRTNnQWxIamViRHRrY09nanlGQjU1ZC1YWFk4VG9taGNHblJ3ekRMQWJpS3J5b2hxZVpXNF9PV1NXRVNoSDJudDJHQXRRd1lnTFBmWUhKa01lQWF1YzNWY202WWoxMTJUak1KNFp5dExnYXc4OHJZR2MwUUxtSnlINmpyR19PamNYQk83TFUyYk5fZ3JzdHd1WW1tNWIzU3FEQ2FzTEZsQ3BnQ3MzNE5REgQaAggAGpQEEgAaAggBIgAqADIGCAESAnVrOgBCBAgBEABKAFoAcgB6AIJA7gMIABAAGAAgAComCgdpdnlsaW5lFWgsQEAaCGl2eSBsaW5lGgxpdjtwO2l2eWxpbmUqGQoCdWsVjjEyQBoOdW5pdGVkIGtpbmdkb20yzAEvZ290bz91cmw9Q0FFU2pBRUI2enN3RmZtWGNmN29lOG13alNFM2dBbEhqZWJEdGtjT2dqeUZCNTVkLVhYWThUb21oY0duUnd6RExBYmlLcnlvaHFlWlc0X09XU1dFU2hIMm50MkdBdFF3WWdMUGZZSEprTWVBYXVjM1ZjbTZZajExMlRqTUo0Wnl0TGdhdzg4cllHYzBRTG1KeUg2anJHX09qY1hCTzdMVTJiTl9ncnN0d3VZbW01YjNTcURDYXNMRmxDcGdDczM0TlE6OEJ1eSBIb21lIFBsYW50ZXJzIDxiPkl2eWxpbmU8L2I-IE9ubGluZSB8IE5leHQgPGI-VUs8L2I-QpcBPGI-U2hvcCBhIHdpZGUgcmFuZ2Ugb2YgSG9tZSBQbGFudGVycyBJdnlsaW5lIHdpdGggTmV4dDwvYj4uIENob29zZSBmcm9tIDEwMDBzIG9mIHByb2R1Y3RzIGhlcmUuIE9yZGVyIEhvbWUgUGxhbnRlcnMgSXZ5bGluZSBub3cgd2l0aCBleHByZXNzIGRlbGl2ZXJ5LiICEAFIAFgAaAA",
+    "source": "Next"
+   },
+   {
+    "position": 7,
+    "title": "Ivyline Pots",
+    "link": "https://www.ebay.co.uk/itm/397864098982",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXwHrOzAVIfckZjrJu1dCuv_UufTW701T6BFm1CJ8tz_ezdREkG0fGDQutlyZPZ_h7occSw9DuKPoTYBjYwdsSZcG8cMvwbjeOnLzpZV1qcQ0KMTg6z_qoZ2vSsl1rihg&ved=2ahUKEwiCi82qkpaXAxUQF1kFHdiKHykQFnoECB0QAQ&uoh=1",
+    "displayed_link": "https://www.ebay.co.uk › ... › Planters",
+    "thumbnail": "https://serpapi.com/searches/6abceac57223f4284b1143dc/images/CsjmmUiBfRcuUyEiczKxhkViqwyiM25rM23EY3ull_U.jpeg",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAYElEQVR4AWPAAdSBeDsQf4bi7WAxIoEKEL8C4kwg5oHiTKiYCjEGrAPiHCzi-RA5wuAz2FZMIAGRwwT_KcGUG_DUyOI_MmZIuYSCv65nQsFtO8SR8WAwYNQAytPBwBsAAPa7ZDmnz9wtAAAAAElFTkSuQmCC.png",
+    "snippet": "Ivyline Pots ; Item number. 397864098982 ; Origin. England ; Shape. Round ; Accurate description. 4.8 ; Reasonable postage cost. 4.6.",
+    "snippet_highlighted_words": [
+     "Ivyline Pots"
+    ],
+    "rich_snippet": {
+     "bottom": {
+      "detected_extensions": {
+       "price": 3.84,
+       "currency": "£",
+       "£_delivery": 2.94,
+       "day_returns": 30
+      },
+      "extensions": [
+       "£3.84",
+       "In stock",
+       "£2.94 delivery",
+       "30-day returns"
+      ]
+     }
+    },
+    "about_this_result": {
+     "source": {
+      "description": "Ivyline Pots ; Item number. 397864098982 ; Origin. England ; Shape. Round ; Accurate description. 4.8 ; Reasonable postage cost. 4.6.",
+      "source_info_link": "https://www.ebay.co.uk/itm/397864098982",
+      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAYElEQVR4AWPAAdSBeDsQf4bi7WAxIoEKEL8C4kwg5oHiTKiYCjEGrAPiHCzi-RA5wuAz2FZMIAGRwwT_KcGUG_DUyOI_MmZIuYSCv65nQsFtO8SR8WAwYNQAytPBwBsAAPa7ZDmnz9wtAAAAAElFTkSuQmCC.png"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=Co4BL2dvdG8_dXJsPUNBRVNYd0hyT3pBVklmY2taanJKdTFkQ3V2X1V1ZlRXNzAxVDZCRm0xQ0o4dHpfZXpkUkVrRzBmR0RRdXRseVpQWl9oN29jY1N3OUR1S1BvVFlCall3ZHNTWmNHOGNNdndiamVPbkx6cFpWMXFjUTBLTVRnNnpfcW9aMnZTc2wxcmloZxIEGgIIABq3AxIAGgIIASIAKgAyBggBEgJ1azoAQgQIARAASgBaAHIAegCCQJEDCAAQABgAIAAqJgoHaXZ5bGluZRUue3lAGghpdnkgbGluZRoMaXY7cDtpdnlsaW5lKhkKAnVrFWdmJkAaDnVuaXRlZCBraW5nZG9tMo4BL2dvdG8_dXJsPUNBRVNYd0hyT3pBVklmY2taanJKdTFkQ3V2X1V1ZlRXNzAxVDZCRm0xQ0o4dHpfZXpkUkVrRzBmR0RRdXRseVpQWl9oN29jY1N3OUR1S1BvVFlCall3ZHNTWmNHOGNNdndiamVPbkx6cFpWMXFjUTBLTVRnNnpfcW9aMnZTc2wxcmloZzokPGI-SXZ5bGluZTwvYj4gUG90cyB8IGVCYXkgPGI-VUs8L2I-QowBPGI-SXZ5bGluZSBQb3RzPC9iPiA7IEl0ZW0gbnVtYmVyLiAzOTc4NjQwOTg5ODIgOyBPcmlnaW4uIEVuZ2xhbmQgOyBTaGFwZS4gUm91bmQgOyBBY2N1cmF0ZSBkZXNjcmlwdGlvbi4gNC44IDsgUmVhc29uYWJsZSBwb3N0YWdlIGNvc3QuIDQuNi4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=Co4BL2dvdG8_dXJsPUNBRVNYd0hyT3pBVklmY2taanJKdTFkQ3V2X1V1ZlRXNzAxVDZCRm0xQ0o4dHpfZXpkUkVrRzBmR0RRdXRseVpQWl9oN29jY1N3OUR1S1BvVFlCall3ZHNTWmNHOGNNdndiamVPbkx6cFpWMXFjUTBLTVRnNnpfcW9aMnZTc2wxcmloZxIEGgIIABq3AxIAGgIIASIAKgAyBggBEgJ1azoAQgQIARAASgBaAHIAegCCQJEDCAAQABgAIAAqJgoHaXZ5bGluZRUue3lAGghpdnkgbGluZRoMaXY7cDtpdnlsaW5lKhkKAnVrFWdmJkAaDnVuaXRlZCBraW5nZG9tMo4BL2dvdG8_dXJsPUNBRVNYd0hyT3pBVklmY2taanJKdTFkQ3V2X1V1ZlRXNzAxVDZCRm0xQ0o4dHpfZXpkUkVrRzBmR0RRdXRseVpQWl9oN29jY1N3OUR1S1BvVFlCall3ZHNTWmNHOGNNdndiamVPbkx6cFpWMXFjUTBLTVRnNnpfcW9aMnZTc2wxcmloZzokPGI-SXZ5bGluZTwvYj4gUG90cyB8IGVCYXkgPGI-VUs8L2I-QowBPGI-SXZ5bGluZSBQb3RzPC9iPiA7IEl0ZW0gbnVtYmVyLiAzOTc4NjQwOTg5ODIgOyBPcmlnaW4uIEVuZ2xhbmQgOyBTaGFwZS4gUm91bmQgOyBBY2N1cmF0ZSBkZXNjcmlwdGlvbi4gNC44IDsgUmVhc29uYWJsZSBwb3N0YWdlIGNvc3QuIDQuNi4iAhABSABYAGgA",
+    "source": "eBay UK",
+    "read_more_link": "https://www.ebay.co.uk/itm/397864098982#:~:text=Ivyline%20Pots&text=Item%20number,397864098982&text=Origin,England&text=Shape,Round&text=Accurate%20description,4.8&text=Reasonable%20postage%20cost,4.6"
+   },
+   {
+    "position": 8,
+    "title": "Ivyline | Wayfair United Kingdom",
+    "link": "https://www.wayfair.co.uk/brand/bnd/ivyline-b34758.html",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbwHrOzAVSrta25r6XISuCPWDODBx_ZmJVPn9vLV1J_S_zE8m9Og_Krg_3NAuyRumHgeWZjEJoHs_5Lvb50HCDqH_TXRS2KH0Z-ARAMhaL2hA8_L9ZnsPWtYtqYKEATgPEoH-TI6QcODo5emHVhdw8Q&ved=2ahUKEwiCi82qkpaXAxUQF1kFHdiKHykQFnoECEAQAQ&uoh=1",
+    "displayed_link": "https://www.wayfair.co.uk › bnd › ivyline-b34758",
+    "thumbnail": "https://serpapi.com/searches/6abceac57223f4284b1143dc/images/CsjmmUiBfRcuUyEiczKxhhbBmoIOSZkrPzNNSLmK1Dg.jpeg",
+    "favicon": "https://serpapi.com/images/i/UklGRjgBAABXRUJQVlA4ICwBAADQBgCdASocABwAPtE-tFooIigoFAEAGglsAJ0y42AIkBtgJpjb8vV_c1P7AHG1J7dQ_0hDVutFZoA-64YygAAA_tihOBQk-8-awQaKvrgmLkC8l6Y6taBgJdiU4O3CjblGsHKpBfRNfeWpubfuYD40kV9EDv-oGmZN_iktnkD3q62cooool6OkOsdBrgjYrcYKDfXlCL8_kcWWP-NO3Lb45cTwuZbjuLkUaTj_RQBpUL-0bGMIFbBQZ6BspAfy-zSTmn80rYFNh1MmykG85cIGY_HqMWIUR_luXDUFyy-NDTGL9z3dXyMwmzvNAl-82VFphrEM81L9efu7yV4N8T3LEZaR_qfH3_7MDv_W42orX1z34fdXr7tKbvBuU35FLVvr79gX6n-13UiQAAA.webp",
+    "snippet": "Ivyline. Based in Coventry, the heart of England, we have grown from humble beginnings to nationwide distribution from a 500,000 sq.ft. warehouse.",
+    "snippet_highlighted_words": [
+     "Based in Coventry, the heart of England"
+    ],
+    "rich_snippet": {
+     "bottom": {
+      "detected_extensions": {
+       "unknown": 30
+      },
+      "extensions": [
+       "30",
+       "day returns"
+      ]
+     }
+    },
+    "about_this_result": {
+     "source": {
+      "description": "Ivyline. Based in Coventry, the heart of England, we have grown from humble beginnings to nationwide distribution from a 500,000 sq.ft. warehouse.",
+      "source_info_link": "https://www.wayfair.co.uk/brand/bnd/ivyline-b34758.html",
+      "icon": "https://serpapi.com/images/i/UklGRjgBAABXRUJQVlA4ICwBAADQBgCdASocABwAPtE-tFooIigoFAEAGglsAJ0y42AIkBtgJpjb8vV_c1P7AHG1J7dQ_0hDVutFZoA-64YygAAA_tihOBQk-8-awQaKvrgmLkC8l6Y6taBgJdiU4O3CjblGsHKpBfRNfeWpubfuYD40kV9EDv-oGmZN_iktnkD3q62cooool6OkOsdBrgjYrcYKDfXlCL8_kcWWP-NO3Lb45cTwuZbjuLkUaTj_RQBpUL-0bGMIFbBQZ6BspAfy-zSTmn80rYFNh1MmykG85cIGY_HqMWIUR_luXDUFyy-NDTGL9z3dXyMwmzvNAl-82VFphrEM81L9efu7yV4N8T3LEZaR_qfH3_7MDv_W42orX1z34fdXr7tKbvBuU35FLVvr79gX6n-13UiQAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CqQBL2dvdG8_dXJsPUNBRVNid0hyT3pBVlNydGEyNXI2WElTdUNQV0RPREJ4X1ptSlZQbjl2TFYxSl9TX3pFOG05T2dfS3JnXzNOQXV5UnVtSGdlV1pqRUpvSHNfNUx2YjUwSENEcUhfVFhSUzJLSDBaLUFSQU1oYUwyaEE4X0w5Wm5zUFd0WXRxWUtFQVRnUEVvSC1USTZRY09EbzVlbUhWaGR3OFESBBoCCAAa5AMSABoCCAEiACoAMgYIARICdWs6AEIECAEQAEoAWgByAHoAgkC-AwgAEAAYACAAKiYKB2l2eWxpbmUVOFpMQBoIaXZ5IGxpbmUaDGl2O3A7aXZ5bGluZSoZCgJ1axWD5gQ_Gg51bml0ZWQga2luZ2RvbTKkAS9nb3RvP3VybD1DQUVTYndIck96QVZTcnRhMjVyNlhJU3VDUFdET0RCeF9abUpWUG45dkxWMUpfU196RThtOU9nX0tyZ18zTkF1eVJ1bUhnZVdaakVKb0hzXzVMdmI1MEhDRHFIX1RYUlMyS0gwWi1BUkFNaGFMMmhBOF9MOVpuc1BXdFl0cVlLRUFUZ1BFb0gtVEk2UWNPRG81ZW1IVmhkdzhROi48Yj5JdnlsaW5lPC9iPiB8IFdheWZhaXIgPGI-VW5pdGVkIEtpbmdkb208L2I-QpkBSXZ5bGluZS4gPGI-QmFzZWQgaW4gQ292ZW50cnksIHRoZSBoZWFydCBvZiBFbmdsYW5kPC9iPiwgd2UgaGF2ZSBncm93biBmcm9tIGh1bWJsZSBiZWdpbm5pbmdzIHRvIG5hdGlvbndpZGUgZGlzdHJpYnV0aW9uIGZyb20gYSA1MDAsMDAwIHNxLmZ0LiB3YXJlaG91c2UuIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CqQBL2dvdG8_dXJsPUNBRVNid0hyT3pBVlNydGEyNXI2WElTdUNQV0RPREJ4X1ptSlZQbjl2TFYxSl9TX3pFOG05T2dfS3JnXzNOQXV5UnVtSGdlV1pqRUpvSHNfNUx2YjUwSENEcUhfVFhSUzJLSDBaLUFSQU1oYUwyaEE4X0w5Wm5zUFd0WXRxWUtFQVRnUEVvSC1USTZRY09EbzVlbUhWaGR3OFESBBoCCAAa5AMSABoCCAEiACoAMgYIARICdWs6AEIECAEQAEoAWgByAHoAgkC-AwgAEAAYACAAKiYKB2l2eWxpbmUVOFpMQBoIaXZ5IGxpbmUaDGl2O3A7aXZ5bGluZSoZCgJ1axWD5gQ_Gg51bml0ZWQga2luZ2RvbTKkAS9nb3RvP3VybD1DQUVTYndIck96QVZTcnRhMjVyNlhJU3VDUFdET0RCeF9abUpWUG45dkxWMUpfU196RThtOU9nX0tyZ18zTkF1eVJ1bUhnZVdaakVKb0hzXzVMdmI1MEhDRHFIX1RYUlMyS0gwWi1BUkFNaGFMMmhBOF9MOVpuc1BXdFl0cVlLRUFUZ1BFb0gtVEk2UWNPRG81ZW1IVmhkdzhROi48Yj5JdnlsaW5lPC9iPiB8IFdheWZhaXIgPGI-VW5pdGVkIEtpbmdkb208L2I-QpkBSXZ5bGluZS4gPGI-QmFzZWQgaW4gQ292ZW50cnksIHRoZSBoZWFydCBvZiBFbmdsYW5kPC9iPiwgd2UgaGF2ZSBncm93biBmcm9tIGh1bWJsZSBiZWdpbm5pbmdzIHRvIG5hdGlvbndpZGUgZGlzdHJpYnV0aW9uIGZyb20gYSA1MDAsMDAwIHNxLmZ0LiB3YXJlaG91c2UuIgIQAUgAWABoAA",
+    "source": "Wayfair.co.uk",
+    "read_more_link": "https://www.wayfair.co.uk/brand/bnd/ivyline-b34758.html#:~:text=Ivyline,a%20speedy%20and%20efficient%20service."
+   },
+   {
+    "position": 9,
+    "title": "Ivyline Leon Granite Planter D22Cm, One Size, 99422LG",
+    "link": "https://www.amazon.co.uk/Ivyline-Granite-Planter-D22Cm-99422LG/dp/B0862Y9DTT",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShAEB6zswFV3jFTg7GPBgZwahVvITxBLTBJQV9prBCooJaB14dlGuQM68HtSH7JbdGEqvffY9Y6z4M8i7EfniNJnO9aqlgqiYWFKDuzb8HjG9-glTLvc4Wjo5wglxXtijd28wbtmZcvIDx24Rxkyvb0Cn1dd749wJb3bjj3WzGagjEqkrvAA&ved=2ahUKEwiCi82qkpaXAxUQF1kFHdiKHykQFnoECEUQAQ&uoh=1",
+    "displayed_link": "https://www.amazon.co.uk › Ivyline-Granite-Planter-D22...",
+    "thumbnail": "https://serpapi.com/searches/6abceac57223f4284b1143dc/images/CsjmmUiBfRcuUyEiczKxhlwUmL1BR3MjCNOTXXYaqyo.jpeg",
+    "favicon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
+    "snippet": "Leon Granite Planter. With its ceramic design and premium glaze, this waterproof planter is the perfect accent piece for the home.",
+    "snippet_highlighted_words": [
+     "Leon Granite Planter"
+    ],
+    "rich_snippet": {
+     "top": {
+      "detected_extensions": {
+       "rating": 2.5,
+       "reviews": 2,
+       "price": 21.12,
+       "currency": "£",
+       "day_returns": 30
+      },
+      "extensions": [
+       "2.5(2)",
+       "£21.12",
+       "In stock",
+       "30-day returns"
+      ]
+     }
+    },
+    "about_this_result": {
+     "source": {
+      "description": "Leon Granite Planter. With its ceramic design and premium glaze, this waterproof planter is the perfect accent piece for the home.",
+      "source_info_link": "https://www.amazon.co.uk/Ivyline-Granite-Planter-D22Cm-99422LG/dp/B0862Y9DTT",
+      "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CsEBL2dvdG8_dXJsPUNBRVNoQUVCNnpzd0ZWM2pGVGc3R1BCZ1p3YWhWdklUeEJMVEJKUVY5cHJCQ29vSmFCMTRkbEd1UU02OEh0U0g3SmJkR0VxdmZmWTlZNno0TThpN0VmbmlOSm5POWFxbGdxaVlXRktEdXpiOEhqRzktZ2xUTHZjNFdqbzV3Z2x4WHRpamQyOHdidG1aY3ZJRHgyNFJ4a3l2YjBDbjFkZDc0OXdKYjNiamozV3pHYWdqRXFrcnZBQRIEGgIIABr_AxIAGgIIASIAKgAyBggBEgJ1azoAQgQIARAASgBaAHIAegCCQNkDCAAQABgAIAAqJgoHaXZ5bGluZRUoeopAGghpdnkgbGluZRoMaXY7cDtpdnlsaW5lKhkKAnVrFfQxZEAaDnVuaXRlZCBraW5nZG9tMsEBL2dvdG8_dXJsPUNBRVNoQUVCNnpzd0ZWM2pGVGc3R1BCZ1p3YWhWdklUeEJMVEJKUVY5cHJCQ29vSmFCMTRkbEd1UU02OEh0U0g3SmJkR0VxdmZmWTlZNno0TThpN0VmbmlOSm5POWFxbGdxaVlXRktEdXpiOEhqRzktZ2xUTHZjNFdqbzV3Z2x4WHRpamQyOHdidG1aY3ZJRHgyNFJ4a3l2YjBDbjFkZDc0OXdKYjNiamozV3pHYWdqRXFrcnZBQTo8PGI-SXZ5bGluZTwvYj4gTGVvbiBHcmFuaXRlIFBsYW50ZXIgRDIyQ20sIE9uZSBTaXplLCA5OTQyMkxHQokBPGI-TGVvbiBHcmFuaXRlIFBsYW50ZXI8L2I-LiBXaXRoIGl0cyBjZXJhbWljIGRlc2lnbiBhbmQgcHJlbWl1bSBnbGF6ZSwgdGhpcyB3YXRlcnByb29mIHBsYW50ZXIgaXMgdGhlIHBlcmZlY3QgYWNjZW50IHBpZWNlIGZvciB0aGUgaG9tZS4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CsEBL2dvdG8_dXJsPUNBRVNoQUVCNnpzd0ZWM2pGVGc3R1BCZ1p3YWhWdklUeEJMVEJKUVY5cHJCQ29vSmFCMTRkbEd1UU02OEh0U0g3SmJkR0VxdmZmWTlZNno0TThpN0VmbmlOSm5POWFxbGdxaVlXRktEdXpiOEhqRzktZ2xUTHZjNFdqbzV3Z2x4WHRpamQyOHdidG1aY3ZJRHgyNFJ4a3l2YjBDbjFkZDc0OXdKYjNiamozV3pHYWdqRXFrcnZBQRIEGgIIABr_AxIAGgIIASIAKgAyBggBEgJ1azoAQgQIARAASgBaAHIAegCCQNkDCAAQABgAIAAqJgoHaXZ5bGluZRUoeopAGghpdnkgbGluZRoMaXY7cDtpdnlsaW5lKhkKAnVrFfQxZEAaDnVuaXRlZCBraW5nZG9tMsEBL2dvdG8_dXJsPUNBRVNoQUVCNnpzd0ZWM2pGVGc3R1BCZ1p3YWhWdklUeEJMVEJKUVY5cHJCQ29vSmFCMTRkbEd1UU02OEh0U0g3SmJkR0VxdmZmWTlZNno0TThpN0VmbmlOSm5POWFxbGdxaVlXRktEdXpiOEhqRzktZ2xUTHZjNFdqbzV3Z2x4WHRpamQyOHdidG1aY3ZJRHgyNFJ4a3l2YjBDbjFkZDc0OXdKYjNiamozV3pHYWdqRXFrcnZBQTo8PGI-SXZ5bGluZTwvYj4gTGVvbiBHcmFuaXRlIFBsYW50ZXIgRDIyQ20sIE9uZSBTaXplLCA5OTQyMkxHQokBPGI-TGVvbiBHcmFuaXRlIFBsYW50ZXI8L2I-LiBXaXRoIGl0cyBjZXJhbWljIGRlc2lnbiBhbmQgcHJlbWl1bSBnbGF6ZSwgdGhpcyB3YXRlcnByb29mIHBsYW50ZXIgaXMgdGhlIHBlcmZlY3QgYWNjZW50IHBpZWNlIGZvciB0aGUgaG9tZS4iAhABSABYAGgA",
+    "source": "Amazon UK",
+    "read_more_link": "https://www.amazon.co.uk/Ivyline-Granite-Planter-D22Cm-99422LG/dp/B0862Y9DTT#:~:text=Leon%20Granite%20Planter,accent%20piece%20for%20the%20home."
+   }
+  ],
+  "related_searches": [
+   {
+    "block_position": 1,
+    "query": "Ivyline uk sale",
+    "link": "https://www.google.co.uk/search?sca_esv=d0c3879c3aba1c72&gl=uk&hl=en&sxsrf=APpeQnu7OHpQYzZ5gDkCl87F1WOM_R1DnQ:1790765765451&q=Ivyline+uk+sale&sa=X&ved=2ahUKEwiCi82qkpaXAxUQF1kFHdiKHykQ1QJ6BAg9EAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&q=Ivyline+uk+sale"
+   },
+   {
+    "block_position": 1,
+    "query": "Ivyline uk contact",
+    "link": "https://www.google.co.uk/search?sca_esv=d0c3879c3aba1c72&gl=uk&hl=en&sxsrf=APpeQnu7OHpQYzZ5gDkCl87F1WOM_R1DnQ:1790765765451&q=Ivyline+uk+contact&sa=X&ved=2ahUKEwiCi82qkpaXAxUQF1kFHdiKHykQ1QJ6BAg-EAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&q=Ivyline+uk+contact"
+   }
+  ],
+  "pagination": {
+   "current": 1,
+   "next": "https://www.google.co.uk/search?q=Ivyline+UK&sca_esv=d0c3879c3aba1c72&gl=uk&hl=en&sxsrf=APpeQnu7OHpQYzZ5gDkCl87F1WOM_R1DnQ:1790765765451&ei=xeq8asKUG5Cu5NoP2JX-yAI&start=10&sa=N&sstk=AS6-VmLsgi8IWUfwnr3GlJAnkrXD3fLSC0vOicRQznD6--zaxkG_G5BARW8Hp9gHKIyn7OYWHDgjIOkUsrciUL0FbG9uf-BAy17AAg&ved=2ahUKEwiCi82qkpaXAxUQF1kFHdiKHykQ8NMDegQIOxAI",
+   "other_pages": {
+    "2": "https://www.google.co.uk/search?q=Ivyline+UK&sca_esv=d0c3879c3aba1c72&gl=uk&hl=en&sxsrf=APpeQnu7OHpQYzZ5gDkCl87F1WOM_R1DnQ:1790765765451&ei=xeq8asKUG5Cu5NoP2JX-yAI&start=10&sa=N&sstk=AS6-VmLsgi8IWUfwnr3GlJAnkrXD3fLSC0vOicRQznD6--zaxkG_G5BARW8Hp9gHKIyn7OYWHDgjIOkUsrciUL0FbG9uf-BAy17AAg&ved=2ahUKEwiCi82qkpaXAxUQF1kFHdiKHykQ8tMDegQIOxAE",
+    "3": "https://www.google.co.uk/search?q=Ivyline+UK&sca_esv=d0c3879c3aba1c72&gl=uk&hl=en&sxsrf=APpeQnu7OHpQYzZ5gDkCl87F1WOM_R1DnQ:1790765765451&ei=xeq8asKUG5Cu5NoP2JX-yAI&start=20&sa=N&sstk=AS6-VmLsgi8IWUfwnr3GlJAnkrXD3fLSC0vOicRQznD6--zaxkG_G5BARW8Hp9gHKIyn7OYWHDgjIOkUsrciUL0FbG9uf-BAy17AAg&ved=2ahUKEwiCi82qkpaXAxUQF1kFHdiKHykQ8tMDegQIOxAG"
+   }
+  },
+  "serpapi_pagination": {
+   "current": 1,
+   "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&q=Ivyline+UK&start=10",
+   "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&q=Ivyline+UK&start=10",
+   "other_pages": {
+    "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&q=Ivyline+UK&start=10",
+    "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&q=Ivyline+UK&start=20"
+   }
+  }
+ }
+}

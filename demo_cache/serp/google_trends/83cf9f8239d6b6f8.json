@@ -1,0 +1,293 @@
+{
+ "engine": "google_trends",
+ "params": {
+  "q": "candle lantern",
+  "geo": "GB",
+  "date": "today 5-y",
+  "data_type": "RELATED_QUERIES",
+  "cat": "11"
+ },
+ "fetched_at": "2026-09-30T10:44:41+00:00",
+ "data": {
+  "search_metadata": {
+   "id": "6abce81741ffc8ff5c1c4a1c",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/eq6Bbap-V4fRCYm29siGB-JQyMIw4VOQiQ35Qr_Eus8/6abce81741ffc8ff5c1c4a1c.json",
+   "markdown_endpoint": "https://serpapi.com/searches/eq6Bbap-V4fRCYm29siGB-JQyMIw4VOQiQ35Qr_Eus8/6abce81741ffc8ff5c1c4a1c.md",
+   "created_at": "2026-09-30 10:44:39 UTC",
+   "processed_at": "2026-09-30 10:44:39 UTC",
+   "google_trends_url": "https://trends.google.com/trends/embed/explore/RELATED_QUERIES?hl=en&tz=420&req=%7B%22comparisonItem%22%3A%5B%7B%22keyword%22%3A%22candle+lantern%22%2C%22geo%22%3A%22GB%22%2C%22time%22%3A%22today+5-y%22%7D%5D%2C%22category%22%3A%2211%22%2C%22property%22%3A%22%22%7D",
+   "raw_html_file": "https://serpapi.com/searches/eq6Bbap-V4fRCYm29siGB-JQyMIw4VOQiQ35Qr_Eus8/6abce81741ffc8ff5c1c4a1c.html",
+   "prettify_html_file": "https://serpapi.com/searches/eq6Bbap-V4fRCYm29siGB-JQyMIw4VOQiQ35Qr_Eus8/6abce81741ffc8ff5c1c4a1c.prettify",
+   "total_time_taken": 1.69
+  },
+  "search_parameters": {
+   "engine": "google_trends",
+   "q": "candle lantern",
+   "hl": "en",
+   "geo": "GB",
+   "cat": "11",
+   "date": "today 5-y",
+   "tz": "420",
+   "data_type": "RELATED_QUERIES"
+  },
+  "related_queries": {
+   "rising": [
+    {
+     "query": "swiss army candle lantern",
+     "value": "Breakout",
+     "extracted_value": 24000,
+     "link": "https://trends.google.com/trends/explore?q=swiss+army+candle+lantern&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=swiss+army+candle+lantern&tz=420"
+    },
+    {
+     "query": "folding pocket candle lantern",
+     "value": "Breakout",
+     "extracted_value": 8850,
+     "link": "https://trends.google.com/trends/explore?q=folding+pocket+candle+lantern&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=folding+pocket+candle+lantern&tz=420"
+    },
+    {
+     "query": "uco candles",
+     "value": "+160%",
+     "extracted_value": 160,
+     "link": "https://trends.google.com/trends/explore?q=uco+candles&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=uco+candles&tz=420"
+    },
+    {
+     "query": "uco candle lantern oil insert",
+     "value": "+140%",
+     "extracted_value": 140,
+     "link": "https://trends.google.com/trends/explore?q=uco+candle+lantern+oil+insert&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=uco+candle+lantern+oil+insert&tz=420"
+    },
+    {
+     "query": "oil lamp",
+     "value": "+140%",
+     "extracted_value": 140,
+     "link": "https://trends.google.com/trends/explore?q=oil+lamp&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=oil+lamp&tz=420"
+    },
+    {
+     "query": "christmas candle holder",
+     "value": "+100%",
+     "extracted_value": 100,
+     "link": "https://trends.google.com/trends/explore?q=christmas+candle+holder&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=christmas+candle+holder&tz=420"
+    },
+    {
+     "query": "large black lantern",
+     "value": "+90%",
+     "extracted_value": 90,
+     "link": "https://trends.google.com/trends/explore?q=large+black+lantern&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=large+black+lantern&tz=420"
+    },
+    {
+     "query": "solar candle lights",
+     "value": "+80%",
+     "extracted_value": 80,
+     "link": "https://trends.google.com/trends/explore?q=solar+candle+lights&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=solar+candle+lights&tz=420"
+    },
+    {
+     "query": "lights4fun",
+     "value": "+80%",
+     "extracted_value": 80,
+     "link": "https://trends.google.com/trends/explore?q=lights4fun&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=lights4fun&tz=420"
+    },
+    {
+     "query": "black lantern",
+     "value": "+50%",
+     "extracted_value": 50,
+     "link": "https://trends.google.com/trends/explore?q=black+lantern&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=black+lantern&tz=420"
+    },
+    {
+     "query": "black candle lantern",
+     "value": "+50%",
+     "extracted_value": 50,
+     "link": "https://trends.google.com/trends/explore?q=black+candle+lantern&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=black+candle+lantern&tz=420"
+    }
+   ],
+   "top": [
+    {
+     "query": "candle holder lantern",
+     "value": "100",
+     "extracted_value": 100,
+     "link": "https://trends.google.com/trends/explore?q=candle+holder+lantern&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=candle+holder+lantern&tz=420"
+    },
+    {
+     "query": "candle holder",
+     "value": "99",
+     "extracted_value": 99,
+     "link": "https://trends.google.com/trends/explore?q=candle+holder&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=candle+holder&tz=420"
+    },
+    {
+     "query": "glass lantern",
+     "value": "44",
+     "extracted_value": 44,
+     "link": "https://trends.google.com/trends/explore?q=glass+lantern&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=glass+lantern&tz=420"
+    },
+    {
+     "query": "candle holders",
+     "value": "44",
+     "extracted_value": 44,
+     "link": "https://trends.google.com/trends/explore?q=candle+holders&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=candle+holders&tz=420"
+    },
+    {
+     "query": "large lantern",
+     "value": "42",
+     "extracted_value": 42,
+     "link": "https://trends.google.com/trends/explore?q=large+lantern&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=large+lantern&tz=420"
+    },
+    {
+     "query": "large candle lantern",
+     "value": "42",
+     "extracted_value": 42,
+     "link": "https://trends.google.com/trends/explore?q=large+candle+lantern&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=large+candle+lantern&tz=420"
+    },
+    {
+     "query": "large candle",
+     "value": "42",
+     "extracted_value": 42,
+     "link": "https://trends.google.com/trends/explore?q=large+candle&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=large+candle&tz=420"
+    },
+    {
+     "query": "lanterns",
+     "value": "42",
+     "extracted_value": 42,
+     "link": "https://trends.google.com/trends/explore?q=lanterns&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=lanterns&tz=420"
+    },
+    {
+     "query": "candle lanterns",
+     "value": "41",
+     "extracted_value": 41,
+     "link": "https://trends.google.com/trends/explore?q=candle+lanterns&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=candle+lanterns&tz=420"
+    },
+    {
+     "query": "lantern for candle",
+     "value": "40",
+     "extracted_value": 40,
+     "link": "https://trends.google.com/trends/explore?q=lantern+for+candle&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=lantern+for+candle&tz=420"
+    },
+    {
+     "query": "black lantern",
+     "value": "37",
+     "extracted_value": 37,
+     "link": "https://trends.google.com/trends/explore?q=black+lantern&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=black+lantern&tz=420"
+    },
+    {
+     "query": "black candle lantern",
+     "value": "37",
+     "extracted_value": 37,
+     "link": "https://trends.google.com/trends/explore?q=black+candle+lantern&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=black+candle+lantern&tz=420"
+    },
+    {
+     "query": "lantern with candle",
+     "value": "30",
+     "extracted_value": 30,
+     "link": "https://trends.google.com/trends/explore?q=lantern+with+candle&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=lantern+with+candle&tz=420"
+    },
+    {
+     "query": "outdoor candle",
+     "value": "28",
+     "extracted_value": 28,
+     "link": "https://trends.google.com/trends/explore?q=outdoor+candle&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=outdoor+candle&tz=420"
+    },
+    {
+     "query": "outdoor lantern",
+     "value": "28",
+     "extracted_value": 28,
+     "link": "https://trends.google.com/trends/explore?q=outdoor+lantern&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=outdoor+lantern&tz=420"
+    },
+    {
+     "query": "candle light",
+     "value": "28",
+     "extracted_value": 28,
+     "link": "https://trends.google.com/trends/explore?q=candle+light&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=candle+light&tz=420"
+    },
+    {
+     "query": "lantern light",
+     "value": "28",
+     "extracted_value": 28,
+     "link": "https://trends.google.com/trends/explore?q=lantern+light&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=lantern+light&tz=420"
+    },
+    {
+     "query": "candles",
+     "value": "27",
+     "extracted_value": 27,
+     "link": "https://trends.google.com/trends/explore?q=candles&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=candles&tz=420"
+    },
+    {
+     "query": "lantern candles",
+     "value": "27",
+     "extracted_value": 27,
+     "link": "https://trends.google.com/trends/explore?q=lantern+candles&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=lantern+candles&tz=420"
+    },
+    {
+     "query": "hurricane candle",
+     "value": "24",
+     "extracted_value": 24,
+     "link": "https://trends.google.com/trends/explore?q=hurricane+candle&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=hurricane+candle&tz=420"
+    },
+    {
+     "query": "hurricane lantern",
+     "value": "24",
+     "extracted_value": 24,
+     "link": "https://trends.google.com/trends/explore?q=hurricane+lantern&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=hurricane+lantern&tz=420"
+    },
+    {
+     "query": "lantern lamp",
+     "value": "22",
+     "extracted_value": 22,
+     "link": "https://trends.google.com/trends/explore?q=lantern+lamp&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=lantern+lamp&tz=420"
+    },
+    {
+     "query": "candle lamp",
+     "value": "22",
+     "extracted_value": 22,
+     "link": "https://trends.google.com/trends/explore?q=candle+lamp&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=candle+lamp&tz=420"
+    },
+    {
+     "query": "glass candle holder",
+     "value": "20",
+     "extracted_value": 20,
+     "link": "https://trends.google.com/trends/explore?q=glass+candle+holder&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=glass+candle+holder&tz=420"
+    },
+    {
+     "query": "white candle lantern",
+     "value": "19",
+     "extracted_value": 19,
+     "link": "https://trends.google.com/trends/explore?q=white+candle+lantern&date=today+5-y&geo=GB",
+     "serpapi_link": "https://serpapi.com/search.json?cat=11&data_type=RELATED_QUERIES&date=today+5-y&engine=google_trends&geo=GB&hl=en&q=white+candle+lantern&tz=420"
+    }
+   ]
+  }
+ }
+}

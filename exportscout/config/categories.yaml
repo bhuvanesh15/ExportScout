@@ -1,0 +1,133 @@
+# Product-family packs. Adding a cluster (Jaipur blue pottery, Jodhpur furniture, ...) means
+# adding an entry here; the pipeline code stays the same.
+
+metal_handicrafts:
+  label: Metal handicrafts (Moradabad brass, aluminium and iron home décor)
+  # UK retail phrases; identify.py picks the ones that match the Lens titles.
+  seed_keywords:
+    - brass hurricane lantern
+    - brass lantern
+    - moroccan lantern
+    - brass planter
+    - brass plant pot
+    - brass candle holder
+    - brass candlestick
+    - brass bowl
+    - hammered brass bowl
+    - brass tealight holder
+    - brass vase
+    - brass tray
+    - copper planter
+    - metal lantern
+    - brass bar set
+    - brass bell
+  # Google Trends category: 11 = Home & Garden (serpapi.com/google-trends-categories).
+  trends_cat: 11
+  # Broader terms for Trends when the specific one has too little volume, most specific
+  # first. The first entry is also the ProductIdentity.broad_term.
+  broad_terms:
+    lantern: [candle lantern, hurricane lantern, lantern]
+    planter: [plant pot, indoor planter, planter]
+    candle: [candle holder, candlestick]
+    bowl: [decorative bowl, bowl]
+    vase: [flower vase, vase]
+    tray: [decorative tray, tray]
+  # Review lexicon: fallback clustering when the LLM is unavailable. Each theme lists
+  # lowercase substrings; a review matches a theme if any substring appears.
+  complaint_lexicon:
+    Tarnishing / discolouration:
+      terms: [tarnish, discolour, discolor, oxidis, oxidiz, went black, turned green, lost its shine, dull]
+      fix: "Offer anti-tarnish lacquer coating and include care instructions."
+    Broken or dented in transit:
+      terms: [broken, smashed, cracked, dented, arrived damaged, shattered, bent]
+      fix: "Use double-wall cartons with moulded pulp inserts; drop-test to ISTA 1A."
+    Smaller than expected:
+      terms: [smaller than, tiny, much smaller, too small, size is misleading]
+      fix: "Put exact dimensions (cm) and a scale photo on the spec sheet."
+    Poor finish / quality:
+      terms: [cheap, flimsy, thin metal, poor quality, rough edges, sharp edge, paint peel, peeling, chipped]
+      fix: "Specify metal gauge and finish QC; deburr edges."
+    Not real brass / misdescribed:
+      terms: [not brass, not real brass, plastic, gold paint, not solid, misleading, not as described]
+      fix: "State composition honestly (solid brass vs brass-plated) and back it with a material certificate."
+    Rust:
+      terms: [rust, rusty, corrod]
+      fix: "Powder-coat or lacquer iron parts; recommend indoor use in the listing."
+    Glass or fittings issues:
+      terms: [glass fell, glass loose, handle broke, hinge, door won't close, wobbly, unstable]
+      fix: "Secure glass with clips and silicone; test hinges and handles."
+  praise_lexicon:
+    Looks premium / beautiful:
+      terms: [beautiful, gorgeous, stunning, lovely, elegant, looks expensive]
+    Good size:
+      terms: [perfect size, good size, great size]
+    Well made / heavy:
+      terms: [well made, sturdy, heavy, solid, good quality]
+    Great as a gift:
+      terms: [gift, present]
+  # Google queries that surface buyers. {kw} = product keyword, {country} = market label.
+  buyer_queries:
+    - "{kw} wholesale {country}"
+    - "{kw} stockist {country} handmade"
+    - "homeware brand {kw} handmade in India"
+    - "trade account homeware wholesaler {country}"
+  maps_queries:
+    - "home accessories wholesaler"
+    - "homeware shop"
+  # Domains that are marketplaces, not buyers (sellers on them may still be).
+  marketplaces:
+    - amazon.co.uk
+    - amazon.com
+    - ebay.co.uk
+    - ebay.com
+    - etsy.com
+    - onbuy.com
+    - fruugo.co.uk
+    - aliexpress.com
+    - temu.com
+    - notonthehighstreet.com
+    - ubuy.co.uk
+    - u-buy.co.uk
+    - desertcart.co.uk
+    - manomano.co.uk
+    - wish.com
+    - shein.com
+    - faire.com
+    - ankorstore.com
+    - google.com
+    - pinterest.com
+    - pinterest.co.uk
+    - youtube.com
+    - facebook.com
+    - instagram.com
+    - reddit.com
+  # Retailers too large for a 10-150 worker unit to supply directly.
+  giants:
+    - johnlewis.com
+    - dunelm.com
+    - argos.co.uk
+    - next.co.uk
+    - marksandspencer.com
+    - habitat.co.uk
+    - ikea.com
+    - wayfair.co.uk
+    - bhs.com
+    - tesco.com
+    - sainsburys.co.uk
+    - asda.com
+    - bandq.co.uk
+    - diy.com
+    - wilko.com
+    - homebase.co.uk
+    - theworks.co.uk
+    - tkmaxx.com
+    - hm.com
+    - zara.com
+    - selfridges.com
+    - harrods.com
+    - libertylondon.com
+  compliance_notes:
+    - "UK: products must carry a UK-responsible person/importer address on packaging (GPSR equivalent under UK product safety rules)."
+    - "Candle holders and lanterns: include fire-safety warnings for use with candles."
+    - "Food-contact items (bowls, trays, barware): brass must be lined/lacquered and meet UK food-contact rules."
+    - "CETA zero duty needs a valid proof of origin (statement on origin / certificate) — verify before quoting."

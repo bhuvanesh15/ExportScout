@@ -1,0 +1,107 @@
+{
+ "engine": "google_autocomplete",
+ "params": {
+  "q": "brass hurricane lantern",
+  "gl": "uk",
+  "hl": "en"
+ },
+ "fetched_at": "2026-09-30T10:33:45+00:00",
+ "data": {
+  "search_metadata": {
+   "id": "6abce588b24c5dfdbf44615e",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/nJktQtTE15-Oy15WOFxo6epeQaVJ6FuN5ShFQYW8p70/6abce588b24c5dfdbf44615e.json",
+   "markdown_endpoint": "https://serpapi.com/searches/nJktQtTE15-Oy15WOFxo6epeQaVJ6FuN5ShFQYW8p70/6abce588b24c5dfdbf44615e.md",
+   "created_at": "2026-09-30 10:33:44 UTC",
+   "processed_at": "2026-09-30 10:33:44 UTC",
+   "google_autocomplete_url": "https://www.google.com/complete/search?q=brass+hurricane+lantern&gl=uk&hl=en&client=chrome&dpr=1",
+   "raw_html_file": "https://serpapi.com/searches/nJktQtTE15-Oy15WOFxo6epeQaVJ6FuN5ShFQYW8p70/6abce588b24c5dfdbf44615e.html",
+   "prettify_html_file": "https://serpapi.com/searches/nJktQtTE15-Oy15WOFxo6epeQaVJ6FuN5ShFQYW8p70/6abce588b24c5dfdbf44615e.prettify",
+   "total_time_taken": 0.42
+  },
+  "search_parameters": {
+   "engine": "google_autocomplete",
+   "q": "brass hurricane lantern",
+   "gl": "uk",
+   "hl": "en"
+  },
+  "search_information": {
+   "autocomplete_results_state": "Showing completion results."
+  },
+  "suggestions": [
+   {
+    "value": "brass storm lantern",
+    "relevance": 601,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=uk&hl=en&q=brass+storm+lantern"
+   },
+   {
+    "value": "brass hurricane lamp",
+    "relevance": 600,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=uk&hl=en&q=brass+hurricane+lamp"
+   },
+   {
+    "value": "brass hurricane lamp electric",
+    "relevance": 559,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=uk&hl=en&q=brass+hurricane+lamp+electric"
+   },
+   {
+    "value": "brass hurricane lamp base",
+    "relevance": 558,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=uk&hl=en&q=brass+hurricane+lamp+base"
+   },
+   {
+    "value": "brass hurricane.lamp candle holder",
+    "relevance": 557,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=uk&hl=en&q=brass+hurricane.lamp+candle+holder"
+   },
+   {
+    "value": "brass hurricane lamp candle",
+    "relevance": 556,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=uk&hl=en&q=brass+hurricane+lamp+candle"
+   },
+   {
+    "value": "brass hurricane lights",
+    "relevance": 555,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=uk&hl=en&q=brass+hurricane+lights"
+   },
+   {
+    "value": "antique brass hurricane lantern",
+    "relevance": 554,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=uk&hl=en&q=antique+brass+hurricane+lantern"
+   },
+   {
+    "value": "brass hurricane oil lantern",
+    "relevance": 553,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=uk&hl=en&q=brass+hurricane+oil+lantern"
+   },
+   {
+    "value": "large brass hurricane lantern",
+    "relevance": 552,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=uk&hl=en&q=large+brass+hurricane+lantern"
+   },
+   {
+    "value": "solid brass hurricane lantern",
+    "relevance": 551,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=uk&hl=en&q=solid+brass+hurricane+lantern"
+   },
+   {
+    "value": "vintage brass hurricane lantern",
+    "relevance": 550,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=uk&hl=en&q=vintage+brass+hurricane+lantern"
+   }
+  ],
+  "verbatim_relevance": 1300
+ }
+}

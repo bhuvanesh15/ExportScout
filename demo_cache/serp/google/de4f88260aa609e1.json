@@ -1,0 +1,704 @@
+{
+ "engine": "google",
+ "params": {
+  "q": "Online Lighting UK",
+  "gl": "uk",
+  "hl": "en",
+  "google_domain": "google.co.uk"
+ },
+ "fetched_at": "2026-09-30T10:51:28+00:00",
+ "data": {
+  "search_metadata": {
+   "id": "6abce9af31aafea6d4f37357",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/bW8XltbndVNoimlkIsXdqNUw5dHXPO-vBgdMxLQMPhQ/6abce9af31aafea6d4f37357.json",
+   "markdown_endpoint": "https://serpapi.com/searches/bW8XltbndVNoimlkIsXdqNUw5dHXPO-vBgdMxLQMPhQ/6abce9af31aafea6d4f37357.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/bW8XltbndVNoimlkIsXdqNUw5dHXPO-vBgdMxLQMPhQ/6abce9af31aafea6d4f37357.json_with_pixel_position",
+   "created_at": "2026-09-30 10:51:27 UTC",
+   "processed_at": "2026-09-30 10:51:27 UTC",
+   "google_url": "https://www.google.co.uk/search?q=Online+Lighting+UK&oq=Online+Lighting+UK&hl=en&gl=uk&sourceid=chrome&ie=UTF-8",
+   "raw_html_file": "https://serpapi.com/searches/bW8XltbndVNoimlkIsXdqNUw5dHXPO-vBgdMxLQMPhQ/6abce9af31aafea6d4f37357.html",
+   "total_time_taken": 0.88
+  },
+  "search_parameters": {
+   "engine": "google",
+   "q": "Online Lighting UK",
+   "google_domain": "google.co.uk",
+   "hl": "en",
+   "gl": "uk",
+   "device": "desktop"
+  },
+  "search_information": {
+   "query_displayed": "Online Lighting UK",
+   "total_results": 4,
+   "time_taken_displayed": 0.25,
+   "organic_results_state": "Results for exact spelling",
+   "results_for": "United Kingdom"
+  },
+  "local_map": {
+   "link": "https://www.google.co.uk/search?q=Online+Lighting+UK&sca_esv=d0c3879c3aba1c72&hl=en&gl=uk&sxsrf=APpeQntN-R52a5ujMxcLC0tI5mVF7Q-srQ:1790765487390&udm=local&lsack=r-m8auG4F77DkPIPjueKIQ&sa=X&ved=2ahUKEwihzIGmkZaXAxW-IUQIHY6zIgQQtgN6BAgwEAM",
+   "image": "https://serpapi.com/searches/6abce9af31aafea6d4f37357/images/i3kl4WkTzjErgEYhWlwQHg.png",
+   "gps_coordinates": {
+    "latitude": 1e-07,
+    "longitude": 1e-07
+   }
+  },
+  "local_results": {
+   "places": [
+    {
+     "position": 1,
+     "title": "The Online Lighting Store",
+     "type": "Lighting Shop",
+     "rating": 4.8,
+     "reviews": 23,
+     "description": "Delivery",
+     "thumbnail": "https://serpapi.com/searches/6abce9af31aafea6d4f37357/images/0iHUqCirKwNJyL7FUqp_x_LKGR9WifK_M6NQuqmZjg236R3t3vU36PPeyF8sh2ez.jpeg",
+     "thumbnail_large": "https://lh3.googleusercontent.com/grass-cs/ACvplmMVt213Jziy6AnEBG-svALOI1IzK6fMGcCn1Eksz4EoK1Hq4CS85OYGcXjnpb3JCc0GSkVbvvR0yHCusB7XEqYG-bOlsOA2PPjr2qbtjomw1-rpyOTgH5A4WhRjNjD5PtfmsNo=w1000-h1000-c-n",
+     "links": {
+      "website": "https://theonlinelightingstore.co.uk/"
+     },
+     "place_id": "2334101835147830613",
+     "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&ludocid=2334101835147830613&q=Online+Lighting+UK",
+     "provider_id": "/g/11jfppjcxj",
+     "gps_coordinates": {
+      "latitude": 47.73855,
+      "longitude": 11.574977
+     },
+     "reviews_original": "4.8(23)"
+    },
+    {
+     "position": 2,
+     "title": "UK Online Lighting Shop",
+     "type": "Lighting Shop",
+     "description": "Delivery",
+     "thumbnail": "https://serpapi.com/searches/6abce9af31aafea6d4f37357/images/0iHUqCirKwNJyL7FUqp_x1B4Tar88J7Ur0XmGmMwf_vZKqwtW8GYvnfnMiRkVS27.jpeg",
+     "thumbnail_large": "https://lh3.googleusercontent.com/grass-cs/ACvplmOHT0zFzSr-gfCXM_npngR9bctg1jINVRMEUw7b9uvZnq5Nq7KZTAGXS3Fsd1Tw74e4RsIdypCyFLaYBkGZxmO2kx8iXaJV1RjITskRQjlkwXoE65Ry7aVEXdX2gV1ZrGoajdUnzCo49UQy=w1000-h1000-c-n",
+     "links": {
+      "phone": "tel:020 8068 0931",
+      "website": "http://www.onlinelightingshop.co.uk/"
+     },
+     "place_id": "8949298859843160296",
+     "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&ludocid=8949298859843160296&q=Online+Lighting+UK",
+     "provider_id": "/g/1tfd1wjg",
+     "gps_coordinates": {
+      "latitude": 47.73855,
+      "longitude": 11.574977
+     },
+     "phone": "020 8068 0931"
+    }
+   ]
+  },
+  "knowledge_graph": {
+   "place_id": "ChIJ-8UX72oLYUgRVeWSoUBlZCA"
+  },
+  "inline_images": [
+   {
+    "source": "https://www.next.co.uk/shop/home/lighting/f/story-hertford-type-flushceilinglights",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWVONfHqh1IcwfYeifs0_BOMsi7Od44PF9aTdv06XPsLZT-HebdE6xMNw&s",
+    "original": "https://xcdn.next.co.uk/Common/Items/Default/Default/ItemImages/3_4Ratio/Search/Lge/T47404.jpg?im=Resize,width=450",
+    "title": "Buy Home Lighting Online | Next UK",
+    "source_name": "Next UK"
+   },
+   {
+    "source": "https://www.next.co.uk/brands/rul-lighting",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhsJ9w00rJR-CfHlrmCxzKmeAFChE18NNHGQTTfXUB-YdEl9emmCPs0oM&s",
+    "original": "https://xcdn.next.co.uk/Common/Items/Default/Default/ItemImages/3_4Ratio/Search/Lge/Y82135.jpg?im=Resize,width=450",
+    "title": "Buy Rul Lighting Online | Next UK",
+    "source_name": "Next UK"
+   },
+   {
+    "source": "https://electrobright.co.uk/pages/frontpage?srsltid=AU7gw4XcTLv5CT11gLuLDw0XwQtOn43QUXNa92ee_fjO-thiRNtw_Vf5",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS55M06TbnxOHfhj2OnUEpgG7jkLkQ1wSggyd1OgypaOmDTvWFLVNikR94&s",
+    "original": "https://electrobright.co.uk/cdn/shop/t/34/assets/logo.png?v=84200516045279496451790018978",
+    "title": "LED Lighting UK – Indoor, Garden & Smart Lights ...",
+    "source_name": "Electrobright Ltd"
+   },
+   {
+    "source": "https://www.next.co.uk/shop/home/lighting/f/brand-galleryhome-powersource-mainspowered",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj4I-wx5kouHxHfFBwmXvi-ktvHefOcpmCaZubd1YpXJhNAGTwnnSYGjU&s",
+    "original": "https://xcdn.next.co.uk/Common/Items/Default/Default/ItemImages/3_4Ratio/Search/Lge/F56267.jpg?im=Resize,width=450",
+    "title": "Buy Home Lighting Gallery Home Mains Powered Online | Next UK",
+    "source_name": "Next UK"
+   },
+   {
+    "source": "https://fairtradefurniture.co.uk/Shop/browse-by-furniture/lighting/",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNhNxXc-e7w61bwMXgl7e1gmcX9-1saJUPshrefNfV7NAeRESBdbAgdHY&s",
+    "original": "https://fairtradefurniture.co.uk/wordpress2/wp-content/uploads/2018/01/semarang-pyramid-lamp-1000x1000.jpg",
+    "title": "Buy Eco-Friendly Lighting Online | Fair Trade Furniture UK",
+    "source_name": "Fair Trade Furniture"
+   },
+   {
+    "source": "https://www.next.co.uk/shop/home/lighting/f/brand-librainteriors-type-featurelamp",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDSTlUXmV48HNYK5vrDaiC0zdPy1X3kQCbjj4zw6mWqA7kuLasff5fuv0&s",
+    "original": "https://xcdn.next.co.uk/Common/Items/Default/Default/ItemImages/3_4Ratio/Search/Lge/W00616.jpg?im=Resize,width=450",
+    "title": "Buy Home Lighting Libra Interiors Online | Next UK",
+    "source_name": "Next UK"
+   },
+   {
+    "source": "https://www.next.co.uk/shop/home/lighting/f/type-windowlights",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa1U-BlJKFKmKvQVRIAzF7w5YQ3BSn7Stys97Xr0cr7UBmfSlKQMz8wgY&s",
+    "original": "https://xcdn.next.co.uk/Common/Items/Default/Default/ItemImages/3_4Ratio/Search/Lge/E66214.jpg?im=Resize,width=450",
+    "title": "Buy Home Lighting Online | Next UK",
+    "source_name": "Next UK"
+   },
+   {
+    "source": "https://www.next.co.uk/shop/home/lighting/f/brand-darlighting-colour-chrome",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO049LuW7JHgCef8fnJNHQhI7DN9ooJgSQqAUeHYBGr21kqKKSQRaXhQE&s",
+    "original": "https://xcdn.next.co.uk/Common/Items/Default/Default/ItemImages/3_4Ratio/Search/Lge/H81619.jpg?im=Resize,width=450",
+    "title": "Buy Home Lighting Chrome Dar Lighting Online | Next UK",
+    "source_name": "Next UK"
+   }
+  ],
+  "immersive_products": [
+   {
+    "thumbnail": "https://serpapi.com/searches/6abce9af31aafea6d4f37357/images/mYhL02vFeAyW0tdC3LobjdEONYPIKPZYrueJunpzh24.webp",
+    "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAVFBMVEVHcEwYKkoYKkoYKkoYKkoYKkoXKkoYLEsYKkoYKkoWKksXKkoNI0YAG0Fudoiwtb6jqLOHjpuUmabEyM9dZnowPlo_TGVQWnAjNFJ-hZQABjbd4OScCFzCAAAAC3RSTlMAvXjW9phCC-SLGulOb0MAAAFESURBVDiNlVOLboMwDCwbUJid2M479P__cw7VNkrp2A4hJfiIzxf7cvnBOHdT30_dPF4OcB1gg-G6j8-ww9vj79M-DvC-iX88hxX9d5rrYVwZX4SD8x-yPOnbKX2VYEUjDL8RZiX8Fm9HjABo9AWDqCs06wbXD0oYVSJmjiUg51CCs1UMBhMgFwnYZHZgxIkQOGJaPDKBYSuu5uwKQKcmGGHyt3QT9otP3i9ALMmnLLFZ0QNasrZU6yTpqtpkwdrFRWdVzqQEMCmmGEsTlQoUjBEhLhkzNIKmcC77ymRvWShUsUTVMou41e1Oq_KRXQzsfPXZe46JAoN3bJpILTNQFCROoaqGYBORIQ5kubQy70bpo0apTagw6840_9SoU6vPL-v0uk8b5rzlzpv2RdvDZrqOBmf61-j9YXgbxuE-_sN2_D8BqFwoCoHPgccAAAAASUVORK5CYII.png",
+    "source": "Barker & Stonehouse",
+    "title": "Brass Dome Hanging Pendant Light | Metal | Barker & Stonehouse",
+    "rating": 5.0,
+    "reviews": 1,
+    "price": "£145.00",
+    "extracted_price": 145.0,
+    "immersive_product_page_token": "xrYJ3XicfY_LjqNGFIalvM4oUnGxDdk15mYaCldRVGE2rTKFzaVw0zR0Y2veIa8w8sxEmiwnUdZ5jcnTxDPrTjZn8X_6zvnPr9ey_mv4uTP45OnuamW32822mcr7DfrSD49iKsZa_KFrpmkoy4WhGkDXlytTB18KPnL5eKzFh69VyYWsT2V8OJSD_Vi8bfxed_xY_sB_Kgt9od3CpW6oQF-s9NVi-XEQz9-6dZI8hPHDG_77_4i3OLYf_kf7wd9mn5-mcjh_jU_f278L62M11qfju_T-87G_1fzwsfs--pfxWh0_TZMs_74e5XVqr5W8lqffHnn_cij--Sl0hp29finWKO17amOQ0P6Jt3NctLNHmXzKmwCGWZBgYo3ClmdO4ZpQGWOSh2lD7ZCZQWFXsnRkz3xrzilFQkFzwZRnnFIape5SEFEXDMOI5TUGvZ54FROquaZSRBHYqAm1PNzmnPtiimSfZEAgobYaBkEI2UiwF9znLAIolV7hizxpXYAanKRq3mPWH8qmqmCtVFxaw76hbuyN7d6V27QbXyHIp9IPCHeKC-qEcrvVFk40Jk6wxMRVoAsZv0gCW0qwbyWF1m-Eh4P0IrloTQT9zWtJob63xW6ftWDfBhppjTNXj-OOinDvjBNzJUEXcd4B2FAg9UQTIE3ADLN-gyi1cmpZoq12SF3wSOIAETqwLO-YJ555K4A4wW1iw7FwZEwu8JVo_SCy4vaj8FMGnUijGWOmw9Le3hOZYU-QfYPr0hubHaii0puD3IYTpi4svfxQgGCdNNBBsgJlJggnd8ptv1U4BkAqAKVTwaiTg1Pl55ABfZdRHzo7DQI8pI5E_ERlAiT26sDCPjzHLE9FZ2a5L3OoVXFIxFOuKjFJwVioikq7aEZdgD_Nz8PhG7hzF2MS61vVkcmdEQ4CLvrU79q5mZXqQY4I_aKsTLBaLnRjtdSX_wIMjEMj",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=xrYJ3XicfY_LjqNGFIalvM4oUnGxDdk15mYaCldRVGE2rTKFzaVw0zR0Y2veIa8w8sxEmiwnUdZ5jcnTxDPrTjZn8X_6zvnPr9ey_mv4uTP45OnuamW32822mcr7DfrSD49iKsZa_KFrpmkoy4WhGkDXlytTB18KPnL5eKzFh69VyYWsT2V8OJSD_Vi8bfxed_xY_sB_Kgt9od3CpW6oQF-s9NVi-XEQz9-6dZI8hPHDG_77_4i3OLYf_kf7wd9mn5-mcjh_jU_f278L62M11qfju_T-87G_1fzwsfs--pfxWh0_TZMs_74e5XVqr5W8lqffHnn_cij--Sl0hp29finWKO17amOQ0P6Jt3NctLNHmXzKmwCGWZBgYo3ClmdO4ZpQGWOSh2lD7ZCZQWFXsnRkz3xrzilFQkFzwZRnnFIape5SEFEXDMOI5TUGvZ54FROquaZSRBHYqAm1PNzmnPtiimSfZEAgobYaBkEI2UiwF9znLAIolV7hizxpXYAanKRq3mPWH8qmqmCtVFxaw76hbuyN7d6V27QbXyHIp9IPCHeKC-qEcrvVFk40Jk6wxMRVoAsZv0gCW0qwbyWF1m-Eh4P0IrloTQT9zWtJob63xW6ftWDfBhppjTNXj-OOinDvjBNzJUEXcd4B2FAg9UQTIE3ADLN-gyi1cmpZoq12SF3wSOIAETqwLO-YJ555K4A4wW1iw7FwZEwu8JVo_SCy4vaj8FMGnUijGWOmw9Le3hOZYU-QfYPr0hubHaii0puD3IYTpi4svfxQgGCdNNBBsgJlJggnd8ptv1U4BkAqAKVTwaiTg1Pl55ABfZdRHzo7DQI8pI5E_ERlAiT26sDCPjzHLE9FZ2a5L3OoVXFIxFOuKjFJwVioikq7aEZdgD_Nz8PhG7hzF2MS61vVkcmdEQ4CLvrU79q5mZXqQY4I_aKsTLBaLnRjtdSX_wIMjEMj"
+   },
+   {
+    "thumbnail": "https://serpapi.com/searches/6abce9af31aafea6d4f37357/images/mYhL02vFeAyW0tdC3LobjULeCKdj-IZMvRuFbPEKKI8.webp",
+    "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAFVBMVEUKN2H___8AFE8AM2X_aQD_ZgD_bACQuA0yAAAAPUlEQVQ4jWNgGFqACQzwyDOCAW4VQ0IBQW8Ou3BgBgPcCpjZWICADV0FkgIWViBgGVgF2B2JFFnYvTmIAQDulgHVh47YuQAAAABJRU5ErkJggg.png",
+    "source": "idealo compare prices",
+    "title": "Edit Cameron Flush Ceiling Light",
+    "rating": 4.8,
+    "reviews": 18,
+    "price": "£71.49",
+    "extracted_price": 71.49,
+    "immersive_product_page_token": "dzHfinicfVNLjuM2FARynUEAStQ3u5Yl2e22aFsSSYmbBi3Slizq07bc_mDukDu4ZwJMlh0g61xjcpqoke0k21dVr6qA9369y-rPw8-Nw09TI7Rtv149rvYn-fS4_tYfOnEqhkr8obmmppuGYWqOawPXdl3tW8EHrrrdiBpAd4Bu24bj6o4FbUOz3kvJhapaudxu5cHvipFmA80YV9iO45hQN3UTaL9XDd_Jf2HLtTQLGrZta7ZrwZEB3g7i-L2ZJMnzavIMHcs2HdOwdR1YUB99wOf_GsdL__n_ZB_4j7GvLyd5uL4v24_wnxbVrhyqdvcJP33d9R8pfyB5ayrxbtqWYek2HBtYmutAzX3rX4d7uftyOin5132n7qf6Xqq7bH_reP-6Lf7-qQyOR3_Snf017nvixyCdsnNcD0kKg2vS9GytP8Ico3ATCJJA9VoQB7Ka1RjG1wIMQ66Hgcz6Ktp7ncwiuN6X6zjsL0VDVmyiMVQzE99EFxM34JBZAqIkTcMpUuLIg37g-zJNa80jGJ2iluUp7s40JFhm83Ou7yBt467QnSHGZNg0lzNLRbshouagfCrS_Mab2F9kZV3MvGmqej0KxSCnO3NNcshv8yeJ1YKD_sKw-5pnxXn0WBJV3tgtvmBVehF2w1zVBg1DuiGopo2rUIaSnJY3pAiJ8JCiTGk5FV2RiRnS-yROiRZBb5mnnpEE0TXB7jShouezcCX3Yh4pr91QbYshgQUwS76fv2xUidiMHGg2NxANXzeBybGGSjoTQDZHKIOQS3--2GiCSNIHchoYMY7ZkoaebEMfU2Uhv2ScotVyxlYyDPtMJ5TWLovSRyOqd3o6E2NPNY1Ib6wJ60RzqVErWpqKFAXukfliSG7hFu1FldbOhdS9meLzUNzqW0KHQbaMbfRQ41CYQcmuCwqMPCMzFOQQgfiAA7XmLVEJUPG0mnvxDF2XlCVcBTcBYjJ69YXGZrEeJgmp4TpVkxgrk-tD_OVyPGy_g4fQHJKl8TIB6GoMx4zsC-fBy_qmGvrksm3gwy_j6wHbMg1nPGf7H542WuI",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=dzHfinicfVNLjuM2FARynUEAStQ3u5Yl2e22aFsSSYmbBi3Slizq07bc_mDukDu4ZwJMlh0g61xjcpqoke0k21dVr6qA9369y-rPw8-Nw09TI7Rtv149rvYn-fS4_tYfOnEqhkr8obmmppuGYWqOawPXdl3tW8EHrrrdiBpAd4Bu24bj6o4FbUOz3kvJhapaudxu5cHvipFmA80YV9iO45hQN3UTaL9XDd_Jf2HLtTQLGrZta7ZrwZEB3g7i-L2ZJMnzavIMHcs2HdOwdR1YUB99wOf_GsdL__n_ZB_4j7GvLyd5uL4v24_wnxbVrhyqdvcJP33d9R8pfyB5ayrxbtqWYek2HBtYmutAzX3rX4d7uftyOin5132n7qf6Xqq7bH_reP-6Lf7-qQyOR3_Snf017nvixyCdsnNcD0kKg2vS9GytP8Ico3ATCJJA9VoQB7Ka1RjG1wIMQ66Hgcz6Ktp7ncwiuN6X6zjsL0VDVmyiMVQzE99EFxM34JBZAqIkTcMpUuLIg37g-zJNa80jGJ2iluUp7s40JFhm83Ou7yBt467QnSHGZNg0lzNLRbshouagfCrS_Mab2F9kZV3MvGmqej0KxSCnO3NNcshv8yeJ1YKD_sKw-5pnxXn0WBJV3tgtvmBVehF2w1zVBg1DuiGopo2rUIaSnJY3pAiJ8JCiTGk5FV2RiRnS-yROiRZBb5mnnpEE0TXB7jShouezcCX3Yh4pr91QbYshgQUwS76fv2xUidiMHGg2NxANXzeBybGGSjoTQDZHKIOQS3--2GiCSNIHchoYMY7ZkoaebEMfU2Uhv2ScotVyxlYyDPtMJ5TWLovSRyOqd3o6E2NPNY1Ib6wJ60RzqVErWpqKFAXukfliSG7hFu1FldbOhdS9meLzUNzqW0KHQbaMbfRQ41CYQcmuCwqMPCMzFOQQgfiAA7XmLVEJUPG0mnvxDF2XlCVcBTcBYjJ69YXGZrEeJgmp4TpVkxgrk-tD_OVyPGy_g4fQHJKl8TIB6GoMx4zsC-fBy_qmGvrksm3gwy_j6wHbMg1nPGf7H542WuI"
+   },
+   {
+    "thumbnail": "https://serpapi.com/searches/6abce9af31aafea6d4f37357/images/mYhL02vFeAyW0tdC3LobjXqOSU1RfrZRR8yMdYKzDlk.webp",
+    "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSAxSOsUDFI3lFkqTMCPa5-xDTAYbwJNysHr8sVp0kmLurA3W0wcPjKDeQuZjo5Y0XHPNdkJmPI2aNgUeyBPaTyLDfEs6uV5De0lVc",
+    "source": "Cotterell & Co",
+    "title": "Midi 3 Light Bespoke Shade | Cotterell & Co Fern",
+    "price": "£197.00",
+    "extracted_price": 197.0,
+    "immersive_product_page_token": "-kk9W3icbY1JbtswAEXR8wQFqIEauotsy7FiSRYlkpF2tKiZthUNia1L9AqGkxRIlynQda_RnqYJuu3mbT7ef18vWfWz-7wz2LhUbV2fN5vVph6z21Xw2nYHPqZDxX8oCpRMA-qGpCoa0A1T119TNjBxKCp-fiszxkW1z_w8z7r5If2_8b3asSL7N0PDhIaqmbIMVQglRZPkp47355f7MetOb_7-4-5qXRXlUO2LK3z7UrTv3vlp94H2YbiUxfM4iuzXpRCXsbmU4pLtvx1Y-5Cnfz6Vi0M_m_WPVoDblswRCCWr9pTmiO84IrLUZkvIMiKO4eQ10W41bRtypEvnuKbERba18LGJEtmBAeDdGseKvzTDSPEOeOIKsrkVEPOUUqB4grSs5hOjK7DFeKDNI3RlHqNJNBk1a28SjC14kthOHgCRvDfCeMdDpFhJtgwUblsbDBy8jjjbChMmitBiYNdBJQXbhvcJsTVKUevP-QzJHuV3nASiJJyWN-7czmOsAiY8gUUbB2CYRZLDmGx6ETZOW5nXLoknDpKO2WSVTjZalMlpTYEa35EbbxErHkAdXoiA7YkIgUDLyrHQjXfyaRJRKqFATmUcES-uY4AAmFIZOpRg1Z2SeUwhej72Xf4bXNtwCH1tnRgeCsZMxm6_2YP83q0eJHnoU-P6i6SbQNegauiaavwF4bLYfA",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=-kk9W3icbY1JbtswAEXR8wQFqIEauotsy7FiSRYlkpF2tKiZthUNia1L9AqGkxRIlynQda_RnqYJuu3mbT7ef18vWfWz-7wz2LhUbV2fN5vVph6z21Xw2nYHPqZDxX8oCpRMA-qGpCoa0A1T119TNjBxKCp-fiszxkW1z_w8z7r5If2_8b3asSL7N0PDhIaqmbIMVQglRZPkp47355f7MetOb_7-4-5qXRXlUO2LK3z7UrTv3vlp94H2YbiUxfM4iuzXpRCXsbmU4pLtvx1Y-5Cnfz6Vi0M_m_WPVoDblswRCCWr9pTmiO84IrLUZkvIMiKO4eQ10W41bRtypEvnuKbERba18LGJEtmBAeDdGseKvzTDSPEOeOIKsrkVEPOUUqB4grSs5hOjK7DFeKDNI3RlHqNJNBk1a28SjC14kthOHgCRvDfCeMdDpFhJtgwUblsbDBy8jjjbChMmitBiYNdBJQXbhvcJsTVKUevP-QzJHuV3nASiJJyWN-7czmOsAiY8gUUbB2CYRZLDmGx6ETZOW5nXLoknDpKO2WSVTjZalMlpTYEa35EbbxErHkAdXoiA7YkIgUDLyrHQjXfyaRJRKqFATmUcES-uY4AAmFIZOpRg1Z2SeUwhej72Xf4bXNtwCH1tnRgeCsZMxm6_2YP83q0eJHnoU-P6i6SbQNegauiaavwF4bLYfA"
+   },
+   {
+    "thumbnail": "https://serpapi.com/searches/6abce9af31aafea6d4f37357/images/mYhL02vFeAyW0tdC3LobjVpCR3hTx5p7sP_fOju9WqA.webp",
+    "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAANlBMVEUAAABhYWH09PTLy8wAAAAbHBzV1dYAAAAAAAD____4-Pnp6epvb29FRkd8fH0yMjO6urqkpKXcijMaAAAACXRSTlPe________4MJ-9UPwAAAAl0lEQVQ4jd3SSw7DIAwEUCDG6ZBg4P6XLZAs2vDJIpuqs0DIPAnZoGgepf4FROd895CNqYAB3QUGsB_AiogtdWu7IKEkES3A3gE7jsgI5LKJucIjsJVFA9sEeAp3wD8GN1dI6bUCycOybZvIGyx1VxK-gT7LegRI3DFIinAlDSDy-vLqV9DEnSAxhy6IzD_zq5-BVc2zvt7xhhQIO5XcTwAAAABJRU5ErkJggg.png",
+    "source": "Online Lighting",
+    "title": "Dar 7.2W Warm White Dimmable LED Decorative Filament GLS Bulb",
+    "price": "£31.99",
+    "extracted_price": 31.99,
+    "delivery": "Free delivery on £70+",
+    "immersive_product_page_token": "3c6dFXicHZLNbptAFEbV54kqzQzDMHQX20BM7SEe_mx2mMGGMGCCwcG8RF-hcpJK6TKNuu5rtE9TkvV379F3r863S5r_bj6XNO4sbGrarLid39516df56qVuDqJL2ly8QQKxrgONIEUDOiAYaeglidtYHva5eKVAwwoFUFcoxoASXXvN0ljIvEqd3S5tZockF7-QqkOVUqopOiIfw-RnXsb79CN-gxACjHWiEqwRBUBNV9XHRhy_P993aXN-dap33tUi32dtXu2v_K_P-_qdS7CKNUyoDjDUiI4o0B_LsZWqEUwQJaqiEoQgpuixPrWXbP_UdTL9c9nLS1dcMnlJqx-HuD7tkn-fLkazmU5PyWTl13Uw48Az9v0mbJtFuMRBYPbRTdYlpsTb0Lb4IGVUqudozc6sEjlTrkGE8LBBRs-AOduWauHl0IlKMSQw4wGSkpVZ7K597Jhs8AIKWChaF7SmMNntwg8gQyJw5XxgRdYxqLvhWq63oT4RRl2Entgw3y6jijfMX2I3YHFi2PeuIk7BDWdizP2QTSOwOrOwNiOF90nR-rFkfTIz10lgx5H1gDwL9snApajqkzDgbgmimp_hxLFsvvHsfoX603JgWeDZ1dbwW-9uYqSeWW2Rehzvdxahzd1CDV1TKJ6hT4IpnI0MHBW9dMb9WDGZf4bD1rN5wOdhksPWsUzIB26xQRgxnNi-VcPIb22fH_KVz4fkTpY-Wj2IEPZLKXahVcttMBl_bodbz2SenOO4sG_Ew1N_bHZ_wbWptq5DFhFlfNWlyF8ebyuwu1_mJ4jaY0Kvv4wKjcqqmI4i0P8xj_sc",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=3c6dFXicHZLNbptAFEbV54kqzQzDMHQX20BM7SEe_mx2mMGGMGCCwcG8RF-hcpJK6TKNuu5rtE9TkvV379F3r863S5r_bj6XNO4sbGrarLid39516df56qVuDqJL2ly8QQKxrgONIEUDOiAYaeglidtYHva5eKVAwwoFUFcoxoASXXvN0ljIvEqd3S5tZockF7-QqkOVUqopOiIfw-RnXsb79CN-gxACjHWiEqwRBUBNV9XHRhy_P993aXN-dap33tUi32dtXu2v_K_P-_qdS7CKNUyoDjDUiI4o0B_LsZWqEUwQJaqiEoQgpuixPrWXbP_UdTL9c9nLS1dcMnlJqx-HuD7tkn-fLkazmU5PyWTl13Uw48Az9v0mbJtFuMRBYPbRTdYlpsTb0Lb4IGVUqudozc6sEjlTrkGE8LBBRs-AOduWauHl0IlKMSQw4wGSkpVZ7K597Jhs8AIKWChaF7SmMNntwg8gQyJw5XxgRdYxqLvhWq63oT4RRl2Entgw3y6jijfMX2I3YHFi2PeuIk7BDWdizP2QTSOwOrOwNiOF90nR-rFkfTIz10lgx5H1gDwL9snApajqkzDgbgmimp_hxLFsvvHsfoX603JgWeDZ1dbwW-9uYqSeWW2Rehzvdxahzd1CDV1TKJ6hT4IpnI0MHBW9dMb9WDGZf4bD1rN5wOdhksPWsUzIB26xQRgxnNi-VcPIb22fH_KVz4fkTpY-Wj2IEPZLKXahVcttMBl_bodbz2SenOO4sG_Ew1N_bHZ_wbWptq5DFhFlfNWlyF8ebyuwu1_mJ4jaY0Kvv4wKjcqqmI4i0P8xj_sc"
+   },
+   {
+    "thumbnail": "https://serpapi.com/searches/6abce9af31aafea6d4f37357/images/mYhL02vFeAyW0tdC3LobjWZbJ318JS8cJAX_kLgfeNA.webp",
+    "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAYFBMVEVHcEz67hjl2hb57hj_9Bn_8xn_9hne1BX_9Bn_-BkAAAAZFwH-8hj_9xmmmgpwcHDl5eUhHgb_6gYLCwFZVAnEsQ2Mhg7IvhSlpaWQiQ7SyBXAwcF1bwvT09MyMzSHh4d4_koBAAAACnRSTlMAUixTqfLOHZfl8wsVjAAAAONJREFUOI2Nk1kWgyAMRbFOEAJthUqlave_y4oDah3wfnHISwgZCJmJaJYKkWY0IjvkCdpKcwCuK4tJ_m-nKDvjBJdI1-7MKFihDFsEuYkSNpTi5v1FvbUD1GKKwXb8-xhszM-s75_-ZPpMc3T5NXf_A_QKhe6RRLrzYxYUcwiZdALkxwKOXX0tHAvARoRWZ4KKkkyfCXRGUn4m4CkRcCYAERYEnwgmGfxmvC3UYnZs7EvdfAZaXsgR3Zd6bNb3PdKq14QemjW0e5eh3ZuBmTH02siFhzY49uHFCa_eheV17K7_D2HoJhI2jVnuAAAAAElFTkSuQmCC.png",
+    "source": "Living Lights",
+    "title": "Sander Shade Cluster Ceiling Light Matt Black Amber Blending Glass Shade 3x E27",
+    "price": "£149.99",
+    "extracted_price": 149.99,
+    "delivery": "Free delivery",
+    "immersive_product_page_token": "oi2IIXicHY5LbtswFEXR9QQFSOrfWWxLspWItmWTkjhTRP2pT2Q5VbSJbiFwkgLpMA067jba1dTu4D48vIN3cL-dkuJX_7nWo6MtW5q2qDarTXlMblbbt65v-TEeCv4BdQkiDQFD1QxZ0mXDUJS3OBoi0WYXDC53FcgG0hTtMlXjPU8iLoomWadp0i_auOA_NV2BugoMSZMVABVDR_qPoo6y5D_-gArUZF1WVChJqipDSUHac88PT6_3x6R_fF83F9_VbZHlQ9FkV-TmNesu3kslqEOknAORgSRVf64L_vTcPQynPHs5HkXy-5SJ07E65eKUNN_bqHtI47-fTmYfzucP8WxLuo4uPLC3c5NV-N4D0OdLMsQBK33TkcPKHUjgyKQUxX7KgWuy0Q0svCtXKAZO4_sHSMgY-jU7xrZFPZPmrJwh7rPAP-8ewntesoYVYIoRc85eidtQ9RbeKppmUYiGZo-82ifZyCsldCW6dtHokMacsDnSrcAtqRQ_JNDGcHbLAGt2qFtiYk14Dg9-bTxg0S0oyXe8sQ6xaa1x42y5yb5ywrfcypSoHp1b30sT6slhDTcu7NK46ahLWUGqbo6pY0d77xBXdH3XsFWInHGPRHS3EDg26ZSQEdOl0_pEn-7A6GIhTF-Egxu08s7OZy6iKR9XflzAYW1b0Js8G0_cjODMIXYHGRkc4rXFlnhTXIqagMFlgg20tDZJnQE_cPrzX8VLIfDS2ez9sSHbl_HQp3_AtaUMu7V8Pwf4UR4OAS1j_XoWdHUxdLsxraXrL1AzgKYqsq6psvYP4sr5eg",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=oi2IIXicHY5LbtswFEXR9QQFSOrfWWxLspWItmWTkjhTRP2pT2Q5VbSJbiFwkgLpMA067jba1dTu4D48vIN3cL-dkuJX_7nWo6MtW5q2qDarTXlMblbbt65v-TEeCv4BdQkiDQFD1QxZ0mXDUJS3OBoi0WYXDC53FcgG0hTtMlXjPU8iLoomWadp0i_auOA_NV2BugoMSZMVABVDR_qPoo6y5D_-gArUZF1WVChJqipDSUHac88PT6_3x6R_fF83F9_VbZHlQ9FkV-TmNesu3kslqEOknAORgSRVf64L_vTcPQynPHs5HkXy-5SJ07E65eKUNN_bqHtI47-fTmYfzucP8WxLuo4uPLC3c5NV-N4D0OdLMsQBK33TkcPKHUjgyKQUxX7KgWuy0Q0svCtXKAZO4_sHSMgY-jU7xrZFPZPmrJwh7rPAP-8ewntesoYVYIoRc85eidtQ9RbeKppmUYiGZo-82ifZyCsldCW6dtHokMacsDnSrcAtqRQ_JNDGcHbLAGt2qFtiYk14Dg9-bTxg0S0oyXe8sQ6xaa1x42y5yb5ywrfcypSoHp1b30sT6slhDTcu7NK46ahLWUGqbo6pY0d77xBXdH3XsFWInHGPRHS3EDg26ZSQEdOl0_pEn-7A6GIhTF-Egxu08s7OZy6iKR9XflzAYW1b0Js8G0_cjODMIXYHGRkc4rXFlnhTXIqagMFlgg20tDZJnQE_cPrzX8VLIfDS2ez9sSHbl_HQp3_AtaUMu7V8Pwf4UR4OAS1j_XoWdHUxdLsxraXrL1AzgKYqsq6psvYP4sr5eg"
+   },
+   {
+    "thumbnail": "https://serpapi.com/searches/6abce9af31aafea6d4f37357/images/mYhL02vFeAyW0tdC3LobjWaeUgPftJf_DUBUOWlKvGs.webp",
+    "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAY1BMVEX_____8cz_1FT_9t__8tD_-OX__vr_--__-en_1l__8Mf_4pT_7Lr_0k3__fT___z_2nD_9Nj_6rT_5p3_6az_78D_5qL_4Ir_3Hn_0ED_zzn_4Y__34T_1Vn_3X7_56f_zixM8ktdAAAAx0lEQVQ4jdVSyxKDIBADBBSVN1X7oPX_v7LUdqoLjuc2l2UnYTZZQOiv0DjvXZ0O2mJal7wTjrEQW9Qafwpm4BkfyHLJklGwVPnUQb46s_ehvzRL5ZICwXjNRw63bccJzgVUbLtaVrmgIupYwIBAx2KEjSBoabI30JJUmeD-AK02sC9d2RmuP0z5zAHk5nMRC5nt9u--4JESq42e5I_5QvNVYMl2-OQ8-g9vd_kUdjIpiyv3viJg3pmd_7bCmk4f8crTI_pX8QTGqwdmCet-HgAAAABJRU5ErkJggg.png",
+    "source": "Lighting And Lights",
+    "title": "BANDEAU Oiled Bronze/Polished Chrome/Amber Spotlight",
+    "price": "£29.70",
+    "extracted_price": 29.7,
+    "immersive_product_page_token": "gSR7w3icdYxNbptAAEbV80SVZhhs7O6M-bGJPdgMM8DsMIP5GzDBkNi-RK8QOUmldBlVXfca7WmaSN128y3e0_u-XtPiZ_e5nsSDrVqaZlSb5aYc0tvl9rXtDmJI-kL8gKPpGKhoqiojTVO0EdIm49ck7mN5yArx-JansZBFk7r7fdoZh-Q_yfeijrP0n4dwAqA2QZqqKiqAyjt46sTx8eVuSLvzm9t8HN6siizviya7obcvWfsePj7VH9Pe99c8ex4Gmf66ZvI6VNdcXtPm2yFu7_fJn0-5eTjO58cHfUvblhke8OdwjgMe-VAfM4Nt3ACSbW31qWG1vsJ1LqdGiOTCDeWwChyD24J5SDqJjfmOeS6xTOjD6LKjuRPXFo7B1CUoRwJh5Ia82NETEZSDeCEcRiUg9omkFnbTcvlAagfxCnqplF0M8y5u5DKWW4ADOBahg8gl92ngbNd2i9fh7CIWsowgPfuh1wR2v1xDSSm1wK5kdL3QjcDKV77iRL6dkySUl8DiK1I_KD6zTIYYZpXomMmXNDj53JQ2rqKzgM5pZ-gXM-fnVQDUKGQLbEYIA6-jptzGDZMESM8uHN1b4LMbcI-Ujo8rnCfIueDK8injG69MwNrGclfBlbCn6Pl07Pa_wcwa9cRV7-YAn9X-GLIymcz0sK2LviWnfY1mX6A2Bdp4pE60sar9BQ4A2aQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=gSR7w3icdYxNbptAAEbV80SVZhhs7O6M-bGJPdgMM8DsMIP5GzDBkNi-RK8QOUmldBlVXfca7WmaSN128y3e0_u-XtPiZ_e5nsSDrVqaZlSb5aYc0tvl9rXtDmJI-kL8gKPpGKhoqiojTVO0EdIm49ck7mN5yArx-JansZBFk7r7fdoZh-Q_yfeijrP0n4dwAqA2QZqqKiqAyjt46sTx8eVuSLvzm9t8HN6siizviya7obcvWfsePj7VH9Pe99c8ex4Gmf66ZvI6VNdcXtPm2yFu7_fJn0-5eTjO58cHfUvblhke8OdwjgMe-VAfM4Nt3ACSbW31qWG1vsJ1LqdGiOTCDeWwChyD24J5SDqJjfmOeS6xTOjD6LKjuRPXFo7B1CUoRwJh5Ia82NETEZSDeCEcRiUg9omkFnbTcvlAagfxCnqplF0M8y5u5DKWW4ADOBahg8gl92ngbNd2i9fh7CIWsowgPfuh1wR2v1xDSSm1wK5kdL3QjcDKV77iRL6dkySUl8DiK1I_KD6zTIYYZpXomMmXNDj53JQ2rqKzgM5pZ-gXM-fnVQDUKGQLbEYIA6-jptzGDZMESM8uHN1b4LMbcI-Ujo8rnCfIueDK8injG69MwNrGclfBlbCn6Pl07Pa_wcwa9cRV7-YAn9X-GLIymcz0sK2LviWnfY1mX6A2Bdp4pE60sar9BQ4A2aQ"
+   },
+   {
+    "thumbnail": "https://serpapi.com/searches/6abce9af31aafea6d4f37357/images/mYhL02vFeAyW0tdC3LobjXGsGeer8AcHvVV4Rmxve60.webp",
+    "source_logo": "https://serpapi.com/searches/6abce9af31aafea6d4f37357/images/mYhL02vFeAyW0tdC3LobjUH33MKHWAfrsJ5LyLA0l8RDYIgoGxrqIIfPmt7v9Obq.png",
+    "source": "Price Radar",
+    "title": "Endon Lambeth 4 Light Pendant Antique Brass",
+    "rating": 4.8,
+    "reviews": 49,
+    "price": "£83.99",
+    "extracted_price": 83.99,
+    "immersive_product_page_token": "CKqPHHicfVPLrqNGFJTyO6NI3dC8srsYGl9s2qaBBnpzRWhssBuMMR5fW_mH_IPvTKTJ8maUdX5j8jXB2eaxOJuqUzpVJZ2f71Xz-_B9axZnD2HDcPbr5_XuXC2ewy_9cBDncmzEV2gqGjAsQ9dM00I6grqCvpTFWMjD9kFD3YSGqT12LAWZhqGA97oqhGy6arXZVINzKBvxm2JqEAGgq8gygGEaJjJ_bdpiW_1Nf4XKpFOhZiHN0AygA2SYb4M4fWtmUfSynr1oCE0Y0CwDmjq0VKD89B8oXTkv_yN60P9KfT6eq-H6vuoezj8sm209Nt32Q7L4vO0ni-__VLy1D9jQ0VTJlA-YmjKN-tZ_HO_19tP5LKs_7lt5P-_vtbxX3S-Hov-4Kf_8rnZPJ2d2uDhh0vfMoSDa57fUFft4D29lylsyrxepx1wKS407dlwmoyugnBUxW8VASwNonUIYAAF5FCtCY8A_iF0NwpSEJOW3MrFmlVOCBNJ1FLMbUXASttjLVbGuuhqXss-yWwjLlo7CtS485hlN_RnP-CoEB1hCcs0h1QPAilDpZ8yTNk-YnTJ8TOJ6EXR-FKk9XmFrEyvbS-zgU7gjhxWWiKkCJJi-UinXkeQDUUyV7DCsmH9msA5zlakFwGGcUkdImi9TGBVerbK5VJmizTmcMihioJDuA1beCLBUFvM8iO02avcXwfBIOjFSpfYJq-0iI7uihVnUsXm1p1EUc5Z6dS6U2i06fgx38lZ2PiJqn0eA5mErxhhSP0rNyUd5TVufUUyU5CavUUK6oBNO4mmBwDlKY0nKG83Z1Bx3cJG24_JHLHAC-mzlSpsxVvMYN3RHHNrSI_VoV2T9sXKJylt_4POtSmPeF2rPBahDnmqnZQKnG9TnyhYUc7wgmA55x-zC45pb8-syBSjP2Jy4uUoAHRJXhkXHZAQk9RrfpnNyXaU8LvfBhSQWIvtRSZgli64HpSPGwHnWaBdAynr70-tp2HwDT1gboxU6zgC5ovGUsV1pPtlZ3zZjH71uWvXpB2hYYPrx6YF1ZPwFYSxTmg",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=CKqPHHicfVPLrqNGFJTyO6NI3dC8srsYGl9s2qaBBnpzRWhssBuMMR5fW_mH_IPvTKTJ8maUdX5j8jXB2eaxOJuqUzpVJZ2f71Xz-_B9axZnD2HDcPbr5_XuXC2ewy_9cBDncmzEV2gqGjAsQ9dM00I6grqCvpTFWMjD9kFD3YSGqT12LAWZhqGA97oqhGy6arXZVINzKBvxm2JqEAGgq8gygGEaJjJ_bdpiW_1Nf4XKpFOhZiHN0AygA2SYb4M4fWtmUfSynr1oCE0Y0CwDmjq0VKD89B8oXTkv_yN60P9KfT6eq-H6vuoezj8sm209Nt32Q7L4vO0ni-__VLy1D9jQ0VTJlA-YmjKN-tZ_HO_19tP5LKs_7lt5P-_vtbxX3S-Hov-4Kf_8rnZPJ2d2uDhh0vfMoSDa57fUFft4D29lylsyrxepx1wKS407dlwmoyugnBUxW8VASwNonUIYAAF5FCtCY8A_iF0NwpSEJOW3MrFmlVOCBNJ1FLMbUXASttjLVbGuuhqXss-yWwjLlo7CtS485hlN_RnP-CoEB1hCcs0h1QPAilDpZ8yTNk-YnTJ8TOJ6EXR-FKk9XmFrEyvbS-zgU7gjhxWWiKkCJJi-UinXkeQDUUyV7DCsmH9msA5zlakFwGGcUkdImi9TGBVerbK5VJmizTmcMihioJDuA1beCLBUFvM8iO02avcXwfBIOjFSpfYJq-0iI7uihVnUsXm1p1EUc5Z6dS6U2i06fgx38lZ2PiJqn0eA5mErxhhSP0rNyUd5TVufUUyU5CavUUK6oBNO4mmBwDlKY0nKG83Z1Bx3cJG24_JHLHAC-mzlSpsxVvMYN3RHHNrSI_VoV2T9sXKJylt_4POtSmPeF2rPBahDnmqnZQKnG9TnyhYUc7wgmA55x-zC45pb8-syBSjP2Jy4uUoAHRJXhkXHZAQk9RrfpnNyXaU8LvfBhSQWIvtRSZgli64HpSPGwHnWaBdAynr70-tp2HwDT1gboxU6zgC5ovGUsV1pPtlZ3zZjH71uWvXpB2hYYPrx6YF1ZPwFYSxTmg"
+   },
+   {
+    "thumbnail": "https://serpapi.com/searches/6abce9af31aafea6d4f37357/images/mYhL02vFeAyW0tdC3LobjU0k_oak78RejCbuZ2gj3SQ.webp",
+    "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAaVBMVEX_EyT_____ABP_AA3_s7f_AAD_ABj_kpj_n6T_AAn_bHT_p6z_wcX_iY7_ABX_eoL_CR7_m6D_sLT_dX3_WmT_yMv_anP_i5H_g4r_2t3_09X_JTT_Fyn_TFb_7O3_o6j_4uT_ur__Q055tQhDAAAAuUlEQVQ4jdWS3RKCIBBG-VAwTRN_SLOS6v0fMiQhbJKbpgvPFcweht2dj5ANIigVoTovpTzygBApoKMhYQcUfxB45GAV0DN7mwcSWR1b6hMwuGt3ngxaY5XhIoi4rtdNPzwDxsTSSSDuixf6u31qhJz5TTaMGqazFVJ_zPLwPv8mpKvC3BFTXwSqG7vZPY2A-hR4u9yD_m4SpBMIu_v1XGdHPKqq8TLEWre1pDUPdQoXGePUEcretngCd30KCPRU0dMAAAAASUVORK5CYII.png",
+    "source": "Redbrain",
+    "title": "Endon Lighting Somerset 118751 Vintage Brass Clear Ribbed Glass Flush Ceiling Light",
+    "price": "£110.89",
+    "extracted_price": 110.89,
+    "immersive_product_page_token": "C3cvj3icHZLNbts4FIUxzxMMQIqkfmZnx6Jjp6YiWqQc7hRRlmSTtuxIia2X6CsUTlugXaaDWfc12qepPKu7OOfc7x7gfrwU9X_Hv62fdVNMPW-yfZg9bLrifhZ_a4573eVtrf-FhBAH-8BzIHYwJsgLvG951mZmX15lJxhUHAwTIje4uoP3qsi0qXdFtF4Xx8k-v_pggFxnSHuEuH7g-S5B32ublcX_-g_XhQgjBLFHgoC4gHjw7aifP305dMXx_B7trvtuPtRl1da78kbcfymbaw4BDK90HwwZhH0Xgzdb63fiudh1fOwPPB96Dgrempf2UpWfu84UPy-luXTbS2Uuxe7rPmte1vnvvy7h8fH29iUfx6Jp5ISDpc1bNZn18abiKj2towmji60SUVI50oyAMPMZT-WBCW600WJBwxNDimU2PnPRrrK7seVT2LGUn7IaxlkvqQYKKiDXT6LirF-AaFXtGdBEw7Jl0lB5NxeP9hkJR231dg6erFQrIA-Jmbd8GkQFnb0qR8JHQFIB5jgx4sQSBpLUAB0G9-mOxvkZYgUXr_mW3glLHziUwx2GMEtm6ZbHWTJyMtA2kawWrKc9C5udnrLD0Hn-iMS5kLRXjtmtHHUrTOwsTQMFGvcfVlWz2NLlwB-rhL1mfYkLGZzkhnc6bCcSQCNoZaM7lWkkY85naV7DNppSyHs-Zb0OMziei2kDlWjngu_rWPA-3xgrLAtlyBiH9KzCBeJCU2XpLEn5MbHsnE1bHsefT8_H9S8woqRdRvhwC9gZt88rucn90XjV2Lptlqe1RaN_oBcAzyXDA7jY-wMOJPq7",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=C3cvj3icHZLNbts4FIUxzxMMQIqkfmZnx6Jjp6YiWqQc7hRRlmSTtuxIia2X6CsUTlugXaaDWfc12qepPKu7OOfc7x7gfrwU9X_Hv62fdVNMPW-yfZg9bLrifhZ_a4573eVtrf-FhBAH-8BzIHYwJsgLvG951mZmX15lJxhUHAwTIje4uoP3qsi0qXdFtF4Xx8k-v_pggFxnSHuEuH7g-S5B32ublcX_-g_XhQgjBLFHgoC4gHjw7aifP305dMXx_B7trvtuPtRl1da78kbcfymbaw4BDK90HwwZhH0Xgzdb63fiudh1fOwPPB96Dgrempf2UpWfu84UPy-luXTbS2Uuxe7rPmte1vnvvy7h8fH29iUfx6Jp5ISDpc1bNZn18abiKj2towmji60SUVI50oyAMPMZT-WBCW600WJBwxNDimU2PnPRrrK7seVT2LGUn7IaxlkvqQYKKiDXT6LirF-AaFXtGdBEw7Jl0lB5NxeP9hkJR231dg6erFQrIA-Jmbd8GkQFnb0qR8JHQFIB5jgx4sQSBpLUAB0G9-mOxvkZYgUXr_mW3glLHziUwx2GMEtm6ZbHWTJyMtA2kawWrKc9C5udnrLD0Hn-iMS5kLRXjtmtHHUrTOwsTQMFGvcfVlWz2NLlwB-rhL1mfYkLGZzkhnc6bCcSQCNoZaM7lWkkY85naV7DNppSyHs-Zb0OMziei2kDlWjngu_rWPA-3xgrLAtlyBiH9KzCBeJCU2XpLEn5MbHsnE1bHsefT8_H9S8woqRdRvhwC9gZt88rucn90XjV2Lptlqe1RaN_oBcAzyXDA7jY-wMOJPq7"
+   },
+   {
+    "thumbnail": "https://serpapi.com/searches/6abce9af31aafea6d4f37357/images/mYhL02vFeAyW0tdC3Lobjff0PBOiDRd77BYOYhUgTwY.webp",
+    "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAdVBMVEX29fD39vH19O_6-fTy8uz29e9YWlf____5-fL8_Pf___v6-fXv7-za29fx8u1mZ2XGxsJeYF_l5uBSUlLS08-rq6eenpzl5OKxsbBkZGZYWFjAwbxkZWOBgYNzc3DHycN7fXhqbGh2dnWampeQk5RhYVyMi4t4G9nDAAABVklEQVQ4jYWT63KDIBCF2YVFEIkSDVW0RmOS93_EYtIfarXZGccZ-fZw9iJjmwBgiNuPK4B9AD7Gx3TA1zW7uZwE6QKEogMVBKXOZaWUogPxCFyCT4ntK8QOwFfelKdIHlWga9eE1hwCjHfu2_XZQRnI4Vp2tneF3jdJ2WmQl8TLMd3XB6rcaLWV0up9hfTmJk3p4KZ9l-osS6tQt11utwCAQTJ3OWgizKJEqoTYQGi-xkeRkIakLR9CqVU7ERCTKfRFW8So87LWxFf-AE3mcueCczK4brydOIglQMJcQnd__kbj2nTVTiMoWvN6HlNcWvFshoSWQMZ1HWKT5nVCBroKsuJLk4B6lBOIeSFRIJgxeL30APwapOWxGADgTMSx53ZZBoqh7NN4iFFjftm89KuBnL2veFx5eP9YZFrv1fKKOW2piMDXJuH9HMYWgFf8k8D-nh_yPzaQEW1vODIJAAAAAElFTkSuQmCC.png",
+    "source": "AMOS Lighting + Home",
+    "title": "Allegra 6 Light Semi Flush Ceiling Light",
+    "rating": 5.0,
+    "reviews": 23,
+    "price": "£100.00",
+    "extracted_price": 100.0,
+    "delivery": "Free delivery",
+    "immersive_product_page_token": "4dve6nicfZLLjqNGFIalvM4oUhVQXLLzBXxpA6agqjCbFlDYXApctnEbW1lnm3dwz0SaWfZEWec1Jk8Td5TlJNvznf_o-6Xz672o_jj-2JrpeaY5hjFt1ot1fS6eFsFnedzzc95X_HcIoGkB1VRNE2rAtKBlqp_ztE_FfveOVU1BUEUI6IZqQFOFSH0ri5SLqiv87bY4Tvf5P3tIswykQxUqGtQ1aOnoS9Wmu-JfbpiGYem6YliKhZBpAqS_HvnpWzsJw-f15BnqCkCqpaoGAopq6lC3fv6vMfanz_8Xe-ffZ58O5-J4ffO7d_0Pq2pX9lW3-0CePu3kQ_PrdyKvbcXfkKFruvLe0Hyow4f9q3zp7-Xu4_ksij_vO3E_N_dS3Ivut30qX7b5Xz_8Yp_t6eSwmAZESjrFILyVTRYtYy8q1wTILW-p60IXsNZiPuGLTS3qfGaF2QQGYTdOs4gOaYNFNBMg6_BA5stJBoYLbvfXDSsPrkgoa8tVpogL68YunsG12yQ-V4UX0VzNmYZYl7y46mhIbHlaxXhKmj1Kut2NKPyJ2jbwGb2lUypXzLpFjdS5kHIVccedDSFjEkUzvqFtPylqxw0B9gmgjtslwaZJeqpIwAFtA-KATZvE9OHmduU6u43bGDixT6xJUFNcRJ6HQ7giihxS0Nuhw6uiGRYECJJAeciI9DZk2Hg2jiJ2Qri1ewzQOQEldFtnkoNNH8JymdrwRCGtQ0j9iC3xiom-EFYVAqsp5niIhOVm9aO7wPOC9UkhsJvM6TqPR4PX9oCoYxyIxCligYoY16vYm_DavTAh7Ujh1YouPcb2VzLnOACek9nWnijLGgu-SAQZchJoUTdSPOEJXI-dZCbxJh6HaTfWKVmuH7e1TEkWPnN8zxZbPOXUpWUbUBPkLX50R2o-l2PSNteQCSWgo6sbl_WK7hWfWteEBJdkWLC8gr0_cyC-4Zl343YKx0sykzAh_ZLgfRUQfMtr0ZI4UD17mVAo2UaV1K1Hl4LawGX8JagFZrFzDoKPw-m4_QZGDupDXztMgHfV-lNM69wcjWPZVr0Mh22rjn6ChgUMHWnm49mNvwF88mRQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=4dve6nicfZLLjqNGFIalvM4oUhVQXLLzBXxpA6agqjCbFlDYXApctnEbW1lnm3dwz0SaWfZEWec1Jk8Td5TlJNvznf_o-6Xz672o_jj-2JrpeaY5hjFt1ot1fS6eFsFnedzzc95X_HcIoGkB1VRNE2rAtKBlqp_ztE_FfveOVU1BUEUI6IZqQFOFSH0ri5SLqiv87bY4Tvf5P3tIswykQxUqGtQ1aOnoS9Wmu-JfbpiGYem6YliKhZBpAqS_HvnpWzsJw-f15BnqCkCqpaoGAopq6lC3fv6vMfanz_8Xe-ffZ58O5-J4ffO7d_0Pq2pX9lW3-0CePu3kQ_PrdyKvbcXfkKFruvLe0Hyow4f9q3zp7-Xu4_ksij_vO3E_N_dS3Ivut30qX7b5Xz_8Yp_t6eSwmAZESjrFILyVTRYtYy8q1wTILW-p60IXsNZiPuGLTS3qfGaF2QQGYTdOs4gOaYNFNBMg6_BA5stJBoYLbvfXDSsPrkgoa8tVpogL68YunsG12yQ-V4UX0VzNmYZYl7y46mhIbHlaxXhKmj1Kut2NKPyJ2jbwGb2lUypXzLpFjdS5kHIVccedDSFjEkUzvqFtPylqxw0B9gmgjtslwaZJeqpIwAFtA-KATZvE9OHmduU6u43bGDixT6xJUFNcRJ6HQ7giihxS0Nuhw6uiGRYECJJAeciI9DZk2Hg2jiJ2Qri1ewzQOQEldFtnkoNNH8JymdrwRCGtQ0j9iC3xiom-EFYVAqsp5niIhOVm9aO7wPOC9UkhsJvM6TqPR4PX9oCoYxyIxCligYoY16vYm_DavTAh7Ujh1YouPcb2VzLnOACek9nWnijLGgu-SAQZchJoUTdSPOEJXI-dZCbxJh6HaTfWKVmuH7e1TEkWPnN8zxZbPOXUpWUbUBPkLX50R2o-l2PSNteQCSWgo6sbl_WK7hWfWteEBJdkWLC8gr0_cyC-4Zl343YKx0sykzAh_ZLgfRUQfMtr0ZI4UD17mVAo2UaV1K1Hl4LawGX8JagFZrFzDoKPw-m4_QZGDupDXztMgHfV-lNM69wcjWPZVr0Mh22rjn6ChgUMHWnm49mNvwF88mRQ"
+   },
+   {
+    "thumbnail": "https://serpapi.com/searches/6abce9af31aafea6d4f37357/images/mYhL02vFeAyW0tdC3LobjQ3TsSDX_ezr06XL77AYo3Y.webp",
+    "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAdVBMVEX29fD39vH19O_6-fTy8uz29e9YWlf____5-fL8_Pf___v6-fXv7-za29fx8u1mZ2XGxsJeYF_l5uBSUlLS08-rq6eenpzl5OKxsbBkZGZYWFjAwbxkZWOBgYNzc3DHycN7fXhqbGh2dnWampeQk5RhYVyMi4t4G9nDAAABVklEQVQ4jYWT63KDIBCF2YVFEIkSDVW0RmOS93_EYtIfarXZGccZ-fZw9iJjmwBgiNuPK4B9AD7Gx3TA1zW7uZwE6QKEogMVBKXOZaWUogPxCFyCT4ntK8QOwFfelKdIHlWga9eE1hwCjHfu2_XZQRnI4Vp2tneF3jdJ2WmQl8TLMd3XB6rcaLWV0up9hfTmJk3p4KZ9l-osS6tQt11utwCAQTJ3OWgizKJEqoTYQGi-xkeRkIakLR9CqVU7ERCTKfRFW8So87LWxFf-AE3mcueCczK4brydOIglQMJcQnd__kbj2nTVTiMoWvN6HlNcWvFshoSWQMZ1HWKT5nVCBroKsuJLk4B6lBOIeSFRIJgxeL30APwapOWxGADgTMSx53ZZBoqh7NN4iFFjftm89KuBnL2veFx5eP9YZFrv1fKKOW2piMDXJuH9HMYWgFf8k8D-nh_yPzaQEW1vODIJAAAAAElFTkSuQmCC.png",
+    "source": "AMOS Lighting + Home",
+    "title": "Dar Lighting Izzy 4 Light Polished Chrome Glass Semi Flush Ceiling Light",
+    "rating": 4.6,
+    "reviews": 21,
+    "price": "£91.00",
+    "extracted_price": 91.0,
+    "delivery": "Free delivery",
+    "immersive_product_page_token": "qPqkFXicfZLNjqNGFIWlvM4oUhVUYZzduAG7sSmbKqowbFqYwsZQ4BqM_1DeIe_gnok0WXakrPMak6eJO1nmZ3u_e47Oubo_3Yv9b933jZ2dpsgbjZx69byqTsX8Ofyqu4M85f1e_jrGhjkCYGyZYwTQyDIB_JpnfaYOuweF8IFM07ANhMcjgGzbeiuLTKp9Wyy326JzDvljDb0bGPixBOAY4NHYgL_sm2xX_I0xBggYhoWQ-XBBtjUCr508fmueGHtZPb0ghBE0LRvDsQ0te4xt68f_GtOl8_J_snf-7-zLp1PR3d6W7Xv4D4v9ruz37e4Dn3_Z6b9K_FPy2uzlGx5Z6FHuUcAcW48zIOtVn_t7uft8Oqni9_tO3U_1vVT3ov35kOnzNv_ju9I9Hp2nw8UJudbCoYBFtEmG1GOVmAY3uNwYaZbEYisdcuJcn8isjCKPhIkpSz6teyomXe54Kh9yKOHkGgK9ZjERgUiMcAhva4NaGb_SBfcmsrkS0sqjhCWmyjcCIz1tRA02kY9kSzmL6YqbzwN1r-0a0jNXEmagbzKPuqTyu6IWNFlTL2q1k7RilVdkyhWdkFb5uePPpaEt5vpXYjzfGJBzsS51FuW3JffOgVkyAco-rsgs9siKQtsUhsIh9J9F7buRqddy2s9yDg1S46VsJafKHoo4jeUNXIIpxbIRIohpRfZQZ9UkCevyiXmTTxtXRnxI5yGD1QboLWkAZiaHQVxec1NyEkMrbXaYxgSyWF74DXZymOxJWx5YfMAbT1-WXEabxrdSj6PU9GCqFKZeei74lQUzfQ6gGLgQ6SJWUFRkkdTwxqpJm7npvIhSJVrpsqZcBLGOQpGibCiduKJr2tYDbxVNRDkNuN6Gg88yqL1EkadNu3uk69vMCYEYREZVWgoOj6RRoVumt0UMULIWM-ImJgG0464Ks1YoBhSd7v0JnZHbMk55IFQQxBI97jojM6-J15PjYq1dWeUXUssVNYX5-Xrstt_ARw_3bIlWhqvYR3vRSYI1nzX1tbrC8kX1YfgDHI3ByMLIfn_nPwGxs1mj",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=qPqkFXicfZLNjqNGFIWlvM4oUhVUYZzduAG7sSmbKqowbFqYwsZQ4BqM_1DeIe_gnok0WXakrPMak6eJO1nmZ3u_e47Oubo_3Yv9b933jZ2dpsgbjZx69byqTsX8Ofyqu4M85f1e_jrGhjkCYGyZYwTQyDIB_JpnfaYOuweF8IFM07ANhMcjgGzbeiuLTKp9Wyy326JzDvljDb0bGPixBOAY4NHYgL_sm2xX_I0xBggYhoWQ-XBBtjUCr508fmueGHtZPb0ghBE0LRvDsQ0te4xt68f_GtOl8_J_snf-7-zLp1PR3d6W7Xv4D4v9ruz37e4Dn3_Z6b9K_FPy2uzlGx5Z6FHuUcAcW48zIOtVn_t7uft8Oqni9_tO3U_1vVT3ov35kOnzNv_ju9I9Hp2nw8UJudbCoYBFtEmG1GOVmAY3uNwYaZbEYisdcuJcn8isjCKPhIkpSz6teyomXe54Kh9yKOHkGgK9ZjERgUiMcAhva4NaGb_SBfcmsrkS0sqjhCWmyjcCIz1tRA02kY9kSzmL6YqbzwN1r-0a0jNXEmagbzKPuqTyu6IWNFlTL2q1k7RilVdkyhWdkFb5uePPpaEt5vpXYjzfGJBzsS51FuW3JffOgVkyAco-rsgs9siKQtsUhsIh9J9F7buRqddy2s9yDg1S46VsJafKHoo4jeUNXIIpxbIRIohpRfZQZ9UkCevyiXmTTxtXRnxI5yGD1QboLWkAZiaHQVxec1NyEkMrbXaYxgSyWF74DXZymOxJWx5YfMAbT1-WXEabxrdSj6PU9GCqFKZeei74lQUzfQ6gGLgQ6SJWUFRkkdTwxqpJm7npvIhSJVrpsqZcBLGOQpGibCiduKJr2tYDbxVNRDkNuN6Gg88yqL1EkadNu3uk69vMCYEYREZVWgoOj6RRoVumt0UMULIWM-ImJgG0464Ks1YoBhSd7v0JnZHbMk55IFQQxBI97jojM6-J15PjYq1dWeUXUssVNYX5-Xrstt_ARw_3bIlWhqvYR3vRSYI1nzX1tbrC8kX1YfgDHI3ByMLIfn_nPwGxs1mj"
+   },
+   {
+    "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcToz-FGUnj6f7vXp3xBjz26jdWd6lO9mZsLYTqEDXFPBG28fbnhlhRIs388epDrUT62kxCOiM7nT9luMFm-4zoIZoeVJE7EYz83OPny4US__72CSyKcfarejg",
+    "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSZ5emDOeUzqolx_NN6PfOLss2xoN7up1rolhQBouwtJiYW-5doZdjVR63rLgfjwFKZFcURPyccZgljR98QQCN9YClmIUWH-uW3Ww9g0yLfFaQ",
+    "source": "Online Lighting",
+    "title": "Wisteria Violet Wall Light",
+    "price": "£29.99",
+    "extracted_price": 29.99,
+    "delivery": "Free delivery on £70+",
+    "immersive_product_page_token": "2-eNkXicLVLLbptAAFS_p6q0uyyv3uqaBTsJDgsLZi_VmsXmsWBCcAL8RH-hctpK7TGteu5vtF9TR-ph5jKax2E-nvPyV_-mscTJxcQ0l_Xt6rY65Ver4FvXH-UpG0r5w0ZQNwDSEcbAxhq0sP4tE4NQx8NFNW0IMMC6YeoaMLFtI_Rc5EKqss03-33eL49ZKX9CAExg2KZtQQ0YAFgIGN_LRhzy_zoyDQNbGGvIggaCWDOMp17ef_pyd8r76XnTvgS-vi4PxVC2h9fs6suhuxh_YM00kYVNU7deRuo2Np6aUj7rpoGNy2gNXdi0Lo1P3cNwLg6fTyeV_z4f1PlUnwt1ztuvR9E97LO_r85On75__5AtAtZ18ZKCsAaaIDLOtjHYQXIXeXQWLR13rUo4TBGtubhgdeOt0Q7Sq0TFG9-Fk6hXKKuVIZa1zrXOu06IE8-HibfxzYZlME1S4M-cUtdBkqwfJZMoiItHNhceV3zebFWQLBdVsiUrnvg4BCPdATlJN97Tepik191HzTrmHtV8b-Hyls2Mxc1OyXQ381VQxQ0lvp5tSRw3N7MEx0fhjlsBBj9q-WmLYipc0qSxH6aV34p63Yeu7aZIb3dRATNGp7xx5kwRLVdqK2apoqjQoqTWhEPuQ9KhcIJuUPmuJDb2azIlrKiSZpykM7Z-RUTiDJeWVZKVcNi4BNKZuv4sHQEXa-Z2kLNhzeixDBids0o1sScXacVwqnEURXxk7SJhSHJexUdZd3c3Lgzl4-fxvt__Ae-IPoQbfIscFb6zrnvp6x3zmnqsRlh8UEMQvIWmDUxDx9bLEf4Bdl_9Ww",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=2-eNkXicLVLLbptAAFS_p6q0uyyv3uqaBTsJDgsLZi_VmsXmsWBCcAL8RH-hctpK7TGteu5vtF9TR-ph5jKax2E-nvPyV_-mscTJxcQ0l_Xt6rY65Ver4FvXH-UpG0r5w0ZQNwDSEcbAxhq0sP4tE4NQx8NFNW0IMMC6YeoaMLFtI_Rc5EKqss03-33eL49ZKX9CAExg2KZtQQ0YAFgIGN_LRhzy_zoyDQNbGGvIggaCWDOMp17ef_pyd8r76XnTvgS-vi4PxVC2h9fs6suhuxh_YM00kYVNU7deRuo2Np6aUj7rpoGNy2gNXdi0Lo1P3cNwLg6fTyeV_z4f1PlUnwt1ztuvR9E97LO_r85On75__5AtAtZ18ZKCsAaaIDLOtjHYQXIXeXQWLR13rUo4TBGtubhgdeOt0Q7Sq0TFG9-Fk6hXKKuVIZa1zrXOu06IE8-HibfxzYZlME1S4M-cUtdBkqwfJZMoiItHNhceV3zebFWQLBdVsiUrnvg4BCPdATlJN97Tepik191HzTrmHtV8b-Hyls2Mxc1OyXQ381VQxQ0lvp5tSRw3N7MEx0fhjlsBBj9q-WmLYipc0qSxH6aV34p63Yeu7aZIb3dRATNGp7xx5kwRLVdqK2apoqjQoqTWhEPuQ9KhcIJuUPmuJDb2azIlrKiSZpykM7Z-RUTiDJeWVZKVcNi4BNKZuv4sHQEXa-Z2kLNhzeixDBids0o1sScXacVwqnEURXxk7SJhSHJexUdZd3c3Lgzl4-fxvt__Ae-IPoQbfIscFb6zrnvp6x3zmnqsRlh8UEMQvIWmDUxDx9bLEf4Bdl_9Ww"
+   },
+   {
+    "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTW6JRK8PT0W1up6jY3oTK58qs5pSVVDFWyt1SRTzhuYLFhOVTMGI_BweKelC4fazr0ZKZRBv5yDxT58PKHnZ0Ug7OXZ7kapBc-Lsmur34gDKMomeHlee8o",
+    "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSZ5emDOeUzqolx_NN6PfOLss2xoN7up1rolhQBouwtJiYW-5doZdjVR63rLgfjwFKZFcURPyccZgljR98QQCN9YClmIUWH-uW3Ww9g0yLfFaQ",
+    "source": "Online Lighting",
+    "title": "Wisteria Anne Twin Wall Light",
+    "price": "£49.99",
+    "extracted_price": 49.99,
+    "delivery": "Free delivery on £70+",
+    "immersive_product_page_token": "BH5_8XicHZLbbptAEIbV54kq7S4sh97V4WATezGHXQw3FWYxBy-YEOy4vERfoXKSSullWvW6r9E-TXFv55v5ZjT6v1zy6lf_vtHSoy1bqmrs14t1fczvFt5r1x_4MRsq_hOqWAKSBCHUEYCqjnQJv2bpkIpDccUKlFRdmxjAiqoDSZfxW5mnXFRt7u52eW8csmufpMkYyUBWMMRQ1ySEpO9Vkxb5f_4DwskAdDQtk3UFKhoGTz1_-Ppyf8z7z29ue_XdLKuiHKq2uKF3L0V3ndM0RVFVXQYAyVCVIcD6U1PxN6wqsoI0WdG1qawoWHvqTsOlLJ6PR5H_vhTictxfSnHJ22-HtDvtsr_vLmYf396esplHu44ZPghCUbN5iVx7iFctdyNbAN8gyaq2ukSQbgUtxkKy9sZZvYEC5IYo442lEFHSGDCfAGKtxtLmtSmx6UIyWv7KFiTa-CEDjAWh-ejamCTA6TMroWSv1-HcXyeieOStkwaRTplpIrKJ8UrMQm8U863wSQricRkRRJoFWAl-SEM6knaB4jHBW6HPwshRto0w-FjeZqbuJIbfb0drkSIiefvhROAszkDpLkMHhiapmCkQjZz7yZJkc7aJwtKiG-vRb84uj0QfNniXWY68bflxazhnhhYoASsppiwNWLKkRiHHe-x4wko47aa3cebPrZ75iyir4ODaFvRH3yYjN1M4c6jdwYQODvUPlUf9MatFQyMgUeBEW8sxXYqdwObYtXmQ7MXdMmI1aURHvefzQ7_7Az5aeAhceY1MEXzUlj0nuKPzZn-uz7D8JAbP-zBFFagKlrVrEP4Bz7v5GA",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=BH5_8XicHZLbbptAEIbV54kq7S4sh97V4WATezGHXQw3FWYxBy-YEOy4vERfoXKSSullWvW6r9E-TXFv55v5ZjT6v1zy6lf_vtHSoy1bqmrs14t1fczvFt5r1x_4MRsq_hOqWAKSBCHUEYCqjnQJv2bpkIpDccUKlFRdmxjAiqoDSZfxW5mnXFRt7u52eW8csmufpMkYyUBWMMRQ1ySEpO9Vkxb5f_4DwskAdDQtk3UFKhoGTz1_-Ppyf8z7z29ue_XdLKuiHKq2uKF3L0V3ndM0RVFVXQYAyVCVIcD6U1PxN6wqsoI0WdG1qawoWHvqTsOlLJ6PR5H_vhTictxfSnHJ22-HtDvtsr_vLmYf396esplHu44ZPghCUbN5iVx7iFctdyNbAN8gyaq2ukSQbgUtxkKy9sZZvYEC5IYo442lEFHSGDCfAGKtxtLmtSmx6UIyWv7KFiTa-CEDjAWh-ejamCTA6TMroWSv1-HcXyeieOStkwaRTplpIrKJ8UrMQm8U863wSQricRkRRJoFWAl-SEM6knaB4jHBW6HPwshRto0w-FjeZqbuJIbfb0drkSIiefvhROAszkDpLkMHhiapmCkQjZz7yZJkc7aJwtKiG-vRb84uj0QfNniXWY68bflxazhnhhYoASsppiwNWLKkRiHHe-x4wko47aa3cebPrZ75iyir4ODaFvRH3yYjN1M4c6jdwYQODvUPlUf9MatFQyMgUeBEW8sxXYqdwObYtXmQ7MXdMmI1aURHvefzQ7_7Az5aeAhceY1MEXzUlj0nuKPzZn-uz7D8JAbP-zBFFagKlrVrEP4Bz7v5GA"
+   },
+   {
+    "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSc0gYxWgAIEiriS8qOIwP0KXKhx3CSE-3uo4_cNFqzxjY0wpC7BwZdDy0qkhHUoaCuBRHSmVkg2NQLreCt-sU5wImVaPeSYFIkdsUpJMUyNMElmS462GQ3pA",
+    "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSZ5emDOeUzqolx_NN6PfOLss2xoN7up1rolhQBouwtJiYW-5doZdjVR63rLgfjwFKZFcURPyccZgljR98QQCN9YClmIUWH-uW3Ww9g0yLfFaQ",
+    "source": "Online Lighting",
+    "title": "Envirolight Eco IP65 Fire Rated Fixed Downlight",
+    "price": "£29.99",
+    "extracted_price": 29.99,
+    "delivery": "Free delivery on £70+",
+    "immersive_product_page_token": "hK_6c3icHVLLcpswFJ1-T6YzEkJCdBfHYJvUYAsEmB1G2ICFrRDwg5_oL3ScpDPpMs103d9ov6a0y3vPY849c79c8_Jn87GmaTfRbcMY7xazRdXl97Plq2oOosvaUrxDDEyCEcUUYYKgQXREX7O0TeVhW4ofGAMEMQWAEpMaVMeUvBV5KmS5z73NJm_Gh2ygIR0ijVKNEqLrFBsUmd_LOt3m_-F3SAg0IcAIQUowHgaAnhrx-PXlocuby5u3_-d387ncFm25397w-5etGoRvhBCq6QOb6EMOggzwVA9rPMQkGjV0U9ORplEdPKljey22z10n81_Xrbx2u2shr_n-2yFVx03258PValZ3d8dstORKhWMG_J08BkitRAlQDN0jHzvFEqpjZinscesS2HLFuNOJStwLyYoUSSeB7JTVEPO9hQVXF3_intLQ9MKJYD5XlcuLioF2Hu2c0q3cRcbNTWSrXQbdKgvDfWJLxKdFPI_F3LPZUfSJy6IzEzu2CADv8xISbxzqQRCyfDo6BaFczfeHfj05z1c1LJktZ7ml7PU4wV4kNwzdwqAWaBmIZA4Z5-ighb2Ik36EV9BZcSSKIBhuiUUgAgb9vb1zNRus4uU5GcvOr81o7cNphsRGyEILgKOWUXHKpqPGjfklrdxLCELka0NPFuyzcaKCEso1l1VynkVZCVtvYkPWs4nbCyuFI4dPFEx463B2KJec9Vklax6K2OV2m9YSudyZiYg1uTXvIymqYIcvnAPAl8_nx2bzG9zauPU9_eEOuBe9fYzDKqO3o1jVZav886ZGt5-gYQKDYJ0Oj2D8Bexf_JY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=hK_6c3icHVLLcpswFJ1-T6YzEkJCdBfHYJvUYAsEmB1G2ICFrRDwg5_oL3ScpDPpMs103d9ov6a0y3vPY849c79c8_Jn87GmaTfRbcMY7xazRdXl97Plq2oOosvaUrxDDEyCEcUUYYKgQXREX7O0TeVhW4ofGAMEMQWAEpMaVMeUvBV5KmS5z73NJm_Gh2ygIR0ijVKNEqLrFBsUmd_LOt3m_-F3SAg0IcAIQUowHgaAnhrx-PXlocuby5u3_-d387ncFm25397w-5etGoRvhBCq6QOb6EMOggzwVA9rPMQkGjV0U9ORplEdPKljey22z10n81_Xrbx2u2shr_n-2yFVx03258PValZ3d8dstORKhWMG_J08BkitRAlQDN0jHzvFEqpjZinscesS2HLFuNOJStwLyYoUSSeB7JTVEPO9hQVXF3_intLQ9MKJYD5XlcuLioF2Hu2c0q3cRcbNTWSrXQbdKgvDfWJLxKdFPI_F3LPZUfSJy6IzEzu2CADv8xISbxzqQRCyfDo6BaFczfeHfj05z1c1LJktZ7ml7PU4wV4kNwzdwqAWaBmIZA4Z5-ighb2Ik36EV9BZcSSKIBhuiUUgAgb9vb1zNRus4uU5GcvOr81o7cNphsRGyEILgKOWUXHKpqPGjfklrdxLCELka0NPFuyzcaKCEso1l1VynkVZCVtvYkPWs4nbCyuFI4dPFEx463B2KJec9Vklax6K2OV2m9YSudyZiYg1uTXvIymqYIcvnAPAl8_nx2bzG9zauPU9_eEOuBe9fYzDKqO3o1jVZav886ZGt5-gYQKDYJ0Oj2D8Bexf_JY"
+   },
+   {
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT95J5bEMFTaYu-Th50koY3f90NxhhGzoDpWWfT8dhjmzKCuP4BLrW28A7GN0YywjHxlCYFvguJctx91UvGfRfXPQ8h2Kwv_OgILvaxkZaGr780ngZu9HqUgg",
+    "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQQQvzCKOS8djc1c9E5svZgea_J6dOBbWP3dmKUhsDTW1sJPAn1wnMxEPH1Cs3KWbeoU81SobjE0_eym0bLtGz8G9_x2vXJ0SNMRU5H1Gw",
+    "source": "adstrong",
+    "title": "Endon Havana 6 Light Semi Flush Ceiling Light",
+    "rating": 4.7,
+    "reviews": 195,
+    "price": "£67.99",
+    "extracted_price": 67.99,
+    "immersive_product_page_token": "pYoD93icfZLPjqNGGMSlvM4qEt3N39wWQ2Mz42Zo6Ab6MgIaGzBgbMOsx9pzrnkHz26kzXE2yjmvsXmaePaczbWqfqqvpO-3a9X8dfy5N_PZU7FhOLuH1UM7V3er8Mt43Mu5nBr5FViGYWhIRcjSoGkoKkRfynzKu_22kX8CTVGBCpBiAhWZGtChrr_WVS67ZqiCzaY6OvvyLQeRoQEEDctASDeQoUD0R9Pn2-q7_1XVTYAsVYXaWx-8tZgvR3n6dlhE0ePD4hFoN0fXTd2wAASaAQ2kf_yhTgPn8X_Bt8APzM-HuTo-vwbD24J39822npph-47dfd6O35f8B_PSN_JVM3RVh4YKNE1BmmUq6sv4NF3r7ad57qq_r9vuOu-udXetht_3-fi0Kf_56Vd3dp3FYeWEbBy5Q5UowSjqRbwe9mA9ECw9v6OQ2knqQ4lWWpGcvawBh4rbJ77EIIV7kCUyiC7-RTj1TfMnfiFIKgRncd1wjr0UWk9xW2cF8J1yaccx6ODa4XYSc78cyJLE5Zl04kDScY6VDjHWZQRgNXAoKsG4EG6miqR7iLG9K7hFeSpRtrNgcONkXD7LHUExLlG5O-drSPMI11EB7J5AkdxzwkNoori3cqmAlna0i1s_j4G8q4axvt2ZZrzeBHh1Ealt5y1JC29_rhLuCMRprlh5ppCOKFou0t0z9Wov9yZdwJUaDVgINsLC1WbSAyZ4DaJWXpJUpOVuZIFjY7mk3ZpzlWP_GDkUSFZrsqWnxKE6wyHKl2Qf91xkzGeF63cprG-8FFmKRextpzW3FhGsPxS4g4nL25Jp7RpxHEJrWbWyD3fATjrhVq1okpZolNUbzrrnJOlAsWRTlViXPMUbDq1F1YCw3AkYKTiX3rQsGIlTOMEYnoBQMCYDmYhDPmQxaQSSDRlGlyz9gQ9cqzwGgnQMeYIho6ukbMAUeBjQC_XIRbo5sH3mjUCwyWd034SMXsq261nbuRmnx9u-dYLd5wKQu6r3eQn9kLhClxd7ycJP59Nx8015j7UpCvR7YRIazhVk69PDoGwO6-YJwOlUmu9_AYalGLqmmrdnN_8Fj_dfGg",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=pYoD93icfZLPjqNGGMSlvM4qEt3N39wWQ2Mz42Zo6Ab6MgIaGzBgbMOsx9pzrnkHz26kzXE2yjmvsXmaePaczbWqfqqvpO-3a9X8dfy5N_PZU7FhOLuH1UM7V3er8Mt43Mu5nBr5FViGYWhIRcjSoGkoKkRfynzKu_22kX8CTVGBCpBiAhWZGtChrr_WVS67ZqiCzaY6OvvyLQeRoQEEDctASDeQoUD0R9Pn2-q7_1XVTYAsVYXaWx-8tZgvR3n6dlhE0ePD4hFoN0fXTd2wAASaAQ2kf_yhTgPn8X_Bt8APzM-HuTo-vwbD24J39822npph-47dfd6O35f8B_PSN_JVM3RVh4YKNE1BmmUq6sv4NF3r7ad57qq_r9vuOu-udXetht_3-fi0Kf_56Vd3dp3FYeWEbBy5Q5UowSjqRbwe9mA9ECw9v6OQ2knqQ4lWWpGcvawBh4rbJ77EIIV7kCUyiC7-RTj1TfMnfiFIKgRncd1wjr0UWk9xW2cF8J1yaccx6ODa4XYSc78cyJLE5Zl04kDScY6VDjHWZQRgNXAoKsG4EG6miqR7iLG9K7hFeSpRtrNgcONkXD7LHUExLlG5O-drSPMI11EB7J5AkdxzwkNoori3cqmAlna0i1s_j4G8q4axvt2ZZrzeBHh1Ealt5y1JC29_rhLuCMRprlh5ppCOKFou0t0z9Wov9yZdwJUaDVgINsLC1WbSAyZ4DaJWXpJUpOVuZIFjY7mk3ZpzlWP_GDkUSFZrsqWnxKE6wyHKl2Qf91xkzGeF63cprG-8FFmKRextpzW3FhGsPxS4g4nL25Jp7RpxHEJrWbWyD3fATjrhVq1okpZolNUbzrrnJOlAsWRTlViXPMUbDq1F1YCw3AkYKTiX3rQsGIlTOMEYnoBQMCYDmYhDPmQxaQSSDRlGlyz9gQ9cqzwGgnQMeYIho6ukbMAUeBjQC_XIRbo5sH3mjUCwyWd034SMXsq261nbuRmnx9u-dYLd5wKQu6r3eQn9kLhClxd7ycJP59Nx8015j7UpCvR7YRIazhVk69PDoGwO6-YJwOlUmu9_AYalGLqmmrdnN_8Fj_dfGg"
+   },
+   {
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS4gpIdvlN33TBvLcVNsTPYuPK0JNlNK9BZRNiSLM8ODRB17uutvqVFE4mcu4k5Bh0O4g8_bpE1YjMYuHuzob1Ep3N3DNlPyaD45vTpmOr-Kfzbhdxx1eOx",
+    "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSel4yiflVObBx-WGI8M9BP8fRrPt6fimVefCVOE43pwySOvUC9O6wyG532NCAiSVWWGiaINoMVM7gURISIIv9ev_yw5nv9Jm-a8WOB27CskQc",
+    "source": "Simple Lighting",
+    "title": "Simple Lighting LED Batten Light",
+    "rating": 4.8,
+    "reviews": 494,
+    "price": "£19.99",
+    "extracted_price": 19.99,
+    "immersive_product_page_token": "AFKmQnicfVPLjqNGFJXyO6NIVRTP7NoGjGm7aB5VhWvTwoBdQIFpG9oPzT_kH9wzkSbLVpR1fmPyNaGl7PLQla5073noLO79-V5Wvx9_bM1sXKiuYdjN0_KpHsvHZfitPx6KMR-q4h1CDSmKYk4dGMAEhv4tz4ZMHvZV8RsEQNU0xZpK1wygI1OH76LMCll1ZbDblUf7kH_wkG5ayDQsCFSINE3VDfhr1Wb78m9cRQip2kRRkTJ13TLVt2Nx-l7N4_j5af6sGgZQkK5rUDF1oOiG9fk_tlFgP_-P6AP-V-jry1ger-9B9xH906rai6Hq9p_I49d9P0V8_6firZ3WmqGrumJaCrKgahoGMt_61-Eu9l_GUZZ_3PfyPjZ3Ie9l98sh6193-Z8_COd0sueHsx2Svqd2BGIFv-JGhbymMFdyyDps53KawKCsgUXXN38X3_hYepJvnd4pHQ5ij94oKUjhWNckcZ0t8Edi43hDXC2hQpZJqOTecvIMVWJLLa79FWlcfUOGG7epunZxTRI_4KmPQsrVtbSWKyoAZ_45B5ZSUNxxiQPmiUNki9mKwKpIXb9s3GPhzWqsCB4thMy9Wbd25Yq2w7xw9yppxTKxw0u8iNItKUDmRW2QCkCYEBRghzq8C4kJueNLTvt4TeAqqV2ft4db2QwZl6a2BcWNpHJOEN-Rm--FdfFYdg2MEjfZNGct6fIzge5LhPpVkOKXwvH1RApAXV8QhMM88XdbFtm8nknSaCyslyCTcsfaoicdbaJGhtvajymgLIFLRJl72dQO3BI6rpiWrB28pAs4JsrhwtjyRjt6Zg6muMGzjcLTzBGSscM1SPglVcQpI3QXkf2Zpm5Veodr7BYs8HwZIt_BihtEC3yN3AdU3KI1T6haOhstRH08ec6zVjjYWd_ibtY4gl9XDKiblHrY2SAMoiNxZJh1VMZARovKn0UevgaMk5hhxlIXpDC6lgurTtLlEKWzJm8GO24sP65g9-VyOu6-gwdXG-JAfZkDfFWHU0rr3HyYpX1bDX182bXo4SdoWNNna9MF66rxFxMQVbQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=AFKmQnicfVPLjqNGFJXyO6NIVRTP7NoGjGm7aB5VhWvTwoBdQIFpG9oPzT_kH9wzkSbLVpR1fmPyNaGl7PLQla5073noLO79-V5Wvx9_bM1sXKiuYdjN0_KpHsvHZfitPx6KMR-q4h1CDSmKYk4dGMAEhv4tz4ZMHvZV8RsEQNU0xZpK1wygI1OH76LMCll1ZbDblUf7kH_wkG5ayDQsCFSINE3VDfhr1Wb78m9cRQip2kRRkTJ13TLVt2Nx-l7N4_j5af6sGgZQkK5rUDF1oOiG9fk_tlFgP_-P6AP-V-jry1ger-9B9xH906rai6Hq9p_I49d9P0V8_6firZ3WmqGrumJaCrKgahoGMt_61-Eu9l_GUZZ_3PfyPjZ3Ie9l98sh6193-Z8_COd0sueHsx2Svqd2BGIFv-JGhbymMFdyyDps53KawKCsgUXXN38X3_hYepJvnd4pHQ5ij94oKUjhWNckcZ0t8Edi43hDXC2hQpZJqOTecvIMVWJLLa79FWlcfUOGG7epunZxTRI_4KmPQsrVtbSWKyoAZ_45B5ZSUNxxiQPmiUNki9mKwKpIXb9s3GPhzWqsCB4thMy9Wbd25Yq2w7xw9yppxTKxw0u8iNItKUDmRW2QCkCYEBRghzq8C4kJueNLTvt4TeAqqV2ft4db2QwZl6a2BcWNpHJOEN-Rm--FdfFYdg2MEjfZNGct6fIzge5LhPpVkOKXwvH1RApAXV8QhMM88XdbFtm8nknSaCyslyCTcsfaoicdbaJGhtvajymgLIFLRJl72dQO3BI6rpiWrB28pAs4JsrhwtjyRjt6Zg6muMGzjcLTzBGSscM1SPglVcQpI3QXkf2Zpm5Veodr7BYs8HwZIt_BihtEC3yN3AdU3KI1T6haOhstRH08ec6zVjjYWd_ibtY4gl9XDKiblHrY2SAMoiNxZJh1VMZARovKn0UevgaMk5hhxlIXpDC6lgurTtLlEKWzJm8GO24sP65g9-VyOu6-gwdXG-JAfZkDfFWHU0rr3HyYpX1bDX182bXo4SdoWNNna9MF66rxFxMQVbQ"
+   },
+   {
+    "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQEt708NF_wgzYO_qMv3r6IBQNMBQV6ubtLs8GeiI1cO8CEu4QloRyrpFuf9MSwPgNlEeogvgxnEZaOiNoDO-PQD3u9fu4wEsf9Qi5IekIC",
+    "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSZ5emDOeUzqolx_NN6PfOLss2xoN7up1rolhQBouwtJiYW-5doZdjVR63rLgfjwFKZFcURPyccZgljR98QQCN9YClmIUWH-uW3Ww9g0yLfFaQ",
+    "source": "Online Lighting",
+    "title": "Wisteria Brook Arm Semi-Flush Ceiling Light",
+    "price": "£74.99",
+    "extracted_price": 74.99,
+    "delivery": "Free next-day delivery",
+    "immersive_product_page_token": "Jq-e73icHZJNbptAAIXV80SVZoafGbqLg8EmZgiDB2x2E8CAzZ_twbG5RK9QOUmldJlUXfca7Wlqd_30Pj19el_PWflr97kmordVC2Nz8zB9WPfZ_dR_63Zt2ieyTH9CTVEB0DVIAMQQYmJA7S0RUlRtXqYfOlCwjgjQdWIQaGCA8HuRibQqm8xbrbKd2SZXCrxANKQApCCiqgQTgH-Utciz__nHha4YGKsGIUhXAEY6et6l-2-v2z7bnd695sq7mZV5Icsmv-H3r3l37SlIxQgoOgHEMDRdw0h9rsv0XcO6epmlY4VADRAM8HN3kOcif-n7Kvt9zqtzvzkX1TlrvreiO6ySv5_O493y7u6QjHzedaHJQDAUiwAyz9_QQ1LTBVOolVlFlNpdFNXaLLGLPjXZhI7VpyVybGGlZdR0Bx8V7RJZfF5CK7CcCbXhKGoq6SsJDOpjIyqrjWvKXTNWH4EzpWO2nYUGeKxcGfFuEUTdZH6x5Q6WFI1_Cmtaz4F0xcCiLKK6aIo2XTirpKni2dzyl1VciLHVBLYxWgALsiEOqOIMbuTIKCxGWeWcMu5QsWYP6aRbuaajJeC45kNxSjn1KDdMuuiOj4CpWX3cspojuime2AlGsS3RfF1slnUqwybteCRZCI7qxUGZTTrKN8eYmSH3TMsVG6f2eQqida5wZLRzNo2SEkrPvm5iNh3SsYAjh9sdjLl0OGtLn7MhWVc1X1eH0HRUyuWJItYGIYO0MjwxuX2Kw4v0Kg58_-W4363-gFtLk4Gnz2JCmd9niLv7hwastm55gEjuE3L7BWIDYF27PE1XyT8__fyS",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=Jq-e73icHZJNbptAAIXV80SVZoafGbqLg8EmZgiDB2x2E8CAzZ_twbG5RK9QOUmldJlUXfca7Wlqd_30Pj19el_PWflr97kmordVC2Nz8zB9WPfZ_dR_63Zt2ieyTH9CTVEB0DVIAMQQYmJA7S0RUlRtXqYfOlCwjgjQdWIQaGCA8HuRibQqm8xbrbKd2SZXCrxANKQApCCiqgQTgH-Utciz__nHha4YGKsGIUhXAEY6et6l-2-v2z7bnd695sq7mZV5Icsmv-H3r3l37SlIxQgoOgHEMDRdw0h9rsv0XcO6epmlY4VADRAM8HN3kOcif-n7Kvt9zqtzvzkX1TlrvreiO6ySv5_O493y7u6QjHzedaHJQDAUiwAyz9_QQ1LTBVOolVlFlNpdFNXaLLGLPjXZhI7VpyVybGGlZdR0Bx8V7RJZfF5CK7CcCbXhKGoq6SsJDOpjIyqrjWvKXTNWH4EzpWO2nYUGeKxcGfFuEUTdZH6x5Q6WFI1_Cmtaz4F0xcCiLKK6aIo2XTirpKni2dzyl1VciLHVBLYxWgALsiEOqOIMbuTIKCxGWeWcMu5QsWYP6aRbuaajJeC45kNxSjn1KDdMuuiOj4CpWX3cspojuime2AlGsS3RfF1slnUqwybteCRZCI7qxUGZTTrKN8eYmSH3TMsVG6f2eQqida5wZLRzNo2SEkrPvm5iNh3SsYAjh9sdjLl0OGtLn7MhWVc1X1eH0HRUyuWJItYGIYO0MjwxuX2Kw4v0Kg58_-W4363-gFtLk4Gnz2JCmd9niLv7hwastm55gEjuE3L7BWIDYF27PE1XyT8__fyS"
+   },
+   {
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRcDb2GN-Rn6szN1sQVCaGGNmRL2LGM249rehwxMN5B8cfCGW8-qfA426OCmEwFSaOER_lIfA0Wd2_BAYyZP_83uXnAdSZO57O4243cDvhahxKZ85JHKQ3kxA",
+    "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSZ5emDOeUzqolx_NN6PfOLss2xoN7up1rolhQBouwtJiYW-5doZdjVR63rLgfjwFKZFcURPyccZgljR98QQCN9YClmIUWH-uW3Ww9g0yLfFaQ",
+    "source": "Online Lighting",
+    "title": "Wisteria Swirl Ceiling Pendant Light",
+    "price": "£29.99",
+    "extracted_price": 29.99,
+    "delivery": "Free delivery on £70+",
+    "immersive_product_page_token": "2J2JNHicLZJLbtswFEXR9QQFSEqkyM7i6BM7tmzRoqhwpp8lxZKs2JI_2kS3UDhJgXSYFh13G-1q6hSdvvfuefcC9_M5K39uP9Y06h3dNgxzvRgvHvrsbuy9tttN2iddmf6AhmFApiOoY2oghJGO4WsSdVG1ycv0-2VCiI4ZoQYwNAowRW9FFqVV2WTz1SrbmpvknQI0pukAUEIoQxrFhNFvZR3l2f-9BhgDADJiAHg5BgiSp226-_Ly2Gfb09u8eQdeTcu86MomvxJ3L3n7T4gY0QBBhDCCGMKMauipLtM3bBCdIEoMhnWmUaiTp3bfnYv8ue-r7Nc5r879-lxU56z5uona_Sr58-Fsbe9vbvbJyBNtG5gcLGXax_JYcacLsltXihPcCYC7GHKclvDghhMVBKxP1hOYOm0fPPDGF_zRXVsgRUEf-VyXdnGI62KqGtviwTXyYHVI1rwQpgV9lKDYTqXfbLpZGChXejAGapOY6YyDYhYipkUD94RVjDhUHrfGIHIq6dd4EluTkwy5GTdu7Qf0KJxcn9VFEWkjJfyiTk0-coc0mvpqpSQ-qhI2mcNFetuCOFS9v8aSI8yFDG5i1LrBwKvYOmjKnGyWTTDyTqBLgDu4iN1LmaBE5oMIr4EaqkGatnZhLWOrGu7Xu8tftw5s116ug5Efju54bS9cGcwkH8ukhN3csSEfuHPxY0VwNBFOC5XoJoJvSk_wIXmo3vVSiPEgSqBNwzSUsqu9ulKZpepldcllF7U6PB9329VvcG3jbjknU0Vd7vUZErPdogGrx1m5h6jbJfT6EzQYMAjW6aUI9C9E8vu8",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=2J2JNHicLZJLbtswFEXR9QQFSEqkyM7i6BM7tmzRoqhwpp8lxZKs2JI_2kS3UDhJgXSYFh13G-1q6hSdvvfuefcC9_M5K39uP9Y06h3dNgxzvRgvHvrsbuy9tttN2iddmf6AhmFApiOoY2oghJGO4WsSdVG1ycv0-2VCiI4ZoQYwNAowRW9FFqVV2WTz1SrbmpvknQI0pukAUEIoQxrFhNFvZR3l2f-9BhgDADJiAHg5BgiSp226-_Ly2Gfb09u8eQdeTcu86MomvxJ3L3n7T4gY0QBBhDCCGMKMauipLtM3bBCdIEoMhnWmUaiTp3bfnYv8ue-r7Nc5r879-lxU56z5uona_Sr58-Fsbe9vbvbJyBNtG5gcLGXax_JYcacLsltXihPcCYC7GHKclvDghhMVBKxP1hOYOm0fPPDGF_zRXVsgRUEf-VyXdnGI62KqGtviwTXyYHVI1rwQpgV9lKDYTqXfbLpZGChXejAGapOY6YyDYhYipkUD94RVjDhUHrfGIHIq6dd4EluTkwy5GTdu7Qf0KJxcn9VFEWkjJfyiTk0-coc0mvpqpSQ-qhI2mcNFetuCOFS9v8aSI8yFDG5i1LrBwKvYOmjKnGyWTTDyTqBLgDu4iN1LmaBE5oMIr4EaqkGatnZhLWOrGu7Xu8tftw5s116ug5Efju54bS9cGcwkH8ukhN3csSEfuHPxY0VwNBFOC5XoJoJvSk_wIXmo3vVSiPEgSqBNwzSUsqu9ulKZpepldcllF7U6PB9329VvcG3jbjknU0Vd7vUZErPdogGrx1m5h6jbJfT6EzQYMAjW6aUI9C9E8vu8"
+   },
+   {
+    "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRe97rlUNwHsqghgN8L7flKVvf5GqSHowKbp-1WUBuynwiCodYPhbEnLu6275KTpjn42SmMOl9dMcd2KaVmNcRNyRL7ci2pRMBiHtZqJy5NJ-mt6b0fiaffOg",
+    "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSMbwF-WjV2ADZU-VI-xTw-DQa05EppALzEnuyVKJsyfJKDNVTJSp5EIU1mKhhDTosqTNiL1O9nEF0uYlVRY31_7F3yQpP0Fkja_T6XPKbark0S",
+    "source": "Online Lighting Shop",
+    "title": "Dar Ronda 60cm Easy Fit Pendant Ecru",
+    "rating": 4.8,
+    "reviews": 126,
+    "price": "£72.08",
+    "extracted_price": 72.08,
+    "immersive_product_page_token": "E0B2bXicfVJLjuM2FARynUEAkqJ-2bVbP6st2aJFSuamIYuy9SFlt2251cass80d3DMBJsueQda5xuQ0cS-ym2RX71UVqvDwfrtWzZ-Hn5VVDD72TNPpFtNFO1QP0-TL_rATQ3lqxJsGkWZhHZgWBMiAAFhfyuJUyN22Ed9uI8Y6BpqJNWwCExvYfqurQsimr-abTXVwduW7Dmm6gUyMMLChBrENMf6jUcW2-pe3LGxY0NCQDm55QLPt14M4flf3y-Xj4v7RtiEygHFzWtg2EYaa_fG_1mTuPP6f7Z3_Mff5aagOL2_z_r3-h1mzrU9Nv_1AHz5v97eaX39geVW3G-mmgQ2ka6ZhmDbWLKi97s-na739NAyy-uu6ldehu9byWvW_74r9eVP-_dOv7uA6909TJ6H7PXMISIOwX2r1uHa3zwJBP1HTF-rVC0Klilp64doUltLu4w7OBAAa7zgSbIoLdwzKIN4tA6qtNILWQZykiuoMCpb6tUc0ssqCu5s-XlFn0qWZPLN2grKMPUfQPvOUHBOwGmMVu6s23qSd7S618Lj2bZVS7qzdfVKknlG14XnG4gNVYzqjnhIwDoQqdaH0NHUIyoJ6w5h9n1KbEGVP16kcaB46664EHIzzpc_gMg9xCcKD6GUeA4-RLrnE_mokeWgULTsSinHadXrmMF8EE3_OOCdtKNeZfcqk95Jr4YQjRiMgw3UXoRnbpwzFPXfttvL5qujEiTmhH_n1RKjao0zmCRhp5LBo7rOYXzqtkhaK1Ig4mzwv-zoVShrUF2MO4BAFIor6uigu3IhaYsQ5JzwPF1EwCRhlHXXjgclbIhUvkYwQV_pQoJFzxYmgnl56tpf2Qr_hQ6JiEmUwoW2C40w2PK8xReVFZPWs8HWWyRgxRp95N4Vrx8UEwVmUi_iGXyoFH0rX09NM9ALKOO3ksXTxMx-nWdnA09z3ILkQP74It4CTkPp7yOkppGTXJJRcylYq5nMoJEFc26dzSlYiZe5K6W4VeLM05x5jMkqST-PxsPkO7jz9tJwbM27FJBkqRKPjogebp6g5Q3Q6ltbdL9C0gWno2Lo9u_UPJzNe5A",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=E0B2bXicfVJLjuM2FARynUEAkqJ-2bVbP6st2aJFSuamIYuy9SFlt2251cass80d3DMBJsueQda5xuQ0cS-ym2RX71UVqvDwfrtWzZ-Hn5VVDD72TNPpFtNFO1QP0-TL_rATQ3lqxJsGkWZhHZgWBMiAAFhfyuJUyN22Ed9uI8Y6BpqJNWwCExvYfqurQsimr-abTXVwduW7Dmm6gUyMMLChBrENMf6jUcW2-pe3LGxY0NCQDm55QLPt14M4flf3y-Xj4v7RtiEygHFzWtg2EYaa_fG_1mTuPP6f7Z3_Mff5aagOL2_z_r3-h1mzrU9Nv_1AHz5v97eaX39geVW3G-mmgQ2ka6ZhmDbWLKi97s-na739NAyy-uu6ldehu9byWvW_74r9eVP-_dOv7uA6909TJ6H7PXMISIOwX2r1uHa3zwJBP1HTF-rVC0Klilp64doUltLu4w7OBAAa7zgSbIoLdwzKIN4tA6qtNILWQZykiuoMCpb6tUc0ssqCu5s-XlFn0qWZPLN2grKMPUfQPvOUHBOwGmMVu6s23qSd7S618Lj2bZVS7qzdfVKknlG14XnG4gNVYzqjnhIwDoQqdaH0NHUIyoJ6w5h9n1KbEGVP16kcaB46664EHIzzpc_gMg9xCcKD6GUeA4-RLrnE_mokeWgULTsSinHadXrmMF8EE3_OOCdtKNeZfcqk95Jr4YQjRiMgw3UXoRnbpwzFPXfttvL5qujEiTmhH_n1RKjao0zmCRhp5LBo7rOYXzqtkhaK1Ig4mzwv-zoVShrUF2MO4BAFIor6uigu3IhaYsQ5JzwPF1EwCRhlHXXjgclbIhUvkYwQV_pQoJFzxYmgnl56tpf2Qr_hQ6JiEmUwoW2C40w2PK8xReVFZPWs8HWWyRgxRp95N4Vrx8UEwVmUi_iGXyoFH0rX09NM9ALKOO3ksXTxMx-nWdnA09z3ILkQP74It4CTkPp7yOkppGTXJJRcylYq5nMoJEFc26dzSlYiZe5K6W4VeLM05x5jMkqST-PxsPkO7jz9tJwbM27FJBkqRKPjogebp6g5Q3Q6ltbdL9C0gWno2Lo9u_UPJzNe5A"
+   },
+   {
+    "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQBX2aDieckMV4wwScAuolxdEgXZpjJ1prPvjmBDBpmn6f1Gf-zT5AxeZ1a4eKseMwdU1JQDXLmkDmyYArXLoh155hK4aS0hVvKipGgHjT2JjWcAF5W_6s8lQ",
+    "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcR0e9sVQQtM4gPbpszU3z75gNjueq7vpdp6SpYkgWyQ4MthKXCq6bGxWCgihI_4zNdCX4wI0wtaoCGccMpctEepZpH2E99V7i_OjXNb3MvCKErL",
+    "source": "Massive Lighting",
+    "title": "Endon Ridgeton 3 Pendant Light",
+    "rating": 4.8,
+    "reviews": 49,
+    "price": "£103.50",
+    "extracted_price": 103.5,
+    "immersive_product_page_token": "kjF6SnicfZLLjqNGFIalvM4o0ikuhsqubcCXbsAUVHHZtDBgg6kqYxu3sTXvkHdwz0SaWfZEWec1Jk8Td7LMZXu-8_86-v_z861qfjv8KMz8NNUcw7Da5Xy5PVWP8-BLd9iVp6Jvym8jhAAQMk3QsGpoI0WHL0Xe53y3acpfETJMXccIqwCA9ZGqgvFWV3nJG1n563V1sHbF3UUzAAysYN1UzBFg8276tRH5pvobYwDVBMM0FQWbI4x03Xw9lMfvYhKGz8vJ8wgpuoaUEcJIHYGmIM34-F9j4lvP_yd75__OPu9P1eHy5sv34z88NZu6b-TmA338vOmKv6L4h-RVNOWbbozuuWiGijDoWMcGeu1e-lu9-XQ68er324bfTu2t5rdK_rLLu5d18ccPtX08WpPd2Qpo1zGLQORgYLMxya35EEYPEE6Hhk1pn9PFjChDQxBOSVL77qwesoRvPcvu2Xaxz5LM95TsFCjdnqlkmknyxGR6Jcm4py2Xle2JleSBP-uSIAYloHMo5GLwLKYwtZaU1z5lYx4oKHPtQGWQqlR0_spiXbUdzyJlQYg46yun3JfRpo9ki9wYJSloeiXQxRNIFLK2o4TLSLJd5rAXN9lpcUuUMh7OYcSn2YxphJ6v9L4bcHwKWaoR5izdxIUUTDXlOKM0q1eSpLFwehozEgmHhHF7ya7lnF15SpmDqOO0K-UIhbrYuiH0CZh9PkHTaOoO3iztmeR1LLmWogCtKBfRlWwrqxiog5ch1E_RtL5myea6oj1594g5UStJlZh6cyoLzROBEjP8kgrdcS2vD1THypGN0tihQetFxOZQgAOxZMcC6oa0FDJZ6Ews9uE202OOgywh54ASXkAXu9KZeBNkBSJzY7sUES3VIqJaDqCTmQcJlHXAnfm9B5-ojli1_dqus8tTDFqasJlnp6oH5EBtHuSS8RA4mTaL8V178eMsXLWcpbILyoQOlZ09BrQcrzhZh0pHiylBgUDjT8PxsP4OD47eh762n4B30fpjwraF-TBOOtH0XTishfrwEzIwGCNdM-_vbPwJhqdWXw",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=kjF6SnicfZLLjqNGFIalvM4o0ikuhsqubcCXbsAUVHHZtDBgg6kqYxu3sTXvkHdwz0SaWfZEWec1Jk8Td7LMZXu-8_86-v_z861qfjv8KMz8NNUcw7Da5Xy5PVWP8-BLd9iVp6Jvym8jhAAQMk3QsGpoI0WHL0Xe53y3acpfETJMXccIqwCA9ZGqgvFWV3nJG1n563V1sHbF3UUzAAysYN1UzBFg8276tRH5pvobYwDVBMM0FQWbI4x03Xw9lMfvYhKGz8vJ8wgpuoaUEcJIHYGmIM34-F9j4lvP_yd75__OPu9P1eHy5sv34z88NZu6b-TmA338vOmKv6L4h-RVNOWbbozuuWiGijDoWMcGeu1e-lu9-XQ68er324bfTu2t5rdK_rLLu5d18ccPtX08WpPd2Qpo1zGLQORgYLMxya35EEYPEE6Hhk1pn9PFjChDQxBOSVL77qwesoRvPcvu2Xaxz5LM95TsFCjdnqlkmknyxGR6Jcm4py2Xle2JleSBP-uSIAYloHMo5GLwLKYwtZaU1z5lYx4oKHPtQGWQqlR0_spiXbUdzyJlQYg46yun3JfRpo9ki9wYJSloeiXQxRNIFLK2o4TLSLJd5rAXN9lpcUuUMh7OYcSn2YxphJ6v9L4bcHwKWaoR5izdxIUUTDXlOKM0q1eSpLFwehozEgmHhHF7ya7lnF15SpmDqOO0K-UIhbrYuiH0CZh9PkHTaOoO3iztmeR1LLmWogCtKBfRlWwrqxiog5ch1E_RtL5myea6oj1594g5UStJlZh6cyoLzROBEjP8kgrdcS2vD1THypGN0tihQetFxOZQgAOxZMcC6oa0FDJZ6Ews9uE202OOgywh54ASXkAXu9KZeBNkBSJzY7sUES3VIqJaDqCTmQcJlHXAnfm9B5-ojli1_dqus8tTDFqasJlnp6oH5EBtHuSS8RA4mTaL8V178eMsXLWcpbILyoQOlZ09BrQcrzhZh0pHiylBgUDjT8PxsP4OD47eh762n4B30fpjwraF-TBOOtH0XTishfrwEzIwGCNdM-_vbPwJhqdWXw"
+   },
+   {
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRVnnbPlG0xrFhyY2IBcm5F1Nz80CzfnwMFxokG-CGoJgVwAMQdzW7OwXvEvbX0IiE5AVvgBRoaz-n1SXqWenMj16qVUHyrjVx-jQ8FEicrBSfN3bYJnTXn",
+    "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRNVXfa6arPHCkOFUFy7cUxyMRDLg3UmEzRM59JKQVB0mvv1dqDCpXSHDKxAyncHJrE-oi7V_MO-Ng-nK0pxjevCeOznkLfCZc_iHz-cqUpLg",
+    "source": "DrComparison",
+    "title": "Dar Oporto Table Lamp Shade",
+    "rating": 4.7,
+    "reviews": 499,
+    "price": "£44.99",
+    "extracted_price": 44.99,
+    "immersive_product_page_token": "1JMQTXicfZPNjqNGFIWlvM4oUlVBgcmubQM2bcqmqCp-Ni1sygYMGNvlto3mHfIO7plIk2VHyjqvMXma0Mp2ku39zpGO7r3n14cs_zz93Iyyi6s7pjndr-ar6iKf58G37nTILxtV5n9gUzPAyEAjBHVNA6YOwLdNprL6sBuoaeCRZZmmjnSoGdgyNfxeyCyvy1Yut1t5mh42HzJLs7AFDA0Zumka0ETW72WT7eS_WIcWtICuwxEaJCY2AXg75efvzSQMX1aTF4R1bUgAzJFm6MAwLMv4_F9jupy-_J_tg_-YfT1e5On-vmw_wn9alLtCle3uE3_-uus-Uv7A8taU-Ts2Dd1ApokAggjoI3P01r2qR7H7crnU8q_Hrn5c9o-ifsj2t0PWvW43f_9U2OfzdHK4TgPedWJKAXOVu27wnbm1LyMb-r1zDeqc5dCG3LbuARSrpLGeM83RIjtAtEqbjJGJaG7XlM011haLpPI0gfiVgDpighRR2_n-HtI0JobYezq1dUWbQPEIkwDgdOliI4Aeo4gqEdGtjM4g4XMc8oKHPXUpID1r8mMMYEfq3CAN2UqeUsltzKOcs6gIszZdLcX4FIPOk1Vd-o3nBHvrGPFuntu2SqonICM8-FQh97VKIo9xSMcpLK6yDfqkhNGmFvo6FgvepPGS45W0dSyctBPcKUNwU2tRL1hjoWgqtn4sMAMQBPXYI41qhX3bM56OGUyum7bwZVxjxsQ1r8RqHdMgqAhjGm2YVtDcxmit1dU69m8-zLOUeS6txIEhbBAoshCO4YL5fVJ3LQGCE-TMqEbveU-MdQmV5MQXLFBsVnjZ1GGbYV-cX2_DrXraF17UBDid0n0C8KvkOYyq4pI0NhK2Oq_jg6K9p_G2cHJ-O6WzHGTcIakLMJmOUwFtNeRAdpHeFxHQk1jMiJ1oBNATt-sga0Udgpq6pTemM3JfRimnwjsOtwABvwIWFyiDpGD7vPfRofddeF-Ljn65nU_b7-DJwSpc6scJIHddnWNRbUZP47hrStWFt22jPf0CTQsMdR7-d-joP95zVlA",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=1JMQTXicfZPNjqNGFIWlvM4oUlVBgcmubQM2bcqmqCp-Ni1sygYMGNvlto3mHfIO7plIk2VHyjqvMXma0Mp2ku39zpGO7r3n14cs_zz93Iyyi6s7pjndr-ar6iKf58G37nTILxtV5n9gUzPAyEAjBHVNA6YOwLdNprL6sBuoaeCRZZmmjnSoGdgyNfxeyCyvy1Yut1t5mh42HzJLs7AFDA0Zumka0ETW72WT7eS_WIcWtICuwxEaJCY2AXg75efvzSQMX1aTF4R1bUgAzJFm6MAwLMv4_F9jupy-_J_tg_-YfT1e5On-vmw_wn9alLtCle3uE3_-uus-Uv7A8taU-Ts2Dd1ApokAggjoI3P01r2qR7H7crnU8q_Hrn5c9o-ifsj2t0PWvW43f_9U2OfzdHK4TgPedWJKAXOVu27wnbm1LyMb-r1zDeqc5dCG3LbuARSrpLGeM83RIjtAtEqbjJGJaG7XlM011haLpPI0gfiVgDpighRR2_n-HtI0JobYezq1dUWbQPEIkwDgdOliI4Aeo4gqEdGtjM4g4XMc8oKHPXUpID1r8mMMYEfq3CAN2UqeUsltzKOcs6gIszZdLcX4FIPOk1Vd-o3nBHvrGPFuntu2SqonICM8-FQh97VKIo9xSMcpLK6yDfqkhNGmFvo6FgvepPGS45W0dSyctBPcKUNwU2tRL1hjoWgqtn4sMAMQBPXYI41qhX3bM56OGUyum7bwZVxjxsQ1r8RqHdMgqAhjGm2YVtDcxmit1dU69m8-zLOUeS6txIEhbBAoshCO4YL5fVJ3LQGCE-TMqEbveU-MdQmV5MQXLFBsVnjZ1GGbYV-cX2_DrXraF17UBDid0n0C8KvkOYyq4pI0NhK2Oq_jg6K9p_G2cHJ-O6WzHGTcIakLMJmOUwFtNeRAdpHeFxHQk1jMiJ1oBNATt-sga0Udgpq6pTemM3JfRimnwjsOtwABvwIWFyiDpGD7vPfRofddeF-Ljn65nU_b7-DJwSpc6scJIHddnWNRbUZP47hrStWFt22jPf0CTQsMdR7-d-joP95zVlA"
+   }
+  ],
+  "related_questions": [
+   {
+    "question": "What are the best websites for buying lighting in the UK?",
+    "type": "ai_overview",
+    "page_token": "wKEBdnicHdBLkppAAADQymVmqY2giVZZqSLQICNNbPq_SWGDIt18dJhR2eUKOUNOldMklfXbvZ-_7aUzfz79qsdxeNvM5_f7fXbu-7OtZrqfvZt58fbs9FwX1h4LbTarzyvn60lvww_pf7tp_0CHgQUY5CbpSKCXOlwq2SRXFilZReiSibIgk0JHznZcoPcqToYy-gKYSbx_XginBLmorwWEKe18S92EU6Jq3lrK3DojE37uRQ1zqCLUrl-5RViax0O2y166Zwc38E5gvSBcMQ1GjzfwQTmLU4HDnKjvRQANg2sXTQcHBTauWiRwoG5sskS1bFTRUtBGncRi3KWUveYGW5w7Xt4NewRKBy_WK2WGnWrCSdMhyxvphbV67jnwpGAxCqWLAL7R0B6KjtkcWBxdEh_H6JlxhYlxHjqqr1lc7khQi1QwcAwYlQ3KKpbANML-y0l_bN2X_9PbH6d23Ay3_vwX60CLiw",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=wKEBdnicHdBLkppAAADQymVmqY2giVZZqSLQICNNbPq_SWGDIt18dJhR2eUKOUNOldMklfXbvZ-_7aUzfz79qsdxeNvM5_f7fXbu-7OtZrqfvZt58fbs9FwX1h4LbTarzyvn60lvww_pf7tp_0CHgQUY5CbpSKCXOlwq2SRXFilZReiSibIgk0JHznZcoPcqToYy-gKYSbx_XginBLmorwWEKe18S92EU6Jq3lrK3DojE37uRQ1zqCLUrl-5RViax0O2y166Zwc38E5gvSBcMQ1GjzfwQTmLU4HDnKjvRQANg2sXTQcHBTauWiRwoG5sskS1bFTRUtBGncRi3KWUveYGW5w7Xt4NewRKBy_WK2WGnWrCSdMhyxvphbV67jnwpGAxCqWLAL7R0B6KjtkcWBxdEh_H6JlxhYlxHjqqr1lc7khQi1QwcAwYlQ3KKpbANML-y0l_bN2X_9PbH6d23Ay3_vwX60CLiw",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSS1RrOWpRak14VXpGUE0xazBUSFJwYjBObFpVWkVjRmRSZVVnM1VraEhSRVJzTWswd09XazFReTF1VUhCcWRtRmplbGw0VVVOd2NWZDJTRlpMTm5WSlVtMHRUM1I2YzFWWlQxYzRPRUZoWDI5Q2VHSnJaMkV3TjNoMVVSSVdjaTF0T0dGMVJ6UkdOemRFYTFCSlVHcDFaVXRKVVJvaVFVUnpjamxtVWs0dFdWQjRRV05LWWpnd04ybHpaMFJoWTA0NGRuWndabUpOWnciLCJmY3YiOiIzIiwiZWkiOiJyLW04YXVHNEY3N0RrUElQanVlS0lRIiwicWMiOiJDaEp2Ym14cGJtVWdiR2xuYUhScGJtY2dkV3NRQUgzQVQwNF8iLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSBiZXN0IHdlYnNpdGVzIGZvciBidXlpbmcgbGlnaHRpbmcgaW4gdGhlIFVLPyIsImxrIjoiR2hsaVpYTjBJR3hwWjJoMGFXNW5JSGRsWW5OcGRHVnpJSFZyIiwiYnMiOiJjNFhOdlFyQ01CREFjVnd6dVJvUlQzMENCUVVuSDhCVnFTQU9hYmlhMEh5VTVJTDQ5dGFDclFyYTdlRC05enQyWXR0TUNRSVJFRWdoNUJnSmJwaEhUUmloOEFIeWROZnVDa1pmRlQwSDdacnd1Ti10eG56VTlPMnVQVXdsTzdCbHBud0xrNi02emdxWENpRXBCUXp4WFp6eXlaLXdWaTlzODFLanQ5aVYwanNLM3Z5bUYzeldFOWY4bWEwX2VPbXR4U0MxTU4ybm1Lcks2Qzk5em52YVZBNEhEdyIsImlkIjoiZmNfci1tOGF1RzRGNzdEa1BJUGp1ZUtJUV82In0=",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSS1RrOWpRak14VXpGUE0xazBUSFJwYjBObFpVWkVjRmRSZVVnM1VraEhSRVJzTWswd09XazFReTF1VUhCcWRtRmplbGw0VVVOd2NWZDJTRlpMTm5WSlVtMHRUM1I2YzFWWlQxYzRPRUZoWDI5Q2VHSnJaMkV3TjNoMVVSSVdjaTF0T0dGMVJ6UkdOemRFYTFCSlVHcDFaVXRKVVJvaVFVUnpjamxtVWs0dFdWQjRRV05LWWpnd04ybHpaMFJoWTA0NGRuWndabUpOWnciLCJmY3YiOiIzIiwiZWkiOiJyLW04YXVHNEY3N0RrUElQanVlS0lRIiwicWMiOiJDaEp2Ym14cGJtVWdiR2xuYUhScGJtY2dkV3NRQUgzQVQwNF8iLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSBiZXN0IHdlYnNpdGVzIGZvciBidXlpbmcgbGlnaHRpbmcgaW4gdGhlIFVLPyIsImxrIjoiR2hsaVpYTjBJR3hwWjJoMGFXNW5JSGRsWW5OcGRHVnpJSFZyIiwiYnMiOiJjNFhOdlFyQ01CREFjVnd6dVJvUlQzMENCUVVuSDhCVnFTQU9hYmlhMEh5VTVJTDQ5dGFDclFyYTdlRC05enQyWXR0TUNRSVJFRWdoNUJnSmJwaEhUUmloOEFIeWROZnVDa1pmRlQwSDdacnd1Ti10eG56VTlPMnVQVXdsTzdCbHBud0xrNi02emdxWENpRXBCUXp4WFp6eXlaLXdWaTlzODFLanQ5aVYwanNLM3Z5bUYzeldFOWY4bWEwX2VPbXR4U0MxTU4ybm1Lcks2Qzk5em52YVZBNEhEdyIsImlkIjoiZmNfci1tOGF1RzRGNzdEa1BJUGp1ZUtJUV82In0%3D"
+   },
+   {
+    "question": "Who are the top lighting manufacturers in the UK?",
+    "type": "ai_overview",
+    "page_token": "Tjfr-HicHdBRbpswAABQ9TL9TExoOjVSNInEJGOxIwy2wT-TYxMINuCGFEr-doWeoafqaTrtAO_n_f20l9Z8PXxUt5vrV_P5OI6zsutKW8xUN3szc9lPrZorae1JKrN6_vHs_TyrNRzyYHNVQUydY1sCkgTcWRoSzfJR-ZXDIdkg4FLVxB6z4aS4-C0yATC3DfGD4eRZyjL9SvfVRqbil1y8u9hiVNR0iRaMyUzcZeK1LHSbIyQd32kPMUEKHjUiJYcU3GIM8dupNlPcipx5L72EGMlMBzl4WlI4vuOdJv9Mf8yIEFsWJY0NC2PGuCZ3nqIFsdUhpzbUEA8oUwu6Q76G5Yi2cNLGM3njek3JBbd2mXiWa_ZSK1OOsBLTgYOnPGN7DHMfA3Kl0MayZTYBluwuUUD2eDpykaZGNNIGiNSBVHw5sNYBUeOq2EaQUF2Le-Q_ntWw9h__T6__nJvbyl278hvYA425",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Tjfr-HicHdBRbpswAABQ9TL9TExoOjVSNInEJGOxIwy2wT-TYxMINuCGFEr-doWeoafqaTrtAO_n_f20l9Z8PXxUt5vrV_P5OI6zsutKW8xUN3szc9lPrZorae1JKrN6_vHs_TyrNRzyYHNVQUydY1sCkgTcWRoSzfJR-ZXDIdkg4FLVxB6z4aS4-C0yATC3DfGD4eRZyjL9SvfVRqbil1y8u9hiVNR0iRaMyUzcZeK1LHSbIyQd32kPMUEKHjUiJYcU3GIM8dupNlPcipx5L72EGMlMBzl4WlI4vuOdJv9Mf8yIEFsWJY0NC2PGuCZ3nqIFsdUhpzbUEA8oUwu6Q76G5Yi2cNLGM3njek3JBbd2mXiWa_ZSK1OOsBLTgYOnPGN7DHMfA3Kl0MayZTYBluwuUUD2eDpykaZGNNIGiNSBVHw5sNYBUeOq2EaQUF2Le-Q_ntWw9h__T6__nJvbyl278hvYA425",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSS1RrOWpRak14VXpGUE0xazBUSFJwYjBObFpVWkVjRmRSZVVnM1VraEhSRVJzTWswd09XazFReTF1VUhCcWRtRmplbGw0VVVOd2NWZDJTRlpMTm5WSlVtMHRUM1I2YzFWWlQxYzRPRUZoWDI5Q2VHSnJaMkV3TjNoMVVSSVdjaTF0T0dGMVJ6UkdOemRFYTFCSlVHcDFaVXRKVVJvaVFVUnpjamxtVWs0dFdWQjRRV05LWWpnd04ybHpaMFJoWTA0NGRuWndabUpOWnciLCJmY3YiOiIzIiwiZWkiOiJyLW04YXVHNEY3N0RrUElQanVlS0lRIiwicWMiOiJDaEp2Ym14cGJtVWdiR2xuYUhScGJtY2dkV3NRQUgzQVQwNF8iLCJxdWVzdGlvbiI6IldobyBhcmUgdGhlIHRvcCBsaWdodGluZyBtYW51ZmFjdHVyZXJzIGluIHRoZSBVSz8iLCJsayI6IkdoMTBiM0FnYkdsbmFIUnBibWNnYldGdWRXWmhZM1IxY21WeWN5QjFhdyIsImJzIjoiYzRYTnZRckNNQkRBY1Z3enVSb1JUMzBDQlFVbkg4QlZxU0FPYWJpYTBIeVU1SUw0OXRhQ3JRcmE3ZUQtOXp0Mll0dE1DUUlSRUVnaDVCZ0picGhIVFJpaDhBSHlkTmZ1Q2taZkZUMEg3WnJ3dU4tdHhuelU5TzJ1UFV3bE83QmxwbndMazYtNnpncVhDaUVwQlF6eFhaenl5Wi13Vmk5czgxS2p0OWlWMGpzSzN2eW1GM3pXRTlmOG1hMF9lT210eFNDMU1OMm5tS3JLNkM5OXpudmFWQTRIRHciLCJpZCI6ImZjX3ItbThhdUc0Rjc3RGtQSVBqdWVLSVFfNiJ9",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSS1RrOWpRak14VXpGUE0xazBUSFJwYjBObFpVWkVjRmRSZVVnM1VraEhSRVJzTWswd09XazFReTF1VUhCcWRtRmplbGw0VVVOd2NWZDJTRlpMTm5WSlVtMHRUM1I2YzFWWlQxYzRPRUZoWDI5Q2VHSnJaMkV3TjNoMVVSSVdjaTF0T0dGMVJ6UkdOemRFYTFCSlVHcDFaVXRKVVJvaVFVUnpjamxtVWs0dFdWQjRRV05LWWpnd04ybHpaMFJoWTA0NGRuWndabUpOWnciLCJmY3YiOiIzIiwiZWkiOiJyLW04YXVHNEY3N0RrUElQanVlS0lRIiwicWMiOiJDaEp2Ym14cGJtVWdiR2xuYUhScGJtY2dkV3NRQUgzQVQwNF8iLCJxdWVzdGlvbiI6IldobyBhcmUgdGhlIHRvcCBsaWdodGluZyBtYW51ZmFjdHVyZXJzIGluIHRoZSBVSz8iLCJsayI6IkdoMTBiM0FnYkdsbmFIUnBibWNnYldGdWRXWmhZM1IxY21WeWN5QjFhdyIsImJzIjoiYzRYTnZRckNNQkRBY1Z3enVSb1JUMzBDQlFVbkg4QlZxU0FPYWJpYTBIeVU1SUw0OXRhQ3JRcmE3ZUQtOXp0Mll0dE1DUUlSRUVnaDVCZ0picGhIVFJpaDhBSHlkTmZ1Q2taZkZUMEg3WnJ3dU4tdHhuelU5TzJ1UFV3bE83QmxwbndMazYtNnpncVhDaUVwQlF6eFhaenl5Wi13Vmk5czgxS2p0OWlWMGpzSzN2eW1GM3pXRTlmOG1hMF9lT210eFNDMU1OMm5tS3JLNkM5OXpudmFWQTRIRHciLCJpZCI6ImZjX3ItbThhdUc0Rjc3RGtQSVBqdWVLSVFfNiJ9"
+   },
+   {
+    "question": "Who are some lighting control manufacturers in the UK?",
+    "type": "ai_overview",
+    "page_token": "9_e3I3icHdBfbpswHABg9TJ9TAg0mRIpqsSMiVBjhIGfwS8T2E5Ibf4UaCC89Qo9w06102zaDT59X7_NrdF_nr6rceyGw3o9TdPq2rZXo1aiXX3qdTE8GrEWhTFlIfRh92O3eb2Io3fP3Z-9cKO06wBRK7a1TcCMqab3ssZvFHHI7XlbLt5UJMAS2C-ycXNV41DUwSSxe6N-O1OGX2CRO5pxN2T7ijPICgS-OKXTGdHxzHAANt7GvqkKpC2BzJBuup4jQhVrbVLzLtGSSIfEXG9dYQVT9O4Oiu3hvJAsB1IxFs0JNp8qhVC9B3GcSaf08e6cBKTweKjqGTGMP0pondQmsahnzHWXycwdSLoxBCCiSxVzNuawkb1X8ccbs17yDE7Eyx1i0T71TFQ0YGLLUP8WuPREHiHjCfi8p8gsxJJb4pkmr8e7Yv8sNfUUlkARbZ4v4n50nv9PH39d6vHQ9e31LxJCjfo",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=9_e3I3icHdBfbpswHABg9TJ9TAg0mRIpqsSMiVBjhIGfwS8T2E5Ibf4UaCC89Qo9w06102zaDT59X7_NrdF_nr6rceyGw3o9TdPq2rZXo1aiXX3qdTE8GrEWhTFlIfRh92O3eb2Io3fP3Z-9cKO06wBRK7a1TcCMqab3ssZvFHHI7XlbLt5UJMAS2C-ycXNV41DUwSSxe6N-O1OGX2CRO5pxN2T7ijPICgS-OKXTGdHxzHAANt7GvqkKpC2BzJBuup4jQhVrbVLzLtGSSIfEXG9dYQVT9O4Oiu3hvJAsB1IxFs0JNp8qhVC9B3GcSaf08e6cBKTweKjqGTGMP0pondQmsahnzHWXycwdSLoxBCCiSxVzNuawkb1X8ccbs17yDE7Eyx1i0T71TFQ0YGLLUP8WuPREHiHjCfi8p8gsxJJb4pkmr8e7Yv8sNfUUlkARbZ4v4n50nv9PH39d6vHQ9e31LxJCjfo",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSS1RrOWpRak14VXpGUE0xazBUSFJwYjBObFpVWkVjRmRSZVVnM1VraEhSRVJzTWswd09XazFReTF1VUhCcWRtRmplbGw0VVVOd2NWZDJTRlpMTm5WSlVtMHRUM1I2YzFWWlQxYzRPRUZoWDI5Q2VHSnJaMkV3TjNoMVVSSVdjaTF0T0dGMVJ6UkdOemRFYTFCSlVHcDFaVXRKVVJvaVFVUnpjamxtVWs0dFdWQjRRV05LWWpnd04ybHpaMFJoWTA0NGRuWndabUpOWnciLCJmY3YiOiIzIiwiZWkiOiJyLW04YXVHNEY3N0RrUElQanVlS0lRIiwicWMiOiJDaEp2Ym14cGJtVWdiR2xuYUhScGJtY2dkV3NRQUgzQVQwNF8iLCJxdWVzdGlvbiI6IldobyBhcmUgc29tZSBsaWdodGluZyBjb250cm9sIG1hbnVmYWN0dXJlcnMgaW4gdGhlIFVLPyIsImxrIjoiR2lGc2FXZG9kR2x1WnlCamIyNTBjbTlzSUcxaGJuVm1ZV04wZFhKbGNuTWdkV3MiLCJicyI6ImM0WE52UXJDTUJEQWNWd3p1Um9SVDMwQ0JRVW5IOEJWcVNBT2FiaWEwSHlVNUlMNDl0YUNyUXJhN2VELTl6dDJZdHRNQ1FJUkVFZ2g1QmdKYnBoSFRSaWg4QUh5ZE5mdUNrWmZGVDBIN1pyd3VOLXR4bnpVOU8ydVBVd2xPN0JscG53TGs2LTZ6Z3FYQ2lFcEJRenhYWnp5eVotd1ZpOXM4MUtqdDlpVjBqc0szdnltRjN6V0U5ZjhtYTBfZU9tdHhTQzFNTjJubUtySzZDOTl6bnZhVkE0SER3IiwiaWQiOiJmY19yLW04YXVHNEY3N0RrUElQanVlS0lRXzYifQ==",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSS1RrOWpRak14VXpGUE0xazBUSFJwYjBObFpVWkVjRmRSZVVnM1VraEhSRVJzTWswd09XazFReTF1VUhCcWRtRmplbGw0VVVOd2NWZDJTRlpMTm5WSlVtMHRUM1I2YzFWWlQxYzRPRUZoWDI5Q2VHSnJaMkV3TjNoMVVSSVdjaTF0T0dGMVJ6UkdOemRFYTFCSlVHcDFaVXRKVVJvaVFVUnpjamxtVWs0dFdWQjRRV05LWWpnd04ybHpaMFJoWTA0NGRuWndabUpOWnciLCJmY3YiOiIzIiwiZWkiOiJyLW04YXVHNEY3N0RrUElQanVlS0lRIiwicWMiOiJDaEp2Ym14cGJtVWdiR2xuYUhScGJtY2dkV3NRQUgzQVQwNF8iLCJxdWVzdGlvbiI6IldobyBhcmUgc29tZSBsaWdodGluZyBjb250cm9sIG1hbnVmYWN0dXJlcnMgaW4gdGhlIFVLPyIsImxrIjoiR2lGc2FXZG9kR2x1WnlCamIyNTBjbTlzSUcxaGJuVm1ZV04wZFhKbGNuTWdkV3MiLCJicyI6ImM0WE52UXJDTUJEQWNWd3p1Um9SVDMwQ0JRVW5IOEJWcVNBT2FiaWEwSHlVNUlMNDl0YUNyUXJhN2VELTl6dDJZdHRNQ1FJUkVFZ2g1QmdKYnBoSFRSaWg4QUh5ZE5mdUNrWmZGVDBIN1pyd3VOLXR4bnpVOU8ydVBVd2xPN0JscG53TGs2LTZ6Z3FYQ2lFcEJRenhYWnp5eVotd1ZpOXM4MUtqdDlpVjBqc0szdnltRjN6V0U5ZjhtYTBfZU9tdHhTQzFNTjJubUtySzZDOTl6bnZhVkE0SER3IiwiaWQiOiJmY19yLW04YXVHNEY3N0RrUElQanVlS0lRXzYifQ%3D%3D"
+   },
+   {
+    "question": "Who are some commercial lighting suppliers in the UK?",
+    "type": "ai_overview",
+    "page_token": "H_CaZHicHZBtjppAGIDTy-xPZQBtNTFNWBmQXYZlYF5g_jQwIAgvH3Gtov96hZ6hp-ppanqC5-PXHzwN3d8vv5vLZfrcLpe3221Rj2ON1UKNi5_dMv-8D2qpcsQiV912_XVNvh_Vzr5m1utZWaGYJthzLXaaSHTEjx7NitHNR2Ec9KqnPiS1XolvGiB7Ber5XA9NQZuJ9XxMBjkoMRHZlibTSRA_6EdINiJ_4LuPtRk4s1lAyaoW-ggaX7koFOKetdID-zJCAgKMTveBvcnUO4HLgsrFtzD1KKPgCGrNRcIzASi4U_YyLa_Q4tOvXMcOJQnlnRRijol0EtoEkatWSr_0QNi-0OlQ0YMRkWwu4oPBcDKVjV7ezZbdyPt7oplZ-iTamcE0fhY2hvkAGGnInZNncZfdg0RG4BwMEePq2ebynkjZbe5J65MopbEfU6_qPevlqK474-X_6d2PY3_ZTuex_gdwo4nr",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=H_CaZHicHZBtjppAGIDTy-xPZQBtNTFNWBmQXYZlYF5g_jQwIAgvH3Gtov96hZ6hp-ppanqC5-PXHzwN3d8vv5vLZfrcLpe3221Rj2ON1UKNi5_dMv-8D2qpcsQiV912_XVNvh_Vzr5m1utZWaGYJthzLXaaSHTEjx7NitHNR2Ec9KqnPiS1XolvGiB7Ber5XA9NQZuJ9XxMBjkoMRHZlibTSRA_6EdINiJ_4LuPtRk4s1lAyaoW-ggaX7koFOKetdID-zJCAgKMTveBvcnUO4HLgsrFtzD1KKPgCGrNRcIzASi4U_YyLa_Q4tOvXMcOJQnlnRRijol0EtoEkatWSr_0QNi-0OlQ0YMRkWwu4oPBcDKVjV7ezZbdyPt7oplZ-iTamcE0fhY2hvkAGGnInZNncZfdg0RG4BwMEePq2ebynkjZbe5J65MopbEfU6_qPevlqK474-X_6d2PY3_ZTuex_gdwo4nr",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSS1RrOWpRak14VXpGUE0xazBUSFJwYjBObFpVWkVjRmRSZVVnM1VraEhSRVJzTWswd09XazFReTF1VUhCcWRtRmplbGw0VVVOd2NWZDJTRlpMTm5WSlVtMHRUM1I2YzFWWlQxYzRPRUZoWDI5Q2VHSnJaMkV3TjNoMVVSSVdjaTF0T0dGMVJ6UkdOemRFYTFCSlVHcDFaVXRKVVJvaVFVUnpjamxtVWs0dFdWQjRRV05LWWpnd04ybHpaMFJoWTA0NGRuWndabUpOWnciLCJmY3YiOiIzIiwiZWkiOiJyLW04YXVHNEY3N0RrUElQanVlS0lRIiwicWMiOiJDaEp2Ym14cGJtVWdiR2xuYUhScGJtY2dkV3NRQUgzQVQwNF8iLCJxdWVzdGlvbiI6IldobyBhcmUgc29tZSBjb21tZXJjaWFsIGxpZ2h0aW5nIHN1cHBsaWVycyBpbiB0aGUgVUs/IiwibGsiOiJHaUJqYjIxdFpYSmphV0ZzSUd4cFoyaDBhVzVuSUhOMWNIQnNhV1Z5Y3lCMWF3IiwiYnMiOiJjNFhOdlFyQ01CREFjVnd6dVJvUlQzMENCUVVuSDhCVnFTQU9hYmlhMEh5VTVJTDQ5dGFDclFyYTdlRC05enQyWXR0TUNRSVJFRWdoNUJnSmJwaEhUUmloOEFIeWROZnVDa1pmRlQwSDdacnd1Ti10eG56VTlPMnVQVXdsTzdCbHBud0xrNi02emdxWENpRXBCUXp4WFp6eXlaLXdWaTlzODFLanQ5aVYwanNLM3Z5bUYzeldFOWY4bWEwX2VPbXR4U0MxTU4ybm1Lcks2Qzk5em52YVZBNEhEdyIsImlkIjoiZmNfci1tOGF1RzRGNzdEa1BJUGp1ZUtJUV82In0=",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSS1RrOWpRak14VXpGUE0xazBUSFJwYjBObFpVWkVjRmRSZVVnM1VraEhSRVJzTWswd09XazFReTF1VUhCcWRtRmplbGw0VVVOd2NWZDJTRlpMTm5WSlVtMHRUM1I2YzFWWlQxYzRPRUZoWDI5Q2VHSnJaMkV3TjNoMVVSSVdjaTF0T0dGMVJ6UkdOemRFYTFCSlVHcDFaVXRKVVJvaVFVUnpjamxtVWs0dFdWQjRRV05LWWpnd04ybHpaMFJoWTA0NGRuWndabUpOWnciLCJmY3YiOiIzIiwiZWkiOiJyLW04YXVHNEY3N0RrUElQanVlS0lRIiwicWMiOiJDaEp2Ym14cGJtVWdiR2xuYUhScGJtY2dkV3NRQUgzQVQwNF8iLCJxdWVzdGlvbiI6IldobyBhcmUgc29tZSBjb21tZXJjaWFsIGxpZ2h0aW5nIHN1cHBsaWVycyBpbiB0aGUgVUs%2FIiwibGsiOiJHaUJqYjIxdFpYSmphV0ZzSUd4cFoyaDBhVzVuSUhOMWNIQnNhV1Z5Y3lCMWF3IiwiYnMiOiJjNFhOdlFyQ01CREFjVnd6dVJvUlQzMENCUVVuSDhCVnFTQU9hYmlhMEh5VTVJTDQ5dGFDclFyYTdlRC05enQyWXR0TUNRSVJFRWdoNUJnSmJwaEhUUmloOEFIeWROZnVDa1pmRlQwSDdacnd1Ti10eG56VTlPMnVQVXdsTzdCbHBud0xrNi02emdxWENpRXBCUXp4WFp6eXlaLXdWaTlzODFLanQ5aVYwanNLM3Z5bUYzeldFOWY4bWEwX2VPbXR4U0MxTU4ybm1Lcks2Qzk5em52YVZBNEhEdyIsImlkIjoiZmNfci1tOGF1RzRGNzdEa1BJUGp1ZUtJUV82In0%3D"
+   }
+  ],
+  "ai_overview": {
+   "text_blocks": [
+    {
+     "type": "paragraph",
+     "snippet": "You can buy quality indoor and outdoor light fittings online from top UK retailers like Lighting Direct, Lights 2 Go, and Lights.co.uk.",
+     "snippet_links": [
+      {
+       "text": "Lighting Direct",
+       "link": "https://www.lighting-direct.co.uk/"
+      },
+      {
+       "text": "Lights 2 Go",
+       "link": "https://www.lights2go.co.uk/"
+      },
+      {
+       "text": "Lights.co.uk",
+       "link": "https://www.lights.co.uk/"
+      }
+     ],
+     "snippet_highlighted_words": [
+      "Lighting Direct, Lights 2 Go, and Lights.co.uk"
+     ]
+    },
+    {
+     "type": "heading",
+     "snippet": "Popular Online Lighting Stores in the UK"
+    },
+    {
+     "type": "list",
+     "list": [
+      {
+       "snippet": "Lighting Direct: Offers thousands of indoor and outdoor light fittings with next-day delivery options."
+      },
+      {
+       "snippet": "Lights 2 Go: Features major brands like Astro, Schuller, and Elstead with frequent online discounts."
+      },
+      {
+       "snippet": "Lights.co.uk: Provides a massive selection of modern and traditional home lighting and outdoor fixtures."
+      },
+      {
+       "snippet": "The Lighting Superstore: Stocks over 16,500 interior and exterior products, bulbs, and LED fixtures."
+      },
+      {
+       "snippet": "Litecraft: Supplies luxury lighting, lamps, and home decor with free UK delivery."
+      }
+     ]
+    },
+    {
+     "type": "paragraph",
+     "snippet": "If you want, tell me:"
+    },
+    {
+     "type": "list",
+     "list": [
+      {
+       "snippet": "Which room or area are you lighting (e.g., kitchen, bathroom, garden)?"
+      },
+      {
+       "snippet": "What style do you prefer (modern, industrial, crystal)?"
+      },
+      {
+       "snippet": "What is your budget?"
+      }
+     ]
+    },
+    {
+     "type": "paragraph",
+     "snippet": "I can recommend the best specific online shop or style for your project."
+    }
+   ],
+   "references": [
+    {
+     "link": "https://www.lighting-direct.co.uk/",
+     "source": "lighting-direct.co.uk",
+     "index": 0
+    },
+    {
+     "link": "https://www.lights2go.co.uk/",
+     "source": "lights2go.co.uk",
+     "index": 1
+    },
+    {
+     "link": "https://www.lights.co.uk/",
+     "source": "lights.co.uk",
+     "index": 2
+    },
+    {
+     "link": "https://www.thelightingsuperstore.co.uk/",
+     "source": "thelightingsuperstore.co.uk",
+     "index": 3
+    },
+    {
+     "link": "https://www.litecraft.co.uk/",
+     "source": "litecraft.co.uk",
+     "index": 4
+    },
+    {
+     "title": "Lighting-Direct: Lighting & Light Fittings",
+     "link": "https://www.lighting-direct.co.uk/",
+     "snippet": "Lighting Direct boast a great selection of quality indoor and outdoor light fittings with unbeatable customer service. 1000's of lines in stock for next day delive...",
+     "source": "www.lighting-direct.co.uk",
+     "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT0ItHsseSKkEfAiNTkj4CBLya9yJifVVoh4evBaILIMLGPIu1mNZKl7ubY1piyeHaDamQmHz_fOurgQDwnc7pqJGCNRY7QsP1RvLbh",
+     "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.lighting-direct.co.uk&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "index": 5
+    },
+    {
+     "title": "Modern Lighting | Buy Lights Online | Lights 2 Go",
+     "link": "https://www.lights2go.co.uk/",
+     "snippet": "Top Lighting Brands: Schuller, Endon, Nelson Lighting, Impex, Elstead Lighting, Searchlight Lighting, Dar Lighting, Astro Lighting, Eglo. Product Categories: Spotl...",
+     "source": "Lights 2 Go",
+     "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSIzPEonnDHAADgMiuf2SQnT3UnLZsLDbr42S-a1xhrQDvjqeS9oEXK1yHsJeCi792FOYDxoAYO-XDijGClkBuP2tQ7BQoT3PFRBFwQ",
+     "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.lights2go.co.uk&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "index": 6
+    },
+    {
+     "title": "Lights.co.uk: Lights, Lighting & Light Fittings",
+     "link": "https://www.lights.co.uk/",
+     "snippet": "Be the first to hear about our best offers, exclusive promotions and the latest trends in lighting. Register now and we'll send you a 15% voucher* to use on your f...",
+     "source": "Lights.co.uk",
+     "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQruzM-WXDrlufOBVCN854nfShkw_o0OieCNaUty0POjqHzAe_r1l6frPuFIBQrG8RRBY5M7FGmFeGN_un5puRhQ3TdvvSLNTncn-r",
+     "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.lights.co.uk&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "index": 7
+    },
+    {
+     "title": "Quality Home Lighting | The Lighting Superstore",
+     "link": "https://www.thelightingsuperstore.co.uk/",
+     "snippet": "Inventory: 16,583+ interior and exterior lighting products including lamps, bulbs, and LED fixtures. Categories: Ceiling spotlights, ceiling lights, and specialize...",
+     "source": "Thelightingsuperstore.co.uk",
+     "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRwQKVVdEL-zH-WOI_9fTvZwCDGT76YM-d15kqtZQCUXYbohzYtJkf2ntCSNk6hFNv0SpgdiX0YPpFZhFHmEoycFb8woT2jStrq9Dsz",
+     "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.thelightingsuperstore.co.uk&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "index": 8
+    },
+    {
+     "title": "Litecraft: Lights & Lamps | Lighting & Home Decor",
+     "link": "https://www.litecraft.co.uk/",
+     "snippet": "Buy Luxury Lighting online at Litecraft. Huge range of light fittings, lamps & home decor to suit your style. 3 lighting shops nationwide. Free UK delivery!",
+     "source": "Litecraft.co.uk",
+     "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQVtYQhB2sDatVzINkrhCKhc3sF6e0bO0LyX6WqY-4kpuqcCDM7yNXFb3zp-2KNS26OIpe4SgHPw8CICvr4V8ZZkntvHRzangob3c8j",
+     "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.litecraft.co.uk&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "index": 9
+    }
+   ]
+  },
+  "organic_results": [
+   {
+    "position": 1,
+    "title": "Discovery Lighting",
+    "link": "https://www.onlinelighting.co.uk/13980-discovery",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaAHrOzAVbFVrTdQ8AM8jdp1tJ_VhPedFkjBvQybyEYXC7AAOvtAua6pwk98GtCHgjOfgsDhzD8DVW6YmBFUcToIeZTF-4nvca8NJcs39B_9VbVhzWH3-fvLw8tIDZ8oDhhre8hDLR40j&ved=2ahUKEwihzIGmkZaXAxW-IUQIHY6zIgQQFnoECCQQAQ&uoh=1",
+    "displayed_link": "https://www.onlinelighting.co.uk › 13980-discovery",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAANlBMVEUAAAAAAAC6urr4-PlFRkfV1db09PT___9hYWEbHBx8fH2kpKXLy8xvb2_p6eoyMjMAAAAAAAD49qnnAAAAEnRSTlP_3v__________________4MLziuupAAAAjUlEQVR4Ad2TVQLDIBQEF3ksGrn_YetepPKXiWCDAwaozQjaGIsa4txJENJXBUeGByHEGAOOkVAVEo8kIJOlIhSeiS0hk047UlrCdPx5cuoIFvNIsH8Lgy4iykWICCG8T5NCMh9jJ-ZnwfOMbwmI5ryQ0DRH3gTAetvZzRrmIiSRuSpokY3ciwWqy7LuAcPGCesUxt0oAAAAAElFTkSuQmCC.png",
+    "snippet": "Discovery Lighting - Online Lighting Reloading...",
+    "snippet_highlighted_words": [
+     "Lighting",
+     "Online Lighting"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Discovery Lighting - Online Lighting Reloading...",
+      "source_info_link": "https://www.onlinelighting.co.uk/13980-discovery",
+      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAANlBMVEUAAAAAAAC6urr4-PlFRkfV1db09PT___9hYWEbHBx8fH2kpKXLy8xvb2_p6eoyMjMAAAAAAAD49qnnAAAAEnRSTlP_3v__________________4MLziuupAAAAjUlEQVR4Ad2TVQLDIBQEF3ksGrn_YetepPKXiWCDAwaozQjaGIsa4txJENJXBUeGByHEGAOOkVAVEo8kIJOlIhSeiS0hk047UlrCdPx5cuoIFvNIsH8Lgy4iykWICCG8T5NCMh9jJ-ZnwfOMbwmI5ryQ0DRH3gTAetvZzRrmIiSRuSpokY3ciwWqy7LuAcPGCesUxt0oAAAAAElFTkSuQmCC.png"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CpoBL2dvdG8_dXJsPUNBRVNhQUhyT3pBVmJGVnJUZFE4QU04amRwMXRKX1ZoUGVkRmtqQnZReWJ5RVlYQzdBQU92dEF1YTZwd2s5OEd0Q0hnak9mZ3NEaHpEOERWVzZZbUJGVWNUb0llWlRGLTRudmNhOE5KY3MzOUJfOVZiVmh6V0gzLWZ2THc4dElEWjhvRGhocmU4aERMUjQwahIEGgIIABrwAhIAGgAiACoAMgYIARICdWs6AEIECAEQAEoAWgByAHoAgkDMAggAEAAYACAAKh0KBm9ubGluZRUAAL9AGg5vbmxpbmVsaWdodGluZyofCghsaWdodGluZxUAAL9AGg5vbmxpbmVsaWdodGluZyoJCgJ1axUAAAA_MpoBL2dvdG8_dXJsPUNBRVNhQUhyT3pBVmJGVnJUZFE4QU04amRwMXRKX1ZoUGVkRmtqQnZReWJ5RVlYQzdBQU92dEF1YTZwd2s5OEd0Q0hnak9mZ3NEaHpEOERWVzZZbUJGVWNUb0llWlRGLTRudmNhOE5KY3MzOUJfOVZiVmh6V0gzLWZ2THc4dElEWjhvRGhocmU4aERMUjQwajoZRGlzY292ZXJ5IDxiPkxpZ2h0aW5nPC9iPkI_RGlzY292ZXJ5IDxiPkxpZ2h0aW5nPC9iPiAtIDxiPk9ubGluZSBMaWdodGluZzwvYj4gUmVsb2FkaW5nLi4uIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CpoBL2dvdG8_dXJsPUNBRVNhQUhyT3pBVmJGVnJUZFE4QU04amRwMXRKX1ZoUGVkRmtqQnZReWJ5RVlYQzdBQU92dEF1YTZwd2s5OEd0Q0hnak9mZ3NEaHpEOERWVzZZbUJGVWNUb0llWlRGLTRudmNhOE5KY3MzOUJfOVZiVmh6V0gzLWZ2THc4dElEWjhvRGhocmU4aERMUjQwahIEGgIIABrwAhIAGgAiACoAMgYIARICdWs6AEIECAEQAEoAWgByAHoAgkDMAggAEAAYACAAKh0KBm9ubGluZRUAAL9AGg5vbmxpbmVsaWdodGluZyofCghsaWdodGluZxUAAL9AGg5vbmxpbmVsaWdodGluZyoJCgJ1axUAAAA_MpoBL2dvdG8_dXJsPUNBRVNhQUhyT3pBVmJGVnJUZFE4QU04amRwMXRKX1ZoUGVkRmtqQnZReWJ5RVlYQzdBQU92dEF1YTZwd2s5OEd0Q0hnak9mZ3NEaHpEOERWVzZZbUJGVWNUb0llWlRGLTRudmNhOE5KY3MzOUJfOVZiVmh6V0gzLWZ2THc4dElEWjhvRGhocmU4aERMUjQwajoZRGlzY292ZXJ5IDxiPkxpZ2h0aW5nPC9iPkI_RGlzY292ZXJ5IDxiPkxpZ2h0aW5nPC9iPiAtIDxiPk9ubGluZSBMaWdodGluZzwvYj4gUmVsb2FkaW5nLi4uIgIQAUgAWABoAA",
+    "source": "onlinelighting.co.uk"
+   },
+   {
+    "position": 2,
+    "title": "Buy Home Lighting Mains Powered Online",
+    "link": "https://www.next.co.uk/shop/home/lighting/f/powersource-mainspowered-type-pendantlights",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjwEB6zswFQgYOJJiYRSLVjKSjFnBVslDlAZ_glSQtvwoHAMsxOmefgRrqnGkF1qFACD7C0HXm5DpWPDU5nuq97mA_Rx1w8HeKUGpjWIkHQlcR_uxMikfJmprYuoXcxpmE7AbN5eMlTP01GiXA3TibhXREEhkmdnqdkcqrzq4xnaECI-iB8dI5X56Q0iOW5LrRw&ved=2ahUKEwihzIGmkZaXAxW-IUQIHY6zIgQQFnoECCoQAQ&uoh=1",
+    "displayed_link": "https://www.next.co.uk › home › lighting",
+    "favicon": "https://serpapi.com/images/i/UklGRoYAAABXRUJQVlA4IHoAAAAQBACdASocABwAPrUurVanIacnG_DgFolpAACI5lpZ71MR19Tn7qIAAAD--KzJJrMYtW8HOYefoY2tz9Y2cU51n-4BB2x9TNXqR-yq4urkQzkuAhZjuBQ7tlZqeP4DcU8LTLftD6l3YI8Q2GdLgNZ8IWE7KVY5gAAAAA.webp",
+    "snippet": "Shop a wide range of Home Lighting Mains Powered with Next. Choose from 1000s of products here. Order Home Lighting Mains Powered now with express delivery.",
+    "snippet_highlighted_words": [
+     "Shop a wide range of Home Lighting Mains Powered with Next"
+    ],
+    "rich_snippet": {
+     "top": {
+      "detected_extensions": {
+       "rating": 4.6,
+       "free_day_returns": 28
+      },
+      "extensions": [
+       "4.6",
+       "store rating (650k)",
+       "Free 28-day returns"
+      ]
+     }
+    },
+    "about_this_result": {
+     "source": {
+      "description": "Shop a wide range of Home Lighting Mains Powered with Next. Choose from 1000s of products here. Order Home Lighting Mains Powered now with express delivery.",
+      "source_info_link": "https://www.next.co.uk/shop/home/lighting/f/powersource-mainspowered-type-pendantlights",
+      "icon": "https://serpapi.com/images/i/UklGRoYAAABXRUJQVlA4IHoAAAAQBACdASocABwAPrUurVanIacnG_DgFolpAACI5lpZ71MR19Tn7qIAAAD--KzJJrMYtW8HOYefoY2tz9Y2cU51n-4BB2x9TNXqR-yq4urkQzkuAhZjuBQ7tlZqeP4DcU8LTLftD6l3YI8Q2GdLgNZ8IWE7KVY5gAAAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CtABL2dvdG8_dXJsPUNBRVNqd0VCNnpzd0ZRZ1lPSkppWVJTTFZqS1NqRm5CVnNsRGxBWl9nbFNRdHZ3b0hBTXN4T21lZmdScnFuR2tGMXFGQUNEN0MwSFhtNURwV1BEVTVudXE5N21BX1J4MXc4SGVLVUdwaldJa0hRbGNSX3V4TWlrZkptcHJZdW9YY3hwbUU3QWJONWVNbFRQMDFHaVhBM1RpYmhYUkVFaGttZG5xZGtjcXJ6cTR4bmFFQ0ktaUI4ZEk1WDU2UTBpT1c1THJSdxIEGgIIABq3BBIAGgAiACoAMgYIARICdWs6AEIECAEQAEoAWgByAHoAgkCTBAgAEAAYACAAKh0KBm9ubGluZRWniBNAGg5vbmxpbmVsaWdodGluZyofCghsaWdodGluZxWdVjxAGg5vbmxpbmVsaWdodGluZyoJCgJ1axX3gDNAMtABL2dvdG8_dXJsPUNBRVNqd0VCNnpzd0ZRZ1lPSkppWVJTTFZqS1NqRm5CVnNsRGxBWl9nbFNRdHZ3b0hBTXN4T21lZmdScnFuR2tGMXFGQUNEN0MwSFhtNURwV1BEVTVudXE5N21BX1J4MXc4SGVLVUdwaldJa0hRbGNSX3V4TWlrZkptcHJZdW9YY3hwbUU3QWJONWVNbFRQMDFHaVhBM1RpYmhYUkVFaGttZG5xZGtjcXJ6cTR4bmFFQ0ktaUI4ZEk1WDU2UTBpT1c1THJSdzpFQnV5IEhvbWUgPGI-TGlnaHRpbmc8L2I-IE1haW5zIFBvd2VyZWQgPGI-T25saW5lPC9iPiB8IE5leHQgPGI-VUs8L2I-QqMBPGI-U2hvcCBhIHdpZGUgcmFuZ2Ugb2YgSG9tZSBMaWdodGluZyBNYWlucyBQb3dlcmVkIHdpdGggTmV4dDwvYj4uIENob29zZSBmcm9tIDEwMDBzIG9mIHByb2R1Y3RzIGhlcmUuIE9yZGVyIEhvbWUgTGlnaHRpbmcgTWFpbnMgUG93ZXJlZCBub3cgd2l0aCBleHByZXNzIGRlbGl2ZXJ5LiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CtABL2dvdG8_dXJsPUNBRVNqd0VCNnpzd0ZRZ1lPSkppWVJTTFZqS1NqRm5CVnNsRGxBWl9nbFNRdHZ3b0hBTXN4T21lZmdScnFuR2tGMXFGQUNEN0MwSFhtNURwV1BEVTVudXE5N21BX1J4MXc4SGVLVUdwaldJa0hRbGNSX3V4TWlrZkptcHJZdW9YY3hwbUU3QWJONWVNbFRQMDFHaVhBM1RpYmhYUkVFaGttZG5xZGtjcXJ6cTR4bmFFQ0ktaUI4ZEk1WDU2UTBpT1c1THJSdxIEGgIIABq3BBIAGgAiACoAMgYIARICdWs6AEIECAEQAEoAWgByAHoAgkCTBAgAEAAYACAAKh0KBm9ubGluZRWniBNAGg5vbmxpbmVsaWdodGluZyofCghsaWdodGluZxWdVjxAGg5vbmxpbmVsaWdodGluZyoJCgJ1axX3gDNAMtABL2dvdG8_dXJsPUNBRVNqd0VCNnpzd0ZRZ1lPSkppWVJTTFZqS1NqRm5CVnNsRGxBWl9nbFNRdHZ3b0hBTXN4T21lZmdScnFuR2tGMXFGQUNEN0MwSFhtNURwV1BEVTVudXE5N21BX1J4MXc4SGVLVUdwaldJa0hRbGNSX3V4TWlrZkptcHJZdW9YY3hwbUU3QWJONWVNbFRQMDFHaVhBM1RpYmhYUkVFaGttZG5xZGtjcXJ6cTR4bmFFQ0ktaUI4ZEk1WDU2UTBpT1c1THJSdzpFQnV5IEhvbWUgPGI-TGlnaHRpbmc8L2I-IE1haW5zIFBvd2VyZWQgPGI-T25saW5lPC9iPiB8IE5leHQgPGI-VUs8L2I-QqMBPGI-U2hvcCBhIHdpZGUgcmFuZ2Ugb2YgSG9tZSBMaWdodGluZyBNYWlucyBQb3dlcmVkIHdpdGggTmV4dDwvYj4uIENob29zZSBmcm9tIDEwMDBzIG9mIHByb2R1Y3RzIGhlcmUuIE9yZGVyIEhvbWUgTGlnaHRpbmcgTWFpbnMgUG93ZXJlZCBub3cgd2l0aCBleHByZXNzIGRlbGl2ZXJ5LiICEAFIAFgAaAA",
+    "source": "Next"
+   },
+   {
+    "position": 3,
+    "title": "Shop Lighting & Lamp Online",
+    "link": "https://www.shein.co.uk/1PC-7-Color/Lighting-Lamp-c-2299.html",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdQHrOzAV4WVJUNOZh0dNBeK4Ce9St_32yI7ZNDqsjtOuV_vICjI5hrIkzSNsSA8pVa1z8NJ6hpcccjwFgKf6NVH_Js8T8TgqfdqGSyKMJcHfOFENcy879Co5LBJmGXflDS4k5AHYxWXFwiMMy4KCe8MuJIULCw&ved=2ahUKEwihzIGmkZaXAxW-IUQIHY6zIgQQFnoECCcQAQ&uoh=1",
+    "displayed_link": "https://www.shein.co.uk › Lighting-Lamp-c-2299",
+    "favicon": "https://serpapi.com/images/i/UklGRrgAAABXRUJQVlA4IKwAAADQBACdASocABwAPtEytFooIigoGAEAGglpAARADxioN_D1GQSjD7ZPUi9NzjHuAAD-93MXwG531p3oxcyYfJA6wglOrY_E_Ni2AwZ_qT5jCsCNCwAjW0qzfSebJJkZR3t5TEq9k_N3GKvfviv5K6wv-a_MT3G9kZs3zhz-UCdB7unhbHXmBwzfecBsOwTzCt55Xgf8YO6D61R2aq7Pv-NacHKO4GGtf6AAAAAA.webp",
+    "snippet": "Shop Lighting & Lamp online. SHEIN offers clothing, accessries & more to fit your fashionable needs. Free Shipping On £35+✓ Free Return - 45 Days✓ 1000+ ...",
+    "snippet_highlighted_words": [
+     "Shop Lighting & Lamp online"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Shop Lighting & Lamp online. SHEIN offers clothing, accessries & more to fit your fashionable needs. Free Shipping On £35+✓ Free Return - 45 Days✓ 1000+ ...",
+      "source_info_link": "https://www.shein.co.uk/1PC-7-Color/Lighting-Lamp-c-2299.html",
+      "icon": "https://serpapi.com/images/i/UklGRrgAAABXRUJQVlA4IKwAAADQBACdASocABwAPtEytFooIigoGAEAGglpAARADxioN_D1GQSjD7ZPUi9NzjHuAAD-93MXwG531p3oxcyYfJA6wglOrY_E_Ni2AwZ_qT5jCsCNCwAjW0qzfSebJJkZR3t5TEq9k_N3GKvfviv5K6wv-a_MT3G9kZs3zhz-UCdB7unhbHXmBwzfecBsOwTzCt55Xgf8YO6D61R2aq7Pv-NacHKO4GGtf6AAAAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CqwBL2dvdG8_dXJsPUNBRVNkUUhyT3pBVjRXVkpVTk9aaDBkTkJlSzRDZTlTdF8zMnlJN1pORHFzanRPdVZfdklDakk1aHJJa3pTTnNTQThwVmExejhOSjZocGNjY2p3RmdLZjZOVkhfSnM4VDhUZ3FmZHFHU3lLTUpjSGZPRkVOY3k4NzlDbzVMQkptR1hmbERTNGs1QUhZeFdYRndpTU15NEtDZThNdUpJVUxDdxIEGgIIABqfBBIAGgAiACoAMgYIARICdWs6AEIECAEQAEoAWgByAHoAgkD7AwgAEAAYACAAKh0KBm9ubGluZRUAAPw_Gg5vbmxpbmVsaWdodGluZyofCghsaWdodGluZxVyL5xAGg5vbmxpbmVsaWdodGluZyoJCgJ1axUAAB5AMqwBL2dvdG8_dXJsPUNBRVNkUUhyT3pBVjRXVkpVTk9aaDBkTkJlSzRDZTlTdF8zMnlJN1pORHFzanRPdVZfdklDakk1aHJJa3pTTnNTQThwVmExejhOSjZocGNjY2p3RmdLZjZOVkhfSnM4VDhUZ3FmZHFHU3lLTUpjSGZPRkVOY3k4NzlDbzVMQkptR1hmbERTNGs1QUhZeFdYRndpTU15NEtDZThNdUpJVUxDdzo_U2hvcCA8Yj5MaWdodGluZzwvYj4gJmFtcDsgTGFtcCA8Yj5PbmxpbmU8L2I-IHwgU0hFSU4gPGI-VUs8L2I-QrUBPGI-U2hvcCBMaWdodGluZyAmYW1wOyBMYW1wIG9ubGluZTwvYj4uIFNIRUlOIG9mZmVycyBjbG90aGluZywgYWNjZXNzcmllcyAmYW1wOyBtb3JlIHRvIGZpdCB5b3VyIGZhc2hpb25hYmxlIG5lZWRzLiBGcmVlIFNoaXBwaW5nIE9uIMKjMzUr4pyTIEZyZWUgUmV0dXJuIC0gNDUgRGF5c-KckyAxMDAwKyZuYnNwOy4uLiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CqwBL2dvdG8_dXJsPUNBRVNkUUhyT3pBVjRXVkpVTk9aaDBkTkJlSzRDZTlTdF8zMnlJN1pORHFzanRPdVZfdklDakk1aHJJa3pTTnNTQThwVmExejhOSjZocGNjY2p3RmdLZjZOVkhfSnM4VDhUZ3FmZHFHU3lLTUpjSGZPRkVOY3k4NzlDbzVMQkptR1hmbERTNGs1QUhZeFdYRndpTU15NEtDZThNdUpJVUxDdxIEGgIIABqfBBIAGgAiACoAMgYIARICdWs6AEIECAEQAEoAWgByAHoAgkD7AwgAEAAYACAAKh0KBm9ubGluZRUAAPw_Gg5vbmxpbmVsaWdodGluZyofCghsaWdodGluZxVyL5xAGg5vbmxpbmVsaWdodGluZyoJCgJ1axUAAB5AMqwBL2dvdG8_dXJsPUNBRVNkUUhyT3pBVjRXVkpVTk9aaDBkTkJlSzRDZTlTdF8zMnlJN1pORHFzanRPdVZfdklDakk1aHJJa3pTTnNTQThwVmExejhOSjZocGNjY2p3RmdLZjZOVkhfSnM4VDhUZ3FmZHFHU3lLTUpjSGZPRkVOY3k4NzlDbzVMQkptR1hmbERTNGs1QUhZeFdYRndpTU15NEtDZThNdUpJVUxDdzo_U2hvcCA8Yj5MaWdodGluZzwvYj4gJmFtcDsgTGFtcCA8Yj5PbmxpbmU8L2I-IHwgU0hFSU4gPGI-VUs8L2I-QrUBPGI-U2hvcCBMaWdodGluZyAmYW1wOyBMYW1wIG9ubGluZTwvYj4uIFNIRUlOIG9mZmVycyBjbG90aGluZywgYWNjZXNzcmllcyAmYW1wOyBtb3JlIHRvIGZpdCB5b3VyIGZhc2hpb25hYmxlIG5lZWRzLiBGcmVlIFNoaXBwaW5nIE9uIMKjMzUr4pyTIEZyZWUgUmV0dXJuIC0gNDUgRGF5c-KckyAxMDAwKyZuYnNwOy4uLiICEAFIAFgAaAA",
+    "source": "SHEIN UK"
+   },
+   {
+    "position": 4,
+    "title": "Online Lighting voucher codes",
+    "link": "https://www.codes.co.uk/online-lighting",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXwHrOzAVVljDZGw7GYLFPXqhMB3wqmlBbjFn9-aIhK9Ef_Hggo7KImSGylGlc3Eu68UOB6WmTs3PJUZ0FQP3b4mHH_VLbruN76tLzqOH3aoSx9tvWIrfomiqgGj9JiVU&ved=2ahUKEwihzIGmkZaXAxW-IUQIHY6zIgQQFnoECDcQAQ&uoh=1",
+    "displayed_link": "https://www.codes.co.uk › Home & Garden › Lighting",
+    "favicon": "https://serpapi.com/images/i/UklGRgYBAABXRUJQVlA4IPoAAABQBgCdASocABwAPtE-tFooIigoFAEAGglsALElQTpXGgmkgiJAv9gVxefP7HF69tk2Vv59xQA2TlAwAAD-9gL2PtdRF29GE6M9H9QVovS9p-1JHu3JAikOhltOavyEDkGm4C46uvJz7m4BylubhJmvbGFSX2rKyKTas6kPoTvFt0JyUMDAMElltN3y_seEEqyJYBThGmzWsb31Efn5KmVRx4fEX8eobCBNFSsXBGEBV1jgvmcF6nDB-oj3_J7-hykSBfY9sMLfDmcnzPRhT6xAzw0k4yYWLyxcPTm4lKNA_D7pjXyhKrgeOKqyxnhxP0_VLOmd1279IAAA.webp",
+    "snippet": "Online Lighting is a UK retailer that specializes in providing a wide range of lighting solutions, including ceiling lights, table lamps, and outdoor lighting ...",
+    "snippet_highlighted_words": [
+     "Online Lighting is a UK retailer"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Online Lighting is a UK retailer that specializes in providing a wide range of lighting solutions, including ceiling lights, table lamps, and outdoor lighting ...",
+      "source_info_link": "https://www.codes.co.uk/online-lighting",
+      "icon": "https://serpapi.com/images/i/UklGRgYBAABXRUJQVlA4IPoAAABQBgCdASocABwAPtE-tFooIigoFAEAGglsALElQTpXGgmkgiJAv9gVxefP7HF69tk2Vv59xQA2TlAwAAD-9gL2PtdRF29GE6M9H9QVovS9p-1JHu3JAikOhltOavyEDkGm4C46uvJz7m4BylubhJmvbGFSX2rKyKTas6kPoTvFt0JyUMDAMElltN3y_seEEqyJYBThGmzWsb31Efn5KmVRx4fEX8eobCBNFSsXBGEBV1jgvmcF6nDB-oj3_J7-hykSBfY9sMLfDmcnzPRhT6xAzw0k4yYWLyxcPTm4lKNA_D7pjXyhKrgeOKqyxnhxP0_VLOmd1279IAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=Co4BL2dvdG8_dXJsPUNBRVNYd0hyT3pBVlZsakRaR3c3R1lMRlBYcWhNQjN3cW1sQmJqRm45LWFJaEs5RWZfSGdnbzdLSW1TR3lsR2xjM0V1NjhVT0I2V21UczNQSlVaMEZRUDNiNG1ISF9WTGJydU43NnRMenFPSDNhb1N4OXR2V0lyZm9taXFnR2o5SmlWVRIEGgIIABrfAxIAGgAiACoAMgYIARICdWs6AEIECAEQAEoAWgByAHoAgkC7AwgAEAAYACAAKh0KBm9ubGluZRW8bLdAGg5vbmxpbmVsaWdodGluZyofCghsaWdodGluZxWSyrpAGg5vbmxpbmVsaWdodGluZyoJCgJ1axXORnA_Mo4BL2dvdG8_dXJsPUNBRVNYd0hyT3pBVlZsakRaR3c3R1lMRlBYcWhNQjN3cW1sQmJqRm45LWFJaEs5RWZfSGdnbzdLSW1TR3lsR2xjM0V1NjhVT0I2V21UczNQSlVaMEZRUDNiNG1ISF9WTGJydU43NnRMenFPSDNhb1N4OXR2V0lyZm9taXFnR2o5SmlWVTokPGI-T25saW5lIExpZ2h0aW5nPC9iPiB2b3VjaGVyIGNvZGVzQq4BPGI-T25saW5lIExpZ2h0aW5nIGlzIGEgVUsgcmV0YWlsZXI8L2I-IHRoYXQgc3BlY2lhbGl6ZXMgaW4gcHJvdmlkaW5nIGEgd2lkZSByYW5nZSBvZiBsaWdodGluZyBzb2x1dGlvbnMsIGluY2x1ZGluZyBjZWlsaW5nIGxpZ2h0cywgdGFibGUgbGFtcHMsIGFuZCBvdXRkb29yIGxpZ2h0aW5nJm5ic3A7Li4uIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=Co4BL2dvdG8_dXJsPUNBRVNYd0hyT3pBVlZsakRaR3c3R1lMRlBYcWhNQjN3cW1sQmJqRm45LWFJaEs5RWZfSGdnbzdLSW1TR3lsR2xjM0V1NjhVT0I2V21UczNQSlVaMEZRUDNiNG1ISF9WTGJydU43NnRMenFPSDNhb1N4OXR2V0lyZm9taXFnR2o5SmlWVRIEGgIIABrfAxIAGgAiACoAMgYIARICdWs6AEIECAEQAEoAWgByAHoAgkC7AwgAEAAYACAAKh0KBm9ubGluZRW8bLdAGg5vbmxpbmVsaWdodGluZyofCghsaWdodGluZxWSyrpAGg5vbmxpbmVsaWdodGluZyoJCgJ1axXORnA_Mo4BL2dvdG8_dXJsPUNBRVNYd0hyT3pBVlZsakRaR3c3R1lMRlBYcWhNQjN3cW1sQmJqRm45LWFJaEs5RWZfSGdnbzdLSW1TR3lsR2xjM0V1NjhVT0I2V21UczNQSlVaMEZRUDNiNG1ISF9WTGJydU43NnRMenFPSDNhb1N4OXR2V0lyZm9taXFnR2o5SmlWVTokPGI-T25saW5lIExpZ2h0aW5nPC9iPiB2b3VjaGVyIGNvZGVzQq4BPGI-T25saW5lIExpZ2h0aW5nIGlzIGEgVUsgcmV0YWlsZXI8L2I-IHRoYXQgc3BlY2lhbGl6ZXMgaW4gcHJvdmlkaW5nIGEgd2lkZSByYW5nZSBvZiBsaWdodGluZyBzb2x1dGlvbnMsIGluY2x1ZGluZyBjZWlsaW5nIGxpZ2h0cywgdGFibGUgbGFtcHMsIGFuZCBvdXRkb29yIGxpZ2h0aW5nJm5ic3A7Li4uIgIQAUgAWABoAA",
+    "source": "Codes.co.uk",
+    "read_more_link": "https://www.codes.co.uk/online-lighting#:~:text=Online%20Lighting%20is%20a%20UK,lamps%2C%20and%20outdoor%20lighting%20options."
+   }
+  ],
+  "dmca_messages": {
+   "title": "Notices about Filtered Results",
+   "messages": [
+    {
+     "content": "In order to show you the most relevant results, we have omitted some entries very similar to the 4 already displayed.If you like, you can repeat the search with the omitted results included.",
+     "highlighted_words": [
+      {
+       "link": "https://www.google.co.uk/search?q=Online+Lighting+UK&sca_esv=d0c3879c3aba1c72&hl=en&gl=uk&sxsrf=APpeQntN-R52a5ujMxcLC0tI5mVF7Q-srQ:1790765487390&filter=0",
+       "text": "repeat the search with the omitted results included"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

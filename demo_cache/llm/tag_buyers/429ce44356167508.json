@@ -1,0 +1,134 @@
+{
+ "task": "tag_buyers",
+ "model": "claude-opus-5-5",
+ "created_at": "2026-09-30T10:56:05+00:00",
+ "output": {
+  "buyers": [
+   {
+    "index": 0,
+    "kind": "marketplace",
+    "why": "Marketplace listing hanging brass planters; possible channel for brass planter sellers."
+   },
+   {
+    "index": 1,
+    "kind": "retailer",
+    "why": "Stocks Nkuku brass planters, including antique brass etched styles similar to hammered brass."
+   },
+   {
+    "index": 2,
+    "kind": "retailer",
+    "why": "Sells Nkuku Atsu brass planter stand; stocks artisan brass planters."
+   },
+   {
+    "index": 3,
+    "kind": "retailer",
+    "why": "Plant retailer selling metal planters, including hammered and gold metal pots."
+   },
+   {
+    "index": 4,
+    "kind": "retailer",
+    "why": "Stocks Ivyline brass metal planters on stands."
+   },
+   {
+    "index": 5,
+    "kind": "retailer",
+    "why": "Garden retailer selling brass plant pot covers, spun brass pots and brass trays."
+   },
+   {
+    "index": 6,
+    "kind": "wholesaler",
+    "why": "Planter brand whose products are stocked by retailers; sells gold embossed metal planters."
+   },
+   {
+    "index": 7,
+    "kind": "retailer",
+    "why": "Homeware retailer selling spun metal standing planters."
+   },
+   {
+    "index": 8,
+    "kind": "online_brand",
+    "why": "Online seller of hand hammered brass pots and handmade brass flower pots."
+   },
+   {
+    "index": 9,
+    "kind": "retailer",
+    "why": "Gallery selling an antique hammered brass bowl/planter; likely antiques only."
+   },
+   {
+    "index": 10,
+    "kind": "retailer",
+    "why": "Sells textured planters and Eichholtz planters; premium home décor."
+   },
+   {
+    "index": 11,
+    "kind": "retailer",
+    "why": "Sells multiple brass planters: embossed, lattice, Art Deco and Art Nouveau styles."
+   },
+   {
+    "index": 12,
+    "kind": "retailer",
+    "why": "Stocks the Atsu brass planter."
+   },
+   {
+    "index": 13,
+    "kind": "marketplace",
+    "why": "Vintage furniture marketplace listing hammered brass planters; mostly second-hand items."
+   },
+   {
+    "index": 14,
+    "kind": "retailer",
+    "why": "Sells Libra brass floor standing planters."
+   },
+   {
+    "index": 15,
+    "kind": "marketplace",
+    "why": "Second-hand marketplace listing vintage hammered brass planters."
+   },
+   {
+    "index": 16,
+    "kind": "online_brand",
+    "why": "Online seller of Indian goods, including small brass planters."
+   },
+   {
+    "index": 17,
+    "kind": "retailer",
+    "why": "Sells brass and black metal floor planters."
+   },
+   {
+    "index": 18,
+    "kind": "retailer",
+    "why": "Stocks Ivyline brass planters on metal stands."
+   },
+   {
+    "index": 19,
+    "kind": "online_brand",
+    "why": "Amazon brand selling wooden garden planters; no brass products shown."
+   },
+   {
+    "index": 20,
+    "kind": "retailer",
+    "why": "Sells John Lewis hammered floor planter."
+   },
+   {
+    "index": 21,
+    "kind": "retailer",
+    "why": "Sells brass plant pot covers, brushed brass pots and gold metal pots."
+   },
+   {
+    "index": 22,
+    "kind": "wholesaler",
+    "why": "Wholesales metallic mosaic bronze planters at ex-VAT trade prices."
+   },
+   {
+    "index": 23,
+    "kind": "unknown",
+    "why": "Lists vintage hammered brass planters with USD prices; business type unclear."
+   },
+   {
+    "index": 24,
+    "kind": "marketplace",
+    "why": "Antiques marketplace listing British brass planters and jardinières."
+   }
+  ]
+ }
+}

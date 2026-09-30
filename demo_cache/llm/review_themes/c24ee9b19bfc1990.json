@@ -1,0 +1,188 @@
+{
+ "task": "review_themes",
+ "model": "claude-opus-5-5",
+ "created_at": "2026-09-30T10:54:19+00:00",
+ "output": {
+  "themes": [
+   {
+    "label": "Fabric basket hard to reshape after flat packing",
+    "kind": "complaint",
+    "review_indices": [
+     17,
+     19,
+     22,
+     25
+    ],
+    "quotes": [
+     "very hard to get the fabric to stay straight without wrinkles",
+     "It is very difficult to get into shape after arriving flat"
+    ],
+    "fix": "Ship fabric/woven planters pre-formed or rolled with a stiffener insert, not folded flat; add reshaping instructions."
+   },
+   {
+    "label": "Attached drainage saucer hard to detach",
+    "kind": "complaint",
+    "review_indices": [
+     2,
+     31
+    ],
+    "quotes": [
+     "this is fiddly (hence 4*)to detach for watering",
+     "it's very difficult to remove the drainage saucer"
+    ],
+    "fix": "Redesign saucer with an easy twist-off or loose-fit tray, and test detachment before shipping."
+   },
+   {
+    "label": "No drainage holes",
+    "kind": "complaint",
+    "review_indices": [
+     41,
+     43,
+     54,
+     56
+    ],
+    "quotes": [
+     "my only gripe is that it doesn't have any drainage",
+     "But it doesn't have a drainage hold."
+    ],
+    "fix": "Clearly label as a cachepot (no drainage) in the listing, or offer a variant with drainage holes and plug."
+   },
+   {
+    "label": "Thin / cheaply made wooden planters",
+    "kind": "complaint",
+    "review_indices": [
+     10,
+     12,
+     15
+    ],
+    "quotes": [
+     "Looks as though they will rot quicker than more sturdy planters",
+     "A bit thinner than I hoped"
+    ],
+    "fix": "Specify thicker timber and pre-line with a waterproof liner; state board thickness on the spec sheet."
+   },
+   {
+    "label": "Finish worn or imperfect",
+    "kind": "complaint",
+    "review_indices": [
+     10,
+     31
+    ],
+    "quotes": [
+     "lots of places on drainage saucer where the gold part is worn away",
+     "the stain comes out when watering"
+    ],
+    "fix": "Add finish QC and a sealed lacquer/colour-fast coating so gold and stain don't wear or leach."
+   },
+   {
+    "label": "Looks classy / more expensive than price",
+    "kind": "praise",
+    "review_indices": [
+     0,
+     2,
+     3,
+     5,
+     6,
+     7,
+     29,
+     30,
+     31,
+     32,
+     34,
+     35,
+     37,
+     38,
+     39,
+     41,
+     42,
+     48,
+     50,
+     51,
+     52,
+     54,
+     55,
+     61
+    ],
+    "quotes": [
+     "looks more expensive than is lightweight",
+     "it feels like it's worth twice the price"
+    ],
+    "fix": null
+   },
+   {
+    "label": "Sturdy and good quality",
+    "kind": "praise",
+    "review_indices": [
+     1,
+     4,
+     5,
+     9,
+     26,
+     27,
+     29,
+     35,
+     38,
+     40,
+     41,
+     42,
+     43,
+     44,
+     51,
+     53,
+     54,
+     55,
+     56,
+     57
+    ],
+    "quotes": [
+     "Really sturdy and good quality.",
+     "The silver pot is very strong and sturdy."
+    ],
+    "fix": null
+   },
+   {
+    "label": "Good value for money",
+    "kind": "praise",
+    "review_indices": [
+     1,
+     2,
+     6,
+     10,
+     11,
+     23,
+     31,
+     32,
+     33,
+     41,
+     42,
+     43,
+     54,
+     55,
+     56
+    ],
+    "quotes": [
+     "Great product value for money good quality",
+     "I think they are an awesome bargain."
+    ],
+    "fix": null
+   },
+   {
+    "label": "Easy to assemble",
+    "kind": "praise",
+    "review_indices": [
+     8,
+     9,
+     10,
+     12,
+     13,
+     14
+    ],
+    "quotes": [
+     "Very easy to put together too!",
+     "Again, very easy to assemble!"
+    ],
+    "fix": null
+   }
+  ]
+ }
+}
