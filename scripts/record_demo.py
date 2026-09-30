@@ -3,7 +3,7 @@ SerpApi and LLM response to demo_cache/ (API keys removed), then replay it offli
 prove Demo Mode works with no keys.
 
     python scripts/record_demo.py                   # dry run: what would be recorded
-    python scripts/record_demo.py --live            # ~35 credits per product
+    python scripts/record_demo.py --live            # up to the run budget (45) per product; recorded searches are free
     python scripts/record_demo.py --live --only lantern
     python scripts/record_demo.py --verify          # replay only, no network
 """
@@ -53,14 +53,15 @@ def record(product: dict, budget: int) -> None:
 
 def verify(product: dict) -> bool:
     """Replay with keys hidden and the network unused; fail on any warning caused by a cache miss."""
-    saved = {k: os.environ.pop(k) for k in ("SERPAPI_API_KEY", "ANTHROPIC_API_KEY") if k in os.environ}
+    saved = {k: os.environ.pop(k) for k in ("SERPAPI_API_KEY", "SERPAPI_KEY", "ANTHROPIC_API_KEY") if k in os.environ}
     try:
         serp, llm = make_clients(demo_mode=True)
         brief = run_scout(product["inputs"], serp=serp, llm=llm)
         misses = [w for w in brief.warnings if "no recorded response" in w]
-        ok = serp.credits_used == 0 and not misses and bool(brief.buyers)
+        ok = serp.credits_used == 0 and not misses and not llm.replay_misses and bool(brief.buyers) and bool(brief.markets)
         print(f"  replay {product['id']}: {'OK' if ok else 'FAILED'} · {brief.headline} · "
-              f"{len(brief.buyers)} buyers · {serp.credits_used} credits · {len(misses)} misses")
+              f"{len(brief.buyers)} buyers · {len(brief.markets)} markets · {len(brief.jobs)} job ads · "
+              f"{serp.credits_used} credits · {len(misses)} search misses · {llm.replay_misses} LLM misses")
         for w in misses:
             print(f"    miss: {w}")
         serp.close()

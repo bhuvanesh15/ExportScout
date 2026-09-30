@@ -1,0 +1,14 @@
+{
+ "task": "write_brief",
+ "model": "claude-opus-5-5",
+ "created_at": "2026-09-30T21:00:15+00:00",
+ "output": {
+  "summary_md": "**Verdict: GO. Market score estimate 78/100.**\n\n**Quote range (estimate):** £6.72 FOB via an importer (₹857) up to £12.10 FOB direct to a retailer (₹1,542) [ev:google_shopping:34dd80c8:0]. Your cost is ₹460, so the estimated margin is 46% via importer and 70% direct. Duty from India is 0% under the India-UK CETA, but only with valid proof of origin.\n\n**Demand and timing (estimate):** We used the broader term \"plant pot\" as a guide. Interest is 57/100, up 3% year on year. It peaks in March to May, and buyers choose ranges around September to November, so pitch now [ev:google_trends:d155ce2d:0].\n\n**Competition:** Of 6 Amazon products checked, 2 are made in India and 1 in China [ev:amazon_product:76323915:0]. None of the 60 eBay listings are located in India.\n\n**Top complaints:** No drainage holes [ev:amazon_product:76323915:review.4], a saucer that is hard to detach [ev:amazon_product:93df15a3:review.2], and worn gold finish [ev:amazon_product:eab85a79:review.2]. Buyers like that these pots look more expensive than they are [ev:amazon_product:93df15a3:review.0].\n\n**Contact first:** Kayu Home, which already sells brass planters [ev:google_shopping:34dd80c8:7], and Hortology, which sells metal indoor pots and runs many UK ads [ev:google_ads_transparency_center:e9aa89a0:0]. Check Ivyline before contacting them, because its news results are about an unrelated person [ev:google_news:69358f1c:1].\n\n**Other market:** A quick Amazon-only scan suggests Australia is the best other market, with an estimated fit of 97/100 [ev:amazon:293b037a:0].\n\n**Next step:** Send samples and a price sheet to Kayu Home and Hortology this month.",
+  "spec_improvements": [
+   "Offer a version with drainage holes and a rubber plug, and clearly label the no-hole version as a cachepot (decorative outer pot) on the spec sheet.",
+   "Replace any fixed saucer with a loose-fit or easy twist-off tray, and test that it comes off easily before shipping.",
+   "Seal the hammered gold finish with a clear lacquer coat and add a finish check at final QC, so the gold does not wear away.",
+   "Wrap each planter and saucer separately in soft, non-scratch packaging so the gold finish arrives without rub marks."
+  ]
+ }
+}

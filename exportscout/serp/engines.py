@@ -18,6 +18,7 @@ from urllib.parse import quote_plus, urlencode, urlsplit
 from exportscout.models import (
     AdsActivity,
     EvidenceStore,
+    JobPosting,
     Listing,
     NewsItem,
     Place,
@@ -43,6 +44,7 @@ _CURRENCY_SYMBOLS = (
     ("CA$", "CAD"),
     ("C$", "CAD"),
     ("AU$", "AUD"),
+    ("AU $", "AUD"),
     ("A$", "AUD"),
     ("£", "GBP"),
     ("€", "EUR"),
@@ -697,7 +699,7 @@ def trends_regions(
             i,
             title=f'Google Trends: "{term}" interest in {name} = {value}',
             url=_trends_url(market, term),
-            snippet=f"Interest by {(resolution or 'region').lower()}, {market.get('trends_geo')}, past 5 years",
+            snippet=f"Interest by {(resolution or 'region').lower()}, {market.get('trends_geo') or 'Worldwide'}, past 5 years",
         )
         out.append(RegionInterest(region=name, value=value, evidence_id=eid))
     out.sort(key=lambda r: r.value, reverse=True)
@@ -864,6 +866,104 @@ def news_articles(client: SerpClient, ev: EvidenceStore, market: Market, q: str)
             snippet = _str(entry.get("snippet"))
             eid = ev.add(resp, index, title=title, url=link, snippet=_join(source, date, snippet))
             out.append(NewsItem(title=title, link=link, source=source, date=date, snippet=snippet, evidence_id=eid))
+    return out
+
+
+# --------------------------------------------------------------------------- jobs
+
+# Roles that choose suppliers; other ads a jobs search returns (sales assistant, ...) are ignored.
+_BUYING_ROLE = re.compile(
+    r"\b(?:buyer|buying|sourcing|merchandis\w*|product\s+develop\w*|range\s+plann\w*|category\s+manager)\b", re.I
+)
+_JOB_INDIA = re.compile(r"\b(?:india|indian)\b", re.I)
+_JOB_OVERSEAS = re.compile(
+    r"\b(?:overseas|far\s+east|asia|sourcing\s+trips?|international\s+suppliers?|global\s+suppliers?"
+    r"|factor(?:y|ies)|direct\s+sourcing|supplier\s+visits?|trade\s+(?:fairs?|shows?))\b",
+    re.I,
+)
+_RECRUITER_NAME = re.compile(r"\b(?:recruit\w*|staffing|personnel|resourcing|talent|selection|headhunt\w*)\b", re.I)
+_EMAIL = re.compile(r"\S+@\S+")
+_PHONE = re.compile(r"\+?\d[\d\s().-]{7,}\d")
+_POSTED = re.compile(r"(\d+)\+?\s*(minute|min|hour|day|week|month)s?\s+ago", re.I)
+SNIPPET_CHARS = 80
+
+
+def _posted_days(text: str | None) -> float | None:
+    """ "3 days ago" -> 3.0, "21 hours ago" -> 0.9, "30+ days ago" -> 30.0."""
+    m = _POSTED.search(text or "")
+    if not m:
+        return None
+    return round(int(m.group(1)) * _RELATIVE_UNITS[m.group(2).lower()], 1)
+
+
+def _job_snippet(description: str | None) -> str | None:
+    """A short window around the first India (else overseas-sourcing) mention, contacts removed."""
+    text = re.sub(r"\s+", " ", description or "").strip()
+    m = _JOB_INDIA.search(text) or _JOB_OVERSEAS.search(text)
+    if not m:
+        return None
+    start, end = max(0, m.start() - SNIPPET_CHARS), min(len(text), m.end() + SNIPPET_CHARS)
+    # Cut at word boundaries, so the window never starts or ends mid-word.
+    while start > 0 and not text[start - 1].isspace():
+        start -= 1
+    while end < len(text) and not text[end].isspace():
+        end += 1
+    window = _PHONE.sub("[phone]", _EMAIL.sub("[email]", text[start:end]))
+    return ("…" if start else "") + window.strip() + ("…" if end < len(text) else "")
+
+
+def job_postings(client: SerpClient, ev: EvidenceStore, market: Market, q: str) -> list[JobPosting]:
+    """Google Jobs ads for buying/sourcing roles in the market (``market["jobs_location"]``)."""
+    resp = client.search("google_jobs", q=q, location=market.get("jobs_location"), **_google(market, "gl", "hl"))
+    out: list[JobPosting] = []
+    seen: set[tuple[str, str]] = set()
+    for i, item in enumerate(_list(_data(resp), "jobs_results")):
+        title = _str(item.get("title"))
+        company = _str(item.get("company_name"))
+        if not (title and company and _BUYING_ROLE.search(title)):
+            continue
+        key = (company.lower(), title.lower())
+        if key in seen:
+            continue
+        seen.add(key)
+        description = _str(item.get("description")) or ""
+        highlights = " ".join(s for s in _strings(item.get("job_highlights")) if s)
+        text = f"{description} {highlights}"
+        ext = _dict(item, "detected_extensions")
+        posted = _str(ext.get("posted_at")) or next(
+            (e for e in (_str(x) for x in item.get("extensions") or []) if e and _POSTED.search(e)), None
+        )
+        via = _str(item.get("via"))
+        via = re.sub(r"^via\s+", "", via, flags=re.I) if via else None
+        options = item.get("apply_options") if isinstance(item.get("apply_options"), list) else []
+        link = _str(item.get("share_link")) or next(
+            (_str(o.get("link")) for o in options if isinstance(o, dict) and _str(o.get("link"))), None
+        )
+        location = _str(item.get("location"))
+        eid = ev.add(
+            resp,
+            i,
+            title=f"{company} is hiring: {title}",
+            url=link,
+            snippet=_join(location, posted, via and f"via {via}"),
+        )
+        out.append(
+            JobPosting(
+                company=company,
+                title=title,
+                location=location,
+                via=via,
+                posted=posted,
+                posted_days=_posted_days(posted),
+                link=link,
+                query=q,
+                mentions_india=bool(_JOB_INDIA.search(text)),
+                mentions_overseas=bool(_JOB_OVERSEAS.search(text)),
+                is_recruiter=bool(_RECRUITER_NAME.search(company)),
+                snippet=_job_snippet(text),
+                evidence_id=eid,
+            )
+        )
     return out
 
 

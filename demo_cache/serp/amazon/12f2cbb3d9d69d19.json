@@ -1,0 +1,2514 @@
+{
+ "engine": "amazon",
+ "params": {
+  "k": "Windlicht Laterne Messing",
+  "amazon_domain": "amazon.de"
+ },
+ "fetched_at": "2026-09-30T20:59:01+00:00",
+ "data": {
+  "search_metadata": {
+   "id": "6abd78109df9dd743fbe1351",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/neR1FCoAnQWYpDt0Z1I0y8YFdWsuC4b_7SK-d_lcwxo/6abd78109df9dd743fbe1351.json",
+   "markdown_endpoint": "https://serpapi.com/searches/neR1FCoAnQWYpDt0Z1I0y8YFdWsuC4b_7SK-d_lcwxo/6abd78109df9dd743fbe1351.md",
+   "created_at": "2026-09-30 20:58:56 UTC",
+   "processed_at": "2026-09-30 20:58:56 UTC",
+   "amazon_url": "https://www.amazon.de/s?k=Windlicht+Laterne+Messing",
+   "raw_html_file": "https://serpapi.com/searches/neR1FCoAnQWYpDt0Z1I0y8YFdWsuC4b_7SK-d_lcwxo/6abd78109df9dd743fbe1351.html",
+   "total_time_taken": 4.2
+  },
+  "search_parameters": {
+   "engine": "amazon",
+   "k": "Windlicht Laterne Messing",
+   "amazon_domain": "amazon.de",
+   "device": "desktop"
+  },
+  "search_information": {
+   "total_results": 12884,
+   "query_displayed": "Windlicht Laterne Messing",
+   "store": "gateway",
+   "page": 1
+  },
+  "organic_results": [
+   {
+    "position": 1,
+    "asin": "B0FY5434HB",
+    "title": "Sziqiqi Lantern Candle Holder for Pillar Candles in Brass Look, Set of 2",
+    "link": "https://www.amazon.de/-/en/Sziqiqi-Lantern-Candle-Holder-Candles/dp/B0FY5434HB/ref=sr_1_1?dib=eyJ2IjoiMSJ9.OAdK9UssT3gW1MNmMoMgh_vAJrXg5oF7SbuD0qsl7Y_MZ4vtH_NBybN6LERzMVOvhLPyHdOseVBHg2bv8zHjHufNWqIjLTyciz5tqhj1qloKqpcxnu5Qqiym8XCDI3miaUHyQY3ZAAPzri4l-K8F7gR6X6NXrf4pF6KJLtJiF8wvjK1vCwnFD4CDUp-_JdJr6l2SYztXMwT-YRNewVuAqTwZhArP8xsPNdcz5Beh7Q5VC8fN_N1P0PYBBPaQskuxiXFqV9-bPcaWtQJcpwkjJAubbS4M6KHK2mV-dLK2IpE.HNMKV6NuLNAF72d3VOfZu2QU_tlnLJjLzagLBPtlsbM&dib_tag=se&keywords=Windlicht+Laterne+Messing&qid=1790801938&sr=8-1",
+    "link_clean": "https://www.amazon.de/-/en/Sziqiqi-Lantern-Candle-Holder-Candles/dp/B0FY5434HB/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B0FY5434HB&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/61n-ovsduKL._AC_UL320_.jpg",
+    "rating": 4.5,
+    "reviews": 75,
+    "price": "€39.98",
+    "extracted_price": 39.98,
+    "delivery": [
+     "FREE delivery Mon 5 Oct on eligible first order",
+     "Or fastest delivery Fri 2 Oct"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "€39.98",
+      "extracted_primary_price": 39.98
+     }
+    ]
+   },
+   {
+    "position": 2,
+    "asin": "B08WPNNHZT",
+    "title": "Set of 3 Navin Moroccan Lanterns, Metal in Antique Gold Look, 3 Round Candle Holders, Oriental Tea Light Holder for Easter, Mother's Day, Table Decoration, WLS505",
+    "link": "https://www.amazon.de/-/en/Set-Navin-Moroccan-Lanterns-Decoration/dp/B08WPNNHZT/ref=sr_1_2?dib=eyJ2IjoiMSJ9.OAdK9UssT3gW1MNmMoMgh_vAJrXg5oF7SbuD0qsl7Y_MZ4vtH_NBybN6LERzMVOvhLPyHdOseVBHg2bv8zHjHufNWqIjLTyciz5tqhj1qloKqpcxnu5Qqiym8XCDI3miaUHyQY3ZAAPzri4l-K8F7gR6X6NXrf4pF6KJLtJiF8wvjK1vCwnFD4CDUp-_JdJr6l2SYztXMwT-YRNewVuAqTwZhArP8xsPNdcz5Beh7Q5VC8fN_N1P0PYBBPaQskuxiXFqV9-bPcaWtQJcpwkjJAubbS4M6KHK2mV-dLK2IpE.HNMKV6NuLNAF72d3VOfZu2QU_tlnLJjLzagLBPtlsbM&dib_tag=se&keywords=Windlicht+Laterne+Messing&qid=1790801938&sr=8-2",
+    "link_clean": "https://www.amazon.de/-/en/Set-Navin-Moroccan-Lanterns-Decoration/dp/B08WPNNHZT/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B08WPNNHZT&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/71JYsxLoMTL._AC_UL320_.jpg",
+    "rating": 4.3,
+    "reviews": 49,
+    "price": "€17.95",
+    "extracted_price": 17.95,
+    "delivery": [
+     "FREE delivery Mon 5 Oct"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "€17.95",
+      "extracted_primary_price": 17.95
+     }
+    ]
+   },
+   {
+    "position": 3,
+    "asin": "B0CP82JRKW",
+    "title": "Versatile Metal Candle Holder with Handmade Sturdy Brass Glass Dome for Pillar Candles and Plants 13 x H 30 x H 10 x H 19 cm Industrial Farmhouse Shabby Chic (2, Brass",
+    "link": "https://www.amazon.de/-/en/Versatile-Handmade-Candles-Industrial-Farmhouse/dp/B0CP82JRKW/ref=sr_1_3?dib=eyJ2IjoiMSJ9.OAdK9UssT3gW1MNmMoMgh_vAJrXg5oF7SbuD0qsl7Y_MZ4vtH_NBybN6LERzMVOvhLPyHdOseVBHg2bv8zHjHufNWqIjLTyciz5tqhj1qloKqpcxnu5Qqiym8XCDI3miaUHyQY3ZAAPzri4l-K8F7gR6X6NXrf4pF6KJLtJiF8wvjK1vCwnFD4CDUp-_JdJr6l2SYztXMwT-YRNewVuAqTwZhArP8xsPNdcz5Beh7Q5VC8fN_N1P0PYBBPaQskuxiXFqV9-bPcaWtQJcpwkjJAubbS4M6KHK2mV-dLK2IpE.HNMKV6NuLNAF72d3VOfZu2QU_tlnLJjLzagLBPtlsbM&dib_tag=se&keywords=Windlicht+Laterne+Messing&qid=1790801938&sr=8-3",
+    "link_clean": "https://www.amazon.de/-/en/Versatile-Handmade-Candles-Industrial-Farmhouse/dp/B0CP82JRKW/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B0CP82JRKW&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/61SzM6wHD9L._AC_UL320_.jpg",
+    "rating": 3.0,
+    "reviews": 1,
+    "price": "€54.26",
+    "extracted_price": 54.26,
+    "delivery": [
+     "FREE delivery Tue 6 Oct"
+    ],
+    "stock": "Only 8 left in stock.",
+    "purchase_options": [
+     {
+      "primary_price": "€54.26",
+      "extracted_primary_price": 54.26
+     }
+    ]
+   },
+   {
+    "position": 4,
+    "asin": "B0FSD58LVL",
+    "sponsored": true,
+    "title": "Lantern 9.5 x 10.5 x 28 cm Garden Lantern Metal Lantern Decorative Candle Holder Candle Holder for Indoor Outdoor Indoor Living Room Garden Balcony Garden Lighting Silver",
+    "link": "https://www.amazon.de/-/en/sspa/click?ie=UTF8&spc=MToxMzYzNzMyMzI1NTc5OTI0OjE3OTA4MDE5Mzg6c3BfYXRmOjMwMDc1NTQ2MTkyNzAzMjo6MDo6&url=%2FLantern-Decorative-Outdoor-Balcony-Lighting%2Fdp%2FB0FSD58LVL%2Fref%3Dsr_1_4_sspa%3Fdib%3DeyJ2IjoiMSJ9.OAdK9UssT3gW1MNmMoMgh_vAJrXg5oF7SbuD0qsl7Y_MZ4vtH_NBybN6LERzMVOvhLPyHdOseVBHg2bv8zHjHufNWqIjLTyciz5tqhj1qloKqpcxnu5Qqiym8XCDI3miaUHyQY3ZAAPzri4l-K8F7gR6X6NXrf4pF6KJLtJiF8wvjK1vCwnFD4CDUp-_JdJr6l2SYztXMwT-YRNewVuAqTwZhArP8xsPNdcz5Beh7Q5VC8fN_N1P0PYBBPaQskuxiXFqV9-bPcaWtQJcpwkjJAubbS4M6KHK2mV-dLK2IpE.HNMKV6NuLNAF72d3VOfZu2QU_tlnLJjLzagLBPtlsbM%26dib_tag%3Dse%26keywords%3DWindlicht%2BLaterne%2BMessing%26qid%3D1790801938%26sr%3D8-4-spons%26aref%3DQxRpDbxT9N%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=QxRpDbxT9N&sp_cr=FRA",
+    "link_clean": "https://www.amazon.de/dp/B0FSD58LVL/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B0FSD58LVL&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/51YspSUeqYL._AC_UL320_.jpg",
+    "rating": 4.1,
+    "reviews": 251,
+    "price": "€12.95",
+    "extracted_price": 12.95,
+    "delivery": [
+     "FREE delivery 6 - 7 Oct on eligible first order"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "€12.95",
+      "extracted_primary_price": 12.95
+     }
+    ]
+   },
+   {
+    "position": 5,
+    "asin": "B0FSD4626V",
+    "title": "Lantern 9.5 x 10.5 x 28 cm Garden Lantern Metal Lantern Decorative Candle Holder Candle Holder for Indoor Outdoor Indoor Living Room Garden Balcony Garden Lighting Black",
+    "link": "https://www.amazon.de/-/en/Lantern-Decorative-Outdoor-Balcony-Lighting/dp/B0FSD4626V/ref=sr_1_5?dib=eyJ2IjoiMSJ9.OAdK9UssT3gW1MNmMoMgh_vAJrXg5oF7SbuD0qsl7Y_MZ4vtH_NBybN6LERzMVOvhLPyHdOseVBHg2bv8zHjHufNWqIjLTyciz5tqhj1qloKqpcxnu5Qqiym8XCDI3miaUHyQY3ZAAPzri4l-K8F7gR6X6NXrf4pF6KJLtJiF8wvjK1vCwnFD4CDUp-_JdJr6l2SYztXMwT-YRNewVuAqTwZhArP8xsPNdcz5Beh7Q5VC8fN_N1P0PYBBPaQskuxiXFqV9-bPcaWtQJcpwkjJAubbS4M6KHK2mV-dLK2IpE.HNMKV6NuLNAF72d3VOfZu2QU_tlnLJjLzagLBPtlsbM&dib_tag=se&keywords=Windlicht+Laterne+Messing&qid=1790801938&sr=8-5",
+    "link_clean": "https://www.amazon.de/-/en/Lantern-Decorative-Outdoor-Balcony-Lighting/dp/B0FSD4626V/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B0FSD4626V&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/51ny5gnC8NL._AC_UL320_.jpg",
+    "rating": 4.1,
+    "reviews": 251,
+    "bought_last_month": "50+ bought in past month",
+    "price": "€11.95",
+    "extracted_price": 11.95,
+    "old_price": "€12.95",
+    "extracted_old_price": 12.95,
+    "delivery": [
+     "FREE delivery 2 - 5 Oct on eligible first order"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "€11.95",
+      "extracted_primary_price": 11.95,
+      "old_primary_price": "€12.95",
+      "extracted_old_primary_price": 12.95
+     }
+    ]
+   },
+   {
+    "position": 6,
+    "asin": "B000F6NNQC",
+    "title": "BasicNature Travel Chair Tripod Stool",
+    "link": "https://www.amazon.de/-/en/UCO-Brass-Polished-Candle-Lantern/dp/B000F6NNQC/ref=sr_1_6?dib=eyJ2IjoiMSJ9.OAdK9UssT3gW1MNmMoMgh_vAJrXg5oF7SbuD0qsl7Y_MZ4vtH_NBybN6LERzMVOvhLPyHdOseVBHg2bv8zHjHufNWqIjLTyciz5tqhj1qloKqpcxnu5Qqiym8XCDI3miaUHyQY3ZAAPzri4l-K8F7gR6X6NXrf4pF6KJLtJiF8wvjK1vCwnFD4CDUp-_JdJr6l2SYztXMwT-YRNewVuAqTwZhArP8xsPNdcz5Beh7Q5VC8fN_N1P0PYBBPaQskuxiXFqV9-bPcaWtQJcpwkjJAubbS4M6KHK2mV-dLK2IpE.HNMKV6NuLNAF72d3VOfZu2QU_tlnLJjLzagLBPtlsbM&dib_tag=se&keywords=Windlicht+Laterne+Messing&qid=1790801938&sr=8-6",
+    "link_clean": "https://www.amazon.de/-/en/UCO-Brass-Polished-Candle-Lantern/dp/B000F6NNQC/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B000F6NNQC&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/710t5u6da5L._AC_UL320_.jpg",
+    "rating": 4.4,
+    "reviews": 1300,
+    "price": "€38.88",
+    "extracted_price": 38.88,
+    "old_price": "€63.44",
+    "extracted_old_price": 63.44,
+    "delivery": [
+     "FREE delivery 7 - 8 Oct on eligible first order"
+    ],
+    "stock": "Only 10 left in stock.",
+    "purchase_options": [
+     {
+      "primary_price": "€38.88",
+      "extracted_primary_price": 38.88,
+      "old_primary_price": "€63.44",
+      "extracted_old_primary_price": 63.44
+     }
+    ]
+   },
+   {
+    "position": 7,
+    "asin": "B0GQDN58ZV",
+    "title": "AHANDMAKER Clear Glass Candle Holder for Pillar Candles, Vintage Gold Metal Rustic Hurricane Candle Holder with Wooden Base for Wedding Party Table Room Holiday Home Decoration, 142 x 150 mm",
+    "link": "https://www.amazon.de/-/en/AHANDMAKER-Candles-Vintage-Hurricane-Decoration/dp/B0GQDN58ZV/ref=sr_1_7?dib=eyJ2IjoiMSJ9.OAdK9UssT3gW1MNmMoMgh_vAJrXg5oF7SbuD0qsl7Y_MZ4vtH_NBybN6LERzMVOvhLPyHdOseVBHg2bv8zHjHufNWqIjLTyciz5tqhj1qloKqpcxnu5Qqiym8XCDI3miaUHyQY3ZAAPzri4l-K8F7gR6X6NXrf4pF6KJLtJiF8wvjK1vCwnFD4CDUp-_JdJr6l2SYztXMwT-YRNewVuAqTwZhArP8xsPNdcz5Beh7Q5VC8fN_N1P0PYBBPaQskuxiXFqV9-bPcaWtQJcpwkjJAubbS4M6KHK2mV-dLK2IpE.HNMKV6NuLNAF72d3VOfZu2QU_tlnLJjLzagLBPtlsbM&dib_tag=se&keywords=Windlicht+Laterne+Messing&qid=1790801938&sr=8-7",
+    "link_clean": "https://www.amazon.de/-/en/AHANDMAKER-Candles-Vintage-Hurricane-Decoration/dp/B0GQDN58ZV/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B0GQDN58ZV&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/51YNX8KDpNL._AC_UL320_.jpg",
+    "rating": 4.2,
+    "reviews": 4,
+    "price": "€11.69",
+    "extracted_price": 11.69,
+    "delivery": [
+     "FREE delivery Wed 7 Oct on eligible first order",
+     "Or fastest delivery Tue 6 Oct"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "€11.69",
+      "extracted_primary_price": 11.69
+     }
+    ]
+   },
+   {
+    "position": 8,
+    "asin": "B07YQ1YFR8",
+    "options": "See options",
+    "options_link": "https://www.amazon.de/-/en/Oriental-Lantern-Colourful-Moroccan-WDL1030/dp/B07YQ1YFR8/ref=sr_1_8_so_CANDLE_HOLDER?dib=eyJ2IjoiMSJ9.OAdK9UssT3gW1MNmMoMgh_vAJrXg5oF7SbuD0qsl7Y_MZ4vtH_NBybN6LERzMVOvhLPyHdOseVBHg2bv8zHjHufNWqIjLTyciz5tqhj1qloKqpcxnu5Qqiym8XCDI3miaUHyQY3ZAAPzri4l-K8F7gR6X6NXrf4pF6KJLtJiF8wvjK1vCwnFD4CDUp-_JdJr6l2SYztXMwT-YRNewVuAqTwZhArP8xsPNdcz5Beh7Q5VC8fN_N1P0PYBBPaQskuxiXFqV9-bPcaWtQJcpwkjJAubbS4M6KHK2mV-dLK2IpE.HNMKV6NuLNAF72d3VOfZu2QU_tlnLJjLzagLBPtlsbM&dib_tag=se&keywords=Windlicht+Laterne+Messing&qid=1790801938&sr=8-8",
+    "title": "Nael Multi Oriental Lantern Set of 3 Metal and Relief Glass Colourful Height 16 cm Moroccan Glass Lantern in Antique Brass Look Ramadan Tea Light Holder WDL1030",
+    "link": "https://www.amazon.de/-/en/Oriental-Lantern-Colourful-Moroccan-WDL1030/dp/B07YQ1YFR8/ref=sr_1_8?dib=eyJ2IjoiMSJ9.OAdK9UssT3gW1MNmMoMgh_vAJrXg5oF7SbuD0qsl7Y_MZ4vtH_NBybN6LERzMVOvhLPyHdOseVBHg2bv8zHjHufNWqIjLTyciz5tqhj1qloKqpcxnu5Qqiym8XCDI3miaUHyQY3ZAAPzri4l-K8F7gR6X6NXrf4pF6KJLtJiF8wvjK1vCwnFD4CDUp-_JdJr6l2SYztXMwT-YRNewVuAqTwZhArP8xsPNdcz5Beh7Q5VC8fN_N1P0PYBBPaQskuxiXFqV9-bPcaWtQJcpwkjJAubbS4M6KHK2mV-dLK2IpE.HNMKV6NuLNAF72d3VOfZu2QU_tlnLJjLzagLBPtlsbM&dib_tag=se&keywords=Windlicht+Laterne+Messing&qid=1790801938&sr=8-8",
+    "link_clean": "https://www.amazon.de/-/en/Oriental-Lantern-Colourful-Moroccan-WDL1030/dp/B07YQ1YFR8/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B07YQ1YFR8&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/71dNz8wEqVL._AC_UL320_.jpg",
+    "rating": 3.9,
+    "reviews": 24,
+    "no_featured_offers_available": true,
+    "more_buying_choices": "€24.95 (1 new offer)",
+    "more_buying_choices_link": "https://www.amazon.de/-/en/gp/offer-listing/B07YQ1YFR8/ref=sr_1_8_olp?keywords=Windlicht+Laterne+Messing&dib_tag=se&dib=eyJ2IjoiMSJ9.OAdK9UssT3gW1MNmMoMgh_vAJrXg5oF7SbuD0qsl7Y_MZ4vtH_NBybN6LERzMVOvhLPyHdOseVBHg2bv8zHjHufNWqIjLTyciz5tqhj1qloKqpcxnu5Qqiym8XCDI3miaUHyQY3ZAAPzri4l-K8F7gR6X6NXrf4pF6KJLtJiF8wvjK1vCwnFD4CDUp-_JdJr6l2SYztXMwT-YRNewVuAqTwZhArP8xsPNdcz5Beh7Q5VC8fN_N1P0PYBBPaQskuxiXFqV9-bPcaWtQJcpwkjJAubbS4M6KHK2mV-dLK2IpE.HNMKV6NuLNAF72d3VOfZu2QU_tlnLJjLzagLBPtlsbM&qid=1790801938&sr=8-8",
+    "purchase_options": [
+     {
+      "no_featured_offers": true,
+      "more_buying_choices": "€24.95 (1 new offer)",
+      "more_buying_choices_link": "https://www.amazon.de/-/en/gp/offer-listing/B07YQ1YFR8/ref=sr_1_8_olp?keywords=Windlicht+Laterne+Messing&dib_tag=se&dib=eyJ2IjoiMSJ9.OAdK9UssT3gW1MNmMoMgh_vAJrXg5oF7SbuD0qsl7Y_MZ4vtH_NBybN6LERzMVOvhLPyHdOseVBHg2bv8zHjHufNWqIjLTyciz5tqhj1qloKqpcxnu5Qqiym8XCDI3miaUHyQY3ZAAPzri4l-K8F7gR6X6NXrf4pF6KJLtJiF8wvjK1vCwnFD4CDUp-_JdJr6l2SYztXMwT-YRNewVuAqTwZhArP8xsPNdcz5Beh7Q5VC8fN_N1P0PYBBPaQskuxiXFqV9-bPcaWtQJcpwkjJAubbS4M6KHK2mV-dLK2IpE.HNMKV6NuLNAF72d3VOfZu2QU_tlnLJjLzagLBPtlsbM&qid=1790801938&sr=8-8"
+     }
+    ]
+   },
+   {
+    "position": 9,
+    "asin": "B01M6DBHY4",
+    "title": "GURU SHOP Glass Lantern, Tealight Holder, Brass Red",
+    "link": "https://www.amazon.de/-/en/GURU-SHOP-Lantern-Tealight-Holder/dp/B01M6DBHY4/ref=sr_1_9?dib=eyJ2IjoiMSJ9.OAdK9UssT3gW1MNmMoMgh_vAJrXg5oF7SbuD0qsl7Y_MZ4vtH_NBybN6LERzMVOvhLPyHdOseVBHg2bv8zHjHufNWqIjLTyciz5tqhj1qloKqpcxnu5Qqiym8XCDI3miaUHyQY3ZAAPzri4l-K8F7gR6X6NXrf4pF6KJLtJiF8wvjK1vCwnFD4CDUp-_JdJr6l2SYztXMwT-YRNewVuAqTwZhArP8xsPNdcz5Beh7Q5VC8fN_N1P0PYBBPaQskuxiXFqV9-bPcaWtQJcpwkjJAubbS4M6KHK2mV-dLK2IpE.HNMKV6NuLNAF72d3VOfZu2QU_tlnLJjLzagLBPtlsbM&dib_tag=se&keywords=Windlicht+Laterne+Messing&qid=1790801938&sr=8-9",
+    "link_clean": "https://www.amazon.de/-/en/GURU-SHOP-Lantern-Tealight-Holder/dp/B01M6DBHY4/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B01M6DBHY4&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/610b4ZjTPvL._AC_UL320_.jpg",
+    "rating": 3.0,
+    "reviews": 2,
+    "price": "€7.90",
+    "extracted_price": 7.9,
+    "delivery": [
+     "FREE delivery Tue 6 Oct on eligible first order"
+    ],
+    "stock": "Only 17 left in stock.",
+    "purchase_options": [
+     {
+      "primary_price": "€7.90",
+      "extracted_primary_price": 7.9
+     }
+    ]
+   },
+   {
+    "position": 10,
+    "asin": "B0GGF4TP2V",
+    "title": "NBEADS 2 Style Glass Lantern Candle Holder, Candle Holder, Lanterns, Versatile Metal Candle Holder with Handmade, Robust Glass Dome Made of Brass for Pillar Candles, Plants, Table Hanging Decorations",
+    "link": "https://www.amazon.de/-/en/NBEADS-Lanterns-Versatile-Handmade-Decorations/dp/B0GGF4TP2V/ref=sr_1_10?dib=eyJ2IjoiMSJ9.OAdK9UssT3gW1MNmMoMgh_vAJrXg5oF7SbuD0qsl7Y_MZ4vtH_NBybN6LERzMVOvhLPyHdOseVBHg2bv8zHjHufNWqIjLTyciz5tqhj1qloKqpcxnu5Qqiym8XCDI3miaUHyQY3ZAAPzri4l-K8F7gR6X6NXrf4pF6KJLtJiF8wvjK1vCwnFD4CDUp-_JdJr6l2SYztXMwT-YRNewVuAqTwZhArP8xsPNdcz5Beh7Q5VC8fN_N1P0PYBBPaQskuxiXFqV9-bPcaWtQJcpwkjJAubbS4M6KHK2mV-dLK2IpE.HNMKV6NuLNAF72d3VOfZu2QU_tlnLJjLzagLBPtlsbM&dib_tag=se&keywords=Windlicht+Laterne+Messing&qid=1790801938&sr=8-10",
+    "link_clean": "https://www.amazon.de/-/en/NBEADS-Lanterns-Versatile-Handmade-Decorations/dp/B0GGF4TP2V/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B0GGF4TP2V&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/51wwasySFHL._AC_UL320_.jpg",
+    "price": "€29.79",
+    "extracted_price": 29.79,
+    "delivery": [
+     "FREE delivery Mon 5 Oct on eligible first order",
+     "Or fastest delivery Fri 2 Oct"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "€29.79",
+      "extracted_primary_price": 29.79
+     }
+    ]
+   },
+   {
+    "position": 11,
+    "asin": "B0HJ8KDJ43",
+    "sponsored": true,
+    "title": "Lantern Set of 2 - Macrame Boho Glass Tea Light Holder for Table Decoration",
+    "link": "https://www.amazon.de/-/en/sspa/click?ie=UTF8&spc=MToxMzYzNzMyMzI1NTc5OTI0OjE3OTA4MDE5Mzg6c3BfbXRmOjMwMTMyNDU5MTQ3MTczMjo6MDo6&url=%2FWl-glas-mak-001%2Fdp%2FB0HJ8KDJ43%2Fref%3Dsr_1_11_sspa%3Fdib%3DeyJ2IjoiMSJ9.OAdK9UssT3gW1MNmMoMgh_vAJrXg5oF7SbuD0qsl7Y_MZ4vtH_NBybN6LERzMVOvhLPyHdOseVBHg2bv8zHjHufNWqIjLTyciz5tqhj1qloKqpcxnu5Qqiym8XCDI3miaUHyQY3ZAAPzri4l-K8F7gR6X6NXrf4pF6KJLtJiF8wvjK1vCwnFD4CDUp-_JdJr6l2SYztXMwT-YRNewVuAqTwZhArP8xsPNdcz5Beh7Q5VC8fN_N1P0PYBBPaQskuxiXFqV9-bPcaWtQJcpwkjJAubbS4M6KHK2mV-dLK2IpE.HNMKV6NuLNAF72d3VOfZu2QU_tlnLJjLzagLBPtlsbM%26dib_tag%3Dse%26keywords%3DWindlicht%2BLaterne%2BMessing%26qid%3D1790801938%26sr%3D8-11-spons%26aref%3DfH9WXDMaco%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1&aref=fH9WXDMaco&sp_cr=FRA",
+    "link_clean": "https://www.amazon.de/dp/B0HJ8KDJ43/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B0HJ8KDJ43&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/71NwSx7V-1L._AC_UL320_.jpg",
+    "price": "€19.99",
+    "extracted_price": 19.99,
+    "delivery": [
+     "FREE delivery Tue 6 Oct on eligible first order"
+    ],
+    "stock": "Only 5 left in stock.",
+    "purchase_options": [
+     {
+      "primary_price": "€19.99",
+      "extracted_primary_price": 19.99
+     }
+    ]
+   },
+   {
+    "position": 12,
+    "asin": "B0GYYZ948M",
+    "sponsored": true,
+    "title": "Outdoor Grave Lanterns Large Weatherproof Black Metal 35 cm Candle Lantern",
+    "link": "https://www.amazon.de/-/en/sspa/click?ie=UTF8&spc=MToxMzYzNzMyMzI1NTc5OTI0OjE3OTA4MDE5Mzg6c3BfbXRmOjMwMTMxOTM2MDQ3NjgzMjo6MDo6&url=%2FOutdoor-Lanterns-Weatherproof-Candle-Lantern%2Fdp%2FB0GYYZ948M%2Fref%3Dsr_1_12_sspa%3Fdib%3DeyJ2IjoiMSJ9.OAdK9UssT3gW1MNmMoMgh_vAJrXg5oF7SbuD0qsl7Y_MZ4vtH_NBybN6LERzMVOvhLPyHdOseVBHg2bv8zHjHufNWqIjLTyciz5tqhj1qloKqpcxnu5Qqiym8XCDI3miaUHyQY3ZAAPzri4l-K8F7gR6X6NXrf4pF6KJLtJiF8wvjK1vCwnFD4CDUp-_JdJr6l2SYztXMwT-YRNewVuAqTwZhArP8xsPNdcz5Beh7Q5VC8fN_N1P0PYBBPaQskuxiXFqV9-bPcaWtQJcpwkjJAubbS4M6KHK2mV-dLK2IpE.HNMKV6NuLNAF72d3VOfZu2QU_tlnLJjLzagLBPtlsbM%26dib_tag%3Dse%26keywords%3DWindlicht%2BLaterne%2BMessing%26qid%3D1790801938%26sr%3D8-12-spons%26aref%3D9tbnijNMII%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1&aref=9tbnijNMII&sp_cr=FRA",
+    "link_clean": "https://www.amazon.de/dp/B0GYYZ948M/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B0GYYZ948M&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/71lhUqTuHEL._AC_UL320_.jpg",
+    "price": "€26.59",
+    "extracted_price": 26.59,
+    "delivery": [
+     "FREE delivery Tue 6 Oct on eligible first order"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "€26.59",
+      "extracted_primary_price": 26.59
+     }
+    ]
+   },
+   {
+    "position": 13,
+    "asin": "B0GWLV93N1",
+    "sponsored": true,
+    "title": "Pack of 3 Outdoor Lanterns, Glass Candle Holder with Glass Cylinder",
+    "link": "https://www.amazon.de/-/en/sspa/click?ie=UTF8&spc=MToxMzYzNzMyMzI1NTc5OTI0OjE3OTA4MDE5Mzg6c3BfbXRmOjMwMTI4Mjg1NzQ3MjczMjo6MDo6&url=%2FOutdoor-Lanterns-Candle-Holder-Cylinder%2Fdp%2FB0GWLV93N1%2Fref%3Dsr_1_13_sspa%3Fdib%3DeyJ2IjoiMSJ9.OAdK9UssT3gW1MNmMoMgh_vAJrXg5oF7SbuD0qsl7Y_MZ4vtH_NBybN6LERzMVOvhLPyHdOseVBHg2bv8zHjHufNWqIjLTyciz5tqhj1qloKqpcxnu5Qqiym8XCDI3miaUHyQY3ZAAPzri4l-K8F7gR6X6NXrf4pF6KJLtJiF8wvjK1vCwnFD4CDUp-_JdJr6l2SYztXMwT-YRNewVuAqTwZhArP8xsPNdcz5Beh7Q5VC8fN_N1P0PYBBPaQskuxiXFqV9-bPcaWtQJcpwkjJAubbS4M6KHK2mV-dLK2IpE.HNMKV6NuLNAF72d3VOfZu2QU_tlnLJjLzagLBPtlsbM%26dib_tag%3Dse%26keywords%3DWindlicht%2BLaterne%2BMessing%26qid%3D1790801938%26sr%3D8-13-spons%26aref%3DOBxbNrIyce%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1&aref=OBxbNrIyce&sp_cr=FRA",
+    "link_clean": "https://www.amazon.de/dp/B0GWLV93N1/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B0GWLV93N1&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/71PYiUTgUYL._AC_UL320_.jpg",
+    "rating": 4.7,
+    "reviews": 11,
+    "price": "€35.99",
+    "extracted_price": 35.99,
+    "delivery": [
+     "FREE delivery Mon 5 Oct on eligible first order",
+     "Or fastest delivery Fri 2 Oct"
+    ],
+    "stock": "Only 18 left in stock.",
+    "purchase_options": [
+     {
+      "primary_price": "€35.99",
+      "extracted_primary_price": 35.99
+     }
+    ]
+   },
+   {
+    "position": 14,
+    "asin": "B07YQ3X9ZD",
+    "sponsored": true,
+    "title": "Arabica Lantern in Oriental Design Metal in Gold 18 cm",
+    "link": "https://www.amazon.de/-/en/sspa/click?ie=UTF8&spc=MToxMzYzNzMyMzI1NTc5OTI0OjE3OTA4MDE5Mzg6c3BfbXRmOjMwMDU1OTU3MTgxOTUzMjo6MDo6&url=%2FArabica-Oriental-Lantern-Handmade-Metal%2Fdp%2FB07YQ3X9ZD%2Fref%3Dsr_1_14_sspa%3Fdib%3DeyJ2IjoiMSJ9.OAdK9UssT3gW1MNmMoMgh_vAJrXg5oF7SbuD0qsl7Y_MZ4vtH_NBybN6LERzMVOvhLPyHdOseVBHg2bv8zHjHufNWqIjLTyciz5tqhj1qloKqpcxnu5Qqiym8XCDI3miaUHyQY3ZAAPzri4l-K8F7gR6X6NXrf4pF6KJLtJiF8wvjK1vCwnFD4CDUp-_JdJr6l2SYztXMwT-YRNewVuAqTwZhArP8xsPNdcz5Beh7Q5VC8fN_N1P0PYBBPaQskuxiXFqV9-bPcaWtQJcpwkjJAubbS4M6KHK2mV-dLK2IpE.HNMKV6NuLNAF72d3VOfZu2QU_tlnLJjLzagLBPtlsbM%26dib_tag%3Dse%26keywords%3DWindlicht%2BLaterne%2BMessing%26qid%3D1790801938%26sr%3D8-14-spons%26aref%3DrRclheJH1A%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1&aref=rRclheJH1A&sp_cr=FRA",
+    "link_clean": "https://www.amazon.de/dp/B07YQ3X9ZD/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B07YQ3X9ZD&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/81L95vOhrCL._AC_UL320_.jpg",
+    "rating": 5.0,
+    "reviews": 1,
+    "price": "€23.90",
+    "extracted_price": 23.9,
+    "delivery": [
+     "FREE delivery 2 - 5 Oct on eligible first order"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "€23.90",
+      "extracted_primary_price": 23.9
+     }
+    ]
+   },
+   {
+    "position": 15,
+    "asin": "B0GN9HHQNV",
+    "title": "Rattan Lantern Natural with Candle Glass 23 x 19 cm with Hanger for Hanging",
+    "link": "https://www.amazon.de/-/en/Rattan-Lantern-Natural-Candle-Hanging/dp/B0GN9HHQNV/ref=sr_1_15?dib=eyJ2IjoiMSJ9.OAdK9UssT3gW1MNmMoMgh_vAJrXg5oF7SbuD0qsl7Y_MZ4vtH_NBybN6LERzMVOvhLPyHdOseVBHg2bv8zHjHufNWqIjLTyciz5tqhj1qloKqpcxnu5Qqiym8XCDI3miaUHyQY3ZAAPzri4l-K8F7gR6X6NXrf4pF6KJLtJiF8wvjK1vCwnFD4CDUp-_JdJr6l2SYztXMwT-YRNewVuAqTwZhArP8xsPNdcz5Beh7Q5VC8fN_N1P0PYBBPaQskuxiXFqV9-bPcaWtQJcpwkjJAubbS4M6KHK2mV-dLK2IpE.HNMKV6NuLNAF72d3VOfZu2QU_tlnLJjLzagLBPtlsbM&dib_tag=se&keywords=Windlicht+Laterne+Messing&qid=1790801938&sr=8-15",
+    "link_clean": "https://www.amazon.de/-/en/Rattan-Lantern-Natural-Candle-Hanging/dp/B0GN9HHQNV/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B0GN9HHQNV&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/81mSvTN5mAL._AC_UL320_.jpg",
+    "rating": 5.0,
+    "reviews": 6,
+    "price": "€15.95",
+    "extracted_price": 15.95,
+    "delivery": [
+     "FREE delivery Tue 6 Oct on eligible first order"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "€15.95",
+      "extracted_primary_price": 15.95
+     }
+    ]
+   },
+   {
+    "position": 16,
+    "asin": "B002VE3SHK",
+    "title": "Metal Farol lantern - 20cm",
+    "link": "https://www.amazon.de/-/en/Boltze-3549400-Metal-Farol-lantern/dp/B002VE3SHK/ref=sr_1_16_mod_primary_new?dib=eyJ2IjoiMSJ9.OAdK9UssT3gW1MNmMoMgh_vAJrXg5oF7SbuD0qsl7Y_MZ4vtH_NBybN6LERzMVOvhLPyHdOseVBHg2bv8zHjHufNWqIjLTyciz5tqhj1qloKqpcxnu5Qqiym8XCDI3miaUHyQY3ZAAPzri4l-K8F7gR6X6NXrf4pF6KJLtJiF8wvjK1vCwnFD4CDUp-_JdJr6l2SYztXMwT-YRNewVuAqTwZhArP8xsPNdcz5Beh7Q5VC8fN_N1P0PYBBPaQskuxiXFqV9-bPcaWtQJcpwkjJAubbS4M6KHK2mV-dLK2IpE.HNMKV6NuLNAF72d3VOfZu2QU_tlnLJjLzagLBPtlsbM&dib_tag=se&keywords=Windlicht+Laterne+Messing&qid=1790801938&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=8-16",
+    "link_clean": "https://www.amazon.de/-/en/Boltze-3549400-Metal-Farol-lantern/dp/B002VE3SHK/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B002VE3SHK&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/51LBlCserSL._AC_UL320_.jpg",
+    "rating": 4.2,
+    "reviews": 1100,
+    "price": "€13.09",
+    "extracted_price": 13.09,
+    "delivery": [
+     "FREE delivery Mon 5 Oct on eligible first order"
+    ],
+    "stock": "Only 11 left in stock.",
+    "more_buying_choices": "€12.78 (9 new offers)",
+    "more_buying_choices_link": "https://www.amazon.de/-/en/gp/offer-listing/B002VE3SHK/ref=sr_1_16_olp?keywords=Windlicht+Laterne+Messing&dib_tag=se&dib=eyJ2IjoiMSJ9.OAdK9UssT3gW1MNmMoMgh_vAJrXg5oF7SbuD0qsl7Y_MZ4vtH_NBybN6LERzMVOvhLPyHdOseVBHg2bv8zHjHufNWqIjLTyciz5tqhj1qloKqpcxnu5Qqiym8XCDI3miaUHyQY3ZAAPzri4l-K8F7gR6X6NXrf4pF6KJLtJiF8wvjK1vCwnFD4CDUp-_JdJr6l2SYztXMwT-YRNewVuAqTwZhArP8xsPNdcz5Beh7Q5VC8fN_N1P0PYBBPaQskuxiXFqV9-bPcaWtQJcpwkjJAubbS4M6KHK2mV-dLK2IpE.HNMKV6NuLNAF72d3VOfZu2QU_tlnLJjLzagLBPtlsbM&qid=1790801938&sr=8-16",
+    "purchase_options": [
+     {
+      "primary_price": "€13.09",
+      "extracted_primary_price": 13.09,
+      "more_buying_choices": "€12.78 (9 new offers)",
+      "more_buying_choices_link": "https://www.amazon.de/-/en/gp/offer-listing/B002VE3SHK/ref=sr_1_16_olp?keywords=Windlicht+Laterne+Messing&dib_tag=se&dib=eyJ2IjoiMSJ9.OAdK9UssT3gW1MNmMoMgh_vAJrXg5oF7SbuD0qsl7Y_MZ4vtH_NBybN6LERzMVOvhLPyHdOseVBHg2bv8zHjHufNWqIjLTyciz5tqhj1qloKqpcxnu5Qqiym8XCDI3miaUHyQY3ZAAPzri4l-K8F7gR6X6NXrf4pF6KJLtJiF8wvjK1vCwnFD4CDUp-_JdJr6l2SYztXMwT-YRNewVuAqTwZhArP8xsPNdcz5Beh7Q5VC8fN_N1P0PYBBPaQskuxiXFqV9-bPcaWtQJcpwkjJAubbS4M6KHK2mV-dLK2IpE.HNMKV6NuLNAF72d3VOfZu2QU_tlnLJjLzagLBPtlsbM&qid=1790801938&sr=8-16"
+     },
+     {
+      "type": "Another way to buy",
+      "primary_price": "€12.78",
+      "extracted_primary_price": 12.78
+     }
+    ]
+   },
+   {
+    "position": 17,
+    "asin": "B0DW8WKZ68",
+    "title": "Blomus Lito Lantern Indian Tan Size XS",
+    "link": "https://www.amazon.de/-/en/Blomus-Lito-Lantern-Indian-Size/dp/B0DW8WKZ68/ref=sr_1_17?dib=eyJ2IjoiMSJ9.OAdK9UssT3gW1MNmMoMgh_vAJrXg5oF7SbuD0qsl7Y_MZ4vtH_NBybN6LERzMVOvhLPyHdOseVBHg2bv8zHjHufNWqIjLTyciz5tqhj1qloKqpcxnu5Qqiym8XCDI3miaUHyQY3ZAAPzri4l-K8F7gR6X6NXrf4pF6KJLtJiF8wvjK1vCwnFD4CDUp-_JdJr6l2SYztXMwT-YRNewVuAqTwZhArP8xsPNdcz5Beh7Q5VC8fN_N1P0PYBBPaQskuxiXFqV9-bPcaWtQJcpwkjJAubbS4M6KHK2mV-dLK2IpE.HNMKV6NuLNAF72d3VOfZu2QU_tlnLJjLzagLBPtlsbM&dib_tag=se&keywords=Windlicht+Laterne+Messing&qid=1790801938&sr=8-17",
+    "link_clean": "https://www.amazon.de/-/en/Blomus-Lito-Lantern-Indian-Size/dp/B0DW8WKZ68/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B0DW8WKZ68&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/61pLsykxd+L._AC_UL320_.jpg",
+    "rating": 4.8,
+    "reviews": 598,
+    "price": "€15.95",
+    "extracted_price": 15.95,
+    "old_price": "€29.95",
+    "extracted_old_price": 29.95,
+    "delivery": [
+     "FREE delivery 2 - 5 Oct on eligible first order"
+    ],
+    "stock": "Only 8 left in stock.",
+    "purchase_options": [
+     {
+      "primary_price": "€15.95",
+      "extracted_primary_price": 15.95,
+      "old_primary_price": "€29.95",
+      "extracted_old_primary_price": 29.95
+     }
+    ]
+   },
+   {
+    "position": 18,
+    "asin": "B0HB5YJC2J",
+    "title": "Räder Geschenklaterne Time to be Happy | Porzellan Windlicht Messing",
+    "link": "https://www.amazon.de/-/en/R%C3%A4der-18604/dp/B0HB5YJC2J/ref=sr_1_18?dib=eyJ2IjoiMSJ9.OAdK9UssT3gW1MNmMoMgh_vAJrXg5oF7SbuD0qsl7Y_MZ4vtH_NBybN6LERzMVOvhLPyHdOseVBHg2bv8zHjHufNWqIjLTyciz5tqhj1qloKqpcxnu5Qqiym8XCDI3miaUHyQY3ZAAPzri4l-K8F7gR6X6NXrf4pF6KJLtJiF8wvjK1vCwnFD4CDUp-_JdJr6l2SYztXMwT-YRNewVuAqTwZhArP8xsPNdcz5Beh7Q5VC8fN_N1P0PYBBPaQskuxiXFqV9-bPcaWtQJcpwkjJAubbS4M6KHK2mV-dLK2IpE.HNMKV6NuLNAF72d3VOfZu2QU_tlnLJjLzagLBPtlsbM&dib_tag=se&keywords=Windlicht+Laterne+Messing&qid=1790801938&sr=8-18",
+    "link_clean": "https://www.amazon.de/-/en/R%C3%A4der-18604/dp/B0HB5YJC2J/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B0HB5YJC2J&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/41yMdtGwcqL._AC_UL320_.jpg",
+    "price": "€9.10",
+    "extracted_price": 9.1,
+    "delivery": [
+     "FREE delivery Tue 6 Oct on eligible first order",
+     "Or fastest delivery Mon 5 Oct"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "€9.10",
+      "extracted_primary_price": 9.1
+     }
+    ]
+   },
+   {
+    "position": 19,
+    "asin": "B0DYD5D91S",
+    "sponsored": true,
+    "title": "JHY DESIGN 2er-Set Kerzenlaternen für draußen 50 cm & 38 cm H Dekorative Kerzenhalter Vintage-Kerzenständer aus Metall für Garten Veranda Partys Hochzeiten Terrasse Innenbereich Heimdekoration (Gold)",
+    "link": "https://www.amazon.de/-/en/sspa/click?ie=UTF8&spc=MToxMzYzNzMyMzI1NTc5OTI0OjE3OTA4MDE5Mzg6c3BfbXRmOjMwMTAwMjA0NDYzNzEzMjo6MDo6&url=%2FJHY-DESIGN-Kerzenlaternen-Vintage-Kerzenst%25C3%25A4nder-Heimdekoration%2Fdp%2FB0DYD5D91S%2Fref%3Dsr_1_19_sspa%3Fdib%3DeyJ2IjoiMSJ9.OAdK9UssT3gW1MNmMoMgh_vAJrXg5oF7SbuD0qsl7Y_MZ4vtH_NBybN6LERzMVOvhLPyHdOseVBHg2bv8zHjHufNWqIjLTyciz5tqhj1qloKqpcxnu5Qqiym8XCDI3miaUHyQY3ZAAPzri4l-K8F7gR6X6NXrf4pF6KJLtJiF8wvjK1vCwnFD4CDUp-_JdJr6l2SYztXMwT-YRNewVuAqTwZhArP8xsPNdcz5Beh7Q5VC8fN_N1P0PYBBPaQskuxiXFqV9-bPcaWtQJcpwkjJAubbS4M6KHK2mV-dLK2IpE.HNMKV6NuLNAF72d3VOfZu2QU_tlnLJjLzagLBPtlsbM%26dib_tag%3Dse%26keywords%3DWindlicht%2BLaterne%2BMessing%26qid%3D1790801938%26sr%3D8-19-spons%26aref%3D3GM8TKdgAv%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1&aref=3GM8TKdgAv&sp_cr=FRA",
+    "link_clean": "https://www.amazon.de/dp/B0DYD5D91S/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B0DYD5D91S&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/61nFGDMjaxL._AC_UL320_.jpg",
+    "rating": 4.3,
+    "reviews": 81,
+    "price": "€74.99",
+    "extracted_price": 74.99,
+    "old_price": "€79.99",
+    "extracted_old_price": 79.99,
+    "save_with_coupon": "You pay €71.24 with voucher",
+    "delivery": [
+     "FREE delivery 7 - 8 Oct on eligible first order"
+    ],
+    "stock": "Only 4 left in stock.",
+    "purchase_options": [
+     {
+      "primary_price": "€74.99",
+      "extracted_primary_price": 74.99,
+      "old_primary_price": "€79.99",
+      "extracted_old_primary_price": 79.99
+     }
+    ]
+   },
+   {
+    "position": 20,
+    "asin": "B07QLM5M88",
+    "sponsored": true,
+    "title": "JHY DESIGN Silver Decorative Lanterns 31cm Tall Stainless Steel Candle Lanterns with Tempered Glass for Indoor Outdoor Events Parities and Weddings Vintage Hanging Lamps",
+    "link": "https://www.amazon.de/-/en/sspa/click?ie=UTF8&spc=MToxMzYzNzMyMzI1NTc5OTI0OjE3OTA4MDE5Mzg6c3BfbXRmOjIwMTA0MTk5MzY3OTk4OjowOjo&url=%2FJHY-DESIGN-Decorative-Lanterns-Stainless%2Fdp%2FB07QLM5M88%2Fref%3Dsr_1_20_sspa%3Fdib%3DeyJ2IjoiMSJ9.OAdK9UssT3gW1MNmMoMgh_vAJrXg5oF7SbuD0qsl7Y_MZ4vtH_NBybN6LERzMVOvhLPyHdOseVBHg2bv8zHjHufNWqIjLTyciz5tqhj1qloKqpcxnu5Qqiym8XCDI3miaUHyQY3ZAAPzri4l-K8F7gR6X6NXrf4pF6KJLtJiF8wvjK1vCwnFD4CDUp-_JdJr6l2SYztXMwT-YRNewVuAqTwZhArP8xsPNdcz5Beh7Q5VC8fN_N1P0PYBBPaQskuxiXFqV9-bPcaWtQJcpwkjJAubbS4M6KHK2mV-dLK2IpE.HNMKV6NuLNAF72d3VOfZu2QU_tlnLJjLzagLBPtlsbM%26dib_tag%3Dse%26keywords%3DWindlicht%2BLaterne%2BMessing%26qid%3D1790801938%26sr%3D8-20-spons%26aref%3DZlXf8MCCNA%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1&aref=ZlXf8MCCNA&sp_cr=FRA",
+    "link_clean": "https://www.amazon.de/dp/B07QLM5M88/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B07QLM5M88&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/6137frJI0VL._AC_UL320_.jpg",
+    "rating": 4.1,
+    "reviews": 732,
+    "price": "€32.99",
+    "extracted_price": 32.99,
+    "old_price": "€34.99",
+    "extracted_old_price": 34.99,
+    "save_with_coupon": "You pay €31.34 with voucher",
+    "delivery": [
+     "FREE delivery Tue 6 Oct on eligible first order"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "€32.99",
+      "extracted_primary_price": 32.99,
+      "old_primary_price": "€34.99",
+      "extracted_old_primary_price": 34.99
+     }
+    ]
+   },
+   {
+    "position": 21,
+    "asin": "B0HJ2R7LQX",
+    "sponsored": true,
+    "title": "2er Set Laternen H55cm H36cm Grau Gewischt Shabby Chic Vintage Windlicht",
+    "link": "https://www.amazon.de/-/en/sspa/click?ie=UTF8&spc=MToxMzYzNzMyMzI1NTc5OTI0OjE3OTA4MDE5Mzg6c3BfbXRmOjMwMTMzNDEwMzQ0MTEzMjo6MDo6&url=%2Flevandeo-93193%2Fdp%2FB0HJ2R7LQX%2Fref%3Dsr_1_21_sspa%3Fdib%3DeyJ2IjoiMSJ9.OAdK9UssT3gW1MNmMoMgh_vAJrXg5oF7SbuD0qsl7Y_MZ4vtH_NBybN6LERzMVOvhLPyHdOseVBHg2bv8zHjHufNWqIjLTyciz5tqhj1qloKqpcxnu5Qqiym8XCDI3miaUHyQY3ZAAPzri4l-K8F7gR6X6NXrf4pF6KJLtJiF8wvjK1vCwnFD4CDUp-_JdJr6l2SYztXMwT-YRNewVuAqTwZhArP8xsPNdcz5Beh7Q5VC8fN_N1P0PYBBPaQskuxiXFqV9-bPcaWtQJcpwkjJAubbS4M6KHK2mV-dLK2IpE.HNMKV6NuLNAF72d3VOfZu2QU_tlnLJjLzagLBPtlsbM%26dib_tag%3Dse%26keywords%3DWindlicht%2BLaterne%2BMessing%26qid%3D1790801938%26sr%3D8-21-spons%26aref%3DBE8frSFAqf%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1&aref=BE8frSFAqf&sp_cr=FRA",
+    "link_clean": "https://www.amazon.de/dp/B0HJ2R7LQX/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B0HJ2R7LQX&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/81wthHdA4JL._AC_UL320_.jpg",
+    "price": "€54.99",
+    "extracted_price": 54.99,
+    "old_price": "€59.89",
+    "extracted_old_price": 59.89,
+    "delivery": [
+     "FREE delivery Tue 6 Oct on eligible first order"
+    ],
+    "small_business": true,
+    "purchase_options": [
+     {
+      "primary_price": "€54.99",
+      "extracted_primary_price": 54.99,
+      "old_primary_price": "€59.89",
+      "extracted_old_primary_price": 59.89
+     }
+    ]
+   },
+   {
+    "position": 22,
+    "asin": "B09J1L4954",
+    "sponsored": true,
+    "title": "Casa Vivente Gold Stainless Steel Lantern for Candles, Decorative Lighting for Hanging or Standing",
+    "link": "https://www.amazon.de/-/en/sspa/click?ie=UTF8&spc=MToxMzYzNzMyMzI1NTc5OTI0OjE3OTA4MDE5Mzg6c3BfbXRmOjIwMTQ0ODc3NDM1Mzk4OjowOjo&url=%2FCasa-Vivente-Stainless-Decorative-Lighting%2Fdp%2FB09J1L4954%2Fref%3Dsr_1_22_sspa%3Fdib%3DeyJ2IjoiMSJ9.OAdK9UssT3gW1MNmMoMgh_vAJrXg5oF7SbuD0qsl7Y_MZ4vtH_NBybN6LERzMVOvhLPyHdOseVBHg2bv8zHjHufNWqIjLTyciz5tqhj1qloKqpcxnu5Qqiym8XCDI3miaUHyQY3ZAAPzri4l-K8F7gR6X6NXrf4pF6KJLtJiF8wvjK1vCwnFD4CDUp-_JdJr6l2SYztXMwT-YRNewVuAqTwZhArP8xsPNdcz5Beh7Q5VC8fN_N1P0PYBBPaQskuxiXFqV9-bPcaWtQJcpwkjJAubbS4M6KHK2mV-dLK2IpE.HNMKV6NuLNAF72d3VOfZu2QU_tlnLJjLzagLBPtlsbM%26dib_tag%3Dse%26keywords%3DWindlicht%2BLaterne%2BMessing%26qid%3D1790801938%26sr%3D8-22-spons%26aref%3D06jGNVLxmK%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1&aref=06jGNVLxmK&sp_cr=FRA",
+    "link_clean": "https://www.amazon.de/dp/B09J1L4954/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B09J1L4954&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/61INeWwfgtL._AC_UL320_.jpg",
+    "rating": 4.4,
+    "reviews": 81,
+    "price": "€44.95",
+    "extracted_price": 44.95,
+    "delivery": [
+     "FREE delivery 2 - 5 Oct on eligible first order"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "€44.95",
+      "extracted_primary_price": 44.95
+     }
+    ]
+   },
+   {
+    "position": 23,
+    "asin": "B08ZC8JXYW",
+    "title": "Loberon Radu Lantern, Set of 2, Antique Black",
+    "link": "https://www.amazon.de/-/en/Loberon-Radu-Lantern-Antique-Black/dp/B08ZC8JXYW/ref=sr_1_23?dib=eyJ2IjoiMSJ9.OAdK9UssT3gW1MNmMoMgh_vAJrXg5oF7SbuD0qsl7Y_MZ4vtH_NBybN6LERzMVOvhLPyHdOseVBHg2bv8zHjHufNWqIjLTyciz5tqhj1qloKqpcxnu5Qqiym8XCDI3miaUHyQY3ZAAPzri4l-K8F7gR6X6NXrf4pF6KJLtJiF8wvjK1vCwnFD4CDUp-_JdJr6l2SYztXMwT-YRNewVuAqTwZhArP8xsPNdcz5Beh7Q5VC8fN_N1P0PYBBPaQskuxiXFqV9-bPcaWtQJcpwkjJAubbS4M6KHK2mV-dLK2IpE.HNMKV6NuLNAF72d3VOfZu2QU_tlnLJjLzagLBPtlsbM&dib_tag=se&keywords=Windlicht+Laterne+Messing&qid=1790801938&sr=8-23",
+    "link_clean": "https://www.amazon.de/-/en/Loberon-Radu-Lantern-Antique-Black/dp/B08ZC8JXYW/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B08ZC8JXYW&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/51byic9FjZL._AC_UL320_.jpg",
+    "rating": 3.7,
+    "reviews": 6,
+    "price": "€66.90",
+    "extracted_price": 66.9,
+    "delivery": [
+     "FREE delivery 5 - 6 Oct on eligible first order"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "€66.90",
+      "extracted_primary_price": 66.9
+     }
+    ]
+   },
+   {
+    "position": 24,
+    "asin": "B073XWN2YY",
+    "title": "Loberon Miora Lantern, Antique Brown",
+    "link": "https://www.amazon.de/-/en/Loberon-Miora-Lantern-Antique-Brown/dp/B073XWN2YY/ref=sr_1_24?dib=eyJ2IjoiMSJ9.OAdK9UssT3gW1MNmMoMgh_vAJrXg5oF7SbuD0qsl7Y_MZ4vtH_NBybN6LERzMVOvhLPyHdOseVBHg2bv8zHjHufNWqIjLTyciz5tqhj1qloKqpcxnu5Qqiym8XCDI3miaUHyQY3ZAAPzri4l-K8F7gR6X6NXrf4pF6KJLtJiF8wvjK1vCwnFD4CDUp-_JdJr6l2SYztXMwT-YRNewVuAqTwZhArP8xsPNdcz5Beh7Q5VC8fN_N1P0PYBBPaQskuxiXFqV9-bPcaWtQJcpwkjJAubbS4M6KHK2mV-dLK2IpE.HNMKV6NuLNAF72d3VOfZu2QU_tlnLJjLzagLBPtlsbM&dib_tag=se&keywords=Windlicht+Laterne+Messing&qid=1790801938&sr=8-24",
+    "link_clean": "https://www.amazon.de/-/en/Loberon-Miora-Lantern-Antique-Brown/dp/B073XWN2YY/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B073XWN2YY&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/71AepkwXkNL._AC_UL320_.jpg",
+    "rating": 4.5,
+    "reviews": 20,
+    "price": "€51.90",
+    "extracted_price": 51.9,
+    "delivery": [
+     "FREE delivery 5 - 6 Oct on eligible first order"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "€51.90",
+      "extracted_primary_price": 51.9
+     }
+    ]
+   },
+   {
+    "position": 25,
+    "asin": "B0DHJ2JW94",
+    "title": "Loberon Set of 4 Lythoria Lanterns with Numbers for Advent Decoration, Candles and Other Decorations, Antique Finish, Lantern, Home Accessories, Iron, Glass, Brass",
+    "link": "https://www.amazon.de/-/en/Loberon-Lythoria-Decoration-Decorations-Accessories/dp/B0DHJ2JW94/ref=sr_1_25?dib=eyJ2IjoiMSJ9.OAdK9UssT3gW1MNmMoMgh_vAJrXg5oF7SbuD0qsl7Y_MZ4vtH_NBybN6LERzMVOvhLPyHdOseVBHg2bv8zHjHufNWqIjLTyciz5tqhj1qloKqpcxnu5Qqiym8XCDI3miaUHyQY3ZAAPzri4l-K8F7gR6X6NXrf4pF6KJLtJiF8wvjK1vCwnFD4CDUp-_JdJr6l2SYztXMwT-YRNewVuAqTwZhArP8xsPNdcz5Beh7Q5VC8fN_N1P0PYBBPaQskuxiXFqV9-bPcaWtQJcpwkjJAubbS4M6KHK2mV-dLK2IpE.HNMKV6NuLNAF72d3VOfZu2QU_tlnLJjLzagLBPtlsbM&dib_tag=se&keywords=Windlicht+Laterne+Messing&qid=1790801938&sr=8-25",
+    "link_clean": "https://www.amazon.de/-/en/Loberon-Lythoria-Decoration-Decorations-Accessories/dp/B0DHJ2JW94/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B0DHJ2JW94&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/61v-KQDzb0L._AC_UL320_.jpg",
+    "price": "€66.90",
+    "extracted_price": 66.9,
+    "delivery": [
+     "FREE delivery 5 - 6 Oct on eligible first order"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "€66.90",
+      "extracted_primary_price": 66.9
+     }
+    ]
+   },
+   {
+    "position": 26,
+    "asin": "B0DFSK299V",
+    "title": "NUPTIO Lantern Grave Lantern Cemetery Outdoor Lanterns Vintage Outdoor",
+    "link": "https://www.amazon.de/-/en/NUPTIO-Lantern-Cemetery-Outdoor-Lanterns/dp/B0DFSK299V/ref=sr_1_26?dib=eyJ2IjoiMSJ9.OAdK9UssT3gW1MNmMoMgh_vAJrXg5oF7SbuD0qsl7Y_MZ4vtH_NBybN6LERzMVOvhLPyHdOseVBHg2bv8zHjHufNWqIjLTyciz5tqhj1qloKqpcxnu5Qqiym8XCDI3miaUHyQY3ZAAPzri4l-K8F7gR6X6NXrf4pF6KJLtJiF8wvjK1vCwnFD4CDUp-_JdJr6l2SYztXMwT-YRNewVuAqTwZhArP8xsPNdcz5Beh7Q5VC8fN_N1P0PYBBPaQskuxiXFqV9-bPcaWtQJcpwkjJAubbS4M6KHK2mV-dLK2IpE.HNMKV6NuLNAF72d3VOfZu2QU_tlnLJjLzagLBPtlsbM&dib_tag=se&keywords=Windlicht+Laterne+Messing&qid=1790801938&sr=8-26",
+    "link_clean": "https://www.amazon.de/-/en/NUPTIO-Lantern-Cemetery-Outdoor-Lanterns/dp/B0DFSK299V/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B0DFSK299V&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/61TYbcsGc9L._AC_UL320_.jpg",
+    "rating": 4.4,
+    "reviews": 531,
+    "bought_last_month": "100+ bought in past month",
+    "price": "€19.96",
+    "extracted_price": 19.96,
+    "offers": [
+     "Savings Buy 4, save 5%"
+    ],
+    "delivery": [
+     "FREE delivery Mon 5 Oct on eligible first order",
+     "Or fastest delivery Fri 2 Oct"
+    ],
+    "more_buying_choices": "€18.21 (2+ used & new offers)",
+    "more_buying_choices_link": "https://www.amazon.de/-/en/gp/offer-listing/B0DFSK299V/ref=sr_1_26_olp?keywords=Windlicht+Laterne+Messing&dib_tag=se&dib=eyJ2IjoiMSJ9.OAdK9UssT3gW1MNmMoMgh_vAJrXg5oF7SbuD0qsl7Y_MZ4vtH_NBybN6LERzMVOvhLPyHdOseVBHg2bv8zHjHufNWqIjLTyciz5tqhj1qloKqpcxnu5Qqiym8XCDI3miaUHyQY3ZAAPzri4l-K8F7gR6X6NXrf4pF6KJLtJiF8wvjK1vCwnFD4CDUp-_JdJr6l2SYztXMwT-YRNewVuAqTwZhArP8xsPNdcz5Beh7Q5VC8fN_N1P0PYBBPaQskuxiXFqV9-bPcaWtQJcpwkjJAubbS4M6KHK2mV-dLK2IpE.HNMKV6NuLNAF72d3VOfZu2QU_tlnLJjLzagLBPtlsbM&qid=1790801938&sr=8-26",
+    "purchase_options": [
+     {
+      "primary_price": "€19.96",
+      "extracted_primary_price": 19.96,
+      "more_buying_choices": "€18.21 (2+ used & new offers)",
+      "more_buying_choices_link": "https://www.amazon.de/-/en/gp/offer-listing/B0DFSK299V/ref=sr_1_26_olp?keywords=Windlicht+Laterne+Messing&dib_tag=se&dib=eyJ2IjoiMSJ9.OAdK9UssT3gW1MNmMoMgh_vAJrXg5oF7SbuD0qsl7Y_MZ4vtH_NBybN6LERzMVOvhLPyHdOseVBHg2bv8zHjHufNWqIjLTyciz5tqhj1qloKqpcxnu5Qqiym8XCDI3miaUHyQY3ZAAPzri4l-K8F7gR6X6NXrf4pF6KJLtJiF8wvjK1vCwnFD4CDUp-_JdJr6l2SYztXMwT-YRNewVuAqTwZhArP8xsPNdcz5Beh7Q5VC8fN_N1P0PYBBPaQskuxiXFqV9-bPcaWtQJcpwkjJAubbS4M6KHK2mV-dLK2IpE.HNMKV6NuLNAF72d3VOfZu2QU_tlnLJjLzagLBPtlsbM&qid=1790801938&sr=8-26"
+     }
+    ]
+   },
+   {
+    "position": 27,
+    "asin": "B087X5MW2M",
+    "sponsored": true,
+    "title": "Hirsch Terracotta Linda28 Metal Rust Lantern Patina Diameter 28 cm Height 46 cm Lantern Garden Decoration Hanging Basket Decoration",
+    "link": "https://www.amazon.de/-/en/sspa/click?ie=UTF8&spc=MToxMzYzNzMyMzI1NTc5OTI0OjE3OTA4MDE5Mzg6c3BfbXRmOjMwMDg1Njg3NjU4NDAzMjo6MDo6&url=%2FHirsch-Terracotta-Linda28-Diameter-Decoration%2Fdp%2FB087X5MW2M%2Fref%3Dsr_1_27_sspa%3Fdib%3DeyJ2IjoiMSJ9.OAdK9UssT3gW1MNmMoMgh_vAJrXg5oF7SbuD0qsl7Y_MZ4vtH_NBybN6LERzMVOvhLPyHdOseVBHg2bv8zHjHufNWqIjLTyciz5tqhj1qloKqpcxnu5Qqiym8XCDI3miaUHyQY3ZAAPzri4l-K8F7gR6X6NXrf4pF6KJLtJiF8wvjK1vCwnFD4CDUp-_JdJr6l2SYztXMwT-YRNewVuAqTwZhArP8xsPNdcz5Beh7Q5VC8fN_N1P0PYBBPaQskuxiXFqV9-bPcaWtQJcpwkjJAubbS4M6KHK2mV-dLK2IpE.HNMKV6NuLNAF72d3VOfZu2QU_tlnLJjLzagLBPtlsbM%26dib_tag%3Dse%26keywords%3DWindlicht%2BLaterne%2BMessing%26qid%3D1790801938%26sr%3D8-27-spons%26aref%3DBV5A3bmxMf%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1&aref=BV5A3bmxMf&sp_cr=FRA",
+    "link_clean": "https://www.amazon.de/dp/B087X5MW2M/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B087X5MW2M&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/71wDXQx6pfL._AC_UL320_.jpg",
+    "rating": 5.0,
+    "reviews": 5,
+    "price": "€34.99",
+    "extracted_price": 34.99,
+    "delivery": [
+     "FREE delivery Tue 6 Oct on eligible first order"
+    ],
+    "small_business": true,
+    "purchase_options": [
+     {
+      "primary_price": "€34.99",
+      "extracted_primary_price": 34.99
+     }
+    ]
+   },
+   {
+    "position": 28,
+    "asin": "B0BCR45RCQ",
+    "sponsored": true,
+    "title": "Maha Oriental Style Iron Lantern Black 30cm",
+    "link": "https://www.amazon.de/-/en/sspa/click?ie=UTF8&spc=MToxMzYzNzMyMzI1NTc5OTI0OjE3OTA4MDE5Mzg6c3BfbXRmOjMwMTIwMjU2NjM4NjUzMjo6MDo6&url=%2FOriental-Lantern-Handmade-Metal-Black%2Fdp%2FB0BCR45RCQ%2Fref%3Dsr_1_28_sspa%3Fdib%3DeyJ2IjoiMSJ9.OAdK9UssT3gW1MNmMoMgh_vAJrXg5oF7SbuD0qsl7Y_MZ4vtH_NBybN6LERzMVOvhLPyHdOseVBHg2bv8zHjHufNWqIjLTyciz5tqhj1qloKqpcxnu5Qqiym8XCDI3miaUHyQY3ZAAPzri4l-K8F7gR6X6NXrf4pF6KJLtJiF8wvjK1vCwnFD4CDUp-_JdJr6l2SYztXMwT-YRNewVuAqTwZhArP8xsPNdcz5Beh7Q5VC8fN_N1P0PYBBPaQskuxiXFqV9-bPcaWtQJcpwkjJAubbS4M6KHK2mV-dLK2IpE.HNMKV6NuLNAF72d3VOfZu2QU_tlnLJjLzagLBPtlsbM%26dib_tag%3Dse%26keywords%3DWindlicht%2BLaterne%2BMessing%26qid%3D1790801938%26sr%3D8-28-spons%26aref%3DR9IUm6eKlf%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1&aref=R9IUm6eKlf&sp_cr=FRA",
+    "link_clean": "https://www.amazon.de/dp/B0BCR45RCQ/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B0BCR45RCQ&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/71+j4LsGStL._AC_UL320_.jpg",
+    "rating": 4.4,
+    "reviews": 97,
+    "price": "€28.90",
+    "extracted_price": 28.9,
+    "delivery": [
+     "FREE delivery 2 - 5 Oct on eligible first order"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "€28.90",
+      "extracted_primary_price": 28.9
+     }
+    ]
+   },
+   {
+    "position": 29,
+    "asin": "B0H7CKF5NQ",
+    "sponsored": true,
+    "title": "Set of 2 Lanterns, Black Metal, Candle Holder for Lanterns",
+    "link": "https://www.amazon.de/-/en/sspa/click?ie=UTF8&spc=MToxMzYzNzMyMzI1NTc5OTI0OjE3OTA4MDE5Mzg6c3BfbXRmOjMwMTI4NTkxMzU1NzgzMjo6MDo6&url=%2FLanterns-Black-Metal-Candle-Holder%2Fdp%2FB0H7CKF5NQ%2Fref%3Dsr_1_29_sspa%3Fdib%3DeyJ2IjoiMSJ9.OAdK9UssT3gW1MNmMoMgh_vAJrXg5oF7SbuD0qsl7Y_MZ4vtH_NBybN6LERzMVOvhLPyHdOseVBHg2bv8zHjHufNWqIjLTyciz5tqhj1qloKqpcxnu5Qqiym8XCDI3miaUHyQY3ZAAPzri4l-K8F7gR6X6NXrf4pF6KJLtJiF8wvjK1vCwnFD4CDUp-_JdJr6l2SYztXMwT-YRNewVuAqTwZhArP8xsPNdcz5Beh7Q5VC8fN_N1P0PYBBPaQskuxiXFqV9-bPcaWtQJcpwkjJAubbS4M6KHK2mV-dLK2IpE.HNMKV6NuLNAF72d3VOfZu2QU_tlnLJjLzagLBPtlsbM%26dib_tag%3Dse%26keywords%3DWindlicht%2BLaterne%2BMessing%26qid%3D1790801938%26sr%3D8-29-spons%26aref%3DWzWKqG0v45%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1&aref=WzWKqG0v45&sp_cr=FRA",
+    "link_clean": "https://www.amazon.de/dp/B0H7CKF5NQ/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B0H7CKF5NQ&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/813fO72xYnL._AC_UL320_.jpg",
+    "price": "€20.99",
+    "extracted_price": 20.99,
+    "delivery": [
+     "FREE delivery Mon 5 Oct on eligible first order"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "€20.99",
+      "extracted_primary_price": 20.99
+     }
+    ]
+   },
+   {
+    "position": 30,
+    "asin": "B07VMXKJDX",
+    "title": "House Doctor, Fhia 257740100 Lantern Antique Brass Height 22 cm Diameter 8 cm One Size",
+    "link": "https://www.amazon.de/-/en/House-Doctor-257740100-Lantern-Diameter/dp/B07VMXKJDX/ref=sr_1_30?dib=eyJ2IjoiMSJ9.OAdK9UssT3gW1MNmMoMgh_vAJrXg5oF7SbuD0qsl7Y_MZ4vtH_NBybN6LERzMVOvhLPyHdOseVBHg2bv8zHjHufNWqIjLTyciz5tqhj1qloKqpcxnu5Qqiym8XCDI3miaUHyQY3ZAAPzri4l-K8F7gR6X6NXrf4pF6KJLtJiF8wvjK1vCwnFD4CDUp-_JdJr6l2SYztXMwT-YRNewVuAqTwZhArP8xsPNdcz5Beh7Q5VC8fN_N1P0PYBBPaQskuxiXFqV9-bPcaWtQJcpwkjJAubbS4M6KHK2mV-dLK2IpE.HNMKV6NuLNAF72d3VOfZu2QU_tlnLJjLzagLBPtlsbM&dib_tag=se&keywords=Windlicht+Laterne+Messing&qid=1790801938&sr=8-30",
+    "link_clean": "https://www.amazon.de/-/en/House-Doctor-257740100-Lantern-Diameter/dp/B07VMXKJDX/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B07VMXKJDX&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/51+jc2APOyL._AC_UL320_.jpg",
+    "price": "€19.55",
+    "extracted_price": 19.55,
+    "offers": [
+     "Savings Buy 3, save 5%"
+    ],
+    "delivery": [
+     "FREE delivery 2 - 5 Oct on eligible first order"
+    ],
+    "stock": "Only 8 left in stock.",
+    "purchase_options": [
+     {
+      "primary_price": "€19.55",
+      "extracted_primary_price": 19.55
+     }
+    ]
+   },
+   {
+    "position": 31,
+    "asin": "B0FSD5HDGF",
+    "title": "Lantern 9.5 x 10.5 x 28 cm Garden Lantern Metal Lantern Decorative Candle Holder Candle Holder for Indoor Outdoor Indoor Living Room Garden Balcony Garden Lighting White",
+    "link": "https://www.amazon.de/-/en/Lantern-Decorative-Outdoor-Balcony-Lighting/dp/B0FSD5HDGF/ref=sr_1_31?dib=eyJ2IjoiMSJ9.OAdK9UssT3gW1MNmMoMgh_vAJrXg5oF7SbuD0qsl7Y_MZ4vtH_NBybN6LERzMVOvhLPyHdOseVBHg2bv8zHjHufNWqIjLTyciz5tqhj1qloKqpcxnu5Qqiym8XCDI3miaUHyQY3ZAAPzri4l-K8F7gR6X6NXrf4pF6KJLtJiF8wvjK1vCwnFD4CDUp-_JdJr6l2SYztXMwT-YRNewVuAqTwZhArP8xsPNdcz5Beh7Q5VC8fN_N1P0PYBBPaQskuxiXFqV9-bPcaWtQJcpwkjJAubbS4M6KHK2mV-dLK2IpE.HNMKV6NuLNAF72d3VOfZu2QU_tlnLJjLzagLBPtlsbM&dib_tag=se&keywords=Windlicht+Laterne+Messing&qid=1790801938&sr=8-31",
+    "link_clean": "https://www.amazon.de/-/en/Lantern-Decorative-Outdoor-Balcony-Lighting/dp/B0FSD5HDGF/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B0FSD5HDGF&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/31aV67M9xzL._AC_UL320_.jpg",
+    "rating": 4.1,
+    "reviews": 251,
+    "price": "€11.95",
+    "extracted_price": 11.95,
+    "delivery": [
+     "FREE delivery 2 - 5 Oct on eligible first order"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "€11.95",
+      "extracted_primary_price": 11.95
+     }
+    ]
+   },
+   {
+    "position": 32,
+    "asin": "B07JFNHX9V",
+    "title": "Oriental Nureddin Lantern Made of Real Silver-Plated Brass | Handicrafts from Morocco | Moroccan Lantern Handmade Tea Light Holder | Original Gift Idea Decoration | L8014",
+    "link": "https://www.amazon.de/-/en/Oriental-Nureddin-Silver-Plated-Handicrafts-Decoration/dp/B07JFNHX9V/ref=sr_1_32?dib=eyJ2IjoiMSJ9.OAdK9UssT3gW1MNmMoMgh_vAJrXg5oF7SbuD0qsl7Y_MZ4vtH_NBybN6LERzMVOvhLPyHdOseVBHg2bv8zHjHufNWqIjLTyciz5tqhj1qloKqpcxnu5Qqiym8XCDI3miaUHyQY3ZAAPzri4l-K8F7gR6X6NXrf4pF6KJLtJiF8wvjK1vCwnFD4CDUp-_JdJr6l2SYztXMwT-YRNewVuAqTwZhArP8xsPNdcz5Beh7Q5VC8fN_N1P0PYBBPaQskuxiXFqV9-bPcaWtQJcpwkjJAubbS4M6KHK2mV-dLK2IpE.HNMKV6NuLNAF72d3VOfZu2QU_tlnLJjLzagLBPtlsbM&dib_tag=se&keywords=Windlicht+Laterne+Messing&qid=1790801938&sr=8-32",
+    "link_clean": "https://www.amazon.de/-/en/Oriental-Nureddin-Silver-Plated-Handicrafts-Decoration/dp/B07JFNHX9V/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B07JFNHX9V&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/71P-u1s9FYL._AC_UL320_.jpg",
+    "rating": 4.3,
+    "reviews": 5,
+    "price": "€19.95",
+    "extracted_price": 19.95,
+    "delivery": [
+     "FREE delivery Mon 5 Oct"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "€19.95",
+      "extracted_primary_price": 19.95
+     }
+    ]
+   },
+   {
+    "position": 33,
+    "asin": "B0B3BMHCJZ",
+    "title": "Decorasian Lantern made of seagrass - rattan lantern boho made of wicker for hanging or standing - indoor and outdoor",
+    "link": "https://www.amazon.de/-/en/Decorasian-Lantern-made-seagrass-standing/dp/B0B3BMHCJZ/ref=sr_1_33?dib=eyJ2IjoiMSJ9.OAdK9UssT3gW1MNmMoMgh_vAJrXg5oF7SbuD0qsl7Y_MZ4vtH_NBybN6LERzMVOvhLPyHdOseVBHg2bv8zHjHufNWqIjLTyciz5tqhj1qloKqpcxnu5Qqiym8XCDI3miaUHyQY3ZAAPzri4l-K8F7gR6X6NXrf4pF6KJLtJiF8wvjK1vCwnFD4CDUp-_JdJr6l2SYztXMwT-YRNewVuAqTwZhArP8xsPNdcz5Beh7Q5VC8fN_N1P0PYBBPaQskuxiXFqV9-bPcaWtQJcpwkjJAubbS4M6KHK2mV-dLK2IpE.HNMKV6NuLNAF72d3VOfZu2QU_tlnLJjLzagLBPtlsbM&dib_tag=se&keywords=Windlicht+Laterne+Messing&qid=1790801938&sr=8-33",
+    "link_clean": "https://www.amazon.de/-/en/Decorasian-Lantern-made-seagrass-standing/dp/B0B3BMHCJZ/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B0B3BMHCJZ&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/91CK2lrbufL._AC_UL320_.jpg",
+    "rating": 4.6,
+    "reviews": 214,
+    "bought_last_month": "50+ bought in past month",
+    "price": "€18.90",
+    "extracted_price": 18.9,
+    "delivery": [
+     "FREE delivery 5 - 6 Oct on eligible first order"
+    ],
+    "small_business": true,
+    "purchase_options": [
+     {
+      "primary_price": "€18.90",
+      "extracted_primary_price": 18.9
+     }
+    ]
+   },
+   {
+    "position": 34,
+    "asin": "B08TVSP1H8",
+    "title": "Mojawo Set of 3 Metal Lanterns, Black, Decorative Lanterns in 3 Sizes with Carry Handle, Vintage and Modern Design for Indoor and Outdoor Use, for Candles, LED Candles and Fairy Lights",
+    "link": "https://www.amazon.de/-/en/Mojawo-Lanterns-Decorative-Vintage-Outdoor/dp/B08TVSP1H8/ref=sr_1_34?dib=eyJ2IjoiMSJ9.OAdK9UssT3gW1MNmMoMgh_vAJrXg5oF7SbuD0qsl7Y_MZ4vtH_NBybN6LERzMVOvhLPyHdOseVBHg2bv8zHjHufNWqIjLTyciz5tqhj1qloKqpcxnu5Qqiym8XCDI3miaUHyQY3ZAAPzri4l-K8F7gR6X6NXrf4pF6KJLtJiF8wvjK1vCwnFD4CDUp-_JdJr6l2SYztXMwT-YRNewVuAqTwZhArP8xsPNdcz5Beh7Q5VC8fN_N1P0PYBBPaQskuxiXFqV9-bPcaWtQJcpwkjJAubbS4M6KHK2mV-dLK2IpE.HNMKV6NuLNAF72d3VOfZu2QU_tlnLJjLzagLBPtlsbM&dib_tag=se&keywords=Windlicht+Laterne+Messing&qid=1790801938&sr=8-34",
+    "link_clean": "https://www.amazon.de/-/en/Mojawo-Lanterns-Decorative-Vintage-Outdoor/dp/B08TVSP1H8/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B08TVSP1H8&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/71-iAQ-VAfL._AC_UL320_.jpg",
+    "rating": 4.4,
+    "reviews": 15,
+    "price": "€39.99",
+    "extracted_price": 39.99,
+    "delivery": [
+     "FREE delivery Tue 6 Oct on eligible first order"
+    ],
+    "small_business": true,
+    "purchase_options": [
+     {
+      "primary_price": "€39.99",
+      "extracted_primary_price": 39.99
+     }
+    ]
+   },
+   {
+    "position": 35,
+    "asin": "B07YQ42SQ5",
+    "title": "Casa Moro Nael Oriental Lanterns Transparent Set of 2 16 cm",
+    "link": "https://www.amazon.de/-/en/Casa-Moro-Oriental-Lanterns-Transparent/dp/B07YQ42SQ5/ref=sr_1_35?dib=eyJ2IjoiMSJ9.OAdK9UssT3gW1MNmMoMgh_vAJrXg5oF7SbuD0qsl7Y_MZ4vtH_NBybN6LERzMVOvhLPyHdOseVBHg2bv8zHjHufNWqIjLTyciz5tqhj1qloKqpcxnu5Qqiym8XCDI3miaUHyQY3ZAAPzri4l-K8F7gR6X6NXrf4pF6KJLtJiF8wvjK1vCwnFD4CDUp-_JdJr6l2SYztXMwT-YRNewVuAqTwZhArP8xsPNdcz5Beh7Q5VC8fN_N1P0PYBBPaQskuxiXFqV9-bPcaWtQJcpwkjJAubbS4M6KHK2mV-dLK2IpE.HNMKV6NuLNAF72d3VOfZu2QU_tlnLJjLzagLBPtlsbM&dib_tag=se&keywords=Windlicht+Laterne+Messing&qid=1790801938&sr=8-35",
+    "link_clean": "https://www.amazon.de/-/en/Casa-Moro-Oriental-Lanterns-Transparent/dp/B07YQ42SQ5/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B07YQ42SQ5&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/71f8adyuYAL._AC_UL320_.jpg",
+    "rating": 5.0,
+    "reviews": 1,
+    "price": "€19.95",
+    "extracted_price": 19.95,
+    "delivery": [
+     "FREE delivery Tue 6 Oct on eligible first order"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "€19.95",
+      "extracted_primary_price": 19.95
+     }
+    ]
+   },
+   {
+    "position": 36,
+    "asin": "B0FTFMNC49",
+    "title": "Rustic Garden Shed Lantern Metal Vintage Rust Look 38 cm Height Decorative House",
+    "link": "https://www.amazon.de/-/en/Rustic-Garden-Lantern-Vintage-Decorative/dp/B0FTFMNC49/ref=sr_1_36?dib=eyJ2IjoiMSJ9.OAdK9UssT3gW1MNmMoMgh_vAJrXg5oF7SbuD0qsl7Y_MZ4vtH_NBybN6LERzMVOvhLPyHdOseVBHg2bv8zHjHufNWqIjLTyciz5tqhj1qloKqpcxnu5Qqiym8XCDI3miaUHyQY3ZAAPzri4l-K8F7gR6X6NXrf4pF6KJLtJiF8wvjK1vCwnFD4CDUp-_JdJr6l2SYztXMwT-YRNewVuAqTwZhArP8xsPNdcz5Beh7Q5VC8fN_N1P0PYBBPaQskuxiXFqV9-bPcaWtQJcpwkjJAubbS4M6KHK2mV-dLK2IpE.HNMKV6NuLNAF72d3VOfZu2QU_tlnLJjLzagLBPtlsbM&dib_tag=se&keywords=Windlicht+Laterne+Messing&qid=1790801938&sr=8-36",
+    "link_clean": "https://www.amazon.de/-/en/Rustic-Garden-Lantern-Vintage-Decorative/dp/B0FTFMNC49/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B0FTFMNC49&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/71tIgKrKqzL._AC_UL320_.jpg",
+    "rating": 5.0,
+    "reviews": 1,
+    "price": "€20.00",
+    "extracted_price": 20.0,
+    "delivery": [
+     "FREE delivery Tue 6 Oct on eligible first order"
+    ],
+    "stock": "Only 4 left in stock.",
+    "small_business": true,
+    "purchase_options": [
+     {
+      "primary_price": "€20.00",
+      "extracted_primary_price": 20.0
+     }
+    ]
+   },
+   {
+    "position": 37,
+    "asin": "B0CV4KHKK1",
+    "title": "Genuine Brass Candle Lantern 6.5\"",
+    "link": "https://www.amazon.de/-/en/Genuine-Brass-Candle-Lantern-6-5/dp/B0CV4KHKK1/ref=sr_1_37?dib=eyJ2IjoiMSJ9.OAdK9UssT3gW1MNmMoMgh_vAJrXg5oF7SbuD0qsl7Y_MZ4vtH_NBybN6LERzMVOvhLPyHdOseVBHg2bv8zHjHufNWqIjLTyciz5tqhj1qloKqpcxnu5Qqiym8XCDI3miaUHyQY3ZAAPzri4l-K8F7gR6X6NXrf4pF6KJLtJiF8wvjK1vCwnFD4CDUp-_JdJr6l2SYztXMwT-YRNewVuAqTwZhArP8xsPNdcz5Beh7Q5VC8fN_N1P0PYBBPaQskuxiXFqV9-bPcaWtQJcpwkjJAubbS4M6KHK2mV-dLK2IpE.HNMKV6NuLNAF72d3VOfZu2QU_tlnLJjLzagLBPtlsbM&dib_tag=se&keywords=Windlicht+Laterne+Messing&qid=1790801938&sr=8-37",
+    "link_clean": "https://www.amazon.de/-/en/Genuine-Brass-Candle-Lantern-6-5/dp/B0CV4KHKK1/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B0CV4KHKK1&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/61Tq3r9lEzL._AC_UL320_.jpg",
+    "rating": 4.7,
+    "reviews": 29,
+    "price": "€61.99",
+    "extracted_price": 61.99,
+    "delivery": [
+     "FREE delivery Mon 5 Oct",
+     "Or fastest delivery Fri 2 Oct"
+    ],
+    "stock": "Only 5 left in stock.",
+    "purchase_options": [
+     {
+      "primary_price": "€61.99",
+      "extracted_primary_price": 61.99
+     }
+    ]
+   },
+   {
+    "position": 38,
+    "asin": "B01M9K8P95",
+    "title": "GURU SHOP Glass Lantern, Tealight Holder Brass Yellow 10 x 5.5 x 5.5 cm, Oriental Lanterns",
+    "link": "https://www.amazon.de/-/en/GURU-SHOP-Tealight-Oriental-Lanterns/dp/B01M9K8P95/ref=sr_1_38?dib=eyJ2IjoiMSJ9.OAdK9UssT3gW1MNmMoMgh_vAJrXg5oF7SbuD0qsl7Y_MZ4vtH_NBybN6LERzMVOvhLPyHdOseVBHg2bv8zHjHufNWqIjLTyciz5tqhj1qloKqpcxnu5Qqiym8XCDI3miaUHyQY3ZAAPzri4l-K8F7gR6X6NXrf4pF6KJLtJiF8wvjK1vCwnFD4CDUp-_JdJr6l2SYztXMwT-YRNewVuAqTwZhArP8xsPNdcz5Beh7Q5VC8fN_N1P0PYBBPaQskuxiXFqV9-bPcaWtQJcpwkjJAubbS4M6KHK2mV-dLK2IpE.HNMKV6NuLNAF72d3VOfZu2QU_tlnLJjLzagLBPtlsbM&dib_tag=se&keywords=Windlicht+Laterne+Messing&qid=1790801938&sr=8-38",
+    "link_clean": "https://www.amazon.de/-/en/GURU-SHOP-Tealight-Oriental-Lanterns/dp/B01M9K8P95/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B01M9K8P95&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/616XCnD+VZL._AC_UL320_.jpg",
+    "rating": 3.0,
+    "reviews": 2,
+    "price": "€7.90",
+    "extracted_price": 7.9,
+    "delivery": [
+     "FREE delivery Tue 6 Oct on eligible first order"
+    ],
+    "stock": "Only 3 left in stock.",
+    "purchase_options": [
+     {
+      "primary_price": "€7.90",
+      "extracted_primary_price": 7.9
+     }
+    ]
+   },
+   {
+    "position": 39,
+    "asin": "B01MDVNBP6",
+    "title": "GURU SHOP Glass Lantern Tea Light Holder Brass Red",
+    "link": "https://www.amazon.de/-/en/GURU-SHOP-Glass-Lantern-Holder/dp/B01MDVNBP6/ref=sr_1_39?dib=eyJ2IjoiMSJ9.OAdK9UssT3gW1MNmMoMgh_vAJrXg5oF7SbuD0qsl7Y_MZ4vtH_NBybN6LERzMVOvhLPyHdOseVBHg2bv8zHjHufNWqIjLTyciz5tqhj1qloKqpcxnu5Qqiym8XCDI3miaUHyQY3ZAAPzri4l-K8F7gR6X6NXrf4pF6KJLtJiF8wvjK1vCwnFD4CDUp-_JdJr6l2SYztXMwT-YRNewVuAqTwZhArP8xsPNdcz5Beh7Q5VC8fN_N1P0PYBBPaQskuxiXFqV9-bPcaWtQJcpwkjJAubbS4M6KHK2mV-dLK2IpE.HNMKV6NuLNAF72d3VOfZu2QU_tlnLJjLzagLBPtlsbM&dib_tag=se&keywords=Windlicht+Laterne+Messing&qid=1790801938&sr=8-39",
+    "link_clean": "https://www.amazon.de/-/en/GURU-SHOP-Glass-Lantern-Holder/dp/B01MDVNBP6/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B01MDVNBP6&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/51XicykxHCL._AC_UL320_.jpg",
+    "rating": 4.2,
+    "reviews": 9,
+    "price": "€7.90",
+    "extracted_price": 7.9,
+    "delivery": [
+     "FREE delivery Tue 6 Oct on eligible first order"
+    ],
+    "stock": "Only 20 left in stock.",
+    "purchase_options": [
+     {
+      "primary_price": "€7.90",
+      "extracted_primary_price": 7.9
+     }
+    ]
+   },
+   {
+    "position": 40,
+    "asin": "B0CRX7R8TG",
+    "title": "Lantern made of seagrass, height 35 cm, with glass lantern, boho wicker inside or outside",
+    "link": "https://www.amazon.de/-/en/Lantern-seagrass-height-lantern-outside/dp/B0CRX7R8TG/ref=sr_1_40?dib=eyJ2IjoiMSJ9.OAdK9UssT3gW1MNmMoMgh_vAJrXg5oF7SbuD0qsl7Y_MZ4vtH_NBybN6LERzMVOvhLPyHdOseVBHg2bv8zHjHufNWqIjLTyciz5tqhj1qloKqpcxnu5Qqiym8XCDI3miaUHyQY3ZAAPzri4l-K8F7gR6X6NXrf4pF6KJLtJiF8wvjK1vCwnFD4CDUp-_JdJr6l2SYztXMwT-YRNewVuAqTwZhArP8xsPNdcz5Beh7Q5VC8fN_N1P0PYBBPaQskuxiXFqV9-bPcaWtQJcpwkjJAubbS4M6KHK2mV-dLK2IpE.HNMKV6NuLNAF72d3VOfZu2QU_tlnLJjLzagLBPtlsbM&dib_tag=se&keywords=Windlicht+Laterne+Messing&qid=1790801938&sr=8-40",
+    "link_clean": "https://www.amazon.de/-/en/Lantern-seagrass-height-lantern-outside/dp/B0CRX7R8TG/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B0CRX7R8TG&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/81wRRef4opL._AC_UL320_.jpg",
+    "rating": 5.0,
+    "reviews": 2,
+    "price": "€14.95",
+    "extracted_price": 14.95,
+    "delivery": [
+     "FREE delivery Tue 6 Oct on eligible first order"
+    ],
+    "stock": "Only 4 left in stock.",
+    "purchase_options": [
+     {
+      "primary_price": "€14.95",
+      "extracted_primary_price": 14.95
+     }
+    ]
+   },
+   {
+    "position": 41,
+    "asin": "B07P857LGK",
+    "title": "Atmosphera Createur D'Interior-Rania Rattan Lantern 14 x 16 cm",
+    "link": "https://www.amazon.de/-/en/Atmosphera-Createur-DInterior-Rania-Rattan-Lantern/dp/B07P857LGK/ref=sr_1_41?dib=eyJ2IjoiMSJ9.OAdK9UssT3gW1MNmMoMgh_vAJrXg5oF7SbuD0qsl7Y_MZ4vtH_NBybN6LERzMVOvhLPyHdOseVBHg2bv8zHjHufNWqIjLTyciz5tqhj1qloKqpcxnu5Qqiym8XCDI3miaUHyQY3ZAAPzri4l-K8F7gR6X6NXrf4pF6KJLtJiF8wvjK1vCwnFD4CDUp-_JdJr6l2SYztXMwT-YRNewVuAqTwZhArP8xsPNdcz5Beh7Q5VC8fN_N1P0PYBBPaQskuxiXFqV9-bPcaWtQJcpwkjJAubbS4M6KHK2mV-dLK2IpE.HNMKV6NuLNAF72d3VOfZu2QU_tlnLJjLzagLBPtlsbM&dib_tag=se&keywords=Windlicht+Laterne+Messing&qid=1790801938&sr=8-41",
+    "link_clean": "https://www.amazon.de/-/en/Atmosphera-Createur-DInterior-Rania-Rattan-Lantern/dp/B07P857LGK/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B07P857LGK&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/61ynbPX9htL._AC_UL320_.jpg",
+    "rating": 4.0,
+    "reviews": 77,
+    "price": "€13.99",
+    "extracted_price": 13.99,
+    "delivery": [
+     "FREE delivery Mon 5 Oct on eligible first order",
+     "Or fastest delivery Fri 2 Oct"
+    ],
+    "stock": "Only 2 left in stock (more on the way).",
+    "more_buying_choices": "€11.73 (5 used & new offers)",
+    "more_buying_choices_link": "https://www.amazon.de/-/en/gp/offer-listing/B07P857LGK/ref=sr_1_41_olp?keywords=Windlicht+Laterne+Messing&dib_tag=se&dib=eyJ2IjoiMSJ9.OAdK9UssT3gW1MNmMoMgh_vAJrXg5oF7SbuD0qsl7Y_MZ4vtH_NBybN6LERzMVOvhLPyHdOseVBHg2bv8zHjHufNWqIjLTyciz5tqhj1qloKqpcxnu5Qqiym8XCDI3miaUHyQY3ZAAPzri4l-K8F7gR6X6NXrf4pF6KJLtJiF8wvjK1vCwnFD4CDUp-_JdJr6l2SYztXMwT-YRNewVuAqTwZhArP8xsPNdcz5Beh7Q5VC8fN_N1P0PYBBPaQskuxiXFqV9-bPcaWtQJcpwkjJAubbS4M6KHK2mV-dLK2IpE.HNMKV6NuLNAF72d3VOfZu2QU_tlnLJjLzagLBPtlsbM&qid=1790801938&sr=8-41",
+    "purchase_options": [
+     {
+      "primary_price": "€13.99",
+      "extracted_primary_price": 13.99,
+      "more_buying_choices": "€11.73 (5 used & new offers)",
+      "more_buying_choices_link": "https://www.amazon.de/-/en/gp/offer-listing/B07P857LGK/ref=sr_1_41_olp?keywords=Windlicht+Laterne+Messing&dib_tag=se&dib=eyJ2IjoiMSJ9.OAdK9UssT3gW1MNmMoMgh_vAJrXg5oF7SbuD0qsl7Y_MZ4vtH_NBybN6LERzMVOvhLPyHdOseVBHg2bv8zHjHufNWqIjLTyciz5tqhj1qloKqpcxnu5Qqiym8XCDI3miaUHyQY3ZAAPzri4l-K8F7gR6X6NXrf4pF6KJLtJiF8wvjK1vCwnFD4CDUp-_JdJr6l2SYztXMwT-YRNewVuAqTwZhArP8xsPNdcz5Beh7Q5VC8fN_N1P0PYBBPaQskuxiXFqV9-bPcaWtQJcpwkjJAubbS4M6KHK2mV-dLK2IpE.HNMKV6NuLNAF72d3VOfZu2QU_tlnLJjLzagLBPtlsbM&qid=1790801938&sr=8-41"
+     }
+    ]
+   },
+   {
+    "position": 42,
+    "asin": "B07MXKJKT4",
+    "title": "Oriental Glass Star Handmade Moroccan Design Model 2",
+    "link": "https://www.amazon.de/-/en/Oriental-Glass-Handmade-Moroccan-Design/dp/B07MXKJKT4/ref=sr_1_42?dib=eyJ2IjoiMSJ9.OAdK9UssT3gW1MNmMoMgh_vAJrXg5oF7SbuD0qsl7Y_MZ4vtH_NBybN6LERzMVOvhLPyHdOseVBHg2bv8zHjHufNWqIjLTyciz5tqhj1qloKqpcxnu5Qqiym8XCDI3miaUHyQY3ZAAPzri4l-K8F7gR6X6NXrf4pF6KJLtJiF8wvjK1vCwnFD4CDUp-_JdJr6l2SYztXMwT-YRNewVuAqTwZhArP8xsPNdcz5Beh7Q5VC8fN_N1P0PYBBPaQskuxiXFqV9-bPcaWtQJcpwkjJAubbS4M6KHK2mV-dLK2IpE.HNMKV6NuLNAF72d3VOfZu2QU_tlnLJjLzagLBPtlsbM&dib_tag=se&keywords=Windlicht+Laterne+Messing&qid=1790801938&sr=8-42",
+    "link_clean": "https://www.amazon.de/-/en/Oriental-Glass-Handmade-Moroccan-Design/dp/B07MXKJKT4/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B07MXKJKT4&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/61p7nEOiFLL._AC_UL320_.jpg",
+    "rating": 4.4,
+    "reviews": 2,
+    "price": "€20.30",
+    "extracted_price": 20.3,
+    "delivery": [
+     "FREE delivery Tue 6 Oct on eligible first order"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "€20.30",
+      "extracted_primary_price": 20.3
+     }
+    ]
+   },
+   {
+    "position": 43,
+    "asin": "B0G4M6LGNZ",
+    "title": "NUPTIO Lantern Black Living Room Decoration: 2 Candle Holders Lanterns",
+    "link": "https://www.amazon.de/-/en/NUPTIO-Lantern-Black-Living-Decoration/dp/B0G4M6LGNZ/ref=sr_1_43?dib=eyJ2IjoiMSJ9.OAdK9UssT3gW1MNmMoMgh_vAJrXg5oF7SbuD0qsl7Y_MZ4vtH_NBybN6LERzMVOvhLPyHdOseVBHg2bv8zHjHufNWqIjLTyciz5tqhj1qloKqpcxnu5Qqiym8XCDI3miaUHyQY3ZAAPzri4l-K8F7gR6X6NXrf4pF6KJLtJiF8wvjK1vCwnFD4CDUp-_JdJr6l2SYztXMwT-YRNewVuAqTwZhArP8xsPNdcz5Beh7Q5VC8fN_N1P0PYBBPaQskuxiXFqV9-bPcaWtQJcpwkjJAubbS4M6KHK2mV-dLK2IpE.HNMKV6NuLNAF72d3VOfZu2QU_tlnLJjLzagLBPtlsbM&dib_tag=se&keywords=Windlicht+Laterne+Messing&qid=1790801938&sr=8-43",
+    "link_clean": "https://www.amazon.de/-/en/NUPTIO-Lantern-Black-Living-Decoration/dp/B0G4M6LGNZ/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B0G4M6LGNZ&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/61ek1H0zCUL._AC_UL320_.jpg",
+    "rating": 4.6,
+    "reviews": 170,
+    "bought_last_month": "50+ bought in past month",
+    "price": "€33.98",
+    "extracted_price": 33.98,
+    "delivery": [
+     "FREE delivery Mon 5 Oct on eligible first order",
+     "Or fastest delivery Fri 2 Oct"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "€33.98",
+      "extracted_primary_price": 33.98
+     }
+    ]
+   },
+   {
+    "position": 44,
+    "asin": "B07YPS8KTH",
+    "title": "Nael Multi Oriental Lanterns Set of 2 Metal and with Relief Glasses Colourful Height 16 cm Moroccan Glass Lantern in Antique Brass Look Ramadan Decoration WDL1020",
+    "link": "https://www.amazon.de/-/en/Oriental-Lanterns-Colourful-Moroccan-Decoration/dp/B07YPS8KTH/ref=sr_1_44?dib=eyJ2IjoiMSJ9.OAdK9UssT3gW1MNmMoMgh_vAJrXg5oF7SbuD0qsl7Y_MZ4vtH_NBybN6LERzMVOvhLPyHdOseVBHg2bv8zHjHufNWqIjLTyciz5tqhj1qloKqpcxnu5Qqiym8XCDI3miaUHyQY3ZAAPzri4l-K8F7gR6X6NXrf4pF6KJLtJiF8wvjK1vCwnFD4CDUp-_JdJr6l2SYztXMwT-YRNewVuAqTwZhArP8xsPNdcz5Beh7Q5VC8fN_N1P0PYBBPaQskuxiXFqV9-bPcaWtQJcpwkjJAubbS4M6KHK2mV-dLK2IpE.HNMKV6NuLNAF72d3VOfZu2QU_tlnLJjLzagLBPtlsbM&dib_tag=se&keywords=Windlicht+Laterne+Messing&qid=1790801938&sr=8-44",
+    "link_clean": "https://www.amazon.de/-/en/Oriental-Lanterns-Colourful-Moroccan-Decoration/dp/B07YPS8KTH/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B07YPS8KTH&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/71uOaT5AGiL._AC_UL320_.jpg",
+    "price": "€22.95",
+    "extracted_price": 22.95,
+    "delivery": [
+     "FREE delivery Tue 6 Oct on eligible first order"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "€22.95",
+      "extracted_primary_price": 22.95
+     }
+    ]
+   },
+   {
+    "position": 45,
+    "asin": "B097JKRLHR",
+    "title": "Sziqiqi Vintage Wooden Lantern for Outdoor and Indoor Use, 28 cm, Antique",
+    "link": "https://www.amazon.de/-/en/Sziqiqi-Vintage-Lantern-Outdoor-Antique/dp/B097JKRLHR/ref=sr_1_45?dib=eyJ2IjoiMSJ9.OAdK9UssT3gW1MNmMoMgh_vAJrXg5oF7SbuD0qsl7Y_MZ4vtH_NBybN6LERzMVOvhLPyHdOseVBHg2bv8zHjHufNWqIjLTyciz5tqhj1qloKqpcxnu5Qqiym8XCDI3miaUHyQY3ZAAPzri4l-K8F7gR6X6NXrf4pF6KJLtJiF8wvjK1vCwnFD4CDUp-_JdJr6l2SYztXMwT-YRNewVuAqTwZhArP8xsPNdcz5Beh7Q5VC8fN_N1P0PYBBPaQskuxiXFqV9-bPcaWtQJcpwkjJAubbS4M6KHK2mV-dLK2IpE.HNMKV6NuLNAF72d3VOfZu2QU_tlnLJjLzagLBPtlsbM&dib_tag=se&keywords=Windlicht+Laterne+Messing&qid=1790801938&sr=8-45",
+    "link_clean": "https://www.amazon.de/-/en/Sziqiqi-Vintage-Lantern-Outdoor-Antique/dp/B097JKRLHR/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B097JKRLHR&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/613HMIYF7WL._AC_UL320_.jpg",
+    "rating": 4.6,
+    "reviews": 790,
+    "price": "€24.98",
+    "extracted_price": 24.98,
+    "delivery": [
+     "FREE delivery Mon 5 Oct on eligible first order",
+     "Or fastest delivery Fri 2 Oct"
+    ],
+    "more_buying_choices": "€19.98 (2 used & new offers)",
+    "more_buying_choices_link": "https://www.amazon.de/-/en/gp/offer-listing/B097JKRLHR/ref=sr_1_45_olp?keywords=Windlicht+Laterne+Messing&dib_tag=se&dib=eyJ2IjoiMSJ9.OAdK9UssT3gW1MNmMoMgh_vAJrXg5oF7SbuD0qsl7Y_MZ4vtH_NBybN6LERzMVOvhLPyHdOseVBHg2bv8zHjHufNWqIjLTyciz5tqhj1qloKqpcxnu5Qqiym8XCDI3miaUHyQY3ZAAPzri4l-K8F7gR6X6NXrf4pF6KJLtJiF8wvjK1vCwnFD4CDUp-_JdJr6l2SYztXMwT-YRNewVuAqTwZhArP8xsPNdcz5Beh7Q5VC8fN_N1P0PYBBPaQskuxiXFqV9-bPcaWtQJcpwkjJAubbS4M6KHK2mV-dLK2IpE.HNMKV6NuLNAF72d3VOfZu2QU_tlnLJjLzagLBPtlsbM&qid=1790801938&sr=8-45",
+    "purchase_options": [
+     {
+      "primary_price": "€24.98",
+      "extracted_primary_price": 24.98,
+      "more_buying_choices": "€19.98 (2 used & new offers)",
+      "more_buying_choices_link": "https://www.amazon.de/-/en/gp/offer-listing/B097JKRLHR/ref=sr_1_45_olp?keywords=Windlicht+Laterne+Messing&dib_tag=se&dib=eyJ2IjoiMSJ9.OAdK9UssT3gW1MNmMoMgh_vAJrXg5oF7SbuD0qsl7Y_MZ4vtH_NBybN6LERzMVOvhLPyHdOseVBHg2bv8zHjHufNWqIjLTyciz5tqhj1qloKqpcxnu5Qqiym8XCDI3miaUHyQY3ZAAPzri4l-K8F7gR6X6NXrf4pF6KJLtJiF8wvjK1vCwnFD4CDUp-_JdJr6l2SYztXMwT-YRNewVuAqTwZhArP8xsPNdcz5Beh7Q5VC8fN_N1P0PYBBPaQskuxiXFqV9-bPcaWtQJcpwkjJAubbS4M6KHK2mV-dLK2IpE.HNMKV6NuLNAF72d3VOfZu2QU_tlnLJjLzagLBPtlsbM&qid=1790801938&sr=8-45"
+     }
+    ]
+   },
+   {
+    "position": 46,
+    "asin": "B0FSD56B2M",
+    "title": "Lantern 25 x 25 x 77 cm Garden Lantern XXL Metal Lantern Decorative Candle Holder Candle Holder for Indoor Outdoor Indoor Living Room Garden Balcony Garden Lighting Gold",
+    "link": "https://www.amazon.de/-/en/Lantern-Decorative-Outdoor-Balcony-Lighting/dp/B0FSD56B2M/ref=sr_1_46?dib=eyJ2IjoiMSJ9.OAdK9UssT3gW1MNmMoMgh_vAJrXg5oF7SbuD0qsl7Y_MZ4vtH_NBybN6LERzMVOvhLPyHdOseVBHg2bv8zHjHufNWqIjLTyciz5tqhj1qloKqpcxnu5Qqiym8XCDI3miaUHyQY3ZAAPzri4l-K8F7gR6X6NXrf4pF6KJLtJiF8wvjK1vCwnFD4CDUp-_JdJr6l2SYztXMwT-YRNewVuAqTwZhArP8xsPNdcz5Beh7Q5VC8fN_N1P0PYBBPaQskuxiXFqV9-bPcaWtQJcpwkjJAubbS4M6KHK2mV-dLK2IpE.HNMKV6NuLNAF72d3VOfZu2QU_tlnLJjLzagLBPtlsbM&dib_tag=se&keywords=Windlicht+Laterne+Messing&qid=1790801938&sr=8-46",
+    "link_clean": "https://www.amazon.de/-/en/Lantern-Decorative-Outdoor-Balcony-Lighting/dp/B0FSD56B2M/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B0FSD56B2M&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/51Z96dqTp2L._AC_UL320_.jpg",
+    "rating": 4.1,
+    "reviews": 251,
+    "price": "€39.95",
+    "extracted_price": 39.95,
+    "delivery": [
+     "FREE delivery 2 - 5 Oct on eligible first order"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "€39.95",
+      "extracted_primary_price": 39.95
+     }
+    ]
+   },
+   {
+    "position": 47,
+    "asin": "B0GWLV93N1",
+    "title": "Pack of 3 Outdoor Lanterns, Glass Candle Holder with Glass Cylinder",
+    "link": "https://www.amazon.de/-/en/Outdoor-Lanterns-Candle-Holder-Cylinder/dp/B0GWLV93N1/ref=sr_1_47?dib=eyJ2IjoiMSJ9.OAdK9UssT3gW1MNmMoMgh_vAJrXg5oF7SbuD0qsl7Y_MZ4vtH_NBybN6LERzMVOvhLPyHdOseVBHg2bv8zHjHufNWqIjLTyciz5tqhj1qloKqpcxnu5Qqiym8XCDI3miaUHyQY3ZAAPzri4l-K8F7gR6X6NXrf4pF6KJLtJiF8wvjK1vCwnFD4CDUp-_JdJr6l2SYztXMwT-YRNewVuAqTwZhArP8xsPNdcz5Beh7Q5VC8fN_N1P0PYBBPaQskuxiXFqV9-bPcaWtQJcpwkjJAubbS4M6KHK2mV-dLK2IpE.HNMKV6NuLNAF72d3VOfZu2QU_tlnLJjLzagLBPtlsbM&dib_tag=se&keywords=Windlicht+Laterne+Messing&qid=1790801938&sr=8-47",
+    "link_clean": "https://www.amazon.de/-/en/Outdoor-Lanterns-Candle-Holder-Cylinder/dp/B0GWLV93N1/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B0GWLV93N1&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/71PYiUTgUYL._AC_UL320_.jpg",
+    "rating": 4.7,
+    "reviews": 11,
+    "price": "€35.99",
+    "extracted_price": 35.99,
+    "delivery": [
+     "FREE delivery Mon 5 Oct on eligible first order",
+     "Or fastest delivery Fri 2 Oct"
+    ],
+    "stock": "Only 18 left in stock.",
+    "purchase_options": [
+     {
+      "primary_price": "€35.99",
+      "extracted_primary_price": 35.99
+     }
+    ]
+   },
+   {
+    "position": 48,
+    "asin": "B07YQ1CLV8",
+    "title": "Ramadan Nael Multi Set of 4 Lanterns, Metal, Relief Glass, Colourful, Height 16 cm, Moroccan Glass Lantern, Set of 4 in Antique Brass Look for Ramadan Decoration, Indoor and Outdoor WDL1040",
+    "link": "https://www.amazon.de/-/en/Ramadan-Lanterns-Colourful-Moroccan-Decoration/dp/B07YQ1CLV8/ref=sr_1_48?dib=eyJ2IjoiMSJ9.OAdK9UssT3gW1MNmMoMgh_vAJrXg5oF7SbuD0qsl7Y_MZ4vtH_NBybN6LERzMVOvhLPyHdOseVBHg2bv8zHjHufNWqIjLTyciz5tqhj1qloKqpcxnu5Qqiym8XCDI3miaUHyQY3ZAAPzri4l-K8F7gR6X6NXrf4pF6KJLtJiF8wvjK1vCwnFD4CDUp-_JdJr6l2SYztXMwT-YRNewVuAqTwZhArP8xsPNdcz5Beh7Q5VC8fN_N1P0PYBBPaQskuxiXFqV9-bPcaWtQJcpwkjJAubbS4M6KHK2mV-dLK2IpE.HNMKV6NuLNAF72d3VOfZu2QU_tlnLJjLzagLBPtlsbM&dib_tag=se&keywords=Windlicht+Laterne+Messing&qid=1790801938&sr=8-48",
+    "link_clean": "https://www.amazon.de/-/en/Ramadan-Lanterns-Colourful-Moroccan-Decoration/dp/B07YQ1CLV8/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B07YQ1CLV8&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/71UmgMLxLqL._AC_UL320_.jpg",
+    "price": "€31.95",
+    "extracted_price": 31.95,
+    "delivery": [
+     "FREE delivery Mon 5 Oct"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "€31.95",
+      "extracted_primary_price": 31.95
+     }
+    ]
+   },
+   {
+    "position": 49,
+    "asin": "B09KM9CSBH",
+    "title": "SEVICO Lantern XL Set of 3 Garden Lanterns Metal Lantern Decorative Candle Holder Candle Holder Candle Holder for Outdoor Living Room Garden Balcony Indoor Indoor",
+    "link": "https://www.amazon.de/-/en/SEVICO-Lantern-Lanterns-Decorative-Outdoor/dp/B09KM9CSBH/ref=sr_1_49?dib=eyJ2IjoiMSJ9.OAdK9UssT3gW1MNmMoMgh_vAJrXg5oF7SbuD0qsl7Y_MZ4vtH_NBybN6LERzMVOvhLPyHdOseVBHg2bv8zHjHufNWqIjLTyciz5tqhj1qloKqpcxnu5Qqiym8XCDI3miaUHyQY3ZAAPzri4l-K8F7gR6X6NXrf4pF6KJLtJiF8wvjK1vCwnFD4CDUp-_JdJr6l2SYztXMwT-YRNewVuAqTwZhArP8xsPNdcz5Beh7Q5VC8fN_N1P0PYBBPaQskuxiXFqV9-bPcaWtQJcpwkjJAubbS4M6KHK2mV-dLK2IpE.HNMKV6NuLNAF72d3VOfZu2QU_tlnLJjLzagLBPtlsbM&dib_tag=se&keywords=Windlicht+Laterne+Messing&qid=1790801938&sr=8-49",
+    "link_clean": "https://www.amazon.de/-/en/SEVICO-Lantern-Lanterns-Decorative-Outdoor/dp/B09KM9CSBH/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B09KM9CSBH&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/816Mvurrj9L._AC_UL320_.jpg",
+    "rating": 4.4,
+    "reviews": 151,
+    "price": "€64.95",
+    "extracted_price": 64.95,
+    "delivery": [
+     "FREE delivery 2 - 5 Oct on eligible first order"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "€64.95",
+      "extracted_primary_price": 64.95
+     }
+    ]
+   },
+   {
+    "position": 50,
+    "asin": "B09MM92QT1",
+    "title": "Dekovita Set of 2 Lanterns in Black 30 cm / 42 cm - Garden Lantern with Glass Panels and Faux Leather Handle - Metal Decorative Lantern",
+    "link": "https://www.amazon.de/-/en/Dekovita-Set-Lanterns-Black-Decorative/dp/B09MM92QT1/ref=sr_1_50?dib=eyJ2IjoiMSJ9.OAdK9UssT3gW1MNmMoMgh_vAJrXg5oF7SbuD0qsl7Y_MZ4vtH_NBybN6LERzMVOvhLPyHdOseVBHg2bv8zHjHufNWqIjLTyciz5tqhj1qloKqpcxnu5Qqiym8XCDI3miaUHyQY3ZAAPzri4l-K8F7gR6X6NXrf4pF6KJLtJiF8wvjK1vCwnFD4CDUp-_JdJr6l2SYztXMwT-YRNewVuAqTwZhArP8xsPNdcz5Beh7Q5VC8fN_N1P0PYBBPaQskuxiXFqV9-bPcaWtQJcpwkjJAubbS4M6KHK2mV-dLK2IpE.HNMKV6NuLNAF72d3VOfZu2QU_tlnLJjLzagLBPtlsbM&dib_tag=se&keywords=Windlicht+Laterne+Messing&qid=1790801938&sr=8-50",
+    "link_clean": "https://www.amazon.de/-/en/Dekovita-Set-Lanterns-Black-Decorative/dp/B09MM92QT1/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B09MM92QT1&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/61ksYzMUV+L._AC_UL320_.jpg",
+    "rating": 4.1,
+    "reviews": 165,
+    "bought_last_month": "50+ bought in past month",
+    "price": "€46.99",
+    "extracted_price": 46.99,
+    "delivery": [
+     "FREE delivery Thu 8 Oct on eligible first order",
+     "Or fastest delivery Tue 6 Oct"
+    ],
+    "stock": "Only 6 left in stock.",
+    "small_business": true,
+    "purchase_options": [
+     {
+      "primary_price": "€46.99",
+      "extracted_primary_price": 46.99
+     }
+    ]
+   },
+   {
+    "position": 51,
+    "asin": "B0FBX38WBC",
+    "title": "Frank Flechtwaren Stag Lantern Metal Rust Finish Diameter 12 x 26 cm",
+    "link": "https://www.amazon.de/-/en/Frank-Flechtwaren-Lantern-Finish-Diameter/dp/B0FBX38WBC/ref=sr_1_51?dib=eyJ2IjoiMSJ9.OAdK9UssT3gW1MNmMoMgh_vAJrXg5oF7SbuD0qsl7Y_MZ4vtH_NBybN6LERzMVOvhLPyHdOseVBHg2bv8zHjHufNWqIjLTyciz5tqhj1qloKqpcxnu5Qqiym8XCDI3miaUHyQY3ZAAPzri4l-K8F7gR6X6NXrf4pF6KJLtJiF8wvjK1vCwnFD4CDUp-_JdJr6l2SYztXMwT-YRNewVuAqTwZhArP8xsPNdcz5Beh7Q5VC8fN_N1P0PYBBPaQskuxiXFqV9-bPcaWtQJcpwkjJAubbS4M6KHK2mV-dLK2IpE.HNMKV6NuLNAF72d3VOfZu2QU_tlnLJjLzagLBPtlsbM&dib_tag=se&keywords=Windlicht+Laterne+Messing&qid=1790801938&sr=8-51",
+    "link_clean": "https://www.amazon.de/-/en/Frank-Flechtwaren-Lantern-Finish-Diameter/dp/B0FBX38WBC/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B0FBX38WBC&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/612UGYMIVKL._AC_UL320_.jpg",
+    "rating": 5.0,
+    "reviews": 12,
+    "price": "€21.49",
+    "extracted_price": 21.49,
+    "delivery": [
+     "FREE delivery Mon 5 Oct on eligible first order"
+    ],
+    "more_buying_choices": "€19.90 (2 new offers)",
+    "more_buying_choices_link": "https://www.amazon.de/-/en/gp/offer-listing/B0FBX38WBC/ref=sr_1_51_olp?keywords=Windlicht+Laterne+Messing&dib_tag=se&dib=eyJ2IjoiMSJ9.OAdK9UssT3gW1MNmMoMgh_vAJrXg5oF7SbuD0qsl7Y_MZ4vtH_NBybN6LERzMVOvhLPyHdOseVBHg2bv8zHjHufNWqIjLTyciz5tqhj1qloKqpcxnu5Qqiym8XCDI3miaUHyQY3ZAAPzri4l-K8F7gR6X6NXrf4pF6KJLtJiF8wvjK1vCwnFD4CDUp-_JdJr6l2SYztXMwT-YRNewVuAqTwZhArP8xsPNdcz5Beh7Q5VC8fN_N1P0PYBBPaQskuxiXFqV9-bPcaWtQJcpwkjJAubbS4M6KHK2mV-dLK2IpE.HNMKV6NuLNAF72d3VOfZu2QU_tlnLJjLzagLBPtlsbM&qid=1790801938&sr=8-51",
+    "small_business": true,
+    "purchase_options": [
+     {
+      "primary_price": "€21.49",
+      "extracted_primary_price": 21.49,
+      "more_buying_choices": "€19.90 (2 new offers)",
+      "more_buying_choices_link": "https://www.amazon.de/-/en/gp/offer-listing/B0FBX38WBC/ref=sr_1_51_olp?keywords=Windlicht+Laterne+Messing&dib_tag=se&dib=eyJ2IjoiMSJ9.OAdK9UssT3gW1MNmMoMgh_vAJrXg5oF7SbuD0qsl7Y_MZ4vtH_NBybN6LERzMVOvhLPyHdOseVBHg2bv8zHjHufNWqIjLTyciz5tqhj1qloKqpcxnu5Qqiym8XCDI3miaUHyQY3ZAAPzri4l-K8F7gR6X6NXrf4pF6KJLtJiF8wvjK1vCwnFD4CDUp-_JdJr6l2SYztXMwT-YRNewVuAqTwZhArP8xsPNdcz5Beh7Q5VC8fN_N1P0PYBBPaQskuxiXFqV9-bPcaWtQJcpwkjJAubbS4M6KHK2mV-dLK2IpE.HNMKV6NuLNAF72d3VOfZu2QU_tlnLJjLzagLBPtlsbM&qid=1790801938&sr=8-51"
+     }
+    ]
+   },
+   {
+    "position": 52,
+    "asin": "B07MTFDSGC",
+    "title": "Mojawo® Set of 3 XXL Garden Lanterns, Metal Lantern, Candle Holder Set, Height 25/40/51 cm with Rope Handle, Black",
+    "link": "https://www.amazon.de/-/en/Mojawo%C2%AE-Garden-Lanterns-Lantern-Candle/dp/B07MTFDSGC/ref=sr_1_52?dib=eyJ2IjoiMSJ9.OAdK9UssT3gW1MNmMoMgh_vAJrXg5oF7SbuD0qsl7Y_MZ4vtH_NBybN6LERzMVOvhLPyHdOseVBHg2bv8zHjHufNWqIjLTyciz5tqhj1qloKqpcxnu5Qqiym8XCDI3miaUHyQY3ZAAPzri4l-K8F7gR6X6NXrf4pF6KJLtJiF8wvjK1vCwnFD4CDUp-_JdJr6l2SYztXMwT-YRNewVuAqTwZhArP8xsPNdcz5Beh7Q5VC8fN_N1P0PYBBPaQskuxiXFqV9-bPcaWtQJcpwkjJAubbS4M6KHK2mV-dLK2IpE.HNMKV6NuLNAF72d3VOfZu2QU_tlnLJjLzagLBPtlsbM&dib_tag=se&keywords=Windlicht+Laterne+Messing&qid=1790801938&sr=8-52",
+    "link_clean": "https://www.amazon.de/-/en/Mojawo%C2%AE-Garden-Lanterns-Lantern-Candle/dp/B07MTFDSGC/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B07MTFDSGC&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/71Ofx8iYwkL._AC_UL320_.jpg",
+    "rating": 4.6,
+    "reviews": 158,
+    "price": "€49.99",
+    "extracted_price": 49.99,
+    "old_price": "€69.99",
+    "extracted_old_price": 69.99,
+    "delivery": [
+     "FREE delivery Tue 6 Oct on eligible first order"
+    ],
+    "small_business": true,
+    "purchase_options": [
+     {
+      "primary_price": "€49.99",
+      "extracted_primary_price": 49.99,
+      "old_primary_price": "€69.99",
+      "extracted_old_primary_price": 69.99
+     }
+    ]
+   },
+   {
+    "position": 53,
+    "asin": "B0CTXC89CX",
+    "title": "Nuptio Lantern Black Grave Lantern Cemetery Weatherproof Lanterns Outdoor",
+    "link": "https://www.amazon.de/-/en/Lantern-Cemetery-Weatherproof-Lanterns-Outdoor/dp/B0CTXC89CX/ref=sr_1_53?dib=eyJ2IjoiMSJ9.OAdK9UssT3gW1MNmMoMgh_vAJrXg5oF7SbuD0qsl7Y_MZ4vtH_NBybN6LERzMVOvhLPyHdOseVBHg2bv8zHjHufNWqIjLTyciz5tqhj1qloKqpcxnu5Qqiym8XCDI3miaUHyQY3ZAAPzri4l-K8F7gR6X6NXrf4pF6KJLtJiF8wvjK1vCwnFD4CDUp-_JdJr6l2SYztXMwT-YRNewVuAqTwZhArP8xsPNdcz5Beh7Q5VC8fN_N1P0PYBBPaQskuxiXFqV9-bPcaWtQJcpwkjJAubbS4M6KHK2mV-dLK2IpE.HNMKV6NuLNAF72d3VOfZu2QU_tlnLJjLzagLBPtlsbM&dib_tag=se&keywords=Windlicht+Laterne+Messing&qid=1790801938&sr=8-53",
+    "link_clean": "https://www.amazon.de/-/en/Lantern-Cemetery-Weatherproof-Lanterns-Outdoor/dp/B0CTXC89CX/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B0CTXC89CX&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/611MMe35r8L._AC_UL320_.jpg",
+    "rating": 4.4,
+    "reviews": 531,
+    "bought_last_month": "100+ bought in past month",
+    "price": "€19.98",
+    "extracted_price": 19.98,
+    "offers": [
+     "Savings Buy 4, save 5%"
+    ],
+    "delivery": [
+     "FREE delivery Mon 5 Oct on eligible first order",
+     "Or fastest delivery Fri 2 Oct"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "€19.98",
+      "extracted_primary_price": 19.98
+     }
+    ]
+   },
+   {
+    "position": 54,
+    "asin": "B0DMWG1XM7",
+    "title": "Pack of 2 Candle Holders Black Struts 18 cm Decoration Lantern Lantern Decorative Industrial Style",
+    "link": "https://www.amazon.de/-/en/Holders-Decoration-Lantern-Decorative-Industrial/dp/B0DMWG1XM7/ref=sr_1_54?dib=eyJ2IjoiMSJ9.OAdK9UssT3gW1MNmMoMgh_vAJrXg5oF7SbuD0qsl7Y_MZ4vtH_NBybN6LERzMVOvhLPyHdOseVBHg2bv8zHjHufNWqIjLTyciz5tqhj1qloKqpcxnu5Qqiym8XCDI3miaUHyQY3ZAAPzri4l-K8F7gR6X6NXrf4pF6KJLtJiF8wvjK1vCwnFD4CDUp-_JdJr6l2SYztXMwT-YRNewVuAqTwZhArP8xsPNdcz5Beh7Q5VC8fN_N1P0PYBBPaQskuxiXFqV9-bPcaWtQJcpwkjJAubbS4M6KHK2mV-dLK2IpE.HNMKV6NuLNAF72d3VOfZu2QU_tlnLJjLzagLBPtlsbM&dib_tag=se&keywords=Windlicht+Laterne+Messing&qid=1790801938&sr=8-54",
+    "link_clean": "https://www.amazon.de/-/en/Holders-Decoration-Lantern-Decorative-Industrial/dp/B0DMWG1XM7/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B0DMWG1XM7&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/811y2R4ZLpL._AC_UL320_.jpg",
+    "rating": 5.0,
+    "reviews": 1,
+    "price": "€13.95",
+    "extracted_price": 13.95,
+    "delivery": [
+     "FREE delivery Tue 6 Oct on eligible first order"
+    ],
+    "stock": "Only 3 left in stock.",
+    "purchase_options": [
+     {
+      "primary_price": "€13.95",
+      "extracted_primary_price": 13.95
+     }
+    ]
+   },
+   {
+    "position": 55,
+    "asin": "B0CV83ZV9T",
+    "title": "Candle Holder Rust Lantern Metal 40 cm High Lantern with Real Rust",
+    "link": "https://www.amazon.de/-/en/Candle-Holder-Rust-Lantern-Metal/dp/B0CV83ZV9T/ref=sr_1_55?dib=eyJ2IjoiMSJ9.OAdK9UssT3gW1MNmMoMgh_vAJrXg5oF7SbuD0qsl7Y_MZ4vtH_NBybN6LERzMVOvhLPyHdOseVBHg2bv8zHjHufNWqIjLTyciz5tqhj1qloKqpcxnu5Qqiym8XCDI3miaUHyQY3ZAAPzri4l-K8F7gR6X6NXrf4pF6KJLtJiF8wvjK1vCwnFD4CDUp-_JdJr6l2SYztXMwT-YRNewVuAqTwZhArP8xsPNdcz5Beh7Q5VC8fN_N1P0PYBBPaQskuxiXFqV9-bPcaWtQJcpwkjJAubbS4M6KHK2mV-dLK2IpE.HNMKV6NuLNAF72d3VOfZu2QU_tlnLJjLzagLBPtlsbM&dib_tag=se&keywords=Windlicht+Laterne+Messing&qid=1790801938&sr=8-55",
+    "link_clean": "https://www.amazon.de/-/en/Candle-Holder-Rust-Lantern-Metal/dp/B0CV83ZV9T/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B0CV83ZV9T&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/71NfXFYdjCL._AC_UL320_.jpg",
+    "rating": 4.6,
+    "reviews": 34,
+    "price": "€25.95",
+    "extracted_price": 25.95,
+    "delivery": [
+     "FREE delivery 5 - 6 Oct on eligible first order"
+    ],
+    "small_business": true,
+    "purchase_options": [
+     {
+      "primary_price": "€25.95",
+      "extracted_primary_price": 25.95
+     }
+    ]
+   },
+   {
+    "position": 56,
+    "asin": "B0H1HMZ4CX",
+    "title": "Cyiecw Set of 2 Lantern Candle Holders with Wooden Base, Modern Stripes Amber Glass Pillar Candle Holder with Mesh Cover, Metal Strainer and Tweezers for Table Decoration, Outdoor, Living Room",
+    "link": "https://www.amazon.de/-/en/Cyiecw-Lantern-Strainer-Tweezers-Decoration/dp/B0H1HMZ4CX/ref=sr_1_56?dib=eyJ2IjoiMSJ9.OAdK9UssT3gW1MNmMoMgh_vAJrXg5oF7SbuD0qsl7Y_MZ4vtH_NBybN6LERzMVOvhLPyHdOseVBHg2bv8zHjHufNWqIjLTyciz5tqhj1qloKqpcxnu5Qqiym8XCDI3miaUHyQY3ZAAPzri4l-K8F7gR6X6NXrf4pF6KJLtJiF8wvjK1vCwnFD4CDUp-_JdJr6l2SYztXMwT-YRNewVuAqTwZhArP8xsPNdcz5Beh7Q5VC8fN_N1P0PYBBPaQskuxiXFqV9-bPcaWtQJcpwkjJAubbS4M6KHK2mV-dLK2IpE.HNMKV6NuLNAF72d3VOfZu2QU_tlnLJjLzagLBPtlsbM&dib_tag=se&keywords=Windlicht+Laterne+Messing&qid=1790801938&sr=8-56",
+    "link_clean": "https://www.amazon.de/-/en/Cyiecw-Lantern-Strainer-Tweezers-Decoration/dp/B0H1HMZ4CX/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B0H1HMZ4CX&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/71Dte0pe1CL._AC_UL320_.jpg",
+    "rating": 5.0,
+    "reviews": 1,
+    "price": "€25.99",
+    "extracted_price": 25.99,
+    "delivery": [
+     "FREE delivery Tue 6 Oct on eligible first order"
+    ],
+    "stock": "Only 15 left in stock.",
+    "purchase_options": [
+     {
+      "primary_price": "€25.99",
+      "extracted_primary_price": 25.99
+     }
+    ]
+   },
+   {
+    "position": 57,
+    "asin": "B084HFF386",
+    "title": "Basil Oriental Lantern Set of 4 Metal/Glass Multi-Coloured 16 cm",
+    "link": "https://www.amazon.de/-/en/Basil-Oriental-Lantern-Metal-Multi-Coloured/dp/B084HFF386/ref=sr_1_57?dib=eyJ2IjoiMSJ9.OAdK9UssT3gW1MNmMoMgh_vAJrXg5oF7SbuD0qsl7Y_MZ4vtH_NBybN6LERzMVOvhLPyHdOseVBHg2bv8zHjHufNWqIjLTyciz5tqhj1qloKqpcxnu5Qqiym8XCDI3miaUHyQY3ZAAPzri4l-K8F7gR6X6NXrf4pF6KJLtJiF8wvjK1vCwnFD4CDUp-_JdJr6l2SYztXMwT-YRNewVuAqTwZhArP8xsPNdcz5Beh7Q5VC8fN_N1P0PYBBPaQskuxiXFqV9-bPcaWtQJcpwkjJAubbS4M6KHK2mV-dLK2IpE.HNMKV6NuLNAF72d3VOfZu2QU_tlnLJjLzagLBPtlsbM&dib_tag=se&keywords=Windlicht+Laterne+Messing&qid=1790801938&sr=8-57",
+    "link_clean": "https://www.amazon.de/-/en/Basil-Oriental-Lantern-Metal-Multi-Coloured/dp/B084HFF386/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B084HFF386&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/61QEp8e2KCL._AC_UL320_.jpg",
+    "rating": 3.8,
+    "reviews": 108,
+    "price": "€28.90",
+    "extracted_price": 28.9,
+    "delivery": [
+     "FREE delivery Tue 6 Oct on eligible first order"
+    ],
+    "stock": "Only 2 left in stock.",
+    "purchase_options": [
+     {
+      "primary_price": "€28.90",
+      "extracted_primary_price": 28.9
+     }
+    ]
+   },
+   {
+    "position": 58,
+    "asin": "B0DBQTDF3C",
+    "title": "Decorative Lantern Large Metal Candle Holder Black",
+    "link": "https://www.amazon.de/-/en/Staymoment-Decorative-Lantern-Candle-Holder/dp/B0DBQTDF3C/ref=sr_1_58?dib=eyJ2IjoiMSJ9.OAdK9UssT3gW1MNmMoMgh_vAJrXg5oF7SbuD0qsl7Y_MZ4vtH_NBybN6LERzMVOvhLPyHdOseVBHg2bv8zHjHufNWqIjLTyciz5tqhj1qloKqpcxnu5Qqiym8XCDI3miaUHyQY3ZAAPzri4l-K8F7gR6X6NXrf4pF6KJLtJiF8wvjK1vCwnFD4CDUp-_JdJr6l2SYztXMwT-YRNewVuAqTwZhArP8xsPNdcz5Beh7Q5VC8fN_N1P0PYBBPaQskuxiXFqV9-bPcaWtQJcpwkjJAubbS4M6KHK2mV-dLK2IpE.HNMKV6NuLNAF72d3VOfZu2QU_tlnLJjLzagLBPtlsbM&dib_tag=se&keywords=Windlicht+Laterne+Messing&qid=1790801938&sr=8-58",
+    "link_clean": "https://www.amazon.de/-/en/Staymoment-Decorative-Lantern-Candle-Holder/dp/B0DBQTDF3C/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B0DBQTDF3C&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/71l6XH5w-eL._AC_UL320_.jpg",
+    "rating": 4.8,
+    "reviews": 33,
+    "price": "€28.98",
+    "extracted_price": 28.98,
+    "delivery": [
+     "FREE delivery Mon 5 Oct on eligible first order",
+     "Or fastest delivery Fri 2 Oct"
+    ],
+    "stock": "Only 6 left in stock.",
+    "purchase_options": [
+     {
+      "primary_price": "€28.98",
+      "extracted_primary_price": 28.98
+     }
+    ]
+   },
+   {
+    "position": 59,
+    "asin": "B00IGRPPLS",
+    "title": "Tims Metal 5414070128987 Lantern Lantern Tims Gate to Gate Metal 5414070128987 Lantern Tea Light Lantern, approx. 40 cm with Stones",
+    "link": "https://www.amazon.de/-/en/Metal-5414070128987-Lantern-approx-Stones/dp/B00IGRPPLS/ref=sr_1_59?dib=eyJ2IjoiMSJ9.OAdK9UssT3gW1MNmMoMgh_vAJrXg5oF7SbuD0qsl7Y_MZ4vtH_NBybN6LERzMVOvhLPyHdOseVBHg2bv8zHjHufNWqIjLTyciz5tqhj1qloKqpcxnu5Qqiym8XCDI3miaUHyQY3ZAAPzri4l-K8F7gR6X6NXrf4pF6KJLtJiF8wvjK1vCwnFD4CDUp-_JdJr6l2SYztXMwT-YRNewVuAqTwZhArP8xsPNdcz5Beh7Q5VC8fN_N1P0PYBBPaQskuxiXFqV9-bPcaWtQJcpwkjJAubbS4M6KHK2mV-dLK2IpE.HNMKV6NuLNAF72d3VOfZu2QU_tlnLJjLzagLBPtlsbM&dib_tag=se&keywords=Windlicht+Laterne+Messing&qid=1790801938&sr=8-59",
+    "link_clean": "https://www.amazon.de/-/en/Metal-5414070128987-Lantern-approx-Stones/dp/B00IGRPPLS/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B00IGRPPLS&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/61ovM4QFXYL._AC_UL320_.jpg",
+    "price": "€16.99",
+    "extracted_price": 16.99,
+    "delivery": [
+     "FREE delivery Mon 5 Oct on eligible first order"
+    ],
+    "stock": "Only 13 left in stock.",
+    "purchase_options": [
+     {
+      "primary_price": "€16.99",
+      "extracted_primary_price": 16.99
+     }
+    ]
+   },
+   {
+    "position": 60,
+    "asin": "B0CCV7TX71",
+    "title": "NUPTIO Glass Lantern Candle Holder Gold Pillar Candles Metal Set of 3",
+    "link": "https://www.amazon.de/-/en/NUPTIO-Lantern-Candle-Holder-Candles/dp/B0CCV7TX71/ref=sr_1_60?dib=eyJ2IjoiMSJ9.OAdK9UssT3gW1MNmMoMgh_vAJrXg5oF7SbuD0qsl7Y_MZ4vtH_NBybN6LERzMVOvhLPyHdOseVBHg2bv8zHjHufNWqIjLTyciz5tqhj1qloKqpcxnu5Qqiym8XCDI3miaUHyQY3ZAAPzri4l-K8F7gR6X6NXrf4pF6KJLtJiF8wvjK1vCwnFD4CDUp-_JdJr6l2SYztXMwT-YRNewVuAqTwZhArP8xsPNdcz5Beh7Q5VC8fN_N1P0PYBBPaQskuxiXFqV9-bPcaWtQJcpwkjJAubbS4M6KHK2mV-dLK2IpE.HNMKV6NuLNAF72d3VOfZu2QU_tlnLJjLzagLBPtlsbM&dib_tag=se&keywords=Windlicht+Laterne+Messing&qid=1790801938&sr=8-60",
+    "link_clean": "https://www.amazon.de/-/en/NUPTIO-Lantern-Candle-Holder-Candles/dp/B0CCV7TX71/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B0CCV7TX71&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/71v3XOf+R4L._AC_UL320_.jpg",
+    "rating": 4.2,
+    "reviews": 41,
+    "price": "€36.98",
+    "extracted_price": 36.98,
+    "delivery": [
+     "FREE delivery Mon 5 Oct on eligible first order",
+     "Or fastest delivery Fri 2 Oct"
+    ],
+    "stock": "Only 11 left in stock.",
+    "purchase_options": [
+     {
+      "primary_price": "€36.98",
+      "extracted_primary_price": 36.98
+     }
+    ]
+   }
+  ],
+  "featured_products": [
+   {
+    "title": "Customers frequently viewed",
+    "products": [
+     {
+      "position": 1,
+      "asin": "B0GWLV93N1",
+      "sponsored": true,
+      "title": "Pack of 3 Outdoor Lanterns, Glass Candle Holder with Glass Cylinder",
+      "link": "https://www.amazon.de/-/en/sspa/click?ie=UTF8&spc=MToyMDE4NDYzNTI5MjYyMzA3OjE3OTA4MDE5Mzg6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMTI4Mjg1NzQ3MjczMjo6MDo6&url=%2FOutdoor-Lanterns-Candle-Holder-Cylinder%2Fdp%2FB0GWLV93N1%2Fref%3Dsxin_13_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.ea21339f-99c3-46b1-bd8c-1d0912910371%253Aamzn1.sym.ea21339f-99c3-46b1-bd8c-1d0912910371%26cv_ct_cx%3DWindlicht%2BLaterne%2BMessing%26keywords%3DWindlicht%2BLaterne%2BMessing%26pd_rd_i%3DB0GWLV93N1%26pd_rd_r%3Da5d99088-6bae-400a-8ea6-ac0f54a95ba8%26pd_rd_w%3DLlvjV%26pd_rd_wg%3DzXWEp%26pf_rd_p%3Dea21339f-99c3-46b1-bd8c-1d0912910371%26pf_rd_r%3D3Z3967996DM0Y0FE0BXK%26qid%3D1790801938%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-1-0bff13d2-7188-4a82-bb3a-ccd1e70f0167-spons%26aref%3DOBxbNrIyce%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1&aref=OBxbNrIyce&sp_cr=FRA",
+      "link_clean": "https://www.amazon.de/dp/B0GWLV93N1/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B0GWLV93N1&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/71PYiUTgUYL._AC_UL320_.jpg",
+      "rating": 4.7,
+      "reviews": 11,
+      "price": "€35.99",
+      "extracted_price": 35.99,
+      "delivery": [
+       "FREE delivery Mon 5 Oct on eligible first orderOr fastest delivery Fri 2 Oct",
+       "FREE delivery Mon 5 Oct on eligible first order",
+       "Or fastest delivery Fri 2 Oct"
+      ],
+      "purchase_options": [
+       {
+        "primary_price": "€35.99",
+        "extracted_primary_price": 35.99
+       }
+      ]
+     },
+     {
+      "position": 2,
+      "asin": "B0FSD58LVL",
+      "sponsored": true,
+      "title": "Lantern 9.5 x 10.5 x 28 cm Garden Lantern Metal Lantern Decorative Candle Holder Candle Holder for Indoor Outdoor Indoor Living Room Garden Balcony Garden Lighting Silver",
+      "link": "https://www.amazon.de/-/en/sspa/click?ie=UTF8&spc=MToyMDE4NDYzNTI5MjYyMzA3OjE3OTA4MDE5Mzg6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMDc1NTQ2MTkyNzAzMjo6MTo6&url=%2FLantern-Decorative-Outdoor-Balcony-Lighting%2Fdp%2FB0FSD58LVL%2Fref%3Dsxin_13_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.ea21339f-99c3-46b1-bd8c-1d0912910371%253Aamzn1.sym.ea21339f-99c3-46b1-bd8c-1d0912910371%26cv_ct_cx%3DWindlicht%2BLaterne%2BMessing%26keywords%3DWindlicht%2BLaterne%2BMessing%26pd_rd_i%3DB0FSD58LVL%26pd_rd_r%3Da5d99088-6bae-400a-8ea6-ac0f54a95ba8%26pd_rd_w%3DLlvjV%26pd_rd_wg%3DzXWEp%26pf_rd_p%3Dea21339f-99c3-46b1-bd8c-1d0912910371%26pf_rd_r%3D3Z3967996DM0Y0FE0BXK%26qid%3D1790801938%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-2-0bff13d2-7188-4a82-bb3a-ccd1e70f0167-spons%26aref%3DQxRpDbxT9N%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1&aref=QxRpDbxT9N&sp_cr=FRA",
+      "link_clean": "https://www.amazon.de/dp/B0FSD58LVL/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B0FSD58LVL&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/51YspSUeqYL._AC_UL320_.jpg",
+      "rating": 4.1,
+      "reviews": 251,
+      "price": "€12.95",
+      "extracted_price": 12.95,
+      "delivery": [
+       "FREE delivery 6 - 7 Oct on eligible first order"
+      ],
+      "purchase_options": [
+       {
+        "primary_price": "€12.95",
+        "extracted_primary_price": 12.95
+       }
+      ]
+     },
+     {
+      "position": 3,
+      "asin": "B07QLM5M88",
+      "sponsored": true,
+      "title": "JHY DESIGN Silver Decorative Lanterns 31cm Tall Stainless Steel Candle Lanterns with Tempered Glass for Indoor Outdoor Events Parities and Weddings Vintage Hanging Lamps",
+      "link": "https://www.amazon.de/-/en/sspa/click?ie=UTF8&spc=MToyMDE4NDYzNTI5MjYyMzA3OjE3OTA4MDE5Mzg6c3Bfc2VhcmNoX3RoZW1hdGljOjIwMTA0MTk5MzY3OTk4OjoyOjo&url=%2FJHY-DESIGN-Decorative-Lanterns-Stainless%2Fdp%2FB07QLM5M88%2Fref%3Dsxin_13_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.ea21339f-99c3-46b1-bd8c-1d0912910371%253Aamzn1.sym.ea21339f-99c3-46b1-bd8c-1d0912910371%26cv_ct_cx%3DWindlicht%2BLaterne%2BMessing%26keywords%3DWindlicht%2BLaterne%2BMessing%26pd_rd_i%3DB07QLM5M88%26pd_rd_r%3Da5d99088-6bae-400a-8ea6-ac0f54a95ba8%26pd_rd_w%3DLlvjV%26pd_rd_wg%3DzXWEp%26pf_rd_p%3Dea21339f-99c3-46b1-bd8c-1d0912910371%26pf_rd_r%3D3Z3967996DM0Y0FE0BXK%26qid%3D1790801938%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-3-0bff13d2-7188-4a82-bb3a-ccd1e70f0167-spons%26aref%3DZlXf8MCCNA%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1&aref=ZlXf8MCCNA&sp_cr=FRA",
+      "link_clean": "https://www.amazon.de/dp/B07QLM5M88/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B07QLM5M88&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/6137frJI0VL._AC_UL320_.jpg",
+      "rating": 4.1,
+      "reviews": 732,
+      "price": "€32.99",
+      "extracted_price": 32.99,
+      "old_price": "€34.99",
+      "extracted_old_price": 34.99,
+      "save_with_coupon": "You pay €31.34 with voucher",
+      "delivery": [
+       "FREE delivery Tue 6 Oct on eligible first order"
+      ],
+      "purchase_options": [
+       {
+        "primary_price": "€32.99",
+        "extracted_primary_price": 32.99,
+        "old_primary_price": "€34.99",
+        "extracted_old_primary_price": 34.99
+       }
+      ]
+     },
+     {
+      "position": 4,
+      "asin": "B0BCR45RCQ",
+      "sponsored": true,
+      "title": "Maha Oriental Style Iron Lantern Black 30cm",
+      "link": "https://www.amazon.de/-/en/sspa/click?ie=UTF8&spc=MToyMDE4NDYzNTI5MjYyMzA3OjE3OTA4MDE5Mzg6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMTIwMjU2NjM4NjUzMjo6Mzo6&url=%2FOriental-Lantern-Handmade-Metal-Black%2Fdp%2FB0BCR45RCQ%2Fref%3Dsxin_13_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.ea21339f-99c3-46b1-bd8c-1d0912910371%253Aamzn1.sym.ea21339f-99c3-46b1-bd8c-1d0912910371%26cv_ct_cx%3DWindlicht%2BLaterne%2BMessing%26keywords%3DWindlicht%2BLaterne%2BMessing%26pd_rd_i%3DB0BCR45RCQ%26pd_rd_r%3Da5d99088-6bae-400a-8ea6-ac0f54a95ba8%26pd_rd_w%3DLlvjV%26pd_rd_wg%3DzXWEp%26pf_rd_p%3Dea21339f-99c3-46b1-bd8c-1d0912910371%26pf_rd_r%3D3Z3967996DM0Y0FE0BXK%26qid%3D1790801938%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-4-0bff13d2-7188-4a82-bb3a-ccd1e70f0167-spons%26aref%3DR9IUm6eKlf%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1&aref=R9IUm6eKlf&sp_cr=FRA",
+      "link_clean": "https://www.amazon.de/dp/B0BCR45RCQ/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B0BCR45RCQ&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/71+j4LsGStL._AC_UL320_.jpg",
+      "rating": 4.4,
+      "reviews": 97,
+      "price": "€28.90",
+      "extracted_price": 28.9,
+      "delivery": [
+       "FREE delivery 2 - 5 Oct on eligible first order"
+      ],
+      "purchase_options": [
+       {
+        "primary_price": "€28.90",
+        "extracted_primary_price": 28.9
+       }
+      ]
+     },
+     {
+      "position": 5,
+      "asin": "B0CP63RQLS",
+      "sponsored": true,
+      "title": "KOTARBAU Petroleum Lamp Glass Oil Lamp with Mirror Old Brass Camping Lamp Petrolium Oil Lamp Kerosene Lamp Lantern Vintage Oil Lamp Camping Light Balcony Accessories Petroleum Lantern for Indoor Use",
+      "link": "https://www.amazon.de/-/en/sspa/click?ie=UTF8&spc=MToyMDE4NDYzNTI5MjYyMzA3OjE3OTA4MDE5Mzg6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMDM3Nzc0ODg3OTAzMjo6NDo6&url=%2FKOTARBAU-Petroleum-Petrolium-Kerosene-Accessories%2Fdp%2FB0CP63RQLS%2Fref%3Dsxin_13_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.ea21339f-99c3-46b1-bd8c-1d0912910371%253Aamzn1.sym.ea21339f-99c3-46b1-bd8c-1d0912910371%26cv_ct_cx%3DWindlicht%2BLaterne%2BMessing%26keywords%3DWindlicht%2BLaterne%2BMessing%26pd_rd_i%3DB0CP63RQLS%26pd_rd_r%3Da5d99088-6bae-400a-8ea6-ac0f54a95ba8%26pd_rd_w%3DLlvjV%26pd_rd_wg%3DzXWEp%26pf_rd_p%3Dea21339f-99c3-46b1-bd8c-1d0912910371%26pf_rd_r%3D3Z3967996DM0Y0FE0BXK%26qid%3D1790801938%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-5-0bff13d2-7188-4a82-bb3a-ccd1e70f0167-spons%26aref%3DHcVGFxXYJ4%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1&aref=HcVGFxXYJ4&sp_cr=FRA",
+      "link_clean": "https://www.amazon.de/dp/B0CP63RQLS/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B0CP63RQLS&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/71QtsmgbOAL._AC_UL320_.jpg",
+      "rating": 4.8,
+      "reviews": 7,
+      "price": "€39.29",
+      "extracted_price": 39.29,
+      "delivery": [
+       "FREE delivery Thu 8 Oct on eligible first order"
+      ],
+      "purchase_options": [
+       {
+        "primary_price": "€39.29",
+        "extracted_primary_price": 39.29
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "title": "Social media picks",
+    "products": [
+     {
+      "position": 1,
+      "asin": "B0FSD444XN",
+      "sponsored": true,
+      "title": "Lantern 9.5 x 10.5 x 28 cm Garden Lantern Metal Lantern Decorative Candle Holder Candle Holder for Indoor Outdoor Indoor Living Room Garden Balcony Garden Lighting Gold",
+      "link": "https://www.amazon.de/-/en/sspa/click?ie=UTF8&spc=MToxNzA0NjMxNjI4MTU0ODY2OjE3OTA4MDE5Mzg6c3Bfc2VhcmNoX3RoZW1hdGljX2J0ZjozMDA3NTU0NjE5MjY4MzI6OjA6Og&url=%2FLantern-Decorative-Outdoor-Balcony-Lighting%2Fdp%2FB0FSD444XN%2Fref%3Dsxbs_pa_sp_search_thematic_btf_sspa%3Fcontent-id%3Damzn1.sym.a6b8bd50-5481-4967-bdd4-7bb3dd2b6eb8%253Aamzn1.sym.a6b8bd50-5481-4967-bdd4-7bb3dd2b6eb8%26cv_ct_cx%3DWindlicht%2BLaterne%2BMessing%26keywords%3DWindlicht%2BLaterne%2BMessing%26pd_rd_i%3DB0FSD444XN%26pd_rd_r%3Df8c2ca06-37c2-4698-ab2c-221895d15ea3%26pd_rd_w%3Dp4hP1%26pd_rd_wg%3DPNjVo%26pf_rd_p%3Da6b8bd50-5481-4967-bdd4-7bb3dd2b6eb8%26pf_rd_r%3D3Z3967996DM0Y0FE0BXK%26qid%3D1790801938%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-1-3afb4ce4-e48e-4af9-8e65-b7e97051a03d-spons%26aref%3DMYo3vhfxOI%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWNfYnRm%26psc%3D1&aref=MYo3vhfxOI&sp_cr=FRA",
+      "link_clean": "https://www.amazon.de/dp/B0FSD444XN/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B0FSD444XN&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/51Z96dqTp2L._AC_UL320_.jpg",
+      "rating": 4.1,
+      "reviews": 251,
+      "price": "€10.95",
+      "extracted_price": 10.95,
+      "delivery": [
+       "FREE delivery 6 - 7 Oct on eligible first order"
+      ],
+      "purchase_options": [
+       {
+        "primary_price": "€10.95",
+        "extracted_primary_price": 10.95
+       }
+      ]
+     },
+     {
+      "position": 2,
+      "asin": "B08BWSSF3Y",
+      "sponsored": true,
+      "title": "Casa Vivente Personalised Wedding Lantern Gold Stainless Steel Engraved with Name and Date Rings Gift for Couples",
+      "link": "https://www.amazon.de/-/en/sspa/click?ie=UTF8&spc=MToxNzA0NjMxNjI4MTU0ODY2OjE3OTA4MDE5Mzg6c3Bfc2VhcmNoX3RoZW1hdGljX2J0ZjoyMDAzODM5MjAzOTY5ODo6MTo6&url=%2FCasa-Vivente-Personalised-Stainless-Engraved%2Fdp%2FB08BWSSF3Y%2Fref%3Dsxbs_pa_sp_search_thematic_btf_sspa%3Fcontent-id%3Damzn1.sym.a6b8bd50-5481-4967-bdd4-7bb3dd2b6eb8%253Aamzn1.sym.a6b8bd50-5481-4967-bdd4-7bb3dd2b6eb8%26cv_ct_cx%3DWindlicht%2BLaterne%2BMessing%26keywords%3DWindlicht%2BLaterne%2BMessing%26pd_rd_i%3DB08BWSSF3Y%26pd_rd_r%3Df8c2ca06-37c2-4698-ab2c-221895d15ea3%26pd_rd_w%3Dp4hP1%26pd_rd_wg%3DPNjVo%26pf_rd_p%3Da6b8bd50-5481-4967-bdd4-7bb3dd2b6eb8%26pf_rd_r%3D3Z3967996DM0Y0FE0BXK%26qid%3D1790801938%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-2-3afb4ce4-e48e-4af9-8e65-b7e97051a03d-spons%26aref%3DvlwMBoxnFr%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWNfYnRm%26psc%3D1&aref=vlwMBoxnFr&sp_cr=FRA",
+      "link_clean": "https://www.amazon.de/dp/B08BWSSF3Y/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B08BWSSF3Y&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/61hSJ9fI7IL._AC_UL320_.jpg",
+      "rating": 4.1,
+      "reviews": 270,
+      "price": "€54.95",
+      "extracted_price": 54.95,
+      "delivery": [
+       "FREE delivery 2 - 5 Oct on eligible first order"
+      ],
+      "purchase_options": [
+       {
+        "primary_price": "€54.95",
+        "extracted_primary_price": 54.95
+       }
+      ]
+     },
+     {
+      "position": 3,
+      "asin": "B07QLM5M88",
+      "sponsored": true,
+      "title": "JHY DESIGN Silver Decorative Lanterns 31cm Tall Stainless Steel Candle Lanterns with Tempered Glass for Indoor Outdoor Events Parities and Weddings Vintage Hanging Lamps",
+      "link": "https://www.amazon.de/-/en/sspa/click?ie=UTF8&spc=MToxNzA0NjMxNjI4MTU0ODY2OjE3OTA4MDE5Mzg6c3Bfc2VhcmNoX3RoZW1hdGljX2J0ZjoyMDEwNDE5OTM2Nzk5ODo6Mjo6&url=%2FJHY-DESIGN-Decorative-Lanterns-Stainless%2Fdp%2FB07QLM5M88%2Fref%3Dsxbs_pa_sp_search_thematic_btf_sspa%3Fcontent-id%3Damzn1.sym.a6b8bd50-5481-4967-bdd4-7bb3dd2b6eb8%253Aamzn1.sym.a6b8bd50-5481-4967-bdd4-7bb3dd2b6eb8%26cv_ct_cx%3DWindlicht%2BLaterne%2BMessing%26keywords%3DWindlicht%2BLaterne%2BMessing%26pd_rd_i%3DB07QLM5M88%26pd_rd_r%3Df8c2ca06-37c2-4698-ab2c-221895d15ea3%26pd_rd_w%3Dp4hP1%26pd_rd_wg%3DPNjVo%26pf_rd_p%3Da6b8bd50-5481-4967-bdd4-7bb3dd2b6eb8%26pf_rd_r%3D3Z3967996DM0Y0FE0BXK%26qid%3D1790801938%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-3-3afb4ce4-e48e-4af9-8e65-b7e97051a03d-spons%26aref%3DZlXf8MCCNA%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWNfYnRm%26psc%3D1&aref=ZlXf8MCCNA&sp_cr=FRA",
+      "link_clean": "https://www.amazon.de/dp/B07QLM5M88/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B07QLM5M88&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/6137frJI0VL._AC_UL320_.jpg",
+      "rating": 4.1,
+      "reviews": 732,
+      "price": "€32.99",
+      "extracted_price": 32.99,
+      "old_price": "€34.99",
+      "extracted_old_price": 34.99,
+      "save_with_coupon": "You pay €31.34 with voucher",
+      "delivery": [
+       "FREE delivery Tue 6 Oct on eligible first order"
+      ],
+      "purchase_options": [
+       {
+        "primary_price": "€32.99",
+        "extracted_primary_price": 32.99,
+        "old_primary_price": "€34.99",
+        "extracted_old_primary_price": 34.99
+       }
+      ]
+     },
+     {
+      "position": 4,
+      "asin": "B0DYD5D91S",
+      "sponsored": true,
+      "title": "JHY DESIGN 2er-Set Kerzenlaternen für draußen 50 cm & 38 cm H Dekorative Kerzenhalter Vintage-Kerzenständer aus Metall für Garten Veranda Partys Hochzeiten Terrasse Innenbereich Heimdekoration (Gold)",
+      "link": "https://www.amazon.de/-/en/sspa/click?ie=UTF8&spc=MToxNzA0NjMxNjI4MTU0ODY2OjE3OTA4MDE5Mzg6c3Bfc2VhcmNoX3RoZW1hdGljX2J0ZjozMDEwMDIwNDQ2MzcxMzI6OjM6Og&url=%2FJHY-DESIGN-Kerzenlaternen-Vintage-Kerzenst%25C3%25A4nder-Heimdekoration%2Fdp%2FB0DYD5D91S%2Fref%3Dsxbs_pa_sp_search_thematic_btf_sspa%3Fcontent-id%3Damzn1.sym.a6b8bd50-5481-4967-bdd4-7bb3dd2b6eb8%253Aamzn1.sym.a6b8bd50-5481-4967-bdd4-7bb3dd2b6eb8%26cv_ct_cx%3DWindlicht%2BLaterne%2BMessing%26keywords%3DWindlicht%2BLaterne%2BMessing%26pd_rd_i%3DB0DYD5D91S%26pd_rd_r%3Df8c2ca06-37c2-4698-ab2c-221895d15ea3%26pd_rd_w%3Dp4hP1%26pd_rd_wg%3DPNjVo%26pf_rd_p%3Da6b8bd50-5481-4967-bdd4-7bb3dd2b6eb8%26pf_rd_r%3D3Z3967996DM0Y0FE0BXK%26qid%3D1790801938%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-4-3afb4ce4-e48e-4af9-8e65-b7e97051a03d-spons%26aref%3D3GM8TKdgAv%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWNfYnRm%26psc%3D1&aref=3GM8TKdgAv&sp_cr=FRA",
+      "link_clean": "https://www.amazon.de/dp/B0DYD5D91S/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B0DYD5D91S&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/61nFGDMjaxL._AC_UL320_.jpg",
+      "rating": 4.3,
+      "reviews": 81,
+      "price": "€74.99",
+      "extracted_price": 74.99,
+      "old_price": "€79.99",
+      "extracted_old_price": 79.99,
+      "save_with_coupon": "You pay €71.24 with voucher",
+      "delivery": [
+       "FREE delivery 7 - 8 Oct on eligible first order"
+      ],
+      "purchase_options": [
+       {
+        "primary_price": "€74.99",
+        "extracted_primary_price": 74.99,
+        "old_primary_price": "€79.99",
+        "extracted_old_primary_price": 79.99
+       }
+      ]
+     },
+     {
+      "position": 5,
+      "asin": "B07ZY81KC8",
+      "sponsored": true,
+      "title": "Decorative Moroccan Metal Candle Lantern Holder Set of 3 for Ramadan Home Decor Outdoor Patio White",
+      "link": "https://www.amazon.de/-/en/sspa/click?ie=UTF8&spc=MToxNzA0NjMxNjI4MTU0ODY2OjE3OTA4MDE5Mzg6c3Bfc2VhcmNoX3RoZW1hdGljX2J0ZjoyMDE0MjExMzkxOTc5ODo6NDo6&url=%2FDecorative-Moroccan-Lantern-Ramadan-Outdoor%2Fdp%2FB07ZY81KC8%2Fref%3Dsxbs_pa_sp_search_thematic_btf_sspa%3Fcontent-id%3Damzn1.sym.a6b8bd50-5481-4967-bdd4-7bb3dd2b6eb8%253Aamzn1.sym.a6b8bd50-5481-4967-bdd4-7bb3dd2b6eb8%26cv_ct_cx%3DWindlicht%2BLaterne%2BMessing%26keywords%3DWindlicht%2BLaterne%2BMessing%26pd_rd_i%3DB07ZY81KC8%26pd_rd_r%3Df8c2ca06-37c2-4698-ab2c-221895d15ea3%26pd_rd_w%3Dp4hP1%26pd_rd_wg%3DPNjVo%26pf_rd_p%3Da6b8bd50-5481-4967-bdd4-7bb3dd2b6eb8%26pf_rd_r%3D3Z3967996DM0Y0FE0BXK%26qid%3D1790801938%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-5-3afb4ce4-e48e-4af9-8e65-b7e97051a03d-spons%26aref%3Di4M671D5Zs%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWNfYnRm%26psc%3D1&aref=i4M671D5Zs&sp_cr=FRA",
+      "link_clean": "https://www.amazon.de/dp/B07ZY81KC8/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B07ZY81KC8&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/91i6GgNdreL._AC_UL320_.jpg",
+      "rating": 4.6,
+      "reviews": 575,
+      "price": "€74.99",
+      "extracted_price": 74.99,
+      "old_price": "€77.99",
+      "extracted_old_price": 77.99,
+      "delivery": [
+       "FREE delivery Mon 5 OctOr fastest delivery Fri 2 Oct",
+       "FREE delivery Mon 5 Oct",
+       "Or fastest delivery Fri 2 Oct"
+      ],
+      "purchase_options": [
+       {
+        "primary_price": "€74.99",
+        "extracted_primary_price": 74.99,
+        "old_primary_price": "€77.99",
+        "extracted_old_primary_price": 77.99
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "video_results": [
+   {
+    "block_position": "top",
+    "video_thumbnail": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/f3d11ab3-871f-4f05-a78f-7fd8534ad94d.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG",
+    "video_src": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/f3d11ab3-871f-4f05-a78f-7fd8534ad94d.mp4/productVideoOptimized.mp4",
+    "video_link": "https://aax-events-cell02-cf.eu-central.3px.axp.amazon-adsystem.com/x/c/JDAxEa9Rjd1JYZ1UJwQlgTsAAAGg9B0J1AkAAAH2AQBvbm9fdHhuX2JpZDMgICBvbm9fdHhuX2ltcDEgICAeKqmE/clv1c_ek-wxfXzLbbWTVuQqkqJzaLaPqs5ifhYAyehUMmrPh_ZFk19zezdUVyxPillOuywFs8ipjtMcFUBVCVyITAA1ckAkgJt0CkGIJGp7KmJHS40utcLr66cOwDBI7h1rkZ5R581HsKvuVwHn5p31xDYvvKSAN2XgpWqkkn00RumDCccU34H-ujms4hhqTEgFY-p_Gh31GNZC7f49SWZ9UzGWO9cNm23WOD0xIn0FLElYFH6DD2dLf-fwje2v_ZhUTNBuI5YYyq_sBh0Aq2HnKG0ja06Bg7IYlFpPA_eBiLX4nztNdaxcPL5Qv-4GRIbwxh28pld1m6aMeuCniwIPaetrCrJYG-Jg4DQz4s_BiiGYCWm2DWn1WugRWxcMIZiwfLfY5KOrjw7KTnFJoFvrrUOMOso1nXlGAugZS6ep87oTfXc-F79wcCSfn2zhaqjLJvQQM2f0cgXAItztwiiofzvdgmi67YAtU7HwywAG4N0FM2dUKUZ1FmsbL-Aw4vj7B2wV9-cLEvoLZPXURYpXh_1zM2pCZRcQJsgzEeG_Jn3MLkcxKkDv5V8QSoFCS9UGbrjDsu3WuG-WJDFMIfcCfvoRkoUcjmYzQMFYnCzXTzR6V1TVpxMYRUmi6jGuiCIw0kseX75oX0-Zd3JfpCrrmK0XcDqfj-E9c4Gn3InAde23zGS4kwdnZd4W2M47HA1rmSDYs6p8EPPKHunRe710cOxyCId-ljRFOMTQoFGKvPa1RzihwVGGk3WnQyRLZNrRl7ZBw_VFbMprPvtYg8HfxxMBo6_6baYsCHMnog5AAFMStLgMtkwme3Eb83ge_V7pYd2hq1zPXEu7aKF1PHwJVeUcaoFl6JmXL73iGbikoKhdrwZiiJYXtHkbDIO7qUqdneVro5QJ7SaudYwAkThaqSvEwrDDcRgmsEeygkKL5Q-foQyNwnBLuy9be7sMGA_SwGh_GIaFZXZKSUkljREn9pAf_xeqgztYYCtPEkltlKlveelaeC_nkqGNoq5ZVbXaRP7cfoYyaL8hCGu0qr4obVGFZW7jT2yZdhq504QGUwADs5osM7d7xtq8dvPnKtZ3YFKBi4hEYX-tyzCz11AEgw6TP4ox4-9PncG_cnmjnLSVvLqm5mD8Lh2zoKqOaT8FFwe-wCdKemj2dmkHXNC9mnV3ye0ljxhen93eo3SnoofRMo1AFGqV44gEhJ3gDJ2sEKdtpfsDnDNw5qWEiEQYHKq9sKplBF7_J0j2dwOnqto-WYTkTjuPjL385ggmf_tvq-DklVWgt25qtVhiCP2kAxcISx2WEmzlLhe3gDs4ugT0E62-yRze0fAS3J43tJs2x10l5O-jenKQlVYu2rKfvaYelctgyloxpBhaA1UKo0-jSmnIHd70rOgOXUfBvKkDz99kjToD7KRG0kzjSexMIgBObQBGpzpGtKXC-ua1PEF4dTSxypjzpwiYXP3EuhrlMdHHqIswan2iRccGGjdAi4K2R59tg2HApDL9CHUBvWFDS8HbYe8v06xaxpRat0Kte2CusUWrKUxEFIxhjeLsn2w07wtANhr-1f0lGNvT2K4Mg6t614BZtu49-3sYoY4drbtlxDvN4StJkZf7tU79w/https://www.amazon.de/dp/B0B3BMHCJZ?aref=VquC2luc3A&pd_rd_i=B0B3BMHCJZ&pf_rd_p=676e374c-d550-442f-95c0-41f784f94691&pd_rd_wg=zXWEp&pf_rd_r=3Z3967996DM0Y0FE0BXK&pd_rd_w=57HZT&pd_rd_r=a5d99088-6bae-400a-8ea6-ac0f54a95ba8",
+    "products": [
+     {
+      "position": 1,
+      "asin": "B0B3BMHCJZ",
+      "sponsored": true,
+      "title": "Decorasian Lantern made of seagrass - rattan lantern boho made of wicker for hanging or standing - indoor and outdoor",
+      "link": "https://aax-events-cell02-cf.eu-central.3px.axp.amazon-adsystem.com/x/c/JDAxEa9Rjd1JYZ1UJwQlgTsAAAGg9B0J1AkAAAH2AQBvbm9fdHhuX2JpZDMgICBvbm9fdHhuX2ltcDEgICAeKqmE/clv1c_ek-wxfXzLbbWTVuQqkqJzaLaPqs5ifhYAyehUMmrPh_ZFk19zezdUVyxPillOuywFs8ipjtMcFUBVCVyITAA1ckAkgJt0CkGIJGp7KmJHS40utcLr66cOwDBI7h1rkZ5R581HsKvuVwHn5p31xDYvvKSAN2XgpWqkkn00RumDCccU34H-ujms4hhqTEgFY-p_Gh31GNZC7f49SWZ9UzGWO9cNm23WOD0xIn0FLElYFH6DD2dLf-fwje2v_ZhUTNBuI5YYyq_sBh0Aq2HnKG0ja06Bg7IYlFpPA_eBiLX4nztNdaxcPL5Qv-4GRIbwxh28pld1m6aMeuCniwIPaetrCrJYG-Jg4DQz4s_BiiGYCWm2DWn1WugRWxcMIZiwfLfY5KOrjw7KTnFJoFvrrUOMOso1nXlGAugZS6ep87oTfXc-F79wcCSfn2zhaqjLJvQQM2f0cgXAItztwiiofzvdgmi67YAtU7HwywAG4N0FM2dUKUZ1FmsbL-Aw4vj7B2wV9-cLEvoLZPXURYpXh_1zM2pCZRcQJsgzEeG_Jn3MLkcxKkDv5V8QSoFCS9UGbrjDsu3WuG-WJDFMIfcCfvoRkoUcjmYzQMFYnCzXTzR6V1TVpxMYRUmi6jGuiCIw0kseX75oX0-Zd3JfpCrrmK0XcDqfj-E9c4Gn3InAde23zGS4kwdnZd4W2M47HA1rmSDYs6p8EPPKHunRe710cOxyCId-ljRFOMTQoFGKvPa1RzihwVGGk3WnQyRLZNrRl7ZBw_VFbMprPvtYg8HfxxMBo6_6baYsCHMnog5AAFMStLgMtkwme3Eb83ge_V7pYd2hq1zPXEu7aKF1PHwJVeUcaoFl6JmXL73iGbikoKhdrwZiiJYXtHkbDIO7qUqdneVro5QJ7SaudYwAkThaqSvEwrDDcRgmsEeygkKL5Q-foQyNwnBLuy9be7sMGA_SwGh_GIaFZXZKSUkljREn9pAf_xeqgztYYCtPEkltlKlveelaeC_nkqGNoq5ZVbXaRP7cfoYyaL8hCGu0qr4obVGFZW7jT2yZdhq504QGUwADs5osM7d7xtq8dvPnKtZ3YFKBi4hEYX-tyzCz11AEgw6TP4ox4-9PncG_cnmjnLSVvLqm5mD8Lh2zoKqOaT8FFwe-wCdKemj2dmkHXNC9mnV3ye0ljxhen93eo3SnoofRMo1AFGqV44gEhJ3gDJ2sEKdtpfsDnDNw5qWEiEQYHKq9sKplBF7_J0j2dwOnqto-WYTkTjuPjL385ggmf_tvq-DklVWgt25qtVhiCP2kAxcISx2WEmzlLhe3gDs4ugT0E62-yRze0fAS3J43tJs2x10l5O-jenKQlVYu2rKfvaYelctgyloxpBhaA1UKo0-jSmnIHd70rOgOXUfBvKkDz99kjToD7KRG0kzjSexMIgBObQBGpzpGtKXC-ua1PEF4dTSxypjzpwiYXP3EuhrlMdHHqIswan2iRccGGjdAi4K2R59tg2HApDL9CHUBvWFDS8HbYe8v06xaxpRat0Kte2CusUWrKUxEFIxhjeLsn2w07wtANhr-1f0lGNvT2K4Mg6t614BZtu49-3sYoY4drbtlxDvN4StJkZf7tU79w/https://www.amazon.de/Decorasian-Lantern-made-seagrass-standing/dp/B0B3BMHCJZ/ref=sxin_24_sbv_search_btf?aref=VquC2luc3A&content-id=amzn1.sym.676e374c-d550-442f-95c0-41f784f94691%3Aamzn1.sym.676e374c-d550-442f-95c0-41f784f94691&cv_ct_cx=Windlicht+Laterne+Messing&keywords=Windlicht+Laterne+Messing&pd_rd_i=B0B3BMHCJZ&pd_rd_r=a5d99088-6bae-400a-8ea6-ac0f54a95ba8&pd_rd_w=57HZT&pd_rd_wg=zXWEp&pf_rd_p=676e374c-d550-442f-95c0-41f784f94691&pf_rd_r=3Z3967996DM0Y0FE0BXK&qid=1790801938&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=1-1-9131241a-a358-4619-a7b8-0f5a65d91d81",
+      "link_clean": "https://www.amazon.de/dp/B0B3BMHCJZ/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&asin=B0B3BMHCJZ&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/91CK2lrbufL._AC_UL640_QL65_.jpg",
+      "rating": 4.6,
+      "reviews": 214,
+      "bought_last_month": "50+ bought in past month",
+      "price": "€18.90",
+      "extracted_price": 18.9,
+      "delivery": [
+       "FREE delivery 5 - 6 Oct on eligible first order"
+      ],
+      "purchase_options": [
+       {
+        "primary_price": "€18.90",
+        "extracted_primary_price": 18.9
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "sponsored_brands": {
+   "title": "Brands related to your search",
+   "brands": [
+    {
+     "position": 1,
+     "image": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/02cd7013-ca86-4a7d-845e-294314d05060._CR0,2712,2896,1517_SX920_CB1169409_QL70_.jpeg",
+     "name": "Accessibility support for this content is in progress. We are working to provide an accessible version shortly.",
+     "headline": "More than just a lantern",
+     "link": "https://aax-events-cell02-cf.eu-central.3px.axp.amazon-adsystem.com/x/c/JEqEv2b4ijEI8y_Gk-bplk4AAAGg9B0KfgkAAAH2AQBvbm9fdHhuX2JpZDMgICBvbm9fdHhuX2ltcDIgICD4YBOc/clv1c_ek-IBYHXFcbWBn2jOTR0-fLIPaAbuPKJLk77ylVu3ykpspjkGc7UWb4HcHrI2kYf6OQZyABxczfdXd-gC4kdnQf11mmMPsuWV7WHDC3-_-TwgzBzgguC5m3m2LnU5_enT4RDj0c55QxVZsQoLlFsqrFaosVMllbjvvbi92_qbIQdWk0pvIZJ4GYlly0npD53G-4Xl2lP9-eolGEwNUrU_i3KSWPPLGac1X3-ULAXuKqW_vDYqGpEdpDXF1bpSstXu90m5umW7rLkFDl3PZP9YgJhvZLg6bRFYBTB3Lm4c6BmnQiwub5cdVR7PseOQ08VN54g6FVWEa4y2BVpFCiyrEIEdkTku4B--RA-Hqx0ONh1lyUjtRM9UuVjg252bZw5xh_oKs3zOJmmnLVNrud6C8dFSmX8rBa_6la-G5a4plf3iDLmnve2F9kHoW3sprE8W5GXkdxSuZN7nuAOmp_3iHeQ8Q8Nw3B5hs4UdEGyfYJgbX2QBz8WbfnDGXJtTUUowOqaYAScOjt8lLRgy7IQPpZ6i4ZRxs8ZlClcqELZg8sahy_syYNV5KBz_swWPlMjOPLOu9WKFW495u5dh6I_R9DN7H3OGkjwr3wj38nVvgS3IgxNeI9aIRclh1XW_zOeIpX6Ay00mYtMl9gzCtRkkGCsuiGPDzx5Gj9eo6YbLYc3_5XsQCKHfh4rQd2I4DUmSZOezy6y2Wyav4o4IsSw0slNrSYv5VRGpT9s6jrGsuMRCpB4-baomzJUIAAjwhKWPGItfmZbH3ayHgPLNfe-2UyzldB8OyqDHmWt-FU_fCtmm1r_VZNNrBpINbQP43jY0f2u6ivjbVxR0pSAMpL2L8L2DI0218DTZNlMhoIHEbLZ7PVIZFG5AG8SyKv6Fe50tN-Z0APP20AYWPtKnVcZzV1Ou0_KXm8NfoLfu1-uV0A7gSrNS4s0hRHvADW7RLYhmgsmHuVYAZ17uXECtSkBtSz1pC6PhBSRXiFDDrcGc-Ceve3D5Y1J8IyOlDzHTmzSAOvh4EK2yrcesFzAPG3iI-kVRecDSfx2gu-VpMpbDbdVDD1riGrn9x5NNFMcOFnVGSZ5drL2mp8soKXVoAYUEcchva2khVtABtMOoRTm1DnQxdoioLT0s9GWYZuiewhIb047r_F95W6gJkl2rNJE-_CNy-5hO8Yww6mOlwy_9J-oevBagdJtTRHEJCt495w2Qs4A9uV1VmTtDKULqUUdyJBhGKzDyhNRRMsjH3dVyq_qZdgLEVltcmz-xQlByX7l9VHQzHQa8-iIwIrqsMpJ8saZzoT0g7PNlCGopaNKwjSPQioYPyizYxIuLdEdfJrGviGWc8hwa5N9kikH8jjd98SMkHn3EMbq7G2h_0_G3ZztNlvyL47Xs6DR_EgVHtCOyICDBaDj4FLBDU2N1Bh2lP-kvq-Kpau5x2KIh2UPYvmrlPPwkpO3RZ9jA0F41Cp0Y2Bij20m6ZSVXHPm9wfa7J2QgTY3ml-xyVMTHoKMKelhHGSITsvbrOifXvF27KedkOvmccf-pqOCCJv9ND-mk35TFiYR6pQRXKatemcsQjXwUtvMQU29KF4FEueL/https://www.amazon.de/stores/page/DF7D1EF3-B440-4233-9EC3-35FF19704058/?_encoding=UTF8&store_ref=SB_A04617331HXMG2PTYI1A8-A020578511I4U6YRGCCCV&pd_rd_plhdr=t&aaxitk=c04f03dbbf045b59b19c29d009fc3ab1&hsa_cr_id=0&lp_asins=B0C3QYSPRV%2CB0C3RP8XM2%2CB092LKSKCV&lp_query=Windlicht%20Laterne%20Messing&lp_slot=desktop-hsa-3psl&aref=cNTFUZOLVx&ref_=sbx_be_s_3psl_mbd_mb0_bkgd&pd_rd_w=avdkF&content-id=amzn1.sym.b17a27e2-f39b-40dd-b1d5-c7dee80f494a%3Aamzn1.sym.b17a27e2-f39b-40dd-b1d5-c7dee80f494a&pf_rd_p=b17a27e2-f39b-40dd-b1d5-c7dee80f494a&pf_rd_r=3Z3967996DM0Y0FE0BXK&pd_rd_wg=0JDfA&pd_rd_r=5ff77be1-9fca-4407-a982-3e33bf9fd97e",
+     "logo": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/1bd6d93f-7014-4e4e-a33a-ef632e1b4aec._CR0,0,800,583_AC_SX278_SY200_CB1169409_QL70_.jpg"
+    },
+    {
+     "position": 2,
+     "image": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/c1b4ce0b-0f81-4c09-af52-5462908c4b77._CR0,794,1200,628_SX920_CB1169409_QL70_.JPG",
+     "name": "EDZARD",
+     "headline": "Brilliantly beautiful: tarnish-resistant silver candelabra",
+     "link": "https://aax-events-cell02-cf.eu-central.3px.axp.amazon-adsystem.com/x/c/JIhdloeC3J2tmmttnjR7eC8AAAGg9B0KfwkAAAH2AQBvbm9fdHhuX2JpZDMgICBvbm9fdHhuX2ltcDIgICDo8_XJ/clv1c_ek-wBff3Vcba5joqHB0Ifw-ucU1KbocIoJ7BJN3Jyh6ybT9gepgAWf6G-y_cET4cJ6BQynV_pgiANflSQxCVUWlV_aNDfH0_LHTpirEq_ER3B2CqcgBSbofx8_-0BjGySQJTngZ3qQIhICx1L8wK0WDpo4lcF1fukPTcB9drzJQKCfOtvptC0VFtP5KJm9TBs0FBysFPHDvQBYTOFwpAm6Ept9-_huxUnQ3rEH1y0IwtdE5dj1Bo2gLxFNb9l-xrwClcQFZv3Drk0jbwpCjyjBdrH4qCPxCZzxpWV6Ir57-tFNaPfmjRkm6-F12wKRcRhzpidCeioKmcyp18S8IRhNB003rtUID8xpA-45Wb6Ka26iUn1FzW_C03FoAVvnITR_6WhEUfIVtpcinQvsBXY8_v94gqNzHYUO_6KLHzMbYyBLnXA2bmcg0fo47PXLtYuxZn-8UIHxDru_B7V_CQL24CqxHBjcZyQsW8YXSmEZy5PmgZHw0eBgCFhx3MTXZjpbacR9EbuV1-c0wRWkMWFBiAOgGOjxy78xZ2_iDMv-n4fJdd1paGLEPm5oCyS33LMfYyzYQg0NNFhpm0xIjRD1YmTxl1Rm6-M51H_mW_RT3JJil03MPOLeDNAnaWf6FPWUlM1JdHWeajAf-JHOSKDPtrR2swpBhBNNNiiLxl0vOcKoek42Q7qAkX9d44_vnMa10PUmaEdaNkmDSaXEBOK0RdO5iXd7x_h94q8apOb-Pi9xrFaru0RRPItOYPPhsIavgTopVM_BFjW3o0voy1G8Me0Ypp1d0AGDbHt56uZJgdwA_Q3mmrILJirZhqn1MvtjbPXgymLtmuHCuSRj-0Eii_SV7yEryJHcUwx0YVckgzoxgsTRPp_etU5IEcw58c981P2MeqR5anyh9QVJBGjrLHY10Oty9y-61ep34_MOYB61EOcduYCpVEtoOtVmpN4otR5DEPiErGNokllZGxr-p7Pv8gT31kyFwiS3Rx85ZZK6gIn4Np_etM4ui3kNNNLZRukqMcyE1OpDSO909CdIOUaFs4JACug5tQLfVvLcBh-75tAep8-pu2hmwcROVSB6ASPaWfYGk8ROgXFgqJIRiN6xh4B-5IgJ-KOb8jVWE8ZsBSFr3kMvfCaWEtWDr4_3xEf8lDaHt-99oRoXcbMNPyEjXMS7-3mtRrIey7axntouxDiAP0wd54eibaT-0Wb0frx5S6KLGS37UMidHBnzsIr5PYxWvtaIrT8K6YCzXuxzmb368b8wM7XmQ2IAAS_urojhMX0qtt-zqsSpKjBzwLjGuwfP65z2xWsoC0HBXojiuNMJGshv2B0OADvrbLZX_kqLjSBgVIL2-bsI8IFl4tkxzHILRCJg-suIND1OjPqxYz6MZS6DIDTQhourMW7TsTWPMDwJNc2_xcjTx9eJIPCQerei-vqZ8rRY-uFkLIp6PzKP30PdfAawCIxBJaDwsWfW1jJDreGbVUDsqX9ol41nTIabqIFk3la7Yw-jfX0U5jL3O6tGx9ajM1B2FjfSaNwd3Mxl7bnWfL54pYVnfEQoFYs59daICVG7GG9w2joHFxkvlfLyL-77C1vDe2hWIW/https://www.amazon.de/stores/page/0F21E5C3-3741-4290-AB08-57679CEBFA7B/?_encoding=UTF8&store_ref=SB_A08274621VWSDL3Q2AEHD-A0511126ZRTF5SGU8JEK&pd_rd_plhdr=t&aaxitk=4cd55138395b1405979e06b78a320e72&hsa_cr_id=8858526200202&lp_asins=B016S4ASK8%2CB016S4AU3I%2CB016TMHYAG&lp_query=Windlicht%20Laterne%20Messing&lp_slot=desktop-hsa-3psl&aref=XLHDMlCpNl&ref_=sbx_be_s_3psl_mbd_mb1_bkgd&pd_rd_w=avdkF&content-id=amzn1.sym.b17a27e2-f39b-40dd-b1d5-c7dee80f494a%3Aamzn1.sym.b17a27e2-f39b-40dd-b1d5-c7dee80f494a&pf_rd_p=b17a27e2-f39b-40dd-b1d5-c7dee80f494a&pf_rd_r=3Z3967996DM0Y0FE0BXK&pd_rd_wg=0JDfA&pd_rd_r=5ff77be1-9fca-4407-a982-3e33bf9fd97e",
+     "logo": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/1413941c-78da-4fb0-8eb5-4cd0487554ea._CR0,0,1404,572_AC_SX278_SY200_CB1169409_QL70_.png"
+    },
+    {
+     "position": 3,
+     "image": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/3bf9808a-aba9-4f11-8fc9-5e628a3ae806._CR0,488,2048,1072_SX920_CB1169409_QL70_.png",
+     "name": "Red logo for 'Vohoocandle' with stylized flame above text and 'Since 2008' tagline below on white background.",
+     "headline": "Clear glass tea light holders as room decoration",
+     "link": "https://aax-events-cell02-cf.eu-central.3px.axp.amazon-adsystem.com/x/c/JMOCaU4uE7MULe0NDmKHKh8AAAGg9B0KgQkAAAH2AQBvbm9fdHhuX2JpZDMgICBvbm9fdHhuX2ltcDIgICAUWFq1/clv1c_ek-wBXHXFcbSBn2jJHmDY4izhxo8uPJV6QPnrgLivBs1FhucEAYvJFWgwoFCnhFtFkkbPVgb4jdo3sflumSGdMQv4Q1pC-LyvTABXynYXWY0jju_ryFbC8KlAlh3qmhlv9dfITH_ekOKxxiDDpWGKfARjI2ckV_64gSA77QvyaI1-Vt9XFOVV9ByOlhvtSKXfcw1UMvuVtcJF2b3LE3F7mbAiwo6fFqiAS4LBtstN9fatUyOQzH1oPD9r8Qat4qT5k_06Ukhd0IqNZ8jfzNZs7Bzyze2mXtzpf1ZqkN6fWR8eGs6lCUhA7Q7nhLbRJQeAspwvcldYMt-lpltPo-JzFRC1vDHX_zvrkal0ejxXjYhpz3f6nxVNP8rG_nLl-nt4nWMtPywuuqjjFyai1Y4-k7VEMXNERHYluJapccNGcMQlgOrQdtb8kkdQUFdA2FThm60PVyPu-yfzam2T21yI5K3na7jv0A6pEIlZIRA4Z8NL1_Ts__Ulqkkl0TbHgsvPB0h0ZcILnyB26Imanb-A9_0shG5HZFWUuxMdma25nLWjJRpOJmxP83TSs7sMjERpq-QQsaRLfw2f45eDUdmaXNpCI0cX_2KIq43sfpDvOseyl4C-6exl3yfbs1XbighL5m31ju6MnanpRA-TB2PWS8Pdo4RVmO0mVvkZCBTlNQST23ImF8KoY5l-6ghiKjEpVkyXuo8q1cn5IXagBgrWODU09cmGqneWrSpkFrISoD43KScRYX_MdyIofPrGlDWhxfHMNC8owts5MdrfrTA28E4kZHXGO5lepytjya5fJpjjnxjbc1aHVwn3AnwXmHLcW6dEDwwXrV4jrTdyAdw5dGt-Yr46Ii4JDQ67yGJOzpxlcxEoVnl63Seo46bAMx9KBW4_jQsdW8vfR_JDbLE10bBaJ3WUHUokEnVn6NhRAQxB1_EhJq8Dg8DXgyM53lN0NBGY9NWycAHKsz-S83P5rj6UZHI-6cHG71xzquoABRjTTUkU7GrZ4AlC-4sS20DRyu_og6_lxO1mN5tpkhUe0P56VlYVPt9UvsEg4s6PumBTwTrESaeKUAwNYgJOheHN_HriiyiuwjndwoYhXoMWTL9bEexsvlk0nD6lp_R2RZQRwWTaJac8dq7_a1TkbhwCv-6-kcAIVQ1ZgZ9M_m1PGWPUCbhcNomHDHt9SXJOPFxHWNttPrTx7tSR0cvQGpRdK4TDR8Pi8maXODNhTx4Y3tnlmfZqmROI8quasKB-127jhozIcAFFbn5DE6Cs6FID26F5MrZUGqtpPFEvm6WUvavBMXr1jlcItr27aV7kqtxb47ldY5UppmN8GP_ES1o98tTjsTRsc18MEuP4cxgOmKSYaa7c_kBdeZqzNV_mHuh_akurCUj_LnXzaPGDyN-nRbcjWmwoPnrYiLJKGrdDDDuP11UeblCUDOEBHt0gJ5uRdkETvPy0wmkxRx2_bNPxdbseHKPTKl64xIQUQJmzqyUcbKmVDCt5K3UrjRWkGEpGuVlkeweh3yxbOyEXVr-X8FiaPo1pt3ieLVNG3HPMOFRbEkVU0sxWlUgQZKuDW2KgluAfAlYguE01hwajbu83GY4g-0WA5KZa10/https://www.amazon.de/stores/page/201C03FA-CAF3-4741-9C57-9E100C781A3A/?_encoding=UTF8&store_ref=SB_A06212461FWU3H7MS39X8-A08325951VSLRRK9YEP8Z&pd_rd_plhdr=t&aaxitk=1c1d3b5115b3a62b1344a1053c551dbc&hsa_cr_id=0&lp_asins=B0DNFCQBZ9%2CB0D8VTZYBJ%2CB0C36J75M3&lp_query=Windlicht%20Laterne%20Messing&lp_slot=desktop-hsa-3psl&aref=IrChhnFoAT&ref_=sbx_be_s_3psl_mbd_mb2_bkgd&pd_rd_w=avdkF&content-id=amzn1.sym.b17a27e2-f39b-40dd-b1d5-c7dee80f494a%3Aamzn1.sym.b17a27e2-f39b-40dd-b1d5-c7dee80f494a&pf_rd_p=b17a27e2-f39b-40dd-b1d5-c7dee80f494a&pf_rd_r=3Z3967996DM0Y0FE0BXK&pd_rd_wg=0JDfA&pd_rd_r=5ff77be1-9fca-4407-a982-3e33bf9fd97e",
+     "logo": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/9f68e4bb-06a3-4b7d-a3c5-7686adba8141._CR29,26,436,427_AC_SX278_SY200_CB1169409_QL70_.png"
+    }
+   ]
+  },
+  "categories": [
+   {
+    "position": 1,
+    "name": "Shopper Toolkit",
+    "link": "https://www.amazon.de/-/en/b/?node=15425785031&ref_=nav_cs_shoppertoolkit",
+    "node": "15425785031",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&node=15425785031"
+   },
+   {
+    "position": 2,
+    "name": "Fashion",
+    "link": "https://www.amazon.de/-/en/Amazon-Fashion-Mode/b/?ie=UTF8&node=11961464031&ref_=nav_cs_fashion",
+    "node": "11961464031",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&node=11961464031"
+   },
+   {
+    "position": 3,
+    "name": "Gift Cards",
+    "link": "https://www.amazon.de/-/en/Amazon-Geschenkgutscheine-Gutschein-Geschenkkarte-Gru%C3%9Fkarte-Geburtstag-Ostern-Weihnachten-Aufladen/b/?ie=UTF8&node=1571256031&ref_=nav_cs_gc",
+    "node": "1571256031",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&node=1571256031"
+   },
+   {
+    "position": 4,
+    "name": "Grocery",
+    "link": "https://www.amazon.de/-/en/Lebensmittel-Getr%C3%A4nke/b/?ie=UTF8&node=340846031&ref_=nav_cs_consumables",
+    "node": "340846031",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&node=340846031"
+   },
+   {
+    "position": 5,
+    "name": "Home & Kitchen",
+    "link": "https://www.amazon.de/-/en/k%C3%BCche-haushalt-wohnen/b/?ie=UTF8&node=3167641&ref_=nav_cs_home",
+    "node": "3167641",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&node=3167641"
+   },
+   {
+    "position": 6,
+    "name": "PC & Video Games",
+    "link": "https://www.amazon.de/-/en/Video-Games/b/?ie=UTF8&node=300992&ref_=nav_cs_video_games",
+    "node": "300992",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&node=300992"
+   },
+   {
+    "position": 7,
+    "name": "Kindle Books",
+    "link": "https://www.amazon.de/-/en/ebooks-kindle-buecher/b/?ie=UTF8&node=530886031&ref_=nav_cs_kindle_books",
+    "node": "530886031",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&node=530886031"
+   },
+   {
+    "position": 8,
+    "name": "Electronics & Photo",
+    "link": "https://www.amazon.de/-/en/Elektronik-Foto/b/?ie=UTF8&node=562066&ref_=nav_cs_electronics",
+    "node": "562066",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&node=562066"
+   },
+   {
+    "position": 9,
+    "name": "Home Improvement",
+    "link": "https://www.amazon.de/-/en/baumarkt-werkzeug-heimwerken/b/?ie=UTF8&node=80084031&ref_=nav_cs_hi",
+    "node": "80084031",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&node=80084031"
+   },
+   {
+    "position": 10,
+    "name": "Toys & Games",
+    "link": "https://www.amazon.de/-/en/Spielzeug-Brettspiele-Baby-Kleinkind/b/?ie=UTF8&node=12950651&ref_=nav_cs_toys",
+    "node": "12950651",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&node=12950651"
+   },
+   {
+    "position": 11,
+    "name": "Computers",
+    "link": "https://www.amazon.de/-/en/Computer-Zubehoer/b/?ie=UTF8&node=340843031&ref_=nav_cs_pc",
+    "node": "340843031",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&node=340843031"
+   },
+   {
+    "position": 12,
+    "name": "Drugstore & Body Care",
+    "link": "https://www.amazon.de/-/en/Drogerie-K%C3%B6rperpflege/b/?ie=UTF8&node=64187031&ref_=nav_cs_hpc",
+    "node": "64187031",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&node=64187031"
+   },
+   {
+    "position": 13,
+    "name": "Sports & Outdoors",
+    "link": "https://www.amazon.de/-/en/sport-freizeit-sportartikel/b/?ie=UTF8&node=16435051&ref_=nav_cs_sports",
+    "node": "16435051",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&node=16435051"
+   },
+   {
+    "position": 14,
+    "name": "Car & Motorbike",
+    "link": "https://www.amazon.de/-/en/auto-tuning-autoteile/b/?ie=UTF8&node=78191031&ref_=nav_cs_automotive",
+    "node": "78191031",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&node=78191031"
+   },
+   {
+    "position": 15,
+    "name": "Pet Supplies",
+    "link": "https://www.amazon.de/-/en/Tierbedarf-Tiernahrung/b/?ie=UTF8&node=340852031&ref_=nav_cs_pets",
+    "node": "340852031",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&node=340852031"
+   },
+   {
+    "position": 16,
+    "name": "Baby",
+    "link": "https://www.amazon.de/-/en/baby-babyausstattung-babyartikel/b/?ie=UTF8&node=355007011&ref_=nav_cs_baby",
+    "node": "355007011",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&node=355007011"
+   },
+   {
+    "position": 17,
+    "name": "Free Delivery",
+    "link": "https://www.amazon.de/-/en/b/?node=27173179031&ref_=nav_cs_freeshipping",
+    "node": "27173179031",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&node=27173179031"
+   },
+   {
+    "position": 18,
+    "name": "Custom Products",
+    "link": "https://www.amazon.de/-/en/Amazon-Custom/b/?ie=UTF8&node=14578056031&ref_=nav_cs_custom",
+    "node": "14578056031",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&node=14578056031"
+   }
+  ],
+  "filters": {
+   "eligible_for_free_delivery": [
+    {
+     "position": 1,
+     "name": "Free Delivery by Amazon",
+     "description": "Free Shipping by Amazon to eligible destinations",
+     "rh": "p_n_free_shipping_eligible:20943778031",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_n_free_shipping_eligible%3A20943778031&dc&qid=1790801938&rnid=20943777031&ref=sr_nr_p_n_free_shipping_eligible_1&ds=v1%3A2Kh74KxXLCib2%2BU9Cng5t78c9%2FznHkGPuwCokPKNFVU",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_n_free_shipping_eligible%3A20943778031"
+    }
+   ],
+   "price": [
+    {
+     "position": 1,
+     "name": "All Savings",
+     "rh": "p_n_deal_type:26902994031",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_n_deal_type%3A26902994031&dc&qid=1790801938&rnid=26902991031&ref=sr_nr_p_n_deal_type_1&ds=v1%3AY2RV7PWXqjGMQ0Ab47Bm0drb%2FroC1ZNtch8B7vN03QY",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_n_deal_type%3A26902994031"
+    },
+    {
+     "position": 2,
+     "name": "Buy More, Save More",
+     "rh": "p_n_deal_type:210770230031",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_n_deal_type%3A210770230031&dc&qid=1790801938&rnid=26902991031&ref=sr_nr_p_n_deal_type_2&ds=v1%3AS7DhlNx%2FG7qtW1mtEAgkTQ0TOfgVPZF16dMsZO8Y1Pc",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_n_deal_type%3A210770230031"
+    },
+    {
+     "position": 3,
+     "name": "Coupons",
+     "rh": "p_n_deal_type:210770231031",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_n_deal_type%3A210770231031&dc&qid=1790801938&rnid=26902991031&ref=sr_nr_p_n_deal_type_3&ds=v1%3AgJ8FgNjJS1WmOGYJ6vwXa0wOebE0kLo71SQWinKQf%2Fk",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_n_deal_type%3A210770231031"
+    },
+    {
+     "position": 4,
+     "name": "Today's Deals",
+     "rh": "p_n_deal_type:26902993031",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_n_deal_type%3A26902993031&dc&qid=1790801938&rnid=26902991031&ref=sr_nr_p_n_deal_type_4&ds=v1%3AhlypiY6eBKVIInLERjjytexVLx%2BFWMF80njy9qRdz6M",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_n_deal_type%3A26902993031"
+    }
+   ],
+   "colour": [
+    {
+     "position": 1,
+     "name": "Black",
+     "image": "https://m.media-amazon.com/images/G/03/nav2/images/gui/clothingcolorsprite._CB539899461_.png",
+     "rh": "p_n_g-1004162223091:2993680031",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_n_g-1004162223091%3A2993680031&dc&qid=1790801938&rnid=2984627031&ref=sr_nr_p_n_g-1004162223091_1&ds=v1%3AKDwyT2LzRPXF6ZrD139mody81mdXOIZkBbhwzMCAwcg",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_n_g-1004162223091%3A2993680031"
+    },
+    {
+     "position": 2,
+     "name": "Beige",
+     "image": "https://m.media-amazon.com/images/G/03/nav2/images/gui/clothingcolorsprite._CB539899461_.png",
+     "rh": "p_n_g-1004162223091:2993668031",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_n_g-1004162223091%3A2993668031&dc&qid=1790801938&rnid=2984627031&ref=sr_nr_p_n_g-1004162223091_2&ds=v1%3Anh4RVS3mH14AuPJvViJRdLGYYqHA1R6d%2B3EU9z7uvfs",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_n_g-1004162223091%3A2993668031"
+    },
+    {
+     "position": 3,
+     "name": "White",
+     "image": "https://m.media-amazon.com/images/G/03/nav2/images/gui/clothingcolorsprite._CB539899461_.png",
+     "rh": "p_n_g-1004162223091:2993684031",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_n_g-1004162223091%3A2993684031&dc&qid=1790801938&rnid=2984627031&ref=sr_nr_p_n_g-1004162223091_3&ds=v1%3AzZP18RkF6qDrlEYSumawYsBZD%2F9XXqoTQj7gNo2uPqw",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_n_g-1004162223091%3A2993684031"
+    },
+    {
+     "position": 4,
+     "name": "Blue",
+     "image": "https://m.media-amazon.com/images/G/03/nav2/images/gui/clothingcolorsprite._CB539899461_.png",
+     "rh": "p_n_g-1004162223091:2993669031",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_n_g-1004162223091%3A2993669031&dc&qid=1790801938&rnid=2984627031&ref=sr_nr_p_n_g-1004162223091_4&ds=v1%3A95kp2mrON7CaLIdaCzUiFtK3yYp8r5%2F8M4oBVBukXJk",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_n_g-1004162223091%3A2993669031"
+    },
+    {
+     "position": 5,
+     "name": "Brown",
+     "image": "https://m.media-amazon.com/images/G/03/nav2/images/gui/clothingcolorsprite._CB539899461_.png",
+     "rh": "p_n_g-1004162223091:2993670031",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_n_g-1004162223091%3A2993670031&dc&qid=1790801938&rnid=2984627031&ref=sr_nr_p_n_g-1004162223091_5&ds=v1%3AanuhzSUD4ZWdtlntRJxPyk3FYb40aVvHlGlwKzTIYGg",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_n_g-1004162223091%3A2993670031"
+    },
+    {
+     "position": 6,
+     "name": "Gold",
+     "image": "https://m.media-amazon.com/images/G/03/nav2/images/gui/clothingcolorsprite._CB539899461_.png",
+     "rh": "p_n_g-1004162223091:2993674031",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_n_g-1004162223091%3A2993674031&dc&qid=1790801938&rnid=2984627031&ref=sr_nr_p_n_g-1004162223091_6&ds=v1%3AO5dwpAejhdYSKTka56arpaJ047NJ6Zs90CIocYCeKbE",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_n_g-1004162223091%3A2993674031"
+    },
+    {
+     "position": 7,
+     "name": "Green",
+     "image": "https://m.media-amazon.com/images/G/03/nav2/images/gui/clothingcolorsprite._CB539899461_.png",
+     "rh": "p_n_g-1004162223091:2993676031",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_n_g-1004162223091%3A2993676031&dc&qid=1790801938&rnid=2984627031&ref=sr_nr_p_n_g-1004162223091_7&ds=v1%3A6hkQjOltvCObYSu24Ot%2FxWllKJstfSaIiK17Bfdu1vI",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_n_g-1004162223091%3A2993676031"
+    },
+    {
+     "position": 8,
+     "name": "Grey",
+     "image": "https://m.media-amazon.com/images/G/03/nav2/images/gui/clothingcolorsprite._CB539899461_.png",
+     "rh": "p_n_g-1004162223091:2993675031",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_n_g-1004162223091%3A2993675031&dc&qid=1790801938&rnid=2984627031&ref=sr_nr_p_n_g-1004162223091_8&ds=v1%3AbM1fmj1fX0qeOecpz8lN8N3qFnVOnJ6GrzKjIhwYh4s",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_n_g-1004162223091%3A2993675031"
+    },
+    {
+     "position": 9,
+     "name": "Multicoloured",
+     "image": "https://m.media-amazon.com/images/G/03/nav2/images/gui/clothingcolorsprite._CB539899461_.png",
+     "rh": "p_n_g-1004162223091:2993671031",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_n_g-1004162223091%3A2993671031&dc&qid=1790801938&rnid=2984627031&ref=sr_nr_p_n_g-1004162223091_9&ds=v1%3AY3gvUsNBUU6FOU0%2BVMZj%2FdlSjbNVlKCDii%2FweCbCJUY",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_n_g-1004162223091%3A2993671031"
+    },
+    {
+     "position": 10,
+     "name": "Orange",
+     "image": "https://m.media-amazon.com/images/G/03/nav2/images/gui/clothingcolorsprite._CB539899461_.png",
+     "rh": "p_n_g-1004162223091:2993677031",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_n_g-1004162223091%3A2993677031&dc&qid=1790801938&rnid=2984627031&ref=sr_nr_p_n_g-1004162223091_10&ds=v1%3ACpRHkiveOjsOItwOk%2FXPJWH0amXceJ5vxfqoDpoF1Oo",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_n_g-1004162223091%3A2993677031"
+    },
+    {
+     "position": 11,
+     "name": "Pink",
+     "image": "https://m.media-amazon.com/images/G/03/nav2/images/gui/clothingcolorsprite._CB539899461_.png",
+     "rh": "p_n_g-1004162223091:2993678031",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_n_g-1004162223091%3A2993678031&dc&qid=1790801938&rnid=2984627031&ref=sr_nr_p_n_g-1004162223091_11&ds=v1%3Azy5q7yeGZvvq8uMn27FK2%2FKmjrYYJhmXxb%2F6W18tRUs",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_n_g-1004162223091%3A2993678031"
+    },
+    {
+     "position": 12,
+     "name": "Red",
+     "image": "https://m.media-amazon.com/images/G/03/nav2/images/gui/clothingcolorsprite._CB539899461_.png",
+     "rh": "p_n_g-1004162223091:2993679031",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_n_g-1004162223091%3A2993679031&dc&qid=1790801938&rnid=2984627031&ref=sr_nr_p_n_g-1004162223091_12&ds=v1%3ADIvcMWty8kQvFztQiuUVbytT9hvSdBGZyDOV63D%2FdCw",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_n_g-1004162223091%3A2993679031"
+    },
+    {
+     "position": 13,
+     "name": "Silver",
+     "image": "https://m.media-amazon.com/images/G/03/nav2/images/gui/clothingcolorsprite._CB539899461_.png",
+     "rh": "p_n_g-1004162223091:2993681031",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_n_g-1004162223091%3A2993681031&dc&qid=1790801938&rnid=2984627031&ref=sr_nr_p_n_g-1004162223091_13&ds=v1%3AXk6twSFN%2FnJnlSxGHlqFXRihCdXOR%2BxA0%2BQj8kmZYQg",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_n_g-1004162223091%3A2993681031"
+    },
+    {
+     "position": 14,
+     "name": "Transparent",
+     "image": "https://m.media-amazon.com/images/G/03/nav2/images/gui/clothingcolorsprite._CB539899461_.png",
+     "rh": "p_n_g-1004162223091:4238449031",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_n_g-1004162223091%3A4238449031&dc&qid=1790801938&rnid=2984627031&ref=sr_nr_p_n_g-1004162223091_14&ds=v1%3AqOUiMzd8BfLmfA%2FdEfPG%2BafATpXmJvIjhF02i59JJxo",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_n_g-1004162223091%3A4238449031"
+    },
+    {
+     "position": 15,
+     "name": "Turquoise",
+     "image": "https://m.media-amazon.com/images/G/03/nav2/images/gui/clothingcolorsprite._CB539899461_.png",
+     "rh": "p_n_g-1004162223091:2993682031",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_n_g-1004162223091%3A2993682031&dc&qid=1790801938&rnid=2984627031&ref=sr_nr_p_n_g-1004162223091_15&ds=v1%3Aj3sM%2FIR8Y9fjp3oQetH873FqpbAedIjqG9N%2FBC3oAR8",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_n_g-1004162223091%3A2993682031"
+    },
+    {
+     "position": 16,
+     "name": "Yellow",
+     "image": "https://m.media-amazon.com/images/G/03/nav2/images/gui/clothingcolorsprite._CB539899461_.png",
+     "rh": "p_n_g-1004162223091:2993673031",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_n_g-1004162223091%3A2993673031&dc&qid=1790801938&rnid=2984627031&ref=sr_nr_p_n_g-1004162223091_16&ds=v1%3AliQ3QOvKJIKuTIz5ZoWJ81jvbTSIn9Aqb5gLsuh4dgc",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_n_g-1004162223091%3A2993673031"
+    }
+   ],
+   "material": [
+    {
+     "position": 1,
+     "name": "Metal",
+     "rh": "p_n_g-1004162017091:2984571031",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_n_g-1004162017091%3A2984571031&dc&qid=1790801938&rnid=2984564031&ref=sr_nr_p_n_g-1004162017091_1&ds=v1%3AtRmsgQJZH2WWwUzmmeuQVusc40S1%2F2DoceT6vGS0g7w",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_n_g-1004162017091%3A2984571031"
+    },
+    {
+     "position": 2,
+     "name": "Glass",
+     "rh": "p_n_g-1004162017091:2984569031",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_n_g-1004162017091%3A2984569031&dc&qid=1790801938&rnid=2984564031&ref=sr_nr_p_n_g-1004162017091_2&ds=v1%3AKhM5za6jmVgz%2F7tEpoh05VSwL64G%2FlucW5BuP8k3wZE",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_n_g-1004162017091%3A2984569031"
+    },
+    {
+     "position": 3,
+     "name": "Iron",
+     "rh": "p_n_g-1004162017091:14439842031",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_n_g-1004162017091%3A14439842031&dc&qid=1790801938&rnid=2984564031&ref=sr_nr_p_n_g-1004162017091_3&ds=v1%3AUBy72PXxzWye8RIFSCKZzuh6QpGIwYVxevQ7FP1hSUU",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_n_g-1004162017091%3A14439842031"
+    },
+    {
+     "position": 4,
+     "name": "Alloy Steel",
+     "rh": "p_n_g-1004162017091:211734597031",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_n_g-1004162017091%3A211734597031&dc&qid=1790801938&rnid=2984564031&ref=sr_nr_p_n_g-1004162017091_4&ds=v1%3ALzKBuTDj9kjjBOag7uODAHDXM4sWqNmG8tcMH%2FyCya0",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_n_g-1004162017091%3A211734597031"
+    },
+    {
+     "position": 5,
+     "name": "Bamboo",
+     "rh": "p_n_g-1004162017091:2984565031",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_n_g-1004162017091%3A2984565031&dc&qid=1790801938&rnid=2984564031&ref=sr_nr_p_n_g-1004162017091_5&ds=v1%3AgoJbHIXiqwyX3%2FdOhbrUUp1hzQV5jJluiAEVY2BkYGg",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_n_g-1004162017091%3A2984565031"
+    },
+    {
+     "position": 6,
+     "name": "Brass",
+     "rh": "p_n_g-1004162017091:14439841031",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_n_g-1004162017091%3A14439841031&dc&qid=1790801938&rnid=2984564031&ref=sr_nr_p_n_g-1004162017091_6&ds=v1%3AKMz7X%2BACLfMKJowg6lyr2xCLd4LUV8OmAzO3%2FT0IMgI",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_n_g-1004162017091%3A14439841031"
+    },
+    {
+     "position": 7,
+     "name": "Ceramic",
+     "rh": "p_n_g-1004162017091:2984566031",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_n_g-1004162017091%3A2984566031&dc&qid=1790801938&rnid=2984564031&ref=sr_nr_p_n_g-1004162017091_7&ds=v1%3Al3P9IbyYIMYAVp61AFKQrnUeeCIgN%2FKPnT8EZlZP7xY",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_n_g-1004162017091%3A2984566031"
+    },
+    {
+     "position": 8,
+     "name": "Clay",
+     "rh": "p_n_g-1004162017091:211734622031",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_n_g-1004162017091%3A211734622031&dc&qid=1790801938&rnid=2984564031&ref=sr_nr_p_n_g-1004162017091_8&ds=v1%3Aa0190SUCrNISTQBxiCq2PxVdXwXz09X%2FWbnDkTFAeiM",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_n_g-1004162017091%3A211734622031"
+    },
+    {
+     "position": 9,
+     "name": "Crystal",
+     "rh": "p_n_g-1004162017091:2984567031",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_n_g-1004162017091%3A2984567031&dc&qid=1790801938&rnid=2984564031&ref=sr_nr_p_n_g-1004162017091_9&ds=v1%3Aq2x4nUuaDx3Oh9FSe4Sm336qEiOIjM%2FiJH1lZUhvlsw",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_n_g-1004162017091%3A2984567031"
+    },
+    {
+     "position": 10,
+     "name": "Fabric",
+     "rh": "p_n_g-1004162017091:2984568031",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_n_g-1004162017091%3A2984568031&dc&qid=1790801938&rnid=2984564031&ref=sr_nr_p_n_g-1004162017091_10&ds=v1%3AQILYH%2BdFAIZ2BohC4b7ZSYQJPxr06e7MPdZ%2FjV9q3f8",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_n_g-1004162017091%3A2984568031"
+    },
+    {
+     "position": 11,
+     "name": "Granite",
+     "rh": "p_n_g-1004162017091:211734572031",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_n_g-1004162017091%3A211734572031&dc&qid=1790801938&rnid=2984564031&ref=sr_nr_p_n_g-1004162017091_11&ds=v1%3A%2BK8tzVG9q3xtcN1vY1wM9jzsIlh6OB6r0lEeFu3G16A",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_n_g-1004162017091%3A211734572031"
+    },
+    {
+     "position": 12,
+     "name": "Leather",
+     "rh": "p_n_g-1004162017091:2984570031",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_n_g-1004162017091%3A2984570031&dc&qid=1790801938&rnid=2984564031&ref=sr_nr_p_n_g-1004162017091_12&ds=v1%3AstBaM4gb%2BS7KxB7WFvS4oEJE6G582Ju%2BflCRtO%2B8qFo",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_n_g-1004162017091%3A2984570031"
+    },
+    {
+     "position": 13,
+     "name": "Paper",
+     "rh": "p_n_g-1004162017091:14363083031",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_n_g-1004162017091%3A14363083031&dc&qid=1790801938&rnid=2984564031&ref=sr_nr_p_n_g-1004162017091_13&ds=v1%3AmCFsZSGw2UUhy%2BhvSe7lRMhpUxJV7z5IyZKQthRvIpw",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_n_g-1004162017091%3A14363083031"
+    },
+    {
+     "position": 14,
+     "name": "Plastic",
+     "rh": "p_n_g-1004162017091:2984573031",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_n_g-1004162017091%3A2984573031&dc&qid=1790801938&rnid=2984564031&ref=sr_nr_p_n_g-1004162017091_14&ds=v1%3ABaExWeb1Iym0rLB4B%2BvENvIRODdCNThZbLLpNI%2B%2FCoU",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_n_g-1004162017091%3A2984573031"
+    },
+    {
+     "position": 15,
+     "name": "Polystone",
+     "rh": "p_n_g-1004162017091:211734507031",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_n_g-1004162017091%3A211734507031&dc&qid=1790801938&rnid=2984564031&ref=sr_nr_p_n_g-1004162017091_15&ds=v1%3AFt17OAXgaJMXqs4HjXHqjd85IGoIY0X2fEewm2%2F1bpA",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_n_g-1004162017091%3A211734507031"
+    },
+    {
+     "position": 16,
+     "name": "Porcelain",
+     "rh": "p_n_g-1004162017091:2984574031",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_n_g-1004162017091%3A2984574031&dc&qid=1790801938&rnid=2984564031&ref=sr_nr_p_n_g-1004162017091_16&ds=v1%3Ai60hJ7SQU2b9gdsrnRot3gQfnqGfZLnmUAAcC%2Fnf%2BHw",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_n_g-1004162017091%3A2984574031"
+    },
+    {
+     "position": 17,
+     "name": "Raffia",
+     "rh": "p_n_g-1004162017091:211734553031",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_n_g-1004162017091%3A211734553031&dc&qid=1790801938&rnid=2984564031&ref=sr_nr_p_n_g-1004162017091_17&ds=v1%3ADXkEqSTESl26Dr5HnRvHp%2BWVSvlaUsnU4SbkKEndqiY",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_n_g-1004162017091%3A211734553031"
+    },
+    {
+     "position": 18,
+     "name": "Rattan",
+     "rh": "p_n_g-1004162017091:2984575031",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_n_g-1004162017091%3A2984575031&dc&qid=1790801938&rnid=2984564031&ref=sr_nr_p_n_g-1004162017091_18&ds=v1%3A8H08d%2B%2FzpaKY9%2Fm9xC6W24yohd79b5BKoZW1C%2FZ4jTM",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_n_g-1004162017091%3A2984575031"
+    },
+    {
+     "position": 19,
+     "name": "Sandstone",
+     "rh": "p_n_g-1004162017091:211734561031",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_n_g-1004162017091%3A211734561031&dc&qid=1790801938&rnid=2984564031&ref=sr_nr_p_n_g-1004162017091_19&ds=v1%3A2Y76qsBgwZ%2F%2Brei6AWJJ3c7zmgSNqhuM99%2Fm10sCkQ0",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_n_g-1004162017091%3A211734561031"
+    },
+    {
+     "position": 20,
+     "name": "Silver",
+     "rh": "p_n_g-1004162017091:2984576031",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_n_g-1004162017091%3A2984576031&dc&qid=1790801938&rnid=2984564031&ref=sr_nr_p_n_g-1004162017091_20&ds=v1%3AvLupc7LbyqQwuDeYLtjTBbqus2b67pRxTXqfMshzGLQ",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_n_g-1004162017091%3A2984576031"
+    },
+    {
+     "position": 21,
+     "name": "Steel",
+     "rh": "p_n_g-1004162017091:211734626031",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_n_g-1004162017091%3A211734626031&dc&qid=1790801938&rnid=2984564031&ref=sr_nr_p_n_g-1004162017091_21&ds=v1%3ALXiPrIkpgeJoqGzz9Tnn%2FZQ6oC6SEneDqIkazB4lrH0",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_n_g-1004162017091%3A211734626031"
+    },
+    {
+     "position": 22,
+     "name": "Stone",
+     "rh": "p_n_g-1004162017091:2984577031",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_n_g-1004162017091%3A2984577031&dc&qid=1790801938&rnid=2984564031&ref=sr_nr_p_n_g-1004162017091_22&ds=v1%3AQQURGNccjfypu96IXk8jitoB8bl8QlANDLglhvGVFyk",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_n_g-1004162017091%3A2984577031"
+    },
+    {
+     "position": 23,
+     "name": "Terracotta",
+     "rh": "p_n_g-1004162017091:211734625031",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_n_g-1004162017091%3A211734625031&dc&qid=1790801938&rnid=2984564031&ref=sr_nr_p_n_g-1004162017091_23&ds=v1%3AHbFkFZ0Pg5XnHDYgztR3QAjDAw7uMqqbhYyzFTU0QKc",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_n_g-1004162017091%3A211734625031"
+    },
+    {
+     "position": 24,
+     "name": "Water Hyacinth",
+     "rh": "p_n_g-1004162017091:211734488031",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_n_g-1004162017091%3A211734488031&dc&qid=1790801938&rnid=2984564031&ref=sr_nr_p_n_g-1004162017091_24&ds=v1%3Ad5FF8enLxwcmKlBk0eSSm8Zj58FwpIziibkq5EOngTw",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_n_g-1004162017091%3A211734488031"
+    },
+    {
+     "position": 25,
+     "name": "Wood",
+     "rh": "p_n_g-1004162017091:2984581031",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_n_g-1004162017091%3A2984581031&dc&qid=1790801938&rnid=2984564031&ref=sr_nr_p_n_g-1004162017091_25&ds=v1%3A7hvGo1WDL%2FCzuBCQr%2FdRyRzOXOF6cPjukfumrml7nwE",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_n_g-1004162017091%3A2984581031"
+    }
+   ],
+   "customer_review": [
+    {
+     "position": 1,
+     "name": "& Up",
+     "rh": "p_72:419117031",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_72%3A419117031&dc&qid=1790801938&rnid=419116031&ref=sr_nr_p_72_1&ds=v1%3ABCg7vs2hRs8Fx5dqJ2918bYkoijRCjx53s3JvAFQrN0",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_72%3A419117031"
+    }
+   ],
+   "brands": [
+    {
+     "position": 1,
+     "name": "blomus",
+     "rh": "p_123:241220",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_123%3A241220&dc&qid=1790801938&rnid=91049101031&ref=sr_nr_p_123_1&ds=v1%3AmbOutI4u6GC%2FXNfb6JKJZ2BZFMrFPpndnCCYBGygqxU",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_123%3A241220"
+    },
+    {
+     "position": 2,
+     "name": "Boltze",
+     "rh": "p_123:428279",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_123%3A428279&dc&qid=1790801938&rnid=91049101031&ref=sr_nr_p_123_2&ds=v1%3AZwiV%2BEJu1pU2%2FX3OhcTVL3EePvJUP2RTUFzEJPVpJ9Y",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_123%3A428279"
+    },
+    {
+     "position": 3,
+     "name": "Räder",
+     "rh": "p_123:209999",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_123%3A209999&dc&qid=1790801938&rnid=91049101031&ref=sr_nr_p_123_3&ds=v1%3A%2FsGlMBhG1XeNy4ofxeOWgJ1lWrch5lBT63MzwAuq%2Bs8",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_123%3A209999"
+    },
+    {
+     "position": 4,
+     "name": "Sziqiqi",
+     "rh": "p_123:519370",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_123%3A519370&dc&qid=1790801938&rnid=91049101031&ref=sr_nr_p_123_4&ds=v1%3AQrRePL1uiEyJF1erPjSuwL%2BcZdrRQGGKNSsXYjkxgtI",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_123%3A519370"
+    },
+    {
+     "position": 5,
+     "name": "NUPTIO",
+     "rh": "p_123:581911",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_123%3A581911&dc&qid=1790801938&rnid=91049101031&ref=sr_nr_p_123_5&ds=v1%3AqmLG6gwnW%2BMUVPOqxrM3Kviu5VZfvNn7%2BlokYKGZRtc",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_123%3A581911"
+    }
+   ],
+   "condition": [
+    {
+     "position": 1,
+     "name": "New",
+     "rh": "p_n_condition-type:776949031",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_n_condition-type%3A776949031&dc&qid=1790801938&rnid=776942031&ref=sr_nr_p_n_condition-type_1&ds=v1%3AJfM7AS%2FMSTMelS98PQuy0xQDj%2B7jUrGowUpK061kTmo",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_n_condition-type%3A776949031"
+    },
+    {
+     "position": 2,
+     "name": "Used",
+     "rh": "p_n_condition-type:776950031",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_n_condition-type%3A776950031&dc&qid=1790801938&rnid=776942031&ref=sr_nr_p_n_condition-type_2&ds=v1%3AGW7%2BmIrjRwE26VA12w3F9M4aWznRTmw7GcYFWhfwn9Q",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_n_condition-type%3A776950031"
+    }
+   ],
+   "mounting_type": [
+    {
+     "position": 1,
+     "name": "Ceiling Mount",
+     "rh": "p_n_g-1003335663111:28287348031",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_n_g-1003335663111%3A28287348031&dc&qid=1790801938&rnid=28287117031&ref=sr_nr_p_n_g-1003335663111_1&ds=v1%3AxSFJKQQtGWL0FbclkcRbCdRgXP70dcA3OSNjO7gtp5c",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_n_g-1003335663111%3A28287348031"
+    },
+    {
+     "position": 2,
+     "name": "Floor Mount",
+     "rh": "p_n_g-1003335663111:28287346031",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_n_g-1003335663111%3A28287346031&dc&qid=1790801938&rnid=28287117031&ref=sr_nr_p_n_g-1003335663111_2&ds=v1%3A%2F0tqJWQxfPlyzxCM%2FUMnE2PTmMWHUCCR1KIKr2AS0uk",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_n_g-1003335663111%3A28287346031"
+    },
+    {
+     "position": 3,
+     "name": "Tabletop",
+     "rh": "p_n_g-1003335663111:28287345031",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_n_g-1003335663111%3A28287345031&dc&qid=1790801938&rnid=28287117031&ref=sr_nr_p_n_g-1003335663111_3&ds=v1%3AXj33AQ0gPTGJFy228nxcuvys8%2FDbDqmER%2BGLUCF9400",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_n_g-1003335663111%3A28287345031"
+    },
+    {
+     "position": 4,
+     "name": "Wall Mount",
+     "rh": "p_n_g-1003335663111:28287347031",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_n_g-1003335663111%3A28287347031&dc&qid=1790801938&rnid=28287117031&ref=sr_nr_p_n_g-1003335663111_4&ds=v1%3ANH2uP%2FWNrNzLUBT20Spnn2kPEvE4C418n%2Fug2ZvJSz0",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_n_g-1003335663111%3A28287347031"
+    }
+   ],
+   "seller": [
+    {
+     "position": 1,
+     "name": "Mr. & Mrs. Panda",
+     "rh": "p_6:A18YIDZ2PAKH2U",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_6%3AA18YIDZ2PAKH2U&dc&qid=1790801938&rnid=419115031&ref=sr_nr_p_6_1&ds=v1%3AC%2BoRSpptTEp7lo4o%2BuslrteOLD1UCWPCgzyx12v7MEE",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_6%3AA18YIDZ2PAKH2U"
+    },
+    {
+     "position": 2,
+     "name": "Marrakesch, Orient & Mediterran Interior",
+     "rh": "p_6:AVD65X28Z51EN",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_6%3AAVD65X28Z51EN&dc&qid=1790801938&rnid=419115031&ref=sr_nr_p_6_2&ds=v1%3AsQMqyecALpp1ccnjBFBpysba6th87ZzCH3H9GKGBNbo",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_6%3AAVD65X28Z51EN"
+    },
+    {
+     "position": 3,
+     "name": "Amazon.de",
+     "rh": "p_6:A3JWKAKR8XB7XF",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_6%3AA3JWKAKR8XB7XF&dc&qid=1790801938&rnid=419115031&ref=sr_nr_p_6_3&ds=v1%3Api7sM%2BBHRNuPIfrMUhDU3zvtFs099HzMmKtgw9F5z9Y",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_6%3AA3JWKAKR8XB7XF"
+    },
+    {
+     "position": 4,
+     "name": "Guru Shop",
+     "rh": "p_6:A1LYYZJJ04E5LK",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_6%3AA1LYYZJJ04E5LK&dc&qid=1790801938&rnid=419115031&ref=sr_nr_p_6_4&ds=v1%3At1%2BTJF9iSCN8yY7yhEqD%2F%2FjmbiYCEnW36QhQAknFa%2BQ",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_6%3AA1LYYZJJ04E5LK"
+    },
+    {
+     "position": 5,
+     "name": "C.R. Nordhoff Haus der Geschenke",
+     "rh": "p_6:A20PEP1XQXE5X2",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_6%3AA20PEP1XQXE5X2&dc&qid=1790801938&rnid=419115031&ref=sr_nr_p_6_5&ds=v1%3AcuFXJ7Gxcxr2PB3WQ7a8SdW3IQWbwy6bARmWEzBtLvY",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_6%3AA20PEP1XQXE5X2"
+    },
+    {
+     "position": 6,
+     "name": "JINBO",
+     "rh": "p_6:A3SQLKEDFVY2SP",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_6%3AA3SQLKEDFVY2SP&dc&qid=1790801938&rnid=419115031&ref=sr_nr_p_6_6&ds=v1%3A%2F%2BGZVm26YMgbEmcDyCXXP89gu8T6cyT0BUUPqbud958",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_6%3AA3SQLKEDFVY2SP"
+    },
+    {
+     "position": 7,
+     "name": "Yscxkj-EU",
+     "rh": "p_6:A291ABX3A5W5R3",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_6%3AA291ABX3A5W5R3&dc&qid=1790801938&rnid=419115031&ref=sr_nr_p_6_7&ds=v1%3AM%2BYU5BoMEF2tAoB6CAkIWaheNNUPhYs0zHNPOVx6Aoc",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_6%3AA291ABX3A5W5R3"
+    }
+   ],
+   "finish_type": [
+    {
+     "position": 1,
+     "name": "Polished",
+     "rh": "p_n_g-1003232429111:28126742031",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_n_g-1003232429111%3A28126742031&dc&qid=1790801938&rnid=28126737031&ref=sr_nr_p_n_g-1003232429111_1&ds=v1%3ASQ6J7D%2FQs5xQRLsBjuVg133XkklwaVslz20lQdxWZWM",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_n_g-1003232429111%3A28126742031"
+    },
+    {
+     "position": 2,
+     "name": "Lacquered",
+     "rh": "p_n_g-1003232429111:28126738031",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_n_g-1003232429111%3A28126738031&dc&qid=1790801938&rnid=28126737031&ref=sr_nr_p_n_g-1003232429111_2&ds=v1%3ADJNZ7ki1LO12UsCSyJLhBZR8l3qsMnCzaJKu9AoZD%2Fw",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_n_g-1003232429111%3A28126738031"
+    },
+    {
+     "position": 3,
+     "name": "Unfinished",
+     "rh": "p_n_g-1003232429111:28126740031",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_n_g-1003232429111%3A28126740031&dc&qid=1790801938&rnid=28126737031&ref=sr_nr_p_n_g-1003232429111_3&ds=v1%3A%2B8NodycoMpodx970f9JWkB6HD2OeJB30iEN5Z5%2Fd4rA",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_n_g-1003232429111%3A28126740031"
+    },
+    {
+     "position": 4,
+     "name": "Brushed",
+     "rh": "p_n_g-1003232429111:28126741031",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_n_g-1003232429111%3A28126741031&dc&qid=1790801938&rnid=28126737031&ref=sr_nr_p_n_g-1003232429111_4&ds=v1%3AW1JxdPp1YmxnvzfFA%2FOdjrWormjILeveCzMmcveGFa8",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_n_g-1003232429111%3A28126741031"
+    },
+    {
+     "position": 5,
+     "name": "Galvanized",
+     "rh": "p_n_g-1003232429111:213466769031",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_n_g-1003232429111%3A213466769031&dc&qid=1790801938&rnid=28126737031&ref=sr_nr_p_n_g-1003232429111_5&ds=v1%3AdQWYZuwH%2B8mAOLHj0pXMSpZ%2FVRVSKD4OAtMjc16poP0",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_n_g-1003232429111%3A213466769031"
+    },
+    {
+     "position": 6,
+     "name": "Matte",
+     "rh": "p_n_g-1003232429111:213466768031",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_n_g-1003232429111%3A213466768031&dc&qid=1790801938&rnid=28126737031&ref=sr_nr_p_n_g-1003232429111_6&ds=v1%3AVcRZBoXgf%2FmqfEGUhjA%2FbthDHkA3Rqt9pcV7YOB7jYw",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_n_g-1003232429111%3A213466768031"
+    },
+    {
+     "position": 7,
+     "name": "Oil Rubbed",
+     "rh": "p_n_g-1003232429111:28126739031",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_n_g-1003232429111%3A28126739031&dc&qid=1790801938&rnid=28126737031&ref=sr_nr_p_n_g-1003232429111_7&ds=v1%3Av6OD4C7jt39e61moX8BH9xjJdMUtGTSu15%2ByHvFgt%2BM",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_n_g-1003232429111%3A28126739031"
+    },
+    {
+     "position": 8,
+     "name": "Painted",
+     "rh": "p_n_g-1003232429111:28126744031",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_n_g-1003232429111%3A28126744031&dc&qid=1790801938&rnid=28126737031&ref=sr_nr_p_n_g-1003232429111_8&ds=v1%3AW%2FfBurg0XAo16HUKDSnEX%2BUI8ICjhMJ9D2Ztyf7q3r4",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_n_g-1003232429111%3A28126744031"
+    },
+    {
+     "position": 9,
+     "name": "Powder Coated",
+     "rh": "p_n_g-1003232429111:28126743031",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_n_g-1003232429111%3A28126743031&dc&qid=1790801938&rnid=28126737031&ref=sr_nr_p_n_g-1003232429111_9&ds=v1%3ADHFaD9Im1BF7lzypRUVLNVZrKE329pHAjhUTCyl%2FVQc",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_n_g-1003232429111%3A28126743031"
+    },
+    {
+     "position": 10,
+     "name": "Textured",
+     "rh": "p_n_g-1003232429111:213466767031",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_n_g-1003232429111%3A213466767031&dc&qid=1790801938&rnid=28126737031&ref=sr_nr_p_n_g-1003232429111_10&ds=v1%3A44SKVP1GNrJYIc6RxM6RSc0aos%2FbwWq0sqgJDr8RvsE",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_n_g-1003232429111%3A213466767031"
+    }
+   ],
+   "customisable_products": [
+    {
+     "position": 1,
+     "name": "Customisable Products",
+     "rh": "p_n_customizable_template_name:27032279031",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_n_customizable_template_name%3A27032279031&dc&qid=1790801938&rnid=27032272031&ref=sr_nr_p_n_customizable_template_name_1&ds=v1%3AEx9lzV9f1D9N1ROgrI6OjbNk0hQBR0f8%2BuwmWxNyWMA",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_n_customizable_template_name%3A27032279031"
+    }
+   ],
+   "amazon_global_store": [
+    {
+     "position": 1,
+     "name": "Amazon Global Store",
+     "rh": "p_n_is-global-store-asin:22372323031",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_n_is-global-store-asin%3A22372323031&dc&qid=1790801938&rnid=22372322031&ref=sr_nr_p_n_is-global-store-asin_1&ds=v1%3AuleGhhnnn8%2F5IPMj7Ozcg468BxmE8zLTKRx09UbuVIk",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_n_is-global-store-asin%3A22372323031"
+    }
+   ],
+   "availability": [
+    {
+     "position": 1,
+     "name": "Include Out of Stock",
+     "rh": "p_n_availability:419126031",
+     "link": "https://www.amazon.de/-/en/s?k=Windlicht+Laterne+Messing&rh=p_n_availability%3A419126031&dc&qid=1790801938&rnid=419124031&ref=sr_nr_p_n_availability_2&ds=v1%3A0iAHvq%2BOIT%2BQD0Rs1IxtP79WJfhsAdh8VyVLZXBATjE",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&rh=p_n_availability%3A419126031"
+    }
+   ]
+  },
+  "serpapi_pagination": {
+   "current": 1,
+   "next": "https://serpapi.com/search.json?amazon_domain=amazon.de&device=desktop&engine=amazon&k=Windlicht+Laterne+Messing&page=2"
+  }
+ }
+}

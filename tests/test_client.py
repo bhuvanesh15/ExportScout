@@ -211,3 +211,22 @@ def test_prefer_fixtures_reuses_recordings_in_live_mode(tmp_path):
     live, fake2 = make_client(tmp_path / "live", fixture_dir=tmp_path / "fixtures", prefer_fixtures=True, budget=0)
     resp = live.search("amazon", k="brass planter", amazon_domain="amazon.co.uk")
     assert resp.source == "fixture" and live.credits_used == 0 and not fake2.searches()
+
+
+def test_scrub_contacts_keeps_links_and_metadata():
+    from exportscout.serp.client import scrub_contacts
+
+    data = {
+        "jobs_results": [{
+            "description": "Apply to jane.doe@shop.co.uk or call +44 20 7946 0958 by Friday.",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&htidocid=12345678901",
+            "apply_options": [{"link": "https://jobs.example.com/retail/201234567/e/"}],
+        }],
+        "search_metadata": {"created_at": "2026-09-30 20:37:50 UTC"},
+    }
+    out = scrub_contacts(data)
+    job = out["jobs_results"][0]
+    assert job["description"] == "Apply to [email] or call [phone] by Friday."
+    assert job["share_link"] == data["jobs_results"][0]["share_link"]
+    assert job["apply_options"][0]["link"].endswith("/201234567/e/")
+    assert out["search_metadata"]["created_at"] == "2026-09-30 20:37:50 UTC"

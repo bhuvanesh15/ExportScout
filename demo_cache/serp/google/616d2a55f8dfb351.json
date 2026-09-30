@@ -1,0 +1,390 @@
+{
+ "engine": "google",
+ "params": {
+  "q": "Dobbies UK",
+  "gl": "uk",
+  "hl": "en",
+  "google_domain": "google.co.uk"
+ },
+ "fetched_at": "2026-09-30T21:07:48+00:00",
+ "data": {
+  "search_metadata": {
+   "id": "6abd7a23874d507a4949beb1",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/u_rudSp1wqPhziiZJ-IEeXtQ-iakRBevV8309q5MdsU/6abd7a23874d507a4949beb1.json",
+   "markdown_endpoint": "https://serpapi.com/searches/u_rudSp1wqPhziiZJ-IEeXtQ-iakRBevV8309q5MdsU/6abd7a23874d507a4949beb1.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/u_rudSp1wqPhziiZJ-IEeXtQ-iakRBevV8309q5MdsU/6abd7a23874d507a4949beb1.json_with_pixel_position",
+   "created_at": "2026-09-30 21:07:47 UTC",
+   "processed_at": "2026-09-30 21:07:47 UTC",
+   "google_url": "https://www.google.co.uk/search?q=Dobbies+UK&oq=Dobbies+UK&hl=en&gl=uk&sourceid=chrome&ie=UTF-8",
+   "raw_html_file": "https://serpapi.com/searches/u_rudSp1wqPhziiZJ-IEeXtQ-iakRBevV8309q5MdsU/6abd7a23874d507a4949beb1.html",
+   "total_time_taken": 0.58
+  },
+  "search_parameters": {
+   "engine": "google",
+   "q": "Dobbies UK",
+   "google_domain": "google.co.uk",
+   "hl": "en",
+   "gl": "uk",
+   "device": "desktop"
+  },
+  "search_information": {
+   "query_displayed": "Dobbies UK",
+   "total_results": 75700,
+   "time_taken_displayed": 0.31,
+   "organic_results_state": "Results for exact spelling"
+  },
+  "inline_images": [
+   {
+    "source": "https://www.heraldscotland.com/news/national/uk-today/24620670.full-list-dobbies-garden-centres-closing-uk/",
+    "thumbnail": "https://serpapi.com/searches/6abd7a23874d507a4949beb1/images/gHEMwtJPCA3jjcrw3vkwZ6-zuzwyN2eCqvUsIlxehbQ.jpeg",
+    "original": "https://www.heraldscotland.com/resources/images/18597768.jpg/",
+    "title": "Full list of Dobbies garden centres closing in the UK | The ...",
+    "source_name": "The Herald"
+   },
+   {
+    "source": "https://www.birminghammail.co.uk/whats-on/shopping/dobbies-shutting-16-garden-centres-30464318",
+    "thumbnail": "https://serpapi.com/searches/6abd7a23874d507a4949beb1/images/PUIyLEjo1QMHr66wHQa5_KAAbbGeNhVIswt60RNd1Ik.jpeg",
+    "original": "https://i2-prod.birminghammail.co.uk/article30464384.ece/ALTERNATES/s1200c/0_dobbies.jpg",
+    "title": "Dobbies shutting 16 garden centres in UK with full list of ...",
+    "source_name": "Birmingham Live"
+   },
+   {
+    "source": "https://card.pluxee.uk/GIAGIA/Register/Partner/1379",
+    "thumbnail": "https://serpapi.com/searches/6abd7a23874d507a4949beb1/images/CbVsR4S5QE9GYPd6rcrf_SKu6s_OcpEXxViOEO-W9Qc.jpeg",
+    "original": "https://card.pluxee.uk/SharedImages/Suppliers/1379.jpg",
+    "title": "giant reward card | Dobbies Garden Centres",
+    "source_name": "Pluxee"
+   },
+   {
+    "source": "https://www.hortweek.com/will-dobbies-move-uk-nurseries-step-supply/retail/article/1435643",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLz71c9qI1dj8jSjgB3Zi_q9PUKBDXtpAL81VO-25ykHfzChV2N3Jdau0&s",
+    "original": "https://cached.imagescaler.hbpl.co.uk/resize/scaleWidth/1272/cached.offlinehbpl.hbpl.co.uk/news/WOH/Dobbies-Southport-Exterior-07-2017060702473099.jpg",
+    "title": "Will Dobbies move see UK nurseries step up supply? | HortWeek",
+    "source_name": "Horticulture Week"
+   },
+   {
+    "source": "https://www.mirror.co.uk/money/major-gardening-retailer-close-17-33790644",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcXC7ADrVSwVU08wYu11wXuFb69_frnzwtUlUDOhWUR-BaPhLfMSo3ibM&s",
+    "original": "https://i2-prod.mirror.co.uk/incoming/article33791054.ece/ALTERNATES/s1200c/0_a85b3f00-48d9-4cb4-b6dd-527f989612a3_result.jpg",
+    "title": "Dobbies to close 17 UK stores in major blow for shoppers ...",
+    "source_name": "Mirror"
+   },
+   {
+    "source": "https://www.insider.co.uk/news/dobbies-wyevale-garden-centres-sale-13383112",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT41pxtsNSmXbrazjbtN13z8yKFA411eYtqs0-YQoT-zNKW10nvKwUte-W4Lg&s",
+    "original": "https://i2-prod.dailyrecord.co.uk/incoming/article13383173.ece/ALTERNATES/s615/0_JS25696302.jpg",
+    "title": "Dobbies snaps up five garden centres in England from rival ...",
+    "source_name": "Scottish Business Insider"
+   },
+   {
+    "source": "https://www.gardenforum.co.uk/headlines/british-garden-centres-acquires-dobbies-gloucester-and-reading-stores/",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdh2OOK7Gtmwu_8t1LkWopZzyDWajeeNu7GrUfvmo2Cu7nIScB06CPMWkNiw&s",
+    "original": "https://www.gardenforum.co.uk/images/articles/large_charles-and-amy.jpg",
+    "title": "Gardenforum Headlines - British Garden Centres acquires ...",
+    "source_name": "Gardenforum"
+   },
+   {
+    "source": "https://www.dobbies.com/spring-sensory-garden-collection-for-alzheimer-s-research-uk/5638260618.p",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsEdwnSHPfsfmzc4LR6vNSvva7anWNp8IKGyAyDE6cmFoTIKqmKoMfC-o&s",
+    "original": "https://images-eu-prod.cms.commerce.dynamics.com/cms/api/rsbnfrmlpw/imageFileData/search?fileName=/Products%2F914206_000_001.png",
+    "title": "Spring Sensory Garden Collection for Alzheimer's Research UK",
+    "source_name": "Dobbies Garden Centres"
+   },
+   {
+    "source": "https://www.youtube.com/watch?v=KbHf8IvsTeI",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1FgSBtUU7gNkCtHxOXw1NrjMWZJNb-cJmIzDJ6bmmzYmKWSV9iT33gsU&s",
+    "original": "https://i.ytimg.com/vi/c8PtOqrntqU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDi3sNOE6wMCJYUsLFhuLK2gpcl-A",
+    "title": "New Arrivals! at Dobbies Garden Centre UK | Halloween ...",
+    "source_name": "YouTube"
+   }
+  ],
+  "related_questions": [
+   {
+    "question": "What happened to Dobbies?",
+    "type": "ai_overview",
+    "page_token": "Iu_kdXicHdBRboIwAADQ7DJ-agFx0cQsIlTTBQilLcjPUoqAtgUmONC_3WWn2mmW7B3hff-oSyN_X7J6GLp-s1iM4ziv2rZS57lo53e54P2jEQvBlcq5kJvV68p4K8XW60dn345ORLuOuRjEVLHEs834iUgOoJtro6cA3XCiJq6Riw_IOxOWRnJcJnKCnOGSgAlSLxoSWL8LyAh3iyHWvpFf6ya7wukEmBfC3VNYLGNu4Z4Jgr45dFGDQv8ClqkVrAq4_uQSOrlCoaDtMzvYdnBEKiRy4FeMC207PkQlTgvGrc4sWDfFZmVi2scQyKcgqi6UP5EGR6e0CAO4s08auhzA5nBBDj4GjzDJ4tDDy4SuQbY3CANoEprRRKM7VyimeoBC2nhWiq-tNfsf236Ueth0t7b6AyefeQs",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Iu_kdXicHdBRboIwAADQ7DJ-agFx0cQsIlTTBQilLcjPUoqAtgUmONC_3WWn2mmW7B3hff-oSyN_X7J6GLp-s1iM4ziv2rZS57lo53e54P2jEQvBlcq5kJvV68p4K8XW60dn345ORLuOuRjEVLHEs834iUgOoJtro6cA3XCiJq6Riw_IOxOWRnJcJnKCnOGSgAlSLxoSWL8LyAh3iyHWvpFf6ya7wukEmBfC3VNYLGNu4Z4Jgr45dFGDQv8ClqkVrAq4_uQSOrlCoaDtMzvYdnBEKiRy4FeMC207PkQlTgvGrc4sWDfFZmVi2scQyKcgqi6UP5EGR6e0CAO4s08auhzA5nBBDj4GjzDJ4tDDy4SuQbY3CANoEprRRKM7VyimeoBC2nhWiq-tNfsf236Ueth0t7b6AyefeQs",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFZ6UlVOR2sxY2tKUVdIZFZOVlZGV1d0U1VtaFRkSGxXU21sYVV6aE5iM1pHVGt0NE5qWm9kMlE1U1ZSc2RtNWlSVVJsZFdwWWIzWXRlVWhtUzFoR2VFNWhSbFUxYkZwdGExVlFkVTFoZVZsWVNrOWphMlZxZDNKRVVSSVhTVE54T1dGMlV6Rk9kRkJoZDA0MFVEbGlZVU5yUVdjYUlrRkVjM0k1WmxKR2VXUldOMkpSUzB4WFpXZzFUR2hYZW01MGJIaHJPVWRmUzJjIiwiZmN2IjoiMyIsImVpIjoiSTNxOWF2UzFOdFBhd040UDliYUNrQWciLCJxYyI6IkNncGtiMkppYVdWeklIVnJFQUI5ekVQcVBnIiwicXVlc3Rpb24iOiJXaGF0IGhhcHBlbmVkIHRvIERvYmJpZXM/IiwibGsiOiJHaGgzYUdGMElHaGhjSEJsYm1Wa0lIUnZJR1J2WW1KcFpYTSIsImJzIjoiYy1NeTU1SU16MGdzVWNoSUxDaEl6VXROVVNqSlYzREpUMHJLVEMyMk41S1NraWhIbDB5QlNITDVjNmw2NUpjcjVDYm1WY0kwS0NRV3BTcVVaS1FDeWN3OEVFTWgxTnZlU0UxS0pRT21NQVdYd3RKc0xtc3VhWmQ4aFpEVTR1UjhoZUtTekp3Y2hmenlQSVJiWktTa1V2SVZTdENrWWE0eDVoSUhleU1sSDJnNnpEbTVxWWw1OWtZU1VtTGxjS2tVSkNrQlJnQSIsImlkIjoiZmNfSTNxOWF2UzFOdFBhd040UDliYUNrQWdfMyJ9",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFZ6UlVOR2sxY2tKUVdIZFZOVlZGV1d0U1VtaFRkSGxXU21sYVV6aE5iM1pHVGt0NE5qWm9kMlE1U1ZSc2RtNWlSVVJsZFdwWWIzWXRlVWhtUzFoR2VFNWhSbFUxYkZwdGExVlFkVTFoZVZsWVNrOWphMlZxZDNKRVVSSVhTVE54T1dGMlV6Rk9kRkJoZDA0MFVEbGlZVU5yUVdjYUlrRkVjM0k1WmxKR2VXUldOMkpSUzB4WFpXZzFUR2hYZW01MGJIaHJPVWRmUzJjIiwiZmN2IjoiMyIsImVpIjoiSTNxOWF2UzFOdFBhd040UDliYUNrQWciLCJxYyI6IkNncGtiMkppYVdWeklIVnJFQUI5ekVQcVBnIiwicXVlc3Rpb24iOiJXaGF0IGhhcHBlbmVkIHRvIERvYmJpZXM%2FIiwibGsiOiJHaGgzYUdGMElHaGhjSEJsYm1Wa0lIUnZJR1J2WW1KcFpYTSIsImJzIjoiYy1NeTU1SU16MGdzVWNoSUxDaEl6VXROVVNqSlYzREpUMHJLVEMyMk41S1NraWhIbDB5QlNITDVjNmw2NUpjcjVDYm1WY0kwS0NRV3BTcVVaS1FDeWN3OEVFTWgxTnZlU0UxS0pRT21NQVdYd3RKc0xtc3VhWmQ4aFpEVTR1UjhoZUtTekp3Y2hmenlQSVJiWktTa1V2SVZTdENrWWE0eDVoSUhleU1sSDJnNnpEbTVxWWw1OWtZU1VtTGxjS2tVSkNrQlJnQSIsImlkIjoiZmNfSTNxOWF2UzFOdFBhd040UDliYUNrQWdfMyJ9"
+   },
+   {
+    "question": "How many Dobbies are there in the UK?",
+    "type": "ai_overview",
+    "page_token": "-Jr00HicHdBRboIwGADg7DJ71BbCFk3MMhRUFiC0f1voy8JaldEKTlHAt91lp9ppluw7wvf9Yz8b8_swVF13usyn077vJ4e2PdjdRLWTq5mWl7FRU1Va-1EqM396fsIve7UIrlt_-bX1M3Y68RVB1ESpBH4kTduTsFp_2HgsN4RwVp3BSsQR9qiDnQJXuVyTApzkLQ3tkgMptU1EiQssIdqwDcE01EHCZgHDszaF147ipKFNOErj3fVKpzQPhp3AtBAXBI29iXyLqdgiyvg1c_WQgel3IJ1yFY-JiPbAtafupGYmrAuXgMYKQRhjIiKIrc-yI3N0E4Gu1QDGq2Rj_aDSUewGXpFLiJmH2Dp0oSZZKqIqczpfDu1nxshd1fbIuC8KpoMcJSldkYqbWSrXkRTBUBcouVI2DLp_3Kvbwn38_1y874_d_HRuD3-834JH",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=-Jr00HicHdBRboIwGADg7DJ71BbCFk3MMhRUFiC0f1voy8JaldEKTlHAt91lp9ppluw7wvf9Yz8b8_swVF13usyn077vJ4e2PdjdRLWTq5mWl7FRU1Va-1EqM396fsIve7UIrlt_-bX1M3Y68RVB1ESpBH4kTduTsFp_2HgsN4RwVp3BSsQR9qiDnQJXuVyTApzkLQ3tkgMptU1EiQssIdqwDcE01EHCZgHDszaF147ipKFNOErj3fVKpzQPhp3AtBAXBI29iXyLqdgiyvg1c_WQgel3IJ1yFY-JiPbAtafupGYmrAuXgMYKQRhjIiKIrc-yI3N0E4Gu1QDGq2Rj_aDSUewGXpFLiJmH2Dp0oSZZKqIqczpfDu1nxshd1fbIuC8KpoMcJSldkYqbWSrXkRTBUBcouVI2DLp_3Kvbwn38_1y874_d_HRuD3-834JH",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFZ6UlVOR2sxY2tKUVdIZFZOVlZGV1d0U1VtaFRkSGxXU21sYVV6aE5iM1pHVGt0NE5qWm9kMlE1U1ZSc2RtNWlSVVJsZFdwWWIzWXRlVWhtUzFoR2VFNWhSbFUxYkZwdGExVlFkVTFoZVZsWVNrOWphMlZxZDNKRVVSSVhTVE54T1dGMlV6Rk9kRkJoZDA0MFVEbGlZVU5yUVdjYUlrRkVjM0k1WmxKR2VXUldOMkpSUzB4WFpXZzFUR2hYZW01MGJIaHJPVWRmUzJjIiwiZmN2IjoiMyIsImVpIjoiSTNxOWF2UzFOdFBhd040UDliYUNrQWciLCJxYyI6IkNncGtiMkppYVdWeklIVnJFQUI5ekVQcVBnIiwicXVlc3Rpb24iOiJIb3cgbWFueSBEb2JiaWVzIGFyZSB0aGVyZSBpbiB0aGUgVUs/IiwibGsiOiJjNU5TeWNndlY4aE56S3RVU01sUFNzcE1MVlpJTEVwVktNbElCWktaZVNDR1FtazJBQSIsImJzIjoiYy1NeTU1SU16MGdzVWNoSUxDaEl6VXROVVNqSlYzREpUMHJLVEMyMk41S1NraWhIbDB5QlNITDVjNmw2NUpjcjVDYm1WY0kwS0NRV3BTcVVaS1FDeWN3OEVFTWgxTnZlU0UxS0pRT21NQVdYd3RKc0xtc3VhWmQ4aFpEVTR1UjhoZUtTekp3Y2hmenlQSVJiWktTa1V2SVZTdENrWWE0eDVoSUhleU1sSDJnNnpEbTVxWWw1OWtZU1VtTGxjS2tVSkNrQlJnQSIsImlkIjoiZmNfSTNxOWF2UzFOdFBhd040UDliYUNrQWdfMyJ9",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFZ6UlVOR2sxY2tKUVdIZFZOVlZGV1d0U1VtaFRkSGxXU21sYVV6aE5iM1pHVGt0NE5qWm9kMlE1U1ZSc2RtNWlSVVJsZFdwWWIzWXRlVWhtUzFoR2VFNWhSbFUxYkZwdGExVlFkVTFoZVZsWVNrOWphMlZxZDNKRVVSSVhTVE54T1dGMlV6Rk9kRkJoZDA0MFVEbGlZVU5yUVdjYUlrRkVjM0k1WmxKR2VXUldOMkpSUzB4WFpXZzFUR2hYZW01MGJIaHJPVWRmUzJjIiwiZmN2IjoiMyIsImVpIjoiSTNxOWF2UzFOdFBhd040UDliYUNrQWciLCJxYyI6IkNncGtiMkppYVdWeklIVnJFQUI5ekVQcVBnIiwicXVlc3Rpb24iOiJIb3cgbWFueSBEb2JiaWVzIGFyZSB0aGVyZSBpbiB0aGUgVUs%2FIiwibGsiOiJjNU5TeWNndlY4aE56S3RVU01sUFNzcE1MVlpJTEVwVktNbElCWktaZVNDR1FtazJBQSIsImJzIjoiYy1NeTU1SU16MGdzVWNoSUxDaEl6VXROVVNqSlYzREpUMHJLVEMyMk41S1NraWhIbDB5QlNITDVjNmw2NUpjcjVDYm1WY0kwS0NRV3BTcVVaS1FDeWN3OEVFTWgxTnZlU0UxS0pRT21NQVdYd3RKc0xtc3VhWmQ4aFpEVTR1UjhoZUtTekp3Y2hmenlQSVJiWktTa1V2SVZTdENrWWE0eDVoSUhleU1sSDJnNnpEbTVxWWw1OWtZU1VtTGxjS2tVSkNrQlJnQSIsImlkIjoiZmNfSTNxOWF2UzFOdFBhd040UDliYUNrQWdfMyJ9"
+   },
+   {
+    "question": "Do Tesco still own Dobbies?",
+    "type": "ai_overview",
+    "page_token": "yzeCEXicHdBRboIwAADQ7DJ-KoXgEhOzDKU4pjBKWyo_C7Qi2hZwOgv87S471U6zZUd47-tbnRr585DXt1t3XcxmxpjpsW2P6jDl7fRTzorr0PAZL5QqCy4X88c5eKr40r8ab9UaLyFdR9fIwn5HKOs0ZnVDRqEIiArs0zYBuRE0pOWYrxATutRmKM_cSUe1SbPWxQS-lja9FKSvyrMgcdANzA4hlT3jZ1QjqoJt5salBpdDwx1KgC00METm12QUCbMSi4PwjCSKt7i-08D1Ulu8FQ0kwnIDPOY7KlXA7FrutVrltuvH9NlB65cUWnLkWNVC7XrcoGTPRBzBZ3ev4bqwYBOcQg9toiHOcnwgvYdYiGiGIP0z7xpIGYhWpUVMnKlLpHtnUvH70pn8jy3fK31bdB_t8Rf1-Xrt",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=yzeCEXicHdBRboIwAADQ7DJ-KoXgEhOzDKU4pjBKWyo_C7Qi2hZwOgv87S471U6zZUd47-tbnRr585DXt1t3XcxmxpjpsW2P6jDl7fRTzorr0PAZL5QqCy4X88c5eKr40r8ab9UaLyFdR9fIwn5HKOs0ZnVDRqEIiArs0zYBuRE0pOWYrxATutRmKM_cSUe1SbPWxQS-lja9FKSvyrMgcdANzA4hlT3jZ1QjqoJt5salBpdDwx1KgC00METm12QUCbMSi4PwjCSKt7i-08D1Ulu8FQ0kwnIDPOY7KlXA7FrutVrltuvH9NlB65cUWnLkWNVC7XrcoGTPRBzBZ3ev4bqwYBOcQg9toiHOcnwgvYdYiGiGIP0z7xpIGYhWpUVMnKlLpHtnUvH70pn8jy3fK31bdB_t8Rf1-Xrt",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFZ6UlVOR2sxY2tKUVdIZFZOVlZGV1d0U1VtaFRkSGxXU21sYVV6aE5iM1pHVGt0NE5qWm9kMlE1U1ZSc2RtNWlSVVJsZFdwWWIzWXRlVWhtUzFoR2VFNWhSbFUxYkZwdGExVlFkVTFoZVZsWVNrOWphMlZxZDNKRVVSSVhTVE54T1dGMlV6Rk9kRkJoZDA0MFVEbGlZVU5yUVdjYUlrRkVjM0k1WmxKR2VXUldOMkpSUzB4WFpXZzFUR2hYZW01MGJIaHJPVWRmUzJjIiwiZmN2IjoiMyIsImVpIjoiSTNxOWF2UzFOdFBhd040UDliYUNrQWciLCJxYyI6IkNncGtiMkppYVdWeklIVnJFQUI5ekVQcVBnIiwicXVlc3Rpb24iOiJEbyBUZXNjbyBzdGlsbCBvd24gRG9iYmllcz8iLCJsayI6IkdocGtieUIwWlhOamJ5QnpkR2xzYkNCdmQyNGdaRzlpWW1sbGN3IiwiYnMiOiJjLU15NTVJTXowZ3NVY2hJTENoSXpVdE5VU2pKVjNESlQwcktUQzIyTjVLU2tpaEhsMHlCU0hMNWM2bDY1SmNyNUNibVZjSTBLQ1FXcFNxVVpLUUN5Y3c4RUVNaDFOdmVTRTFLSlFPbU1BV1h3dEpzTG1zdWFaZDhoWkRVNHVSOGhlS1N6SndjaGZ6eVBJUmJaS1NrVXZJVlN0Q2tZYTR4NWhJSGV5TWxIMmc2ekRtNXFZbDU5a1lTVW1MbGNLa1VKQ2tCUmdBIiwiaWQiOiJmY19JM3E5YXZTMU50UGF3TjRQOWJhQ2tBZ18zIn0=",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFZ6UlVOR2sxY2tKUVdIZFZOVlZGV1d0U1VtaFRkSGxXU21sYVV6aE5iM1pHVGt0NE5qWm9kMlE1U1ZSc2RtNWlSVVJsZFdwWWIzWXRlVWhtUzFoR2VFNWhSbFUxYkZwdGExVlFkVTFoZVZsWVNrOWphMlZxZDNKRVVSSVhTVE54T1dGMlV6Rk9kRkJoZDA0MFVEbGlZVU5yUVdjYUlrRkVjM0k1WmxKR2VXUldOMkpSUzB4WFpXZzFUR2hYZW01MGJIaHJPVWRmUzJjIiwiZmN2IjoiMyIsImVpIjoiSTNxOWF2UzFOdFBhd040UDliYUNrQWciLCJxYyI6IkNncGtiMkppYVdWeklIVnJFQUI5ekVQcVBnIiwicXVlc3Rpb24iOiJEbyBUZXNjbyBzdGlsbCBvd24gRG9iYmllcz8iLCJsayI6IkdocGtieUIwWlhOamJ5QnpkR2xzYkNCdmQyNGdaRzlpWW1sbGN3IiwiYnMiOiJjLU15NTVJTXowZ3NVY2hJTENoSXpVdE5VU2pKVjNESlQwcktUQzIyTjVLU2tpaEhsMHlCU0hMNWM2bDY1SmNyNUNibVZjSTBLQ1FXcFNxVVpLUUN5Y3c4RUVNaDFOdmVTRTFLSlFPbU1BV1h3dEpzTG1zdWFaZDhoWkRVNHVSOGhlS1N6SndjaGZ6eVBJUmJaS1NrVXZJVlN0Q2tZYTR4NWhJSGV5TWxIMmc2ekRtNXFZbDU5a1lTVW1MbGNLa1VKQ2tCUmdBIiwiaWQiOiJmY19JM3E5YXZTMU50UGF3TjRQOWJhQ2tBZ18zIn0%3D"
+   },
+   {
+    "question": "What does Dobbies mean?",
+    "type": "ai_overview",
+    "page_token": "Y2c2_HicHdBdboIwAADg7DI-CsXgoolZhhXUSJUCbenLguVPKYUNtgpvu8tOtdMs2XeE7_tH3lT9-8SrYej6tWForedl25Yyn4t2_lkbaT8qYYhUymsq6vXyeQleCrHZ9drZttoJ4q4jEJuhlehwcmDOAk0h3ocLFERQXkJascg69pGHGsQ4wqpjlDgwaRBh4ABOcXXI9g6k0r1wE5tk4iGP7VsUPw4EVOkV8AvdgpAwAgQgp1yVYw6RTz3MkqlycnoYYtO-o93AI4LeU0hsQuORuL6OpfwMrIrhuh-xt0qYxQsCMBUKu6lsQ9esJxHJKpP-I1I4SFh2Ru6rnTQuTE1Xebejg_doPFMe5pQA0hCFzJWfuTJAu2NybeyaLfgtk62O7o6aFeJrs5j9j23eimZYdx9t-QfbfnlZ",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Y2c2_HicHdBdboIwAADg7DI-CsXgoolZhhXUSJUCbenLguVPKYUNtgpvu8tOtdMs2XeE7_tH3lT9-8SrYej6tWForedl25Yyn4t2_lkbaT8qYYhUymsq6vXyeQleCrHZ9drZttoJ4q4jEJuhlehwcmDOAk0h3ocLFERQXkJascg69pGHGsQ4wqpjlDgwaRBh4ABOcXXI9g6k0r1wE5tk4iGP7VsUPw4EVOkV8AvdgpAwAgQgp1yVYw6RTz3MkqlycnoYYtO-o93AI4LeU0hsQuORuL6OpfwMrIrhuh-xt0qYxQsCMBUKu6lsQ9esJxHJKpP-I1I4SFh2Ru6rnTQuTE1Xebejg_doPFMe5pQA0hCFzJWfuTJAu2NybeyaLfgtk62O7o6aFeJrs5j9j23eimZYdx9t-QfbfnlZ",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFZ6UlVOR2sxY2tKUVdIZFZOVlZGV1d0U1VtaFRkSGxXU21sYVV6aE5iM1pHVGt0NE5qWm9kMlE1U1ZSc2RtNWlSVVJsZFdwWWIzWXRlVWhtUzFoR2VFNWhSbFUxYkZwdGExVlFkVTFoZVZsWVNrOWphMlZxZDNKRVVSSVhTVE54T1dGMlV6Rk9kRkJoZDA0MFVEbGlZVU5yUVdjYUlrRkVjM0k1WmxKR2VXUldOMkpSUzB4WFpXZzFUR2hYZW01MGJIaHJPVWRmUzJjIiwiZmN2IjoiMyIsImVpIjoiSTNxOWF2UzFOdFBhd040UDliYUNrQWciLCJxYyI6IkNncGtiMkppYVdWeklIVnJFQUI5ekVQcVBnIiwicXVlc3Rpb24iOiJXaGF0IGRvZXMgRG9iYmllcyBtZWFuPyIsImxrIjoiYzVNU0s4OUlMRkZJeVU4dEJoSkpTWmxBT2pjMU1ROEEiLCJicyI6ImMtTXk1NUlNejBnc1VjaElMQ2hJelV0TlVTakpWM0RKVDByS1RDMjJONUtTa2loSGwweUJTSEw1YzZsNjVKY3I1Q2JtVmNJMEtDUVdwU3FVWktRQ3ljdzhFRU1oMU52ZVNFMUtKUU9tTUFXWHd0SnNMbXN1YVpkOGhaRFU0dVI4aGVLU3pKd2NoZnp5UElSYlpLU2tVdklWU3RDa1lhNHg1aElIZXlNbEgyZzZ6RG01cVlsNTlrWVNVbUxsY0trVUpDa0JSZ0EiLCJpZCI6ImZjX0kzcTlhdlMxTnRQYXdONFA5YmFDa0FnXzMifQ==",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFZ6UlVOR2sxY2tKUVdIZFZOVlZGV1d0U1VtaFRkSGxXU21sYVV6aE5iM1pHVGt0NE5qWm9kMlE1U1ZSc2RtNWlSVVJsZFdwWWIzWXRlVWhtUzFoR2VFNWhSbFUxYkZwdGExVlFkVTFoZVZsWVNrOWphMlZxZDNKRVVSSVhTVE54T1dGMlV6Rk9kRkJoZDA0MFVEbGlZVU5yUVdjYUlrRkVjM0k1WmxKR2VXUldOMkpSUzB4WFpXZzFUR2hYZW01MGJIaHJPVWRmUzJjIiwiZmN2IjoiMyIsImVpIjoiSTNxOWF2UzFOdFBhd040UDliYUNrQWciLCJxYyI6IkNncGtiMkppYVdWeklIVnJFQUI5ekVQcVBnIiwicXVlc3Rpb24iOiJXaGF0IGRvZXMgRG9iYmllcyBtZWFuPyIsImxrIjoiYzVNU0s4OUlMRkZJeVU4dEJoSkpTWmxBT2pjMU1ROEEiLCJicyI6ImMtTXk1NUlNejBnc1VjaElMQ2hJelV0TlVTakpWM0RKVDByS1RDMjJONUtTa2loSGwweUJTSEw1YzZsNjVKY3I1Q2JtVmNJMEtDUVdwU3FVWktRQ3ljdzhFRU1oMU52ZVNFMUtKUU9tTUFXWHd0SnNMbXN1YVpkOGhaRFU0dVI4aGVLU3pKd2NoZnp5UElSYlpLU2tVdklWU3RDa1lhNHg1aElIZXlNbEgyZzZ6RG01cVlsNTlrWVNVbUxsY0trVUpDa0JSZ0EiLCJpZCI6ImZjX0kzcTlhdlMxTnRQYXdONFA5YmFDa0FnXzMifQ%3D%3D"
+   }
+  ],
+  "ai_overview": {
+   "page_token": "5WUu63iczVXdcqpIEH6AfY7l5iQCijGmijo1M6CZGBOJUeO5ofhzRECUUdHc7fW-xj7VPs0ZQBSNJHXOxda2gcnMdPd09_TH99c_vjv3_v3j7-lqtaB3PB_HcYWEIfGdihVW1h5v0N3c4iehTyNr-n3qy86cI7689rjdRq5xFpUFznFlXFs2jU1ffFr1jPhJ6jVNA3mAcKm5rJsGdWbM_3ZGeZ1nL-_PmsImFVpx5nobVuhwMurUTHHcpZWqIDYrz7wRMB3wH4qmAgwgG7OhTBAA6tfOEhUNoMRXLgQdtzJRMn_JmSRd6JQeiRMryH4YpKo9aVufUuZikCv1yyPW2GucT-J0gDA7sZ8ERb7OZy8Q7EsDtUNopYIvL2eWqHDo-MPuJW_d03kIoCIBTYN5CGe30i9mBdUky0SDFeNa2QIYuyXF3huwv1dw74Wfp5gGgvBtXg7QouxSMW8T1rwCb0ZsEHnXmlrpPxFNehq9NoXwfvBj3HhYhK3Z5tmUrM3Wny1Gr3Hbdt2Yt0ym54eG7dj6VBe-p3OxKtaFZq1xe5XiyaIHQNEioJ7Dl_hpKTZpV608VqCYQwkdLuQsIZXN0aW7YpVFlwwOXvKKF4xdVOymvDlZe3uYqeH4uEdU3EvGdr7wzC4UQKsIvfyAxOUlKJ0oZVAiaWPhrMHw0fygMsBHR6S4pXgfk_zwHUAIxFm7akpaF0jyALSzMiHQx2wvX4WnKNMgcKdqkhbss6BpqmYd-z8EqqC-4IK3fTxJw6v7IweHFDMzXIASYv2N0o5_SnQ8RDyIWbAQZEYkBUV2Fjm7frXkE4dYjnBQCtFPhZR9D04E55g5g0AROu1WOIwl-_1xKMHqfX87gtWoZjbuo0EELkMlDMxfIx_r_4WnnJoGe2oqx5P6NZ6ST-Fn1JS-DtRE-hmeOuV4UvGRmkiBmoRc6UhN53hC_QKe0C7RILB1mZp-FU_oEzzhz_CUZHoJT1oZnlJqOsHTwzk1neDpQE05nn6PmvDvUVMKLycbTnlqPSOlfNVq0dlwNg-k3S4IgmV75bcVUx8L9e3wa76aBKu7wLD9K92172D1YbWzr3S2EN45NreUldA0XYd-G3S4wI9CWTAaPaftvtYfLf2muZnqXXvtuN1-Gw9vidTUVbpU7umyUxN71-OeQkbriQPspd5x1--K0Rw1Aqm1q_Ve9PHbvDV7G8AN3kwWyxFqbZev3q5ng4em-_723PWq22tzNTNWP66tRSR4kmW4UtBqDCdvu_FKsYJ6T58MJVNL46Lytb9W3_FiHdUxx8KnjixyQWTJ7B4kAp40MCKs59CYcQFhT8iemD03DMCQo5ahO3QjT2q20xBqkl2vC4Yg3nABWe0WsiRydB7J4k88f0U6",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=5WUu63iczVXdcqpIEH6AfY7l5iQCijGmijo1M6CZGBOJUeO5ofhzRECUUdHc7fW-xj7VPs0ZQBSNJHXOxda2gcnMdPd09_TH99c_vjv3_v3j7-lqtaB3PB_HcYWEIfGdihVW1h5v0N3c4iehTyNr-n3qy86cI7689rjdRq5xFpUFznFlXFs2jU1ffFr1jPhJ6jVNA3mAcKm5rJsGdWbM_3ZGeZ1nL-_PmsImFVpx5nobVuhwMurUTHHcpZWqIDYrz7wRMB3wH4qmAgwgG7OhTBAA6tfOEhUNoMRXLgQdtzJRMn_JmSRd6JQeiRMryH4YpKo9aVufUuZikCv1yyPW2GucT-J0gDA7sZ8ERb7OZy8Q7EsDtUNopYIvL2eWqHDo-MPuJW_d03kIoCIBTYN5CGe30i9mBdUky0SDFeNa2QIYuyXF3huwv1dw74Wfp5gGgvBtXg7QouxSMW8T1rwCb0ZsEHnXmlrpPxFNehq9NoXwfvBj3HhYhK3Z5tmUrM3Wny1Gr3Hbdt2Yt0ym54eG7dj6VBe-p3OxKtaFZq1xe5XiyaIHQNEioJ7Dl_hpKTZpV608VqCYQwkdLuQsIZXN0aW7YpVFlwwOXvKKF4xdVOymvDlZe3uYqeH4uEdU3EvGdr7wzC4UQKsIvfyAxOUlKJ0oZVAiaWPhrMHw0fygMsBHR6S4pXgfk_zwHUAIxFm7akpaF0jyALSzMiHQx2wvX4WnKNMgcKdqkhbss6BpqmYd-z8EqqC-4IK3fTxJw6v7IweHFDMzXIASYv2N0o5_SnQ8RDyIWbAQZEYkBUV2Fjm7frXkE4dYjnBQCtFPhZR9D04E55g5g0AROu1WOIwl-_1xKMHqfX87gtWoZjbuo0EELkMlDMxfIx_r_4WnnJoGe2oqx5P6NZ6ST-Fn1JS-DtRE-hmeOuV4UvGRmkiBmoRc6UhN53hC_QKe0C7RILB1mZp-FU_oEzzhz_CUZHoJT1oZnlJqOsHTwzk1neDpQE05nn6PmvDvUVMKLycbTnlqPSOlfNVq0dlwNg-k3S4IgmV75bcVUx8L9e3wa76aBKu7wLD9K92172D1YbWzr3S2EN45NreUldA0XYd-G3S4wI9CWTAaPaftvtYfLf2muZnqXXvtuN1-Gw9vidTUVbpU7umyUxN71-OeQkbriQPspd5x1--K0Rw1Aqm1q_Ve9PHbvDV7G8AN3kwWyxFqbZev3q5ng4em-_723PWq22tzNTNWP66tRSR4kmW4UtBqDCdvu_FKsYJ6T58MJVNL46Lytb9W3_FiHdUxx8KnjixyQWTJ7B4kAp40MCKs59CYcQFhT8iemD03DMCQo5ahO3QjT2q20xBqkl2vC4Yg3nABWe0WsiRydB7J4k88f0U6"
+  },
+  "organic_results": [
+   {
+    "position": 1,
+    "title": "Full list of Dobbies garden centres closing in the UK",
+    "link": "https://www.eadt.co.uk/news/national/uk-today/24620670.full-list-dobbies-garden-centres-closing-uk/",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESngEB6zswFZySneoOgGU7BaqayHH-D3vbie4QKNE8mddeC4APtO4hbvCOHvH7qZ91-Yw2w9eqcYpxz38jErKBBEjRpbZjGi0AVJeEciudggnV3DWwjUY1nb5xtHh-S-pbn9bzHMXHgEph8yzy_cv0xm-YnkUlXwPvWyZ__PoAIghYm63Thbqx7vAFsCoPLa7ZHXyU26XBTSBr0Nf55s35Ow&ved=2ahUKEwi009iHm5eXAxVTLdAFHXWbAIIQFnoECDAQAQ&uoh=1",
+    "displayed_link": "https://www.eadt.co.uk › news › national › uk-today",
+    "thumbnail": "https://serpapi.com/searches/6abd7a23874d507a4949beb1/images/kGXQDtKBm57UV8s6TX2S9rZUWdh_QjZDAgz2hi1aSeo.jpeg",
+    "favicon": "https://serpapi.com/images/i/UklGRhwBAABXRUJQVlA4IBABAAAwBgCdASocABwAPtE-tFooIigoFAEAGglAFiPQKtgMVw36eeGZNQsa3NHVhDMTQvHxr69nwYt9KCaAAP658tksKmqpZd126RpKP50ZZmylFIdOHyCfr_GRxxCgYrkJtPN-z7FfEVJKX15brX5rOqtOUv1GdCM5VnCR4goYBlH-zRAP39xU91ZqH-2jZ8oB2K2d_OvjCoUooV4EisZof0vVsVHBNZ3G4xg2fGw1GlIp-F5Q38izY_7DdlqDOVCZ-nk104ArkInNV90Z-l6n_z4gTaSAMTxGhZjsHbEDCjCM7sDB8BlwgZGIYRbND90dAX8eonM6l2YjMxWTM1lG9n7QHe-DYc1DlT8C4BxnDAAAAA.webp",
+    "date": "1 Oct 2024",
+    "snippet": "Dobbies has confirmed it will be closing down 17 stores across the UK as part of its newly launched restructuring plan.",
+    "snippet_highlighted_words": [
+     "Dobbies has confirmed it will be closing down 17 stores across the UK"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Dobbies has confirmed it will be closing down 17 stores across the UK as part of its newly launched restructuring plan.",
+      "source_info_link": "https://www.eadt.co.uk/news/national/uk-today/24620670.full-list-dobbies-garden-centres-closing-uk/",
+      "icon": "https://serpapi.com/images/i/UklGRhwBAABXRUJQVlA4IBABAAAwBgCdASocABwAPtE-tFooIigoFAEAGglAFiPQKtgMVw36eeGZNQsa3NHVhDMTQvHxr69nwYt9KCaAAP658tksKmqpZd126RpKP50ZZmylFIdOHyCfr_GRxxCgYrkJtPN-z7FfEVJKX15brX5rOqtOUv1GdCM5VnCR4goYBlH-zRAP39xU91ZqH-2jZ8oB2K2d_OvjCoUooV4EisZof0vVsVHBNZ3G4xg2fGw1GlIp-F5Q38izY_7DdlqDOVCZ-nk104ArkInNV90Z-l6n_z4gTaSAMTxGhZjsHbEDCjCM7sDB8BlwgZGIYRbND90dAX8eonM6l2YjMxWTM1lG9n7QHe-DYc1DlT8C4BxnDAAAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CuQBL2dvdG8_dXJsPUNBRVNuZ0VCNnpzd0ZaeVNuZW9PZ0dVN0JhcWF5SEgtRDN2YmllNFFLTkU4bWRkZUM0QVB0TzRoYnZDT0h2SDdxWjkxLVl3Mnc5ZXFjWXB4ejM4akVyS0JCRWpScGJaakdpMEFWSmVFY2l1ZGdnblYzRFd3alVZMW5iNXh0SGgtUy1wYm45YnpITVhIZ0VwaDh5enlfY3YweG0tWW5rVWxYd1B2V3laX19Qb0FJZ2hZbTYzVGhicXg3dkFGc0NvUExhN1pIWHlVMjZYQlRTQnIwTmY1NXMzNU93EgQaAggAGqUEEgAaAggBIgAqADIGCAESAnVrOgBCBAgBEABKAFoAcgB6AIJA_wMIABAAGAAgACocCgdkb2JiaWVzFVS3uUAaDGl2O3A7ZG9iYmllcyorCgJ1axW7KJxAGgdicml0YWluGgdicml0aXNoGg51bml0ZWQga2luZ2RvbTLkAS9nb3RvP3VybD1DQUVTbmdFQjZ6c3dGWnlTbmVvT2dHVTdCYXFheUhILUQzdmJpZTRRS05FOG1kZGVDNEFQdE80aGJ2Q09Idkg3cVo5MS1ZdzJ3OWVxY1lweHozOGpFcktCQkVqUnBiWmpHaTBBVkplRWNpdWRnZ25WM0RXd2pVWTFuYjV4dEhoLVMtcGJuOWJ6SE1YSGdFcGg4eXp5X2N2MHhtLVlua1VsWHdQdld5Wl9fUG9BSWdoWW02M1RoYnF4N3ZBRnNDb1BMYTdaSFh5VTI2WEJUU0JyME5mNTVzMzVPdzpDRnVsbCBsaXN0IG9mIDxiPkRvYmJpZXM8L2I-IGdhcmRlbiBjZW50cmVzIGNsb3NpbmcgaW4gdGhlIDxiPlVLPC9iPkJ-PGI-RG9iYmllcyBoYXMgY29uZmlybWVkIGl0IHdpbGwgYmUgY2xvc2luZyBkb3duIDE3IHN0b3JlcyBhY3Jvc3MgdGhlIFVLPC9iPiBhcyBwYXJ0IG9mIGl0cyBuZXdseSBsYXVuY2hlZCByZXN0cnVjdHVyaW5nIHBsYW4uIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CuQBL2dvdG8_dXJsPUNBRVNuZ0VCNnpzd0ZaeVNuZW9PZ0dVN0JhcWF5SEgtRDN2YmllNFFLTkU4bWRkZUM0QVB0TzRoYnZDT0h2SDdxWjkxLVl3Mnc5ZXFjWXB4ejM4akVyS0JCRWpScGJaakdpMEFWSmVFY2l1ZGdnblYzRFd3alVZMW5iNXh0SGgtUy1wYm45YnpITVhIZ0VwaDh5enlfY3YweG0tWW5rVWxYd1B2V3laX19Qb0FJZ2hZbTYzVGhicXg3dkFGc0NvUExhN1pIWHlVMjZYQlRTQnIwTmY1NXMzNU93EgQaAggAGqUEEgAaAggBIgAqADIGCAESAnVrOgBCBAgBEABKAFoAcgB6AIJA_wMIABAAGAAgACocCgdkb2JiaWVzFVS3uUAaDGl2O3A7ZG9iYmllcyorCgJ1axW7KJxAGgdicml0YWluGgdicml0aXNoGg51bml0ZWQga2luZ2RvbTLkAS9nb3RvP3VybD1DQUVTbmdFQjZ6c3dGWnlTbmVvT2dHVTdCYXFheUhILUQzdmJpZTRRS05FOG1kZGVDNEFQdE80aGJ2Q09Idkg3cVo5MS1ZdzJ3OWVxY1lweHozOGpFcktCQkVqUnBiWmpHaTBBVkplRWNpdWRnZ25WM0RXd2pVWTFuYjV4dEhoLVMtcGJuOWJ6SE1YSGdFcGg4eXp5X2N2MHhtLVlua1VsWHdQdld5Wl9fUG9BSWdoWW02M1RoYnF4N3ZBRnNDb1BMYTdaSFh5VTI2WEJUU0JyME5mNTVzMzVPdzpDRnVsbCBsaXN0IG9mIDxiPkRvYmJpZXM8L2I-IGdhcmRlbiBjZW50cmVzIGNsb3NpbmcgaW4gdGhlIDxiPlVLPC9iPkJ-PGI-RG9iYmllcyBoYXMgY29uZmlybWVkIGl0IHdpbGwgYmUgY2xvc2luZyBkb3duIDE3IHN0b3JlcyBhY3Jvc3MgdGhlIFVLPC9iPiBhcyBwYXJ0IG9mIGl0cyBuZXdseSBsYXVuY2hlZCByZXN0cnVjdHVyaW5nIHBsYW4uIgIQAUgAWABoAA",
+    "source": "East Anglian Daily Times",
+    "read_more_link": "https://www.eadt.co.uk/news/national/uk-today/24620670.full-list-dobbies-garden-centres-closing-uk/#:~:text=Dobbies%20has%20confirmed%20it%20will,its%20newly%20launched%20restructuring%20plan."
+   },
+   {
+    "position": 2,
+    "title": "Dobbies Garden Centres | Family information service",
+    "link": "https://directory.familyinfo.buckinghamshire.gov.uk/service/14497?categories=arts-crafts-and-cooking",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnwEB6zswFVB1OYsjuX2hus7BHOCoL218hg2g0PnzqiyjyFodOFKSIFqv77DQBlcR-PqCVlRc5rqz4mxbcf8pU4BBtN0Fm7b4cOe6Mci-cbkhVMJFxxl2Wuvr_ktVZmxwXEDE-OMK32XLzY8yS61B3iPg58xEEY-0sziPmGhsTwOsHSkexH5BLBiK4B4HVsVACRfG46WKwzfNdZAdVpCC8Xw&ved=2ahUKEwi009iHm5eXAxVTLdAFHXWbAIIQFnoECBkQAQ&uoh=1",
+    "displayed_link": "https://directory.familyinfo.buckinghamshire.gov.uk › se...",
+    "favicon": "https://serpapi.com/images/i/UklGRrIBAABXRUJQVlA4IKYBAAAwCACdASogACAAPtEwtFooIigoGAEAGglsAL52gBVovqBpApiv65-b76b1ET9dBiWQbJq6TDZdl9rsXYj6un63_53pBSmyA4PgAAD-9hNhq_W-2jc9-Ta2VenpbHvgyKw8uEjxUsPNd9Hk51mPB_-G9ygwtZ9MmGrak-ewNE-HP3HcRFTznAV7JqEYS527Gpw7Uw-hynPNNgy0roLt8o0Ips6R7YE__Up-KAnSDL8VXAWoHWmBFaezLd1mbnXXR1_7Iuv7-jbhILyKVGMnfnTKL4qeadO1i5Fa8DGDQBEYG3JJOsRf5v_96pj8COxThItD9BAR4TBjjv26OmwGt9lH1NLSwR8u96zSdSkMp1_UXVOPQKX_s25b0Bo-cUz_9Dy__oMRghdT8XVIXKi1nnd3TMcqlRz_YHk1hJTlcw_o323JycQZzKHQFLeTOfyYRvdnRZPbFsDs_d2P5gBughSSnhTzPACgUZNPjs_jKjb5evyLuRBq2kVZjErbefZav2wn2eU1A2eGkhEZSctajqzipKSjAbyVX6V-TH1Q7P0oYgCI8BAAAA.webp",
+    "snippet": "Dobbies Garden Centres is a chain of garden centres across the United Kingdom (UK). We are the biggest garden centre operator in the UK with over 77 stores.",
+    "snippet_highlighted_words": [
+     "Dobbies",
+     "United Kingdom",
+     "UK",
+     "UK"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Dobbies Garden Centres is a chain of garden centres across the United Kingdom (UK). We are the biggest garden centre operator in the UK with over 77 stores.",
+      "source_info_link": "https://directory.familyinfo.buckinghamshire.gov.uk/service/14497?categories=arts-crafts-and-cooking",
+      "icon": "https://serpapi.com/images/i/UklGRrIBAABXRUJQVlA4IKYBAAAwCACdASogACAAPtEwtFooIigoGAEAGglsAL52gBVovqBpApiv65-b76b1ET9dBiWQbJq6TDZdl9rsXYj6un63_53pBSmyA4PgAAD-9hNhq_W-2jc9-Ta2VenpbHvgyKw8uEjxUsPNd9Hk51mPB_-G9ygwtZ9MmGrak-ewNE-HP3HcRFTznAV7JqEYS527Gpw7Uw-hynPNNgy0roLt8o0Ips6R7YE__Up-KAnSDL8VXAWoHWmBFaezLd1mbnXXR1_7Iuv7-jbhILyKVGMnfnTKL4qeadO1i5Fa8DGDQBEYG3JJOsRf5v_96pj8COxThItD9BAR4TBjjv26OmwGt9lH1NLSwR8u96zSdSkMp1_UXVOPQKX_s25b0Bo-cUz_9Dy__oMRghdT8XVIXKi1nnd3TMcqlRz_YHk1hJTlcw_o323JycQZzKHQFLeTOfyYRvdnRZPbFsDs_d2P5gBughSSnhTzPACgUZNPjs_jKjb5evyLuRBq2kVZjErbefZav2wn2eU1A2eGkhEZSctajqzipKSjAbyVX6V-TH1Q7P0oYgCI8BAAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CuUBL2dvdG8_dXJsPUNBRVNud0VCNnpzd0ZWQjFPWXNqdVgyaHVzN0JIT0NvTDIxOGhnMmcwUG56cWl5anlGb2RPRktTSUZxdjc3RFFCbGNSLVBxQ1ZsUmM1cnF6NG14YmNmOHBVNEJCdE4wRm03YjRjT2U2TWNpLWNia2hWTUpGeHhsMld1dnJfa3RWWm14d1hFREUtT01LMzJYTHpZOHlTNjFCM2lQZzU4eEVFWS0wc3ppUG1HaHNUd09zSFNrZXhINUJMQmlLNEI0SFZzVkFDUmZHNDZXS3d6Zk5kWkFkVnBDQzhYdxIEGgIIABrWBBIAGgAiACoAMgYIARICdWs6AEIECAEQAEoAWgByAHoAgkCyBAgAEAAYACAAKhwKB2RvYmJpZXMVyGIuQBoMaXY7cDtkb2JiaWVzKisKAnVrFeBCgz8aB2JyaXRhaW4aB2JyaXRpc2gaDnVuaXRlZCBraW5nZG9tMuUBL2dvdG8_dXJsPUNBRVNud0VCNnpzd0ZWQjFPWXNqdVgyaHVzN0JIT0NvTDIxOGhnMmcwUG56cWl5anlGb2RPRktTSUZxdjc3RFFCbGNSLVBxQ1ZsUmM1cnF6NG14YmNmOHBVNEJCdE4wRm03YjRjT2U2TWNpLWNia2hWTUpGeHhsMld1dnJfa3RWWm14d1hFREUtT01LMzJYTHpZOHlTNjFCM2lQZzU4eEVFWS0wc3ppUG1HaHNUd09zSFNrZXhINUJMQmlLNEI0SFZzVkFDUmZHNDZXS3d6Zk5kWkFkVnBDQzhYdzo6PGI-RG9iYmllczwvYj4gR2FyZGVuIENlbnRyZXMgfCBGYW1pbHkgaW5mb3JtYXRpb24gc2VydmljZUK4ATxiPkRvYmJpZXM8L2I-IEdhcmRlbiBDZW50cmVzIGlzIGEgY2hhaW4gb2YgZ2FyZGVuIGNlbnRyZXMgYWNyb3NzIHRoZSA8Yj5Vbml0ZWQgS2luZ2RvbTwvYj4gKDxiPlVLPC9iPikuIFdlIGFyZSB0aGUgYmlnZ2VzdCBnYXJkZW4gY2VudHJlIG9wZXJhdG9yIGluIHRoZSA8Yj5VSzwvYj4gd2l0aCBvdmVyIDc3IHN0b3Jlcy4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CuUBL2dvdG8_dXJsPUNBRVNud0VCNnpzd0ZWQjFPWXNqdVgyaHVzN0JIT0NvTDIxOGhnMmcwUG56cWl5anlGb2RPRktTSUZxdjc3RFFCbGNSLVBxQ1ZsUmM1cnF6NG14YmNmOHBVNEJCdE4wRm03YjRjT2U2TWNpLWNia2hWTUpGeHhsMld1dnJfa3RWWm14d1hFREUtT01LMzJYTHpZOHlTNjFCM2lQZzU4eEVFWS0wc3ppUG1HaHNUd09zSFNrZXhINUJMQmlLNEI0SFZzVkFDUmZHNDZXS3d6Zk5kWkFkVnBDQzhYdxIEGgIIABrWBBIAGgAiACoAMgYIARICdWs6AEIECAEQAEoAWgByAHoAgkCyBAgAEAAYACAAKhwKB2RvYmJpZXMVyGIuQBoMaXY7cDtkb2JiaWVzKisKAnVrFeBCgz8aB2JyaXRhaW4aB2JyaXRpc2gaDnVuaXRlZCBraW5nZG9tMuUBL2dvdG8_dXJsPUNBRVNud0VCNnpzd0ZWQjFPWXNqdVgyaHVzN0JIT0NvTDIxOGhnMmcwUG56cWl5anlGb2RPRktTSUZxdjc3RFFCbGNSLVBxQ1ZsUmM1cnF6NG14YmNmOHBVNEJCdE4wRm03YjRjT2U2TWNpLWNia2hWTUpGeHhsMld1dnJfa3RWWm14d1hFREUtT01LMzJYTHpZOHlTNjFCM2lQZzU4eEVFWS0wc3ppUG1HaHNUd09zSFNrZXhINUJMQmlLNEI0SFZzVkFDUmZHNDZXS3d6Zk5kWkFkVnBDQzhYdzo6PGI-RG9iYmllczwvYj4gR2FyZGVuIENlbnRyZXMgfCBGYW1pbHkgaW5mb3JtYXRpb24gc2VydmljZUK4ATxiPkRvYmJpZXM8L2I-IEdhcmRlbiBDZW50cmVzIGlzIGEgY2hhaW4gb2YgZ2FyZGVuIGNlbnRyZXMgYWNyb3NzIHRoZSA8Yj5Vbml0ZWQgS2luZ2RvbTwvYj4gKDxiPlVLPC9iPikuIFdlIGFyZSB0aGUgYmlnZ2VzdCBnYXJkZW4gY2VudHJlIG9wZXJhdG9yIGluIHRoZSA8Yj5VSzwvYj4gd2l0aCBvdmVyIDc3IHN0b3Jlcy4iAhABSABYAGgA",
+    "source": "Buckinghamshire Council",
+    "read_more_link": "https://directory.familyinfo.buckinghamshire.gov.uk/service/14497?categories=arts-crafts-and-cooking#:~:text=Dobbies%20Garden%20Centres%20is%20a,UK%20with%20over%2077%20stores."
+   },
+   {
+    "position": 3,
+    "title": "Dobbies closing 17 garden centres in bid to return to profit",
+    "link": "https://www.proactiveinvestors.co.uk/companies/news/1057382/dobbies-closing-17-garden-centres-in-bid-to-return-to-profit-1057382.html",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESwQEB6zswFWd3zQ_thuZwCdntglpED2C-Qd1vWecZM5T8s-k3ZpSc3jgY3AdAbzm1Scx1TdZV43sabG_yKSPfHOOrUXKB78iXndLCUIpaatabVhkYps0_79wQh4-JZ4gmRVQI_keRW4cp7F_6arFvbnSjsHBuEPD1Akk7gemErFIZvfOrZX3pNDQPhC8kU9ILWPeNNEFNJmL_ZbFhLAB4AH5CCFhyfj0g7T2fmoBoCRxTYjhwgGGR9dh_30ZElZEvxagD&ved=2ahUKEwi009iHm5eXAxVTLdAFHXWbAIIQFnoECBoQAQ&uoh=1",
+    "displayed_link": "https://www.proactiveinvestors.co.uk › companies › news",
+    "favicon": "https://serpapi.com/images/i/UklGRgoBAABXRUJQVlA4IP4AAABQBgCdASocABwAPtE-tFooIigoFAEAGglsALEMcggG2AuwDeQyVXeOAhX-aO74nqFmF2eKIrmycABwAAD-8LyuS6XSS8zSqOHHym-yJZ67xZXFdOAUvOQD_P3muxiQTh-fY7RVNRJ7-u_S0qate5R2pG2z3UDSyUcaIbnv_oY4U12LY22Y_7sp0sTnVwQuEK9gWcME90mqEu5cAz7__4ZKpyVcMP6UZAFLvYvZqN1IF5VwR9gCILbVMrtzAXoP30uWUlXW4D0ROJurRtjNeRh7M727Sk_79mPAUoSkkmwDueyxV1ejYXpOI9IRrb5XXGsNcVkvL9z-MNevuk6AAA.webp",
+    "date": "1 Oct 2024",
+    "snippet": "Garden centre operator Dobbies has unveiled a restructuring plan that will see 17 sites shut and 465 jobs hit.",
+    "snippet_highlighted_words": [
+     "Dobbies"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Garden centre operator Dobbies has unveiled a restructuring plan that will see 17 sites shut and 465 jobs hit.",
+      "source_info_link": "https://www.proactiveinvestors.co.uk/companies/news/1057382/dobbies-closing-17-garden-centres-in-bid-to-return-to-profit-1057382.html",
+      "icon": "https://serpapi.com/images/i/UklGRgoBAABXRUJQVlA4IP4AAABQBgCdASocABwAPtE-tFooIigoFAEAGglsALEMcggG2AuwDeQyVXeOAhX-aO74nqFmF2eKIrmycABwAAD-8LyuS6XSS8zSqOHHym-yJZ67xZXFdOAUvOQD_P3muxiQTh-fY7RVNRJ7-u_S0qate5R2pG2z3UDSyUcaIbnv_oY4U12LY22Y_7sp0sTnVwQuEK9gWcME90mqEu5cAz7__4ZKpyVcMP6UZAFLvYvZqN1IF5VwR9gCILbVMrtzAXoP30uWUlXW4D0ROJurRtjNeRh7M727Sk_79mPAUoSkkmwDueyxV1ejYXpOI9IRrb5XXGsNcVkvL9z-MNevuk6AAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CpICL2dvdG8_dXJsPUNBRVN3UUVCNnpzd0ZXZDN6UV90aHVad0NkbnRnbHBFRDJDLVFkMXZXZWNaTTVUOHMtazNacFNjM2pnWTNBZEFiem0xU2N4MVRkWlY0M3NhYkdfeUtTUGZIT09yVVhLQjc4aVhuZExDVUlwYWF0YWJWaGtZcHMwXzc5d1FoNC1KWjRnbVJWUUlfa2VSVzRjcDdGXzZhckZ2Ym5TanNIQnVFUEQxQWtrN2dlbUVyRkladmZPclpYM3BORFFQaEM4a1U5SUxXUGVOTkVGTkptTF9aYkZoTEFCNEFINUNDRmh5ZmowZzdUMmZtb0JvQ1J4VFlqaHdnR0dSOWRoXzMwWkVsWkV2eGFnRBIEGgIIABrIBBIAGgAiACoAMgYIARICdWs6AEIECAEQAEoAWgByAHoAgkCkBAgAEAAYACAAKhwKB2RvYmJpZXMVB6OAQBoMaXY7cDtkb2JiaWVzKisKAnVrFfxNJ0AaB2JyaXRhaW4aB2JyaXRpc2gaDnVuaXRlZCBraW5nZG9tMpICL2dvdG8_dXJsPUNBRVN3UUVCNnpzd0ZXZDN6UV90aHVad0NkbnRnbHBFRDJDLVFkMXZXZWNaTTVUOHMtazNacFNjM2pnWTNBZEFiem0xU2N4MVRkWlY0M3NhYkdfeUtTUGZIT09yVVhLQjc4aVhuZExDVUlwYWF0YWJWaGtZcHMwXzc5d1FoNC1KWjRnbVJWUUlfa2VSVzRjcDdGXzZhckZ2Ym5TanNIQnVFUEQxQWtrN2dlbUVyRkladmZPclpYM3BORFFQaEM4a1U5SUxXUGVOTkVGTkptTF9aYkZoTEFCNEFINUNDRmh5ZmowZzdUMmZtb0JvQ1J4VFlqaHdnR0dSOWRoXzMwWkVsWkV2eGFnRDpDPGI-RG9iYmllczwvYj4gY2xvc2luZyAxNyBnYXJkZW4gY2VudHJlcyBpbiBiaWQgdG8gcmV0dXJuIHRvIHByb2ZpdEJ1R2FyZGVuIGNlbnRyZSBvcGVyYXRvciA8Yj5Eb2JiaWVzPC9iPiBoYXMgdW52ZWlsZWQgYSByZXN0cnVjdHVyaW5nIHBsYW4gdGhhdCB3aWxsIHNlZSAxNyBzaXRlcyBzaHV0IGFuZCA0NjUgam9icyBoaXQuIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CpICL2dvdG8_dXJsPUNBRVN3UUVCNnpzd0ZXZDN6UV90aHVad0NkbnRnbHBFRDJDLVFkMXZXZWNaTTVUOHMtazNacFNjM2pnWTNBZEFiem0xU2N4MVRkWlY0M3NhYkdfeUtTUGZIT09yVVhLQjc4aVhuZExDVUlwYWF0YWJWaGtZcHMwXzc5d1FoNC1KWjRnbVJWUUlfa2VSVzRjcDdGXzZhckZ2Ym5TanNIQnVFUEQxQWtrN2dlbUVyRkladmZPclpYM3BORFFQaEM4a1U5SUxXUGVOTkVGTkptTF9aYkZoTEFCNEFINUNDRmh5ZmowZzdUMmZtb0JvQ1J4VFlqaHdnR0dSOWRoXzMwWkVsWkV2eGFnRBIEGgIIABrIBBIAGgAiACoAMgYIARICdWs6AEIECAEQAEoAWgByAHoAgkCkBAgAEAAYACAAKhwKB2RvYmJpZXMVB6OAQBoMaXY7cDtkb2JiaWVzKisKAnVrFfxNJ0AaB2JyaXRhaW4aB2JyaXRpc2gaDnVuaXRlZCBraW5nZG9tMpICL2dvdG8_dXJsPUNBRVN3UUVCNnpzd0ZXZDN6UV90aHVad0NkbnRnbHBFRDJDLVFkMXZXZWNaTTVUOHMtazNacFNjM2pnWTNBZEFiem0xU2N4MVRkWlY0M3NhYkdfeUtTUGZIT09yVVhLQjc4aVhuZExDVUlwYWF0YWJWaGtZcHMwXzc5d1FoNC1KWjRnbVJWUUlfa2VSVzRjcDdGXzZhckZ2Ym5TanNIQnVFUEQxQWtrN2dlbUVyRkladmZPclpYM3BORFFQaEM4a1U5SUxXUGVOTkVGTkptTF9aYkZoTEFCNEFINUNDRmh5ZmowZzdUMmZtb0JvQ1J4VFlqaHdnR0dSOWRoXzMwWkVsWkV2eGFnRDpDPGI-RG9iYmllczwvYj4gY2xvc2luZyAxNyBnYXJkZW4gY2VudHJlcyBpbiBiaWQgdG8gcmV0dXJuIHRvIHByb2ZpdEJ1R2FyZGVuIGNlbnRyZSBvcGVyYXRvciA8Yj5Eb2JiaWVzPC9iPiBoYXMgdW52ZWlsZWQgYSByZXN0cnVjdHVyaW5nIHBsYW4gdGhhdCB3aWxsIHNlZSAxNyBzaXRlcyBzaHV0IGFuZCA0NjUgam9icyBoaXQuIgIQAUgAWABoAA",
+    "source": "Proactive Investors",
+    "read_more_link": "https://www.proactiveinvestors.co.uk/companies/news/1057382/dobbies-closing-17-garden-centres-in-bid-to-return-to-profit-1057382.html#:~:text=Garden%20centre%20operator%20Dobbies%20has,shut%20and%20465%20jobs%20hit."
+   },
+   {
+    "position": 4,
+    "title": "Dobbies Garden Centres Aylesbury",
+    "link": "https://www.gardencentreguide.co.uk/dobbies-garden-centres-aylesbury",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfwHrOzAVoFo4_CI1XKYhQxRM_rk6YHv0jW9eoO_Q3tRp6vg30wTd1znq_-NRLrRMSIIb9Jkh2aJ9iNk8n6KRC6xMyJOoSH2IgTmcJ2YMgbfb1ejmrGT3z_JthhJ5SW0WDfLKftVBG7Q3QgCH8z-Hu1azrWds43Qakx6rAQrzSSM&ved=2ahUKEwi009iHm5eXAxVTLdAFHXWbAIIQFnoECBwQAQ&uoh=1",
+    "displayed_link": "https://www.gardencentreguide.co.uk › dobbies-garden-c...",
+    "favicon": "https://serpapi.com/images/i/UklGRpoBAABXRUJQVlA4II4BAADQBgCdASogACAAPtE-tFooIigoFAEAGglsAIEmVrUAml18A1gTlR4qAeu8kKz_6ep3iCCgweRz_X5IY92uzAAA_v0s9dLgrTXiqprjViEKiX3V3lh_cCdGc3qMcq0dUgumJE1nSWkWFpXSCBQGlffoNsvo-2zuvdVJzQYXDBLJX_6B3womH8r25SdtYM75iUOp74c5qBh-_tL8wrirL-rx5mGsMqby7GczzRbXoOkQGdUCI4Rc_v4fvzFtyt8qwXSKAHTHcB-9fQ2osyUXGkmdZ07GRC3gNxcaBRDhunEInBXtef75-KNky5_ctkfrjGPuEWSQ3Z-TaaTJdbpyqE6q_w3lXX2lmLl4vo1skIv-P8C_kC96yK8v-zv7-h2qfquhPru2ssQO2XEFk0IqnL2-rD1avsc87J-jMJM5iYbLmoiKpewuJO6pUfuDo-OZ3bR5wrwcxP9P2p-AP_6n8dq-CRNn5XWTyGjiOAZx3zQPKZGd3k6h7CaT0TMhNzTsyzXJjAFsz8BjH5lAfgAAAA.webp",
+    "snippet": "Located at Aylesbury Road in , Buckinghamshire, Dobbies Garden Centres Aylesbury is the perfect garden centre for all your gardening needs.",
+    "snippet_highlighted_words": [
+     "Located at Aylesbury Road in , Buckinghamshire"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Located at Aylesbury Road in , Buckinghamshire, Dobbies Garden Centres Aylesbury is the perfect garden centre for all your gardening needs.",
+      "source_info_link": "https://www.gardencentreguide.co.uk/dobbies-garden-centres-aylesbury",
+      "icon": "https://serpapi.com/images/i/UklGRpoBAABXRUJQVlA4II4BAADQBgCdASogACAAPtE-tFooIigoFAEAGglsAIEmVrUAml18A1gTlR4qAeu8kKz_6ep3iCCgweRz_X5IY92uzAAA_v0s9dLgrTXiqprjViEKiX3V3lh_cCdGc3qMcq0dUgumJE1nSWkWFpXSCBQGlffoNsvo-2zuvdVJzQYXDBLJX_6B3womH8r25SdtYM75iUOp74c5qBh-_tL8wrirL-rx5mGsMqby7GczzRbXoOkQGdUCI4Rc_v4fvzFtyt8qwXSKAHTHcB-9fQ2osyUXGkmdZ07GRC3gNxcaBRDhunEInBXtef75-KNky5_ctkfrjGPuEWSQ3Z-TaaTJdbpyqE6q_w3lXX2lmLl4vo1skIv-P8C_kC96yK8v-zv7-h2qfquhPru2ssQO2XEFk0IqnL2-rD1avsc87J-jMJM5iYbLmoiKpewuJO6pUfuDo-OZ3bR5wrwcxP9P2p-AP_6n8dq-CRNn5XWTyGjiOAZx3zQPKZGd3k6h7CaT0TMhNzTsyzXJjAFsz8BjH5lAfgAAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVm9GbzRfQ0kxWEtZaFF4Uk1fcms2WUh2MGpXOWVvT19RM3RScDZ2ZzMwd1RkMXpucV8tTlJMclJNU0lJYjlKa2gyYUo5aU5rOG42S1JDNnhNeUpPb1NIMklnVG1jSjJZTWdiZmIxZWptckdUM3pfSnRoaEo1U1cwV0RmTEtmdFZCRzdRM1FnQ0g4ei1IdTFhenJXZHM0M1Fha3g2ckFRcnpTU00SBBoCCAAa8wMSABoCCAEiACoAMgYIARICdWs6AEIECAEQAEoAWgByAHoAgkDNAwgAEAAYACAAKhwKB2RvYmJpZXMVJCiOQBoMaXY7cDtkb2JiaWVzKisKAnVrFQyXCz8aB2JyaXRhaW4aB2JyaXRpc2gaDnVuaXRlZCBraW5nZG9tMrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVm9GbzRfQ0kxWEtZaFF4Uk1fcms2WUh2MGpXOWVvT19RM3RScDZ2ZzMwd1RkMXpucV8tTlJMclJNU0lJYjlKa2gyYUo5aU5rOG42S1JDNnhNeUpPb1NIMklnVG1jSjJZTWdiZmIxZWptckdUM3pfSnRoaEo1U1cwV0RmTEtmdFZCRzdRM1FnQ0g4ei1IdTFhenJXZHM0M1Fha3g2ckFRcnpTU006JzxiPkRvYmJpZXM8L2I-IEdhcmRlbiBDZW50cmVzIEF5bGVzYnVyeUKSATxiPkxvY2F0ZWQgYXQgQXlsZXNidXJ5IFJvYWQgaW4gLCBCdWNraW5naGFtc2hpcmU8L2I-LCBEb2JiaWVzIEdhcmRlbiBDZW50cmVzIEF5bGVzYnVyeSBpcyB0aGUgcGVyZmVjdCBnYXJkZW4gY2VudHJlIGZvciBhbGwgeW91ciBnYXJkZW5pbmcgbmVlZHMuIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVm9GbzRfQ0kxWEtZaFF4Uk1fcms2WUh2MGpXOWVvT19RM3RScDZ2ZzMwd1RkMXpucV8tTlJMclJNU0lJYjlKa2gyYUo5aU5rOG42S1JDNnhNeUpPb1NIMklnVG1jSjJZTWdiZmIxZWptckdUM3pfSnRoaEo1U1cwV0RmTEtmdFZCRzdRM1FnQ0g4ei1IdTFhenJXZHM0M1Fha3g2ckFRcnpTU00SBBoCCAAa8wMSABoCCAEiACoAMgYIARICdWs6AEIECAEQAEoAWgByAHoAgkDNAwgAEAAYACAAKhwKB2RvYmJpZXMVJCiOQBoMaXY7cDtkb2JiaWVzKisKAnVrFQyXCz8aB2JyaXRhaW4aB2JyaXRpc2gaDnVuaXRlZCBraW5nZG9tMrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVm9GbzRfQ0kxWEtZaFF4Uk1fcms2WUh2MGpXOWVvT19RM3RScDZ2ZzMwd1RkMXpucV8tTlJMclJNU0lJYjlKa2gyYUo5aU5rOG42S1JDNnhNeUpPb1NIMklnVG1jSjJZTWdiZmIxZWptckdUM3pfSnRoaEo1U1cwV0RmTEtmdFZCRzdRM1FnQ0g4ei1IdTFhenJXZHM0M1Fha3g2ckFRcnpTU006JzxiPkRvYmJpZXM8L2I-IEdhcmRlbiBDZW50cmVzIEF5bGVzYnVyeUKSATxiPkxvY2F0ZWQgYXQgQXlsZXNidXJ5IFJvYWQgaW4gLCBCdWNraW5naGFtc2hpcmU8L2I-LCBEb2JiaWVzIEdhcmRlbiBDZW50cmVzIEF5bGVzYnVyeSBpcyB0aGUgcGVyZmVjdCBnYXJkZW4gY2VudHJlIGZvciBhbGwgeW91ciBnYXJkZW5pbmcgbmVlZHMuIgIQAUgAWABoAA",
+    "source": "Garden Centre Guide UK",
+    "read_more_link": "https://www.gardencentreguide.co.uk/dobbies-garden-centres-aylesbury#:~:text=Located%20at%20Aylesbury%20Road%20in,for%20all%20your%20gardening%20needs."
+   },
+   {
+    "position": 5,
+    "title": "dobbies sock consultancy ltd - Companies House - GOV.UK",
+    "link": "https://find-and-update.company-information.service.gov.uk/company/13514221",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShgEB6zswFSsHj4HwoqBOuzDfOilkiObrwNq01jFVwCekjsGRasZaMTAL9rLKza9DcFu2KyMD5y62M0WsAOJr8hOvGorucNgsv6sts33BrIDXGNDNdg6vU7M76xx4w46IHD72HBgBKUkcwAxZkDJ9LUsJBMrMkJKSWp8DDImohdCXCdGnyvSZzg&ved=2ahUKEwi009iHm5eXAxVTLdAFHXWbAIIQFnoECB8QAQ&uoh=1",
+    "displayed_link": "https://find-and-update.company-information.service.gov.uk › ...",
+    "favicon": "https://serpapi.com/images/i/UklGRhgBAABXRUJQVlA4IAwBAAAwBgCdASocABwAPtE-tFooIigoFAEAGgloAJ0yhHp496oAiAFWyZytQAMtBxxeoo0v-ukyi91RSUmAAP5tq_b9aeTUksslz1bykvnoSeNsDcPyo5M_1_OL_N6zZIdLehoX_zUl-ET4KtFrXLBT8kc4tQu5oC8i_ugLTiU5sHmdS6vQ9o-_zd3Trc_rtaTl4-ncTsepxs0eCTVPA9c0v4EPxd1_zGFFZTm-3TgDWGON9_V8467cPT_lIoXVJCYHBvAamqBBmH12TC3ezccMwXyjcyz50b6euvyUReqT5RY2mJ-Kuu3NW7x52cE5EN9f1Y-44VHb19inO6ikqhd0FPC5piGcBUzPXX0ogAAA.webp",
+    "snippet": "DOBBIES SOCK CONSULTANCY LTD - Free company information from Companies House including registered office address, filing history, accounts, annual return, ...",
+    "snippet_highlighted_words": [
+     "DOBBIES"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "DOBBIES SOCK CONSULTANCY LTD - Free company information from Companies House including registered office address, filing history, accounts, annual return, ...",
+      "source_info_link": "https://find-and-update.company-information.service.gov.uk/company/13514221",
+      "icon": "https://serpapi.com/images/i/UklGRhgBAABXRUJQVlA4IAwBAAAwBgCdASocABwAPtE-tFooIigoFAEAGgloAJ0yhHp496oAiAFWyZytQAMtBxxeoo0v-ukyi91RSUmAAP5tq_b9aeTUksslz1bykvnoSeNsDcPyo5M_1_OL_N6zZIdLehoX_zUl-ET4KtFrXLBT8kc4tQu5oC8i_ugLTiU5sHmdS6vQ9o-_zd3Trc_rtaTl4-ncTsepxs0eCTVPA9c0v4EPxd1_zGFFZTm-3TgDWGON9_V8467cPT_lIoXVJCYHBvAamqBBmH12TC3ezccMwXyjcyz50b6euvyUReqT5RY2mJ-Kuu3NW7x52cE5EN9f1Y-44VHb19inO6ikqhd0FPC5piGcBUzPXX0ogAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CsQBL2dvdG8_dXJsPUNBRVNoZ0VCNnpzd0ZTc0hqNEh3b3FCT3V6RGZPaWxraU9icndOcTAxakZWd0Nla2pzR1Jhc1phTVRBTDlyTEt6YTlEY0Z1Mkt5TUQ1eTYyTTBXc0FPSnI4aE92R29ydWNOZ3N2NnN0czMzQnJJRFhHTkROZGc2dlU3TTc2eHg0dzQ2SUhENzJIQmdCS1VrY3dBeFprREo5TFVzSkJNck1rSktTV3A4RERJbW9oZENYQ2RHbnl2U1p6ZxIEGgIIABqtBBICCAAaACIAKgAyBggBEgJ1azoAQgQIARAASgBaAHIAegCCQIcECAAQABgAIAAqHAoHZG9iYmllcxX62WtAGgxpdjtwO2RvYmJpZXMqKwoCdWsVVVUZQBoHYnJpdGFpbhoHYnJpdGlzaBoOdW5pdGVkIGtpbmdkb20yxAEvZ290bz91cmw9Q0FFU2hnRUI2enN3RlNzSGo0SHdvcUJPdXpEZk9pbGtpT2Jyd05xMDFqRlZ3Q2VranNHUmFzWmFNVEFMOXJMS3phOURjRnUyS3lNRDV5NjJNMFdzQU9KcjhoT3ZHb3J1Y05nc3Y2c3RzMzNCcklEWEdORE5kZzZ2VTdNNzZ4eDR3NDZJSEQ3MkhCZ0JLVWtjd0F4WmtESjlMVXNKQk1yTWtKS1NXcDhEREltb2hkQ1hDZEdueXZTWnpnOj48Yj5kb2JiaWVzPC9iPiBzb2NrIGNvbnN1bHRhbmN5IGx0ZCAtIENvbXBhbmllcyBIb3VzZSAtIEdPVi5VS0KqATxiPkRPQkJJRVM8L2I-IFNPQ0sgQ09OU1VMVEFOQ1kgTFREIC0gRnJlZSBjb21wYW55IGluZm9ybWF0aW9uIGZyb20gQ29tcGFuaWVzIEhvdXNlIGluY2x1ZGluZyByZWdpc3RlcmVkIG9mZmljZSBhZGRyZXNzLCBmaWxpbmcgaGlzdG9yeSwgYWNjb3VudHMsIGFubnVhbCByZXR1cm4sJm5ic3A7Li4uIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CsQBL2dvdG8_dXJsPUNBRVNoZ0VCNnpzd0ZTc0hqNEh3b3FCT3V6RGZPaWxraU9icndOcTAxakZWd0Nla2pzR1Jhc1phTVRBTDlyTEt6YTlEY0Z1Mkt5TUQ1eTYyTTBXc0FPSnI4aE92R29ydWNOZ3N2NnN0czMzQnJJRFhHTkROZGc2dlU3TTc2eHg0dzQ2SUhENzJIQmdCS1VrY3dBeFprREo5TFVzSkJNck1rSktTV3A4RERJbW9oZENYQ2RHbnl2U1p6ZxIEGgIIABqtBBICCAAaACIAKgAyBggBEgJ1azoAQgQIARAASgBaAHIAegCCQIcECAAQABgAIAAqHAoHZG9iYmllcxX62WtAGgxpdjtwO2RvYmJpZXMqKwoCdWsVVVUZQBoHYnJpdGFpbhoHYnJpdGlzaBoOdW5pdGVkIGtpbmdkb20yxAEvZ290bz91cmw9Q0FFU2hnRUI2enN3RlNzSGo0SHdvcUJPdXpEZk9pbGtpT2Jyd05xMDFqRlZ3Q2VranNHUmFzWmFNVEFMOXJMS3phOURjRnUyS3lNRDV5NjJNMFdzQU9KcjhoT3ZHb3J1Y05nc3Y2c3RzMzNCcklEWEdORE5kZzZ2VTdNNzZ4eDR3NDZJSEQ3MkhCZ0JLVWtjd0F4WmtESjlMVXNKQk1yTWtKS1NXcDhEREltb2hkQ1hDZEdueXZTWnpnOj48Yj5kb2JiaWVzPC9iPiBzb2NrIGNvbnN1bHRhbmN5IGx0ZCAtIENvbXBhbmllcyBIb3VzZSAtIEdPVi5VS0KqATxiPkRPQkJJRVM8L2I-IFNPQ0sgQ09OU1VMVEFOQ1kgTFREIC0gRnJlZSBjb21wYW55IGluZm9ybWF0aW9uIGZyb20gQ29tcGFuaWVzIEhvdXNlIGluY2x1ZGluZyByZWdpc3RlcmVkIG9mZmljZSBhZGRyZXNzLCBmaWxpbmcgaGlzdG9yeSwgYWNjb3VudHMsIGFubnVhbCByZXR1cm4sJm5ic3A7Li4uIgIQAUgAWABoAA",
+    "source": "Find and update company information"
+   },
+   {
+    "position": 6,
+    "title": "New Arrivals! at Dobbies Garden Centre UK | Halloween",
+    "link": "https://www.youtube.com/watch?v=KbHf8IvsTeI",
+    "displayed_link": "600+ views · 1 year ago",
+    "thumbnail": "https://serpapi.com/searches/6abd7a23874d507a4949beb1/images/kGXQDtKBm57UV8s6TX2S9k6OW7_91tlkH2pArPkWMAw.jpeg",
+    "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+    "snippet": "I visited Dobbies Garden Centre in Swansea South Wales to show you what's new for Halloween and Christmas. I also look at the Spring Bulbs and ...",
+    "duration": "15:03",
+    "about_this_result": {
+     "source": {
+      "description": "I visited Dobbies Garden Centre in Swansea South Wales to show you what's new for Halloween and Christmas. I also look at the Spring Bulbs and ...",
+      "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+     }
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVlFaWEVJMVA4Q2VfUHpaUkFxOXBnTTZZUUNIZGZXeDBJXzdQOVFnbWVPWXgyRmVabHNKRkdERGlLRHZGWm1yX3dGNHEyRzJlQWFMdTRleTlQOTg4bGtOS1VmbUNJSmhrYVoyZDctS2l5STJPT0RHQy1QT3F5RHctejhFQ3piRTBNU2cSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVlFaWEVJMVA4Q2VfUHpaUkFxOXBnTTZZUUNIZGZXeDBJXzdQOVFnbWVPWXgyRmVabHNKRkdERGlLRHZGWm1yX3dGNHEyRzJlQWFMdTRleTlQOTg4bGtOS1VmbUNJSmhrYVoyZDctS2l5STJPT0RHQy1QT3F5RHctejhFQ3piRTBNU2cSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+    "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQ6IQAVAOapjGfNUJDw_0Gx5d3WZZ01OBHtTg",
+    "source": "YouTube · Rachel's Flora & Finds"
+   },
+   {
+    "position": 7,
+    "title": "British Garden Centres acquires Dobbies Gloucester and ...",
+    "link": "https://www.gardenforum.co.uk/headlines/british-garden-centres-acquires-dobbies-gloucester-and-reading-stores/",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESqQEB6zswFQ3JUa9zkyB6IQAnTr2hVSgdua7ITAfy2xsr5BjWtRAt_03zTE83UVoI8CoEw416o8j9btpeX9ccz3VxjufAHXKSpwpDrA_H33cFyXYsMgWvI3SN6-nicCrRJoxvJG4TB6wicyjJlA0bZ4th2qLrBHazsnekI3w6R_Kw38p3V0MDJyfmmV9LiUxLrCMezKMuip1H-lVZMN5hWFvBhBYnOGdsS1TA&ved=2ahUKEwi009iHm5eXAxVTLdAFHXWbAIIQFnoECDwQAQ&uoh=1",
+    "displayed_link": "https://www.gardenforum.co.uk › headlines › british-gar...",
+    "thumbnail": "https://serpapi.com/searches/6abd7a23874d507a4949beb1/images/kGXQDtKBm57UV8s6TX2S9jCjxn-v5foAjATtmnw3FVU.jpeg",
+    "favicon": "https://serpapi.com/images/i/UklGRlwBAABXRUJQVlA4IFABAABQBwCdASogACAAPtE-tFooIigoFAEAGglsALEbUiZ4TPVN0EHP_6ZBvJJEWnjfJo3JD0Kp8_spZqlbeswejMZ0aNCAAP79K9fjkf1R8tm-DOFvQLTX9xxPAdzxav-P-retLb2s8sH6hFPbylQZVLH4nTZdvZ-oNq4J7htZg-xShYd2XOTwTNdBRL45M0S6jN9bJXYchkB_z2HrQor6nGCV9Oka5lv21syktuC624hLNphpc-oGvz5Cfr4Fx2NFa3cPd_RMkfkYOJgN_9Dd9TllLSsx8bwCbGl_hYvpkIrYdS-_Y5tgiMarzH3UNtxMpWfcmzC0Hqi6yoESoE9vTfLCTsuxwJnpXb8ZPi62ycnXkxqYPeVjGP8c_k2op-0KuS565aJJrFRWswT0xkOtNPkpi1D4iQIyCtV8R87w8jTOhiWNcOfmlMpvBs4ghRPAAAA.webp",
+    "date": "17 Jan 2025",
+    "snippet": "British Garden Centres has today announced the acquisition of two Dobbies Garden Centres in Gloucester and Reading, making it the UK's largest ...",
+    "snippet_highlighted_words": [
+     "two Dobbies Garden Centres in Gloucester and Reading"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "British Garden Centres has today announced the acquisition of two Dobbies Garden Centres in Gloucester and Reading, making it the UK's largest ...",
+      "source_info_link": "https://www.gardenforum.co.uk/headlines/british-garden-centres-acquires-dobbies-gloucester-and-reading-stores/",
+      "icon": "https://serpapi.com/images/i/UklGRlwBAABXRUJQVlA4IFABAABQBwCdASogACAAPtE-tFooIigoFAEAGglsALEbUiZ4TPVN0EHP_6ZBvJJEWnjfJo3JD0Kp8_spZqlbeswejMZ0aNCAAP79K9fjkf1R8tm-DOFvQLTX9xxPAdzxav-P-retLb2s8sH6hFPbylQZVLH4nTZdvZ-oNq4J7htZg-xShYd2XOTwTNdBRL45M0S6jN9bJXYchkB_z2HrQor6nGCV9Oka5lv21syktuC624hLNphpc-oGvz5Cfr4Fx2NFa3cPd_RMkfkYOJgN_9Dd9TllLSsx8bwCbGl_hYvpkIrYdS-_Y5tgiMarzH3UNtxMpWfcmzC0Hqi6yoESoE9vTfLCTsuxwJnpXb8ZPi62ycnXkxqYPeVjGP8c_k2op-0KuS565aJJrFRWswT0xkOtNPkpi1D4iQIyCtV8R87w8jTOhiWNcOfmlMpvBs4ghRPAAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=CvIBL2dvdG8_dXJsPUNBRVNxUUVCNnpzd0ZRM0pVYTl6a3lCNklRQW5UcjJoVlNnZHVhN0lUQWZ5MnhzcjVCald0UkF0XzAzelRFODNVVm9JOENvRXc0MTZvOGo5YnRwZVg5Y2N6M1Z4anVmQUhYS1Nwd3BEckFfSDMzY0Z5WFlzTWdXdkkzU042LW5pY0NyUkpveHZKRzRUQjZ3aWN5akpsQTBiWjR0aDJxTHJCSGF6c25la0kzdzZSX0t3MzhwM1YwTURKeWZtbVY5TGlVeExyQ01lektNdWlwMUgtbFZaTU41aFdGdkJoQlluT0dkc1MxVEESBBoCCAAa3QQSABoCCAEiACoAMgYIARICdWs6AEIECAEQAEoAWgByAHoAgkC3BAgAEAAYACAAKhwKB2RvYmJpZXMVdj2fQBoMaXY7cDtkb2JiaWVzKisKAnVrFasIDUAaB2JyaXRhaW4aB2JyaXRpc2gaDnVuaXRlZCBraW5nZG9tMvIBL2dvdG8_dXJsPUNBRVNxUUVCNnpzd0ZRM0pVYTl6a3lCNklRQW5UcjJoVlNnZHVhN0lUQWZ5MnhzcjVCald0UkF0XzAzelRFODNVVm9JOENvRXc0MTZvOGo5YnRwZVg5Y2N6M1Z4anVmQUhYS1Nwd3BEckFfSDMzY0Z5WFlzTWdXdkkzU042LW5pY0NyUkpveHZKRzRUQjZ3aWN5akpsQTBiWjR0aDJxTHJCSGF6c25la0kzdzZSX0t3MzhwM1YwTURKeWZtbVY5TGlVeExyQ01lektNdWlwMUgtbFZaTU41aFdGdkJoQlluT0dkc1MxVEE6SDxiPkJyaXRpc2g8L2I-IEdhcmRlbiBDZW50cmVzIGFjcXVpcmVzIDxiPkRvYmJpZXM8L2I-IEdsb3VjZXN0ZXIgYW5kIC4uLkKiAUJyaXRpc2ggR2FyZGVuIENlbnRyZXMgaGFzIHRvZGF5IGFubm91bmNlZCB0aGUgYWNxdWlzaXRpb24gb2YgPGI-dHdvIERvYmJpZXMgR2FyZGVuIENlbnRyZXMgaW4gR2xvdWNlc3RlciBhbmQgUmVhZGluZzwvYj4sIG1ha2luZyBpdCB0aGUgVUsmIzM5O3MgbGFyZ2VzdCZuYnNwOy4uLiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=CvIBL2dvdG8_dXJsPUNBRVNxUUVCNnpzd0ZRM0pVYTl6a3lCNklRQW5UcjJoVlNnZHVhN0lUQWZ5MnhzcjVCald0UkF0XzAzelRFODNVVm9JOENvRXc0MTZvOGo5YnRwZVg5Y2N6M1Z4anVmQUhYS1Nwd3BEckFfSDMzY0Z5WFlzTWdXdkkzU042LW5pY0NyUkpveHZKRzRUQjZ3aWN5akpsQTBiWjR0aDJxTHJCSGF6c25la0kzdzZSX0t3MzhwM1YwTURKeWZtbVY5TGlVeExyQ01lektNdWlwMUgtbFZaTU41aFdGdkJoQlluT0dkc1MxVEESBBoCCAAa3QQSABoCCAEiACoAMgYIARICdWs6AEIECAEQAEoAWgByAHoAgkC3BAgAEAAYACAAKhwKB2RvYmJpZXMVdj2fQBoMaXY7cDtkb2JiaWVzKisKAnVrFasIDUAaB2JyaXRhaW4aB2JyaXRpc2gaDnVuaXRlZCBraW5nZG9tMvIBL2dvdG8_dXJsPUNBRVNxUUVCNnpzd0ZRM0pVYTl6a3lCNklRQW5UcjJoVlNnZHVhN0lUQWZ5MnhzcjVCald0UkF0XzAzelRFODNVVm9JOENvRXc0MTZvOGo5YnRwZVg5Y2N6M1Z4anVmQUhYS1Nwd3BEckFfSDMzY0Z5WFlzTWdXdkkzU042LW5pY0NyUkpveHZKRzRUQjZ3aWN5akpsQTBiWjR0aDJxTHJCSGF6c25la0kzdzZSX0t3MzhwM1YwTURKeWZtbVY5TGlVeExyQ01lektNdWlwMUgtbFZaTU41aFdGdkJoQlluT0dkc1MxVEE6SDxiPkJyaXRpc2g8L2I-IEdhcmRlbiBDZW50cmVzIGFjcXVpcmVzIDxiPkRvYmJpZXM8L2I-IEdsb3VjZXN0ZXIgYW5kIC4uLkKiAUJyaXRpc2ggR2FyZGVuIENlbnRyZXMgaGFzIHRvZGF5IGFubm91bmNlZCB0aGUgYWNxdWlzaXRpb24gb2YgPGI-dHdvIERvYmJpZXMgR2FyZGVuIENlbnRyZXMgaW4gR2xvdWNlc3RlciBhbmQgUmVhZGluZzwvYj4sIG1ha2luZyBpdCB0aGUgVUsmIzM5O3MgbGFyZ2VzdCZuYnNwOy4uLiICEAFIAFgAaAA",
+    "source": "Gardenforum"
+   },
+   {
+    "position": 8,
+    "title": "Dobbies shutting 16 garden centres in UK with full list of ...",
+    "link": "https://www.birminghammail.co.uk/whats-on/shopping/dobbies-shutting-16-garden-centres-30464318",
+    "redirect_link": "https://www.google.co.uk/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmQEB6zswFX_3PA40uNyBpBge4NlPnWMT1TGIAm_Qzssy3cgrLqXO-KD6m0TuAlYKFE5JlkF_jJjkZpWVc8RXehUVBWYN9SBjEcgEThhFGb-zGCDTyOBqIB5aR4cDTOa8j3DCwKSZ9UKtrdRVabGUqTon6Oy81HXQJxMCftC2WZ5ctCI5hMPa5Z2ZP3dRxEdxOutWXFAR8wG-b8M&ved=2ahUKEwi009iHm5eXAxVTLdAFHXWbAIIQFnoECDkQAQ&uoh=1",
+    "displayed_link": "https://www.birminghammail.co.uk › ... › Your Money",
+    "thumbnail": "https://serpapi.com/searches/6abd7a23874d507a4949beb1/images/kGXQDtKBm57UV8s6TX2S9h66tUS2o7rBy01ZQP9lMUg.jpeg",
+    "favicon": "https://serpapi.com/images/i/UklGRroAAABXRUJQVlA4IK4AAABwBQCdASocABwAPtE-tFooIigoFAEAGgloAJ0yhHloFZ9DsG69UPPExg-6khlZ4Oij7YQAAP58vidEO1buXX5pwidlrVhCoAeKfpQi8NbR_lb-OId_JHCCj2CyzTccXE87598f0WymNovBIPdeGfj3UbX7sJhCHyHTdyBsZsg4NpMWWxtsh-B46Gjp06kSJ08eGy0z_c_c3ThXE5d17UFiKgbpQHtR_FJ94TAAAAA.webp",
+    "date": "27 Nov 2024",
+    "snippet": "Dobbies is also seeking to reduce its rent at Aylesbury – World's End, Hare Hatch, Havant, Leicester, Lelant, Morpeth, Northampton, ...",
+    "snippet_highlighted_words": [
+     "Dobbies"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Dobbies is also seeking to reduce its rent at Aylesbury – World's End, Hare Hatch, Havant, Leicester, Lelant, Morpeth, Northampton, ...",
+      "source_info_link": "https://www.birminghammail.co.uk/whats-on/shopping/dobbies-shutting-16-garden-centres-30464318",
+      "icon": "https://serpapi.com/images/i/UklGRroAAABXRUJQVlA4IK4AAABwBQCdASocABwAPtE-tFooIigoFAEAGgloAJ0yhHloFZ9DsG69UPPExg-6khlZ4Oij7YQAAP58vidEO1buXX5pwidlrVhCoAeKfpQi8NbR_lb-OId_JHCCj2CyzTccXE87598f0WymNovBIPdeGfj3UbX7sJhCHyHTdyBsZsg4NpMWWxtsh-B46Gjp06kSJ08eGy0z_c_c3ThXE5d17UFiKgbpQHtR_FJ94TAAAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "GB"
+     ]
+    },
+    "about_page_link": "https://www.google.co.uk/search/about-this-result?origin=www.google.com&req=Ct0BL2dvdG8_dXJsPUNBRVNtUUVCNnpzd0ZYXzNQQTQwdU55QnBCZ2U0TmxQbldNVDFUR0lBbV9RenNzeTNjZ3JMcVhPLUtENm0wVHVBbFlLRkU1SmxrRl9qSmprWnBXVmM4UlhlaFVWQldZTjlTQmpFY2dFVGhoRkdiLXpHQ0RUeU9CcUlCNWFSNGNEVE9hOGozREN3S1NaOVVLdHJkUlZhYkdVcVRvbjZPeTgxSFhRSnhNQ2Z0QzJXWjVjdENJNWhNUGE1WjJaUDNkUnhFZHhPdXRXWEZBUjh3Ry1iOE0SBBoCCAAaygQSAggAGgIIASIAKgAyBggBEgJ1azoAQgQIARAASgBaAHIAegCCQKIECAAQABgAIAAqHAoHZG9iYmllcxX1IslAGgxpdjtwO2RvYmJpZXMqKwoCdWsVoMKYQBoHYnJpdGFpbhoHYnJpdGlzaBoOdW5pdGVkIGtpbmdkb20y3QEvZ290bz91cmw9Q0FFU21RRUI2enN3RlhfM1BBNDB1TnlCcEJnZTRObFBuV01UMVRHSUFtX1F6c3N5M2NnckxxWE8tS0Q2bTBUdUFsWUtGRTVKbGtGX2pKamtacFdWYzhSWGVoVVZCV1lOOVNCakVjZ0VUaGhGR2ItekdDRFR5T0JxSUI1YVI0Y0RUT2E4ajNEQ3dLU1o5VUt0cmRSVmFiR1VxVG9uNk95ODFIWFFKeE1DZnRDMldaNWN0Q0k1aE1QYTVaMlpQM2RSeEVkeE91dFdYRkFSOHdHLWI4TTpRPGI-RG9iYmllczwvYj4gc2h1dHRpbmcgMTYgZ2FyZGVuIGNlbnRyZXMgaW4gPGI-VUs8L2I-IHdpdGggbGlzdCBvZiBsb2NhdGlvbnMgLi4uQpkBPGI-RG9iYmllczwvYj4gaXMgYWxzbyBzZWVraW5nIHRvIHJlZHVjZSBpdHMgcmVudCBhdCBBeWxlc2J1cnkg4oCTIFdvcmxkJiMzOTtzIEVuZCwgSGFyZSBIYXRjaCwgSGF2YW50LCBMZWljZXN0ZXIsIExlbGFudCwgTW9ycGV0aCwgTm9ydGhhbXB0b24sJm5ic3A7Li4uIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.uk&req_token=Ct0BL2dvdG8_dXJsPUNBRVNtUUVCNnpzd0ZYXzNQQTQwdU55QnBCZ2U0TmxQbldNVDFUR0lBbV9RenNzeTNjZ3JMcVhPLUtENm0wVHVBbFlLRkU1SmxrRl9qSmprWnBXVmM4UlhlaFVWQldZTjlTQmpFY2dFVGhoRkdiLXpHQ0RUeU9CcUlCNWFSNGNEVE9hOGozREN3S1NaOVVLdHJkUlZhYkdVcVRvbjZPeTgxSFhRSnhNQ2Z0QzJXWjVjdENJNWhNUGE1WjJaUDNkUnhFZHhPdXRXWEZBUjh3Ry1iOE0SBBoCCAAaygQSAggAGgIIASIAKgAyBggBEgJ1azoAQgQIARAASgBaAHIAegCCQKIECAAQABgAIAAqHAoHZG9iYmllcxX1IslAGgxpdjtwO2RvYmJpZXMqKwoCdWsVoMKYQBoHYnJpdGFpbhoHYnJpdGlzaBoOdW5pdGVkIGtpbmdkb20y3QEvZ290bz91cmw9Q0FFU21RRUI2enN3RlhfM1BBNDB1TnlCcEJnZTRObFBuV01UMVRHSUFtX1F6c3N5M2NnckxxWE8tS0Q2bTBUdUFsWUtGRTVKbGtGX2pKamtacFdWYzhSWGVoVVZCV1lOOVNCakVjZ0VUaGhGR2ItekdDRFR5T0JxSUI1YVI0Y0RUT2E4ajNEQ3dLU1o5VUt0cmRSVmFiR1VxVG9uNk95ODFIWFFKeE1DZnRDMldaNWN0Q0k1aE1QYTVaMlpQM2RSeEVkeE91dFdYRkFSOHdHLWI4TTpRPGI-RG9iYmllczwvYj4gc2h1dHRpbmcgMTYgZ2FyZGVuIGNlbnRyZXMgaW4gPGI-VUs8L2I-IHdpdGggbGlzdCBvZiBsb2NhdGlvbnMgLi4uQpkBPGI-RG9iYmllczwvYj4gaXMgYWxzbyBzZWVraW5nIHRvIHJlZHVjZSBpdHMgcmVudCBhdCBBeWxlc2J1cnkg4oCTIFdvcmxkJiMzOTtzIEVuZCwgSGFyZSBIYXRjaCwgSGF2YW50LCBMZWljZXN0ZXIsIExlbGFudCwgTW9ycGV0aCwgTm9ydGhhbXB0b24sJm5ic3A7Li4uIgIQAUgAWABoAA",
+    "source": "Birmingham Live"
+   }
+  ],
+  "pagination": {
+   "current": 1,
+   "next": "https://www.google.co.uk/search?q=Dobbies+UK&sca_esv=f3de7034d550a016&hl=en&gl=uk&sxsrf=APpeQnubHN9tZlAlBNCsKkBw9EAHoMXtUg:1790802467897&ei=I3q9avS1NtPawN4P9baCkAg&start=10&sa=N&sstk=AS6-VmLGmShuDWhHdO-2EUv-emkgEWv2Kp0VCWkFNYOTTQjb3AJqbbKx8UhgbFhPkMOwvFL9iyktUYpdp_Xu8Inj9LPr96Z6zZM6dg&ved=2ahUKEwi009iHm5eXAxVTLdAFHXWbAIIQ8NMDegQINBAI",
+   "other_pages": {
+    "2": "https://www.google.co.uk/search?q=Dobbies+UK&sca_esv=f3de7034d550a016&hl=en&gl=uk&sxsrf=APpeQnubHN9tZlAlBNCsKkBw9EAHoMXtUg:1790802467897&ei=I3q9avS1NtPawN4P9baCkAg&start=10&sa=N&sstk=AS6-VmLGmShuDWhHdO-2EUv-emkgEWv2Kp0VCWkFNYOTTQjb3AJqbbKx8UhgbFhPkMOwvFL9iyktUYpdp_Xu8Inj9LPr96Z6zZM6dg&ved=2ahUKEwi009iHm5eXAxVTLdAFHXWbAIIQ8tMDegQINBAE",
+    "3": "https://www.google.co.uk/search?q=Dobbies+UK&sca_esv=f3de7034d550a016&hl=en&gl=uk&sxsrf=APpeQnubHN9tZlAlBNCsKkBw9EAHoMXtUg:1790802467897&ei=I3q9avS1NtPawN4P9baCkAg&start=20&sa=N&sstk=AS6-VmLGmShuDWhHdO-2EUv-emkgEWv2Kp0VCWkFNYOTTQjb3AJqbbKx8UhgbFhPkMOwvFL9iyktUYpdp_Xu8Inj9LPr96Z6zZM6dg&ved=2ahUKEwi009iHm5eXAxVTLdAFHXWbAIIQ8tMDegQINBAG"
+   }
+  },
+  "serpapi_pagination": {
+   "current": 1,
+   "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&q=Dobbies+UK&start=10",
+   "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&q=Dobbies+UK&start=10",
+   "other_pages": {
+    "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&q=Dobbies+UK&start=10",
+    "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&q=Dobbies+UK&start=20"
+   }
+  }
+ }
+}

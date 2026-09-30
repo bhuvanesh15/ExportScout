@@ -1,0 +1,4044 @@
+{
+ "engine": "google_finance",
+ "params": {
+  "q": "AUD-INR"
+ },
+ "fetched_at": "2026-09-30T20:59:02+00:00",
+ "data": {
+  "search_metadata": {
+   "id": "6abd7814c986af6514753b8c",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/VNuEsPzH9kuQRsRZaPINrwz4-TFX1zz_DFypJd5RZpo/6abd7814c986af6514753b8c.json",
+   "markdown_endpoint": "https://serpapi.com/searches/VNuEsPzH9kuQRsRZaPINrwz4-TFX1zz_DFypJd5RZpo/6abd7814c986af6514753b8c.md",
+   "created_at": "2026-09-30 20:59:00 UTC",
+   "processed_at": "2026-09-30 20:59:00 UTC",
+   "google_finance_url": "https://www.google.com/finance/quote/AUD-INR?hl=en",
+   "raw_html_file": "https://serpapi.com/searches/VNuEsPzH9kuQRsRZaPINrwz4-TFX1zz_DFypJd5RZpo/6abd7814c986af6514753b8c.html",
+   "total_time_taken": 1.6
+  },
+  "search_parameters": {
+   "engine": "google_finance",
+   "q": "AUD-INR",
+   "hl": "en"
+  },
+  "graph": [
+   {
+    "price": 67.07317,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:01 AM UTC"
+   },
+   {
+    "price": 67.05524,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:03 AM UTC"
+   },
+   {
+    "price": 67.06817,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:04 AM UTC"
+   },
+   {
+    "price": 67.03063,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:06 AM UTC"
+   },
+   {
+    "price": 67.02261,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:08 AM UTC"
+   },
+   {
+    "price": 67.05217,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:09 AM UTC"
+   },
+   {
+    "price": 67.02857,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:10 AM UTC"
+   },
+   {
+    "price": 67.05436,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:13 AM UTC"
+   },
+   {
+    "price": 67.02609,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:14 AM UTC"
+   },
+   {
+    "price": 67.05732,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:15 AM UTC"
+   },
+   {
+    "price": 67.06621,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:16 AM UTC"
+   },
+   {
+    "price": 67.05568,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:18 AM UTC"
+   },
+   {
+    "price": 67.05547,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:19 AM UTC"
+   },
+   {
+    "price": 67.04538,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:23 AM UTC"
+   },
+   {
+    "price": 67.06271,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:24 AM UTC"
+   },
+   {
+    "price": 67.06102,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:25 AM UTC"
+   },
+   {
+    "price": 67.05914,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:29 AM UTC"
+   },
+   {
+    "price": 67.05833,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:33 AM UTC"
+   },
+   {
+    "price": 67.06286,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:35 AM UTC"
+   },
+   {
+    "price": 67.06102,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:38 AM UTC"
+   },
+   {
+    "price": 67.05833,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:39 AM UTC"
+   },
+   {
+    "price": 67.06432,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:42 AM UTC"
+   },
+   {
+    "price": 67.06102,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:44 AM UTC"
+   },
+   {
+    "price": 67.07199,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:45 AM UTC"
+   },
+   {
+    "price": 67.06432,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:49 AM UTC"
+   },
+   {
+    "price": 67.07967,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:50 AM UTC"
+   },
+   {
+    "price": 67.07512,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:53 AM UTC"
+   },
+   {
+    "price": 67.06978,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:55 AM UTC"
+   },
+   {
+    "price": 67.09241,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:56 AM UTC"
+   },
+   {
+    "price": 67.08887,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:57 AM UTC"
+   },
+   {
+    "price": 67.08473,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:58 AM UTC"
+   },
+   {
+    "price": 67.08311,
+    "currency": "INR",
+    "date": "Sep 30 2026, 01:00 AM UTC"
+   },
+   {
+    "price": 67.07777,
+    "currency": "INR",
+    "date": "Sep 30 2026, 01:02 AM UTC"
+   },
+   {
+    "price": 67.07784,
+    "currency": "INR",
+    "date": "Sep 30 2026, 01:03 AM UTC"
+   },
+   {
+    "price": 67.08301,
+    "currency": "INR",
+    "date": "Sep 30 2026, 01:05 AM UTC"
+   },
+   {
+    "price": 67.08945,
+    "currency": "INR",
+    "date": "Sep 30 2026, 01:10 AM UTC"
+   },
+   {
+    "price": 67.09168,
+    "currency": "INR",
+    "date": "Sep 30 2026, 01:12 AM UTC"
+   },
+   {
+    "price": 67.09294,
+    "currency": "INR",
+    "date": "Sep 30 2026, 01:13 AM UTC"
+   },
+   {
+    "price": 67.09731,
+    "currency": "INR",
+    "date": "Sep 30 2026, 01:15 AM UTC"
+   },
+   {
+    "price": 67.11089,
+    "currency": "INR",
+    "date": "Sep 30 2026, 01:16 AM UTC"
+   },
+   {
+    "price": 67.12182,
+    "currency": "INR",
+    "date": "Sep 30 2026, 01:17 AM UTC"
+   },
+   {
+    "price": 67.13049,
+    "currency": "INR",
+    "date": "Sep 30 2026, 01:18 AM UTC"
+   },
+   {
+    "price": 67.13121,
+    "currency": "INR",
+    "date": "Sep 30 2026, 01:19 AM UTC"
+   },
+   {
+    "price": 67.1222,
+    "currency": "INR",
+    "date": "Sep 30 2026, 01:20 AM UTC"
+   },
+   {
+    "price": 67.12716,
+    "currency": "INR",
+    "date": "Sep 30 2026, 01:21 AM UTC"
+   },
+   {
+    "price": 67.12409,
+    "currency": "INR",
+    "date": "Sep 30 2026, 01:24 AM UTC"
+   },
+   {
+    "price": 67.1239,
+    "currency": "INR",
+    "date": "Sep 30 2026, 01:25 AM UTC"
+   },
+   {
+    "price": 67.12864,
+    "currency": "INR",
+    "date": "Sep 30 2026, 01:26 AM UTC"
+   },
+   {
+    "price": 67.1253,
+    "currency": "INR",
+    "date": "Sep 30 2026, 01:28 AM UTC"
+   },
+   {
+    "price": 67.13148,
+    "currency": "INR",
+    "date": "Sep 30 2026, 01:29 AM UTC"
+   },
+   {
+    "price": 66.96196,
+    "currency": "INR",
+    "date": "Sep 30 2026, 01:31 AM UTC"
+   },
+   {
+    "price": 66.93765,
+    "currency": "INR",
+    "date": "Sep 30 2026, 01:32 AM UTC"
+   },
+   {
+    "price": 66.92199,
+    "currency": "INR",
+    "date": "Sep 30 2026, 01:33 AM UTC"
+   },
+   {
+    "price": 66.91931,
+    "currency": "INR",
+    "date": "Sep 30 2026, 01:34 AM UTC"
+   },
+   {
+    "price": 66.92933,
+    "currency": "INR",
+    "date": "Sep 30 2026, 01:35 AM UTC"
+   },
+   {
+    "price": 66.90921,
+    "currency": "INR",
+    "date": "Sep 30 2026, 01:36 AM UTC"
+   },
+   {
+    "price": 66.85808,
+    "currency": "INR",
+    "date": "Sep 30 2026, 01:38 AM UTC"
+   },
+   {
+    "price": 66.90349,
+    "currency": "INR",
+    "date": "Sep 30 2026, 01:40 AM UTC"
+   },
+   {
+    "price": 66.80065,
+    "currency": "INR",
+    "date": "Sep 30 2026, 01:41 AM UTC"
+   },
+   {
+    "price": 66.81274,
+    "currency": "INR",
+    "date": "Sep 30 2026, 01:43 AM UTC"
+   },
+   {
+    "price": 66.83984,
+    "currency": "INR",
+    "date": "Sep 30 2026, 01:45 AM UTC"
+   },
+   {
+    "price": 66.8405,
+    "currency": "INR",
+    "date": "Sep 30 2026, 01:47 AM UTC"
+   },
+   {
+    "price": 66.83373,
+    "currency": "INR",
+    "date": "Sep 30 2026, 01:49 AM UTC"
+   },
+   {
+    "price": 66.85264,
+    "currency": "INR",
+    "date": "Sep 30 2026, 01:50 AM UTC"
+   },
+   {
+    "price": 66.83888,
+    "currency": "INR",
+    "date": "Sep 30 2026, 01:53 AM UTC"
+   },
+   {
+    "price": 66.84996,
+    "currency": "INR",
+    "date": "Sep 30 2026, 01:55 AM UTC"
+   },
+   {
+    "price": 66.86046,
+    "currency": "INR",
+    "date": "Sep 30 2026, 01:56 AM UTC"
+   },
+   {
+    "price": 66.85372,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:00 AM UTC"
+   },
+   {
+    "price": 66.8849,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:01 AM UTC"
+   },
+   {
+    "price": 66.90545,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:02 AM UTC"
+   },
+   {
+    "price": 66.89498,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:03 AM UTC"
+   },
+   {
+    "price": 66.86716,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:05 AM UTC"
+   },
+   {
+    "price": 66.86125,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:06 AM UTC"
+   },
+   {
+    "price": 66.86515,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:08 AM UTC"
+   },
+   {
+    "price": 66.87502,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:10 AM UTC"
+   },
+   {
+    "price": 66.81732,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:14 AM UTC"
+   },
+   {
+    "price": 66.83945,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:16 AM UTC"
+   },
+   {
+    "price": 66.82221,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:18 AM UTC"
+   },
+   {
+    "price": 66.84641,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:21 AM UTC"
+   },
+   {
+    "price": 66.83144,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:22 AM UTC"
+   },
+   {
+    "price": 66.83062,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:23 AM UTC"
+   },
+   {
+    "price": 66.83476,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:25 AM UTC"
+   },
+   {
+    "price": 66.86118,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:26 AM UTC"
+   },
+   {
+    "price": 66.85708,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:28 AM UTC"
+   },
+   {
+    "price": 66.85566,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:30 AM UTC"
+   },
+   {
+    "price": 66.86428,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:32 AM UTC"
+   },
+   {
+    "price": 66.8491,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:35 AM UTC"
+   },
+   {
+    "price": 66.86488,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:38 AM UTC"
+   },
+   {
+    "price": 66.84519,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:40 AM UTC"
+   },
+   {
+    "price": 66.84561,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:42 AM UTC"
+   },
+   {
+    "price": 66.86163,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:44 AM UTC"
+   },
+   {
+    "price": 66.84818,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:45 AM UTC"
+   },
+   {
+    "price": 66.87497,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:46 AM UTC"
+   },
+   {
+    "price": 66.88561,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:47 AM UTC"
+   },
+   {
+    "price": 66.89094,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:48 AM UTC"
+   },
+   {
+    "price": 66.90223,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:50 AM UTC"
+   },
+   {
+    "price": 66.89794,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:51 AM UTC"
+   },
+   {
+    "price": 66.89404,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:52 AM UTC"
+   },
+   {
+    "price": 66.90845,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:54 AM UTC"
+   },
+   {
+    "price": 66.89329,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:55 AM UTC"
+   },
+   {
+    "price": 66.9136,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:57 AM UTC"
+   },
+   {
+    "price": 66.91833,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:00 AM UTC"
+   },
+   {
+    "price": 66.93335,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:02 AM UTC"
+   },
+   {
+    "price": 66.95454,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:04 AM UTC"
+   },
+   {
+    "price": 66.95579,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:05 AM UTC"
+   },
+   {
+    "price": 66.95292,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:08 AM UTC"
+   },
+   {
+    "price": 66.94611,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:10 AM UTC"
+   },
+   {
+    "price": 66.94448,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:11 AM UTC"
+   },
+   {
+    "price": 66.95087,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:14 AM UTC"
+   },
+   {
+    "price": 66.95192,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:15 AM UTC"
+   },
+   {
+    "price": 66.94096,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:18 AM UTC"
+   },
+   {
+    "price": 66.94016,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:20 AM UTC"
+   },
+   {
+    "price": 66.94305,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:23 AM UTC"
+   },
+   {
+    "price": 66.94987,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:25 AM UTC"
+   },
+   {
+    "price": 66.956,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:26 AM UTC"
+   },
+   {
+    "price": 66.91986,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:31 AM UTC"
+   },
+   {
+    "price": 66.91864,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:32 AM UTC"
+   },
+   {
+    "price": 66.89918,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:34 AM UTC"
+   },
+   {
+    "price": 66.90104,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:35 AM UTC"
+   },
+   {
+    "price": 66.89346,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:36 AM UTC"
+   },
+   {
+    "price": 66.90209,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:37 AM UTC"
+   },
+   {
+    "price": 66.90108,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:40 AM UTC"
+   },
+   {
+    "price": 66.90728,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:42 AM UTC"
+   },
+   {
+    "price": 66.87768,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:46 AM UTC"
+   },
+   {
+    "price": 66.87705,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:47 AM UTC"
+   },
+   {
+    "price": 66.87748,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:48 AM UTC"
+   },
+   {
+    "price": 66.87807,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:49 AM UTC"
+   },
+   {
+    "price": 66.87748,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:50 AM UTC"
+   },
+   {
+    "price": 66.86965,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:51 AM UTC"
+   },
+   {
+    "price": 66.85405,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:52 AM UTC"
+   },
+   {
+    "price": 66.8575,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:54 AM UTC"
+   },
+   {
+    "price": 66.86593,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:55 AM UTC"
+   },
+   {
+    "price": 66.88153,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:56 AM UTC"
+   },
+   {
+    "price": 66.88295,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:57 AM UTC"
+   },
+   {
+    "price": 66.87762,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:58 AM UTC"
+   },
+   {
+    "price": 66.88684,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:59 AM UTC"
+   },
+   {
+    "price": 66.87966,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:00 AM UTC"
+   },
+   {
+    "price": 66.87801,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:03 AM UTC"
+   },
+   {
+    "price": 66.88294,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:04 AM UTC"
+   },
+   {
+    "price": 66.87901,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:05 AM UTC"
+   },
+   {
+    "price": 66.88583,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:06 AM UTC"
+   },
+   {
+    "price": 66.88235,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:07 AM UTC"
+   },
+   {
+    "price": 66.87885,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:10 AM UTC"
+   },
+   {
+    "price": 66.87229,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:14 AM UTC"
+   },
+   {
+    "price": 66.88335,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:15 AM UTC"
+   },
+   {
+    "price": 66.89387,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:17 AM UTC"
+   },
+   {
+    "price": 66.88257,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:19 AM UTC"
+   },
+   {
+    "price": 66.89202,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:20 AM UTC"
+   },
+   {
+    "price": 66.88257,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:25 AM UTC"
+   },
+   {
+    "price": 66.89507,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:26 AM UTC"
+   },
+   {
+    "price": 66.89201,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:28 AM UTC"
+   },
+   {
+    "price": 66.89161,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:29 AM UTC"
+   },
+   {
+    "price": 66.88729,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:31 AM UTC"
+   },
+   {
+    "price": 66.86859,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:34 AM UTC"
+   },
+   {
+    "price": 66.88729,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:36 AM UTC"
+   },
+   {
+    "price": 66.88115,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:37 AM UTC"
+   },
+   {
+    "price": 66.89388,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:38 AM UTC"
+   },
+   {
+    "price": 66.88569,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:40 AM UTC"
+   },
+   {
+    "price": 66.89161,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:42 AM UTC"
+   },
+   {
+    "price": 66.88625,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:43 AM UTC"
+   },
+   {
+    "price": 66.88443,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:45 AM UTC"
+   },
+   {
+    "price": 66.89591,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:46 AM UTC"
+   },
+   {
+    "price": 66.88851,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:48 AM UTC"
+   },
+   {
+    "price": 66.87846,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:49 AM UTC"
+   },
+   {
+    "price": 66.87066,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:50 AM UTC"
+   },
+   {
+    "price": 66.8762,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:51 AM UTC"
+   },
+   {
+    "price": 66.8918,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:54 AM UTC"
+   },
+   {
+    "price": 66.8762,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:55 AM UTC"
+   },
+   {
+    "price": 66.88565,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:56 AM UTC"
+   },
+   {
+    "price": 66.89262,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:58 AM UTC"
+   },
+   {
+    "price": 66.91359,
+    "currency": "INR",
+    "date": "Sep 30 2026, 05:01 AM UTC"
+   },
+   {
+    "price": 66.90474,
+    "currency": "INR",
+    "date": "Sep 30 2026, 05:03 AM UTC"
+   },
+   {
+    "price": 66.90146,
+    "currency": "INR",
+    "date": "Sep 30 2026, 05:04 AM UTC"
+   },
+   {
+    "price": 66.90746,
+    "currency": "INR",
+    "date": "Sep 30 2026, 05:05 AM UTC"
+   },
+   {
+    "price": 66.89774,
+    "currency": "INR",
+    "date": "Sep 30 2026, 05:06 AM UTC"
+   },
+   {
+    "price": 66.90574,
+    "currency": "INR",
+    "date": "Sep 30 2026, 05:08 AM UTC"
+   },
+   {
+    "price": 66.89875,
+    "currency": "INR",
+    "date": "Sep 30 2026, 05:10 AM UTC"
+   },
+   {
+    "price": 66.90531,
+    "currency": "INR",
+    "date": "Sep 30 2026, 05:11 AM UTC"
+   },
+   {
+    "price": 66.89957,
+    "currency": "INR",
+    "date": "Sep 30 2026, 05:13 AM UTC"
+   },
+   {
+    "price": 66.90531,
+    "currency": "INR",
+    "date": "Sep 30 2026, 05:15 AM UTC"
+   },
+   {
+    "price": 66.89708,
+    "currency": "INR",
+    "date": "Sep 30 2026, 05:16 AM UTC"
+   },
+   {
+    "price": 66.90221,
+    "currency": "INR",
+    "date": "Sep 30 2026, 05:18 AM UTC"
+   },
+   {
+    "price": 66.89808,
+    "currency": "INR",
+    "date": "Sep 30 2026, 05:20 AM UTC"
+   },
+   {
+    "price": 66.92978,
+    "currency": "INR",
+    "date": "Sep 30 2026, 05:25 AM UTC"
+   },
+   {
+    "price": 66.90808,
+    "currency": "INR",
+    "date": "Sep 30 2026, 05:30 AM UTC"
+   },
+   {
+    "price": 66.93116,
+    "currency": "INR",
+    "date": "Sep 30 2026, 05:32 AM UTC"
+   },
+   {
+    "price": 66.9211,
+    "currency": "INR",
+    "date": "Sep 30 2026, 05:35 AM UTC"
+   },
+   {
+    "price": 66.9283,
+    "currency": "INR",
+    "date": "Sep 30 2026, 05:37 AM UTC"
+   },
+   {
+    "price": 66.92768,
+    "currency": "INR",
+    "date": "Sep 30 2026, 05:39 AM UTC"
+   },
+   {
+    "price": 66.91677,
+    "currency": "INR",
+    "date": "Sep 30 2026, 05:40 AM UTC"
+   },
+   {
+    "price": 66.92681,
+    "currency": "INR",
+    "date": "Sep 30 2026, 05:44 AM UTC"
+   },
+   {
+    "price": 66.9254,
+    "currency": "INR",
+    "date": "Sep 30 2026, 05:45 AM UTC"
+   },
+   {
+    "price": 66.94636,
+    "currency": "INR",
+    "date": "Sep 30 2026, 05:46 AM UTC"
+   },
+   {
+    "price": 66.94572,
+    "currency": "INR",
+    "date": "Sep 30 2026, 05:48 AM UTC"
+   },
+   {
+    "price": 66.92781,
+    "currency": "INR",
+    "date": "Sep 30 2026, 05:50 AM UTC"
+   },
+   {
+    "price": 66.92352,
+    "currency": "INR",
+    "date": "Sep 30 2026, 05:52 AM UTC"
+   },
+   {
+    "price": 66.93194,
+    "currency": "INR",
+    "date": "Sep 30 2026, 05:53 AM UTC"
+   },
+   {
+    "price": 66.92781,
+    "currency": "INR",
+    "date": "Sep 30 2026, 05:55 AM UTC"
+   },
+   {
+    "price": 66.94036,
+    "currency": "INR",
+    "date": "Sep 30 2026, 05:56 AM UTC"
+   },
+   {
+    "price": 66.94734,
+    "currency": "INR",
+    "date": "Sep 30 2026, 05:57 AM UTC"
+   },
+   {
+    "price": 66.94893,
+    "currency": "INR",
+    "date": "Sep 30 2026, 05:58 AM UTC"
+   },
+   {
+    "price": 66.96225,
+    "currency": "INR",
+    "date": "Sep 30 2026, 05:59 AM UTC"
+   },
+   {
+    "price": 66.95936,
+    "currency": "INR",
+    "date": "Sep 30 2026, 06:01 AM UTC"
+   },
+   {
+    "price": 66.95362,
+    "currency": "INR",
+    "date": "Sep 30 2026, 06:02 AM UTC"
+   },
+   {
+    "price": 66.95647,
+    "currency": "INR",
+    "date": "Sep 30 2026, 06:03 AM UTC"
+   },
+   {
+    "price": 66.97447,
+    "currency": "INR",
+    "date": "Sep 30 2026, 06:05 AM UTC"
+   },
+   {
+    "price": 66.97056,
+    "currency": "INR",
+    "date": "Sep 30 2026, 06:06 AM UTC"
+   },
+   {
+    "price": 66.97036,
+    "currency": "INR",
+    "date": "Sep 30 2026, 06:07 AM UTC"
+   },
+   {
+    "price": 66.94719,
+    "currency": "INR",
+    "date": "Sep 30 2026, 06:09 AM UTC"
+   },
+   {
+    "price": 66.94474,
+    "currency": "INR",
+    "date": "Sep 30 2026, 06:11 AM UTC"
+   },
+   {
+    "price": 66.95008,
+    "currency": "INR",
+    "date": "Sep 30 2026, 06:13 AM UTC"
+   },
+   {
+    "price": 66.97738,
+    "currency": "INR",
+    "date": "Sep 30 2026, 06:15 AM UTC"
+   },
+   {
+    "price": 66.97306,
+    "currency": "INR",
+    "date": "Sep 30 2026, 06:16 AM UTC"
+   },
+   {
+    "price": 66.98291,
+    "currency": "INR",
+    "date": "Sep 30 2026, 06:17 AM UTC"
+   },
+   {
+    "price": 66.96135,
+    "currency": "INR",
+    "date": "Sep 30 2026, 06:18 AM UTC"
+   },
+   {
+    "price": 66.97021,
+    "currency": "INR",
+    "date": "Sep 30 2026, 06:20 AM UTC"
+   },
+   {
+    "price": 66.95986,
+    "currency": "INR",
+    "date": "Sep 30 2026, 06:21 AM UTC"
+   },
+   {
+    "price": 66.95371,
+    "currency": "INR",
+    "date": "Sep 30 2026, 06:23 AM UTC"
+   },
+   {
+    "price": 66.96992,
+    "currency": "INR",
+    "date": "Sep 30 2026, 06:24 AM UTC"
+   },
+   {
+    "price": 66.96992,
+    "currency": "INR",
+    "date": "Sep 30 2026, 06:25 AM UTC"
+   },
+   {
+    "price": 66.95875,
+    "currency": "INR",
+    "date": "Sep 30 2026, 06:26 AM UTC"
+   },
+   {
+    "price": 66.95892,
+    "currency": "INR",
+    "date": "Sep 30 2026, 06:27 AM UTC"
+   },
+   {
+    "price": 66.96918,
+    "currency": "INR",
+    "date": "Sep 30 2026, 06:29 AM UTC"
+   },
+   {
+    "price": 66.95896,
+    "currency": "INR",
+    "date": "Sep 30 2026, 06:30 AM UTC"
+   },
+   {
+    "price": 66.9518,
+    "currency": "INR",
+    "date": "Sep 30 2026, 06:31 AM UTC"
+   },
+   {
+    "price": 66.96394,
+    "currency": "INR",
+    "date": "Sep 30 2026, 06:33 AM UTC"
+   },
+   {
+    "price": 66.9512,
+    "currency": "INR",
+    "date": "Sep 30 2026, 06:35 AM UTC"
+   },
+   {
+    "price": 66.928,
+    "currency": "INR",
+    "date": "Sep 30 2026, 06:36 AM UTC"
+   },
+   {
+    "price": 66.91941,
+    "currency": "INR",
+    "date": "Sep 30 2026, 06:38 AM UTC"
+   },
+   {
+    "price": 66.90276,
+    "currency": "INR",
+    "date": "Sep 30 2026, 06:40 AM UTC"
+   },
+   {
+    "price": 66.90646,
+    "currency": "INR",
+    "date": "Sep 30 2026, 06:41 AM UTC"
+   },
+   {
+    "price": 66.90788,
+    "currency": "INR",
+    "date": "Sep 30 2026, 06:42 AM UTC"
+   },
+   {
+    "price": 66.93103,
+    "currency": "INR",
+    "date": "Sep 30 2026, 06:43 AM UTC"
+   },
+   {
+    "price": 66.92646,
+    "currency": "INR",
+    "date": "Sep 30 2026, 06:44 AM UTC"
+   },
+   {
+    "price": 66.92931,
+    "currency": "INR",
+    "date": "Sep 30 2026, 06:45 AM UTC"
+   },
+   {
+    "price": 66.88178,
+    "currency": "INR",
+    "date": "Sep 30 2026, 06:47 AM UTC"
+   },
+   {
+    "price": 66.8791,
+    "currency": "INR",
+    "date": "Sep 30 2026, 06:49 AM UTC"
+   },
+   {
+    "price": 66.89674,
+    "currency": "INR",
+    "date": "Sep 30 2026, 06:50 AM UTC"
+   },
+   {
+    "price": 66.90226,
+    "currency": "INR",
+    "date": "Sep 30 2026, 06:52 AM UTC"
+   },
+   {
+    "price": 66.90269,
+    "currency": "INR",
+    "date": "Sep 30 2026, 06:53 AM UTC"
+   },
+   {
+    "price": 66.91172,
+    "currency": "INR",
+    "date": "Sep 30 2026, 06:54 AM UTC"
+   },
+   {
+    "price": 66.92647,
+    "currency": "INR",
+    "date": "Sep 30 2026, 06:56 AM UTC"
+   },
+   {
+    "price": 66.9109,
+    "currency": "INR",
+    "date": "Sep 30 2026, 06:58 AM UTC"
+   },
+   {
+    "price": 66.89059,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:00 AM UTC"
+   },
+   {
+    "price": 66.90969,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:01 AM UTC"
+   },
+   {
+    "price": 66.9335,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:02 AM UTC"
+   },
+   {
+    "price": 66.93859,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:03 AM UTC"
+   },
+   {
+    "price": 66.93825,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:05 AM UTC"
+   },
+   {
+    "price": 66.95364,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:06 AM UTC"
+   },
+   {
+    "price": 66.94705,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:07 AM UTC"
+   },
+   {
+    "price": 66.95822,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:09 AM UTC"
+   },
+   {
+    "price": 66.95572,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:10 AM UTC"
+   },
+   {
+    "price": 66.97337,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:11 AM UTC"
+   },
+   {
+    "price": 66.9504,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:12 AM UTC"
+   },
+   {
+    "price": 66.96971,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:14 AM UTC"
+   },
+   {
+    "price": 66.97277,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:15 AM UTC"
+   },
+   {
+    "price": 66.96826,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:16 AM UTC"
+   },
+   {
+    "price": 66.96688,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:17 AM UTC"
+   },
+   {
+    "price": 66.95311,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:18 AM UTC"
+   },
+   {
+    "price": 66.95309,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:19 AM UTC"
+   },
+   {
+    "price": 66.97199,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:20 AM UTC"
+   },
+   {
+    "price": 66.96464,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:21 AM UTC"
+   },
+   {
+    "price": 66.96198,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:22 AM UTC"
+   },
+   {
+    "price": 66.9355,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:24 AM UTC"
+   },
+   {
+    "price": 66.93548,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:27 AM UTC"
+   },
+   {
+    "price": 66.91107,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:28 AM UTC"
+   },
+   {
+    "price": 66.90818,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:30 AM UTC"
+   },
+   {
+    "price": 66.89447,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:32 AM UTC"
+   },
+   {
+    "price": 66.90554,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:33 AM UTC"
+   },
+   {
+    "price": 66.90184,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:34 AM UTC"
+   },
+   {
+    "price": 66.89201,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:35 AM UTC"
+   },
+   {
+    "price": 66.90063,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:36 AM UTC"
+   },
+   {
+    "price": 66.90884,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:37 AM UTC"
+   },
+   {
+    "price": 66.8937,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:40 AM UTC"
+   },
+   {
+    "price": 66.88347,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:41 AM UTC"
+   },
+   {
+    "price": 66.88901,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:43 AM UTC"
+   },
+   {
+    "price": 66.88164,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:44 AM UTC"
+   },
+   {
+    "price": 66.89439,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:46 AM UTC"
+   },
+   {
+    "price": 66.89645,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:47 AM UTC"
+   },
+   {
+    "price": 66.89747,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:48 AM UTC"
+   },
+   {
+    "price": 66.88887,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:49 AM UTC"
+   },
+   {
+    "price": 66.8905,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:50 AM UTC"
+   },
+   {
+    "price": 66.8874,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:51 AM UTC"
+   },
+   {
+    "price": 66.86749,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:53 AM UTC"
+   },
+   {
+    "price": 66.86133,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:54 AM UTC"
+   },
+   {
+    "price": 66.87386,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:55 AM UTC"
+   },
+   {
+    "price": 66.86995,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:56 AM UTC"
+   },
+   {
+    "price": 66.85889,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:57 AM UTC"
+   },
+   {
+    "price": 66.85805,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:59 AM UTC"
+   },
+   {
+    "price": 66.87402,
+    "currency": "INR",
+    "date": "Sep 30 2026, 08:02 AM UTC"
+   },
+   {
+    "price": 66.87341,
+    "currency": "INR",
+    "date": "Sep 30 2026, 08:03 AM UTC"
+   },
+   {
+    "price": 66.86563,
+    "currency": "INR",
+    "date": "Sep 30 2026, 08:05 AM UTC"
+   },
+   {
+    "price": 66.86441,
+    "currency": "INR",
+    "date": "Sep 30 2026, 08:06 AM UTC"
+   },
+   {
+    "price": 66.84922,
+    "currency": "INR",
+    "date": "Sep 30 2026, 08:08 AM UTC"
+   },
+   {
+    "price": 66.84635,
+    "currency": "INR",
+    "date": "Sep 30 2026, 08:10 AM UTC"
+   },
+   {
+    "price": 66.84387,
+    "currency": "INR",
+    "date": "Sep 30 2026, 08:12 AM UTC"
+   },
+   {
+    "price": 66.83873,
+    "currency": "INR",
+    "date": "Sep 30 2026, 08:13 AM UTC"
+   },
+   {
+    "price": 66.81946,
+    "currency": "INR",
+    "date": "Sep 30 2026, 08:14 AM UTC"
+   },
+   {
+    "price": 66.82068,
+    "currency": "INR",
+    "date": "Sep 30 2026, 08:15 AM UTC"
+   },
+   {
+    "price": 66.81555,
+    "currency": "INR",
+    "date": "Sep 30 2026, 08:16 AM UTC"
+   },
+   {
+    "price": 66.81761,
+    "currency": "INR",
+    "date": "Sep 30 2026, 08:17 AM UTC"
+   },
+   {
+    "price": 66.83605,
+    "currency": "INR",
+    "date": "Sep 30 2026, 08:19 AM UTC"
+   },
+   {
+    "price": 66.83894,
+    "currency": "INR",
+    "date": "Sep 30 2026, 08:20 AM UTC"
+   },
+   {
+    "price": 66.83873,
+    "currency": "INR",
+    "date": "Sep 30 2026, 08:22 AM UTC"
+   },
+   {
+    "price": 66.84775,
+    "currency": "INR",
+    "date": "Sep 30 2026, 08:23 AM UTC"
+   },
+   {
+    "price": 66.86477,
+    "currency": "INR",
+    "date": "Sep 30 2026, 08:25 AM UTC"
+   },
+   {
+    "price": 66.85731,
+    "currency": "INR",
+    "date": "Sep 30 2026, 08:26 AM UTC"
+   },
+   {
+    "price": 66.858,
+    "currency": "INR",
+    "date": "Sep 30 2026, 08:27 AM UTC"
+   },
+   {
+    "price": 66.85059,
+    "currency": "INR",
+    "date": "Sep 30 2026, 08:29 AM UTC"
+   },
+   {
+    "price": 66.85668,
+    "currency": "INR",
+    "date": "Sep 30 2026, 08:31 AM UTC"
+   },
+   {
+    "price": 66.85221,
+    "currency": "INR",
+    "date": "Sep 30 2026, 08:32 AM UTC"
+   },
+   {
+    "price": 66.852,
+    "currency": "INR",
+    "date": "Sep 30 2026, 08:34 AM UTC"
+   },
+   {
+    "price": 66.83523,
+    "currency": "INR",
+    "date": "Sep 30 2026, 08:36 AM UTC"
+   },
+   {
+    "price": 66.83114,
+    "currency": "INR",
+    "date": "Sep 30 2026, 08:37 AM UTC"
+   },
+   {
+    "price": 66.84896,
+    "currency": "INR",
+    "date": "Sep 30 2026, 08:38 AM UTC"
+   },
+   {
+    "price": 66.84549,
+    "currency": "INR",
+    "date": "Sep 30 2026, 08:39 AM UTC"
+   },
+   {
+    "price": 66.85617,
+    "currency": "INR",
+    "date": "Sep 30 2026, 08:40 AM UTC"
+   },
+   {
+    "price": 66.85634,
+    "currency": "INR",
+    "date": "Sep 30 2026, 08:42 AM UTC"
+   },
+   {
+    "price": 66.87439,
+    "currency": "INR",
+    "date": "Sep 30 2026, 08:43 AM UTC"
+   },
+   {
+    "price": 66.86536,
+    "currency": "INR",
+    "date": "Sep 30 2026, 08:44 AM UTC"
+   },
+   {
+    "price": 66.84937,
+    "currency": "INR",
+    "date": "Sep 30 2026, 08:46 AM UTC"
+   },
+   {
+    "price": 66.84465,
+    "currency": "INR",
+    "date": "Sep 30 2026, 08:48 AM UTC"
+   },
+   {
+    "price": 66.84546,
+    "currency": "INR",
+    "date": "Sep 30 2026, 08:49 AM UTC"
+   },
+   {
+    "price": 66.85083,
+    "currency": "INR",
+    "date": "Sep 30 2026, 08:51 AM UTC"
+   },
+   {
+    "price": 66.83419,
+    "currency": "INR",
+    "date": "Sep 30 2026, 08:53 AM UTC"
+   },
+   {
+    "price": 66.82721,
+    "currency": "INR",
+    "date": "Sep 30 2026, 08:54 AM UTC"
+   },
+   {
+    "price": 66.82105,
+    "currency": "INR",
+    "date": "Sep 30 2026, 08:55 AM UTC"
+   },
+   {
+    "price": 66.85933,
+    "currency": "INR",
+    "date": "Sep 30 2026, 08:57 AM UTC"
+   },
+   {
+    "price": 66.8683,
+    "currency": "INR",
+    "date": "Sep 30 2026, 08:58 AM UTC"
+   },
+   {
+    "price": 66.86625,
+    "currency": "INR",
+    "date": "Sep 30 2026, 08:59 AM UTC"
+   },
+   {
+    "price": 66.85805,
+    "currency": "INR",
+    "date": "Sep 30 2026, 09:00 AM UTC"
+   },
+   {
+    "price": 66.85254,
+    "currency": "INR",
+    "date": "Sep 30 2026, 09:01 AM UTC"
+   },
+   {
+    "price": 66.86645,
+    "currency": "INR",
+    "date": "Sep 30 2026, 09:02 AM UTC"
+   },
+   {
+    "price": 66.86542,
+    "currency": "INR",
+    "date": "Sep 30 2026, 09:04 AM UTC"
+   },
+   {
+    "price": 66.83633,
+    "currency": "INR",
+    "date": "Sep 30 2026, 09:07 AM UTC"
+   },
+   {
+    "price": 66.81545,
+    "currency": "INR",
+    "date": "Sep 30 2026, 09:09 AM UTC"
+   },
+   {
+    "price": 66.8093,
+    "currency": "INR",
+    "date": "Sep 30 2026, 09:10 AM UTC"
+   },
+   {
+    "price": 66.79497,
+    "currency": "INR",
+    "date": "Sep 30 2026, 09:11 AM UTC"
+   },
+   {
+    "price": 66.79191,
+    "currency": "INR",
+    "date": "Sep 30 2026, 09:13 AM UTC"
+   },
+   {
+    "price": 66.78413,
+    "currency": "INR",
+    "date": "Sep 30 2026, 09:14 AM UTC"
+   },
+   {
+    "price": 66.81259,
+    "currency": "INR",
+    "date": "Sep 30 2026, 09:15 AM UTC"
+   },
+   {
+    "price": 66.79576,
+    "currency": "INR",
+    "date": "Sep 30 2026, 09:16 AM UTC"
+   },
+   {
+    "price": 66.79232,
+    "currency": "INR",
+    "date": "Sep 30 2026, 09:17 AM UTC"
+   },
+   {
+    "price": 66.78576,
+    "currency": "INR",
+    "date": "Sep 30 2026, 09:18 AM UTC"
+   },
+   {
+    "price": 66.78966,
+    "currency": "INR",
+    "date": "Sep 30 2026, 09:19 AM UTC"
+   },
+   {
+    "price": 66.77039,
+    "currency": "INR",
+    "date": "Sep 30 2026, 09:21 AM UTC"
+   },
+   {
+    "price": 66.76281,
+    "currency": "INR",
+    "date": "Sep 30 2026, 09:23 AM UTC"
+   },
+   {
+    "price": 66.76485,
+    "currency": "INR",
+    "date": "Sep 30 2026, 09:25 AM UTC"
+   },
+   {
+    "price": 66.79617,
+    "currency": "INR",
+    "date": "Sep 30 2026, 09:26 AM UTC"
+   },
+   {
+    "price": 66.79822,
+    "currency": "INR",
+    "date": "Sep 30 2026, 09:27 AM UTC"
+   },
+   {
+    "price": 66.79597,
+    "currency": "INR",
+    "date": "Sep 30 2026, 09:28 AM UTC"
+   },
+   {
+    "price": 66.79702,
+    "currency": "INR",
+    "date": "Sep 30 2026, 09:29 AM UTC"
+   },
+   {
+    "price": 66.79597,
+    "currency": "INR",
+    "date": "Sep 30 2026, 09:31 AM UTC"
+   },
+   {
+    "price": 66.78594,
+    "currency": "INR",
+    "date": "Sep 30 2026, 09:32 AM UTC"
+   },
+   {
+    "price": 66.75055,
+    "currency": "INR",
+    "date": "Sep 30 2026, 09:34 AM UTC"
+   },
+   {
+    "price": 66.73561,
+    "currency": "INR",
+    "date": "Sep 30 2026, 09:35 AM UTC"
+   },
+   {
+    "price": 66.74584,
+    "currency": "INR",
+    "date": "Sep 30 2026, 09:36 AM UTC"
+   },
+   {
+    "price": 66.75014,
+    "currency": "INR",
+    "date": "Sep 30 2026, 09:37 AM UTC"
+   },
+   {
+    "price": 66.74216,
+    "currency": "INR",
+    "date": "Sep 30 2026, 09:38 AM UTC"
+   },
+   {
+    "price": 66.7528,
+    "currency": "INR",
+    "date": "Sep 30 2026, 09:40 AM UTC"
+   },
+   {
+    "price": 66.74994,
+    "currency": "INR",
+    "date": "Sep 30 2026, 09:41 AM UTC"
+   },
+   {
+    "price": 66.74073,
+    "currency": "INR",
+    "date": "Sep 30 2026, 09:43 AM UTC"
+   },
+   {
+    "price": 66.73683,
+    "currency": "INR",
+    "date": "Sep 30 2026, 09:44 AM UTC"
+   },
+   {
+    "price": 66.75279,
+    "currency": "INR",
+    "date": "Sep 30 2026, 09:46 AM UTC"
+   },
+   {
+    "price": 66.75625,
+    "currency": "INR",
+    "date": "Sep 30 2026, 09:48 AM UTC"
+   },
+   {
+    "price": 66.75768,
+    "currency": "INR",
+    "date": "Sep 30 2026, 09:50 AM UTC"
+   },
+   {
+    "price": 66.75491,
+    "currency": "INR",
+    "date": "Sep 30 2026, 09:51 AM UTC"
+   },
+   {
+    "price": 66.75809,
+    "currency": "INR",
+    "date": "Sep 30 2026, 09:52 AM UTC"
+   },
+   {
+    "price": 66.75767,
+    "currency": "INR",
+    "date": "Sep 30 2026, 09:53 AM UTC"
+   },
+   {
+    "price": 66.75542,
+    "currency": "INR",
+    "date": "Sep 30 2026, 09:54 AM UTC"
+   },
+   {
+    "price": 66.75686,
+    "currency": "INR",
+    "date": "Sep 30 2026, 09:55 AM UTC"
+   },
+   {
+    "price": 66.77424,
+    "currency": "INR",
+    "date": "Sep 30 2026, 09:56 AM UTC"
+   },
+   {
+    "price": 66.79123,
+    "currency": "INR",
+    "date": "Sep 30 2026, 09:58 AM UTC"
+   },
+   {
+    "price": 66.80227,
+    "currency": "INR",
+    "date": "Sep 30 2026, 10:01 AM UTC"
+   },
+   {
+    "price": 66.81025,
+    "currency": "INR",
+    "date": "Sep 30 2026, 10:02 AM UTC"
+   },
+   {
+    "price": 66.81332,
+    "currency": "INR",
+    "date": "Sep 30 2026, 10:04 AM UTC"
+   },
+   {
+    "price": 66.81495,
+    "currency": "INR",
+    "date": "Sep 30 2026, 10:05 AM UTC"
+   },
+   {
+    "price": 66.80903,
+    "currency": "INR",
+    "date": "Sep 30 2026, 10:07 AM UTC"
+   },
+   {
+    "price": 66.80062,
+    "currency": "INR",
+    "date": "Sep 30 2026, 10:09 AM UTC"
+   },
+   {
+    "price": 66.80903,
+    "currency": "INR",
+    "date": "Sep 30 2026, 10:11 AM UTC"
+   },
+   {
+    "price": 66.79326,
+    "currency": "INR",
+    "date": "Sep 30 2026, 10:12 AM UTC"
+   },
+   {
+    "price": 66.79755,
+    "currency": "INR",
+    "date": "Sep 30 2026, 10:13 AM UTC"
+   },
+   {
+    "price": 66.81168,
+    "currency": "INR",
+    "date": "Sep 30 2026, 10:15 AM UTC"
+   },
+   {
+    "price": 66.80943,
+    "currency": "INR",
+    "date": "Sep 30 2026, 10:17 AM UTC"
+   },
+   {
+    "price": 66.82154,
+    "currency": "INR",
+    "date": "Sep 30 2026, 10:19 AM UTC"
+   },
+   {
+    "price": 66.82032,
+    "currency": "INR",
+    "date": "Sep 30 2026, 10:20 AM UTC"
+   },
+   {
+    "price": 66.82032,
+    "currency": "INR",
+    "date": "Sep 30 2026, 10:21 AM UTC"
+   },
+   {
+    "price": 66.81929,
+    "currency": "INR",
+    "date": "Sep 30 2026, 10:22 AM UTC"
+   },
+   {
+    "price": 66.82257,
+    "currency": "INR",
+    "date": "Sep 30 2026, 10:23 AM UTC"
+   },
+   {
+    "price": 66.8193,
+    "currency": "INR",
+    "date": "Sep 30 2026, 10:24 AM UTC"
+   },
+   {
+    "price": 66.82238,
+    "currency": "INR",
+    "date": "Sep 30 2026, 10:27 AM UTC"
+   },
+   {
+    "price": 66.82258,
+    "currency": "INR",
+    "date": "Sep 30 2026, 10:29 AM UTC"
+   },
+   {
+    "price": 66.81214,
+    "currency": "INR",
+    "date": "Sep 30 2026, 10:30 AM UTC"
+   },
+   {
+    "price": 66.81112,
+    "currency": "INR",
+    "date": "Sep 30 2026, 10:31 AM UTC"
+   },
+   {
+    "price": 66.80661,
+    "currency": "INR",
+    "date": "Sep 30 2026, 10:34 AM UTC"
+   },
+   {
+    "price": 66.79842,
+    "currency": "INR",
+    "date": "Sep 30 2026, 10:35 AM UTC"
+   },
+   {
+    "price": 66.8095,
+    "currency": "INR",
+    "date": "Sep 30 2026, 10:36 AM UTC"
+   },
+   {
+    "price": 66.81991,
+    "currency": "INR",
+    "date": "Sep 30 2026, 10:37 AM UTC"
+   },
+   {
+    "price": 66.815,
+    "currency": "INR",
+    "date": "Sep 30 2026, 10:38 AM UTC"
+   },
+   {
+    "price": 66.81931,
+    "currency": "INR",
+    "date": "Sep 30 2026, 10:39 AM UTC"
+   },
+   {
+    "price": 66.82814,
+    "currency": "INR",
+    "date": "Sep 30 2026, 10:40 AM UTC"
+   },
+   {
+    "price": 66.815,
+    "currency": "INR",
+    "date": "Sep 30 2026, 10:41 AM UTC"
+   },
+   {
+    "price": 66.81339,
+    "currency": "INR",
+    "date": "Sep 30 2026, 10:42 AM UTC"
+   },
+   {
+    "price": 66.81381,
+    "currency": "INR",
+    "date": "Sep 30 2026, 10:45 AM UTC"
+   },
+   {
+    "price": 66.81197,
+    "currency": "INR",
+    "date": "Sep 30 2026, 10:47 AM UTC"
+   },
+   {
+    "price": 66.80781,
+    "currency": "INR",
+    "date": "Sep 30 2026, 10:51 AM UTC"
+   },
+   {
+    "price": 66.79597,
+    "currency": "INR",
+    "date": "Sep 30 2026, 10:52 AM UTC"
+   },
+   {
+    "price": 66.8099,
+    "currency": "INR",
+    "date": "Sep 30 2026, 10:53 AM UTC"
+   },
+   {
+    "price": 66.8261,
+    "currency": "INR",
+    "date": "Sep 30 2026, 10:54 AM UTC"
+   },
+   {
+    "price": 66.8099,
+    "currency": "INR",
+    "date": "Sep 30 2026, 10:56 AM UTC"
+   },
+   {
+    "price": 66.81912,
+    "currency": "INR",
+    "date": "Sep 30 2026, 10:57 AM UTC"
+   },
+   {
+    "price": 66.8232,
+    "currency": "INR",
+    "date": "Sep 30 2026, 10:59 AM UTC"
+   },
+   {
+    "price": 66.81603,
+    "currency": "INR",
+    "date": "Sep 30 2026, 11:01 AM UTC"
+   },
+   {
+    "price": 66.80887,
+    "currency": "INR",
+    "date": "Sep 30 2026, 11:04 AM UTC"
+   },
+   {
+    "price": 66.81255,
+    "currency": "INR",
+    "date": "Sep 30 2026, 11:06 AM UTC"
+   },
+   {
+    "price": 66.80539,
+    "currency": "INR",
+    "date": "Sep 30 2026, 11:08 AM UTC"
+   },
+   {
+    "price": 66.79822,
+    "currency": "INR",
+    "date": "Sep 30 2026, 11:09 AM UTC"
+   },
+   {
+    "price": 66.78635,
+    "currency": "INR",
+    "date": "Sep 30 2026, 11:11 AM UTC"
+   },
+   {
+    "price": 66.78695,
+    "currency": "INR",
+    "date": "Sep 30 2026, 11:12 AM UTC"
+   },
+   {
+    "price": 66.79125,
+    "currency": "INR",
+    "date": "Sep 30 2026, 11:14 AM UTC"
+   },
+   {
+    "price": 66.78941,
+    "currency": "INR",
+    "date": "Sep 30 2026, 11:16 AM UTC"
+   },
+   {
+    "price": 66.78123,
+    "currency": "INR",
+    "date": "Sep 30 2026, 11:18 AM UTC"
+   },
+   {
+    "price": 66.79618,
+    "currency": "INR",
+    "date": "Sep 30 2026, 11:19 AM UTC"
+   },
+   {
+    "price": 66.78635,
+    "currency": "INR",
+    "date": "Sep 30 2026, 11:20 AM UTC"
+   },
+   {
+    "price": 66.79518,
+    "currency": "INR",
+    "date": "Sep 30 2026, 11:21 AM UTC"
+   },
+   {
+    "price": 66.79228,
+    "currency": "INR",
+    "date": "Sep 30 2026, 11:23 AM UTC"
+   },
+   {
+    "price": 66.80784,
+    "currency": "INR",
+    "date": "Sep 30 2026, 11:24 AM UTC"
+   },
+   {
+    "price": 66.80967,
+    "currency": "INR",
+    "date": "Sep 30 2026, 11:26 AM UTC"
+   },
+   {
+    "price": 66.81257,
+    "currency": "INR",
+    "date": "Sep 30 2026, 11:27 AM UTC"
+   },
+   {
+    "price": 66.81994,
+    "currency": "INR",
+    "date": "Sep 30 2026, 11:30 AM UTC"
+   },
+   {
+    "price": 66.81257,
+    "currency": "INR",
+    "date": "Sep 30 2026, 11:31 AM UTC"
+   },
+   {
+    "price": 66.81072,
+    "currency": "INR",
+    "date": "Sep 30 2026, 11:33 AM UTC"
+   },
+   {
+    "price": 66.81072,
+    "currency": "INR",
+    "date": "Sep 30 2026, 11:36 AM UTC"
+   },
+   {
+    "price": 66.82959,
+    "currency": "INR",
+    "date": "Sep 30 2026, 11:39 AM UTC"
+   },
+   {
+    "price": 66.83042,
+    "currency": "INR",
+    "date": "Sep 30 2026, 11:40 AM UTC"
+   },
+   {
+    "price": 66.83172,
+    "currency": "INR",
+    "date": "Sep 30 2026, 11:41 AM UTC"
+   },
+   {
+    "price": 66.82918,
+    "currency": "INR",
+    "date": "Sep 30 2026, 11:42 AM UTC"
+   },
+   {
+    "price": 66.81769,
+    "currency": "INR",
+    "date": "Sep 30 2026, 11:44 AM UTC"
+   },
+   {
+    "price": 66.81175,
+    "currency": "INR",
+    "date": "Sep 30 2026, 11:47 AM UTC"
+   },
+   {
+    "price": 66.79148,
+    "currency": "INR",
+    "date": "Sep 30 2026, 11:48 AM UTC"
+   },
+   {
+    "price": 66.80575,
+    "currency": "INR",
+    "date": "Sep 30 2026, 11:51 AM UTC"
+   },
+   {
+    "price": 66.79354,
+    "currency": "INR",
+    "date": "Sep 30 2026, 11:53 AM UTC"
+   },
+   {
+    "price": 66.79601,
+    "currency": "INR",
+    "date": "Sep 30 2026, 11:54 AM UTC"
+   },
+   {
+    "price": 66.79561,
+    "currency": "INR",
+    "date": "Sep 30 2026, 11:55 AM UTC"
+   },
+   {
+    "price": 66.78311,
+    "currency": "INR",
+    "date": "Sep 30 2026, 11:57 AM UTC"
+   },
+   {
+    "price": 66.76468,
+    "currency": "INR",
+    "date": "Sep 30 2026, 11:58 AM UTC"
+   },
+   {
+    "price": 66.77594,
+    "currency": "INR",
+    "date": "Sep 30 2026, 11:59 AM UTC"
+   },
+   {
+    "price": 66.78516,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:01 PM UTC"
+   },
+   {
+    "price": 66.7831,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:03 PM UTC"
+   },
+   {
+    "price": 66.78021,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:05 PM UTC"
+   },
+   {
+    "price": 66.76977,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:06 PM UTC"
+   },
+   {
+    "price": 66.77366,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:07 PM UTC"
+   },
+   {
+    "price": 66.77264,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:08 PM UTC"
+   },
+   {
+    "price": 66.77303,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:09 PM UTC"
+   },
+   {
+    "price": 66.7847,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:10 PM UTC"
+   },
+   {
+    "price": 66.77854,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:11 PM UTC"
+   },
+   {
+    "price": 66.78818,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:13 PM UTC"
+   },
+   {
+    "price": 66.79575,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:14 PM UTC"
+   },
+   {
+    "price": 66.7673,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:15 PM UTC"
+   },
+   {
+    "price": 66.76997,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:16 PM UTC"
+   },
+   {
+    "price": 66.77897,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:17 PM UTC"
+   },
+   {
+    "price": 66.77649,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:18 PM UTC"
+   },
+   {
+    "price": 66.76072,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:20 PM UTC"
+   },
+   {
+    "price": 66.7372,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:22 PM UTC"
+   },
+   {
+    "price": 66.74375,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:23 PM UTC"
+   },
+   {
+    "price": 66.76748,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:25 PM UTC"
+   },
+   {
+    "price": 66.76788,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:26 PM UTC"
+   },
+   {
+    "price": 66.77706,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:28 PM UTC"
+   },
+   {
+    "price": 66.84318,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:30 PM UTC"
+   },
+   {
+    "price": 66.8939,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:31 PM UTC"
+   },
+   {
+    "price": 66.93392,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:32 PM UTC"
+   },
+   {
+    "price": 66.94152,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:33 PM UTC"
+   },
+   {
+    "price": 66.94358,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:35 PM UTC"
+   },
+   {
+    "price": 66.9196,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:36 PM UTC"
+   },
+   {
+    "price": 66.90443,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:37 PM UTC"
+   },
+   {
+    "price": 66.87678,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:38 PM UTC"
+   },
+   {
+    "price": 66.86982,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:39 PM UTC"
+   },
+   {
+    "price": 66.86758,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:40 PM UTC"
+   },
+   {
+    "price": 66.89298,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:41 PM UTC"
+   },
+   {
+    "price": 66.92144,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:42 PM UTC"
+   },
+   {
+    "price": 66.89232,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:43 PM UTC"
+   },
+   {
+    "price": 66.8853,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:45 PM UTC"
+   },
+   {
+    "price": 66.85564,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:47 PM UTC"
+   },
+   {
+    "price": 66.86178,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:48 PM UTC"
+   },
+   {
+    "price": 66.86504,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:49 PM UTC"
+   },
+   {
+    "price": 66.84317,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:51 PM UTC"
+   },
+   {
+    "price": 66.86472,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:52 PM UTC"
+   },
+   {
+    "price": 66.85631,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:53 PM UTC"
+   },
+   {
+    "price": 66.84443,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:54 PM UTC"
+   },
+   {
+    "price": 66.87043,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:55 PM UTC"
+   },
+   {
+    "price": 66.86593,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:57 PM UTC"
+   },
+   {
+    "price": 66.84465,
+    "currency": "INR",
+    "date": "Sep 30 2026, 12:59 PM UTC"
+   },
+   {
+    "price": 66.81289,
+    "currency": "INR",
+    "date": "Sep 30 2026, 01:00 PM UTC"
+   },
+   {
+    "price": 66.82637,
+    "currency": "INR",
+    "date": "Sep 30 2026, 01:01 PM UTC"
+   },
+   {
+    "price": 66.8016,
+    "currency": "INR",
+    "date": "Sep 30 2026, 01:03 PM UTC"
+   },
+   {
+    "price": 66.78647,
+    "currency": "INR",
+    "date": "Sep 30 2026, 01:04 PM UTC"
+   },
+   {
+    "price": 66.78544,
+    "currency": "INR",
+    "date": "Sep 30 2026, 01:05 PM UTC"
+   },
+   {
+    "price": 66.76436,
+    "currency": "INR",
+    "date": "Sep 30 2026, 01:06 PM UTC"
+   },
+   {
+    "price": 66.75577,
+    "currency": "INR",
+    "date": "Sep 30 2026, 01:07 PM UTC"
+   },
+   {
+    "price": 66.76479,
+    "currency": "INR",
+    "date": "Sep 30 2026, 01:09 PM UTC"
+   },
+   {
+    "price": 66.75845,
+    "currency": "INR",
+    "date": "Sep 30 2026, 01:10 PM UTC"
+   },
+   {
+    "price": 66.76539,
+    "currency": "INR",
+    "date": "Sep 30 2026, 01:11 PM UTC"
+   },
+   {
+    "price": 66.75966,
+    "currency": "INR",
+    "date": "Sep 30 2026, 01:12 PM UTC"
+   },
+   {
+    "price": 66.7484,
+    "currency": "INR",
+    "date": "Sep 30 2026, 01:14 PM UTC"
+   },
+   {
+    "price": 66.76127,
+    "currency": "INR",
+    "date": "Sep 30 2026, 01:15 PM UTC"
+   },
+   {
+    "price": 66.7664,
+    "currency": "INR",
+    "date": "Sep 30 2026, 01:17 PM UTC"
+   },
+   {
+    "price": 66.7437,
+    "currency": "INR",
+    "date": "Sep 30 2026, 01:18 PM UTC"
+   },
+   {
+    "price": 66.76312,
+    "currency": "INR",
+    "date": "Sep 30 2026, 01:19 PM UTC"
+   },
+   {
+    "price": 66.7437,
+    "currency": "INR",
+    "date": "Sep 30 2026, 01:21 PM UTC"
+   },
+   {
+    "price": 66.74637,
+    "currency": "INR",
+    "date": "Sep 30 2026, 01:22 PM UTC"
+   },
+   {
+    "price": 66.75821,
+    "currency": "INR",
+    "date": "Sep 30 2026, 01:26 PM UTC"
+   },
+   {
+    "price": 66.754,
+    "currency": "INR",
+    "date": "Sep 30 2026, 01:27 PM UTC"
+   },
+   {
+    "price": 66.74594,
+    "currency": "INR",
+    "date": "Sep 30 2026, 01:28 PM UTC"
+   },
+   {
+    "price": 66.73673,
+    "currency": "INR",
+    "date": "Sep 30 2026, 01:29 PM UTC"
+   },
+   {
+    "price": 66.73816,
+    "currency": "INR",
+    "date": "Sep 30 2026, 01:31 PM UTC"
+   },
+   {
+    "price": 66.74492,
+    "currency": "INR",
+    "date": "Sep 30 2026, 01:32 PM UTC"
+   },
+   {
+    "price": 66.73838,
+    "currency": "INR",
+    "date": "Sep 30 2026, 01:33 PM UTC"
+   },
+   {
+    "price": 66.73265,
+    "currency": "INR",
+    "date": "Sep 30 2026, 01:35 PM UTC"
+   },
+   {
+    "price": 66.72079,
+    "currency": "INR",
+    "date": "Sep 30 2026, 01:36 PM UTC"
+   },
+   {
+    "price": 66.72324,
+    "currency": "INR",
+    "date": "Sep 30 2026, 01:37 PM UTC"
+   },
+   {
+    "price": 66.70569,
+    "currency": "INR",
+    "date": "Sep 30 2026, 01:39 PM UTC"
+   },
+   {
+    "price": 66.70978,
+    "currency": "INR",
+    "date": "Sep 30 2026, 01:40 PM UTC"
+   },
+   {
+    "price": 66.70406,
+    "currency": "INR",
+    "date": "Sep 30 2026, 01:41 PM UTC"
+   },
+   {
+    "price": 66.71243,
+    "currency": "INR",
+    "date": "Sep 30 2026, 01:42 PM UTC"
+   },
+   {
+    "price": 66.69906,
+    "currency": "INR",
+    "date": "Sep 30 2026, 01:47 PM UTC"
+   },
+   {
+    "price": 66.69906,
+    "currency": "INR",
+    "date": "Sep 30 2026, 01:52 PM UTC"
+   },
+   {
+    "price": 66.69906,
+    "currency": "INR",
+    "date": "Sep 30 2026, 01:57 PM UTC"
+   },
+   {
+    "price": 66.6632,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:03 PM UTC"
+   },
+   {
+    "price": 66.71833,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:06 PM UTC"
+   },
+   {
+    "price": 66.71322,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:07 PM UTC"
+   },
+   {
+    "price": 66.69505,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:09 PM UTC"
+   },
+   {
+    "price": 66.69138,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:11 PM UTC"
+   },
+   {
+    "price": 66.69526,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:12 PM UTC"
+   },
+   {
+    "price": 66.7018,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:13 PM UTC"
+   },
+   {
+    "price": 66.69935,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:14 PM UTC"
+   },
+   {
+    "price": 66.69158,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:15 PM UTC"
+   },
+   {
+    "price": 66.69138,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:16 PM UTC"
+   },
+   {
+    "price": 66.68367,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:17 PM UTC"
+   },
+   {
+    "price": 66.69076,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:18 PM UTC"
+   },
+   {
+    "price": 66.66116,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:19 PM UTC"
+   },
+   {
+    "price": 66.66156,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:21 PM UTC"
+   },
+   {
+    "price": 66.65932,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:22 PM UTC"
+   },
+   {
+    "price": 66.66177,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:23 PM UTC"
+   },
+   {
+    "price": 66.65687,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:24 PM UTC"
+   },
+   {
+    "price": 66.65462,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:25 PM UTC"
+   },
+   {
+    "price": 66.64748,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:27 PM UTC"
+   },
+   {
+    "price": 66.64401,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:28 PM UTC"
+   },
+   {
+    "price": 66.62116,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:29 PM UTC"
+   },
+   {
+    "price": 66.63585,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:31 PM UTC"
+   },
+   {
+    "price": 66.63053,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:32 PM UTC"
+   },
+   {
+    "price": 66.63442,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:33 PM UTC"
+   },
+   {
+    "price": 66.64013,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:35 PM UTC"
+   },
+   {
+    "price": 66.63992,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:36 PM UTC"
+   },
+   {
+    "price": 66.634,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:37 PM UTC"
+   },
+   {
+    "price": 66.63727,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:39 PM UTC"
+   },
+   {
+    "price": 66.62768,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:41 PM UTC"
+   },
+   {
+    "price": 66.66708,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:43 PM UTC"
+   },
+   {
+    "price": 66.64543,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:44 PM UTC"
+   },
+   {
+    "price": 66.67055,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:45 PM UTC"
+   },
+   {
+    "price": 66.69629,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:46 PM UTC"
+   },
+   {
+    "price": 66.71919,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:47 PM UTC"
+   },
+   {
+    "price": 66.72981,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:48 PM UTC"
+   },
+   {
+    "price": 66.70999,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:49 PM UTC"
+   },
+   {
+    "price": 66.72513,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:50 PM UTC"
+   },
+   {
+    "price": 66.71144,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:51 PM UTC"
+   },
+   {
+    "price": 66.73048,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:52 PM UTC"
+   },
+   {
+    "price": 66.69979,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:54 PM UTC"
+   },
+   {
+    "price": 66.7149,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:55 PM UTC"
+   },
+   {
+    "price": 66.68546,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:56 PM UTC"
+   },
+   {
+    "price": 66.67892,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:57 PM UTC"
+   },
+   {
+    "price": 66.67422,
+    "currency": "INR",
+    "date": "Sep 30 2026, 02:59 PM UTC"
+   },
+   {
+    "price": 66.6832,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:01 PM UTC"
+   },
+   {
+    "price": 66.6734,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:02 PM UTC"
+   },
+   {
+    "price": 66.67688,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:04 PM UTC"
+   },
+   {
+    "price": 66.67136,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:06 PM UTC"
+   },
+   {
+    "price": 66.63808,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:07 PM UTC"
+   },
+   {
+    "price": 66.64747,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:09 PM UTC"
+   },
+   {
+    "price": 66.66871,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:10 PM UTC"
+   },
+   {
+    "price": 66.66279,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:11 PM UTC"
+   },
+   {
+    "price": 66.6585,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:13 PM UTC"
+   },
+   {
+    "price": 66.67218,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:14 PM UTC"
+   },
+   {
+    "price": 66.68055,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:15 PM UTC"
+   },
+   {
+    "price": 66.69016,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:16 PM UTC"
+   },
+   {
+    "price": 66.69404,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:17 PM UTC"
+   },
+   {
+    "price": 66.68607,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:18 PM UTC"
+   },
+   {
+    "price": 66.66769,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:20 PM UTC"
+   },
+   {
+    "price": 66.67402,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:21 PM UTC"
+   },
+   {
+    "price": 66.68057,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:22 PM UTC"
+   },
+   {
+    "price": 66.63809,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:25 PM UTC"
+   },
+   {
+    "price": 66.63645,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:26 PM UTC"
+   },
+   {
+    "price": 66.61707,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:27 PM UTC"
+   },
+   {
+    "price": 66.63809,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:28 PM UTC"
+   },
+   {
+    "price": 66.65278,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:29 PM UTC"
+   },
+   {
+    "price": 66.67402,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:30 PM UTC"
+   },
+   {
+    "price": 66.67921,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:32 PM UTC"
+   },
+   {
+    "price": 66.67177,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:35 PM UTC"
+   },
+   {
+    "price": 66.66279,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:36 PM UTC"
+   },
+   {
+    "price": 66.65033,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:37 PM UTC"
+   },
+   {
+    "price": 66.64666,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:39 PM UTC"
+   },
+   {
+    "price": 66.64768,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:40 PM UTC"
+   },
+   {
+    "price": 66.64952,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:41 PM UTC"
+   },
+   {
+    "price": 66.64952,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:42 PM UTC"
+   },
+   {
+    "price": 66.63216,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:44 PM UTC"
+   },
+   {
+    "price": 66.6289,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:45 PM UTC"
+   },
+   {
+    "price": 66.63359,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:46 PM UTC"
+   },
+   {
+    "price": 66.62992,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:47 PM UTC"
+   },
+   {
+    "price": 66.64094,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:49 PM UTC"
+   },
+   {
+    "price": 66.63787,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:50 PM UTC"
+   },
+   {
+    "price": 66.63644,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:51 PM UTC"
+   },
+   {
+    "price": 66.63644,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:52 PM UTC"
+   },
+   {
+    "price": 66.59785,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:54 PM UTC"
+   },
+   {
+    "price": 66.60173,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:55 PM UTC"
+   },
+   {
+    "price": 66.61112,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:56 PM UTC"
+   },
+   {
+    "price": 66.60948,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:58 PM UTC"
+   },
+   {
+    "price": 66.60826,
+    "currency": "INR",
+    "date": "Sep 30 2026, 03:59 PM UTC"
+   },
+   {
+    "price": 66.60764,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:00 PM UTC"
+   },
+   {
+    "price": 66.60212,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:01 PM UTC"
+   },
+   {
+    "price": 66.60264,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:02 PM UTC"
+   },
+   {
+    "price": 66.59783,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:03 PM UTC"
+   },
+   {
+    "price": 66.60191,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:04 PM UTC"
+   },
+   {
+    "price": 66.59761,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:05 PM UTC"
+   },
+   {
+    "price": 66.59759,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:07 PM UTC"
+   },
+   {
+    "price": 66.60332,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:08 PM UTC"
+   },
+   {
+    "price": 66.59555,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:10 PM UTC"
+   },
+   {
+    "price": 66.59985,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:12 PM UTC"
+   },
+   {
+    "price": 66.58901,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:13 PM UTC"
+   },
+   {
+    "price": 66.60699,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:14 PM UTC"
+   },
+   {
+    "price": 66.61374,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:16 PM UTC"
+   },
+   {
+    "price": 66.60054,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:17 PM UTC"
+   },
+   {
+    "price": 66.60719,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:18 PM UTC"
+   },
+   {
+    "price": 66.60577,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:20 PM UTC"
+   },
+   {
+    "price": 66.60577,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:21 PM UTC"
+   },
+   {
+    "price": 66.60477,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:22 PM UTC"
+   },
+   {
+    "price": 66.61946,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:24 PM UTC"
+   },
+   {
+    "price": 66.61415,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:25 PM UTC"
+   },
+   {
+    "price": 66.60557,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:26 PM UTC"
+   },
+   {
+    "price": 66.6163,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:27 PM UTC"
+   },
+   {
+    "price": 66.59576,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:28 PM UTC"
+   },
+   {
+    "price": 66.60046,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:30 PM UTC"
+   },
+   {
+    "price": 66.59577,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:32 PM UTC"
+   },
+   {
+    "price": 66.60475,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:33 PM UTC"
+   },
+   {
+    "price": 66.59781,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:34 PM UTC"
+   },
+   {
+    "price": 66.59127,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:35 PM UTC"
+   },
+   {
+    "price": 66.59862,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:37 PM UTC"
+   },
+   {
+    "price": 66.59025,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:38 PM UTC"
+   },
+   {
+    "price": 66.60373,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:39 PM UTC"
+   },
+   {
+    "price": 66.60312,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:40 PM UTC"
+   },
+   {
+    "price": 66.60516,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:41 PM UTC"
+   },
+   {
+    "price": 66.59525,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:42 PM UTC"
+   },
+   {
+    "price": 66.72184,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:44 PM UTC"
+   },
+   {
+    "price": 66.7106,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:46 PM UTC"
+   },
+   {
+    "price": 66.61983,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:47 PM UTC"
+   },
+   {
+    "price": 66.70345,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:48 PM UTC"
+   },
+   {
+    "price": 66.70385,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:49 PM UTC"
+   },
+   {
+    "price": 66.69588,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:50 PM UTC"
+   },
+   {
+    "price": 66.69937,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:52 PM UTC"
+   },
+   {
+    "price": 66.69446,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:53 PM UTC"
+   },
+   {
+    "price": 66.70099,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:55 PM UTC"
+   },
+   {
+    "price": 66.69588,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:57 PM UTC"
+   },
+   {
+    "price": 66.71346,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:58 PM UTC"
+   },
+   {
+    "price": 66.71346,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:59 PM UTC"
+   },
+   {
+    "price": 66.71448,
+    "currency": "INR",
+    "date": "Sep 30 2026, 05:00 PM UTC"
+   },
+   {
+    "price": 66.72306,
+    "currency": "INR",
+    "date": "Sep 30 2026, 05:01 PM UTC"
+   },
+   {
+    "price": 66.71548,
+    "currency": "INR",
+    "date": "Sep 30 2026, 05:02 PM UTC"
+   },
+   {
+    "price": 66.72102,
+    "currency": "INR",
+    "date": "Sep 30 2026, 05:03 PM UTC"
+   },
+   {
+    "price": 66.71571,
+    "currency": "INR",
+    "date": "Sep 30 2026, 05:04 PM UTC"
+   },
+   {
+    "price": 66.71326,
+    "currency": "INR",
+    "date": "Sep 30 2026, 05:08 PM UTC"
+   },
+   {
+    "price": 66.72245,
+    "currency": "INR",
+    "date": "Sep 30 2026, 05:09 PM UTC"
+   },
+   {
+    "price": 66.71426,
+    "currency": "INR",
+    "date": "Sep 30 2026, 05:12 PM UTC"
+   },
+   {
+    "price": 66.71959,
+    "currency": "INR",
+    "date": "Sep 30 2026, 05:13 PM UTC"
+   },
+   {
+    "price": 66.71631,
+    "currency": "INR",
+    "date": "Sep 30 2026, 05:16 PM UTC"
+   },
+   {
+    "price": 66.71531,
+    "currency": "INR",
+    "date": "Sep 30 2026, 05:17 PM UTC"
+   },
+   {
+    "price": 66.71203,
+    "currency": "INR",
+    "date": "Sep 30 2026, 05:20 PM UTC"
+   },
+   {
+    "price": 66.69935,
+    "currency": "INR",
+    "date": "Sep 30 2026, 05:21 PM UTC"
+   },
+   {
+    "price": 66.70426,
+    "currency": "INR",
+    "date": "Sep 30 2026, 05:22 PM UTC"
+   },
+   {
+    "price": 66.71315,
+    "currency": "INR",
+    "date": "Sep 30 2026, 05:23 PM UTC"
+   },
+   {
+    "price": 66.71315,
+    "currency": "INR",
+    "date": "Sep 30 2026, 05:28 PM UTC"
+   },
+   {
+    "price": 66.70957,
+    "currency": "INR",
+    "date": "Sep 30 2026, 05:29 PM UTC"
+   },
+   {
+    "price": 66.69996,
+    "currency": "INR",
+    "date": "Sep 30 2026, 05:31 PM UTC"
+   },
+   {
+    "price": 66.71223,
+    "currency": "INR",
+    "date": "Sep 30 2026, 05:33 PM UTC"
+   },
+   {
+    "price": 66.70835,
+    "currency": "INR",
+    "date": "Sep 30 2026, 05:34 PM UTC"
+   },
+   {
+    "price": 66.70078,
+    "currency": "INR",
+    "date": "Sep 30 2026, 05:35 PM UTC"
+   },
+   {
+    "price": 66.70666,
+    "currency": "INR",
+    "date": "Sep 30 2026, 05:38 PM UTC"
+   },
+   {
+    "price": 66.70017,
+    "currency": "INR",
+    "date": "Sep 30 2026, 05:39 PM UTC"
+   },
+   {
+    "price": 66.70732,
+    "currency": "INR",
+    "date": "Sep 30 2026, 05:41 PM UTC"
+   },
+   {
+    "price": 66.70262,
+    "currency": "INR",
+    "date": "Sep 30 2026, 05:43 PM UTC"
+   },
+   {
+    "price": 66.69629,
+    "currency": "INR",
+    "date": "Sep 30 2026, 05:45 PM UTC"
+   },
+   {
+    "price": 66.69915,
+    "currency": "INR",
+    "date": "Sep 30 2026, 05:48 PM UTC"
+   },
+   {
+    "price": 66.70365,
+    "currency": "INR",
+    "date": "Sep 30 2026, 05:50 PM UTC"
+   },
+   {
+    "price": 66.70508,
+    "currency": "INR",
+    "date": "Sep 30 2026, 05:52 PM UTC"
+   },
+   {
+    "price": 66.69895,
+    "currency": "INR",
+    "date": "Sep 30 2026, 05:53 PM UTC"
+   },
+   {
+    "price": 66.69997,
+    "currency": "INR",
+    "date": "Sep 30 2026, 05:55 PM UTC"
+   },
+   {
+    "price": 66.69119,
+    "currency": "INR",
+    "date": "Sep 30 2026, 05:58 PM UTC"
+   },
+   {
+    "price": 66.701,
+    "currency": "INR",
+    "date": "Sep 30 2026, 06:00 PM UTC"
+   },
+   {
+    "price": 66.69589,
+    "currency": "INR",
+    "date": "Sep 30 2026, 06:01 PM UTC"
+   },
+   {
+    "price": 66.69895,
+    "currency": "INR",
+    "date": "Sep 30 2026, 06:02 PM UTC"
+   },
+   {
+    "price": 66.69956,
+    "currency": "INR",
+    "date": "Sep 30 2026, 06:03 PM UTC"
+   },
+   {
+    "price": 66.69466,
+    "currency": "INR",
+    "date": "Sep 30 2026, 06:07 PM UTC"
+   },
+   {
+    "price": 66.69118,
+    "currency": "INR",
+    "date": "Sep 30 2026, 06:09 PM UTC"
+   },
+   {
+    "price": 66.69609,
+    "currency": "INR",
+    "date": "Sep 30 2026, 06:11 PM UTC"
+   },
+   {
+    "price": 66.69057,
+    "currency": "INR",
+    "date": "Sep 30 2026, 06:13 PM UTC"
+   },
+   {
+    "price": 66.69056,
+    "currency": "INR",
+    "date": "Sep 30 2026, 06:18 PM UTC"
+   },
+   {
+    "price": 66.69056,
+    "currency": "INR",
+    "date": "Sep 30 2026, 06:23 PM UTC"
+   },
+   {
+    "price": 66.71,
+    "currency": "INR",
+    "date": "Sep 30 2026, 06:24 PM UTC"
+   },
+   {
+    "price": 66.70162,
+    "currency": "INR",
+    "date": "Sep 30 2026, 06:26 PM UTC"
+   },
+   {
+    "price": 66.7053,
+    "currency": "INR",
+    "date": "Sep 30 2026, 06:28 PM UTC"
+   },
+   {
+    "price": 66.70141,
+    "currency": "INR",
+    "date": "Sep 30 2026, 06:30 PM UTC"
+   },
+   {
+    "price": 66.69528,
+    "currency": "INR",
+    "date": "Sep 30 2026, 06:31 PM UTC"
+   },
+   {
+    "price": 66.68935,
+    "currency": "INR",
+    "date": "Sep 30 2026, 06:32 PM UTC"
+   },
+   {
+    "price": 66.70285,
+    "currency": "INR",
+    "date": "Sep 30 2026, 06:33 PM UTC"
+   },
+   {
+    "price": 66.69732,
+    "currency": "INR",
+    "date": "Sep 30 2026, 06:37 PM UTC"
+   },
+   {
+    "price": 66.70035,
+    "currency": "INR",
+    "date": "Sep 30 2026, 06:38 PM UTC"
+   },
+   {
+    "price": 66.7053,
+    "currency": "INR",
+    "date": "Sep 30 2026, 06:41 PM UTC"
+   },
+   {
+    "price": 66.69535,
+    "currency": "INR",
+    "date": "Sep 30 2026, 06:43 PM UTC"
+   },
+   {
+    "price": 66.70101,
+    "currency": "INR",
+    "date": "Sep 30 2026, 06:46 PM UTC"
+   },
+   {
+    "price": 66.69732,
+    "currency": "INR",
+    "date": "Sep 30 2026, 06:48 PM UTC"
+   },
+   {
+    "price": 66.69017,
+    "currency": "INR",
+    "date": "Sep 30 2026, 06:50 PM UTC"
+   },
+   {
+    "price": 66.69917,
+    "currency": "INR",
+    "date": "Sep 30 2026, 06:51 PM UTC"
+   },
+   {
+    "price": 66.69467,
+    "currency": "INR",
+    "date": "Sep 30 2026, 06:53 PM UTC"
+   },
+   {
+    "price": 66.69937,
+    "currency": "INR",
+    "date": "Sep 30 2026, 06:55 PM UTC"
+   },
+   {
+    "price": 66.69406,
+    "currency": "INR",
+    "date": "Sep 30 2026, 06:57 PM UTC"
+   },
+   {
+    "price": 66.69817,
+    "currency": "INR",
+    "date": "Sep 30 2026, 06:58 PM UTC"
+   },
+   {
+    "price": 66.69631,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:02 PM UTC"
+   },
+   {
+    "price": 66.69937,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:03 PM UTC"
+   },
+   {
+    "price": 66.68936,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:06 PM UTC"
+   },
+   {
+    "price": 66.68792,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:08 PM UTC"
+   },
+   {
+    "price": 66.68077,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:09 PM UTC"
+   },
+   {
+    "price": 66.68506,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:12 PM UTC"
+   },
+   {
+    "price": 66.68509,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:13 PM UTC"
+   },
+   {
+    "price": 66.69406,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:15 PM UTC"
+   },
+   {
+    "price": 66.68606,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:18 PM UTC"
+   },
+   {
+    "price": 66.69958,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:22 PM UTC"
+   },
+   {
+    "price": 66.69506,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:23 PM UTC"
+   },
+   {
+    "price": 66.69447,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:27 PM UTC"
+   },
+   {
+    "price": 66.6924,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:28 PM UTC"
+   },
+   {
+    "price": 66.69099,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:30 PM UTC"
+   },
+   {
+    "price": 66.68486,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:32 PM UTC"
+   },
+   {
+    "price": 66.69017,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:33 PM UTC"
+   },
+   {
+    "price": 66.68465,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:34 PM UTC"
+   },
+   {
+    "price": 66.67893,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:37 PM UTC"
+   },
+   {
+    "price": 66.68491,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:38 PM UTC"
+   },
+   {
+    "price": 66.67423,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:39 PM UTC"
+   },
+   {
+    "price": 66.6683,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:40 PM UTC"
+   },
+   {
+    "price": 66.66851,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:41 PM UTC"
+   },
+   {
+    "price": 66.66421,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:42 PM UTC"
+   },
+   {
+    "price": 66.67112,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:43 PM UTC"
+   },
+   {
+    "price": 66.66524,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:44 PM UTC"
+   },
+   {
+    "price": 66.65236,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:47 PM UTC"
+   },
+   {
+    "price": 66.65849,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:48 PM UTC"
+   },
+   {
+    "price": 66.65808,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:49 PM UTC"
+   },
+   {
+    "price": 66.65747,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:50 PM UTC"
+   },
+   {
+    "price": 66.6495,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:51 PM UTC"
+   },
+   {
+    "price": 66.65504,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:53 PM UTC"
+   },
+   {
+    "price": 66.65236,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:55 PM UTC"
+   },
+   {
+    "price": 66.65256,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:56 PM UTC"
+   },
+   {
+    "price": 66.65174,
+    "currency": "INR",
+    "date": "Sep 30 2026, 07:58 PM UTC"
+   },
+   {
+    "price": 66.65277,
+    "currency": "INR",
+    "date": "Sep 30 2026, 08:00 PM UTC"
+   },
+   {
+    "price": 66.66115,
+    "currency": "INR",
+    "date": "Sep 30 2026, 08:02 PM UTC"
+   },
+   {
+    "price": 66.64235,
+    "currency": "INR",
+    "date": "Sep 30 2026, 08:04 PM UTC"
+   },
+   {
+    "price": 66.65624,
+    "currency": "INR",
+    "date": "Sep 30 2026, 08:06 PM UTC"
+   },
+   {
+    "price": 66.6591,
+    "currency": "INR",
+    "date": "Sep 30 2026, 08:07 PM UTC"
+   },
+   {
+    "price": 66.65502,
+    "currency": "INR",
+    "date": "Sep 30 2026, 08:08 PM UTC"
+   },
+   {
+    "price": 66.65829,
+    "currency": "INR",
+    "date": "Sep 30 2026, 08:09 PM UTC"
+   },
+   {
+    "price": 66.66135,
+    "currency": "INR",
+    "date": "Sep 30 2026, 08:10 PM UTC"
+   },
+   {
+    "price": 66.66217,
+    "currency": "INR",
+    "date": "Sep 30 2026, 08:11 PM UTC"
+   },
+   {
+    "price": 66.65236,
+    "currency": "INR",
+    "date": "Sep 30 2026, 08:12 PM UTC"
+   },
+   {
+    "price": 66.66217,
+    "currency": "INR",
+    "date": "Sep 30 2026, 08:13 PM UTC"
+   },
+   {
+    "price": 66.64991,
+    "currency": "INR",
+    "date": "Sep 30 2026, 08:15 PM UTC"
+   },
+   {
+    "price": 66.64214,
+    "currency": "INR",
+    "date": "Sep 30 2026, 08:17 PM UTC"
+   },
+   {
+    "price": 66.64991,
+    "currency": "INR",
+    "date": "Sep 30 2026, 08:18 PM UTC"
+   },
+   {
+    "price": 66.64173,
+    "currency": "INR",
+    "date": "Sep 30 2026, 08:20 PM UTC"
+   },
+   {
+    "price": 66.65277,
+    "currency": "INR",
+    "date": "Sep 30 2026, 08:23 PM UTC"
+   },
+   {
+    "price": 66.65584,
+    "currency": "INR",
+    "date": "Sep 30 2026, 08:24 PM UTC"
+   },
+   {
+    "price": 66.66197,
+    "currency": "INR",
+    "date": "Sep 30 2026, 08:27 PM UTC"
+   },
+   {
+    "price": 66.6636,
+    "currency": "INR",
+    "date": "Sep 30 2026, 08:29 PM UTC"
+   },
+   {
+    "price": 66.66789,
+    "currency": "INR",
+    "date": "Sep 30 2026, 08:30 PM UTC"
+   },
+   {
+    "price": 66.66401,
+    "currency": "INR",
+    "date": "Sep 30 2026, 08:31 PM UTC"
+   },
+   {
+    "price": 66.65931,
+    "currency": "INR",
+    "date": "Sep 30 2026, 08:33 PM UTC"
+   },
+   {
+    "price": 66.65461,
+    "currency": "INR",
+    "date": "Sep 30 2026, 08:34 PM UTC"
+   },
+   {
+    "price": 66.66197,
+    "currency": "INR",
+    "date": "Sep 30 2026, 08:37 PM UTC"
+   },
+   {
+    "price": 66.66301,
+    "currency": "INR",
+    "date": "Sep 30 2026, 08:38 PM UTC"
+   },
+   {
+    "price": 66.66278,
+    "currency": "INR",
+    "date": "Sep 30 2026, 08:40 PM UTC"
+   },
+   {
+    "price": 66.66115,
+    "currency": "INR",
+    "date": "Sep 30 2026, 08:41 PM UTC"
+   },
+   {
+    "price": 66.66197,
+    "currency": "INR",
+    "date": "Sep 30 2026, 08:43 PM UTC"
+   },
+   {
+    "price": 66.65175,
+    "currency": "INR",
+    "date": "Sep 30 2026, 08:46 PM UTC"
+   },
+   {
+    "price": 66.66278,
+    "currency": "INR",
+    "date": "Sep 30 2026, 08:48 PM UTC"
+   },
+   {
+    "price": 66.64828,
+    "currency": "INR",
+    "date": "Sep 30 2026, 08:53 PM UTC"
+   },
+   {
+    "price": 66.65665,
+    "currency": "INR",
+    "date": "Sep 30 2026, 08:56 PM UTC"
+   }
+  ],
+  "summary": {
+   "title": "Australian Dollar / Indian Rupee",
+   "price": "66.65665",
+   "extracted_price": 66.65665,
+   "price_movement": {
+    "percentage": 0.607805,
+    "value": 0.40762,
+    "movement": "Down"
+   },
+   "date": "Sep 30 2026, 08:56:19 PM UTC",
+   "extensions": [
+    "Sep 30, 8:50:19 PM UTC"
+   ]
+  },
+  "knowledge_graph": {
+   "about": [
+    {
+     "title": "Profile",
+     "description": {
+      "snippet": "The Australian dollar is the official currency and legal tender of Australia, including all of its external territories, and three independent sovereign Pacific Island states: Kiribati, Nauru, and Tuvalu. In April 2025, it was the seventh most-traded currency in the foreign exchange market and as of Q1 2024 the sixth most-held reserve currency in global reserves.\nThe Australian dollar was introduced as a decimal currency on 14 February 1966 to replace the non-decimal Australian pound, with the conversion rate of two dollars to the pound. Each dollar is subdivided into 100 cents. The $ symbol precedes the amount. On the introduction of the currency, the $ symbol was intended to have two strokes, but the version with one stroke has also always been acceptable.\nIn 2023, there were A$4.4 billion in coins and A$101.3 billion in notes of Australian currency in circulation, or around A$6,700 per person in Australia, which includes cash reserves held by the banking system and cash in circulation in other countries or held as a foreign exchange reserve.",
+      "link": "https://en.wikipedia.org/wiki/Australian_dollar",
+      "link_text": "Wikipedia"
+     }
+    }
+   ]
+  },
+  "news_results": [
+   {
+    "snippet": "AUD/INR holds near ₹67.2857 resistance amid weak momentum",
+    "link": "https://tradersunion.com/news/currencies/show/3563027-australian-dollar-drops-0-51percent-vs/",
+    "source": "Traders Union",
+    "date": "1 day ago",
+    "thumbnail": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://tradersunion.com&client=FINANCE_HUB&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   }
+  ],
+  "discover_more": [
+   {
+    "items": [
+     {
+      "link": "https://www.google.com/finance/quote/USD-INR",
+      "price": "95.9448",
+      "extracted_price": 95.9448,
+      "price_movement": {
+       "percentage": 0.11,
+       "movement": "Up"
+      }
+     },
+     {
+      "link": "https://www.google.com/finance/quote/EUR-INR",
+      "price": "108.7630",
+      "extracted_price": 108.763,
+      "price_movement": {
+       "percentage": 0.08,
+       "movement": "Up"
+      }
+     },
+     {
+      "link": "https://www.google.com/finance/quote/JPY-INR",
+      "price": "0.6097",
+      "extracted_price": 0.6097,
+      "price_movement": {
+       "percentage": 0.0,
+       "movement": "Up"
+      }
+     },
+     {
+      "link": "https://www.google.com/finance/quote/GBP-INR",
+      "price": "127.2503",
+      "extracted_price": 127.2503,
+      "price_movement": {
+       "percentage": 0.15,
+       "movement": "Down"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

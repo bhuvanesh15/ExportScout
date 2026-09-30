@@ -24,3 +24,87 @@ uk:
   markups: {retailer: 2.2, importer: 1.8}   # assumptions
   buying_lead_months: 6             # assumption: buyers set seasonal ranges ~6 months ahead
   last_verified: 2026-09-30
+  jobs_location: United Kingdom     # google_jobs location (country level)
+  compare_with: [us, de, ae, au]    # Market Compare: quick Amazon-only scans of these markets
+
+# ---------------------------------------------------------------------------------------------
+# Market Compare entries: a quick scan (one Amazon search each), not a full deep dive.
+# Duty on Indian goods = duty_india + mfn_by_hs[HS prefix] + extra_duty (rate x copper_share).
+# HS prefixes come from categories.yaml hs_hints. Verify before quoting; update last_verified.
+
+us:
+  label: United States
+  short_label: US
+  currency: USD
+  fx_pair: USD-INR
+  vat_rate: 0.0                     # US list prices exclude sales tax
+  amazon_domain: amazon.com
+  duty_india: 0.10                  # Section 301 duty on most Indian goods since 2026-07-24
+  mfn_default: 0.03                 # assumption when the HS line is unknown
+  mfn_by_hs:                        # USITC HTS general rates
+    "9405.50": 0.057                # 9405.50.30 non-electrical luminaires of brass
+    "7419.80": 0.0                  # 7419.80.50 other articles of copper: Free
+  extra_duty:
+    - {hs_prefix: "7419", rate: 0.50, copper_share: 0.65, label: "Section 232 copper duty (50% of the copper content)"}
+  duty_note: "Normal US duty for the HS line, plus the 10% Section 301 duty on Indian goods (since 24 Jul 2026). Copper articles under HS 7419 also pay the 50% Section 232 copper duty on their copper content."
+  duty_sources:
+    - https://hts.usitc.gov/search?query=9405.50.30
+    - https://hts.usitc.gov/search?query=7419.80.50
+    - https://ustariffrates.com/tariff-rates/india
+    - https://www.congress.gov/crs-product/IN12614
+  freight_ins_pct: 0.18             # assumption: longer sea route than to the UK
+  markups: {retailer: 2.2, importer: 1.8}   # assumptions
+  last_verified: 2026-10-01
+
+de:
+  label: Germany
+  short_label: DE
+  currency: EUR
+  fx_pair: EUR-INR
+  vat_rate: 0.19
+  amazon_domain: amazon.de
+  keyword_language: de              # Amazon.de is searched with a German phrase
+  duty_india: 0.0
+  mfn_default: 0.03                 # assumption when the HS line is unknown
+  mfn_by_hs:                        # EU third-country duty (TARIC); India's GSP may lower some lines
+    "9405.50": 0.027
+    "7419.80": 0.03
+  duty_note: "EU third-country duty. The India–EU FTA was concluded on 27 Jan 2026 but is not in force yet; India's GSP status may lower some lines."
+  duty_sources:
+    - https://www.tariffnumber.com/2026/74198090
+    - https://www.tariffnumber.com/2025/9405500000
+    - https://www.orfonline.org/expert-speak/the-india-eu-fta-from-political-agreement-to-ratification-and-coming-into-force
+  freight_ins_pct: 0.15             # assumption
+  markups: {retailer: 2.2, importer: 1.8}   # assumptions
+  last_verified: 2026-10-01
+
+ae:
+  label: United Arab Emirates
+  short_label: UAE
+  currency: AED
+  fx_pair: AED-INR
+  vat_rate: 0.05
+  amazon_domain: amazon.ae
+  duty_india: 0.0                   # India–UAE CEPA; needs a valid certificate of origin (5% standard duty otherwise)
+  duty_note: "0% under the India–UAE CEPA (in force since May 2022) with a valid certificate of origin; the standard UAE duty is 5%."
+  duty_sources:
+    - https://raspinternational.in/blog/india-uae-cepa-guide-exporters-2026/
+    - https://www.middleeastbriefing.com/doing-business-guide/uae/taxation-and-accounting/custom-duties-export-import-tax-uae
+  freight_ins_pct: 0.10             # assumption: short sea route
+  markups: {retailer: 2.2, importer: 1.8}   # assumptions
+  last_verified: 2026-10-01
+
+au:
+  label: Australia
+  short_label: AU
+  currency: AUD
+  fx_pair: AUD-INR
+  vat_rate: 0.10                    # GST
+  amazon_domain: amazon.com.au
+  duty_india: 0.0                   # India–Australia ECTA: every tariff line duty-free from 1 Jan 2026
+  duty_note: "0% under the India–Australia ECTA: all Australian tariff lines are duty-free for Indian goods from 1 Jan 2026, with a certificate of origin."
+  duty_sources:
+    - https://www.fibre2fashion.com/news/textiles-import-export-news/all-australian-tariff-lines-zero-duty-for-indian-exports-from-jan-1-307431-newsdetails.htm
+  freight_ins_pct: 0.18             # assumption: longer sea route
+  markups: {retailer: 2.2, importer: 1.8}   # assumptions
+  last_verified: 2026-10-01

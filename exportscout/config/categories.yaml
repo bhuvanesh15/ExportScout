@@ -126,6 +126,79 @@ metal_handicrafts:
     - selfridges.com
     - harrods.com
     - libertylondon.com
+    - qvc.com
+    - qvcuk.com
+  # HS code hints by product word, for duty lookups in Market Compare (first match wins).
+  hs_hints:
+    lantern: "9405.50"
+    hurricane: "9405.50"
+    candle: "9405.50"
+    tealight: "9405.50"
+    planter: "7419.80"
+    pot: "7419.80"
+    vase: "7419.80"
+    bowl: "7419.80"
+    tray: "7419.80"
+    bell: "7419.80"
+  # Fallback keyword translation for Market Compare when the LLM is unavailable (word by word).
+  translations:
+    de:
+      brass: Messing
+      hammered: gehämmert
+      hurricane lantern: Windlicht
+      lantern: Laterne
+      candle holder: Kerzenhalter
+      candlestick: Kerzenständer
+      tealight holder: Teelichthalter
+      planter: Pflanzkübel
+      plant pot: Blumentopf
+      pot: Topf
+      vase: Vase
+      bowl: Schale
+      tray: Tablett
+      bell: Glocke
+      copper: Kupfer
+      metal: Metall
+      moroccan: marokkanisch
+      antique: antik
+      gold: gold
+  # Google Jobs queries (market jobs_location) that surface companies hiring buyers for this range.
+  job_queries:
+    - homeware buyer
+  job_queries_by_type:              # one extra query for the product type (first match wins)
+    lantern: home accessories buyer   # "lighting buyer" returned no UK ads (probe, 2026-10-01)
+    candle: home accessories buyer
+    planter: garden buyer
+    pot: garden buyer
+    vase: homewares buyer
+    bowl: homewares buyer
+  # Recruitment agencies and job boards post for unnamed clients: shown, but never treated as buyers.
+  recruiters:
+    - tiptopjob
+    - dr jobs
+    - zachary daniels
+    - fashion personnel
+    - fashion & retail personnel
+    - hays
+    - reed
+    - michael page
+    - page personnel
+    - retail choice
+    - retail human resources
+    - pertemps
+    - adecco
+    - randstad
+    - blue arrow
+    - kenton black
+    - robert walters
+    - morgan mckinley
+    - harvey nash
+    - search consultancy
+    - hunter & harvey
+    - samuel knight
+    - kinetic
+    - jac recruitment
+    - ivy recruitment
   compliance_notes:
     - "UK: products must carry a UK-responsible person/importer address on packaging (GPSR equivalent under UK product safety rules)."
     - "Candle holders and lanterns: include fire-safety warnings for use with candles."

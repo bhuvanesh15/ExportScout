@@ -97,6 +97,7 @@ class LLM:
         self._api_key = api_key if api_key is not None else os.environ.get("ANTHROPIC_API_KEY", "")
         self._client = client
         self.api_calls = 0
+        self.replay_misses = 0  # replay lookups with no recording (the task then uses its fallback)
         self._lock = threading.Lock()
         cache_path = Path(cache_path)
         cache_path.parent.mkdir(parents=True, exist_ok=True)
@@ -166,11 +167,16 @@ class LLM:
             if output is None:
                 output = self._read_cache(key)
             if output is None:
+                self.replay_misses += 1
                 raise LLMCacheMiss(task, key)
             return output
         output = self._read_cache(key)
         if output is None:
-            output = call()
+            # A committed recording counts as a cache hit, so re-recording on a fresh machine
+            # doesn't re-ask the model: a new `identify` answer would mean new paid searches.
+            output = self._read_record(task, key)
+            if output is None:
+                output = call()
             self._write_cache(task, key, output)
         if self.mode == "record":
             self._write_record(task, key, output)

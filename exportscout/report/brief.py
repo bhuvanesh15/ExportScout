@@ -6,10 +6,15 @@ import io
 
 from exportscout.config import category
 from exportscout.llm.tasks import MONTHS, money, pct, sorted_signals
-from exportscout.models import Brief, BuyerCandidate
+from exportscout.models import Brief, BuyerCandidate, JobPosting, MarketRow
 
 FOOTER = "Estimates from live search data — verify duty rates and rules of origin before quoting."
-CSV_COLUMNS = ["rank", "name", "kind", "city", "fit_score", "website", "phone", "domain", "top_signals", "why"]
+CSV_COLUMNS = ["rank", "name", "kind", "city", "fit_score", "website", "phone", "domain", "top_signals", "hiring", "why"]
+MARKETS_CAVEAT = (
+    "Amazon-only quick scan: one Amazon search per market, worked back to FOB with that market's VAT, markups, "
+    "freight and duty. Not a deep dive; verify duty rates and rules of origin before quoting."
+)
+_SYMBOLS = {"AUD": "A$"}  # tasks.money covers GBP, USD, EUR and INR; other codes print as "AED 12.00"
 _ASSUMPTION_LABELS = {
     "vat_rate": "UK VAT",
     "retailer_markup": "Retailer markup",
@@ -45,6 +50,119 @@ def _assumption_value(key: str, value: float) -> str:
 
 def _top_signals(b: BuyerCandidate, n: int = 3) -> str:
     return "; ".join(s.detail for s in sorted_signals(b)[:n])
+
+
+def _hiring(b: BuyerCandidate) -> str:
+    return next((s.detail for s in b.signals if s.kind == "hiring"), "")
+
+
+def _money(value: float | None, currency: str | None) -> str | None:
+    """Like ``tasks.money`` with A$ for AUD; None (a "—" cell) when there is no value."""
+    if value is None:
+        return None
+    if currency in _SYMBOLS:
+        return f"{_SYMBOLS[currency]}{value:,.2f}"
+    return money(value, currency)
+
+
+def _rate(value: float) -> str:
+    """0.157 -> "15.7%", 0.2 -> "20%"."""
+    return f"{value * 100:.1f}".removesuffix(".0") + "%"
+
+
+def _sentence(text: str) -> str:
+    text = text.strip()
+    return text if not text or text[-1] in ".!?" else text + "."
+
+
+def _short_url(url: str) -> str:
+    return url.split("://", 1)[-1].removeprefix("www.").rstrip("/")
+
+
+def _best_other_market(brief: Brief) -> MarketRow | None:
+    return next((m for m in brief.markets if not m.is_home and m.quote is not None), None)
+
+
+def _markets_section(brief: Brief) -> list[str]:
+    """Market Compare: ranked table, best alternative, duty detail with sources, caveat. Empty if not run."""
+    if not brief.markets:
+        return []
+    out = ["## Other markets (quick scan)", ""]
+    best = _best_other_market(brief)
+    if best is not None:
+        q = best.quote
+        facts = [f"FOB {_money(q.fob_importer, q.currency)}–{_money(q.fob_retailer, q.currency)}"]
+        if q.margin_retailer is not None:
+            facts.insert(0, f"margin {pct(q.margin_retailer)}")
+        facts.append(f"duty {_rate(best.duty_pct)}")
+        if best.score is not None:
+            facts.append(f"Market Fit {best.score.total:.0f}/100")
+        out += [f"**Best other market: {best.label}** · " + " · ".join(facts), ""]
+    rows: list[list[object]] = []
+    for i, m in enumerate(brief.markets, 1):
+        q = m.quote
+        retail = q.retail_median if q else (m.ladder.p50 if m.ladder else None)
+        notes = [f"thin data ({m.listings_n} listings)" if m.thin_data else "", "no quote" if q is None else ""]
+        rows.append(
+            [
+                i,
+                m.label + (" (deep dive)" if m.is_home else ""),
+                _rate(m.duty_pct),
+                _money(retail, m.currency),
+                f"{_money(q.fob_importer, q.currency)}–{_money(q.fob_retailer, q.currency)}" if q else None,
+                _money(q.fob_retailer_inr, "INR") if q else None,
+                pct(q.margin_retailer) if q else None,
+                q.verdict.replace("_", "-").upper() if q else None,
+                None if m.score is None else f"{m.score.total:.0f}",
+                m.listings_n,
+                m.trends_interest,
+                None if m.review_depth is None else f"{m.review_depth:,}",
+                "; ".join(n for n in notes if n),
+            ]
+        )
+    headers = ["#", "Market", "Duty", "Retail median", "FOB range", "FOB ceiling (₹)", "Margin", "Verdict", "Market Fit",
+               "Listings", "Trends", "Amazon reviews", "Note"]  # fmt: skip
+    out += _table(headers, rows) + ["", "**Duty on Indian goods, by market**", ""]
+    for m in brief.markets:
+        hs = f"HS {m.hs_code}" if m.hs_code and f"HS {m.hs_code}" not in (m.duty_detail or "") else ""
+        detail = ", ".join(x for x in (m.duty_detail, hs) if x)
+        parts = [f"- **{m.label}**: duty {_rate(m.duty_pct)}" + (f" ({detail})" if detail else "") + "."]
+        if m.duty_note:
+            parts.append(_sentence(m.duty_note))
+        if m.duty_sources:
+            parts.append("Sources: " + ", ".join(_link(u, _short_url(u)) for u in m.duty_sources) + ".")
+        if m.last_verified:
+            parts.append(f"Verified {m.last_verified}.")
+        search = f"Amazon search “{m.keyword}”"
+        if m.fx_rate is not None:
+            search += f"; FX 1 {m.currency} = ₹{m.fx_rate:.2f}"
+        parts.append(search + ".")
+        out.append(" ".join(parts))
+    return out + ["", f"_{MARKETS_CAVEAT}_", ""]
+
+
+def _sorted_jobs(jobs: list[JobPosting]) -> list[JobPosting]:
+    return sorted(jobs, key=lambda j: (j.is_recruiter, j.posted_days is None, j.posted_days or 0.0))
+
+
+def _jobs_section(brief: Brief) -> list[str]:
+    """Companies advertising buying roles now (company-level data only). Empty if none."""
+    if not brief.jobs:
+        return []
+    rows = [
+        [
+            j.company + (" (agency)" if j.is_recruiter else ""),
+            j.title,
+            j.location,
+            j.posted,
+            "yes" if j.mentions_india else "no",
+            _link(j.link, "ad"),
+        ]
+        for j in _sorted_jobs(brief.jobs)
+    ]
+    out = ["## Hiring now", "", "Buying and sourcing roles advertised on Google Jobs (company-level data only; "
+           "agencies post for unnamed clients).", ""]  # fmt: skip
+    return out + _table(["Company", "Role", "Where", "Posted", "Mentions India", "Ad"], rows) + [""]
 
 
 def _quote_section(brief: Brief) -> list[str]:
@@ -159,8 +277,8 @@ def _buyers_section(brief: Brief) -> list[str]:
 
 
 def brief_markdown(brief: Brief) -> str:
-    """The whole brief as Markdown (headline, quote, demand, origin, themes, buyers, pitches,
-    evidence list, assumptions, "verify duty and rules of origin before quoting" note)."""
+    """The whole brief as Markdown (headline, quote, demand, other markets, origin, themes, buyers,
+    hiring now, pitches, evidence list, assumptions, "verify duty and rules of origin before quoting" note)."""
     title = brief.headline or (
         f"{brief.product.product_type} → {brief.market_label}" if brief.product else f"ExportScout brief → {brief.market_label}"
     )
@@ -177,6 +295,7 @@ def brief_markdown(brief: Brief) -> str:
         out += ["> **Warnings**"] + [f"> - {w}" for w in brief.warnings] + [""]
     out += _quote_section(brief)
     out += _demand_section(brief)
+    out += _markets_section(brief)
     out += _origin_section(brief)
     out += _themes_section(brief)
     if brief.market_score is not None and brief.market_score.components:
@@ -186,6 +305,7 @@ def brief_markdown(brief: Brief) -> str:
         ]
         out += ["## Market Opportunity Score", ""] + _table(["Component", "Points", "Detail"], rows) + [""]
     out += _buyers_section(brief)
+    out += _jobs_section(brief)
     if brief.pitches:
         out += ["## Pitches", ""]
         for p in brief.pitches:
@@ -213,7 +333,7 @@ def brief_markdown(brief: Brief) -> str:
 
 
 def buyers_csv(brief: Brief) -> str:
-    """Ranked buyers as CSV: rank, name, kind, city, fit_score, website, phone, top signals, why."""
+    """Ranked buyers as CSV: rank, name, kind, city, fit_score, website, phone, top signals, hiring, why."""
     buf = io.StringIO()
     writer = csv.writer(buf, lineterminator="\n")
     writer.writerow(CSV_COLUMNS)
@@ -229,6 +349,7 @@ def buyers_csv(brief: Brief) -> str:
                 b.phone or "",
                 b.domain or "",
                 _top_signals(b),
+                _hiring(b),
                 b.why or "",
             ]
         )

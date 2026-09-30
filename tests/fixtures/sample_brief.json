@@ -1686,6 +1686,7 @@
     "amazon",
     "google",
     "google_ads_transparency_center",
+    "google_jobs",
     "google_maps"
    ],
    "seen_texts": [],
@@ -1725,6 +1726,11 @@
      "kind": "phone",
      "detail": "Phone number on Google Maps",
      "evidence_id": "google_maps:ca960f74:0"
+    },
+    {
+     "kind": "hiring",
+     "detail": "Hiring a Lighting Buyer (5 days ago)",
+     "evidence_id": "google_jobs:20ea640f:0"
     }
    ],
    "fit_score": 92.0,
@@ -1756,9 +1762,10 @@
     "activity": {
      "points": 13.8,
      "max_points": 15.0,
-     "detail": "UK ads live in the last 30 days",
+     "detail": "UK ads live in the last 30 days; hiring a buyer now",
      "evidence_ids": [
-      "google_ads_transparency_center:d729c571:0"
+      "google_ads_transparency_center:d729c571:0",
+      "google_jobs:20ea640f:0"
      ]
     },
     "size": {
@@ -2157,6 +2164,68 @@
    "why": "Wholesaler in London already selling lanterns at £26–£48"
   }
  ],
+ "jobs": [
+  {
+   "company": "Sample Lantern House",
+   "title": "Lighting Buyer",
+   "location": "London, UK",
+   "via": "LinkedIn",
+   "posted": "5 days ago",
+   "posted_days": 5.0,
+   "link": "https://example.com/sample/jobs/0",
+   "query": "lighting buyer",
+   "mentions_india": false,
+   "mentions_overseas": true,
+   "is_recruiter": false,
+   "snippet": "…regular sourcing trips to supplier factories overseas…",
+   "evidence_id": "google_jobs:20ea640f:0"
+  },
+  {
+   "company": "Example Home Group",
+   "title": "Assistant Homeware Buyer",
+   "location": "Manchester, UK",
+   "via": "Indeed",
+   "posted": "2 days ago",
+   "posted_days": 2.0,
+   "link": "https://example.com/sample/jobs/1",
+   "query": "homeware buyer",
+   "mentions_india": true,
+   "mentions_overseas": true,
+   "is_recruiter": false,
+   "snippet": "…experience working with suppliers in India and the Far East…",
+   "evidence_id": "google_jobs:3d4b1357:1"
+  },
+  {
+   "company": "Imaginary Recruitment Partners",
+   "title": "Senior Buyer, Home Accessories",
+   "location": "London, UK",
+   "via": "Reed",
+   "posted": "1 day ago",
+   "posted_days": 1.0,
+   "link": "https://example.com/sample/jobs/2",
+   "query": "homeware buyer",
+   "mentions_india": false,
+   "mentions_overseas": false,
+   "is_recruiter": true,
+   "snippet": null,
+   "evidence_id": "google_jobs:3d4b1357:2"
+  },
+  {
+   "company": "Placeholder Living",
+   "title": "Product Developer, Home Décor",
+   "location": "Leeds, UK",
+   "via": "Totaljobs",
+   "posted": "3 weeks ago",
+   "posted_days": 21.0,
+   "link": "https://example.com/sample/jobs/3",
+   "query": "homeware buyer",
+   "mentions_india": false,
+   "mentions_overseas": true,
+   "is_recruiter": false,
+   "snippet": "…regular sourcing trips to supplier factories overseas…",
+   "evidence_id": "google_jobs:3d4b1357:3"
+  }
+ ],
  "market_score": {
   "total": 74.0,
   "components": {
@@ -2211,8 +2280,666 @@
    }
   }
  },
+ "markets": [
+  {
+   "code": "uk",
+   "label": "United Kingdom",
+   "short_label": "UK",
+   "currency": "GBP",
+   "keyword": "brass hurricane lantern",
+   "is_home": true,
+   "listings_n": 12,
+   "ladder": {
+    "currency": "GBP",
+    "n": 12,
+    "min": 22.99,
+    "p25": 29.12,
+    "p50": 37.98,
+    "p75": 45.74,
+    "max": 64.99,
+    "by_channel": {
+     "amazon": {
+      "n": 12,
+      "p25": 29.12,
+      "p50": 37.98,
+      "p75": 45.74
+     }
+    },
+    "evidence_ids": [
+     "amazon:a953229d:0",
+     "amazon:a953229d:1",
+     "amazon:a953229d:2",
+     "amazon:a953229d:3",
+     "amazon:a953229d:4",
+     "amazon:a953229d:5",
+     "amazon:a953229d:6",
+     "amazon:a953229d:7",
+     "amazon:a953229d:8",
+     "amazon:a953229d:9",
+     "amazon:a953229d:10",
+     "amazon:a953229d:11"
+    ]
+   },
+   "quote": {
+    "currency": "GBP",
+    "retail_median": 37.98,
+    "retail_ex_vat": 31.65,
+    "fob_importer": 6.95,
+    "fob_retailer": 12.51,
+    "fx_rate": 112.4,
+    "fob_importer_inr": 781.2,
+    "fob_retailer_inr": 1406.1,
+    "unit_cost_inr": 650.0,
+    "total_cost_inr": 710.0,
+    "margin_retailer": 0.495,
+    "margin_importer": 0.091,
+    "verdict": "go",
+    "assumptions": {
+     "vat_rate": 0.2,
+     "retailer_markup": 2.2,
+     "importer_markup": 1.8,
+     "freight_ins_pct": 0.15,
+     "duty_pct": 0.0
+    }
+   },
+   "fx_rate": 112.4,
+   "hs_code": "9405.50",
+   "duty_pct": 0.0,
+   "duty_detail": "0% under the India–UK CETA",
+   "duty_note": "In force since 15 Jul 2026; needs a valid proof of origin (sample note).",
+   "duty_sources": [
+    "https://example.com/sample/duty/uk"
+   ],
+   "last_verified": "2026-09-30",
+   "trends_interest": 100,
+   "review_depth": 6145,
+   "bought_last_month": 2300,
+   "score": {
+    "total": 87.0,
+    "components": {
+     "margin": {
+      "points": 33.0,
+      "max_points": 40.0,
+      "detail": "50% margin at the retailer FOB (£12.51 ≈ ₹1,406) against your ₹710 cost",
+      "evidence_ids": [
+       "google_finance:6ae86c9c:0",
+       "amazon:a953229d:0",
+       "amazon:a953229d:1"
+      ]
+     },
+     "demand": {
+      "points": 26.5,
+      "max_points": 30.0,
+      "detail": "Google Trends interest 100/100; 6,145 reviews on the top Amazon results",
+      "evidence_ids": [
+       "google_trends:77a76f28:0",
+       "amazon:a953229d:0",
+       "amazon:a953229d:1"
+      ]
+     },
+     "trade_access": {
+      "points": 20.0,
+      "max_points": 20.0,
+      "detail": "0% under the India–UK CETA (HS 9405.50)",
+      "evidence_ids": []
+     },
+     "data_depth": {
+      "points": 7.5,
+      "max_points": 10.0,
+      "detail": "12 priced Amazon listings",
+      "evidence_ids": [
+       "amazon:a953229d:0",
+       "amazon:a953229d:1",
+       "amazon:a953229d:2"
+      ]
+     }
+    }
+   },
+   "thin_data": false,
+   "evidence_ids": [
+    "amazon:a953229d:0",
+    "amazon:a953229d:1",
+    "amazon:a953229d:2",
+    "amazon:a953229d:3",
+    "amazon:a953229d:4",
+    "amazon:a953229d:5",
+    "amazon:a953229d:6",
+    "amazon:a953229d:7",
+    "amazon:a953229d:8",
+    "amazon:a953229d:9",
+    "amazon:a953229d:10",
+    "amazon:a953229d:11",
+    "google_finance:6ae86c9c:0",
+    "google_trends:77a76f28:0"
+   ]
+  },
+  {
+   "code": "au",
+   "label": "Australia",
+   "short_label": "AU",
+   "currency": "AUD",
+   "keyword": "brass hurricane lantern",
+   "is_home": false,
+   "listings_n": 12,
+   "ladder": {
+    "currency": "AUD",
+    "n": 12,
+    "min": 49.95,
+    "p25": 63.71,
+    "p50": 75.97,
+    "p75": 86.23,
+    "max": 119.95,
+    "by_channel": {
+     "amazon": {
+      "n": 12,
+      "p25": 63.71,
+      "p50": 75.97,
+      "p75": 86.23
+     }
+    },
+    "evidence_ids": [
+     "amazon:aa74b5c6:0",
+     "amazon:aa74b5c6:1",
+     "amazon:aa74b5c6:2",
+     "amazon:aa74b5c6:3",
+     "amazon:aa74b5c6:4",
+     "amazon:aa74b5c6:5",
+     "amazon:aa74b5c6:6",
+     "amazon:aa74b5c6:7",
+     "amazon:aa74b5c6:8",
+     "amazon:aa74b5c6:9",
+     "amazon:aa74b5c6:10",
+     "amazon:aa74b5c6:11"
+    ]
+   },
+   "quote": {
+    "currency": "AUD",
+    "retail_median": 75.97,
+    "retail_ex_vat": 69.06,
+    "fob_importer": 14.78,
+    "fob_retailer": 26.6,
+    "fx_rate": 57.8,
+    "fob_importer_inr": 854.3,
+    "fob_retailer_inr": 1537.5,
+    "unit_cost_inr": 650.0,
+    "total_cost_inr": 710.0,
+    "margin_retailer": 0.538,
+    "margin_importer": 0.169,
+    "verdict": "go",
+    "assumptions": {
+     "vat_rate": 0.1,
+     "retailer_markup": 2.2,
+     "importer_markup": 1.8,
+     "freight_ins_pct": 0.18,
+     "duty_pct": 0.0
+    }
+   },
+   "fx_rate": 57.8,
+   "hs_code": "9405.50",
+   "duty_pct": 0.0,
+   "duty_detail": "0% under the India–Australia ECTA",
+   "duty_note": "Every tariff line is duty-free for Indian goods from 1 Jan 2026, with a certificate of origin (sample note).",
+   "duty_sources": [
+    "https://example.com/sample/duty/au"
+   ],
+   "last_verified": "2026-10-01",
+   "trends_interest": 62,
+   "review_depth": 2480,
+   "bought_last_month": 900,
+   "score": {
+    "total": 77.3,
+    "components": {
+     "margin": {
+      "points": 35.9,
+      "max_points": 40.0,
+      "detail": "54% margin at the retailer FOB (A$26.60 ≈ ₹1,538) against your ₹710 cost",
+      "evidence_ids": [
+       "google_finance:a8bc1be1:0",
+       "amazon:aa74b5c6:0",
+       "amazon:aa74b5c6:1"
+      ]
+     },
+     "demand": {
+      "points": 13.9,
+      "max_points": 30.0,
+      "detail": "Google Trends interest 62/100; 2,480 reviews on the top Amazon results",
+      "evidence_ids": [
+       "google_trends:77a76f28:0",
+       "amazon:aa74b5c6:0",
+       "amazon:aa74b5c6:1"
+      ]
+     },
+     "trade_access": {
+      "points": 20.0,
+      "max_points": 20.0,
+      "detail": "0% under the India–Australia ECTA (HS 9405.50)",
+      "evidence_ids": []
+     },
+     "data_depth": {
+      "points": 7.5,
+      "max_points": 10.0,
+      "detail": "12 priced Amazon listings",
+      "evidence_ids": [
+       "amazon:aa74b5c6:0",
+       "amazon:aa74b5c6:1",
+       "amazon:aa74b5c6:2"
+      ]
+     }
+    }
+   },
+   "thin_data": false,
+   "evidence_ids": [
+    "amazon:aa74b5c6:0",
+    "amazon:aa74b5c6:1",
+    "amazon:aa74b5c6:2",
+    "amazon:aa74b5c6:3",
+    "amazon:aa74b5c6:4",
+    "amazon:aa74b5c6:5",
+    "amazon:aa74b5c6:6",
+    "amazon:aa74b5c6:7",
+    "amazon:aa74b5c6:8",
+    "amazon:aa74b5c6:9",
+    "amazon:aa74b5c6:10",
+    "amazon:aa74b5c6:11",
+    "google_finance:a8bc1be1:0",
+    "google_trends:77a76f28:0"
+   ]
+  },
+  {
+   "code": "de",
+   "label": "Germany",
+   "short_label": "DE",
+   "currency": "EUR",
+   "keyword": "Windlicht Messing",
+   "is_home": false,
+   "listings_n": 14,
+   "ladder": {
+    "currency": "EUR",
+    "n": 14,
+    "min": 22.99,
+    "p25": 30.49,
+    "p50": 35.49,
+    "p75": 42.24,
+    "max": 54.99,
+    "by_channel": {
+     "amazon": {
+      "n": 14,
+      "p25": 30.49,
+      "p50": 35.49,
+      "p75": 42.24
+     }
+    },
+    "evidence_ids": [
+     "amazon:f786664d:0",
+     "amazon:f786664d:1",
+     "amazon:f786664d:2",
+     "amazon:f786664d:3",
+     "amazon:f786664d:4",
+     "amazon:f786664d:5",
+     "amazon:f786664d:6",
+     "amazon:f786664d:7",
+     "amazon:f786664d:8",
+     "amazon:f786664d:9",
+     "amazon:f786664d:10",
+     "amazon:f786664d:11",
+     "amazon:f786664d:12",
+     "amazon:f786664d:13"
+    ]
+   },
+   "quote": {
+    "currency": "EUR",
+    "retail_median": 35.49,
+    "retail_ex_vat": 29.82,
+    "fob_importer": 6.4,
+    "fob_retailer": 11.52,
+    "fx_rate": 97.5,
+    "fob_importer_inr": 624.0,
+    "fob_retailer_inr": 1123.2,
+    "unit_cost_inr": 650.0,
+    "total_cost_inr": 710.0,
+    "margin_retailer": 0.368,
+    "margin_importer": -0.138,
+    "verdict": "go",
+    "assumptions": {
+     "vat_rate": 0.19,
+     "retailer_markup": 2.2,
+     "importer_markup": 1.8,
+     "freight_ins_pct": 0.15,
+     "duty_pct": 0.027
+    }
+   },
+   "fx_rate": 97.5,
+   "hs_code": "9405.50",
+   "duty_pct": 0.027,
+   "duty_detail": "2.7% EU third-country duty",
+   "duty_note": "The India–EU FTA is concluded but not in force yet (sample note).",
+   "duty_sources": [
+    "https://example.com/sample/duty/de"
+   ],
+   "last_verified": "2026-10-01",
+   "trends_interest": 18,
+   "review_depth": 1310,
+   "bought_last_month": 400,
+   "score": {
+    "total": 55.8,
+    "components": {
+     "margin": {
+      "points": 24.5,
+      "max_points": 40.0,
+      "detail": "37% margin at the retailer FOB (€11.52 ≈ ₹1,123) against your ₹710 cost",
+      "evidence_ids": [
+       "google_finance:dd7c0db3:0",
+       "amazon:f786664d:0",
+       "amazon:f786664d:1"
+      ]
+     },
+     "demand": {
+      "points": 5.2,
+      "max_points": 30.0,
+      "detail": "Google Trends interest 18/100; 1,310 reviews on the top Amazon results",
+      "evidence_ids": [
+       "google_trends:77a76f28:0",
+       "amazon:f786664d:0",
+       "amazon:f786664d:1"
+      ]
+     },
+     "trade_access": {
+      "points": 17.3,
+      "max_points": 20.0,
+      "detail": "2.7% EU third-country duty (HS 9405.50)",
+      "evidence_ids": []
+     },
+     "data_depth": {
+      "points": 8.8,
+      "max_points": 10.0,
+      "detail": "14 priced Amazon listings",
+      "evidence_ids": [
+       "amazon:f786664d:0",
+       "amazon:f786664d:1",
+       "amazon:f786664d:2"
+      ]
+     }
+    }
+   },
+   "thin_data": false,
+   "evidence_ids": [
+    "amazon:f786664d:0",
+    "amazon:f786664d:1",
+    "amazon:f786664d:2",
+    "amazon:f786664d:3",
+    "amazon:f786664d:4",
+    "amazon:f786664d:5",
+    "amazon:f786664d:6",
+    "amazon:f786664d:7",
+    "amazon:f786664d:8",
+    "amazon:f786664d:9",
+    "amazon:f786664d:10",
+    "amazon:f786664d:11",
+    "amazon:f786664d:12",
+    "amazon:f786664d:13",
+    "google_finance:dd7c0db3:0",
+    "google_trends:77a76f28:0"
+   ]
+  },
+  {
+   "code": "ae",
+   "label": "United Arab Emirates",
+   "short_label": "UAE",
+   "currency": "AED",
+   "keyword": "brass hurricane lantern",
+   "is_home": false,
+   "listings_n": 4,
+   "ladder": {
+    "currency": "AED",
+    "n": 4,
+    "min": 89.0,
+    "p25": 111.5,
+    "p50": 132.0,
+    "p75": 158.5,
+    "max": 199.0,
+    "by_channel": {
+     "amazon": {
+      "n": 4,
+      "p25": 111.5,
+      "p50": 132.0,
+      "p75": 158.5
+     }
+    },
+    "evidence_ids": [
+     "amazon:5cf41304:0",
+     "amazon:5cf41304:1",
+     "amazon:5cf41304:2",
+     "amazon:5cf41304:3"
+    ]
+   },
+   "quote": {
+    "currency": "AED",
+    "retail_median": 132.0,
+    "retail_ex_vat": 125.71,
+    "fob_importer": 28.86,
+    "fob_retailer": 51.95,
+    "fx_rate": 24.1,
+    "fob_importer_inr": 695.5,
+    "fob_retailer_inr": 1252.0,
+    "unit_cost_inr": 650.0,
+    "total_cost_inr": 710.0,
+    "margin_retailer": 0.433,
+    "margin_importer": -0.021,
+    "verdict": "go",
+    "assumptions": {
+     "vat_rate": 0.05,
+     "retailer_markup": 2.2,
+     "importer_markup": 1.8,
+     "freight_ins_pct": 0.1,
+     "duty_pct": 0.0
+    }
+   },
+   "fx_rate": 24.1,
+   "hs_code": "9405.50",
+   "duty_pct": 0.0,
+   "duty_detail": "0% under the India–UAE CEPA",
+   "duty_note": "Needs a valid certificate of origin; the standard duty is 5% (sample note).",
+   "duty_sources": [
+    "https://example.com/sample/duty/ae"
+   ],
+   "last_verified": "2026-10-01",
+   "trends_interest": 24,
+   "review_depth": 140,
+   "bought_last_month": null,
+   "score": {
+    "total": 55.3,
+    "components": {
+     "margin": {
+      "points": 28.9,
+      "max_points": 40.0,
+      "detail": "43% margin at the retailer FOB (AED 51.95 ≈ ₹1,252) against your ₹710 cost",
+      "evidence_ids": [
+       "google_finance:1fe5a63b:0",
+       "amazon:5cf41304:0",
+       "amazon:5cf41304:1"
+      ]
+     },
+     "demand": {
+      "points": 3.9,
+      "max_points": 30.0,
+      "detail": "Google Trends interest 24/100; 140 reviews on the top Amazon results",
+      "evidence_ids": [
+       "google_trends:77a76f28:0",
+       "amazon:5cf41304:0",
+       "amazon:5cf41304:1"
+      ]
+     },
+     "trade_access": {
+      "points": 20.0,
+      "max_points": 20.0,
+      "detail": "0% under the India–UAE CEPA (HS 9405.50)",
+      "evidence_ids": []
+     },
+     "data_depth": {
+      "points": 2.5,
+      "max_points": 10.0,
+      "detail": "4 priced Amazon listings: thin data, treat the median as rough",
+      "evidence_ids": [
+       "amazon:5cf41304:0",
+       "amazon:5cf41304:1",
+       "amazon:5cf41304:2"
+      ]
+     }
+    }
+   },
+   "thin_data": true,
+   "evidence_ids": [
+    "amazon:5cf41304:0",
+    "amazon:5cf41304:1",
+    "amazon:5cf41304:2",
+    "amazon:5cf41304:3",
+    "google_finance:1fe5a63b:0",
+    "google_trends:77a76f28:0"
+   ]
+  },
+  {
+   "code": "us",
+   "label": "United States",
+   "short_label": "US",
+   "currency": "USD",
+   "keyword": "brass hurricane lantern",
+   "is_home": false,
+   "listings_n": 16,
+   "ladder": {
+    "currency": "USD",
+    "n": 16,
+    "min": 18.99,
+    "p25": 23.36,
+    "p50": 27.49,
+    "p75": 32.74,
+    "max": 44.99,
+    "by_channel": {
+     "amazon": {
+      "n": 16,
+      "p25": 23.36,
+      "p50": 27.49,
+      "p75": 32.74
+     }
+    },
+    "evidence_ids": [
+     "amazon:14a8ef29:0",
+     "amazon:14a8ef29:1",
+     "amazon:14a8ef29:2",
+     "amazon:14a8ef29:3",
+     "amazon:14a8ef29:4",
+     "amazon:14a8ef29:5",
+     "amazon:14a8ef29:6",
+     "amazon:14a8ef29:7",
+     "amazon:14a8ef29:8",
+     "amazon:14a8ef29:9",
+     "amazon:14a8ef29:10",
+     "amazon:14a8ef29:11",
+     "amazon:14a8ef29:12",
+     "amazon:14a8ef29:13",
+     "amazon:14a8ef29:14",
+     "amazon:14a8ef29:15"
+    ]
+   },
+   "quote": {
+    "currency": "USD",
+    "retail_median": 27.49,
+    "retail_ex_vat": 27.49,
+    "fob_importer": 5.19,
+    "fob_retailer": 9.35,
+    "fx_rate": 88.2,
+    "fob_importer_inr": 457.8,
+    "fob_retailer_inr": 824.7,
+    "unit_cost_inr": 650.0,
+    "total_cost_inr": 710.0,
+    "margin_retailer": 0.139,
+    "margin_importer": -0.551,
+    "verdict": "tight",
+    "assumptions": {
+     "vat_rate": 0.0,
+     "retailer_markup": 2.2,
+     "importer_markup": 1.8,
+     "freight_ins_pct": 0.18,
+     "duty_pct": 0.157
+    }
+   },
+   "fx_rate": 88.2,
+   "hs_code": "9405.50",
+   "duty_pct": 0.157,
+   "duty_detail": "10% Section 301 + 5.7% normal duty",
+   "duty_note": "Normal US duty for the HS line plus the 10% Section 301 duty on Indian goods (sample note).",
+   "duty_sources": [
+    "https://example.com/sample/duty/us"
+   ],
+   "last_verified": "2026-10-01",
+   "trends_interest": 55,
+   "review_depth": 9840,
+   "bought_last_month": 3100,
+   "score": {
+    "total": 46.8,
+    "components": {
+     "margin": {
+      "points": 9.3,
+      "max_points": 40.0,
+      "detail": "14% margin at the retailer FOB ($9.35 ≈ ₹825) against your ₹710 cost",
+      "evidence_ids": [
+       "google_finance:1c0be2e4:0",
+       "amazon:14a8ef29:0",
+       "amazon:14a8ef29:1"
+      ]
+     },
+     "demand": {
+      "points": 23.2,
+      "max_points": 30.0,
+      "detail": "Google Trends interest 55/100; 9,840 reviews on the top Amazon results",
+      "evidence_ids": [
+       "google_trends:77a76f28:0",
+       "amazon:14a8ef29:0",
+       "amazon:14a8ef29:1"
+      ]
+     },
+     "trade_access": {
+      "points": 4.3,
+      "max_points": 20.0,
+      "detail": "10% Section 301 + 5.7% normal duty (HS 9405.50)",
+      "evidence_ids": []
+     },
+     "data_depth": {
+      "points": 10.0,
+      "max_points": 10.0,
+      "detail": "16 priced Amazon listings",
+      "evidence_ids": [
+       "amazon:14a8ef29:0",
+       "amazon:14a8ef29:1",
+       "amazon:14a8ef29:2"
+      ]
+     }
+    }
+   },
+   "thin_data": false,
+   "evidence_ids": [
+    "amazon:14a8ef29:0",
+    "amazon:14a8ef29:1",
+    "amazon:14a8ef29:2",
+    "amazon:14a8ef29:3",
+    "amazon:14a8ef29:4",
+    "amazon:14a8ef29:5",
+    "amazon:14a8ef29:6",
+    "amazon:14a8ef29:7",
+    "amazon:14a8ef29:8",
+    "amazon:14a8ef29:9",
+    "amazon:14a8ef29:10",
+    "amazon:14a8ef29:11",
+    "amazon:14a8ef29:12",
+    "amazon:14a8ef29:13",
+    "amazon:14a8ef29:14",
+    "amazon:14a8ef29:15",
+    "google_finance:1c0be2e4:0",
+    "google_trends:77a76f28:0"
+   ]
+  }
+ ],
  "headline": "Brass hurricane lantern → United Kingdom: GO (74/100) · sample data",
- "summary_md": "**Brass hurricane lanterns sell for £23–£89 in the UK**, with a median of £42.50 across 25 listings [ev:amazon:a953229d:0] [ev:google_shopping:a825e508:1]. Working back through VAT, markups and freight gives a quote range of **£7.78–£14.00 FOB**, at GBP-INR 112.40 [ev:google_finance:6ae86c9c:0].\n\nUK interest peaks October–December and is up year on year [ev:google_trends:0b56b091:0]. Two of the six top Amazon products checked are made in India [ev:amazon_product:b060435a:0], so Indian lanterns already sell here. The most common complaint is tarnishing [ev:amazon_product:3760fc2a:0]; offering an anti-tarnish lacquer is an easy edge.\n\nThe top buyer, Sample Lantern House, runs UK ads and has a trade-account page [ev:amazon:a953229d:10]. Homeware news mentions new independent stores opening [ev:google_news:70105df2:0].\n\n_Sample data for UI development: every name and number here is fictional._",
+ "summary_md": "**Brass hurricane lanterns sell for £23–£89 in the UK**, with a median of £42.50 across 25 listings [ev:amazon:a953229d:0] [ev:google_shopping:a825e508:1]. Working back through VAT, markups and freight gives a quote range of **£7.78–£14.00 FOB**, at GBP-INR 112.40 [ev:google_finance:6ae86c9c:0].\n\nUK interest peaks October–December and is up year on year [ev:google_trends:0b56b091:0]. Two of the six top Amazon products checked are made in India [ev:amazon_product:b060435a:0], so Indian lanterns already sell here. The most common complaint is tarnishing [ev:amazon_product:3760fc2a:0]; offering an anti-tarnish lacquer is an easy edge.\n\nThe top buyer, Sample Lantern House, runs UK ads and has a trade-account page [ev:amazon:a953229d:10]. Homeware news mentions new independent stores opening [ev:google_news:70105df2:0], and Sample Lantern House is hiring a lighting buyer [ev:google_jobs:20ea640f:0].\n\nOutside the UK, a quick Amazon scan ranks Australia next: about 54% margin at the retailer FOB, and duty is 0% under the India–Australia ECTA [ev:amazon:aa74b5c6:0].\n\n_Sample data for UI development: every name and number here is fictional._",
  "spec_improvements": [
   "Offer anti-tarnish lacquer coating and include care instructions.",
   "Use double-wall cartons with moulded pulp inserts; drop-test to ISTA 1A.",
@@ -2549,6 +3276,42 @@
    "query": "ebay ebay_domain=\"ebay.co.uk\" _nkw=\"brass hurricane lantern\""
   },
   {
+   "id": "google_jobs:20ea640f:0",
+   "engine": "google_jobs",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Sample Lantern House is hiring: Lighting Buyer",
+   "url": "https://example.com/sample/jobs/0",
+   "snippet": "London, UK · 5 days ago · via LinkedIn",
+   "query": "google_jobs q=\"lighting buyer\" location=\"United Kingdom\""
+  },
+  {
+   "id": "google_jobs:3d4b1357:1",
+   "engine": "google_jobs",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Example Home Group is hiring: Assistant Homeware Buyer",
+   "url": "https://example.com/sample/jobs/1",
+   "snippet": "Manchester, UK · 2 days ago · via Indeed",
+   "query": "google_jobs q=\"homeware buyer\" location=\"United Kingdom\""
+  },
+  {
+   "id": "google_jobs:3d4b1357:2",
+   "engine": "google_jobs",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Imaginary Recruitment Partners is hiring: Senior Buyer, Home Accessories",
+   "url": "https://example.com/sample/jobs/2",
+   "snippet": "London, UK · 1 day ago · via Reed",
+   "query": "google_jobs q=\"homeware buyer\" location=\"United Kingdom\""
+  },
+  {
+   "id": "google_jobs:3d4b1357:3",
+   "engine": "google_jobs",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Placeholder Living is hiring: Product Developer, Home Décor",
+   "url": "https://example.com/sample/jobs/3",
+   "snippet": "Leeds, UK · 3 weeks ago · via Totaljobs",
+   "query": "google_jobs q=\"homeware buyer\" location=\"United Kingdom\""
+  },
+  {
    "id": "google:36d5c3a6:0",
    "engine": "google",
    "fetched_at": "2026-09-30T09:15:00+00:00",
@@ -2664,6 +3427,465 @@
    "url": "https://example.com/sample/ads/4",
    "snippet": null,
    "query": "google_ads_transparency_center text=\"placeholderhome.example\" region=\"2826\""
+  },
+  {
+   "id": "google_trends:77a76f28:0",
+   "engine": "google_trends",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Interest by country: brass hurricane lantern (sample)",
+   "url": "https://example.com/sample/trends/countries",
+   "snippet": null,
+   "query": "google_trends q=\"brass hurricane lantern\" data_type=\"GEO_MAP_0\" date=\"today 12-m\""
+  },
+  {
+   "id": "amazon:14a8ef29:0",
+   "engine": "amazon",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Sample brass lantern listing 1 (amazon.com)",
+   "url": "https://example.com/sample/amazon-us/0",
+   "snippet": null,
+   "query": "amazon amazon_domain=\"amazon.com\" k=\"brass hurricane lantern\""
+  },
+  {
+   "id": "amazon:14a8ef29:1",
+   "engine": "amazon",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Sample brass lantern listing 2 (amazon.com)",
+   "url": "https://example.com/sample/amazon-us/1",
+   "snippet": null,
+   "query": "amazon amazon_domain=\"amazon.com\" k=\"brass hurricane lantern\""
+  },
+  {
+   "id": "amazon:14a8ef29:2",
+   "engine": "amazon",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Sample brass lantern listing 3 (amazon.com)",
+   "url": "https://example.com/sample/amazon-us/2",
+   "snippet": null,
+   "query": "amazon amazon_domain=\"amazon.com\" k=\"brass hurricane lantern\""
+  },
+  {
+   "id": "amazon:14a8ef29:3",
+   "engine": "amazon",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Sample brass lantern listing 4 (amazon.com)",
+   "url": "https://example.com/sample/amazon-us/3",
+   "snippet": null,
+   "query": "amazon amazon_domain=\"amazon.com\" k=\"brass hurricane lantern\""
+  },
+  {
+   "id": "amazon:14a8ef29:4",
+   "engine": "amazon",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Sample brass lantern listing 5 (amazon.com)",
+   "url": "https://example.com/sample/amazon-us/4",
+   "snippet": null,
+   "query": "amazon amazon_domain=\"amazon.com\" k=\"brass hurricane lantern\""
+  },
+  {
+   "id": "amazon:14a8ef29:5",
+   "engine": "amazon",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Sample brass lantern listing 6 (amazon.com)",
+   "url": "https://example.com/sample/amazon-us/5",
+   "snippet": null,
+   "query": "amazon amazon_domain=\"amazon.com\" k=\"brass hurricane lantern\""
+  },
+  {
+   "id": "amazon:14a8ef29:6",
+   "engine": "amazon",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Sample brass lantern listing 7 (amazon.com)",
+   "url": "https://example.com/sample/amazon-us/6",
+   "snippet": null,
+   "query": "amazon amazon_domain=\"amazon.com\" k=\"brass hurricane lantern\""
+  },
+  {
+   "id": "amazon:14a8ef29:7",
+   "engine": "amazon",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Sample brass lantern listing 8 (amazon.com)",
+   "url": "https://example.com/sample/amazon-us/7",
+   "snippet": null,
+   "query": "amazon amazon_domain=\"amazon.com\" k=\"brass hurricane lantern\""
+  },
+  {
+   "id": "amazon:14a8ef29:8",
+   "engine": "amazon",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Sample brass lantern listing 9 (amazon.com)",
+   "url": "https://example.com/sample/amazon-us/8",
+   "snippet": null,
+   "query": "amazon amazon_domain=\"amazon.com\" k=\"brass hurricane lantern\""
+  },
+  {
+   "id": "amazon:14a8ef29:9",
+   "engine": "amazon",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Sample brass lantern listing 10 (amazon.com)",
+   "url": "https://example.com/sample/amazon-us/9",
+   "snippet": null,
+   "query": "amazon amazon_domain=\"amazon.com\" k=\"brass hurricane lantern\""
+  },
+  {
+   "id": "amazon:14a8ef29:10",
+   "engine": "amazon",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Sample brass lantern listing 11 (amazon.com)",
+   "url": "https://example.com/sample/amazon-us/10",
+   "snippet": null,
+   "query": "amazon amazon_domain=\"amazon.com\" k=\"brass hurricane lantern\""
+  },
+  {
+   "id": "amazon:14a8ef29:11",
+   "engine": "amazon",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Sample brass lantern listing 12 (amazon.com)",
+   "url": "https://example.com/sample/amazon-us/11",
+   "snippet": null,
+   "query": "amazon amazon_domain=\"amazon.com\" k=\"brass hurricane lantern\""
+  },
+  {
+   "id": "amazon:14a8ef29:12",
+   "engine": "amazon",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Sample brass lantern listing 13 (amazon.com)",
+   "url": "https://example.com/sample/amazon-us/12",
+   "snippet": null,
+   "query": "amazon amazon_domain=\"amazon.com\" k=\"brass hurricane lantern\""
+  },
+  {
+   "id": "amazon:14a8ef29:13",
+   "engine": "amazon",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Sample brass lantern listing 14 (amazon.com)",
+   "url": "https://example.com/sample/amazon-us/13",
+   "snippet": null,
+   "query": "amazon amazon_domain=\"amazon.com\" k=\"brass hurricane lantern\""
+  },
+  {
+   "id": "amazon:14a8ef29:14",
+   "engine": "amazon",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Sample brass lantern listing 15 (amazon.com)",
+   "url": "https://example.com/sample/amazon-us/14",
+   "snippet": null,
+   "query": "amazon amazon_domain=\"amazon.com\" k=\"brass hurricane lantern\""
+  },
+  {
+   "id": "amazon:14a8ef29:15",
+   "engine": "amazon",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Sample brass lantern listing 16 (amazon.com)",
+   "url": "https://example.com/sample/amazon-us/15",
+   "snippet": null,
+   "query": "amazon amazon_domain=\"amazon.com\" k=\"brass hurricane lantern\""
+  },
+  {
+   "id": "google_finance:1c0be2e4:0",
+   "engine": "google_finance",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "USD / INR (sample rate)",
+   "url": "https://example.com/sample/finance/usd-inr",
+   "snippet": null,
+   "query": "google_finance q=\"USD-INR\""
+  },
+  {
+   "id": "amazon:f786664d:0",
+   "engine": "amazon",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Sample brass lantern listing 1 (amazon.de)",
+   "url": "https://example.com/sample/amazon-de/0",
+   "snippet": null,
+   "query": "amazon amazon_domain=\"amazon.de\" k=\"Windlicht Messing\""
+  },
+  {
+   "id": "amazon:f786664d:1",
+   "engine": "amazon",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Sample brass lantern listing 2 (amazon.de)",
+   "url": "https://example.com/sample/amazon-de/1",
+   "snippet": null,
+   "query": "amazon amazon_domain=\"amazon.de\" k=\"Windlicht Messing\""
+  },
+  {
+   "id": "amazon:f786664d:2",
+   "engine": "amazon",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Sample brass lantern listing 3 (amazon.de)",
+   "url": "https://example.com/sample/amazon-de/2",
+   "snippet": null,
+   "query": "amazon amazon_domain=\"amazon.de\" k=\"Windlicht Messing\""
+  },
+  {
+   "id": "amazon:f786664d:3",
+   "engine": "amazon",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Sample brass lantern listing 4 (amazon.de)",
+   "url": "https://example.com/sample/amazon-de/3",
+   "snippet": null,
+   "query": "amazon amazon_domain=\"amazon.de\" k=\"Windlicht Messing\""
+  },
+  {
+   "id": "amazon:f786664d:4",
+   "engine": "amazon",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Sample brass lantern listing 5 (amazon.de)",
+   "url": "https://example.com/sample/amazon-de/4",
+   "snippet": null,
+   "query": "amazon amazon_domain=\"amazon.de\" k=\"Windlicht Messing\""
+  },
+  {
+   "id": "amazon:f786664d:5",
+   "engine": "amazon",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Sample brass lantern listing 6 (amazon.de)",
+   "url": "https://example.com/sample/amazon-de/5",
+   "snippet": null,
+   "query": "amazon amazon_domain=\"amazon.de\" k=\"Windlicht Messing\""
+  },
+  {
+   "id": "amazon:f786664d:6",
+   "engine": "amazon",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Sample brass lantern listing 7 (amazon.de)",
+   "url": "https://example.com/sample/amazon-de/6",
+   "snippet": null,
+   "query": "amazon amazon_domain=\"amazon.de\" k=\"Windlicht Messing\""
+  },
+  {
+   "id": "amazon:f786664d:7",
+   "engine": "amazon",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Sample brass lantern listing 8 (amazon.de)",
+   "url": "https://example.com/sample/amazon-de/7",
+   "snippet": null,
+   "query": "amazon amazon_domain=\"amazon.de\" k=\"Windlicht Messing\""
+  },
+  {
+   "id": "amazon:f786664d:8",
+   "engine": "amazon",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Sample brass lantern listing 9 (amazon.de)",
+   "url": "https://example.com/sample/amazon-de/8",
+   "snippet": null,
+   "query": "amazon amazon_domain=\"amazon.de\" k=\"Windlicht Messing\""
+  },
+  {
+   "id": "amazon:f786664d:9",
+   "engine": "amazon",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Sample brass lantern listing 10 (amazon.de)",
+   "url": "https://example.com/sample/amazon-de/9",
+   "snippet": null,
+   "query": "amazon amazon_domain=\"amazon.de\" k=\"Windlicht Messing\""
+  },
+  {
+   "id": "amazon:f786664d:10",
+   "engine": "amazon",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Sample brass lantern listing 11 (amazon.de)",
+   "url": "https://example.com/sample/amazon-de/10",
+   "snippet": null,
+   "query": "amazon amazon_domain=\"amazon.de\" k=\"Windlicht Messing\""
+  },
+  {
+   "id": "amazon:f786664d:11",
+   "engine": "amazon",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Sample brass lantern listing 12 (amazon.de)",
+   "url": "https://example.com/sample/amazon-de/11",
+   "snippet": null,
+   "query": "amazon amazon_domain=\"amazon.de\" k=\"Windlicht Messing\""
+  },
+  {
+   "id": "amazon:f786664d:12",
+   "engine": "amazon",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Sample brass lantern listing 13 (amazon.de)",
+   "url": "https://example.com/sample/amazon-de/12",
+   "snippet": null,
+   "query": "amazon amazon_domain=\"amazon.de\" k=\"Windlicht Messing\""
+  },
+  {
+   "id": "amazon:f786664d:13",
+   "engine": "amazon",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Sample brass lantern listing 14 (amazon.de)",
+   "url": "https://example.com/sample/amazon-de/13",
+   "snippet": null,
+   "query": "amazon amazon_domain=\"amazon.de\" k=\"Windlicht Messing\""
+  },
+  {
+   "id": "google_finance:dd7c0db3:0",
+   "engine": "google_finance",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "EUR / INR (sample rate)",
+   "url": "https://example.com/sample/finance/eur-inr",
+   "snippet": null,
+   "query": "google_finance q=\"EUR-INR\""
+  },
+  {
+   "id": "amazon:5cf41304:0",
+   "engine": "amazon",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Sample brass lantern listing 1 (amazon.ae)",
+   "url": "https://example.com/sample/amazon-ae/0",
+   "snippet": null,
+   "query": "amazon amazon_domain=\"amazon.ae\" k=\"brass hurricane lantern\""
+  },
+  {
+   "id": "amazon:5cf41304:1",
+   "engine": "amazon",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Sample brass lantern listing 2 (amazon.ae)",
+   "url": "https://example.com/sample/amazon-ae/1",
+   "snippet": null,
+   "query": "amazon amazon_domain=\"amazon.ae\" k=\"brass hurricane lantern\""
+  },
+  {
+   "id": "amazon:5cf41304:2",
+   "engine": "amazon",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Sample brass lantern listing 3 (amazon.ae)",
+   "url": "https://example.com/sample/amazon-ae/2",
+   "snippet": null,
+   "query": "amazon amazon_domain=\"amazon.ae\" k=\"brass hurricane lantern\""
+  },
+  {
+   "id": "amazon:5cf41304:3",
+   "engine": "amazon",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Sample brass lantern listing 4 (amazon.ae)",
+   "url": "https://example.com/sample/amazon-ae/3",
+   "snippet": null,
+   "query": "amazon amazon_domain=\"amazon.ae\" k=\"brass hurricane lantern\""
+  },
+  {
+   "id": "google_finance:1fe5a63b:0",
+   "engine": "google_finance",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "AED / INR (sample rate)",
+   "url": "https://example.com/sample/finance/aed-inr",
+   "snippet": null,
+   "query": "google_finance q=\"AED-INR\""
+  },
+  {
+   "id": "amazon:aa74b5c6:0",
+   "engine": "amazon",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Sample brass lantern listing 1 (amazon.com.au)",
+   "url": "https://example.com/sample/amazon-au/0",
+   "snippet": null,
+   "query": "amazon amazon_domain=\"amazon.com.au\" k=\"brass hurricane lantern\""
+  },
+  {
+   "id": "amazon:aa74b5c6:1",
+   "engine": "amazon",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Sample brass lantern listing 2 (amazon.com.au)",
+   "url": "https://example.com/sample/amazon-au/1",
+   "snippet": null,
+   "query": "amazon amazon_domain=\"amazon.com.au\" k=\"brass hurricane lantern\""
+  },
+  {
+   "id": "amazon:aa74b5c6:2",
+   "engine": "amazon",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Sample brass lantern listing 3 (amazon.com.au)",
+   "url": "https://example.com/sample/amazon-au/2",
+   "snippet": null,
+   "query": "amazon amazon_domain=\"amazon.com.au\" k=\"brass hurricane lantern\""
+  },
+  {
+   "id": "amazon:aa74b5c6:3",
+   "engine": "amazon",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Sample brass lantern listing 4 (amazon.com.au)",
+   "url": "https://example.com/sample/amazon-au/3",
+   "snippet": null,
+   "query": "amazon amazon_domain=\"amazon.com.au\" k=\"brass hurricane lantern\""
+  },
+  {
+   "id": "amazon:aa74b5c6:4",
+   "engine": "amazon",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Sample brass lantern listing 5 (amazon.com.au)",
+   "url": "https://example.com/sample/amazon-au/4",
+   "snippet": null,
+   "query": "amazon amazon_domain=\"amazon.com.au\" k=\"brass hurricane lantern\""
+  },
+  {
+   "id": "amazon:aa74b5c6:5",
+   "engine": "amazon",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Sample brass lantern listing 6 (amazon.com.au)",
+   "url": "https://example.com/sample/amazon-au/5",
+   "snippet": null,
+   "query": "amazon amazon_domain=\"amazon.com.au\" k=\"brass hurricane lantern\""
+  },
+  {
+   "id": "amazon:aa74b5c6:6",
+   "engine": "amazon",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Sample brass lantern listing 7 (amazon.com.au)",
+   "url": "https://example.com/sample/amazon-au/6",
+   "snippet": null,
+   "query": "amazon amazon_domain=\"amazon.com.au\" k=\"brass hurricane lantern\""
+  },
+  {
+   "id": "amazon:aa74b5c6:7",
+   "engine": "amazon",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Sample brass lantern listing 8 (amazon.com.au)",
+   "url": "https://example.com/sample/amazon-au/7",
+   "snippet": null,
+   "query": "amazon amazon_domain=\"amazon.com.au\" k=\"brass hurricane lantern\""
+  },
+  {
+   "id": "amazon:aa74b5c6:8",
+   "engine": "amazon",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Sample brass lantern listing 9 (amazon.com.au)",
+   "url": "https://example.com/sample/amazon-au/8",
+   "snippet": null,
+   "query": "amazon amazon_domain=\"amazon.com.au\" k=\"brass hurricane lantern\""
+  },
+  {
+   "id": "amazon:aa74b5c6:9",
+   "engine": "amazon",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Sample brass lantern listing 10 (amazon.com.au)",
+   "url": "https://example.com/sample/amazon-au/9",
+   "snippet": null,
+   "query": "amazon amazon_domain=\"amazon.com.au\" k=\"brass hurricane lantern\""
+  },
+  {
+   "id": "amazon:aa74b5c6:10",
+   "engine": "amazon",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Sample brass lantern listing 11 (amazon.com.au)",
+   "url": "https://example.com/sample/amazon-au/10",
+   "snippet": null,
+   "query": "amazon amazon_domain=\"amazon.com.au\" k=\"brass hurricane lantern\""
+  },
+  {
+   "id": "amazon:aa74b5c6:11",
+   "engine": "amazon",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "Sample brass lantern listing 12 (amazon.com.au)",
+   "url": "https://example.com/sample/amazon-au/11",
+   "snippet": null,
+   "query": "amazon amazon_domain=\"amazon.com.au\" k=\"brass hurricane lantern\""
+  },
+  {
+   "id": "google_finance:a8bc1be1:0",
+   "engine": "google_finance",
+   "fetched_at": "2026-09-30T09:15:00+00:00",
+   "title": "AUD / INR (sample rate)",
+   "url": "https://example.com/sample/finance/aud-inr",
+   "snippet": null,
+   "query": "google_finance q=\"AUD-INR\""
   }
  ],
  "steps": [
@@ -2673,7 +3895,7 @@
    "message": "Found 14 UK look-alikes (£22–£89). Keywords: brass hurricane lantern, gold metal lantern",
    "status": "done",
    "credits_used": 1,
-   "ts": "2026-09-30T10:20:15+00:00"
+   "ts": "2026-09-30T20:53:28+00:00"
   },
   {
    "step": 2,
@@ -2681,7 +3903,7 @@
    "message": "Interest peaks Oct–Dec; up year on year; strongest in London & South East",
    "status": "done",
    "credits_used": 5,
-   "ts": "2026-09-30T10:20:15+00:00"
+   "ts": "2026-09-30T20:53:28+00:00"
   },
   {
    "step": 3,
@@ -2689,7 +3911,7 @@
    "message": "Median £42.50 across 25 listings",
    "status": "done",
    "credits_used": 10,
-   "ts": "2026-09-30T10:20:15+00:00"
+   "ts": "2026-09-30T20:53:28+00:00"
   },
   {
    "step": 4,
@@ -2697,7 +3919,7 @@
    "message": "Of 6 products checked, 2 made in India, 3 in China, 1 unknown",
    "status": "done",
    "credits_used": 16,
-   "ts": "2026-09-30T10:20:15+00:00"
+   "ts": "2026-09-30T20:53:28+00:00"
   },
   {
    "step": 5,
@@ -2705,37 +3927,45 @@
    "message": "Top complaint: tarnishing (31%), then broken in transit (22%)",
    "status": "done",
    "credits_used": 16,
-   "ts": "2026-09-30T10:20:15+00:00"
+   "ts": "2026-09-30T20:53:28+00:00"
   },
   {
    "step": 6,
    "name": "Buyers",
-   "message": "11 candidates → 5 after dedupe",
+   "message": "11 candidates → 5 after dedupe; 4 buying-role job ads",
    "status": "done",
-   "credits_used": 21,
-   "ts": "2026-09-30T10:20:15+00:00"
+   "credits_used": 23,
+   "ts": "2026-09-30T20:53:28+00:00"
   },
   {
    "step": 7,
    "name": "Enrich",
    "message": "Enriched top 5 buyers (Search, Ads Transparency, News)",
    "status": "done",
-   "credits_used": 31,
-   "ts": "2026-09-30T10:20:15+00:00"
+   "credits_used": 33,
+   "ts": "2026-09-30T20:53:28+00:00"
   },
   {
    "step": 8,
-   "name": "Write",
-   "message": "Brief ready · 31 credits used",
+   "name": "Markets",
+   "message": "Quick Amazon scan of 4 more markets: Australia next (54% margin); US duty 15.7%",
    "status": "done",
-   "credits_used": 31,
-   "ts": "2026-09-30T10:20:15+00:00"
+   "credits_used": 42,
+   "ts": "2026-09-30T20:53:28+00:00"
+  },
+  {
+   "step": 9,
+   "name": "Write",
+   "message": "Brief ready · 42 credits used",
+   "status": "done",
+   "credits_used": 42,
+   "ts": "2026-09-30T20:53:28+00:00"
   }
  ],
  "warnings": [
   "SAMPLE DATA: this brief is fictional and exists only for UI development.",
   "Only 6 Amazon products were checked for country of origin; treat the India share as a rough signal."
  ],
- "credits_used": 31,
+ "credits_used": 42,
  "created_at": "2026-09-30T09:15:00+00:00"
 }

@@ -1,4 +1,4 @@
-"""The ExportScout agent: plan §5 steps 1-8 with follow-up rules and a credit budget.
+"""The ExportScout agent: steps 1-9 with follow-up rules and a credit budget.
 
 The app calls ``make_clients`` and ``run_scout``. Searches inside a step run in parallel
 threads; step-log events are always emitted from the calling thread (Streamlit needs that).
@@ -22,7 +22,9 @@ from exportscout.models import (
     Brief,
     BuyerCandidate,
     EvidenceStore,
+    JobPosting,
     Listing,
+    MarketRow,
     ProductDetail,
     ProductIdentity,
     RunInputs,
@@ -31,13 +33,14 @@ from exportscout.models import (
 from exportscout.pipeline import buyers as buyer_pipeline
 from exportscout.pipeline import demand as demand_pipeline
 from exportscout.pipeline import identify, origin, prices, reviews, scoring
+from exportscout.pipeline import markets as market_pipeline
 from exportscout.serp import engines
 from exportscout.serp.client import BudgetExceeded, CacheMiss, SerpApiError, SerpClient, env_api_key
 
 REPO_ROOT = Path(__file__).resolve().parents[2]
 DEMO_DIR = REPO_ROOT / "demo_cache"
 CACHE_DIR = REPO_ROOT / ".cache"
-DEFAULT_BUDGET = 35
+DEFAULT_BUDGET = 45
 
 MIN_PRICED_LOOKALIKES = 5
 STEADY_SHARE = 0.6  # share of weeks with non-zero Trends interest
@@ -51,6 +54,10 @@ MAX_BUYERS = 15
 MAX_TAGGED = 25
 NOT_BUYERS = ("marketplace", "not_a_buyer")
 MAX_PITCHES = 5
+JOB_QUERIES = 2
+MAX_HIRING_CHECKS = 2  # companies hiring a buyer that get checked even when their discovery data is thin
+# Held back from enrichment for Market Compare: 4 Amazon searches + 1 Trends + 4 FX rates.
+MARKETS_RESERVE = 9
 
 T = TypeVar("T")
 
@@ -176,7 +183,7 @@ class _Run:
 def _money(value: float | None, currency: str) -> str:
     if value is None:
         return "n/a"
-    symbol = {"GBP": "£", "USD": "$", "EUR": "€", "INR": "₹"}.get(currency, currency + " ")
+    symbol = {"GBP": "£", "USD": "$", "EUR": "€", "INR": "₹", "AUD": "A$", "AED": "AED "}.get(currency, currency + " ")
     return f"{symbol}{value:,.0f}" if currency == "INR" else f"{symbol}{value:,.2f}"
 
 
@@ -193,9 +200,11 @@ def run_scout(
     serp: SerpClient,
     llm: LLM | None,
     on_event: Callable[[StepEvent], None] | None = None,
+    compare_markets: bool = True,
 ) -> Brief:
     """Run the full pipeline and return the Brief. ``on_event`` is called from the calling
-    thread for every step-log line (safe for Streamlit)."""
+    thread for every step-log line (safe for Streamlit). ``compare_markets`` adds the quick
+    scan of the other markets in ``compare_with`` (step 8)."""
     if not (inputs.image_path or inputs.image_url or inputs.description):
         raise ValueError("Upload a product photo or describe the product.")
     cat = category(inputs.category)
@@ -206,7 +215,7 @@ def run_scout(
 
     product, lens = _identify(run, serp, llm, ev, mkt, cat, inputs)
     demand = _demand(run, serp, ev, mkt, cat, product)
-    listings, amazon, ebay, fx = _prices(run, serp, ev, mkt, product, lens)
+    listings, amazon, ebay, fx, amazon_first = _prices(run, serp, ev, mkt, product, lens)
 
     ladder = prices.price_ladder(listings, cur)
     quote = None
@@ -244,11 +253,18 @@ def run_scout(
     else:
         run.log(5, "Reviews", f"{len(snippets)} reviews read; no clear complaint themes.", status="skipped" if not snippets else "done")
 
-    candidates = _discover(run, serp, ev, mkt, cat, product, listings, products, demand)
+    compare = compare_markets and bool(mkt.get("compare_with"))
+    candidates, postings = _discover(run, serp, ev, mkt, cat, product, listings, products, demand)
     # Rank on discovery data, then let the LLM weed out marketplaces and non-buyers
     # before any enrichment credits are spent on them.
-    shortlist = tasks.tag_buyers(llm, _rank(candidates, product, ladder, quote)[:MAX_TAGGED], product)
+    ranked_all = _rank(candidates, product, ladder, quote)
+    shortlist = tasks.tag_buyers(llm, ranked_all[:MAX_TAGGED], product)
     shortlist = _drop_non_buyers(run, shortlist)
+    # Follow-up rule: a company hiring a buyer right now gets a check even when its discovery
+    # data is thin (tagged on its own, so the main shortlist's tags don't change).
+    hiring = _hiring_picks(ranked_all[MAX_TAGGED:], postings, _job_queries(product, cat)[1:])
+    if hiring:
+        hiring = _drop_non_buyers(run, tasks.tag_buyers(llm, hiring, product))
     price_below_cost = quote is not None and quote.verdict == "no_go"
     if price_below_cost:
         run.warn(
@@ -258,7 +274,8 @@ def run_scout(
             "Consider premium positioning (handmade / antique finish at the upper price band) or another market.",
         )
     else:
-        shortlist = _merge_by_domain(_enrich(run, serp, ev, mkt, product, shortlist))
+        reserve = MARKETS_RESERVE if compare else 0
+        shortlist = _merge_by_domain(_enrich(run, serp, ev, mkt, product, shortlist, reserve=reserve, extra=hiring))
 
     ranked = _rank(shortlist, product, ladder, quote)[:MAX_BUYERS]
     if any(c.enriched for c in ranked):
@@ -268,6 +285,11 @@ def run_scout(
     score = scoring.market_score(
         demand=demand, quote=quote, origin=origin_share, buyers=ranked, listings=listings, market=mkt
     )
+    rows: list[MarketRow] = []
+    if compare:
+        rows = _markets(run, serp, ev, llm, mkt, cat, product, inputs, amazon_first, fx, demand, quote)
+    else:
+        run.log(8, "Markets", "Market Compare switched off.", status="skipped")
     verdict = (quote.verdict if quote else "unknown").replace("_", "-").upper()
     brief = Brief(
         inputs=inputs,
@@ -281,7 +303,9 @@ def run_scout(
         origin=origin_share,
         themes=themes,
         buyers=ranked,
+        jobs=postings,
         market_score=score,
+        markets=rows,
         headline=f"{product.product_type[:1].upper()}{product.product_type[1:]} → {mkt['label']}: {verdict} ({score.total:.0f}/100)",
         evidence=ev.all(),
         warnings=run.warnings,
@@ -291,7 +315,7 @@ def run_scout(
     text = tasks.write_brief(llm, brief)
     pitches = tasks.write_pitches(llm, brief, ranked[:MAX_PITCHES])
     good = sum(1 for b in ranked if (b.fit_score or 0) >= scoring.GOOD_FIT)
-    run.log(8, "Write", f"Brief ready · {len(ranked)} buyers ranked ({good} strong fits) · {serp.credits_used} credits used")
+    run.log(9, "Write", f"Brief ready · {len(ranked)} buyers ranked ({good} strong fits) · {serp.credits_used} credits used")
     return brief.model_copy(
         update={
             "summary_md": text.summary_md,
@@ -431,8 +455,9 @@ def _pick_term(series, terms: list[str]) -> str | None:
 
 def _prices(
     run: _Run, serp: SerpClient, ev: EvidenceStore, mkt: dict, product: ProductIdentity, lens: list[Listing]
-) -> tuple[list[Listing], list[Listing], list[Listing], float | None]:
-    """Step 3: retail price ladder from Shopping, Amazon, eBay (+ priced Lens matches) and FX."""
+) -> tuple[list[Listing], list[Listing], list[Listing], float | None, list[Listing]]:
+    """Step 3: retail price ladder from Shopping, Amazon, eBay (+ priced Lens matches) and FX.
+    Also returns the first-keyword Amazon results, which Market Compare uses for the home row."""
     kws = product.keywords[:2]
     # In priority order, so a tight budget drops the second keyword first.
     jobs: dict[str, Callable[[], Any]] = {
@@ -458,7 +483,7 @@ def _prices(
     ebay = _dedupe_listings(got.get("eBay", []))
     shopping = _dedupe_listings([l for k, v in got.items() if k.startswith("Shopping") for l in v])
     listings = _dedupe_listings(_priced(lens, mkt["currency"]) + shopping + amazon + ebay)
-    return listings, amazon, ebay, fx
+    return listings, amazon, ebay, fx, _dedupe_listings(got.get("Amazon 0", []))
 
 
 def _origin(
@@ -508,13 +533,18 @@ def _discover(
     listings: list[Listing],
     products: list[ProductDetail],
     demand,
-) -> list[BuyerCandidate]:
-    """Step 6: buyer candidates from merchants/brands already seen + Google + Maps sweeps."""
+) -> tuple[list[BuyerCandidate], list[JobPosting]]:
+    """Step 6: buyer candidates from merchants/brands already seen + Google + Google Jobs + Maps
+    sweeps. Also returns the buying/sourcing job ads found."""
     queries = buyer_pipeline.discovery_queries(product, mkt, cat)[:DISCOVERY_QUERIES]
+    job_queries = _job_queries(product, cat) if mkt.get("jobs_location") else []
     cities = _maps_cities(mkt, demand)
     jobs: dict[str, Callable[[], Any]] = {}
     for i, q in enumerate(queries):
         jobs[f"web {i}"] = lambda q=q: engines.web_results(serp, ev, mkt, q)
+    # Before Maps, so a tight budget keeps the hiring signal.
+    for i, q in enumerate(job_queries):
+        jobs[f"jobs {i}"] = lambda q=q: engines.job_postings(serp, ev, mkt, q)
     maps_q = cat["maps_queries"][0]
     for city in cities:
         jobs[f"maps {city['name']}"] = lambda city=city: engines.maps_places(
@@ -525,10 +555,13 @@ def _discover(
         # Keep credits for enrichment of at least two buyers.
         jobs = dict(list(jobs.items())[: max(0, remaining - 2 * CREDITS_PER_ENRICH)])
     where = ", ".join(c["name"] for c in cities)
-    run.log(6, "Buyers", f"Finding UK buyers: {len(queries)} Google searches + Maps sweeps in {where}…", status="running")
+    hiring = ", Google Jobs for " + ", ".join(f"“{q}”" for q in job_queries) if job_queries else ""
+    run.log(6, "Buyers", f"Finding UK buyers: {len(queries)} Google searches{hiring} + Maps sweeps in {where}…", status="running")
     got = run.parallel(6, "Buyers", jobs, [])
     web = [r for k, v in got.items() if k.startswith("web") for r in v]
     places = [p for k, v in got.items() if k.startswith("maps") for p in v]
+    found = [j for k, v in got.items() if k.startswith("jobs") for j in v]
+    postings = _dedupe_jobs(buyer_pipeline.group_companies(buyer_pipeline.mark_recruiters(found, cat)))
     candidates = buyer_pipeline.discover_candidates(
         listings=listings,
         web=web,
@@ -537,19 +570,40 @@ def _discover(
         products=products,
         product=product,
         currency=mkt["currency"],
+        jobs=postings,
     )
     multi = sum(1 for c in candidates if len(c.sources) >= 2)
-    run.log(6, "Buyers", f"{len(candidates)} candidate buyers after dedupe ({multi} seen in 2+ engines)")
-    return candidates
+    msg = f"{len(candidates)} candidate buyers after dedupe ({multi} seen in 2+ engines)"
+    if job_queries:
+        hiring_now = {j.company for j in postings if not j.is_recruiter}
+        msg += f" · {len(hiring_now)} companies hiring buyers now"
+    run.log(6, "Buyers", msg)
+    return candidates, postings
 
 
 def _enrich(
-    run: _Run, serp: SerpClient, ev: EvidenceStore, mkt: dict, product: ProductIdentity, candidates: list[BuyerCandidate]
+    run: _Run,
+    serp: SerpClient,
+    ev: EvidenceStore,
+    mkt: dict,
+    product: ProductIdentity,
+    candidates: list[BuyerCandidate],
+    *,
+    reserve: int = 0,
+    extra: list[BuyerCandidate] | None = None,
 ) -> list[BuyerCandidate]:
-    """Step 7: spend the remaining budget on the most promising buyers."""
+    """Step 7: spend the remaining budget, less ``reserve`` for later steps, on the most promising
+    buyers, then on ``extra`` (companies hiring a buyer) while the budget allows. Returns
+    ``candidates`` + ``extra``, enriched where checked."""
+    extra = [c for c in extra or [] if not c.is_giant]
+    candidates = candidates + extra
     remaining = run.remaining()
+    if remaining is not None:
+        remaining = max(0, remaining - reserve)
     k = MAX_ENRICH if remaining is None else max(0, min(MAX_ENRICH, (remaining - 1) // CREDITS_PER_ENRICH))
-    picked = buyer_pipeline.rank_for_enrichment(candidates, k) if k else []
+    picked = buyer_pipeline.rank_for_enrichment([c for c in candidates if c not in extra], k) if k else []
+    room = len(extra) if remaining is None else max(0, (remaining - 1) // CREDITS_PER_ENRICH - len(picked))
+    picked += [c for c in extra if c not in picked][:room]
     if not picked:
         run.log(7, "Enrich", "No budget or candidates left for enrichment.", status="skipped")
         return candidates
@@ -574,7 +628,148 @@ def _enrich(
     return out
 
 
+def _markets(
+    run: _Run,
+    serp: SerpClient,
+    ev: EvidenceStore,
+    llm: LLM | None,
+    mkt: dict,
+    cat: dict,
+    product: ProductIdentity,
+    inputs: RunInputs,
+    amazon_home: list[Listing],
+    fx_home: float | None,
+    demand,
+    quote,
+) -> list[MarketRow]:
+    """Step 8: Market Compare. One Amazon search per other market, its FX rate, and one Trends
+    request for interest by country; each market is worked back to a FOB range and ranked."""
+    codes = [c for c in mkt.get("compare_with") or [] if c != inputs.market]
+    others = {code: market(code) for code in codes}
+    keywords = {
+        code: tasks.market_keyword(llm, product, m["keyword_language"], cat) if m.get("keyword_language") else product.keywords[0]
+        for code, m in others.items()
+    }
+    term = demand.term if demand is not None else None
+    world = market_pipeline.world_market(cat)
+    hs = market_pipeline.hs_hint(product, cat)
+
+    # One market at a time (Amazon, then its FX rate), so a tight budget drops whole markets.
+    jobs: dict[str, Callable[[], Any]] = {}
+    for code, m in others.items():
+        jobs[f"Amazon {code}"] = lambda m=m, k=keywords[code]: engines.amazon_listings(serp, ev, m, k)
+        jobs[f"FX {code}"] = lambda m=m: engines.fx_rate(serp, ev, m["fx_pair"])
+    if term:
+        jobs["Trends"] = lambda: engines.trends_regions(serp, ev, world, term, resolution="COUNTRY")
+    remaining = run.remaining()
+    if remaining is not None and remaining < len(jobs):
+        jobs = dict(list(jobs.items())[:remaining])
+    if not jobs:
+        run.log(8, "Markets", "Skipped (budget).", status="skipped")
+        return []
+    names = ", ".join(m["label"] for m in others.values())
+    also = f"; Trends interest by country for “{term}”" if term else ""
+    run.log(8, "Markets", f"Comparing other markets: Amazon in {names}{also}…", status="running")
+    got = run.parallel(8, "Markets", jobs, None)
+
+    trends = {r.region: r for r in (got.get("Trends") or [])}
+    rows = [
+        market_pipeline.build_row(
+            inputs.market,
+            mkt,
+            amazon_home,
+            keyword=product.keywords[0],
+            fx=fx_home,
+            unit_cost_inr=inputs.unit_cost_inr,
+            extra_costs_inr=inputs.extra_costs_inr,
+            hs=hs,
+            trends=trends.get(mkt["label"]),
+            is_home=True,
+            overrides=inputs.assumption_overrides or None,
+            evidence_ids=_fx_evidence(ev, mkt["fx_pair"]),
+        )
+    ]
+    for code, m in others.items():
+        if f"Amazon {code}" not in got:
+            continue
+        rows.append(
+            market_pipeline.build_row(
+                code,
+                m,
+                got.get(f"Amazon {code}") or [],
+                keyword=keywords[code],
+                fx=got.get(f"FX {code}"),
+                unit_cost_inr=inputs.unit_cost_inr,
+                extra_costs_inr=inputs.extra_costs_inr,
+                hs=hs,
+                trends=trends.get(m["label"]),
+                evidence_ids=_fx_evidence(ev, m["fx_pair"]),
+            )
+        )
+    ranked = market_pipeline.rank_markets(rows, trends_term=term)
+    parts = []
+    for r in ranked:
+        margin = r.quote.margin_retailer if r.quote else None
+        parts.append(f"{r.short_label or r.label} {_pct(margin)}" + (f" ({_pct(r.duty_pct)} duty)" if r.duty_pct else ""))
+    run.log(8, "Markets", "Margin at retailer FOB: " + " · ".join(parts))
+    best = market_pipeline.best_alternative(ranked)
+    if quote is not None and quote.verdict == "no_go":
+        # Follow-up rule: the home market is NO-GO -> point to the best alternative instead.
+        if best is not None and best.quote is not None and best.quote.verdict in ("go", "tight"):
+            margin = best.quote.margin_retailer
+            run.warn(8, "Markets", f"{mkt['label']} is NO-GO at this cost; the best alternative is {best.label} ({_pct(margin)} margin).")
+        else:
+            run.warn(8, "Markets", "No other market clears your cost either: consider premium positioning or a lower unit cost.")
+    elif best is not None:
+        fit = f" ({best.score.total:.0f}/100 Market Fit)" if best.score else ""
+        run.log(8, "Markets", f"Best other market: {best.label}{fit}")
+    return ranked
+
+
 # --------------------------------------------------------------------------- helpers
+
+
+def _job_queries(product: ProductIdentity, cat: dict) -> list[str]:
+    """The category's Google Jobs queries plus one for the product type (first matching word)."""
+    queries = list(cat.get("job_queries") or [])
+    words = identify.tokens(product.product_type)
+    for key, q in (cat.get("job_queries_by_type") or {}).items():
+        if key in words:
+            queries.append(q)
+            break
+    return list(dict.fromkeys(queries))[:JOB_QUERIES]
+
+
+def _hiring_picks(
+    candidates: list[BuyerCandidate], postings: list[JobPosting], specific_queries: list[str]
+) -> list[BuyerCandidate]:
+    """Up to MAX_HIRING_CHECKS candidates with a hiring signal (no giants): ads found by the
+    product-type query first, then the most recent."""
+    by_eid = {j.evidence_id: j for j in postings}
+
+    def order(c: BuyerCandidate) -> tuple:
+        jobs = [by_eid[s.evidence_id] for s in c.signals if s.kind == "hiring" and s.evidence_id in by_eid]
+        specific = any(j.query in specific_queries for j in jobs)
+        days = min((j.posted_days for j in jobs if j.posted_days is not None), default=None)
+        return (not specific, days is None, days or 0.0)
+
+    hiring = [c for c in candidates if not c.is_giant and any(s.kind == "hiring" for s in c.signals)]
+    return sorted(hiring, key=order)[:MAX_HIRING_CHECKS]
+
+
+def _dedupe_jobs(postings: list[JobPosting]) -> list[JobPosting]:
+    seen: set[tuple[str, str]] = set()
+    out = []
+    for j in postings:
+        key = (j.company.lower(), j.title.lower())
+        if key not in seen:
+            seen.add(key)
+            out.append(j)
+    return out
+
+
+def _fx_evidence(ev: EvidenceStore, pair: str) -> list[str]:
+    return [e.id for e in ev.all() if e.engine == "google_finance" and pair in e.title][:1]
 
 
 def _rank(

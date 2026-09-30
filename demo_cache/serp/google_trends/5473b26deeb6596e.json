@@ -1,0 +1,310 @@
+{
+ "engine": "google_trends",
+ "params": {
+  "q": "candle lantern",
+  "date": "today 5-y",
+  "data_type": "GEO_MAP_0",
+  "cat": "11",
+  "region": "COUNTRY"
+ },
+ "fetched_at": "2026-09-30T20:37:54+00:00",
+ "data": {
+  "search_metadata": {
+   "id": "6abd7320f2593ac07e76fc08",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/oCyktaf_w4SeQwy4ljcSo9IpSBbU-hOUdxJD4IbLYX0/6abd7320f2593ac07e76fc08.json",
+   "markdown_endpoint": "https://serpapi.com/searches/oCyktaf_w4SeQwy4ljcSo9IpSBbU-hOUdxJD4IbLYX0/6abd7320f2593ac07e76fc08.md",
+   "created_at": "2026-09-30 20:37:52 UTC",
+   "processed_at": "2026-09-30 20:37:52 UTC",
+   "google_trends_url": "https://trends.google.com/trends/embed/explore/GEO_MAP?hl=en&tz=420&req=%7B%22comparisonItem%22%3A%5B%7B%22keyword%22%3A%22candle+lantern%22%2C%22geo%22%3A%22%22%2C%22time%22%3A%22today+5-y%22%7D%5D%2C%22category%22%3A%2211%22%2C%22property%22%3A%22%22%7D",
+   "raw_html_file": "https://serpapi.com/searches/oCyktaf_w4SeQwy4ljcSo9IpSBbU-hOUdxJD4IbLYX0/6abd7320f2593ac07e76fc08.html",
+   "prettify_html_file": "https://serpapi.com/searches/oCyktaf_w4SeQwy4ljcSo9IpSBbU-hOUdxJD4IbLYX0/6abd7320f2593ac07e76fc08.prettify",
+   "total_time_taken": 1.56
+  },
+  "search_parameters": {
+   "engine": "google_trends",
+   "q": "candle lantern",
+   "hl": "en",
+   "cat": "11",
+   "date": "today 5-y",
+   "tz": "420",
+   "data_type": "GEO_MAP_0",
+   "region": "COUNTRY"
+  },
+  "interest_by_region": [
+   {
+    "geo": "SH",
+    "location": "St. Helena",
+    "max_value_index": 0,
+    "value": "100",
+    "extracted_value": 100
+   },
+   {
+    "geo": "GB",
+    "location": "United Kingdom",
+    "max_value_index": 0,
+    "value": "68",
+    "extracted_value": 68
+   },
+   {
+    "geo": "IE",
+    "location": "Ireland",
+    "max_value_index": 0,
+    "value": "40",
+    "extracted_value": 40
+   },
+   {
+    "geo": "AU",
+    "location": "Australia",
+    "max_value_index": 0,
+    "value": "36",
+    "extracted_value": 36
+   },
+   {
+    "geo": "US",
+    "location": "United States",
+    "max_value_index": 0,
+    "value": "36",
+    "extracted_value": 36
+   },
+   {
+    "geo": "NZ",
+    "location": "New Zealand",
+    "max_value_index": 0,
+    "value": "28",
+    "extracted_value": 28
+   },
+   {
+    "geo": "CA",
+    "location": "Canada",
+    "max_value_index": 0,
+    "value": "24",
+    "extracted_value": 24
+   },
+   {
+    "geo": "AE",
+    "location": "United Arab Emirates",
+    "max_value_index": 0,
+    "value": "12",
+    "extracted_value": 12
+   },
+   {
+    "geo": "ZA",
+    "location": "South Africa",
+    "max_value_index": 0,
+    "value": "12",
+    "extracted_value": 12
+   },
+   {
+    "geo": "SG",
+    "location": "Singapore",
+    "max_value_index": 0,
+    "value": "12",
+    "extracted_value": 12
+   },
+   {
+    "geo": "PH",
+    "location": "Philippines",
+    "max_value_index": 0,
+    "value": "8",
+    "extracted_value": 8
+   },
+   {
+    "geo": "SE",
+    "location": "Sweden",
+    "max_value_index": 0,
+    "value": "4",
+    "extracted_value": 4
+   },
+   {
+    "geo": "HK",
+    "location": "Hong Kong",
+    "max_value_index": 0,
+    "value": "4",
+    "extracted_value": 4
+   },
+   {
+    "geo": "NL",
+    "location": "Netherlands",
+    "max_value_index": 0,
+    "value": "4",
+    "extracted_value": 4
+   },
+   {
+    "geo": "FI",
+    "location": "Finland",
+    "max_value_index": 0,
+    "value": "4",
+    "extracted_value": 4
+   },
+   {
+    "geo": "NO",
+    "location": "Norway",
+    "max_value_index": 0,
+    "value": "4",
+    "extracted_value": 4
+   },
+   {
+    "geo": "MY",
+    "location": "Malaysia",
+    "max_value_index": 0,
+    "value": "4",
+    "extracted_value": 4
+   },
+   {
+    "geo": "BD",
+    "location": "Bangladesh",
+    "max_value_index": 0,
+    "value": "4",
+    "extracted_value": 4
+   },
+   {
+    "geo": "PK",
+    "location": "Pakistan",
+    "max_value_index": 0,
+    "value": "4",
+    "extracted_value": 4
+   },
+   {
+    "geo": "IN",
+    "location": "India",
+    "max_value_index": 0,
+    "value": "4",
+    "extracted_value": 4
+   },
+   {
+    "geo": "KR",
+    "location": "South Korea",
+    "max_value_index": 0,
+    "value": "4",
+    "extracted_value": 4
+   },
+   {
+    "geo": "DK",
+    "location": "Denmark",
+    "max_value_index": 0,
+    "value": "<1",
+    "extracted_value": 0
+   },
+   {
+    "geo": "GR",
+    "location": "Greece",
+    "max_value_index": 0,
+    "value": "<1",
+    "extracted_value": 0
+   },
+   {
+    "geo": "DE",
+    "location": "Germany",
+    "max_value_index": 0,
+    "value": "<1",
+    "extracted_value": 0
+   },
+   {
+    "geo": "VN",
+    "location": "Vietnam",
+    "max_value_index": 0,
+    "value": "<1",
+    "extracted_value": 0
+   },
+   {
+    "geo": "TH",
+    "location": "Thailand",
+    "max_value_index": 0,
+    "value": "<1",
+    "extracted_value": 0
+   },
+   {
+    "geo": "UA",
+    "location": "Ukraine",
+    "max_value_index": 0,
+    "value": "<1",
+    "extracted_value": 0
+   },
+   {
+    "geo": "SA",
+    "location": "Saudi Arabia",
+    "max_value_index": 0,
+    "value": "<1",
+    "extracted_value": 0
+   },
+   {
+    "geo": "PL",
+    "location": "Poland",
+    "max_value_index": 0,
+    "value": "<1",
+    "extracted_value": 0
+   },
+   {
+    "geo": "TW",
+    "location": "Taiwan",
+    "max_value_index": 0,
+    "value": "<1",
+    "extracted_value": 0
+   },
+   {
+    "geo": "ES",
+    "location": "Spain",
+    "max_value_index": 0,
+    "value": "<1",
+    "extracted_value": 0
+   },
+   {
+    "geo": "FR",
+    "location": "France",
+    "max_value_index": 0,
+    "value": "<1",
+    "extracted_value": 0
+   },
+   {
+    "geo": "ID",
+    "location": "Indonesia",
+    "max_value_index": 0,
+    "value": "<1",
+    "extracted_value": 0
+   },
+   {
+    "geo": "MX",
+    "location": "Mexico",
+    "max_value_index": 0,
+    "value": "<1",
+    "extracted_value": 0
+   },
+   {
+    "geo": "RU",
+    "location": "Russia",
+    "max_value_index": 0,
+    "value": "<1",
+    "extracted_value": 0
+   },
+   {
+    "geo": "IT",
+    "location": "Italy",
+    "max_value_index": 0,
+    "value": "<1",
+    "extracted_value": 0
+   },
+   {
+    "geo": "TR",
+    "location": "Türkiye",
+    "max_value_index": 0,
+    "value": "<1",
+    "extracted_value": 0
+   },
+   {
+    "geo": "JP",
+    "location": "Japan",
+    "max_value_index": 0,
+    "value": "<1",
+    "extracted_value": 0
+   },
+   {
+    "geo": "BR",
+    "location": "Brazil",
+    "max_value_index": 0,
+    "value": "<1",
+    "extracted_value": 0
+   }
+  ]
+ }
+}

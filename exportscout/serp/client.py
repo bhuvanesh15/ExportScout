@@ -42,6 +42,7 @@ TTL_HOURS: dict[str, float] = {
     "ebay": 72,
     "google_shopping": 72,
     "google_ads_transparency_center": 72,
+    "google_jobs": 72,
     "amazon_product": 168,
     "google": 168,
     "google_trends": 168,
@@ -53,6 +54,12 @@ DEFAULT_TTL_HOURS = 72.0
 
 # Params that don't change the result, so they are left out of the cache key.
 _KEY_EXCLUDED = {"api_key", "no_cache", "async", "output"}
+
+# Job ads can quote a recruiter's email or phone: these are removed before a response is
+# cached or recorded, so only company-level data is ever stored.
+SCRUB_CONTACTS_ENGINES = {"google_jobs"}
+_EMAIL = re.compile(r"[\w.+-]+@[\w-]+(?:\.[\w-]+)+")
+_PHONE = re.compile(r"\+?\d[\d\s().-]{7,}\d")
 
 # SerpApi reports "no results" as an error, but it is a valid empty answer worth caching.
 _EMPTY_RESULT_MARKER = "hasn't returned any results"
@@ -123,6 +130,27 @@ def redact_text(text: str, secret: str) -> str:
 def redact(obj: Any, secret: str) -> Any:
     """Remove the API key from any string inside a JSON-like object."""
     return json.loads(redact_text(json.dumps(obj, ensure_ascii=False), secret))
+
+
+def scrub_contacts(obj: Any) -> Any:
+    """Replace email addresses and phone numbers in the text of a JSON-like object.
+    URLs and link/token fields are left alone: their long digit runs are IDs, not phone numbers."""
+    if isinstance(obj, str):
+        if obj.startswith(("http://", "https://")):
+            return obj
+        return _PHONE.sub("[phone]", _EMAIL.sub("[email]", obj))
+    if isinstance(obj, list):
+        return [scrub_contacts(x) for x in obj]
+    if isinstance(obj, dict):
+        return {k: v if _is_link_key(k) else scrub_contacts(v) for k, v in obj.items()}
+    return obj
+
+
+def _is_link_key(key: str) -> bool:
+    k = key.lower()
+    return k.startswith("search_") or k.endswith("_at") or any(
+        part in k for part in ("link", "url", "token", "thumbnail", "_id", "serpapi")
+    )
 
 
 def prepare_image(raw: bytes, limit: int = MAX_UPLOAD_BYTES) -> tuple[bytes, str]:
@@ -306,7 +334,10 @@ class SerpClient:
             with self._lock:
                 self.credits_used -= 1
             raise
-        return SerpResponse(engine, norm, redact(data, self.api_key), _now(), "network", key)
+        data = redact(data, self.api_key)
+        if engine in SCRUB_CONTACTS_ENGINES:
+            data = scrub_contacts(data)
+        return SerpResponse(engine, norm, data, _now(), "network", key)
 
     def _request(self, method: str, url: str, **kwargs: Any) -> dict[str, Any]:
         """HTTP call with retries on network errors and 5xx. Error messages never contain the key."""

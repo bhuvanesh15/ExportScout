@@ -4,8 +4,8 @@
 
 ![Python](https://img.shields.io/badge/python-3.11%2B-3776AB?logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/UI-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
-![SerpApi](https://img.shields.io/badge/data-SerpApi%20%C2%B7%2012%20engines-2E7D32)
-![Tests](https://img.shields.io/badge/tests-295%20passing-brightgreen)
+![SerpApi](https://img.shields.io/badge/data-SerpApi%20%C2%B7%2013%20engines-2E7D32)
+![Tests](https://img.shields.io/badge/tests-373%20passing-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
 <!-- live-demo: add the Streamlit Community Cloud URL here after deploying -->
@@ -15,8 +15,9 @@ ExportScout helps a small Moradabad brassware exporter sell into the UK now that
 - a **FOB quote range** with a **Go / Tight / No-go** margin verdict
 - a **Market Opportunity Score**
 - the **top customer complaints**, turned into spec fixes
-- a **ranked list of UK buyers**, where every point links to the search result behind it
+- a **ranked list of UK buyers**, including companies hiring a buyer right now, where every point links to the search result behind it
 - a **pitch email** for each buyer
+- a **Market Compare** of the same product in the US, Germany, the UAE and Australia, after each market's duty: where to sell next
 
 SerpApi India Hackathon 2026 · Track 04: Commerce & Market Intelligence.
 
@@ -44,6 +45,8 @@ ExportScout answers these four questions for one product in one new market, usin
 3. **Pitch:** what UK customers complain about that the workshop can fix.
 4. **Timing:** when UK buyers choose their seasonal ranges.
 
+It then checks **where to sell next**: the same product on Amazon in four more markets, each worked back to a FOB range after its own duty.
+
 ## Why now
 
 | Date | Event | Effect on Moradabad |
@@ -68,18 +71,21 @@ We checked all 185 projects in the [BuiltWithSerpApi showcase](https://serpapi.g
 | — | Where competitors' products are made (India / China / other) |
 | — | The top complaints from UK reviews, each turned into a spec fix |
 | — | Ranked UK buyers with a fit score. Every point links to the search result behind it |
+| — | UK companies hiring buyers now: company, role, date and a link to the ad |
 | — | A pitch email per buyer, spec improvements and compliance notes |
+| — | Market Compare: the same product in the US, Germany, the UAE and Australia, each with a FOB range, margin, duty and Market Fit score, ranked |
 | — | An Evidence tab listing every search result used, with its engine and timestamp |
 
-The app has four tabs: **Brief · Buyers · Pitch · Evidence**. You can export the brief as Markdown and the buyers as CSV.
+The app has five tabs: **Brief · Markets · Buyers · Pitch · Evidence**. You can export the brief as Markdown (with the other markets and the companies hiring) and the buyers as CSV.
 
+<!-- screenshot: Markets tab (ranked table, margin-by-market chart, duty notes) -->
 <!-- screenshot: Buyers tab with a buyer expanded (fit breakdown + evidence cards) -->
 <!-- screenshot: Pitch tab -->
 <!-- screenshot: Evidence tab (engine count chart + table) -->
 
 ## How it works
 
-The agent runs eight steps. Each step writes a line to the live step log, and a credit meter shows what the run has spent.
+The agent runs nine steps. Each step writes a line to the live step log, and a credit meter shows what the run has spent.
 
 | # | Step | SerpApi engines |
 |---|---|---|
@@ -88,20 +94,22 @@ The agent runs eight steps. Each step writes a line to the live step log, and a 
 | 3 | **Price ladder:** normalise listings, convert currency, and compute P25/P50/P75 by channel | Google Shopping, Amazon (amazon.co.uk), eBay (ebay.co.uk), Google Finance |
 | 4 | **Origin and competition:** share of products made in India vs China; eBay sellers located in India | Amazon Product, eBay `location` |
 | 5 | **Quality gaps:** cluster review complaints and praise, with counts and quotes | Amazon Product reviews |
-| 6 | **Find buyers:** brands and merchants from steps 3–4, targeted web searches and Maps sweeps (London, Manchester), deduplicated by domain. The LLM then sets aside marketplaces and non-buyers | Google Search, Google Maps, Shopping merchants, Amazon brands |
+| 6 | **Find buyers:** brands and merchants from steps 3–4, targeted web searches, two Google Jobs searches for UK companies hiring buyers, and Maps sweeps (London, Manchester), deduplicated by domain and name. The LLM then sets aside marketplaces and non-buyers | Google Search, Google Jobs (`location=United Kingdom`), Google Maps, Shopping merchants, Amazon brands |
 | 7 | **Enrich buyers:** the top candidates, capped by the budget. Finds the website of merchants that came without one, then checks trade page, "handmade in India" mentions, live UK ads and news | Google Search, Ads Transparency Center, Google News |
-| 8 | **Decide and write:** fixed rules compute the prices and scores. The LLM writes the brief and the pitches, citing evidence IDs | none |
+| 8 | **Markets:** the same product on Amazon in the US, Germany (searched with a German phrase), the UAE and Australia, next to the Amazon UK results from step 3. Each market is worked back to a FOB range with its own VAT, markups, freight and duty, then ranked by a Market Fit score | Amazon (amazon.com, amazon.de, amazon.ae, amazon.com.au), Google Trends (interest by country), Google Finance |
+| 9 | **Decide and write:** fixed rules compute the prices and scores. The LLM writes the brief and the pitches, citing evidence IDs | none |
 
 ### Follow-up rules (what makes it an agent)
 
 - **Few look-alikes:** if Lens returns fewer than 5 priced matches, retry with `type=visual_matches` and the LLM keywords, then fall back to a text search.
 - **Missing origin:** if `country_of_origin` is missing on the top ASINs, check more products. Failing that, use text signals such as "handmade in India".
 - **Brand seen twice:** a brand found in two or more engines moves up the enrichment queue.
+- **Hiring a buyer:** Google Jobs results are kept only for buying and sourcing roles. A company hiring one becomes a buyer candidate, merged by name with the same business from Shopping, Maps or Google, and moves up the enrichment queue. Up to 2 hiring companies outside the shortlist still get a check (website, UK ads) while the budget allows. Name variants of one employer ("QVC, Inc." and "QVC") count once. Recruitment agencies and job boards are shown but never treated as buyers.
 - **Weed out before spending:** the LLM tags each candidate first; marketplaces (Faire, Etsy…) and non-buyers (a TV page called "Lanterns", a manufacturer of its own goods) are set aside before any enrichment credit is spent on them.
 - **Missing website:** Google Shopping names a merchant but not its site, so the agent searches the name, keeps a result whose domain matches it ("Kayu Home" → kayuhome.co.uk), then checks that domain's ads.
-- **Price below cost:** if the FOB ceiling is below your cost, skip buyer enrichment to save credits, and suggest premium positioning or another market instead.
+- **Price below cost:** if the FOB ceiling is below your cost, skip buyer enrichment to save credits. Market Compare still runs, and the brief names the best other market instead. If no market clears your cost, it suggests premium positioning or a lower unit cost.
 - **Low volume:** niche phrases often have no UK Trends volume ("brass hurricane lantern" is 0). The agent compares up to five phrases in one request, filtered to the Home & Garden category so "lantern" doesn't match *Green Lantern* or lantern festivals, keeps the most specific phrase with steady volume (e.g. "candle lantern", which peaks Oct–Dec), and labels it a proxy. A one-word term is tried only as a last resort.
-- **Budget:** every run has a credit budget (default 35). The agent orders enrichment by expected value and stops at the cap.
+- **Budget:** every run has a credit budget (default 45). The agent orders enrichment by expected value, keeps 9 credits back for Market Compare, and stops at the cap.
 
 ### Architecture
 
@@ -112,21 +120,24 @@ flowchart LR
   O --> D[Demand: Trends + Autocomplete]
   O --> P[Price ladder: Shopping + Amazon + eBay + Finance]
   O --> R[Origin + reviews: Amazon Product + eBay location]
-  O --> B[Buyer discovery: Search + Maps + merchants/brands]
+  O --> B[Buyer discovery: Search + Jobs + Maps + merchants/brands]
   B --> E[Enrichment: Search + Ads Transparency + News + Maps]
+  O --> M[Market Compare: Amazon US/DE/AE/AU + Trends by country + Finance]
   I --> S[(SQLite cache + evidence store)]
   D --> S
   P --> S
   R --> S
   E --> S
+  M --> S
   S --> C[Pricing + scoring<br/>deterministic Python]
   C --> L[LLM: brief, pitches<br/>structured + cited]
-  L --> UI[Streamlit: Brief / Buyers / Pitch / Evidence]
+  L --> UI[Streamlit: Brief / Markets / Buyers / Pitch / Evidence]
 ```
 
-- **Plain Python for every number.** Prices, the quote range and both scores are computed by fixed rules, so each one can be explained.
-- **The LLM does four jobs only:**
+- **Plain Python for every number.** Prices, the quote ranges and all three scores are computed by fixed rules, so each one can be explained.
+- **The LLM does five jobs only:**
   - keywords from Lens titles
+  - a German search phrase for Amazon.de (Market Compare)
   - clustering review complaints
   - tagging buyer type and style
   - writing the brief and pitches, where every claim must cite an evidence ID
@@ -142,18 +153,19 @@ flowchart LR
 |---|---|---|
 | `google_lens` | UK look-alike products and their prices | Turns a photo into the UK retail words for the product, with no English vocabulary needed |
 | `google_shopping` | Merchants and prices (`gl=uk`) | Price ladder, plus UK merchants who already sell this style |
-| `amazon` (amazon.co.uk) | Prices, ratings, reviews, `bought_last_month` | Price ladder and a demand signal. Brands become buyer candidates |
+| `amazon` (amazon.co.uk, plus amazon.com, amazon.de, amazon.ae and amazon.com.au) | Prices, ratings, reviews, `bought_last_month` | Price ladder and a demand signal. Brands become buyer candidates. The same search in four more countries feeds Market Compare |
 | `amazon_product` | `country_of_origin`, brand, manufacturer, reviews | Shows whether Indian products already sell here, and what customers complain about |
 | `ebay` (ebay.co.uk) | Prices and seller `location` | Price ladder, and how many listings are shipped from India |
-| `google_trends` | Interest over time and related queries (`geo=GB`, Home & Garden category) | Seasonality, year-on-year growth and the buying window |
+| `google_trends` | Interest over time and related queries (`geo=GB`, Home & Garden category); interest by country (one worldwide `GEO_MAP_0` request) | Seasonality, year-on-year growth and the buying window; demand in each market for Market Compare |
 | `google_autocomplete` | How UK shoppers phrase the product | Better keywords and pitch language |
-| `google_finance` | GBP-INR rate | Converts the FOB range into ₹ to compare with your cost |
+| `google_finance` | GBP-INR rate, plus USD-, EUR-, AED- and AUD-INR | Converts each FOB range into ₹ to compare with your cost |
 | `google` | Buyer websites, trade pages, "handmade in India" mentions | Buyer discovery and fit evidence |
 | `google_maps` | Local shops and wholesalers: website, phone, reviews | Buyer discovery (wholesalers and shops in London and Manchester); reachability |
 | `google_ads_transparency_center` | Live UK ad creatives for a buyer's domain | Activity: is this buyer spending on marketing right now? |
 | `google_news` | Expansion and store-opening news | Activity: buyers who are growing are worth pitching |
+| `google_jobs` | Buying and sourcing roles advertised in the UK (`location=United Kingdom`, `gl=uk`) | Activity and India evidence: a company hiring a buyer is building a range now |
 
-That is 12 engine APIs: 11 search engines plus Google Finance. Local photos go to Lens through SerpApi's **Image API** (`POST /image` → `image_id`), cached by the photo's content hash. The free **Account API** feeds the "plan searches left" meter in live mode. Country targeting (`amazon_domain`, `ebay_domain`, `gl`, `country`, `geo`, `ll`) lets an exporter in Moradabad see the UK market as a UK shopper sees it.
+That is 13 engine APIs: 12 search engines plus Google Finance. Local photos go to Lens through SerpApi's **Image API** (`POST /image` → `image_id`), cached by the photo's content hash. The free **Account API** feeds the "plan searches left" meter in live mode. Country targeting (`amazon_domain`, `ebay_domain`, `gl`, `country`, `geo`, `ll`, `location`) lets an exporter in Moradabad see the UK market as a UK shopper sees it, and the same product in four more Amazon stores.
 
 ## The maths
 
@@ -199,11 +211,42 @@ Worked example with made-up numbers: a median retail price of £42 is £35.00 ex
 | Component | Points | Evidence |
 |---|---|---|
 | Category and style match | 25 | Their listings, site or Maps category contain this product type |
-| Sourcing from India | 20 | Their products list `country_of_origin = India`, or their site says "handmade in India" |
+| Sourcing from India | 20 | Their products list `country_of_origin = India`, their site says "handmade in India", or their job ad for a buyer mentions India |
 | Price-tier fit | 15 | Their retail prices support our FOB range |
-| Activity | 15 | Ads live in the last 30 days; expansion news |
+| Activity | 15 | Ads live in the last 30 days (10, or 4 for older ads), expansion news (5), a buying role advertised now (5); capped at 15 |
 | Right size | 15 | Penalises giants a 30-worker unit can't serve; favours independents and online brands |
 | Reachability | 10 | Website, trade/wholesale page, phone number |
+
+### Market Compare: where to sell next
+
+Each other market gets one Amazon search for the same product. Germany is searched with a German phrase. The UK row reuses the Amazon UK results from step 3, so every row compares Amazon with Amazon. Each market is worked back to a FOB range with the formula above, using its own VAT, markups, freight, exchange rate and duty. The other markets use the defaults in `markets.yaml`; the sidebar overrides apply to the UK.
+
+```
+duty = duty_india + normal (MFN) duty for the HS line + extra duty (rate × copper share)
+```
+
+The HS line is a hint from the product word, set in `categories.yaml` (lantern → 9405.50, planter → 7419.80). If no word matches, the US and Germany use an assumed 3% normal duty (`mfn_default`, an **assumption**).
+
+| Market | Duty on Indian brassware (verified 1 Oct 2026) | Source |
+|---|---|---|
+| United Kingdom | 0% under the India–UK CETA (since 15 Jul 2026), with proof of origin | [Drishti IAS](https://www.drishtiias.com/daily-updates/daily-news-analysis/india-uk-ceta-comes-into-effect) |
+| UAE | 0% under the India–UAE CEPA, with a certificate of origin (standard UAE duty 5%) | [CEPA guide](https://raspinternational.in/blog/india-uae-cepa-guide-exporters-2026/) |
+| Australia | 0% under the India–Australia ECTA (all tariff lines duty-free from 1 Jan 2026) | [fibre2fashion](https://www.fibre2fashion.com/news/textiles-import-export-news/all-australian-tariff-lines-zero-duty-for-indian-exports-from-jan-1-307431-newsdetails.htm) |
+| Germany (EU) | EU third-country duty: 2.7% for HS 9405.50 lamps, 3% for HS 7419.80 copper articles. The India–EU FTA was concluded on 27 Jan 2026 but is not in force | tariffnumber.com ([9405.50](https://www.tariffnumber.com/2025/9405500000), [7419.80](https://www.tariffnumber.com/2026/74198090)), [ORF](https://www.orfonline.org/expert-speak/the-india-eu-fta-from-political-agreement-to-ratification-and-coming-into-force) |
+| United States | 10% Section 301 duty on Indian goods (since 24 Jul 2026), plus normal duty (5.7% for 9405.50.30 brass lamps; Free for 7419.80.50), plus, for HS 7419, the 50% Section 232 duty on the copper content (**assumption**: 65% copper, so +32.5%) | [USITC HTS](https://hts.usitc.gov/search?query=9405.50.30), [ustariffrates.com](https://ustariffrates.com/tariff-rates/india), [CRS IN12614](https://www.congress.gov/crs-product/IN12614) |
+
+So a brass lantern pays about 15.7% duty into the US, and a brass planter about 42.5%. Duty rates change, so verify before quoting. Each market in `markets.yaml` carries a `duty_note`, its `duty_sources` and a `last_verified` date.
+
+Demand in each market comes from Google Trends interest by country for the UK demand term and Amazon review depth (reviews on the top 20 results). The Markets tab also shows Amazon `bought_last_month`. The Trends term is English, so it understates Germany.
+
+**Market Fit Score (0–100)**, per market, ranked best first:
+
+| Component | Points | Signal |
+|---|---|---|
+| Margin | 40 | Margin at the direct-to-retailer FOB; full points at 50% or more |
+| Demand | 30 | 20 for Trends interest relative to the best market, plus 10 for Amazon review depth relative to the best market. If no market has Trends data, all 30 come from Amazon |
+| Trade access | 20 | 20 × max(0, 1 − duty / 25%): full points at 0% duty, none at 25% or more |
+| Data depth | 10 | 10 at 30 or more priced listings, 5 at 10 or more, else 0 and flagged "thin data" |
 
 ## Quick start: Demo Mode (no keys)
 
@@ -245,11 +288,13 @@ Pick a demo product and press **Scout the UK market**. If there is no `SERPAPI_A
 3. Upload a photo (jpg/png/webp). Enter your unit cost, extra costs and MOQ, then press **Scout the UK market**.
 
 **Credits and keys.**
-- A full UK run is capped at **35 SerpApi credits** by default; our recorded runs used 24–30. You can set the per-run budget from 15 to 60 in the sidebar.
+- A full run is capped at **45 SerpApi credits** by default. You can set the per-run budget from 15 to 60 in the sidebar.
+- Market Compare uses about 9 of them (4 Amazon searches, 1 Trends request, 4 exchange rates), and enrichment keeps them back. Untick **Compare other markets** in the sidebar to skip it. It is free in Demo Mode.
+- Our first UK-only recordings (30 Sep 2026) used 24–30 credits. Adding Market Compare and Google Jobs to both recordings on 1 Oct 2026 took 17 more (lantern 11, planter 6), after a 6-credit data check whose answers were saved as recordings.
 - Cached responses are free, and the sidebar shows your plan's remaining searches.
 - Without `ANTHROPIC_API_KEY`, the LLM steps use simpler deterministic fallbacks.
 
-To record new Demo Mode data (up to 35 credits per product): `python scripts/record_demo.py --live`. To check that the recordings replay offline: `python scripts/record_demo.py --verify`.
+To record new Demo Mode data (up to 45 credits per product): `python scripts/record_demo.py --live`. To check that the recordings replay offline: `python scripts/record_demo.py --verify`.
 
 ## Day-1 data check
 
@@ -275,8 +320,12 @@ Both demo products were recorded from live SerpApi searches. The full briefs are
 | Demand proxy | "candle lantern": peaks Oct–Dec, buyers pick ranges ~Apr–Jun | "plant pot": peaks Mar–May, window now |
 | Origin of top Amazon products | 5 of 6 China, 0 India | 2 of 6 India |
 | Example buyers | Kayu Home (24 live UK ads), Electricpoint (1,000), Online Lighting (6) | Hortology (500 live UK ads), Kayu Home (24) |
+| UK companies hiring buyers | 3 (e.g. Online Home Shop, Victorian Plumbing) | 7 (e.g. Dobbies, Squire's Garden Centres, Robert Dyas) |
+| Best other market (Market Fit) | Australia, 80/100, 48% margin | Australia, 97/100, 73% margin (ahead of the UK's 94/100) |
+| Margin at retailer FOB, US / Germany / UAE / Australia | 43% (15.7% duty) / 20% (TIGHT) / 57% / 48% | 62% (42.5% duty) / 40% / 74% / 73% |
+| Margin at retailer FOB, UK on Amazon only (the Market Compare row) | 49% | 68% |
 
-Unit costs in the demo products are illustrative inputs, not real quotes. All other figures come from search data or the labelled assumptions.
+The UK rows come from the 30 Sep 2026 recordings. The hiring and Market Compare rows come from the re-recordings on 1 Oct 2026. Unit costs in the demo products are illustrative inputs, not real quotes. All other figures come from search data or the labelled assumptions.
 
 ## Tests
 
@@ -286,7 +335,7 @@ pytest
 
 The tests use fixtures and spend zero credits.
 - `tests/test_app.py` renders the app headlessly with `streamlit.testing.v1.AppTest`, using a fictional sample brief (`tests/fixtures/sample_brief.json`, regenerate with `python scripts/make_sample_brief.py`).
-- The other test files cover the SerpApi client, the engine normalisers, pricing, scoring, demand, origin, buyers, the LLM wrapper and the exports.
+- The other test files cover the SerpApi client, the engine normalisers, pricing, scoring, demand, origin, buyers, the orchestrator (including Market Compare and the hiring signal), the LLM wrapper and the exports.
 
 To open the app on the sample brief without running the agent:
 
@@ -299,17 +348,17 @@ $env:EXPORTSCOUT_SAMPLE_BRIEF="tests/fixtures/sample_brief.json"; streamlit run 
 
 ```
 exportscout/
-  app.py                         Streamlit UI: inputs, live step log, credit meter, 4 tabs
+  app.py                         Streamlit UI: inputs, live step log, credit meter, 5 tabs
   exportscout/
-    models.py                    pydantic models: Brief, Listing, BuyerCandidate, Evidence, ...
-    agent/orchestrator.py        the 8 steps, follow-up rules, credit budget, step events
+    models.py                    pydantic models: Brief, Listing, BuyerCandidate, MarketRow, JobPosting, Evidence, ...
+    agent/orchestrator.py        the 9 steps, follow-up rules, credit budget, step events
     serp/client.py               SerpApi access: cache, ledger, budget, record/replay, key redaction
     serp/engines.py              one function per engine: search + normalise + record evidence
-    pipeline/                    identify, prices (ladder + FOB), demand, origin, reviews, buyers, scoring
-    llm/                         Claude wrapper with record/replay, prompts and the four LLM tasks
+    pipeline/                    identify, prices (ladder + FOB), demand, origin, reviews, buyers, scoring, markets
+    llm/                         Claude wrapper with record/replay, prompts and the five LLM tasks
     report/brief.py              Markdown brief and buyers CSV exports
-    config/markets.yaml          per-market parameters and assumptions (VAT, duty, markups, cities)
-    config/categories.yaml       product-family pack: keywords, review lexicon, giants, compliance notes
+    config/markets.yaml          per-market parameters and assumptions (VAT, duty and its sources, markups, cities)
+    config/categories.yaml       product-family pack: keywords, review lexicon, giants, HS hints, job queries, compliance notes
   demo_cache/                    Demo Mode: demo products + recorded responses (keys stripped)
   scripts/
     probe.py                     Day-1 data check
@@ -324,6 +373,7 @@ exportscout/
 - **Public business information only.**
   - ExportScout collects no personal data.
   - It doesn't scrape emails or fetch websites outside SerpApi.
+  - From Google Jobs, the brief keeps company-level data only: company, role, location, posted date and a link to the ad. Emails and phone numbers are removed from job ads before they are cached or recorded, and from the short snippet around an India or overseas mention. No personal data is kept in the brief or shown. Pitches may use hiring only for timing, and never mention the job ad or any person.
   - It never contacts anyone. The exporter reads the evidence, decides, and makes contact themselves.
 - **Estimates, clearly labelled.** Every figure is either a signal from search data or an editable assumption. None is a quote or a guarantee. Every brief carries the note "verify duty rates and rules of origin before quoting".
 - **Keys stay secret.**
@@ -333,21 +383,23 @@ exportscout/
 
 ## Limitations
 
-- **UK only for now.** The config supports more markets, but US, Germany and UAE are not built yet.
+- **The deep dive is UK-only.** The other four markets (US, Germany, UAE, Australia) get an Amazon-only quick scan (price, duty, demand), not buyers or pitches.
+- **Market Compare demand is rough.** The Trends term is English, so it understates Germany.
 - **The FOB range rests on assumed markups and freight.** They are editable, and the result is a range, not a quote.
 - **Coverage gaps.** Amazon doesn't show `country_of_origin` on every product, so the origin split can rest on a handful of products or on text signals. Niche keywords can have too little Trends volume; the app then uses a broader proxy term and says so.
-- **The buyer list is not exhaustive.** It is limited to what public search results show, and the per-run credit budget caps enrichment. Contact details are the website, trade page and phone; there are no emails.
+- **The buyer list is not exhaustive.** It is limited to what public search results show, and the per-run credit budget caps enrichment. Contact details are the website, trade page and phone; there are no emails. A company with no job ad may still be buying.
 - **Snapshot data.** Prices and ads are as of each result's fetch time (shown on every evidence item). In live mode, cached results can be hours to weeks old, depending on each engine's time-to-live in `serp/client.py`.
 - **Demo Mode covers only the recorded products.** Other photos need live mode. The bundled demo products were recorded from text descriptions, so Demo Mode skips the Lens step until demo photos are added.
-- **Duty rules change.** Duty rates and rules of origin can change. `markets.yaml` carries a `last_verified` date, and exporters must verify before quoting.
+- **Duty rules change, and the HS line is a hint.** Duty rates and rules of origin can change. `markets.yaml` carries a `last_verified` date for each market, and exporters must verify before quoting. Market Compare picks the HS line from the product word (lantern → 9405.50, planter → 7419.80), which is a hint, not a classification ruling. The US copper duty assumes 65% copper.
 
 ## AI tools disclosure
 
 As the hackathon rules require:
 
 - **Claude Code** was used for research, planning and coding.
-- The **Claude API** (`claude-opus-5-5`) is used inside the product for four tasks:
+- The **Claude API** (`claude-opus-5-5`) is used inside the product for five tasks:
   - keywords from Lens titles
+  - a German search phrase for the Amazon.de search in Market Compare
   - clustering review complaints and praise
   - tagging buyer type and style
   - writing the brief and pitch emails, where every claim must cite an evidence ID

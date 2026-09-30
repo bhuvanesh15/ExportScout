@@ -200,6 +200,24 @@ class NewsItem(BaseModel):
     evidence_id: str
 
 
+class JobPosting(BaseModel):
+    """A Google Jobs ad for a buying/sourcing role. Company-level data only: no people or contacts."""
+
+    company: str
+    title: str
+    location: str | None = None
+    via: str | None = None  # job board, e.g. "LinkedIn"
+    posted: str | None = None  # as shown, e.g. "3 days ago"
+    posted_days: float | None = None  # days before the fetch
+    link: str | None = None
+    query: str | None = None  # the search that found it, e.g. "lighting buyer"
+    mentions_india: bool = False  # the ad mentions India / Indian suppliers
+    mentions_overseas: bool = False  # the ad mentions overseas / Far East sourcing or sourcing trips
+    is_recruiter: bool = False  # posted by a recruitment agency for an unnamed client
+    snippet: str | None = None  # short window around the sourcing mention, contacts stripped
+    evidence_id: str
+
+
 # --------------------------------------------------------------------------- derived cards
 
 
@@ -326,6 +344,7 @@ SignalKind = Literal[
     "phone",
     "multi_engine",
     "size",
+    "hiring",
 ]
 BuyerKind = Literal["retailer", "online_brand", "wholesaler", "importer", "marketplace", "not_a_buyer", "unknown"]
 
@@ -358,6 +377,36 @@ class BuyerCandidate(BaseModel):
     why: str | None = None  # one-line reason to pitch them
 
 
+# --------------------------------------------------------------------------- market compare
+
+
+class MarketRow(BaseModel):
+    """One market in Market Compare: a quick Amazon-only scan, worked back to a FOB range and margin."""
+
+    code: str  # markets.yaml key, e.g. "au"
+    label: str  # e.g. "Australia"
+    short_label: str | None = None  # e.g. "AU"
+    currency: str  # ISO code of the market's prices
+    keyword: str  # the Amazon search phrase used (translated for non-English markets)
+    is_home: bool = False  # the deep-dive market (the UK row)
+    listings_n: int = 0  # priced listings behind the ladder
+    ladder: PriceLadder | None = None
+    quote: QuoteRange | None = None
+    fx_rate: float | None = None  # INR per 1 unit of `currency`
+    hs_code: str | None = None  # HS hint used for the duty, e.g. "9405.50"
+    duty_pct: float = 0.0  # effective duty on Indian goods used in the FOB formula
+    duty_detail: str = ""  # how duty_pct was built, e.g. "10% Section 301 + 5.7% normal duty"
+    duty_note: str | None = None
+    duty_sources: list[str] = Field(default_factory=list)
+    last_verified: str | None = None
+    trends_interest: int | None = None  # Google Trends interest for the demand term in this country (0-100)
+    review_depth: int | None = None  # reviews on the top Amazon results (demand proxy)
+    bought_last_month: int | None = None  # Amazon "bought in past month", summed
+    score: MarketScore | None = None  # Market Fit: margin 40, demand 30, trade access 20, data depth 10
+    thin_data: bool = False  # too few priced listings to trust the median
+    evidence_ids: list[str] = Field(default_factory=list)
+
+
 # --------------------------------------------------------------------------- output
 
 
@@ -371,8 +420,8 @@ class Pitch(BaseModel):
 class StepEvent(BaseModel):
     """A line in the live step log."""
 
-    step: int  # 1-8 as in plan §5
-    name: str  # "Identify", "Demand", "Prices", "Origin", "Reviews", "Buyers", "Enrich", "Write"
+    step: int  # 1-9
+    name: str  # "Identify", "Demand", "Prices", "Origin", "Reviews", "Buyers", "Enrich", "Markets", "Write"
     message: str
     status: Literal["running", "done", "skipped", "warning"] = "done"
     credits_used: int = 0  # cumulative for the run
@@ -393,7 +442,9 @@ class Brief(BaseModel):
     origin: OriginShare | None = None
     themes: list[ReviewTheme] = Field(default_factory=list)
     buyers: list[BuyerCandidate] = Field(default_factory=list)  # ranked, best first
+    jobs: list[JobPosting] = Field(default_factory=list)  # buying/sourcing roles advertised in the market
     market_score: MarketScore | None = None
+    markets: list[MarketRow] = Field(default_factory=list)  # Market Compare, best first (includes the home market)
     headline: str = ""  # e.g. "Brass hurricane lantern → United Kingdom: GO (74/100)"
     summary_md: str = ""  # narrative; cites evidence as [ev:ID]
     spec_improvements: list[str] = Field(default_factory=list)

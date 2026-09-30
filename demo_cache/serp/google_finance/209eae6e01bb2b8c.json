@@ -1,0 +1,110 @@
+{
+ "engine": "google_finance",
+ "params": {
+  "q": "AED-INR"
+ },
+ "fetched_at": "2026-09-30T20:58:59+00:00",
+ "data": {
+  "search_metadata": {
+   "id": "6abd7811018c488bf34fc4ad",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/bztgQejxTgHE7IobKBioJDm9ODMQrTbCAOOzsiWzGzA/6abd7811018c488bf34fc4ad.json",
+   "markdown_endpoint": "https://serpapi.com/searches/bztgQejxTgHE7IobKBioJDm9ODMQrTbCAOOzsiWzGzA/6abd7811018c488bf34fc4ad.md",
+   "created_at": "2026-09-30 20:58:57 UTC",
+   "processed_at": "2026-09-30 20:58:57 UTC",
+   "google_finance_url": "https://www.google.com/finance/quote/AED-INR?hl=en",
+   "raw_html_file": "https://serpapi.com/searches/bztgQejxTgHE7IobKBioJDm9ODMQrTbCAOOzsiWzGzA/6abd7811018c488bf34fc4ad.html",
+   "total_time_taken": 2.22
+  },
+  "search_parameters": {
+   "engine": "google_finance",
+   "q": "AED-INR",
+   "hl": "en"
+  },
+  "graph": [
+   {
+    "price": 26.12968,
+    "currency": "INR",
+    "date": "Sep 30 2026, 01:00 AM UTC"
+   },
+   {
+    "price": 26.12121,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:14 PM UTC"
+   },
+   {
+    "price": 26.12106,
+    "currency": "INR",
+    "date": "Sep 30 2026, 04:15 PM UTC"
+   }
+  ],
+  "summary": {
+   "title": "United Arab Emirates Dirham / Indian Rupee",
+   "price": "26.12106",
+   "extracted_price": 26.12106,
+   "price_movement": {
+    "percentage": 0.05827146,
+    "value": 0.01523,
+    "movement": "Down"
+   },
+   "date": "Sep 30 2026, 04:15:19 PM UTC",
+   "extensions": [
+    "Sep 30, 4:15:19 PM UTC"
+   ]
+  },
+  "knowledge_graph": {
+   "about": [
+    {
+     "title": "Profile",
+     "description": {
+      "snippet": "The Emirati dirham Arabic: درهم إماراتي, abbreviation: د.إ in Arabic, Dh; is the official currency of the United Arab Emirates. Each dirham is subdivided into 100 fulus. It is pegged to the United States dollar at a constant exchange rate of approximately 3.67 AED to 1 USD. In March 2025, the UAE Central Bank announced the creation of a Dirham currency symbol, derived from the Latin letter D crossed with two horizontal lines.",
+      "link": "https://en.wikipedia.org/wiki/United_Arab_Emirates_dirham",
+      "link_text": "Wikipedia"
+     }
+    }
+   ]
+  },
+  "discover_more": [
+   {
+    "items": [
+     {
+      "link": "https://www.google.com/finance/quote/USD-INR",
+      "price": "95.9448",
+      "extracted_price": 95.9448,
+      "price_movement": {
+       "percentage": 0.11,
+       "movement": "Up"
+      }
+     },
+     {
+      "link": "https://www.google.com/finance/quote/EUR-INR",
+      "price": "108.7630",
+      "extracted_price": 108.763,
+      "price_movement": {
+       "percentage": 0.08,
+       "movement": "Up"
+      }
+     },
+     {
+      "link": "https://www.google.com/finance/quote/JPY-INR",
+      "price": "0.6097",
+      "extracted_price": 0.6097,
+      "price_movement": {
+       "percentage": 0.0,
+       "movement": "Up"
+      }
+     },
+     {
+      "link": "https://www.google.com/finance/quote/GBP-INR",
+      "price": "127.2503",
+      "extracted_price": 127.2503,
+      "price_movement": {
+       "percentage": 0.15,
+       "movement": "Down"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

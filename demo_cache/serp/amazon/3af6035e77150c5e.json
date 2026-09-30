@@ -1,0 +1,2624 @@
+{
+ "engine": "amazon",
+ "params": {
+  "k": "brass hurricane lantern",
+  "amazon_domain": "amazon.com"
+ },
+ "fetched_at": "2026-09-30T20:58:59+00:00",
+ "data": {
+  "search_metadata": {
+   "id": "6abd78107a3b050054966fa3",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/T9GNVc3aSEowZxwkpE_UYyuZkNHn2ZGQjPyys5xByc4/6abd78107a3b050054966fa3.json",
+   "markdown_endpoint": "https://serpapi.com/searches/T9GNVc3aSEowZxwkpE_UYyuZkNHn2ZGQjPyys5xByc4/6abd78107a3b050054966fa3.md",
+   "created_at": "2026-09-30 20:58:56 UTC",
+   "processed_at": "2026-09-30 20:58:56 UTC",
+   "amazon_url": "https://www.amazon.com/s?k=brass+hurricane+lantern",
+   "raw_html_file": "https://serpapi.com/searches/T9GNVc3aSEowZxwkpE_UYyuZkNHn2ZGQjPyys5xByc4/6abd78107a3b050054966fa3.html",
+   "total_time_taken": 2.22
+  },
+  "search_parameters": {
+   "engine": "amazon",
+   "k": "brass hurricane lantern",
+   "amazon_domain": "amazon.com",
+   "device": "desktop"
+  },
+  "search_information": {
+   "total_results": 319,
+   "query_displayed": "brass hurricane lantern",
+   "store": "gateway",
+   "page": 1
+  },
+  "product_ads": {
+   "video_thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b8a81ef7-8b3d-4082-9045-6aba60411920.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG",
+   "video_src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b8a81ef7-8b3d-4082-9045-6aba60411920.mp4/productVideoOptimized.mp4",
+   "video_link": "https://aax-us-east-retail-direct.amazon.com/x/c/JOYWW8zX1Z15n6VCpEwEhqsAAAGg9B0G_gEAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICDYzE5r/clv1c_ek-wBfHXUsbWHn2mJkrO8xPAyXQxfQsZvvkHrmf_tgGdBiVucEq2k8R3kAht-9b2dfQnRwSzu-4l9wCunoLeUNgM7cVL8GKoqe3uJQhtyeX0-7WLSgZoYHvc-vn1q38LQUJGg2r66xpc--Ou_a3bo_JZotVMllbjhtDkx4cqDIILf3PNdbOWEu8uDDf27DMSgrGv7HtpEw94dSVTF0rOIf6_WFk-GRN3h-JKcRgV7bBDnP7vB5vRySVhhCwh9gp5rue50gZVzeejQV1W2EtryFNqe8V81wi-BYSnySPfYuKaEOHDS8sbxXjL9ITNZhde9ppZUPRNHdqEyNyc8bsKiwOsYfvC3gxEpSNl5RCM-mglA5J21-7dSM5oP8zohAqKbOkGGxh56cV3X2OFrB0GktNRCSGEqNqjpAd6Eva8o-VuyTzK-uIDbivbnBav236YyZTKJhLkRtJsF2L4qZ0jOMP66rv0Q79utEiw0St1FGkqCwxWANluaq6BSU21RxYDbGvV5frt2Jvgw-H2piv-kd4tuPQz04_KJf66sfvV5wF5Bp0qxZjyHnKXiYa4XW0FtFd7RnhCqw-KjrqxqM5hzlo9aSE5M02R1yTA3FsK7VvPCnQlMXryi-f17ivyLhIce7VLQBlxdSaKLkPvzUiT8yGm4JkbFEqMfJUKbN2f4V3qau7sPeOSldO9b2JnHYRT-BKMfjAUPkFNGkjGvma0sFfl5RqnUwpx64gg6guk3-PwzKmRnSY7jYHhSfDGnJfA9TH2lEtBY6mi9x1FEy3G70UlLvoQ16wZ811-4L2D9txWSHhDWY_wKx9ojKudHmHZuUKZMgPj17J05heznntG2Vyf5qavlDBT_bpK6xxwlHLLtLlTQiZe30tBbWvCIv9xKvLY1O9C7UJNkzlIdwVEMNfLB9AzQsqajpevIZKfHtMGMKnbAciXO1MYAwIX4Uk5yE-xkblZ5Q9sSHS6CtDTn-UVP7whn1kSBUf4uE8sNk8RExa_zm3MP7nGB25tGhcZjYNSJQUGDueHBvprC26198fcC5op88cBKTDTbg7iDPXkMGHuFGB3KUDwcfES_QWTclHeKgfFN6cMzNMyoUqTW-H1uao-5R4m4p5wGvGwcd_iac4nti3bpBtCLeDiFh5jVJY_ZdOmBdaiCrK-u2FXS7sqqjCKCzA2-5nP0OakiZOJYT1vwwp3QHFdI7dkrdLDJPLaPvNWFt_DzwrI_P8nzepLnkXFO3aUTj8hRaKjQcMCTpDeCAZGoOvifu2rTXyUSwv3VjXerPzt6Nx2RfDnr7qjZj6se-5Jgd2Q4muIZqhXy1luLtz89QgAwtKZGnJXDJYhta-RpAj6QFS1v8Y-Z4LbWSO7YCvvKsiUG44d25C2QxanSSbLfTmRNCMpDSTKB9VH5wjBMkZ7JN8JuWt3bohHkMNHlFs9E_p7EGiNZQtjEIM623pk6VKhb8larMCFlhOuC1CBk6x96xFFP5jPX7YCEdFsG4GDZEVRfhEGgu2ddZO9Hk8ZXWDnQhO86eo5uC7xNaTNtkhqSZa651LvQvwm7EeSVfIX_RVkiFMXRxHH5l8gGjPnltgz6S4vuovPqBHMzSGbD5nN31w/https://www.amazon.com/dp/B0DW47WDML/?_encoding=UTF8&_encoding=UTF8&pd_rd_i=B0DW47WDML&ref_=sxts_sparkle_sbv&ref_=sbx_be_s_sparkle_ssd_vid&qid=1790801937&pd_rd_w=xqOX5&content-id=amzn1.sym.8de9b3d5-f5c5-40e9-9b39-d65f08d6ea68%3Aamzn1.sym.8de9b3d5-f5c5-40e9-9b39-d65f08d6ea68&pf_rd_p=8de9b3d5-f5c5-40e9-9b39-d65f08d6ea68&pf_rd_r=FX8VS6VAS6HKGPP6JFXZ&pd_rd_wg=XykaI&pd_rd_r=2fb2ec97-41f9-4c06-825c-65f979e4929d",
+   "store_page": "Shop",
+   "store_page_link": "https://aax-us-east-retail-direct.amazon.com/x/c/JOYWW8zX1Z15n6VCpEwEhqsAAAGg9B0G_gEAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICDYzE5r/clv1c_ek-wBfHXUsbWHn2mJkrO8xPAyXQxfQsZvvkHrmf_tgGdBiVucEq2k8R3kAht-9b2dfQnRwSzu-4l9wCunoLeUNgM7cVL8GKoqe3uJQhtyeX0-7WLSgZoYHvc-vn1q38LQUJGg2r66xpc--Ou_a3bo_JZotVMllbjhtDkx4cqDIILf3PNdbOWEu8uDDf27DMSgrGv7HtpEw94dSVTF0rOIf6_WFk-GRN3h-JKcRgV7bBDnP7vB5vRySVhhCwh9gp5rue50gZVzeejQV1W2EtryFNqe8V81wi-BYSnySPfYuKaEOHDS8sbxXjL9ITNZhde9ppZUPRNHdqEyNyc8bsKiwOsYfvC3gxEpSNl5RCM-mglA5J21-7dSM5oP8zohAqKbOkGGxh56cV3X2OFrB0GktNRCSGEqNqjpAd6Eva8o-VuyTzK-uIDbivbnBav236YyZTKJhLkRtJsF2L4qZ0jOMP66rv0Q79utEiw0St1FGkqCwxWANluaq6BSU21RxYDbGvV5frt2Jvgw-H2piv-kd4tuPQz04_KJf66sfvV5wF5Bp0qxZjyHnKXiYa4XW0FtFd7RnhCqw-KjrqxqM5hzlo9aSE5M02R1yTA3FsK7VvPCnQlMXryi-f17ivyLhIce7VLQBlxdSaKLkPvzUiT8yGm4JkbFEqMfJUKbN2f4V3qau7sPeOSldO9b2JnHYRT-BKMfjAUPkFNGkjGvma0sFfl5RqnUwpx64gg6guk3-PwzKmRnSY7jYHhSfDGnJfA9TH2lEtBY6mi9x1FEy3G70UlLvoQ16wZ811-4L2D9txWSHhDWY_wKx9ojKudHmHZuUKZMgPj17J05heznntG2Vyf5qavlDBT_bpK6xxwlHLLtLlTQiZe30tBbWvCIv9xKvLY1O9C7UJNkzlIdwVEMNfLB9AzQsqajpevIZKfHtMGMKnbAciXO1MYAwIX4Uk5yE-xkblZ5Q9sSHS6CtDTn-UVP7whn1kSBUf4uE8sNk8RExa_zm3MP7nGB25tGhcZjYNSJQUGDueHBvprC26198fcC5op88cBKTDTbg7iDPXkMGHuFGB3KUDwcfES_QWTclHeKgfFN6cMzNMyoUqTW-H1uao-5R4m4p5wGvGwcd_iac4nti3bpBtCLeDiFh5jVJY_ZdOmBdaiCrK-u2FXS7sqqjCKCzA2-5nP0OakiZOJYT1vwwp3QHFdI7dkrdLDJPLaPvNWFt_DzwrI_P8nzepLnkXFO3aUTj8hRaKjQcMCTpDeCAZGoOvifu2rTXyUSwv3VjXerPzt6Nx2RfDnr7qjZj6se-5Jgd2Q4muIZqhXy1luLtz89QgAwtKZGnJXDJYhta-RpAj6QFS1v8Y-Z4LbWSO7YCvvKsiUG44d25C2QxanSSbLfTmRNCMpDSTKB9VH5wjBMkZ7JN8JuWt3bohHkMNHlFs9E_p7EGiNZQtjEIM623pk6VKhb8larMCFlhOuC1CBk6x96xFFP5jPX7YCEdFsG4GDZEVRfhEGgu2ddZO9Hk8ZXWDnQhO86eo5uC7xNaTNtkhqSZa651LvQvwm7EeSVfIX_RVkiFMXRxHH5l8gGjPnltgz6S4vuovPqBHMzSGbD5nN31w/https://amazon.com/stores/page/BDC1CD62-094C-4AC8-8F82-B9B1E4FE2608/?_encoding=UTF8&pd_rd_plhdr=t&pd_rd_i=B0DW47WDML&ref_=sbx_be_s_sparkle_ssd_cta&store_ref=SBV_A072144715J1G9W3536GL-A072087919Y29402HDHNH&lp_asins=B0DW47WDML&pd_rd_w=xqOX5&content-id=amzn1.sym.8de9b3d5-f5c5-40e9-9b39-d65f08d6ea68%3Aamzn1.sym.8de9b3d5-f5c5-40e9-9b39-d65f08d6ea68&pf_rd_p=8de9b3d5-f5c5-40e9-9b39-d65f08d6ea68&pf_rd_r=FX8VS6VAS6HKGPP6JFXZ&pd_rd_wg=XykaI&pd_rd_r=2fb2ec97-41f9-4c06-825c-65f979e4929d",
+   "products": [
+    {
+     "position": 1,
+     "asin": "B0DW47WDML",
+     "sponsored": true,
+     "title": "Lichamp 4-Pack Solar Camping Lantern, USB Rechargeable LED Lanterns Battery Powered Pop Up Flashlight Lamps with Three Modes Power for Power Outages Hurricane Supplies Emergency Indoor & Outdoor",
+     "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JOYWW8zX1Z15n6VCpEwEhqsAAAGg9B0G_gEAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICDYzE5r/clv1c_ek-wBfHXUsbWHn2mJkrO8xPAyXQxfQsZvvkHrmf_tgGdBiVucEq2k8R3kAht-9b2dfQnRwSzu-4l9wCunoLeUNgM7cVL8GKoqe3uJQhtyeX0-7WLSgZoYHvc-vn1q38LQUJGg2r66xpc--Ou_a3bo_JZotVMllbjhtDkx4cqDIILf3PNdbOWEu8uDDf27DMSgrGv7HtpEw94dSVTF0rOIf6_WFk-GRN3h-JKcRgV7bBDnP7vB5vRySVhhCwh9gp5rue50gZVzeejQV1W2EtryFNqe8V81wi-BYSnySPfYuKaEOHDS8sbxXjL9ITNZhde9ppZUPRNHdqEyNyc8bsKiwOsYfvC3gxEpSNl5RCM-mglA5J21-7dSM5oP8zohAqKbOkGGxh56cV3X2OFrB0GktNRCSGEqNqjpAd6Eva8o-VuyTzK-uIDbivbnBav236YyZTKJhLkRtJsF2L4qZ0jOMP66rv0Q79utEiw0St1FGkqCwxWANluaq6BSU21RxYDbGvV5frt2Jvgw-H2piv-kd4tuPQz04_KJf66sfvV5wF5Bp0qxZjyHnKXiYa4XW0FtFd7RnhCqw-KjrqxqM5hzlo9aSE5M02R1yTA3FsK7VvPCnQlMXryi-f17ivyLhIce7VLQBlxdSaKLkPvzUiT8yGm4JkbFEqMfJUKbN2f4V3qau7sPeOSldO9b2JnHYRT-BKMfjAUPkFNGkjGvma0sFfl5RqnUwpx64gg6guk3-PwzKmRnSY7jYHhSfDGnJfA9TH2lEtBY6mi9x1FEy3G70UlLvoQ16wZ811-4L2D9txWSHhDWY_wKx9ojKudHmHZuUKZMgPj17J05heznntG2Vyf5qavlDBT_bpK6xxwlHLLtLlTQiZe30tBbWvCIv9xKvLY1O9C7UJNkzlIdwVEMNfLB9AzQsqajpevIZKfHtMGMKnbAciXO1MYAwIX4Uk5yE-xkblZ5Q9sSHS6CtDTn-UVP7whn1kSBUf4uE8sNk8RExa_zm3MP7nGB25tGhcZjYNSJQUGDueHBvprC26198fcC5op88cBKTDTbg7iDPXkMGHuFGB3KUDwcfES_QWTclHeKgfFN6cMzNMyoUqTW-H1uao-5R4m4p5wGvGwcd_iac4nti3bpBtCLeDiFh5jVJY_ZdOmBdaiCrK-u2FXS7sqqjCKCzA2-5nP0OakiZOJYT1vwwp3QHFdI7dkrdLDJPLaPvNWFt_DzwrI_P8nzepLnkXFO3aUTj8hRaKjQcMCTpDeCAZGoOvifu2rTXyUSwv3VjXerPzt6Nx2RfDnr7qjZj6se-5Jgd2Q4muIZqhXy1luLtz89QgAwtKZGnJXDJYhta-RpAj6QFS1v8Y-Z4LbWSO7YCvvKsiUG44d25C2QxanSSbLfTmRNCMpDSTKB9VH5wjBMkZ7JN8JuWt3bohHkMNHlFs9E_p7EGiNZQtjEIM623pk6VKhb8larMCFlhOuC1CBk6x96xFFP5jPX7YCEdFsG4GDZEVRfhEGgu2ddZO9Hk8ZXWDnQhO86eo5uC7xNaTNtkhqSZa651LvQvwm7EeSVfIX_RVkiFMXRxHH5l8gGjPnltgz6S4vuovPqBHMzSGbD5nN31w/https://www.amazon.com/dp/B0DW47WDML/?_encoding=UTF8&pd_rd_i=B0DW47WDML&ref_=sbx_be_s_sparkle_ssd_img&qid=1790801937&pd_rd_w=xqOX5&content-id=amzn1.sym.8de9b3d5-f5c5-40e9-9b39-d65f08d6ea68%3Aamzn1.sym.8de9b3d5-f5c5-40e9-9b39-d65f08d6ea68&pf_rd_p=8de9b3d5-f5c5-40e9-9b39-d65f08d6ea68&pf_rd_r=FX8VS6VAS6HKGPP6JFXZ&pd_rd_wg=XykaI&pd_rd_r=2fb2ec97-41f9-4c06-825c-65f979e4929d&pd_rd_plhdr=t",
+     "link_clean": "https://www.amazon.com/dp/B0DW47WDML/",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0DW47WDML&device=desktop&engine=amazon_product",
+     "thumbnail": "https://m.media-amazon.com/images/I/410w1AkpevL._AC_SR250,250_QL65_.jpg",
+     "rating": 4.6,
+     "reviews": 704
+    }
+   ],
+   "logo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/d5944f3a-32b9-4016-931a-04782969fb83._AC_SX175_SY100_QL70_.png"
+  },
+  "organic_results": [
+   {
+    "position": 1,
+    "asin": "B0H6MBKDB2",
+    "sponsored": true,
+    "title": "NUPTIO Gold Lanterns Set of 2 Hurricane Glass Candle Holders for Pillars",
+    "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxMzUzMzg3OTEzMDIwNjc2OjE3OTA4MDE5Mzc6c3BfYXRmOjMwMTU1MDkwNzQzNjAwMjo6MDo6&url=%2FNUPTIO-Lanterns-Hurricane-Holders-Pillars%2Fdp%2FB0H6MBKDB2%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE%26dib_tag%3Dse%26keywords%3Dbrass%2Bhurricane%2Blantern%26qid%3D1790801937%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+    "link_clean": "https://www.amazon.com/dp/B0H6MBKDB2/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H6MBKDB2&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/71nbxMPBDRL._AC_UL320_.jpg",
+    "price": "$35.99",
+    "extracted_price": 35.99,
+    "offers": [
+     "Save 5% on 2 select item(s)"
+    ],
+    "top_rated": true,
+    "delivery": [
+     "Join Prime to get FREE delivery Tomorrow, Oct 1",
+     "Or Non-members get FREE delivery Mon, Oct 5"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "$35.99",
+      "extracted_primary_price": 35.99
+     }
+    ]
+   },
+   {
+    "position": 2,
+    "asin": "B0BG3F7NFD",
+    "badges": [
+     "Overall Pick"
+    ],
+    "title": "Vermont Lanterns - Brass Hurricane Lantern 12.5\" (Brass)",
+    "link": "https://www.amazon.com/Vermont-Lanterns-Brass-Hurricane-Lantern/dp/B0BG3F7NFD/ref=sr_1_2?dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&dib_tag=se&keywords=brass+hurricane+lantern&qid=1790801937&sr=8-2",
+    "link_clean": "https://www.amazon.com/Vermont-Lanterns-Brass-Hurricane-Lantern/dp/B0BG3F7NFD/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0BG3F7NFD&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/61CO8djruPL._AC_UL320_.jpg",
+    "rating": 4.2,
+    "reviews": 19,
+    "price": "$159.97",
+    "extracted_price": 159.97,
+    "delivery": [
+     "Join Prime to get FREE delivery Sat, Oct 3",
+     "Or Non-members get FREE delivery Mon, Oct 5"
+    ],
+    "stock": "Only 6 left in stock - order soon.",
+    "small_business": true,
+    "purchase_options": [
+     {
+      "primary_price": "$159.97",
+      "extracted_primary_price": 159.97
+     }
+    ]
+   },
+   {
+    "position": 3,
+    "asin": "B08CHFLJCK",
+    "title": "Vintage LED Hurricane Lantern, Warm White Battery Operated, Antique Metal Hanging Lantern with Dimmer Switch, 15 LEDs, 150 Lumen for Indoor or Outdoor Use (Copper)",
+    "link": "https://www.amazon.com/Vintage-Hurricane-Lantern-Battery-Operated/dp/B08CHFLJCK/ref=sr_1_3?dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&dib_tag=se&keywords=brass+hurricane+lantern&qid=1790801937&sr=8-3",
+    "link_clean": "https://www.amazon.com/Vintage-Hurricane-Lantern-Battery-Operated/dp/B08CHFLJCK/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B08CHFLJCK&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/610h0AhVckL._AC_UL320_.jpg",
+    "rating": 4.4,
+    "reviews": 1300,
+    "price": "$21.99",
+    "extracted_price": 21.99,
+    "delivery": [
+     "Join Prime to get FREE delivery Tomorrow, Oct 1",
+     "Or Non-members get FREE delivery Mon, Oct 5 on $35 of items shipped by Amazon"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "$21.99",
+      "extracted_primary_price": 21.99
+     }
+    ]
+   },
+   {
+    "position": 4,
+    "asin": "B0DG29J6HV",
+    "title": "7.5\" High Versatile Modern Metal Hurricane Lantern with Handmade Sturdy Glass Dome in Vintage Brass for 2\" Pillar Candle & Plants, Industrial, Farmhouse, Shabby Chic (Brass, 4\" x7.5 for 2\" Pillar)",
+    "link": "https://www.amazon.com/Twakutwaku-Versatile-Hurricane-Lantern-Handmade/dp/B0DG29J6HV/ref=sr_1_4?dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&dib_tag=se&keywords=brass+hurricane+lantern&qid=1790801937&sr=8-4",
+    "link_clean": "https://www.amazon.com/Twakutwaku-Versatile-Hurricane-Lantern-Handmade/dp/B0DG29J6HV/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0DG29J6HV&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/51luMeSGyvL._AC_UL320_.jpg",
+    "rating": 4.4,
+    "reviews": 139,
+    "price": "$23.99",
+    "extracted_price": 23.99,
+    "delivery": [
+     "Join Prime to get FREE delivery Tomorrow, Oct 1",
+     "Or Non-members get FREE delivery Mon, Oct 5 on $35 of items shipped by Amazon"
+    ],
+    "more_buying_choices": "$17.99 (2+ used & new offers)",
+    "more_buying_choices_link": "https://www.amazon.com/gp/offer-listing/B0DG29J6HV/ref=sr_1_4_olp?keywords=brass+hurricane+lantern&dib_tag=se&dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&qid=1790801937&sr=8-4",
+    "purchase_options": [
+     {
+      "primary_price": "$23.99",
+      "extracted_primary_price": 23.99,
+      "more_buying_choices": "$17.99 (2+ used & new offers)",
+      "more_buying_choices_link": "https://www.amazon.com/gp/offer-listing/B0DG29J6HV/ref=sr_1_4_olp?keywords=brass+hurricane+lantern&dib_tag=se&dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&qid=1790801937&sr=8-4"
+     }
+    ]
+   },
+   {
+    "position": 5,
+    "asin": "B000K6FI7E",
+    "title": "Stansport Hurricane Lantern – Classic Metal Kerosene Oil Lamp with Glass Globe and Adjustable Wick – Portable Emergency Lighting & Decorative Indoor/Outdoor Camping Lantern, Red",
+    "link": "https://www.amazon.com/Stansport-Hurricane-High-Lantern-12-Inch/dp/B000K6FI7E/ref=sr_1_5?dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&dib_tag=se&keywords=brass+hurricane+lantern&qid=1790801937&sr=8-5",
+    "link_clean": "https://www.amazon.com/Stansport-Hurricane-High-Lantern-12-Inch/dp/B000K6FI7E/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B000K6FI7E&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/71Zgc2Fvy5L._AC_UL320_.jpg",
+    "rating": 4.1,
+    "reviews": 4600,
+    "bought_last_month": "1K+ bought in past month",
+    "price": "$16.99",
+    "extracted_price": 16.99,
+    "old_price": "$18.99",
+    "extracted_old_price": 18.99,
+    "delivery": [
+     "Join Prime to get FREE delivery Tomorrow, Oct 1",
+     "Or Non-members get FREE delivery Mon, Oct 5 on $35 of items shipped by Amazon"
+    ],
+    "more_buying_choices": "$15.97 (3+ used & new offers)",
+    "more_buying_choices_link": "https://www.amazon.com/gp/offer-listing/B000K6FI7E/ref=sr_1_5_olp?keywords=brass+hurricane+lantern&dib_tag=se&dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&qid=1790801937&sr=8-5",
+    "purchase_options": [
+     {
+      "primary_price": "$16.99",
+      "extracted_primary_price": 16.99,
+      "old_primary_price": "$18.99",
+      "extracted_old_primary_price": 18.99,
+      "more_buying_choices": "$15.97 (3+ used & new offers)",
+      "more_buying_choices_link": "https://www.amazon.com/gp/offer-listing/B000K6FI7E/ref=sr_1_5_olp?keywords=brass+hurricane+lantern&dib_tag=se&dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&qid=1790801937&sr=8-5"
+     }
+    ]
+   },
+   {
+    "position": 6,
+    "asin": "B0966HXHVQ",
+    "title": "100% Working Brass 7\" Miner Lamp Antique Maritime Ship Boat Oil Lantern Home Decor Gift",
+    "link": "https://www.amazon.com/Working-Brass-Antique-Maritime-Lantern/dp/B0966HXHVQ/ref=sr_1_6?dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&dib_tag=se&keywords=brass+hurricane+lantern&qid=1790801937&sr=8-6",
+    "link_clean": "https://www.amazon.com/Working-Brass-Antique-Maritime-Lantern/dp/B0966HXHVQ/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0966HXHVQ&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/81qnUFZMwPL._AC_UL320_.jpg",
+    "rating": 4.5,
+    "reviews": 99,
+    "bought_last_month": "100+ bought in past month",
+    "price": "$39.99",
+    "extracted_price": 39.99,
+    "delivery": [
+     "Join Prime to get FREE delivery Tomorrow, Oct 1",
+     "Or Non-members get FREE delivery Mon, Oct 5"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "$39.99",
+      "extracted_primary_price": 39.99
+     }
+    ]
+   },
+   {
+    "position": 7,
+    "asin": "B0CP82JRKW",
+    "title": "5\" & 4\" Wide Versatile Metal Candle Holder with Handmade Sturdy Glass Dome in Brass for Pillar Candle & Plants, 5.1\" xH11.8 4\" xH7.5, Industrial, Farmhouse, Shabby Chic. (2, Brass, Large & Small)",
+    "link": "https://www.amazon.com/Versatile-Candle-Handmade-Industrial-Farmhouse/dp/B0CP82JRKW/ref=sr_1_7?dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&dib_tag=se&keywords=brass+hurricane+lantern&qid=1790801937&sr=8-7",
+    "link_clean": "https://www.amazon.com/Versatile-Candle-Handmade-Industrial-Farmhouse/dp/B0CP82JRKW/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CP82JRKW&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/61SzM6wHD9L._AC_UL320_.jpg",
+    "rating": 4.6,
+    "reviews": 540,
+    "bought_last_month": "1K+ bought in past month",
+    "price": "$39.98",
+    "extracted_price": 39.98,
+    "delivery": [
+     "Join Prime to get FREE delivery Tomorrow, Oct 1",
+     "Or Non-members get FREE delivery Mon, Oct 5"
+    ],
+    "more_buying_choices": "$29.99 (3+ used & new offers)",
+    "more_buying_choices_link": "https://www.amazon.com/gp/offer-listing/B0CP82JRKW/ref=sr_1_7_olp?keywords=brass+hurricane+lantern&dib_tag=se&dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&qid=1790801937&sr=8-7",
+    "purchase_options": [
+     {
+      "primary_price": "$39.98",
+      "extracted_primary_price": 39.98,
+      "more_buying_choices": "$29.99 (3+ used & new offers)",
+      "more_buying_choices_link": "https://www.amazon.com/gp/offer-listing/B0CP82JRKW/ref=sr_1_7_olp?keywords=brass+hurricane+lantern&dib_tag=se&dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&qid=1790801937&sr=8-7"
+     }
+    ]
+   },
+   {
+    "position": 8,
+    "asin": "B0FGJRPFTP",
+    "title": "NUPTIO Glass Lanterns Decorative Outdoor, Gold Hurricane Candle Holders",
+    "link": "https://www.amazon.com/NUPTIO-Glass-Lanterns-Decorative-Outdoor/dp/B0FGJRPFTP/ref=sr_1_8?dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&dib_tag=se&keywords=brass+hurricane+lantern&qid=1790801937&sr=8-8",
+    "link_clean": "https://www.amazon.com/NUPTIO-Glass-Lanterns-Decorative-Outdoor/dp/B0FGJRPFTP/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FGJRPFTP&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/711pR3qn+nL._AC_UL320_.jpg",
+    "rating": 4.7,
+    "reviews": 153,
+    "bought_last_month": "300+ bought in past month",
+    "price": "$39.99",
+    "extracted_price": 39.99,
+    "offers": [
+     "Save 5% on 2 select item(s)"
+    ],
+    "delivery": [
+     "FREE delivery Oct 5 - 7",
+     "Or fastest delivery Mon, Oct 5"
+    ],
+    "stock": "Only 1 left in stock - order soon.",
+    "purchase_options": [
+     {
+      "primary_price": "$39.99",
+      "extracted_primary_price": 39.99
+     }
+    ]
+   },
+   {
+    "position": 9,
+    "asin": "B0GQSQVDZJ",
+    "title": "Glass Candle Lantern Brass Hurricane Candle Holders Set for Pillar Candles, Tabletop & Hanging Decor for Living Room, Dining Table, Patio & Events",
+    "link": "https://www.amazon.com/Lantern-Hurricane-Holders-Candles-Tabletop/dp/B0GQSQVDZJ/ref=sr_1_9?dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&dib_tag=se&keywords=brass+hurricane+lantern&qid=1790801937&sr=8-9",
+    "link_clean": "https://www.amazon.com/Lantern-Hurricane-Holders-Candles-Tabletop/dp/B0GQSQVDZJ/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0GQSQVDZJ&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/61UXN-f-dLL._AC_UL320_.jpg",
+    "rating": 4.8,
+    "reviews": 15,
+    "price": "$35.99",
+    "extracted_price": 35.99,
+    "save_with_coupon": "You pay $32.39 with coupon",
+    "delivery": [
+     "Join Prime to get FREE delivery Tomorrow, Oct 1",
+     "Or Non-members get FREE delivery Mon, Oct 5"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "$35.99",
+      "extracted_primary_price": 35.99
+     }
+    ]
+   },
+   {
+    "position": 10,
+    "asin": "B01M3Z7UIQ",
+    "title": "Brass & Copper Anchor Oil Lamp Leeds Burton Nautical Maritime 14\" Ship Lantern Rustic Vintage Home Decor Gifts",
+    "link": "https://www.amazon.com/Copper-Anchor-Nautical-Maritime-Lantern/dp/B01M3Z7UIQ/ref=sr_1_10?dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&dib_tag=se&keywords=brass+hurricane+lantern&qid=1790801937&sr=8-10",
+    "link_clean": "https://www.amazon.com/Copper-Anchor-Nautical-Maritime-Lantern/dp/B01M3Z7UIQ/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B01M3Z7UIQ&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/61jqjsIa0kL._AC_UL320_.jpg",
+    "rating": 3.5,
+    "reviews": 136,
+    "price": "$88.05",
+    "extracted_price": 88.05,
+    "delivery": [
+     "FREE delivery Mon, Oct 5",
+     "Or fastest delivery Sun, Oct 4"
+    ],
+    "stock": "Only 13 left in stock - order soon.",
+    "more_buying_choices": "$79.24 (4 used & new offers)",
+    "more_buying_choices_link": "https://www.amazon.com/gp/offer-listing/B01M3Z7UIQ/ref=sr_1_10_olp?keywords=brass+hurricane+lantern&dib_tag=se&dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&qid=1790801937&sr=8-10",
+    "purchase_options": [
+     {
+      "primary_price": "$88.05",
+      "extracted_primary_price": 88.05,
+      "more_buying_choices": "$79.24 (4 used & new offers)",
+      "more_buying_choices_link": "https://www.amazon.com/gp/offer-listing/B01M3Z7UIQ/ref=sr_1_10_olp?keywords=brass+hurricane+lantern&dib_tag=se&dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&qid=1790801937&sr=8-10"
+     }
+    ]
+   },
+   {
+    "position": 11,
+    "asin": "B0GTLFFZ7B",
+    "sponsored": true,
+    "title": "Brass Hurricane Handmade Sturdy Glass Dome Candle Holders with Glass Cover",
+    "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxMzUzMzg3OTEzMDIwNjc2OjE3OTA4MDE5Mzc6c3BfbXRmOjMwMTM3MjE2NDc0MTMwMjo6MDo6&url=%2FHurricane-Handmade-Sturdy-Candle-Holders%2Fdp%2FB0GTLFFZ7B%2Fref%3Dsr_1_11_sspa%3Fdib%3DeyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE%26dib_tag%3Dse%26keywords%3Dbrass%2Bhurricane%2Blantern%26qid%3D1790801937%26sr%3D8-11-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1",
+    "link_clean": "https://www.amazon.com/dp/B0GTLFFZ7B/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0GTLFFZ7B&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/71vB33aG76L._AC_UL320_.jpg",
+    "rating": 4.8,
+    "reviews": 26,
+    "bought_last_month": "100+ bought in past month",
+    "price": "$36.99",
+    "extracted_price": 36.99,
+    "delivery": [
+     "FREE delivery Oct 22 - Nov 11",
+     "Or fastest delivery Oct 22 - Nov 9"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "$36.99",
+      "extracted_primary_price": 36.99
+     }
+    ]
+   },
+   {
+    "position": 12,
+    "asin": "B0FFHDFM87",
+    "sponsored": true,
+    "title": "16\" Modern Metal Lantern with Twisted Rope-Style Frame in Antique Brass with Glass Hurricane for Pillars, String Light. Centerpiece, Mantel, Ambient Lighting, Farmhouse, Transitional, Patio, Entryway",
+    "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxMzUzMzg3OTEzMDIwNjc2OjE3OTA4MDE5Mzc6c3BfbXRmOjMwMDk3MDk4NDMyMTgwMjo6MDo6&url=%2FRope-Style-Hurricane-Centerpiece-Farmhouse-Transitional%2Fdp%2FB0FFHDFM87%2Fref%3Dsr_1_12_sspa%3Fdib%3DeyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE%26dib_tag%3Dse%26keywords%3Dbrass%2Bhurricane%2Blantern%26qid%3D1790801937%26sr%3D8-12-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1",
+    "link_clean": "https://www.amazon.com/dp/B0FFHDFM87/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FFHDFM87&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/71TZ9uv3LDL._AC_UL320_.jpg",
+    "rating": 4.2,
+    "reviews": 5,
+    "price": "$37.99",
+    "extracted_price": 37.99,
+    "delivery": [
+     "FREE delivery Mon, Oct 5",
+     "Or fastest delivery Sun, Oct 4"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "$37.99",
+      "extracted_primary_price": 37.99
+     }
+    ]
+   },
+   {
+    "position": 13,
+    "asin": "B0H7B9KNGG",
+    "sponsored": true,
+    "title": "Hurricane Glass Candle Holders, Brass Hanging Candle Lanterns",
+    "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxMzUzMzg3OTEzMDIwNjc2OjE3OTA4MDE5Mzc6c3BfbXRmOjMwMTQzNjg2MDI3NzAwMjo6MDo6&url=%2FHurricane-Candle-Holders-Hanging-Lanterns%2Fdp%2FB0H7B9KNGG%2Fref%3Dsr_1_13_sspa%3Fdib%3DeyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE%26dib_tag%3Dse%26keywords%3Dbrass%2Bhurricane%2Blantern%26qid%3D1790801937%26sr%3D8-13-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1",
+    "link_clean": "https://www.amazon.com/dp/B0H7B9KNGG/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H7B9KNGG&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/71TkcJGC7YL._AC_UL320_.jpg",
+    "rating": 4.8,
+    "reviews": 9,
+    "bought_last_month": "100+ bought in past month",
+    "price": "$31.99",
+    "extracted_price": 31.99,
+    "old_price": "$39.99",
+    "extracted_old_price": 39.99,
+    "delivery": [
+     "Join Prime to get FREE delivery Tomorrow, Oct 1",
+     "Or Non-members get FREE delivery Mon, Oct 5 on $35 of items shipped by Amazon"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "$31.99",
+      "extracted_primary_price": 31.99,
+      "old_primary_price": "$39.99",
+      "extracted_old_primary_price": 39.99
+     }
+    ]
+   },
+   {
+    "position": 14,
+    "asin": "B0GR5655CV",
+    "sponsored": true,
+    "title": "Hurricane Glass Candle Holders in Antique Brass, 5\" & 4\" Wide Gold Vintage Metal Candlesticks Holders for Pillar Candle Lantern with Handmade Thick Glass Dome, Industrial, Modern Home Decor (Black)",
+    "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxMzUzMzg3OTEzMDIwNjc2OjE3OTA4MDE5Mzc6c3BfbXRmOjMwMTUzMzg2MjgyNTEwMjo6MDo6&url=%2FHurricane-Holders-Candlesticks-Handmade-Industrial%2Fdp%2FB0GR5655CV%2Fref%3Dsr_1_14_sspa%3Fdib%3DeyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE%26dib_tag%3Dse%26keywords%3Dbrass%2Bhurricane%2Blantern%26qid%3D1790801937%26sr%3D8-14-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1",
+    "link_clean": "https://www.amazon.com/dp/B0GR5655CV/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0GR5655CV&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/51mt1rxcSvL._AC_UL320_.jpg",
+    "rating": 4.4,
+    "reviews": 27,
+    "price": "$38.99",
+    "extracted_price": 38.99,
+    "delivery": [
+     "Join Prime to get FREE delivery Fri, Oct 2",
+     "Or Non-members get FREE delivery Mon, Oct 5"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "$38.99",
+      "extracted_primary_price": 38.99
+     }
+    ]
+   },
+   {
+    "position": 15,
+    "asin": "B0DG27GWYV",
+    "title": "12\" High Versatile Modern Metal Hurricane Lantern with Handmade Sturdy Glass Dome in Antique Brass for Pillar Candle & Plants, Industrial, Farmhouse, Shabby Chic (Brass, 5\"x12\")",
+    "link": "https://www.amazon.com/Twakutwaku-Versatile-Hurricane-Lantern-Handmade/dp/B0DG27GWYV/ref=sr_1_15?dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&dib_tag=se&keywords=brass+hurricane+lantern&qid=1790801937&sr=8-15",
+    "link_clean": "https://www.amazon.com/Twakutwaku-Versatile-Hurricane-Lantern-Handmade/dp/B0DG27GWYV/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0DG27GWYV&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/51Tyl3F0nzL._AC_UL320_.jpg",
+    "rating": 4.4,
+    "reviews": 139,
+    "price": "$32.99",
+    "extracted_price": 32.99,
+    "delivery": [
+     "Join Prime to get FREE delivery Tomorrow, Oct 1",
+     "Or Non-members get FREE delivery Mon, Oct 5 on $35 of items shipped by Amazon"
+    ],
+    "more_buying_choices": "$24.74 (2+ used & new offers)",
+    "more_buying_choices_link": "https://www.amazon.com/gp/offer-listing/B0DG27GWYV/ref=sr_1_15_olp?keywords=brass+hurricane+lantern&dib_tag=se&dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&qid=1790801937&sr=8-15",
+    "purchase_options": [
+     {
+      "primary_price": "$32.99",
+      "extracted_primary_price": 32.99,
+      "more_buying_choices": "$24.74 (2+ used & new offers)",
+      "more_buying_choices_link": "https://www.amazon.com/gp/offer-listing/B0DG27GWYV/ref=sr_1_15_olp?keywords=brass+hurricane+lantern&dib_tag=se&dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&qid=1790801937&sr=8-15"
+     }
+    ]
+   },
+   {
+    "position": 16,
+    "asin": "B0H7B9KNGG",
+    "title": "Hurricane Glass Candle Holders, Brass Hanging Candle Lanterns",
+    "link": "https://www.amazon.com/Hurricane-Candle-Holders-Hanging-Lanterns/dp/B0H7B9KNGG/ref=sr_1_16?dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&dib_tag=se&keywords=brass+hurricane+lantern&qid=1790801937&sr=8-16",
+    "link_clean": "https://www.amazon.com/Hurricane-Candle-Holders-Hanging-Lanterns/dp/B0H7B9KNGG/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H7B9KNGG&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/71TkcJGC7YL._AC_UL320_.jpg",
+    "rating": 4.8,
+    "reviews": 9,
+    "bought_last_month": "100+ bought in past month",
+    "price": "$31.99",
+    "extracted_price": 31.99,
+    "old_price": "$39.99",
+    "extracted_old_price": 39.99,
+    "delivery": [
+     "Join Prime to get FREE delivery Tomorrow, Oct 1",
+     "Or Non-members get FREE delivery Mon, Oct 5 on $35 of items shipped by Amazon"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "$31.99",
+      "extracted_primary_price": 31.99,
+      "old_primary_price": "$39.99",
+      "extracted_old_primary_price": 39.99
+     }
+    ]
+   },
+   {
+    "position": 17,
+    "asin": "B08F24R2QN",
+    "title": "YAKii LED Vintage Lantern Metal Hanging Hurricane 12 LED Dimmer Switch Warm White Battery Operated Power Outage Indoor Camping Lighting Outdoor Brooklyn Decoration(Copper)",
+    "link": "https://www.amazon.com/YAKii-Vintage-12-LED-Hurricane-Lantern/dp/B08F24R2QN/ref=sr_1_17?dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&dib_tag=se&keywords=brass+hurricane+lantern&qid=1790801937&sr=8-17",
+    "link_clean": "https://www.amazon.com/YAKii-Vintage-12-LED-Hurricane-Lantern/dp/B08F24R2QN/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B08F24R2QN&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/811IxN-6ysL._AC_UL320_.jpg",
+    "rating": 4.3,
+    "reviews": 1100,
+    "bought_last_month": "50+ bought in past month",
+    "price": "$25.99",
+    "extracted_price": 25.99,
+    "delivery": [
+     "Join Prime to get FREE delivery Tomorrow, Oct 1",
+     "Or Non-members get FREE delivery Mon, Oct 5 on $35 of items shipped by Amazon"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "$25.99",
+      "extracted_primary_price": 25.99
+     }
+    ]
+   },
+   {
+    "position": 18,
+    "asin": "B0FT3NX9ZR",
+    "title": "Hurricane Candle Holders Set of 2, 5\" & 4\" Metal and Glass Candle Lantern with Clear Dome for Pillar Candle, Wedding & Christmas Table Centerpiece, Farmhouse Home Decor (Brass, Large & Small)",
+    "link": "https://www.amazon.com/VAUWINEK-Hurricane-Christmas-Centerpiece-Farmhouse/dp/B0FT3NX9ZR/ref=sr_1_18?dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&dib_tag=se&keywords=brass+hurricane+lantern&qid=1790801937&sr=8-18",
+    "link_clean": "https://www.amazon.com/VAUWINEK-Hurricane-Christmas-Centerpiece-Farmhouse/dp/B0FT3NX9ZR/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FT3NX9ZR&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/71vePILaf1L._AC_UL320_.jpg",
+    "rating": 4.9,
+    "reviews": 34,
+    "bought_last_month": "200+ bought in past month",
+    "price": "$36.99",
+    "extracted_price": 36.99,
+    "delivery": [
+     "Join Prime to get FREE delivery Tomorrow, Oct 1",
+     "Or Non-members get FREE delivery Mon, Oct 5"
+    ],
+    "more_buying_choices": "$31.44 (2 used & new offers)",
+    "more_buying_choices_link": "https://www.amazon.com/gp/offer-listing/B0FT3NX9ZR/ref=sr_1_18_olp?keywords=brass+hurricane+lantern&dib_tag=se&dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&qid=1790801937&sr=8-18",
+    "purchase_options": [
+     {
+      "primary_price": "$36.99",
+      "extracted_primary_price": 36.99,
+      "more_buying_choices": "$31.44 (2 used & new offers)",
+      "more_buying_choices_link": "https://www.amazon.com/gp/offer-listing/B0FT3NX9ZR/ref=sr_1_18_olp?keywords=brass+hurricane+lantern&dib_tag=se&dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&qid=1790801937&sr=8-18"
+     }
+    ]
+   },
+   {
+    "position": 19,
+    "asin": "B0CG93QSJP",
+    "sponsored": true,
+    "title": "Romadedi Gold Mini Lantern for Centerpiece, Pack of 10",
+    "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxMzUzMzg3OTEzMDIwNjc2OjE3OTA4MDE5Mzc6c3BfbXRmOjMwMTM1MDk0MDU3ODYwMjo6MDo6&url=%2FRomadedi-Decorative-Centerpiece-Flickering-Decorations%2Fdp%2FB0CG93QSJP%2Fref%3Dsr_1_19_sspa%3Fdib%3DeyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE%26dib_tag%3Dse%26keywords%3Dbrass%2Bhurricane%2Blantern%26qid%3D1790801937%26sr%3D8-19-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1",
+    "link_clean": "https://www.amazon.com/dp/B0CG93QSJP/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CG93QSJP&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/81rxZg8ALaL._AC_UL320_.jpg",
+    "rating": 4.5,
+    "reviews": 134,
+    "bought_last_month": "100+ bought in past month",
+    "price": "$29.99",
+    "extracted_price": 29.99,
+    "delivery": [
+     "Join Prime to get FREE delivery Fri, Oct 2",
+     "Or Non-members get FREE delivery Mon, Oct 5 on $35 of items shipped by Amazon"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "$29.99",
+      "extracted_primary_price": 29.99
+     }
+    ]
+   },
+   {
+    "position": 20,
+    "asin": "B0G4VSF1JB",
+    "sponsored": true,
+    "title": "NEEDOMO Set of 2 Lanterns Decorative for Home,22''H Large LuxuryBronze Metal Hurricane Lanterns with Tempered Glass Panels for Porch,Tabletop, Mantle, Wall Hanging, Garden, Indoor & Outdoor Décor",
+    "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxMzUzMzg3OTEzMDIwNjc2OjE3OTA4MDE5Mzc6c3BfbXRmOjMwMTM1Nzk2NTYyNDIwMjo6MDo6&url=%2FNEEDOMO-Lanterns-Decorative-LuxuryBronze-Hurricane%2Fdp%2FB0G4VSF1JB%2Fref%3Dsr_1_20_sspa%3Fdib%3DeyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE%26dib_tag%3Dse%26keywords%3Dbrass%2Bhurricane%2Blantern%26qid%3D1790801937%26sr%3D8-20-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1",
+    "link_clean": "https://www.amazon.com/dp/B0G4VSF1JB/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0G4VSF1JB&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/61pQXlTiKnL._AC_UL320_.jpg",
+    "rating": 4.6,
+    "reviews": 152,
+    "bought_last_month": "100+ bought in past month",
+    "price": "$78.99",
+    "extracted_price": 78.99,
+    "delivery": [
+     "FREE delivery Oct 10 - 16"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "$78.99",
+      "extracted_primary_price": 78.99
+     }
+    ]
+   },
+   {
+    "position": 21,
+    "asin": "B0CN66ZSBJ",
+    "sponsored": true,
+    "title": "HPC Decor Modern Farmhouse Lantern Decor- Gold Metal Candle Lanterns for Christmas- Lanterns Decorative w/Timer Flickering Candles for Living Room, Home, Indoor, Outdoor, Table,Fireplace Mantle Decor",
+    "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxMzUzMzg3OTEzMDIwNjc2OjE3OTA4MDE5Mzc6c3BfbXRmOjMwMTA5Nzc4ODExNjUwMjo6MDo6&url=%2FHPC-Farmhouse-Christmas-Decorative-Flickering%2Fdp%2FB0CN66ZSBJ%2Fref%3Dsr_1_21_sspa%3Fdib%3DeyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE%26dib_tag%3Dse%26keywords%3Dbrass%2Bhurricane%2Blantern%26qid%3D1790801937%26sr%3D8-21-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1",
+    "link_clean": "https://www.amazon.com/dp/B0CN66ZSBJ/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CN66ZSBJ&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/61rZKGT69ML._AC_UL320_.jpg",
+    "rating": 4.4,
+    "reviews": 1400,
+    "bought_last_month": "100+ bought in past month",
+    "price": "$27.99",
+    "extracted_price": 27.99,
+    "delivery": [
+     "Join Prime to get FREE delivery Fri, Oct 2",
+     "Or Non-members get FREE delivery Mon, Oct 5 on $35 of items shipped by Amazon"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "$27.99",
+      "extracted_primary_price": 27.99
+     }
+    ]
+   },
+   {
+    "position": 22,
+    "asin": "B000PHGGSS",
+    "sponsored": true,
+    "title": "Weddingstar Small Decorative Candle Lantern - Gold",
+    "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxMzUzMzg3OTEzMDIwNjc2OjE3OTA4MDE5Mzc6c3BfbXRmOjMwMTM2MjkyNjQ3MzcwMjo6MDo6&url=%2FWeddingstar-Inc-Decorative-Candle-Lantern%2Fdp%2FB000PHGGSS%2Fref%3Dsr_1_22_sspa%3Fdib%3DeyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE%26dib_tag%3Dse%26keywords%3Dbrass%2Bhurricane%2Blantern%26qid%3D1790801937%26sr%3D8-22-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1",
+    "link_clean": "https://www.amazon.com/dp/B000PHGGSS/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B000PHGGSS&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/51ERReyACVL._AC_UL320_.jpg",
+    "rating": 3.4,
+    "reviews": 3,
+    "price": "$13.99",
+    "extracted_price": 13.99,
+    "delivery": [
+     "$9.99 delivery Oct 27 - 28",
+     "Or fastest delivery Oct 26 - 27"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "$13.99",
+      "extracted_primary_price": 13.99
+     }
+    ]
+   },
+   {
+    "position": 23,
+    "asin": "B0F6BSYPQZ",
+    "title": "Hurricane Glass Candle Holders, Large & Medium Brass Lanterns Hurricane Candlestick Holder for Pillar Candles Vintage, Gold Metal Rustic Farmhouse Decor with Hook Chains",
+    "link": "https://www.amazon.com/MUTUALUS-Hurricane-Lanterns-Candlestick-Farmhouse/dp/B0F6BSYPQZ/ref=sr_1_23?dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&dib_tag=se&keywords=brass+hurricane+lantern&qid=1790801937&sr=8-23",
+    "link_clean": "https://www.amazon.com/MUTUALUS-Hurricane-Lanterns-Candlestick-Farmhouse/dp/B0F6BSYPQZ/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F6BSYPQZ&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/61qAPibZlFL._AC_UL320_.jpg",
+    "rating": 4.5,
+    "reviews": 135,
+    "bought_last_month": "400+ bought in past month",
+    "price": "$42.99",
+    "extracted_price": 42.99,
+    "save_with_coupon": "You pay $38.69 with coupon",
+    "delivery": [
+     "Join Prime to get FREE delivery Tomorrow, Oct 1",
+     "Or Non-members get FREE delivery Mon, Oct 5"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "$42.99",
+      "extracted_primary_price": 42.99
+     }
+    ]
+   },
+   {
+    "position": 24,
+    "asin": "B0H6MBKDB2",
+    "title": "NUPTIO Gold Lanterns Set of 2 Hurricane Glass Candle Holders for Pillars",
+    "link": "https://www.amazon.com/NUPTIO-Lanterns-Hurricane-Holders-Pillars/dp/B0H6MBKDB2/ref=sr_1_24?dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&dib_tag=se&keywords=brass+hurricane+lantern&qid=1790801937&sr=8-24",
+    "link_clean": "https://www.amazon.com/NUPTIO-Lanterns-Hurricane-Holders-Pillars/dp/B0H6MBKDB2/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H6MBKDB2&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/71nbxMPBDRL._AC_UL320_.jpg",
+    "price": "$35.99",
+    "extracted_price": 35.99,
+    "offers": [
+     "Save 5% on 2 select item(s)"
+    ],
+    "top_rated": true,
+    "delivery": [
+     "Join Prime to get FREE delivery Tomorrow, Oct 1",
+     "Or Non-members get FREE delivery Mon, Oct 5"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "$35.99",
+      "extracted_primary_price": 35.99
+     }
+    ]
+   },
+   {
+    "position": 25,
+    "asin": "B0GWWRTWBC",
+    "title": "Small Farmhouse Hurricane Candle Holder (4.3\" W x 9.2\" H), Antique Brass",
+    "link": "https://www.amazon.com/Farmhouse-Hurricane-Candle-Holder-Antique/dp/B0GWWRTWBC/ref=sr_1_25?dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&dib_tag=se&keywords=brass+hurricane+lantern&qid=1790801937&sr=8-25",
+    "link_clean": "https://www.amazon.com/Farmhouse-Hurricane-Candle-Holder-Antique/dp/B0GWWRTWBC/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0GWWRTWBC&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/71rKHWiR+UL._AC_UL320_.jpg",
+    "rating": 4.4,
+    "reviews": 9,
+    "bought_last_month": "100+ bought in past month",
+    "price": "$27.99",
+    "extracted_price": 27.99,
+    "delivery": [
+     "Join Prime to get FREE delivery Tomorrow, Oct 1",
+     "Or Non-members get FREE delivery Mon, Oct 5 on $35 of items shipped by Amazon"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "$27.99",
+      "extracted_primary_price": 27.99
+     }
+    ]
+   },
+   {
+    "position": 26,
+    "asin": "B0FB57GWJK",
+    "title": "Kings County Tools Oil Lamp, Brass, 7.5” x 8”",
+    "link": "https://www.amazon.com/Oil-Lamp-Railroad-Decorative-Adjustable/dp/B0FB57GWJK/ref=sr_1_26?dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&dib_tag=se&keywords=brass+hurricane+lantern&qid=1790801937&sr=8-26",
+    "link_clean": "https://www.amazon.com/Oil-Lamp-Railroad-Decorative-Adjustable/dp/B0FB57GWJK/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FB57GWJK&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/71bpMH1s9dL._AC_UL320_.jpg",
+    "rating": 4.2,
+    "reviews": 13,
+    "price": "$74.62",
+    "extracted_price": 74.62,
+    "old_price": "$99.95",
+    "extracted_old_price": 99.95,
+    "delivery": [
+     "FREE delivery Mon, Oct 5",
+     "Or fastest delivery Sun, Oct 4"
+    ],
+    "stock": "Only 2 left in stock - order soon.",
+    "purchase_options": [
+     {
+      "primary_price": "$74.62",
+      "extracted_primary_price": 74.62,
+      "old_primary_price": "$99.95",
+      "extracted_old_primary_price": 99.95
+     }
+    ]
+   },
+   {
+    "position": 27,
+    "asin": "B07HR9PNKZ",
+    "sponsored": true,
+    "title": "Vintage LED Hurricane Lantern, Warm White Battery Operated, Antique Metal Hanging With Dimmer Switch, 15 LEDs, 150 Lumen for Indoor or Outdoor Usage (Black)",
+    "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxMzUzMzg3OTEzMDIwNjc2OjE3OTA4MDE5Mzc6c3BfbXRmOjIwMDAwOTg2MTA0OTQ2MTo6MDo6&url=%2FVintage-Hurricane-Lantern-Battery-Operated%2Fdp%2FB07HR9PNKZ%2Fref%3Dsr_1_27_sspa%3Fdib%3DeyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE%26dib_tag%3Dse%26keywords%3Dbrass%2Bhurricane%2Blantern%26qid%3D1790801937%26sr%3D8-27-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1",
+    "link_clean": "https://www.amazon.com/dp/B07HR9PNKZ/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B07HR9PNKZ&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/61p+A4nMthL._AC_UL320_.jpg",
+    "rating": 4.4,
+    "reviews": 1300,
+    "price": "$19.99",
+    "extracted_price": 19.99,
+    "delivery": [
+     "Join Prime to get FREE delivery Tomorrow, Oct 1",
+     "Or Non-members get FREE delivery Mon, Oct 5 on $35 of items shipped by Amazon"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "$19.99",
+      "extracted_primary_price": 19.99
+     }
+    ]
+   },
+   {
+    "position": 28,
+    "asin": "B0FZJVZNSN",
+    "sponsored": true,
+    "title": "2 Pcs Hurricane Pillar Candlestick Holders, Metal Candle Holders",
+    "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxMzUzMzg3OTEzMDIwNjc2OjE3OTA4MDE5Mzc6c3BfbXRmOjMwMTM1Njg4MDU3ODUwMjo6MDo6&url=%2FOdowalker-Hurricane-Pillar-Candlestick-Holders%2Fdp%2FB0FZJVZNSN%2Fref%3Dsr_1_28_sspa%3Fdib%3DeyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE%26dib_tag%3Dse%26keywords%3Dbrass%2Bhurricane%2Blantern%26qid%3D1790801937%26sr%3D8-28-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1",
+    "link_clean": "https://www.amazon.com/dp/B0FZJVZNSN/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FZJVZNSN&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/61rwyxZO-OL._AC_UL320_.jpg",
+    "price": "$27.29",
+    "extracted_price": 27.29,
+    "delivery": [
+     "FREE delivery Mon, Oct 5 on $35 of items shipped by Amazon",
+     "Or fastest delivery Sun, Oct 4"
+    ],
+    "stock": "Only 11 left in stock - order soon.",
+    "purchase_options": [
+     {
+      "primary_price": "$27.29",
+      "extracted_primary_price": 27.29
+     }
+    ]
+   },
+   {
+    "position": 29,
+    "asin": "B0F6BSYPQZ",
+    "sponsored": true,
+    "title": "Hurricane Glass Candle Holders, Large & Medium Brass Lanterns Hurricane Candlestick Holder for Pillar Candles Vintage, Gold Metal Rustic Farmhouse Decor with Hook Chains",
+    "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxMzUzMzg3OTEzMDIwNjc2OjE3OTA4MDE5Mzc6c3BfbXRmOjMwMTQ2MDg1MzcyMzUwMjo6MDo6&url=%2FMUTUALUS-Hurricane-Lanterns-Candlestick-Farmhouse%2Fdp%2FB0F6BSYPQZ%2Fref%3Dsr_1_29_sspa%3Fdib%3DeyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE%26dib_tag%3Dse%26keywords%3Dbrass%2Bhurricane%2Blantern%26qid%3D1790801937%26sr%3D8-29-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1",
+    "link_clean": "https://www.amazon.com/dp/B0F6BSYPQZ/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F6BSYPQZ&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/61qAPibZlFL._AC_UL320_.jpg",
+    "rating": 4.5,
+    "reviews": 135,
+    "bought_last_month": "400+ bought in past month",
+    "price": "$42.99",
+    "extracted_price": 42.99,
+    "save_with_coupon": "You pay $38.69 with coupon",
+    "delivery": [
+     "Join Prime to get FREE delivery Tomorrow, Oct 1",
+     "Or Non-members get FREE delivery Mon, Oct 5"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "$42.99",
+      "extracted_primary_price": 42.99
+     }
+    ]
+   },
+   {
+    "position": 30,
+    "asin": "B0FY5434HB",
+    "title": "Sziqiqi Hurricane Candle Holder Lanterns: Pillar Candle Holders Set of 2",
+    "link": "https://www.amazon.com/Sziqiqi-Hurricane-Candle-Holder-Lanterns/dp/B0FY5434HB/ref=sr_1_30?dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&dib_tag=se&keywords=brass+hurricane+lantern&qid=1790801937&sr=8-30",
+    "link_clean": "https://www.amazon.com/Sziqiqi-Hurricane-Candle-Holder-Lanterns/dp/B0FY5434HB/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FY5434HB&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/61n-ovsduKL._AC_UL320_.jpg",
+    "rating": 4.6,
+    "reviews": 75,
+    "bought_last_month": "200+ bought in past month",
+    "price": "$39.98",
+    "extracted_price": 39.98,
+    "delivery": [
+     "FREE delivery Oct 6 - 7",
+     "Or fastest delivery Mon, Oct 5"
+    ],
+    "stock": "Only 15 left in stock - order soon.",
+    "more_buying_choices": "$31.98 (2+ used & new offers)",
+    "more_buying_choices_link": "https://www.amazon.com/gp/offer-listing/B0FY5434HB/ref=sr_1_30_olp?keywords=brass+hurricane+lantern&dib_tag=se&dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&qid=1790801937&sr=8-30",
+    "purchase_options": [
+     {
+      "primary_price": "$39.98",
+      "extracted_primary_price": 39.98,
+      "more_buying_choices": "$31.98 (2+ used & new offers)",
+      "more_buying_choices_link": "https://www.amazon.com/gp/offer-listing/B0FY5434HB/ref=sr_1_30_olp?keywords=brass+hurricane+lantern&dib_tag=se&dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&qid=1790801937&sr=8-30"
+     }
+    ]
+   },
+   {
+    "position": 31,
+    "asin": "B0DYVH7KT6",
+    "title": "Kings County Tools Naval-Style Oil Lamp, Copper/Brass, 3.25” x 4.75”",
+    "link": "https://www.amazon.com/Oil-Lamp-Naval-Style-Decorative-Adjustable/dp/B0DYVH7KT6/ref=sr_1_31?dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&dib_tag=se&keywords=brass+hurricane+lantern&qid=1790801937&sr=8-31",
+    "link_clean": "https://www.amazon.com/Oil-Lamp-Naval-Style-Decorative-Adjustable/dp/B0DYVH7KT6/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0DYVH7KT6&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/71hofLFq-OL._AC_UL320_.jpg",
+    "rating": 4.2,
+    "reviews": 65,
+    "bought_last_month": "50+ bought in past month",
+    "price": "$49.95",
+    "extracted_price": 49.95,
+    "delivery": [
+     "Join Prime to get FREE delivery Fri, Oct 2",
+     "Or Non-members get FREE delivery Mon, Oct 5"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "$49.95",
+      "extracted_primary_price": 49.95
+     }
+    ]
+   },
+   {
+    "position": 32,
+    "asin": "B07NGWYBXK",
+    "title": "Kings County Tools Brass Oil Lamp with Glass Chimney, Antique Brass, 4”x13”",
+    "link": "https://www.amazon.com/Kings-County-Tools-Large-Extra-Bright/dp/B07NGWYBXK/ref=sr_1_32?dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&dib_tag=se&keywords=brass+hurricane+lantern&qid=1790801937&sr=8-32",
+    "link_clean": "https://www.amazon.com/Kings-County-Tools-Large-Extra-Bright/dp/B07NGWYBXK/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B07NGWYBXK&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/61elIYP+19L._AC_UL320_.jpg",
+    "rating": 4.4,
+    "reviews": 52,
+    "price": "$74.95",
+    "extracted_price": 74.95,
+    "delivery": [
+     "Join Prime to get FREE delivery Tomorrow, Oct 1",
+     "Or Non-members get FREE delivery Mon, Oct 5"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "$74.95",
+      "extracted_primary_price": 74.95
+     }
+    ]
+   },
+   {
+    "position": 33,
+    "asin": "B0F52BN9SB",
+    "title": "5\"&4\" Metal Candle Holder with Handmade Glass Dome in Brass & 2 Timer Candles, Set of 2 Versatile Hurricane Glass Candle Holders for Pillar Candles & Plants",
+    "link": "https://www.amazon.com/Ganwu-Candle-Holder-Versatile-Hurricane/dp/B0F52BN9SB/ref=sr_1_33?dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&dib_tag=se&keywords=brass+hurricane+lantern&qid=1790801937&sr=8-33",
+    "link_clean": "https://www.amazon.com/Ganwu-Candle-Holder-Versatile-Hurricane/dp/B0F52BN9SB/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F52BN9SB&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/81pfK6+djCL._AC_UL320_.jpg",
+    "rating": 4.6,
+    "reviews": 230,
+    "bought_last_month": "600+ bought in past month",
+    "price": "$49.99",
+    "extracted_price": 49.99,
+    "delivery": [
+     "Join Prime to get FREE delivery Tomorrow, Oct 1",
+     "Or Non-members get FREE delivery Mon, Oct 5"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "$49.99",
+      "extracted_primary_price": 49.99
+     }
+    ]
+   },
+   {
+    "position": 34,
+    "asin": "B0FBRPY4JJ",
+    "title": "4“ Wide Modern Farmhouse Metal Hurricane Candle Holder with Handmade Sturdy Glass Sleeve in Vintage Brass for 2\" Pillar Candle & Plants, Glass Hurricane Lantern, Industrial, Minimalistic",
+    "link": "https://www.amazon.com/Twakutwaku-Farmhouse-Hurricane-Industrial-Minimalistic/dp/B0FBRPY4JJ/ref=sr_1_34?dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&dib_tag=se&keywords=brass+hurricane+lantern&qid=1790801937&sr=8-34",
+    "link_clean": "https://www.amazon.com/Twakutwaku-Farmhouse-Hurricane-Industrial-Minimalistic/dp/B0FBRPY4JJ/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FBRPY4JJ&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/61VZKb9kATL._AC_UL320_.jpg",
+    "rating": 4.3,
+    "reviews": 161,
+    "bought_last_month": "50+ bought in past month",
+    "price": "$21.99",
+    "extracted_price": 21.99,
+    "delivery": [
+     "Join Prime to get FREE delivery Fri, Oct 2",
+     "Or Non-members get FREE delivery Mon, Oct 5 on $35 of items shipped by Amazon"
+    ],
+    "more_buying_choices": "$16.49 (2+ used & new offers)",
+    "more_buying_choices_link": "https://www.amazon.com/gp/offer-listing/B0FBRPY4JJ/ref=sr_1_34_olp?keywords=brass+hurricane+lantern&dib_tag=se&dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&qid=1790801937&sr=8-34",
+    "purchase_options": [
+     {
+      "primary_price": "$21.99",
+      "extracted_primary_price": 21.99,
+      "more_buying_choices": "$16.49 (2+ used & new offers)",
+      "more_buying_choices_link": "https://www.amazon.com/gp/offer-listing/B0FBRPY4JJ/ref=sr_1_34_olp?keywords=brass+hurricane+lantern&dib_tag=se&dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&qid=1790801937&sr=8-34"
+     }
+    ]
+   },
+   {
+    "position": 35,
+    "asin": "B0F23Y3H8Q",
+    "title": "Glass Hurricane Candle Holder Decorative Golden Candle Lantern",
+    "link": "https://www.amazon.com/Hurricane-Decorative-Lantern-Candlestick-Centerpieces/dp/B0F23Y3H8Q/ref=sr_1_35?dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&dib_tag=se&keywords=brass+hurricane+lantern&qid=1790801937&sr=8-35",
+    "link_clean": "https://www.amazon.com/Hurricane-Decorative-Lantern-Candlestick-Centerpieces/dp/B0F23Y3H8Q/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F23Y3H8Q&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/81eM4PmUioL._AC_UL320_.jpg",
+    "rating": 4.6,
+    "reviews": 91,
+    "bought_last_month": "100+ bought in past month",
+    "price": "$36.99",
+    "extracted_price": 36.99,
+    "delivery": [
+     "Join Prime to get FREE delivery Tomorrow, Oct 1",
+     "Or Non-members get FREE delivery Mon, Oct 5"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "$36.99",
+      "extracted_primary_price": 36.99
+     }
+    ]
+   },
+   {
+    "position": 36,
+    "asin": "B0FZBPM6NW",
+    "title": "Hurricane Glass Candle Holder, Large Brass Lanterns Hurricane Candlestick Holder for Pillar Candles Vintage, Gold Metal Rustic Farmhouse Decor with Hook Chains",
+    "link": "https://www.amazon.com/Hurricane-Lanterns-Candlestick-Candles-Farmhouse/dp/B0FZBPM6NW/ref=sr_1_36?dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&dib_tag=se&keywords=brass+hurricane+lantern&qid=1790801937&sr=8-36",
+    "link_clean": "https://www.amazon.com/Hurricane-Lanterns-Candlestick-Candles-Farmhouse/dp/B0FZBPM6NW/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FZBPM6NW&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/61voCwU5w2L._AC_UL320_.jpg",
+    "rating": 4.5,
+    "reviews": 135,
+    "price": "$29.99",
+    "extracted_price": 29.99,
+    "offers": [
+     "Save 10% on 2 select item(s)"
+    ],
+    "delivery": [
+     "Join Prime to get FREE delivery Tomorrow, Oct 1",
+     "Or Non-members get FREE delivery Mon, Oct 5 on $35 of items shipped by Amazon"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "$29.99",
+      "extracted_primary_price": 29.99
+     }
+    ]
+   },
+   {
+    "position": 37,
+    "asin": "B0DNZGGBQC",
+    "options": "See options",
+    "options_link": "https://www.amazon.com/3-Wick-Lantern-Outages-Emergency-Vintage/dp/B0DNZGGBQC/ref=sr_1_37_so_ELECTRIC_LANTERN?dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&dib_tag=se&keywords=brass+hurricane+lantern&qid=1790801937&sr=8-37",
+    "title": "3-Wick Candle Lantern for Power Outages, 18H Emergency Light, Vintage Brass",
+    "link": "https://www.amazon.com/3-Wick-Lantern-Outages-Emergency-Vintage/dp/B0DNZGGBQC/ref=sr_1_37?dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&dib_tag=se&keywords=brass+hurricane+lantern&qid=1790801937&sr=8-37",
+    "link_clean": "https://www.amazon.com/3-Wick-Lantern-Outages-Emergency-Vintage/dp/B0DNZGGBQC/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0DNZGGBQC&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/81mQajPl9kL._AC_UL320_.jpg",
+    "rating": 4.4,
+    "reviews": 152,
+    "bought_last_month": "50+ bought in past month",
+    "price": "$37.99",
+    "extracted_price": 37.99,
+    "old_price": "$39.99",
+    "extracted_old_price": 39.99,
+    "offers": [
+     "Save 5% on 2 select item(s)"
+    ],
+    "delivery": [
+     "Join Prime to get FREE delivery Fri, Oct 2",
+     "Or Non-members get FREE delivery Mon, Oct 5"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "$37.99",
+      "extracted_primary_price": 37.99,
+      "old_primary_price": "$39.99",
+      "extracted_old_primary_price": 39.99
+     }
+    ]
+   },
+   {
+    "position": 38,
+    "asin": "B0DG2RM3NM",
+    "title": "16\" High Versatile Modern Metal Hurricane Lantern with Handmade Sturdy Glass Dome in Antique Brass for Pillar Candle & Plants, Industrial, Farmhouse, Shabby Chic (Brass, 6.3\"x16.5\")",
+    "link": "https://www.amazon.com/Twakutwaku-Versatile-Hurricane-Lantern-Handmade/dp/B0DG2RM3NM/ref=sr_1_38?dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&dib_tag=se&keywords=brass+hurricane+lantern&qid=1790801937&sr=8-38",
+    "link_clean": "https://www.amazon.com/Twakutwaku-Versatile-Hurricane-Lantern-Handmade/dp/B0DG2RM3NM/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0DG2RM3NM&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/51ZID03VwjL._AC_UL320_.jpg",
+    "rating": 4.4,
+    "reviews": 139,
+    "price": "$52.99",
+    "extracted_price": 52.99,
+    "delivery": [
+     "Join Prime to get FREE delivery Fri, Oct 2",
+     "Or Non-members get FREE delivery Mon, Oct 5"
+    ],
+    "more_buying_choices": "$39.74 (2+ used & new offers)",
+    "more_buying_choices_link": "https://www.amazon.com/gp/offer-listing/B0DG2RM3NM/ref=sr_1_38_olp?keywords=brass+hurricane+lantern&dib_tag=se&dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&qid=1790801937&sr=8-38",
+    "purchase_options": [
+     {
+      "primary_price": "$52.99",
+      "extracted_primary_price": 52.99,
+      "more_buying_choices": "$39.74 (2+ used & new offers)",
+      "more_buying_choices_link": "https://www.amazon.com/gp/offer-listing/B0DG2RM3NM/ref=sr_1_38_olp?keywords=brass+hurricane+lantern&dib_tag=se&dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&qid=1790801937&sr=8-38"
+     }
+    ]
+   },
+   {
+    "position": 39,
+    "asin": "B0CSK92KHT",
+    "title": "Retisee 2 Pcs Hurricane Lantern 10 Inch Original Oil Burning Lantern",
+    "link": "https://www.amazon.com/Retisee-Hurricane-Original-Decorative-Kerosene/dp/B0CSK92KHT/ref=sr_1_39?dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&dib_tag=se&keywords=brass+hurricane+lantern&qid=1790801937&sr=8-39",
+    "link_clean": "https://www.amazon.com/Retisee-Hurricane-Original-Decorative-Kerosene/dp/B0CSK92KHT/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CSK92KHT&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/7188kuGZcML._AC_UL320_.jpg",
+    "rating": 3.1,
+    "reviews": 111,
+    "price": "$33.99",
+    "extracted_price": 33.99,
+    "delivery": [
+     "Join Prime to get FREE delivery Tomorrow, Oct 1",
+     "Or Non-members get FREE delivery Mon, Oct 5 on $35 of items shipped by Amazon"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "$33.99",
+      "extracted_primary_price": 33.99
+     }
+    ]
+   },
+   {
+    "position": 40,
+    "asin": "B00MFU0XL4",
+    "title": "Dietz #76 Original Oil Burning Lantern (Black)",
+    "link": "https://www.amazon.com/Dietz-Original-Burning-Lantern-Black/dp/B00MFU0XL4/ref=sr_1_40?dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&dib_tag=se&keywords=brass+hurricane+lantern&qid=1790801937&sr=8-40",
+    "link_clean": "https://www.amazon.com/Dietz-Original-Burning-Lantern-Black/dp/B00MFU0XL4/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B00MFU0XL4&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/81lQ69uvroL._AC_UL320_.jpg",
+    "rating": 4.3,
+    "reviews": 2500,
+    "bought_last_month": "200+ bought in past month",
+    "price": "$36.99",
+    "extracted_price": 36.99,
+    "delivery": [
+     "Join Prime to get FREE delivery Tomorrow, Oct 1",
+     "Or Non-members get FREE delivery Mon, Oct 5"
+    ],
+    "stock": "Only 17 left in stock - order soon.",
+    "more_buying_choices": "$25.00 (4 new offers)",
+    "more_buying_choices_link": "https://www.amazon.com/gp/offer-listing/B00MFU0XL4/ref=sr_1_40_olp?keywords=brass+hurricane+lantern&dib_tag=se&dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&qid=1790801937&sr=8-40",
+    "purchase_options": [
+     {
+      "primary_price": "$36.99",
+      "extracted_primary_price": 36.99,
+      "more_buying_choices": "$25.00 (4 new offers)",
+      "more_buying_choices_link": "https://www.amazon.com/gp/offer-listing/B00MFU0XL4/ref=sr_1_40_olp?keywords=brass+hurricane+lantern&dib_tag=se&dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&qid=1790801937&sr=8-40"
+     }
+    ]
+   },
+   {
+    "position": 41,
+    "asin": "B0DLW5FX5G",
+    "title": "Thous Winds Vintage Oil Lamp, Waterproof Fuel Lantern with Carry Handle, for Outdoor Camping Hiking Patio Picnic, Brass",
+    "link": "https://www.amazon.com/Thous-Winds-Vintage-Waterproof-Lantern/dp/B0DLW5FX5G/ref=sr_1_41?dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&dib_tag=se&keywords=brass+hurricane+lantern&qid=1790801937&sr=8-41",
+    "link_clean": "https://www.amazon.com/Thous-Winds-Vintage-Waterproof-Lantern/dp/B0DLW5FX5G/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0DLW5FX5G&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/71RSd-Wq5lL._AC_UL320_.jpg",
+    "rating": 5.0,
+    "reviews": 1,
+    "price": "$78.88",
+    "extracted_price": 78.88,
+    "delivery": [
+     "FREE delivery Tue, Oct 6",
+     "Or fastest delivery Sun, Oct 4"
+    ],
+    "stock": "Only 1 left in stock - order soon.",
+    "purchase_options": [
+     {
+      "primary_price": "$78.88",
+      "extracted_primary_price": 78.88
+     }
+    ]
+   },
+   {
+    "position": 42,
+    "asin": "B0FBRR35RB",
+    "title": "3.3\" Wide Modern Farmhouse Metal Hurricane Candle Holder with Handmade Sturdy Glass Sleeve in Antique Brass for Pillar Candle & Plants, Glass Hurricane Lantern, Industrial, Minimalistic",
+    "link": "https://www.amazon.com/Twakutwaku-Farmhouse-Hurricane-Industrial-Minimalistic/dp/B0FBRR35RB/ref=sr_1_42?dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&dib_tag=se&keywords=brass+hurricane+lantern&qid=1790801937&sr=8-42",
+    "link_clean": "https://www.amazon.com/Twakutwaku-Farmhouse-Hurricane-Industrial-Minimalistic/dp/B0FBRR35RB/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FBRR35RB&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/51BI3TYfIHL._AC_UL320_.jpg",
+    "rating": 4.3,
+    "reviews": 161,
+    "price": "$16.99",
+    "extracted_price": 16.99,
+    "delivery": [
+     "FREE delivery Mon, Oct 5 on $35 of items shipped by Amazon",
+     "Or fastest delivery Sun, Oct 4"
+    ],
+    "more_buying_choices": "$12.74 (2+ used & new offers)",
+    "more_buying_choices_link": "https://www.amazon.com/gp/offer-listing/B0FBRR35RB/ref=sr_1_42_olp?keywords=brass+hurricane+lantern&dib_tag=se&dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&qid=1790801937&sr=8-42",
+    "purchase_options": [
+     {
+      "primary_price": "$16.99",
+      "extracted_primary_price": 16.99,
+      "more_buying_choices": "$12.74 (2+ used & new offers)",
+      "more_buying_choices_link": "https://www.amazon.com/gp/offer-listing/B0FBRR35RB/ref=sr_1_42_olp?keywords=brass+hurricane+lantern&dib_tag=se&dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&qid=1790801937&sr=8-42"
+     }
+    ]
+   },
+   {
+    "position": 43,
+    "asin": "B07NGSKKCX",
+    "title": "Kings County Tools Oil Lamp with Glass Chimney, Brass, 4” x 9”",
+    "link": "https://www.amazon.com/Kings-County-Tools-Antique-Style-Extra-Bright/dp/B07NGSKKCX/ref=sr_1_43?dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&dib_tag=se&keywords=brass+hurricane+lantern&qid=1790801937&sr=8-43",
+    "link_clean": "https://www.amazon.com/Kings-County-Tools-Antique-Style-Extra-Bright/dp/B07NGSKKCX/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B07NGSKKCX&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/510VCeZFcOL._AC_UL320_.jpg",
+    "rating": 4.4,
+    "reviews": 30,
+    "price": "$74.95",
+    "extracted_price": 74.95,
+    "delivery": [
+     "Join Prime to get FREE delivery Tomorrow, Oct 1",
+     "Or Non-members get FREE delivery Mon, Oct 5"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "$74.95",
+      "extracted_primary_price": 74.95
+     }
+    ]
+   },
+   {
+    "position": 44,
+    "asin": "B0DP2VZWSR",
+    "title": "6\" Wide Modern Farmhouse Metal Hurricane Candle Holder with Handmade Sturdy Glass Sleeve in Antique Brass for Pillar Candle & Plants, Glass Hurricane Lantern, Industrial, Minimalistic",
+    "link": "https://www.amazon.com/Farmhouse-Hurricane-Handmade-Industrial-Minimalistic/dp/B0DP2VZWSR/ref=sr_1_44?dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&dib_tag=se&keywords=brass+hurricane+lantern&qid=1790801937&sr=8-44",
+    "link_clean": "https://www.amazon.com/Farmhouse-Hurricane-Handmade-Industrial-Minimalistic/dp/B0DP2VZWSR/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0DP2VZWSR&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/617SoAQ2RjL._AC_UL320_.jpg",
+    "rating": 4.3,
+    "reviews": 161,
+    "bought_last_month": "50+ bought in past month",
+    "price": "$34.99",
+    "extracted_price": 34.99,
+    "delivery": [
+     "Join Prime to get FREE delivery Fri, Oct 2",
+     "Or Non-members get FREE delivery Mon, Oct 5 on $35 of items shipped by Amazon"
+    ],
+    "more_buying_choices": "$26.24 (2+ used & new offers)",
+    "more_buying_choices_link": "https://www.amazon.com/gp/offer-listing/B0DP2VZWSR/ref=sr_1_44_olp?keywords=brass+hurricane+lantern&dib_tag=se&dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&qid=1790801937&sr=8-44",
+    "purchase_options": [
+     {
+      "primary_price": "$34.99",
+      "extracted_primary_price": 34.99,
+      "more_buying_choices": "$26.24 (2+ used & new offers)",
+      "more_buying_choices_link": "https://www.amazon.com/gp/offer-listing/B0DP2VZWSR/ref=sr_1_44_olp?keywords=brass+hurricane+lantern&dib_tag=se&dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&qid=1790801937&sr=8-44"
+     }
+    ]
+   },
+   {
+    "position": 45,
+    "asin": "B0GXV2GD38",
+    "title": "5\" & 4\" Metal Candle Holder with Ribbed Glass Candle Lanterns Set of 2, Vintage Windproof Hurricane Pillar Candle Holder, Decorative Table Centerpiece Patio Decor, Brass",
+    "link": "https://www.amazon.com/Ganwu-Windproof-Hurricane-Decorative-Centerpiece/dp/B0GXV2GD38/ref=sr_1_45?dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&dib_tag=se&keywords=brass+hurricane+lantern&qid=1790801937&sr=8-45",
+    "link_clean": "https://www.amazon.com/Ganwu-Windproof-Hurricane-Decorative-Centerpiece/dp/B0GXV2GD38/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0GXV2GD38&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/71GLCyrsd-L._AC_UL320_.jpg",
+    "rating": 4.9,
+    "reviews": 22,
+    "bought_last_month": "300+ bought in past month",
+    "price": "$49.99",
+    "extracted_price": 49.99,
+    "delivery": [
+     "FREE delivery Oct 7 - 11",
+     "Or fastest delivery Oct 7 - 8"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "$49.99",
+      "extracted_primary_price": 49.99
+     }
+    ]
+   },
+   {
+    "position": 46,
+    "asin": "B0C62GYPND",
+    "title": "Light of Mine: Dietz #08 Air Pilot Black and Gold Oil Lantern Bundle",
+    "link": "https://www.amazon.com/Light-Mine-Pilot-Wick-Black/dp/B0C62GYPND/ref=sr_1_46?dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&dib_tag=se&keywords=brass+hurricane+lantern&qid=1790801937&sr=8-46",
+    "link_clean": "https://www.amazon.com/Light-Mine-Pilot-Wick-Black/dp/B0C62GYPND/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0C62GYPND&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/81mHXzbng3L._AC_UL320_.jpg",
+    "rating": 4.7,
+    "reviews": 26,
+    "price": "$52.99",
+    "extracted_price": 52.99,
+    "delivery": [
+     "FREE delivery Wed, Oct 7"
+    ],
+    "stock": "Only 11 left in stock - order soon.",
+    "small_business": true,
+    "purchase_options": [
+     {
+      "primary_price": "$52.99",
+      "extracted_primary_price": 52.99
+     }
+    ]
+   },
+   {
+    "position": 47,
+    "asin": "B0H82D27NV",
+    "title": "Hurricane Candle Holder Decorative Candle Lantern Pillar Candle Holders",
+    "link": "https://www.amazon.com/Hurricane-Candle-Decorative-Lantern-Holders/dp/B0H82D27NV/ref=sr_1_47?dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&dib_tag=se&keywords=brass+hurricane+lantern&qid=1790801937&sr=8-47",
+    "link_clean": "https://www.amazon.com/Hurricane-Candle-Decorative-Lantern-Holders/dp/B0H82D27NV/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H82D27NV&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/81AHxEFUywL._AC_UL320_.jpg",
+    "rating": 3.7,
+    "reviews": 4,
+    "price": "$38.99",
+    "extracted_price": 38.99,
+    "delivery": [
+     "Join Prime to get FREE delivery Tomorrow, Oct 1",
+     "Or Non-members get FREE delivery Mon, Oct 5"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "$38.99",
+      "extracted_primary_price": 38.99
+     }
+    ]
+   },
+   {
+    "position": 48,
+    "asin": "B008UW3OYO",
+    "title": "Dietz #80 Blizzard Hurricane Oil Lamp Burning Lantern Blue",
+    "link": "https://www.amazon.com/Dietz-Blizzard-Burning-Lantern-Blue/dp/B008UW3OYO/ref=sr_1_48?dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&dib_tag=se&keywords=brass+hurricane+lantern&qid=1790801937&sr=8-48",
+    "link_clean": "https://www.amazon.com/Dietz-Blizzard-Burning-Lantern-Blue/dp/B008UW3OYO/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B008UW3OYO&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/512+kpfJkzL._AC_UL320_.jpg",
+    "rating": 4.5,
+    "reviews": 1100,
+    "bought_last_month": "50+ bought in past month",
+    "price": "$62.99",
+    "extracted_price": 62.99,
+    "delivery": [
+     "Join Prime to get FREE delivery Fri, Oct 2",
+     "Or Non-members get FREE delivery Mon, Oct 5"
+    ],
+    "stock": "Only 3 left in stock - order soon.",
+    "purchase_options": [
+     {
+      "primary_price": "$62.99",
+      "extracted_primary_price": 62.99
+     }
+    ]
+   },
+   {
+    "position": 49,
+    "asin": "B0FDW6BBRL",
+    "title": "12.5\" & 16.5\" Timeless Cozy Decorative Lanterns Set of 2, Handcrafted Metal Iron Candle Holders, Farmhouse Elegance Fireplace Mantel Table Festive Gatherings Decor (Antique Gold)",
+    "link": "https://www.amazon.com/Decorative-Handcrafted-Farmhouse-Fireplace-Gatherings/dp/B0FDW6BBRL/ref=sr_1_49?dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&dib_tag=se&keywords=brass+hurricane+lantern&qid=1790801937&sr=8-49",
+    "link_clean": "https://www.amazon.com/Decorative-Handcrafted-Farmhouse-Fireplace-Gatherings/dp/B0FDW6BBRL/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FDW6BBRL&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/71kFZQnGVyL._AC_UL320_.jpg",
+    "rating": 4.3,
+    "reviews": 358,
+    "bought_last_month": "1K+ bought in past month",
+    "price": "$29.97",
+    "extracted_price": 29.97,
+    "old_price": "$35.77",
+    "extracted_old_price": 35.77,
+    "delivery": [
+     "Join Prime to get FREE delivery Fri, Oct 2",
+     "Or Non-members get FREE delivery Mon, Oct 5 on $35 of items shipped by Amazon"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "$29.97",
+      "extracted_primary_price": 29.97,
+      "old_primary_price": "$35.77",
+      "extracted_old_primary_price": 35.77
+     }
+    ]
+   },
+   {
+    "position": 50,
+    "asin": "B0GWWMPHXD",
+    "title": "Modern Farmhouse Hurricane Candle Holder, Antique Brass Metal Centerpiece",
+    "link": "https://www.amazon.com/Modern-Farmhouse-Hurricane-Antique-Centerpiece/dp/B0GWWMPHXD/ref=sr_1_50?dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&dib_tag=se&keywords=brass+hurricane+lantern&qid=1790801937&sr=8-50",
+    "link_clean": "https://www.amazon.com/Modern-Farmhouse-Hurricane-Antique-Centerpiece/dp/B0GWWMPHXD/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0GWWMPHXD&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/71AI2S6FIGL._AC_UL320_.jpg",
+    "rating": 4.4,
+    "reviews": 9,
+    "bought_last_month": "100+ bought in past month",
+    "price": "$29.99",
+    "extracted_price": 29.99,
+    "delivery": [
+     "Join Prime to get FREE delivery Fri, Oct 2",
+     "Or Non-members get FREE delivery Mon, Oct 5 on $35 of items shipped by Amazon"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "$29.99",
+      "extracted_primary_price": 29.99
+     }
+    ]
+   },
+   {
+    "position": 51,
+    "asin": "B071JZ7TKR",
+    "title": "Stonebriar 18 Inch Rustic Wooden Candle Hurricane Lantern, For Table Top, Mantle, Wall Hanging, or Garden Display, Indoor & Outdoor Use, Extra Large",
+    "link": "https://www.amazon.com/Stonebriar-Hurricane-Lantern-Hanging-Display/dp/B071JZ7TKR/ref=sr_1_51?dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&dib_tag=se&keywords=brass+hurricane+lantern&qid=1790801937&sr=8-51",
+    "link_clean": "https://www.amazon.com/Stonebriar-Hurricane-Lantern-Hanging-Display/dp/B071JZ7TKR/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B071JZ7TKR&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/81ZpaMdlLtL._AC_UL320_.jpg",
+    "rating": 4.5,
+    "reviews": 1100,
+    "price": "$38.86",
+    "extracted_price": 38.86,
+    "old_price": "$41.76",
+    "extracted_old_price": 41.76,
+    "delivery": [
+     "Join Prime to get FREE delivery Fri, Oct 2",
+     "Or Non-members get FREE delivery Mon, Oct 5"
+    ],
+    "more_buying_choices": "$25.04 (2+ used & new offers)",
+    "more_buying_choices_link": "https://www.amazon.com/gp/offer-listing/B071JZ7TKR/ref=sr_1_51_olp?keywords=brass+hurricane+lantern&dib_tag=se&dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&qid=1790801937&sr=8-51",
+    "small_business": true,
+    "purchase_options": [
+     {
+      "primary_price": "$38.86",
+      "extracted_primary_price": 38.86,
+      "old_primary_price": "$41.76",
+      "extracted_old_primary_price": 41.76,
+      "more_buying_choices": "$25.04 (2+ used & new offers)",
+      "more_buying_choices_link": "https://www.amazon.com/gp/offer-listing/B071JZ7TKR/ref=sr_1_51_olp?keywords=brass+hurricane+lantern&dib_tag=se&dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&qid=1790801937&sr=8-51"
+     }
+    ]
+   },
+   {
+    "position": 52,
+    "asin": "B0CW2HN3GM",
+    "title": "NUPTIO Gold Lanterns Decorative Indoor: Hanging Candle Lantern for Pillars",
+    "link": "https://www.amazon.com/NUPTIO-Gold-Lanterns-Decorative-Indoor/dp/B0CW2HN3GM/ref=sr_1_52?dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&dib_tag=se&keywords=brass+hurricane+lantern&qid=1790801937&sr=8-52",
+    "link_clean": "https://www.amazon.com/NUPTIO-Gold-Lanterns-Decorative-Indoor/dp/B0CW2HN3GM/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CW2HN3GM&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/81-aXe0mt6L._AC_UL320_.jpg",
+    "rating": 4.8,
+    "reviews": 114,
+    "price": "$29.99",
+    "extracted_price": 29.99,
+    "offers": [
+     "Save 5% on 2 select item(s)"
+    ],
+    "delivery": [
+     "Join Prime to get FREE delivery Fri, Oct 2",
+     "Or Non-members get FREE delivery Mon, Oct 5 on $35 of items shipped by Amazon"
+    ],
+    "more_buying_choices": "$15.99 (2+ used & new offers)",
+    "more_buying_choices_link": "https://www.amazon.com/gp/offer-listing/B0CW2HN3GM/ref=sr_1_52_olp?keywords=brass+hurricane+lantern&dib_tag=se&dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&qid=1790801937&sr=8-52",
+    "purchase_options": [
+     {
+      "primary_price": "$29.99",
+      "extracted_primary_price": 29.99,
+      "more_buying_choices": "$15.99 (2+ used & new offers)",
+      "more_buying_choices_link": "https://www.amazon.com/gp/offer-listing/B0CW2HN3GM/ref=sr_1_52_olp?keywords=brass+hurricane+lantern&dib_tag=se&dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&qid=1790801937&sr=8-52"
+     }
+    ]
+   },
+   {
+    "position": 53,
+    "asin": "B00ZFN1R3Q",
+    "title": "Dietz #80 Blizzard Hurricane Oil Lamp Burning Lantern Black with Gold Trim",
+    "link": "https://www.amazon.com/Dietz-Blizzard-Hurricane-Burning-Lantern/dp/B00ZFN1R3Q/ref=sr_1_53?dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&dib_tag=se&keywords=brass+hurricane+lantern&qid=1790801937&sr=8-53",
+    "link_clean": "https://www.amazon.com/Dietz-Blizzard-Hurricane-Burning-Lantern/dp/B00ZFN1R3Q/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B00ZFN1R3Q&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/61NAaCtBsLL._AC_UL320_.jpg",
+    "rating": 4.4,
+    "reviews": 78,
+    "price": "$66.99",
+    "extracted_price": 66.99,
+    "delivery": [
+     "FREE delivery Mon, Oct 5",
+     "Or fastest delivery Sun, Oct 4"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "$66.99",
+      "extracted_primary_price": 66.99
+     }
+    ]
+   },
+   {
+    "position": 54,
+    "asin": "B0B5V1RPZB",
+    "title": "Marlrin USB Rechargeable Lanterns 2 Pack with Remote Control 4 Modes Lights",
+    "link": "https://www.amazon.com/Christmas-Decorations-Flickering-Rechargeable-Lanterns/dp/B0B5V1RPZB/ref=sr_1_54?dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&dib_tag=se&keywords=brass+hurricane+lantern&qid=1790801937&sr=8-54",
+    "link_clean": "https://www.amazon.com/Christmas-Decorations-Flickering-Rechargeable-Lanterns/dp/B0B5V1RPZB/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0B5V1RPZB&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/612HzchoiyL._AC_UL320_.jpg",
+    "rating": 4.4,
+    "reviews": 1000,
+    "bought_last_month": "1K+ bought in past month",
+    "price": "$39.99",
+    "extracted_price": 39.99,
+    "delivery": [
+     "FREE delivery Mon, Oct 5",
+     "Or fastest delivery Sun, Oct 4"
+    ],
+    "stock": "Only 1 left in stock - order soon.",
+    "purchase_options": [
+     {
+      "primary_price": "$39.99",
+      "extracted_primary_price": 39.99
+     }
+    ]
+   },
+   {
+    "position": 55,
+    "asin": "B0C9ZLPDSB",
+    "title": "Large Chamber Oil Lamp, Vintage Glass Clear Kerosene Lamp Indoor Decorative Hurricane Lamp Oil Lantern for Tabletop Decor and Emergency Lighting Use Home Decor Lighting",
+    "link": "https://www.amazon.com/Kerosene-Decorative-Hurricane-Tabletop-Emergency/dp/B0C9ZLPDSB/ref=sr_1_55?dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&dib_tag=se&keywords=brass+hurricane+lantern&qid=1790801937&sr=8-55",
+    "link_clean": "https://www.amazon.com/Kerosene-Decorative-Hurricane-Tabletop-Emergency/dp/B0C9ZLPDSB/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0C9ZLPDSB&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/61iXztDm24L._AC_UL320_.jpg",
+    "price": "$34.99",
+    "extracted_price": 34.99,
+    "delivery": [
+     "FREE delivery Mon, Oct 5 on $35 of items shipped by Amazon",
+     "Or fastest delivery Sun, Oct 4"
+    ],
+    "stock": "Only 8 left in stock - order soon.",
+    "purchase_options": [
+     {
+      "primary_price": "$34.99",
+      "extracted_primary_price": 34.99
+     }
+    ]
+   },
+   {
+    "position": 56,
+    "asin": "B0F7R3NH3S",
+    "title": "Vintage Brass Metal Candle Lantern with Thick Glass Dome Set of 2",
+    "link": "https://www.amazon.com/Vintage-Brass-Metal-Candle-Lantern/dp/B0F7R3NH3S/ref=sr_1_56?dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&dib_tag=se&keywords=brass+hurricane+lantern&qid=1790801937&sr=8-56",
+    "link_clean": "https://www.amazon.com/Vintage-Brass-Metal-Candle-Lantern/dp/B0F7R3NH3S/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F7R3NH3S&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/610iPHhGloL._AC_UL320_.jpg",
+    "rating": 4.6,
+    "reviews": 120,
+    "bought_last_month": "300+ bought in past month",
+    "price": "$45.99",
+    "extracted_price": 45.99,
+    "delivery": [
+     "FREE delivery Tue, Oct 6",
+     "Or fastest delivery Mon, Oct 5"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "$45.99",
+      "extracted_primary_price": 45.99
+     }
+    ]
+   },
+   {
+    "position": 57,
+    "asin": "B0CL9J1LK3",
+    "title": "4 Pack 9.5 in Vintage Hurricane Lanterns, Battery Operated, Bronze",
+    "link": "https://www.amazon.com/Vintage-Lanterns-Operated-Hurricane-Lighting/dp/B0CL9J1LK3/ref=sr_1_57?dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&dib_tag=se&keywords=brass+hurricane+lantern&qid=1790801937&sr=8-57",
+    "link_clean": "https://www.amazon.com/Vintage-Lanterns-Operated-Hurricane-Lighting/dp/B0CL9J1LK3/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CL9J1LK3&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/71ngE-VDuBL._AC_UL320_.jpg",
+    "rating": 4.3,
+    "reviews": 50,
+    "price": "$55.99",
+    "extracted_price": 55.99,
+    "delivery": [
+     "Join Prime to get FREE delivery Fri, Oct 2",
+     "Or Non-members get FREE delivery Mon, Oct 5"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "$55.99",
+      "extracted_primary_price": 55.99
+     }
+    ]
+   },
+   {
+    "position": 58,
+    "asin": "B0GZVL8RT7",
+    "title": "Vintage Brass Metal Candle Lantern with Ribbed Thick Glass Dome Set of 2",
+    "link": "https://www.amazon.com/Vintage-Brass-Candle-Lantern-Ribbed/dp/B0GZVL8RT7/ref=sr_1_58?dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&dib_tag=se&keywords=brass+hurricane+lantern&qid=1790801937&sr=8-58",
+    "link_clean": "https://www.amazon.com/Vintage-Brass-Candle-Lantern-Ribbed/dp/B0GZVL8RT7/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0GZVL8RT7&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/710BcNIsHvL._AC_UL320_.jpg",
+    "rating": 4.6,
+    "reviews": 16,
+    "bought_last_month": "50+ bought in past month",
+    "price": "$38.99",
+    "extracted_price": 38.99,
+    "delivery": [
+     "Join Prime to get FREE delivery Tomorrow, Oct 1",
+     "Or Non-members get FREE delivery Mon, Oct 5"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "$38.99",
+      "extracted_primary_price": 38.99
+     }
+    ]
+   },
+   {
+    "position": 59,
+    "asin": "B0FFHDFM87",
+    "title": "16\" Modern Metal Lantern with Twisted Rope-Style Frame in Antique Brass with Glass Hurricane for Pillars, String Light. Centerpiece, Mantel, Ambient Lighting, Farmhouse, Transitional, Patio, Entryway",
+    "link": "https://www.amazon.com/Rope-Style-Hurricane-Centerpiece-Farmhouse-Transitional/dp/B0FFHDFM87/ref=sr_1_59?dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&dib_tag=se&keywords=brass+hurricane+lantern&qid=1790801937&sr=8-59",
+    "link_clean": "https://www.amazon.com/Rope-Style-Hurricane-Centerpiece-Farmhouse-Transitional/dp/B0FFHDFM87/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FFHDFM87&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/71TZ9uv3LDL._AC_UL320_.jpg",
+    "rating": 4.2,
+    "reviews": 5,
+    "price": "$37.99",
+    "extracted_price": 37.99,
+    "delivery": [
+     "FREE delivery Mon, Oct 5",
+     "Or fastest delivery Sun, Oct 4"
+    ],
+    "more_buying_choices": "$20.89 (2+ used & new offers)",
+    "more_buying_choices_link": "https://www.amazon.com/gp/offer-listing/B0FFHDFM87/ref=sr_1_59_olp?keywords=brass+hurricane+lantern&dib_tag=se&dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&qid=1790801937&sr=8-59",
+    "purchase_options": [
+     {
+      "primary_price": "$37.99",
+      "extracted_primary_price": 37.99,
+      "more_buying_choices": "$20.89 (2+ used & new offers)",
+      "more_buying_choices_link": "https://www.amazon.com/gp/offer-listing/B0FFHDFM87/ref=sr_1_59_olp?keywords=brass+hurricane+lantern&dib_tag=se&dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&qid=1790801937&sr=8-59"
+     }
+    ]
+   },
+   {
+    "position": 60,
+    "asin": "B0DP2VNCGF",
+    "title": "9\" Wide Modern Farmhouse Metal Hurricane Candle Holder with Handmade Sturdy Glass Sleeve in Vintage Brass for Pillar Candle & Plants, Glass Hurricane Lantern, Industrial, Minimalistic",
+    "link": "https://www.amazon.com/Farmhouse-Hurricane-Handmade-Industrial-Minimalistic/dp/B0DP2VNCGF/ref=sr_1_60?dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&dib_tag=se&keywords=brass+hurricane+lantern&qid=1790801937&sr=8-60",
+    "link_clean": "https://www.amazon.com/Farmhouse-Hurricane-Handmade-Industrial-Minimalistic/dp/B0DP2VNCGF/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0DP2VNCGF&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/610IzBfKtmL._AC_UL320_.jpg",
+    "rating": 4.3,
+    "reviews": 161,
+    "bought_last_month": "50+ bought in past month",
+    "price": "$49.99",
+    "extracted_price": 49.99,
+    "delivery": [
+     "Join Prime to get FREE delivery Fri, Oct 2",
+     "Or Non-members get FREE delivery Mon, Oct 5"
+    ],
+    "more_buying_choices": "$42.49 (2+ used & new offers)",
+    "more_buying_choices_link": "https://www.amazon.com/gp/offer-listing/B0DP2VNCGF/ref=sr_1_60_olp?keywords=brass+hurricane+lantern&dib_tag=se&dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&qid=1790801937&sr=8-60",
+    "purchase_options": [
+     {
+      "primary_price": "$49.99",
+      "extracted_primary_price": 49.99,
+      "more_buying_choices": "$42.49 (2+ used & new offers)",
+      "more_buying_choices_link": "https://www.amazon.com/gp/offer-listing/B0DP2VNCGF/ref=sr_1_60_olp?keywords=brass+hurricane+lantern&dib_tag=se&dib=eyJ2IjoiMSJ9.UadFdT1DJiOWs9v1nvMDInxFuEK9122Bt4JgJYx3XHgZBZrFKr7iU5rPwRvxbeqnO0_fEkEnlcmLjF8VGrYWHnw4soRHoLVeccYYX2daTMQdcgftFafO7LzVOYpQvG2LQdZNy04X-vA47I3-0w-COHuEkd8E5vuolpaC53JyPMKjDNGrMO1vXL6GMe_8PbO2eD4gfm75jKbYKfmV5pYVqKZoOKyKU547YJXAxRR_EU6fR2h2lUufpWTY50_-TMqkWmjignLdTZ-1fWocvJFWooDmVswkk7BpnZoHM_juPgY.Q05FOme3RAQL2PzULqt4Yl8TA2fTAI3wX4war3u47wE&qid=1790801937&sr=8-60"
+     }
+    ]
+   }
+  ],
+  "featured_products": [
+   {
+    "title": "Customers frequently viewed",
+    "products": [
+     {
+      "position": 1,
+      "asin": "B0CN66ZSBJ",
+      "sponsored": true,
+      "title": "HPC Decor Modern Farmhouse Lantern Decor- Gold Metal Candle Lanterns for Christmas- Lanterns Decorative w/Timer Flickering Candles for Living Room, Home, Indoor, Outdoor, Table,Fireplace Mantle Decor",
+      "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo4MTM3NTk1MDE2OTY1NTU1OjE3OTA4MDE5Mzg6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMTA5Nzc4ODExNjUwMjo6MDo6&url=%2FHPC-Farmhouse-Christmas-Decorative-Flickering%2Fdp%2FB0CN66ZSBJ%2Fref%3Dsxin_15_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.4e6e4604-30c2-4a55-84df-0e41b8f895e4%253Aamzn1.sym.4e6e4604-30c2-4a55-84df-0e41b8f895e4%26cv_ct_cx%3Dbrass%2Bhurricane%2Blantern%26keywords%3Dbrass%2Bhurricane%2Blantern%26pd_rd_i%3DB0CN66ZSBJ%26pd_rd_r%3D136afdc0-c410-410a-a3dd-23d9fee1c5f8%26pd_rd_w%3D11hbS%26pd_rd_wg%3Dp0Cg2%26pf_rd_p%3D4e6e4604-30c2-4a55-84df-0e41b8f895e4%26pf_rd_r%3DFX8VS6VAS6HKGPP6JFXZ%26qid%3D1790801937%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-1-6024b2a3-78e4-4fed-8fed-e1613be3bcce-spons%26aref%3DMm0Br1geX1%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1&aref=Mm0Br1geX1",
+      "link_clean": "https://www.amazon.com/dp/B0CN66ZSBJ/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CN66ZSBJ&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/61rZKGT69ML._AC_UL320_.jpg",
+      "rating": 4.4,
+      "reviews": 1400,
+      "bought_last_month": "100+ bought in past month",
+      "price": "$27.99",
+      "extracted_price": 27.99,
+      "delivery": [
+       "Join Prime to get FREE delivery Fri, Oct 2Or Non-members get FREE delivery Mon, Oct 5 on $35 of items shipped by Amazon",
+       "Join Prime to get FREE delivery Fri, Oct 2",
+       "Or Non-members get FREE delivery Mon, Oct 5 on $35 of items shipped by Amazon"
+      ],
+      "purchase_options": [
+       {
+        "primary_price": "$27.99",
+        "extracted_primary_price": 27.99
+       }
+      ]
+     },
+     {
+      "position": 2,
+      "asin": "B0GTLFFZ7B",
+      "sponsored": true,
+      "title": "Brass Hurricane Handmade Sturdy Glass Dome Candle Holders with Glass Cover",
+      "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo4MTM3NTk1MDE2OTY1NTU1OjE3OTA4MDE5Mzg6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMTM3MjE2NDc0MTMwMjo6MTo6&url=%2FHurricane-Handmade-Sturdy-Candle-Holders%2Fdp%2FB0GTLFFZ7B%2Fref%3Dsxin_15_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.4e6e4604-30c2-4a55-84df-0e41b8f895e4%253Aamzn1.sym.4e6e4604-30c2-4a55-84df-0e41b8f895e4%26cv_ct_cx%3Dbrass%2Bhurricane%2Blantern%26keywords%3Dbrass%2Bhurricane%2Blantern%26pd_rd_i%3DB0GTLFFZ7B%26pd_rd_r%3D136afdc0-c410-410a-a3dd-23d9fee1c5f8%26pd_rd_w%3D11hbS%26pd_rd_wg%3Dp0Cg2%26pf_rd_p%3D4e6e4604-30c2-4a55-84df-0e41b8f895e4%26pf_rd_r%3DFX8VS6VAS6HKGPP6JFXZ%26qid%3D1790801937%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-2-6024b2a3-78e4-4fed-8fed-e1613be3bcce-spons%26aref%3DUFJsYr0lhq%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1&aref=UFJsYr0lhq",
+      "link_clean": "https://www.amazon.com/dp/B0GTLFFZ7B/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0GTLFFZ7B&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/71vB33aG76L._AC_UL320_.jpg",
+      "rating": 4.8,
+      "reviews": 26,
+      "bought_last_month": "100+ bought in past month",
+      "price": "$36.99",
+      "extracted_price": 36.99,
+      "delivery": [
+       "FREE delivery Oct 22 - Nov 11Or fastest delivery Oct 22 - Nov 9",
+       "FREE delivery Oct 22 - Nov 11",
+       "Or fastest delivery Oct 22 - Nov 9"
+      ],
+      "purchase_options": [
+       {
+        "primary_price": "$36.99",
+        "extracted_primary_price": 36.99
+       }
+      ]
+     },
+     {
+      "position": 3,
+      "asin": "B0CG93QSJP",
+      "sponsored": true,
+      "title": "Romadedi Gold Mini Lantern for Centerpiece, Pack of 10",
+      "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo4MTM3NTk1MDE2OTY1NTU1OjE3OTA4MDE5Mzg6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMTM1MDk0MDU3ODYwMjo6Mjo6&url=%2FRomadedi-Decorative-Centerpiece-Flickering-Decorations%2Fdp%2FB0CG93QSJP%2Fref%3Dsxin_15_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.4e6e4604-30c2-4a55-84df-0e41b8f895e4%253Aamzn1.sym.4e6e4604-30c2-4a55-84df-0e41b8f895e4%26cv_ct_cx%3Dbrass%2Bhurricane%2Blantern%26keywords%3Dbrass%2Bhurricane%2Blantern%26pd_rd_i%3DB0CG93QSJP%26pd_rd_r%3D136afdc0-c410-410a-a3dd-23d9fee1c5f8%26pd_rd_w%3D11hbS%26pd_rd_wg%3Dp0Cg2%26pf_rd_p%3D4e6e4604-30c2-4a55-84df-0e41b8f895e4%26pf_rd_r%3DFX8VS6VAS6HKGPP6JFXZ%26qid%3D1790801937%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-3-6024b2a3-78e4-4fed-8fed-e1613be3bcce-spons%26aref%3D86Bu4ezGA3%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1&aref=86Bu4ezGA3",
+      "link_clean": "https://www.amazon.com/dp/B0CG93QSJP/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CG93QSJP&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/81rxZg8ALaL._AC_UL320_.jpg",
+      "rating": 4.5,
+      "reviews": 134,
+      "bought_last_month": "100+ bought in past month",
+      "price": "$29.99",
+      "extracted_price": 29.99,
+      "delivery": [
+       "Join Prime to get FREE delivery Fri, Oct 2Or Non-members get FREE delivery Mon, Oct 5 on $35 of items shipped by Amazon",
+       "Join Prime to get FREE delivery Fri, Oct 2",
+       "Or Non-members get FREE delivery Mon, Oct 5 on $35 of items shipped by Amazon"
+      ],
+      "purchase_options": [
+       {
+        "primary_price": "$29.99",
+        "extracted_primary_price": 29.99
+       }
+      ]
+     },
+     {
+      "position": 4,
+      "asin": "B0FDW6BBRL",
+      "sponsored": true,
+      "title": "12.5\" & 16.5\" Timeless Cozy Decorative Lanterns Set of 2, Handcrafted Metal Iron Candle Holders, Farmhouse Elegance Fireplace Mantel Table Festive Gatherings Decor (Antique Gold)",
+      "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo4MTM3NTk1MDE2OTY1NTU1OjE3OTA4MDE5Mzg6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMTMwMjU1Njk4MTUwMjo6Mzo6&url=%2FDecorative-Handcrafted-Farmhouse-Fireplace-Gatherings%2Fdp%2FB0FDW6BBRL%2Fref%3Dsxin_15_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.4e6e4604-30c2-4a55-84df-0e41b8f895e4%253Aamzn1.sym.4e6e4604-30c2-4a55-84df-0e41b8f895e4%26cv_ct_cx%3Dbrass%2Bhurricane%2Blantern%26keywords%3Dbrass%2Bhurricane%2Blantern%26pd_rd_i%3DB0FDW6BBRL%26pd_rd_r%3D136afdc0-c410-410a-a3dd-23d9fee1c5f8%26pd_rd_w%3D11hbS%26pd_rd_wg%3Dp0Cg2%26pf_rd_p%3D4e6e4604-30c2-4a55-84df-0e41b8f895e4%26pf_rd_r%3DFX8VS6VAS6HKGPP6JFXZ%26qid%3D1790801937%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-4-6024b2a3-78e4-4fed-8fed-e1613be3bcce-spons%26aref%3Dtx761Q9bBC%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1&aref=tx761Q9bBC",
+      "link_clean": "https://www.amazon.com/dp/B0FDW6BBRL/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FDW6BBRL&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/71kFZQnGVyL._AC_UL320_.jpg",
+      "rating": 4.3,
+      "reviews": 358,
+      "bought_last_month": "1K+ bought in past month",
+      "price": "$29.97",
+      "extracted_price": 29.97,
+      "old_price": "$35.77",
+      "extracted_old_price": 35.77,
+      "delivery": [
+       "Join Prime to get FREE delivery Fri, Oct 2Or Non-members get FREE delivery Mon, Oct 5 on $35 of items shipped by Amazon",
+       "Join Prime to get FREE delivery Fri, Oct 2",
+       "Or Non-members get FREE delivery Mon, Oct 5 on $35 of items shipped by Amazon"
+      ],
+      "purchase_options": [
+       {
+        "primary_price": "$29.97",
+        "extracted_primary_price": 29.97,
+        "old_primary_price": "$35.77",
+        "extracted_old_primary_price": 35.77
+       }
+      ]
+     },
+     {
+      "position": 5,
+      "asin": "B0FBRR35RB",
+      "sponsored": true,
+      "title": "3.3\" Wide Modern Farmhouse Metal Hurricane Candle Holder with Handmade Sturdy Glass Sleeve in Antique Brass for Pillar Candle & Plants, Glass Hurricane Lantern, Industrial, Minimalistic",
+      "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo4MTM3NTk1MDE2OTY1NTU1OjE3OTA4MDE5Mzg6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMDk4OTE4ODIxMTMwMjo6NDo6&url=%2FTwakutwaku-Farmhouse-Hurricane-Industrial-Minimalistic%2Fdp%2FB0FBRR35RB%2Fref%3Dsxin_15_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.4e6e4604-30c2-4a55-84df-0e41b8f895e4%253Aamzn1.sym.4e6e4604-30c2-4a55-84df-0e41b8f895e4%26cv_ct_cx%3Dbrass%2Bhurricane%2Blantern%26keywords%3Dbrass%2Bhurricane%2Blantern%26pd_rd_i%3DB0FBRR35RB%26pd_rd_r%3D136afdc0-c410-410a-a3dd-23d9fee1c5f8%26pd_rd_w%3D11hbS%26pd_rd_wg%3Dp0Cg2%26pf_rd_p%3D4e6e4604-30c2-4a55-84df-0e41b8f895e4%26pf_rd_r%3DFX8VS6VAS6HKGPP6JFXZ%26qid%3D1790801937%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-5-6024b2a3-78e4-4fed-8fed-e1613be3bcce-spons%26aref%3DckwJZoaXCU%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1&aref=ckwJZoaXCU",
+      "link_clean": "https://www.amazon.com/dp/B0FBRR35RB/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FBRR35RB&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/51BI3TYfIHL._AC_UL320_.jpg",
+      "rating": 4.3,
+      "reviews": 161,
+      "price": "$16.99",
+      "extracted_price": 16.99,
+      "delivery": [
+       "FREE delivery Mon, Oct 5 on $35 of items shipped by AmazonOr fastest delivery Sun, Oct 4",
+       "FREE delivery Mon, Oct 5 on $35 of items shipped by Amazon",
+       "Or fastest delivery Sun, Oct 4"
+      ],
+      "purchase_options": [
+       {
+        "primary_price": "$16.99",
+        "extracted_primary_price": 16.99
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "title": "Trending now",
+    "products": [
+     {
+      "position": 1,
+      "asin": "B08CHFLJCK",
+      "sponsored": true,
+      "title": "Vintage LED Hurricane Lantern, Warm White Battery Operated, Antique Metal Hanging Lantern with Dimmer Switch, 15 LEDs, 150 Lumen for Indoor or Outdoor Use (Copper)",
+      "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxMzg4NDc1MDUwMTEwMDU0OjE3OTA4MDE5Mzg6c3Bfc2VhcmNoX3RoZW1hdGljX2J0ZjoyMDAwMzk2NzY0MTk0NjE6OjA6Og&url=%2FVintage-Hurricane-Lantern-Battery-Operated%2Fdp%2FB08CHFLJCK%2Fref%3Dsxbs_pa_sp_search_thematic_btf_sspa%3Fcontent-id%3Damzn1.sym.5da07bd3-3a57-4f12-af0b-13c1e1e3282b%253Aamzn1.sym.5da07bd3-3a57-4f12-af0b-13c1e1e3282b%26cv_ct_cx%3Dbrass%2Bhurricane%2Blantern%26keywords%3Dbrass%2Bhurricane%2Blantern%26pd_rd_i%3DB08CHFLJCK%26pd_rd_r%3D5952adf0-218e-49de-9e1b-2da2648dfbe0%26pd_rd_w%3D4unDC%26pd_rd_wg%3DTYJSC%26pf_rd_p%3D5da07bd3-3a57-4f12-af0b-13c1e1e3282b%26pf_rd_r%3DFX8VS6VAS6HKGPP6JFXZ%26qid%3D1790801937%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-1-d9bae87a-2128-4eb1-869d-8cb4bd895c35-spons%26aref%3Dcz14oaOen0%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWNfYnRm%26psc%3D1&aref=cz14oaOen0",
+      "link_clean": "https://www.amazon.com/dp/B08CHFLJCK/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B08CHFLJCK&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/610h0AhVckL._AC_UL320_.jpg",
+      "rating": 4.4,
+      "reviews": 1300,
+      "price": "$21.99",
+      "extracted_price": 21.99,
+      "delivery": [
+       "Join Prime to get FREE delivery Tomorrow, Oct 1Or Non-members get FREE delivery Mon, Oct 5 on $35 of items shipped by Amazon",
+       "Join Prime to get FREE delivery Tomorrow, Oct 1",
+       "Or Non-members get FREE delivery Mon, Oct 5 on $35 of items shipped by Amazon"
+      ],
+      "purchase_options": [
+       {
+        "primary_price": "$21.99",
+        "extracted_primary_price": 21.99
+       }
+      ]
+     },
+     {
+      "position": 2,
+      "asin": "B00MFU0XL4",
+      "sponsored": true,
+      "title": "Dietz #76 Original Oil Burning Lantern (Black)",
+      "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxMzg4NDc1MDUwMTEwMDU0OjE3OTA4MDE5Mzg6c3Bfc2VhcmNoX3RoZW1hdGljX2J0ZjozMDE0MDQxNjU5NTY1MDI6OjE6Og&url=%2FDietz-Original-Burning-Lantern-Black%2Fdp%2FB00MFU0XL4%2Fref%3Dsxbs_pa_sp_search_thematic_btf_sspa%3Fcontent-id%3Damzn1.sym.5da07bd3-3a57-4f12-af0b-13c1e1e3282b%253Aamzn1.sym.5da07bd3-3a57-4f12-af0b-13c1e1e3282b%26cv_ct_cx%3Dbrass%2Bhurricane%2Blantern%26keywords%3Dbrass%2Bhurricane%2Blantern%26pd_rd_i%3DB00MFU0XL4%26pd_rd_r%3D5952adf0-218e-49de-9e1b-2da2648dfbe0%26pd_rd_w%3D4unDC%26pd_rd_wg%3DTYJSC%26pf_rd_p%3D5da07bd3-3a57-4f12-af0b-13c1e1e3282b%26pf_rd_r%3DFX8VS6VAS6HKGPP6JFXZ%26qid%3D1790801937%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-2-d9bae87a-2128-4eb1-869d-8cb4bd895c35-spons%26aref%3DxiFPiCe9js%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWNfYnRm%26psc%3D1&aref=xiFPiCe9js",
+      "link_clean": "https://www.amazon.com/dp/B00MFU0XL4/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B00MFU0XL4&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/81lQ69uvroL._AC_UL320_.jpg",
+      "rating": 4.3,
+      "reviews": 2500,
+      "bought_last_month": "200+ bought in past month",
+      "price": "$36.99",
+      "extracted_price": 36.99,
+      "delivery": [
+       "Join Prime to get FREE delivery Tomorrow, Oct 1Or Non-members get FREE delivery Mon, Oct 5",
+       "Join Prime to get FREE delivery Tomorrow, Oct 1",
+       "Or Non-members get FREE delivery Mon, Oct 5"
+      ],
+      "purchase_options": [
+       {
+        "primary_price": "$36.99",
+        "extracted_primary_price": 36.99
+       }
+      ]
+     },
+     {
+      "position": 3,
+      "asin": "B0GR5655CV",
+      "sponsored": true,
+      "title": "Hurricane Glass Candle Holders in Antique Brass, 5\" & 4\" Wide Gold Vintage Metal Candlesticks Holders for Pillar Candle Lantern with Handmade Thick Glass Dome, Industrial, Modern Home Decor (Black)",
+      "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxMzg4NDc1MDUwMTEwMDU0OjE3OTA4MDE5Mzg6c3Bfc2VhcmNoX3RoZW1hdGljX2J0ZjozMDE1MzM4NjI4MjUxMDI6OjI6Og&url=%2FHurricane-Holders-Candlesticks-Handmade-Industrial%2Fdp%2FB0GR5655CV%2Fref%3Dsxbs_pa_sp_search_thematic_btf_sspa%3Fcontent-id%3Damzn1.sym.5da07bd3-3a57-4f12-af0b-13c1e1e3282b%253Aamzn1.sym.5da07bd3-3a57-4f12-af0b-13c1e1e3282b%26cv_ct_cx%3Dbrass%2Bhurricane%2Blantern%26keywords%3Dbrass%2Bhurricane%2Blantern%26pd_rd_i%3DB0GR5655CV%26pd_rd_r%3D5952adf0-218e-49de-9e1b-2da2648dfbe0%26pd_rd_w%3D4unDC%26pd_rd_wg%3DTYJSC%26pf_rd_p%3D5da07bd3-3a57-4f12-af0b-13c1e1e3282b%26pf_rd_r%3DFX8VS6VAS6HKGPP6JFXZ%26qid%3D1790801937%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-3-d9bae87a-2128-4eb1-869d-8cb4bd895c35-spons%26aref%3DWBhVftX7Uo%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWNfYnRm%26psc%3D1&aref=WBhVftX7Uo",
+      "link_clean": "https://www.amazon.com/dp/B0GR5655CV/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0GR5655CV&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/51mt1rxcSvL._AC_UL320_.jpg",
+      "rating": 4.4,
+      "reviews": 27,
+      "price": "$38.99",
+      "extracted_price": 38.99,
+      "delivery": [
+       "Join Prime to get FREE delivery Fri, Oct 2Or Non-members get FREE delivery Mon, Oct 5",
+       "Join Prime to get FREE delivery Fri, Oct 2",
+       "Or Non-members get FREE delivery Mon, Oct 5"
+      ],
+      "purchase_options": [
+       {
+        "primary_price": "$38.99",
+        "extracted_primary_price": 38.99
+       }
+      ]
+     },
+     {
+      "position": 4,
+      "asin": "B0GTLFFZ7B",
+      "sponsored": true,
+      "title": "Brass Hurricane Handmade Sturdy Glass Dome Candle Holders with Glass Cover",
+      "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxMzg4NDc1MDUwMTEwMDU0OjE3OTA4MDE5Mzg6c3Bfc2VhcmNoX3RoZW1hdGljX2J0ZjozMDEzNzIxNjQ3NDEzMDI6OjM6Og&url=%2FHurricane-Handmade-Sturdy-Candle-Holders%2Fdp%2FB0GTLFFZ7B%2Fref%3Dsxbs_pa_sp_search_thematic_btf_sspa%3Fcontent-id%3Damzn1.sym.5da07bd3-3a57-4f12-af0b-13c1e1e3282b%253Aamzn1.sym.5da07bd3-3a57-4f12-af0b-13c1e1e3282b%26cv_ct_cx%3Dbrass%2Bhurricane%2Blantern%26keywords%3Dbrass%2Bhurricane%2Blantern%26pd_rd_i%3DB0GTLFFZ7B%26pd_rd_r%3D5952adf0-218e-49de-9e1b-2da2648dfbe0%26pd_rd_w%3D4unDC%26pd_rd_wg%3DTYJSC%26pf_rd_p%3D5da07bd3-3a57-4f12-af0b-13c1e1e3282b%26pf_rd_r%3DFX8VS6VAS6HKGPP6JFXZ%26qid%3D1790801937%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-4-d9bae87a-2128-4eb1-869d-8cb4bd895c35-spons%26aref%3DUFJsYr0lhq%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWNfYnRm%26psc%3D1&aref=UFJsYr0lhq",
+      "link_clean": "https://www.amazon.com/dp/B0GTLFFZ7B/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0GTLFFZ7B&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/71vB33aG76L._AC_UL320_.jpg",
+      "rating": 4.8,
+      "reviews": 26,
+      "bought_last_month": "100+ bought in past month",
+      "price": "$36.99",
+      "extracted_price": 36.99,
+      "delivery": [
+       "FREE delivery Oct 22 - Nov 11Or fastest delivery Oct 22 - Nov 9",
+       "FREE delivery Oct 22 - Nov 11",
+       "Or fastest delivery Oct 22 - Nov 9"
+      ],
+      "purchase_options": [
+       {
+        "primary_price": "$36.99",
+        "extracted_primary_price": 36.99
+       }
+      ]
+     },
+     {
+      "position": 5,
+      "asin": "B0D2D4PTH1",
+      "sponsored": true,
+      "title": "Camping Lanterns Battery Powered Rechargeable Lights,3 Pack Green",
+      "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxMzg4NDc1MDUwMTEwMDU0OjE3OTA4MDE5Mzg6c3Bfc2VhcmNoX3RoZW1hdGljX2J0ZjozMDAyODM4NjgzNjg1MDI6OjQ6Og&url=%2FLanterns-Rechargeable-Stepless-Portable-Emergency%2Fdp%2FB0D2D4PTH1%2Fref%3Dsxbs_pa_sp_search_thematic_btf_sspa%3Fcontent-id%3Damzn1.sym.5da07bd3-3a57-4f12-af0b-13c1e1e3282b%253Aamzn1.sym.5da07bd3-3a57-4f12-af0b-13c1e1e3282b%26cv_ct_cx%3Dbrass%2Bhurricane%2Blantern%26keywords%3Dbrass%2Bhurricane%2Blantern%26pd_rd_i%3DB0D2D4PTH1%26pd_rd_r%3D5952adf0-218e-49de-9e1b-2da2648dfbe0%26pd_rd_w%3D4unDC%26pd_rd_wg%3DTYJSC%26pf_rd_p%3D5da07bd3-3a57-4f12-af0b-13c1e1e3282b%26pf_rd_r%3DFX8VS6VAS6HKGPP6JFXZ%26qid%3D1790801937%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-5-d9bae87a-2128-4eb1-869d-8cb4bd895c35-spons%26aref%3DvtTAWucy3h%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWNfYnRm%26psc%3D1&aref=vtTAWucy3h",
+      "link_clean": "https://www.amazon.com/dp/B0D2D4PTH1/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D2D4PTH1&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/71XXpfiZSIL._AC_UL320_.jpg",
+      "rating": 4.2,
+      "reviews": 117,
+      "price": "$36.69",
+      "extracted_price": 36.69,
+      "delivery": [
+       "Join Prime to get FREE delivery Tomorrow, Oct 1Or Non-members get FREE delivery Mon, Oct 5",
+       "Join Prime to get FREE delivery Tomorrow, Oct 1",
+       "Or Non-members get FREE delivery Mon, Oct 5"
+      ],
+      "purchase_options": [
+       {
+        "primary_price": "$36.69",
+        "extracted_primary_price": 36.69
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "video_results": [
+   {
+    "block_position": "top",
+    "video_thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b8a81ef7-8b3d-4082-9045-6aba60411920.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG",
+    "video_src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b8a81ef7-8b3d-4082-9045-6aba60411920.mp4/productVideoOptimized.mp4",
+    "video_link": "https://sponsored-ads.amazon.com/clk?p=eAHj8uaY9OHrVTYhXseQsAAXb0_vCAMX1yAlRkMrsTyfwGSnPK9k85yURFPvqkjniLQUs_QgbkMDCz0TPUNjSz2DKKZgpyQOR9cQD9cgz2AhcS72lNTi7JL8AiGeUL8gV2d_dz_PKFcXKRcuZahEfHFqYlFyRnxBalFyfk5iSWp8Zl5OZl5qfFJJmhBXYm5iVX6eXnJ-rhRXcVKZLkSxEmtqXnxosJIZF6OBwLEbPVNXbnKR4oMaqAvRr8RvbGBgYGpuamxgaG5sYGBmxBwa7GLF7BzgrOUtZO3i5Ohc4Oapa-5Y51QIAemOdU6BRVFFzoWOqKDOKR2MHCEMKR7ndNcKd0fX9AJvk1SjcK7QjJKSgmIrff3y8nI9hIv1Uwr0nQxcwk3Mw118fewTi1LTbCPCPHxLwiIyUivUClLii1LiM20RSqBCBTkZKUW2JQAMCXyS&v=c1&r=https://www.amazon.com/dp/B0DW47WDML?aref=XVHMtVXhex&pd_rd_i=B0DW47WDML&pf_rd_p=48551238-add4-4aa5-b76d-9f01a49ca0eb&pd_rd_wg=p0Cg2&pf_rd_r=FX8VS6VAS6HKGPP6JFXZ&pd_rd_w=MqsZB&pd_rd_r=136afdc0-c410-410a-a3dd-23d9fee1c5f8",
+    "products": [
+     {
+      "position": 1,
+      "asin": "B0DW47WDML",
+      "sponsored": true,
+      "title": "Lichamp 4-Pack Solar Camping Lantern, USB Rechargeable LED Lanterns Battery Powered Pop Up Flashlight Lamps with Three Modes Power for Power Outages Hurricane Supplies Emergency Indoor & Outdoor",
+      "link": "https://sponsored-ads.amazon.com/clk?p=eAHj8uaY9OHrVTYhXseQsAAXb0_vCAMX1yAlRkMrsTyfwGSnPK9k85yURFPvqkjniLQUs_QgbkMDCz0TPUNjSz2DKKZgpyQOR9cQD9cgz2AhcS72lNTi7JL8AiGeUL8gV2d_dz_PKFcXKRcuZahEfHFqYlFyRnxBalFyfk5iSWp8Zl5OZl5qfFJJmhBXYm5iVX6eXnJ-rhRXcVKZLkSxEmtqXnxosJIZF6OBwLEbPVNXbnKR4oMaqAvRr8RvbGBgYGpuamxgaG5sYGBmxBwa7GLF7BzgrOUtZO3i5Ohc4Oapa-5Y51QIAemOdU6BRVFFzoWOqKDOKR2MHCEMKR7ndNcKd0fX9AJvk1SjcK7QjJKSgmIrff3y8nI9hIv1Uwr0nQxcwk3Mw118fewTi1LTbCPCPHxLwiIyUivUClLii1LiM20RSqBCBTkZKUW2JQAMCXyS&v=c1&r=https://www.amazon.com/Lichamp-Rechargeable-Flashlight-Hurricane-Emergency/dp/B0DW47WDML/ref=sxin_16_sbv_search_btf?aref=XVHMtVXhex&content-id=amzn1.sym.48551238-add4-4aa5-b76d-9f01a49ca0eb%3Aamzn1.sym.48551238-add4-4aa5-b76d-9f01a49ca0eb&cv_ct_cx=brass+hurricane+lantern&keywords=brass+hurricane+lantern&pd_rd_i=B0DW47WDML&pd_rd_r=136afdc0-c410-410a-a3dd-23d9fee1c5f8&pd_rd_w=MqsZB&pd_rd_wg=p0Cg2&pf_rd_p=48551238-add4-4aa5-b76d-9f01a49ca0eb&pf_rd_r=FX8VS6VAS6HKGPP6JFXZ&qid=1790801937&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=1-1-9634760c-6951-42cd-a9a5-afc46d7935cc",
+      "link_clean": "https://www.amazon.com/dp/B0DW47WDML/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0DW47WDML&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/61y8489vcML._AC_UL640_QL65_.jpg",
+      "rating": 4.6,
+      "reviews": 704,
+      "bought_last_month": "2K+ bought in past month",
+      "price": "$45.99",
+      "extracted_price": 45.99,
+      "delivery": [
+       "Join Prime to get FREE delivery Fri, Oct 2",
+       "Or Non-members get FREE delivery Mon, Oct 5"
+      ],
+      "purchase_options": [
+       {
+        "primary_price": "$45.99",
+        "extracted_primary_price": 45.99
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "sponsored_brands": {
+   "title": "Brands related to your search",
+   "brands": [
+    {
+     "position": 1,
+     "image": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b1cfc8a8-5321-4806-88b7-80524c8c971f._CR0,0,1200,628_SX920_CB1169409_QL70_.jpg",
+     "name": "pearlstar",
+     "headline": "Outdoor Solar Table Lantern Dancing Flame",
+     "link": "https://sponsored-ads.amazon.com/clk/?_encoding=UTF8&p=eAFdkLtuE0EUhpVEQGSCiFwEyVVkCReWxh7vJd4NWqHZSxzHceJ4bRK5GY13x96FvYxnxpekSIkEJW9AQQnvwEPwHjRQIycgBL9OcaT__Dq_vkKw_eH7j28Pi0_Q4FXP7bQ7V9D1-uWNRnVvQrN4hbv5YnR91Bm0hL-4MXrh4R6MyWqUqLoZXZ6CFA3SA-4py_7jBjRqWq2hmjU42vTt8TbyBsdev-0XnxUehVS8kTkr7gzP-p5z3jprjzy39H6jsL128FhOigWSkps8qwV5WnoeCQI4DfI0pVlIZJxnQFC-iAMKBCU8iMBYTsoPaIaHflVJ54mMwZiTLAQBp0TGCwp-vwQB4aEAjMSZpBwEeSZpJpXdru1gteefYtfzO4PzXtkobMDdL58__fz4FZR2_6TXRVQmkvJTBUKoQs3U4UGjaRrK1tB3D7ecnlPtFF-4NnLYURs00a09u9cU3doXfMSdGfpXt_b0btD9Utpxpt6qhbwp62hUebdZeLsZScnEYb2-XC5rf7HUhcw5FXVGprTuuJphOpoGkOsZQNNdBGzVRMAzHcNTFAdBD768C2BOJ5ZvYwSVA03RtW7v9GR4aZz0L9wBQFBXdFWFysWweaVq582u2XIqLMQ8xCyJQm7JSiQIDjiOQwtWEoZnc8qvrTEnQuxHc87jgGR0PyFrvtn6QCS5tP4HWBEhwyTEU57PmbWGqTVNaKgNo2kaldgiTFTIuunrVqM104-Dk_EvOYrVtQ&v=c1&r=https%3A%2F%2Fwww.amazon.com%2Fstores%2Fpage%2FCD489C44-ADE8-45DA-B39A-E9C8E22CA0E0%3Fstore_ref%3DSB_A0264254MPLJUW8JRQDT-A05253302QU7X34O7M9GC%26pd_rd_plhdr%3Dt%26hsa_cr_id%3D0%26lp_query%3Dbrass%20hurricane%20lantern%26lp_slot%3Ddesktop-hsa-3psl%26sdp_ad_group%3D200047908318798%26i%3Daps%26aref%3DjG1Gq5HcJb&ref_=sbx_be_s_3psl_mbd_mb0_bkgd&pd_rd_w=JGiyN&content-id=amzn1.sym.dc82d3ee-4909-44d1-b96c-93b0e5479463%3Aamzn1.sym.dc82d3ee-4909-44d1-b96c-93b0e5479463&pf_rd_p=dc82d3ee-4909-44d1-b96c-93b0e5479463&pf_rd_r=FX8VS6VAS6HKGPP6JFXZ&pd_rd_wg=4eQnk&pd_rd_r=eb793ace-ecf4-4d63-a011-54bf172181eb",
+     "logo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/e85c5518-0578-42b8-aeef-f04a3579b32c._CR0,0,1767,1029_AC_SX278_SY200_CB1169409_QL70_.jpg"
+    },
+    {
+     "position": 2,
+     "image": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b40de55d-33ce-4907-b6e8-92c819997077._CR0,0,1200,628_SX920_CB1169409_QL70_.jpg",
+     "name": "Reperla Light Decorative",
+     "headline": "Lightweight and versatile decorations and gifts",
+     "link": "https://sponsored-ads.amazon.com/clk/?_encoding=UTF8&p=eAFdkM1u00AUhdVWQBWKqLIoUlZVJLKoNMmM7dhOkYXGP22D29SNkxRlY03sSWIR25OZSdJ20QdgB4LnYckTsOcBWLBBbFFaEIKju7jSuUf36CvF2--___jysPwE9waB67f919D1utUNdLA3pnl6FZ0Vy-H1kd87FuHyxgySwz1sBEImoyK7vLgEyrz7SukM_FX3MYJmXasjtVWHw83QHm1jr3fiddth-VnpUULFG1mw8k6_0_Wc8-NOe-i5lbcbpe21E43kuFwiGbkp8npcZJXnU0EAp3GRZTRPiEyLHAjKl2lMgaCEx1MwkuPqA5pH_fBAyRYzmYIRJ3kCYk6JTJcU_H4JYsITARhJc0k5iItc0lwqu2e2E6lBeBq5Xuj3zoOqWdpAux-__vz2-ROo7P5Jr4uoTMyqTxUIoQaNptZECOlI2eqH7uGWEzgHfvmFa2OHHbWBgW_t-b0m-Na-4EPuzPG_urUnd4Pvl8qOM_GujrE3Yb5GlQ-bpXebUymZOGw0VqtV_S-WhpAFp6LByIQ2oGE2zaaLgeHhFtBa2AbY9iBwVMM2VE3Xkae9vAtEnI6t0I4whC0TQgMZp45ie26ndzFwAYaajkyzqeC-p_dh76Rz5po1lkQ8idhsmnBL1qaCRDGP0sRCptpEqgoRRLUZi-YLyq-tESdC7E8XnKcxyen-jKxR5-sDMSuk9T_LmkhYRJJowosFs9ZcdRWqBmxpqo5qqUWYqJF16WHCNTY4CjL1F9XI2G4&v=c1&r=https%3A%2F%2Fwww.amazon.com%2Fstores%2Fpage%2F078585DA-7EA9-49AB-ABE0-C37B734661E4%3Fstore_ref%3DSB_A009800717LC2BEDNTQVD-A04618852AUE6U0THNMD8%26pd_rd_plhdr%3Dt%26hsa_cr_id%3D18351330101%26lp_query%3Dbrass%20hurricane%20lantern%26lp_slot%3Ddesktop-hsa-3psl%26sdp_ad_group%3D200063037094361%26i%3Daps%26aref%3DZdr4pVFPm3&ref_=sbx_be_s_3psl_mbd_mb1_bkgd&pd_rd_w=JGiyN&content-id=amzn1.sym.dc82d3ee-4909-44d1-b96c-93b0e5479463%3Aamzn1.sym.dc82d3ee-4909-44d1-b96c-93b0e5479463&pf_rd_p=dc82d3ee-4909-44d1-b96c-93b0e5479463&pf_rd_r=FX8VS6VAS6HKGPP6JFXZ&pd_rd_wg=4eQnk&pd_rd_r=eb793ace-ecf4-4d63-a011-54bf172181eb",
+     "logo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/7e16270b-5914-4ba0-a9c5-225773a8e979._CR0,0,500,500_AC_SX278_SY200_CB1169409_QL70_.jpg"
+    },
+    {
+     "position": 3,
+     "image": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/6cb96354-0061-4067-968f-516125f638a9._CR0,423,2000,1048_SX920_CB1169409_QL70_.jpg",
+     "name": "Livex Lighting",
+     "headline": "Traditional Outdoor Wall Lanterns",
+     "link": "https://sponsored-ads.amazon.com/clk/?_encoding=UTF8&p=eAFdkM1u00AUhdVWQBWKqLIoUlZVJLKoNMl4_BO7yEL-SwhuGzdOSpvNaGJPHENiOzOTtM2iW6QueQG2rNggHoFH4D3YsEdpQQiO7uJK5x7do68UbX_48fP7w_ITq38WuH7HP4eu16tuSAd7Y5qlV_g4Xw6vW36_zcPlSg_iw72zVvf8wnIdfWFc0JWUpmB-TZPeYwnqdaUuyUYdDjdDe7Rtef1XXq8Tlp-VHsWUvxN5Ud4ZnPQ8p9s-6Qw9t3K7UdpeO3gkxuUSmZFVntWjfFZ5PuEEMBrlsxnNYiLSPAOcsmUaUcApYdEEjMS4-oBmeBAeoNliKlIwYiSLQcQoEemSgt8vQURYzEFB0kxQBqI8EzQTaPfYdrAchEfY9UK_3w2qemkD7X7-9vXLp49uZfdPel1ELvi0-lSGEEJDk2WkSQhqaGsQuodbTuAc-OUXrm05RasDmtaNPb9XYt3Yp2zInLn1r27s5G6s-6Wy4yTeVdvyksJXKLrdLL3fnAhR8MNG4_Lysv4XS4OLnFHeKEhCGx5yFQjVFvC0lgEUVVaA5ahNgBB0NEdDnoG0l3cBzOjYDG1sQUWDhiyhzsngNVK6naHvHAELypKmQ1WGgdJWuwP5uO-c1YoYsxgX00nMTFGbcIIjhtPYhLVpgecLyq7NESOc708WjKURyej-lKwBZ-sDPs2F-T_BGo8LTGKcsHxRmGuaSNU1w1D1JlRqqUkKXiPrqqfhLH4j3kbB6hcYVNZE&v=c1&r=https%3A%2F%2Fwww.amazon.com%2Fstores%2Fpage%2FE2D4005F-E6F9-4534-AC57-220C6C62E926%3Fstore_ref%3DSB_A04609312INUJ24OIZKCL-A031680530P4G5OU3MTCV%26pd_rd_plhdr%3Dt%26hsa_cr_id%3D0%26lp_query%3Dbrass%20hurricane%20lantern%26lp_slot%3Ddesktop-hsa-3psl%26sdp_ad_group%3D300025869958704%26i%3Daps%26aref%3DQSmdWtjcPz&ref_=sbx_be_s_3psl_mbd_mb2_bkgd&pd_rd_w=JGiyN&content-id=amzn1.sym.dc82d3ee-4909-44d1-b96c-93b0e5479463%3Aamzn1.sym.dc82d3ee-4909-44d1-b96c-93b0e5479463&pf_rd_p=dc82d3ee-4909-44d1-b96c-93b0e5479463&pf_rd_r=FX8VS6VAS6HKGPP6JFXZ&pd_rd_wg=4eQnk&pd_rd_r=eb793ace-ecf4-4d63-a011-54bf172181eb",
+     "logo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/86b212f6-6499-4bcf-a586-3dd45f39728a._CR0,0,1196,514_AC_SX278_SY200_CB1169409_QL70_.png"
+    }
+   ]
+  },
+  "categories": [
+   {
+    "position": 1,
+    "name": "Amazon Home",
+    "link": "https://www.amazon.com/home-garden-kitchen-furniture-bedding/b/?ie=UTF8&node=1055398&ref_=nav_cs_home",
+    "node": "1055398",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&node=1055398"
+   },
+   {
+    "position": 2,
+    "name": "Automotive",
+    "link": "https://www.amazon.com/automotive-auto-truck-replacements-parts/b/?ie=UTF8&node=15684181&ref_=nav_cs_automotive",
+    "node": "15684181",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&node=15684181"
+   },
+   {
+    "position": 3,
+    "name": "Audible",
+    "link": "https://www.amazon.com/Audible-Books-and-Originals/b/?ie=UTF8&node=18145289011&ref_=nav_cs_audible",
+    "node": "18145289011",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&node=18145289011"
+   },
+   {
+    "position": 4,
+    "name": "Video Games",
+    "link": "https://www.amazon.com/computer-video-games-hardware-accessories/b/?ie=UTF8&node=468642&ref_=nav_cs_video_games",
+    "node": "468642",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&node=468642"
+   },
+   {
+    "position": 5,
+    "name": "Baby",
+    "link": "https://www.amazon.com/baby-car-seats-strollers-bedding/b/?ie=UTF8&node=165796011&ref_=nav_cs_baby",
+    "node": "165796011",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&node=165796011"
+   },
+   {
+    "position": 6,
+    "name": "Fashion",
+    "link": "https://www.amazon.com/amazon-fashion/b/?ie=UTF8&node=7141123011&ref_=nav_cs_fashion",
+    "node": "7141123011",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&node=7141123011"
+   },
+   {
+    "position": 7,
+    "name": "Smart Home",
+    "link": "https://www.amazon.com/Smart-Home/b/?ie=UTF8&node=6563140011&ref_=nav_cs_smart_home",
+    "node": "6563140011",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&node=6563140011"
+   },
+   {
+    "position": 8,
+    "name": "Toys & Games",
+    "link": "https://www.amazon.com/toys/b/?ie=UTF8&node=165793011&ref_=nav_cs_toys",
+    "node": "165793011",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&node=165793011"
+   },
+   {
+    "position": 9,
+    "name": "Custom Products",
+    "link": "https://www.amazon.com/Amazon-Custom/b/?ie=UTF8&node=11032013011&ref_=nav_cs_custom",
+    "node": "11032013011",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&node=11032013011"
+   },
+   {
+    "position": 10,
+    "name": "Kindle Books",
+    "link": "https://www.amazon.com/Kindle-eBooks/b/?ie=UTF8&node=154606011&ref_=nav_cs_kindle_books",
+    "node": "154606011",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&node=154606011"
+   },
+   {
+    "position": 11,
+    "name": "Books",
+    "link": "https://www.amazon.com/books-used-books-textbooks/b/?ie=UTF8&node=283155&ref_=nav_cs_books",
+    "node": "283155",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&node=283155"
+   },
+   {
+    "position": 12,
+    "name": "TV & Video",
+    "link": "https://www.amazon.com/tvs/b/?ie=UTF8&node=172659&ref_=nav_cs_tv",
+    "node": "172659",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&node=172659"
+   },
+   {
+    "position": 13,
+    "name": "Gift Cards",
+    "link": "https://www.amazon.com/gift-cards/b/?ie=UTF8&node=2238192011&ref_=nav_cs_gc",
+    "node": "2238192011",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&node=2238192011"
+   }
+  ],
+  "filters": {
+   "eligible_for_free_shipping": [
+    {
+     "position": 1,
+     "name": "Free Shipping by Amazon",
+     "description": "Get FREE Shipping on eligible orders shipped by Amazon",
+     "rh": "p_76:1249155011",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=p_76%3A1249155011&dc&qid=1790801937&rnid=1249153011&ref=sr_nr_p_76_1&ds=v1%3A8aXyZOLr0LgZ4vjHCQzHFNn922hficuJxXI%2Bb6lyMt4",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_76%3A1249155011"
+    }
+   ],
+   "delivery_day": [
+    {
+     "position": 1,
+     "name": "Get It by Tomorrow",
+     "rh": "p_90:8308921011",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=p_90%3A8308921011&dc&qid=1790801937&rnid=8308919011&ref=sr_nr_p_90_1&ds=v1%3ADw79wQQP9iybO%2BD9jX%2B%2FLjC4iQtImRRQIboALp4PqrM",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_90%3A8308921011"
+    }
+   ],
+   "customer_reviews": [
+    {
+     "position": 1,
+     "name": "& Up",
+     "rh": "p_72:1248915011",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=p_72%3A1248915011&dc&qid=1790801937&rnid=1248913011&ref=sr_nr_p_72_1&ds=v1%3AyLAe4G2cIkGODhDmdQCdpTJJK7GV0%2Fh88kWXqoBf1%2Fo",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_72%3A1248915011"
+    }
+   ],
+   "color": [
+    {
+     "position": 1,
+     "name": "Gold",
+     "image": "https://m.media-amazon.com/images/G/01/nav2/images/gui/clothingcolorsprite._CB437558320_.png",
+     "rh": "p_n_g-1004162223091:3254111011",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=p_n_g-1004162223091%3A3254111011&dc&qid=1790801937&rnid=3254097011&ref=sr_nr_p_n_g-1004162223091_1&ds=v1%3ATIY4igITc6DfZHWZHd8rW39L3z9U6DVX7JaJ7IikrbY",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_n_g-1004162223091%3A3254111011"
+    },
+    {
+     "position": 2,
+     "name": "Clear",
+     "image": "https://m.media-amazon.com/images/G/01/nav2/images/gui/clothingcolorsprite._CB437558320_.png",
+     "rh": "p_n_g-1004162223091:3254114011",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=p_n_g-1004162223091%3A3254114011&dc&qid=1790801937&rnid=3254097011&ref=sr_nr_p_n_g-1004162223091_2&ds=v1%3A9Lg1tJD6LBfa0NtJ5kgLPQ%2BiMYa4ZD2glwB%2FHFzf9Gw",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_n_g-1004162223091%3A3254114011"
+    },
+    {
+     "position": 3,
+     "name": "Black",
+     "image": "https://m.media-amazon.com/images/G/01/nav2/images/gui/clothingcolorsprite._CB437558320_.png",
+     "rh": "p_n_g-1004162223091:3254098011",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=p_n_g-1004162223091%3A3254098011&dc&qid=1790801937&rnid=3254097011&ref=sr_nr_p_n_g-1004162223091_3&ds=v1%3A4D%2F5SxMgFgLf%2FaDuQbnXsPw5aBezTneOZb3S9BrqLs4",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_n_g-1004162223091%3A3254098011"
+    },
+    {
+     "position": 4,
+     "name": "White",
+     "image": "https://m.media-amazon.com/images/G/01/nav2/images/gui/clothingcolorsprite._CB437558320_.png",
+     "rh": "p_n_g-1004162223091:3254100011",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=p_n_g-1004162223091%3A3254100011&dc&qid=1790801937&rnid=3254097011&ref=sr_nr_p_n_g-1004162223091_4&ds=v1%3ACckDiBNnQNkYCK16mXeScKiUJ9y2929f5Q4WDmgADco",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_n_g-1004162223091%3A3254100011"
+    },
+    {
+     "position": 5,
+     "name": "Brown",
+     "image": "https://m.media-amazon.com/images/G/01/nav2/images/gui/clothingcolorsprite._CB437558320_.png",
+     "rh": "p_n_g-1004162223091:3254101011",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=p_n_g-1004162223091%3A3254101011&dc&qid=1790801937&rnid=3254097011&ref=sr_nr_p_n_g-1004162223091_5&ds=v1%3AtAY5eMXb0mgUPByr57ZHcJks7bpIC646pS6ws1JLf2c",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_n_g-1004162223091%3A3254101011"
+    },
+    {
+     "position": 6,
+     "name": "Beige",
+     "image": "https://m.media-amazon.com/images/G/01/nav2/images/gui/clothingcolorsprite._CB437558320_.png",
+     "rh": "p_n_g-1004162223091:3254102011",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=p_n_g-1004162223091%3A3254102011&dc&qid=1790801937&rnid=3254097011&ref=sr_nr_p_n_g-1004162223091_6&ds=v1%3A7rzCuaTj3POQnn3q3b7u7naMz0LxD2qF1E9pUQ%2BPM0Q",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_n_g-1004162223091%3A3254102011"
+    },
+    {
+     "position": 7,
+     "name": "Red",
+     "image": "https://m.media-amazon.com/images/G/01/nav2/images/gui/clothingcolorsprite._CB437558320_.png",
+     "rh": "p_n_g-1004162223091:3254103011",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=p_n_g-1004162223091%3A3254103011&dc&qid=1790801937&rnid=3254097011&ref=sr_nr_p_n_g-1004162223091_7&ds=v1%3AC3dM2DAq1SJR%2F6u5XFMTQ9gUJUBBtR5UPGHXlMeTN4Y",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_n_g-1004162223091%3A3254103011"
+    },
+    {
+     "position": 8,
+     "name": "Pink",
+     "image": "https://m.media-amazon.com/images/G/01/nav2/images/gui/clothingcolorsprite._CB437558320_.png",
+     "rh": "p_n_g-1004162223091:3254104011",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=p_n_g-1004162223091%3A3254104011&dc&qid=1790801937&rnid=3254097011&ref=sr_nr_p_n_g-1004162223091_8&ds=v1%3AHGkprZg1MzcH%2BlRCEfLdZflmgVFyXVz9QjvIXhIluI0",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_n_g-1004162223091%3A3254104011"
+    },
+    {
+     "position": 9,
+     "name": "Yellow",
+     "image": "https://m.media-amazon.com/images/G/01/nav2/images/gui/clothingcolorsprite._CB437558320_.png",
+     "rh": "p_n_g-1004162223091:3254106011",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=p_n_g-1004162223091%3A3254106011&dc&qid=1790801937&rnid=3254097011&ref=sr_nr_p_n_g-1004162223091_9&ds=v1%3A82hZ81gk%2BWELJfEHu%2BDCJMy9pKJO2jarIjzXudKS5Ns",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_n_g-1004162223091%3A3254106011"
+    },
+    {
+     "position": 10,
+     "name": "Green",
+     "image": "https://m.media-amazon.com/images/G/01/nav2/images/gui/clothingcolorsprite._CB437558320_.png",
+     "rh": "p_n_g-1004162223091:3254108011",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=p_n_g-1004162223091%3A3254108011&dc&qid=1790801937&rnid=3254097011&ref=sr_nr_p_n_g-1004162223091_10&ds=v1%3Ah%2F%2FAyL0ZatXhq4beLqshZ9LVfLtrJizxMhCjDPBM588",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_n_g-1004162223091%3A3254108011"
+    },
+    {
+     "position": 11,
+     "name": "Silver",
+     "image": "https://m.media-amazon.com/images/G/01/nav2/images/gui/clothingcolorsprite._CB437558320_.png",
+     "rh": "p_n_g-1004162223091:3254112011",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=p_n_g-1004162223091%3A3254112011&dc&qid=1790801937&rnid=3254097011&ref=sr_nr_p_n_g-1004162223091_11&ds=v1%3Aljcztq67P75fu%2BCZ5gWUR8B%2FHsW%2FASfX2WWMNE62BfM",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_n_g-1004162223091%3A3254112011"
+    },
+    {
+     "position": 12,
+     "name": "Multi",
+     "image": "https://m.media-amazon.com/images/G/01/nav2/images/gui/clothingcolorsprite._CB437558320_.png",
+     "rh": "p_n_g-1004162223091:3254113011",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=p_n_g-1004162223091%3A3254113011&dc&qid=1790801937&rnid=3254097011&ref=sr_nr_p_n_g-1004162223091_12&ds=v1%3AcClC6dGQmxPVgW0XrYdUzmTjNmh9iAwofLJ0P8d0ue0",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_n_g-1004162223091%3A3254113011"
+    }
+   ],
+   "price": [
+    {
+     "position": 1,
+     "name": "All Discounts",
+     "rh": "p_n_deal_type:23566065011",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=p_n_deal_type%3A23566065011&dc&qid=1790801937&rnid=23566063011&ref=sr_nr_p_n_deal_type_1&ds=v1%3AkcNQvZ%2BqI9nhtwSKUwaIi5m4EaiFDbXrrNpkicDr7tE",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_n_deal_type%3A23566065011"
+    },
+    {
+     "position": 2,
+     "name": "Buy More, Save More",
+     "rh": "p_n_deal_type:210906365011",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=p_n_deal_type%3A210906365011&dc&qid=1790801937&rnid=23566063011&ref=sr_nr_p_n_deal_type_2&ds=v1%3AgLR7zgGmB1WZwq0tb0FHiLxHI0qlpoOfnSmJjOg4PUQ",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_n_deal_type%3A210906365011"
+    },
+    {
+     "position": 3,
+     "name": "Coupons",
+     "rh": "p_n_deal_type:210906366011",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=p_n_deal_type%3A210906366011&dc&qid=1790801937&rnid=23566063011&ref=sr_nr_p_n_deal_type_3&ds=v1%3A5TAgof1LZF6Bd5y55f6ny4047oM8FtL4WBnTDs2wNI8",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_n_deal_type%3A210906366011"
+    }
+   ],
+   "material": [
+    {
+     "position": 1,
+     "name": "Iron",
+     "rh": "p_n_g-1004162017091:16926061011",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=p_n_g-1004162017091%3A16926061011&dc&qid=1790801937&rnid=335840011&ref=sr_nr_p_n_g-1004162017091_1&ds=v1%3AWBKWM7xPdfS5azGHQZKEvCjf4Eb0J8w1mqswe5W%2BO00",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_n_g-1004162017091%3A16926061011"
+    },
+    {
+     "position": 2,
+     "name": "Steel",
+     "rh": "p_n_g-1004162017091:211735327011",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=p_n_g-1004162017091%3A211735327011&dc&qid=1790801937&rnid=335840011&ref=sr_nr_p_n_g-1004162017091_2&ds=v1%3Ac051ojSOMEdK4GEup%2FdfUKtDaO9PsvxudBOzmRlXl4Q",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_n_g-1004162017091%3A211735327011"
+    },
+    {
+     "position": 3,
+     "name": "Plastic",
+     "rh": "p_n_g-1004162017091:335850011",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=p_n_g-1004162017091%3A335850011&dc&qid=1790801937&rnid=335840011&ref=sr_nr_p_n_g-1004162017091_3&ds=v1%3AKHj37%2BZKgPrE9SOwm1lMhzGeC1dEaa6BW3IyzJKabhQ",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_n_g-1004162017091%3A335850011"
+    },
+    {
+     "position": 4,
+     "name": "Aluminum",
+     "rh": "p_n_g-1004162017091:11424262011",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=p_n_g-1004162017091%3A11424262011&dc&qid=1790801937&rnid=335840011&ref=sr_nr_p_n_g-1004162017091_4&ds=v1%3A1s4Vuc7AyCJIXDPR3o7eey6PF1kQtlWTd9s6X%2FujA%2F8",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_n_g-1004162017091%3A11424262011"
+    },
+    {
+     "position": 5,
+     "name": "Brass",
+     "rh": "p_n_g-1004162017091:119155485011",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=p_n_g-1004162017091%3A119155485011&dc&qid=1790801937&rnid=335840011&ref=sr_nr_p_n_g-1004162017091_5&ds=v1%3AdYYSO7ao%2BYQAP2D1e1clXezDCHIQT3UE10f1pqPHhsA",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_n_g-1004162017091%3A119155485011"
+    },
+    {
+     "position": 6,
+     "name": "Stainless Steel",
+     "rh": "p_n_g-1004162017091:16926063011",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=p_n_g-1004162017091%3A16926063011&dc&qid=1790801937&rnid=335840011&ref=sr_nr_p_n_g-1004162017091_6&ds=v1%3Aq4dzgOa9xLL0E5X1sunTLIZGLz5BpdoNY%2B69XeNo%2BRA",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_n_g-1004162017091%3A16926063011"
+    },
+    {
+     "position": 7,
+     "name": "Cast Iron",
+     "rh": "p_n_g-1004162017091:211735317011",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=p_n_g-1004162017091%3A211735317011&dc&qid=1790801937&rnid=335840011&ref=sr_nr_p_n_g-1004162017091_7&ds=v1%3AEbRJ%2FfZvmVcN6eT2Tcw0xjM%2BU7Q4ir4xllb1tu7xHws",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_n_g-1004162017091%3A211735317011"
+    },
+    {
+     "position": 8,
+     "name": "Tempered Glass",
+     "rh": "p_n_g-1004162017091:211735324011",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=p_n_g-1004162017091%3A211735324011&dc&qid=1790801937&rnid=335840011&ref=sr_nr_p_n_g-1004162017091_8&ds=v1%3Af4aUi9TpSzyHPvkrQxofYdV0iGhge%2B7Ws%2F7I68SWDsc",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_n_g-1004162017091%3A211735324011"
+    },
+    {
+     "position": 9,
+     "name": "Glass",
+     "rh": "p_n_g-1004162017091:335846011",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=p_n_g-1004162017091%3A335846011&dc&qid=1790801937&rnid=335840011&ref=sr_nr_p_n_g-1004162017091_9&ds=v1%3ArlxBmKaBbOQAAP8LhAywxIgrwkV3XFGVanpdAJtw1bc",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_n_g-1004162017091%3A335846011"
+    },
+    {
+     "position": 10,
+     "name": "Alloy Steel",
+     "rh": "p_n_g-1004162017091:211735292011",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=p_n_g-1004162017091%3A211735292011&dc&qid=1790801937&rnid=335840011&ref=sr_nr_p_n_g-1004162017091_10&ds=v1%3AgaWOF%2FxdXdlYVeVz1N%2FamCzkrR0rjuRiMYflATdnTec",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_n_g-1004162017091%3A211735292011"
+    },
+    {
+     "position": 11,
+     "name": "Metal",
+     "rh": "p_n_g-1004162017091:335848011",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=p_n_g-1004162017091%3A335848011&dc&qid=1790801937&rnid=335840011&ref=sr_nr_p_n_g-1004162017091_11&ds=v1%3AEdxTEROGJEAzhqiMKdxRQmdx9yKxxmu9Sp00NMqlzr0",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_n_g-1004162017091%3A335848011"
+    }
+   ],
+   "mounting_type": [
+    {
+     "position": 1,
+     "name": "Ceiling Mount",
+     "rh": "p_n_g-1003335663111:23962569011",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=p_n_g-1003335663111%3A23962569011&dc&qid=1790801937&rnid=23962338011&ref=sr_nr_p_n_g-1003335663111_1&ds=v1%3A7FVG%2Fj6L%2Bd19Z6bEheBgX0S9gsx7oU%2BXjQJWRYntKtM",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_n_g-1003335663111%3A23962569011"
+    },
+    {
+     "position": 2,
+     "name": "Tabletop",
+     "rh": "p_n_g-1003335663111:23962566011",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=p_n_g-1003335663111%3A23962566011&dc&qid=1790801937&rnid=23962338011&ref=sr_nr_p_n_g-1003335663111_2&ds=v1%3AU4UNc%2FKt9loWd6QWz1g1axLykN3Nf8oWQ%2BdBeKMu8iY",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_n_g-1003335663111%3A23962566011"
+    },
+    {
+     "position": 3,
+     "name": "Wall Mount",
+     "rh": "p_n_g-1003335663111:23962568011",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=p_n_g-1003335663111%3A23962568011&dc&qid=1790801937&rnid=23962338011&ref=sr_nr_p_n_g-1003335663111_3&ds=v1%3A7dKfs46WWCnIPUVpcZpwId2WcH4mXAe7rdb8HMf%2F3Mw",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_n_g-1003335663111%3A23962568011"
+    }
+   ],
+   "condition": [
+    {
+     "position": 1,
+     "name": "New",
+     "rh": "p_n_condition-type:6358196011",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=p_n_condition-type%3A6358196011&dc&qid=1790801937&rnid=6358194011&ref=sr_nr_p_n_condition-type_1&ds=v1%3AO6KWSdLIhe%2FdUWxdFVSjUVgG3Jo1GY3GP7s%2B969eKC4",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_n_condition-type%3A6358196011"
+    },
+    {
+     "position": 2,
+     "name": "Used",
+     "rh": "p_n_condition-type:6358198011",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=p_n_condition-type%3A6358198011&dc&qid=1790801937&rnid=6358194011&ref=sr_nr_p_n_condition-type_2&ds=v1%3AYIUMTBBydKKQ5Lobg5JYKFSzjVkOjbOZDLZkTT%2BWwBs",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_n_condition-type%3A6358198011"
+    }
+   ],
+   "finish": [
+    {
+     "position": 1,
+     "name": "Brushed",
+     "rh": "p_n_g-101017122460111:212417154011",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=p_n_g-101017122460111%3A212417154011&dc&qid=1790801937&rnid=212417149011&ref=sr_nr_p_n_g-101017122460111_1&ds=v1%3A1xMP40uM2KcSpH6T%2B3Y0EEaaChI8e2hIYi4rom%2BoGgc",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_n_g-101017122460111%3A212417154011"
+    },
+    {
+     "position": 2,
+     "name": "Painted",
+     "rh": "p_n_g-101017122460111:212417153011",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=p_n_g-101017122460111%3A212417153011&dc&qid=1790801937&rnid=212417149011&ref=sr_nr_p_n_g-101017122460111_2&ds=v1%3AEAysROJLUxpNwdCJsT3XHofAQJ62bCPObjCxsxjksYw",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_n_g-101017122460111%3A212417153011"
+    },
+    {
+     "position": 3,
+     "name": "Polished",
+     "rh": "p_n_g-101017122460111:212417156011",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=p_n_g-101017122460111%3A212417156011&dc&qid=1790801937&rnid=212417149011&ref=sr_nr_p_n_g-101017122460111_3&ds=v1%3AgvEvIV%2FnVYEc9Q4etdTokLuzTEB8mRHwML3utNEbP4I",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_n_g-101017122460111%3A212417156011"
+    },
+    {
+     "position": 4,
+     "name": "Powder Coated",
+     "rh": "p_n_g-101017122460111:212417155011",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=p_n_g-101017122460111%3A212417155011&dc&qid=1790801937&rnid=212417149011&ref=sr_nr_p_n_g-101017122460111_4&ds=v1%3ApM9br7A0q09DxqIavWOWSVEAbATRE2inp%2FqlX%2BkPCdQ",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_n_g-101017122460111%3A212417155011"
+    },
+    {
+     "position": 5,
+     "name": "Unfinished",
+     "rh": "p_n_g-101017122460111:212417151011",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=p_n_g-101017122460111%3A212417151011&dc&qid=1790801937&rnid=212417149011&ref=sr_nr_p_n_g-101017122460111_5&ds=v1%3AN1AATEoTGLTx8xZtJNOWZsQdllOFHUY2Q723xd7XdYM",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_n_g-101017122460111%3A212417151011"
+    }
+   ],
+   "finish_type": [
+    {
+     "position": 1,
+     "name": "Powder Coated",
+     "rh": "p_n_g-1003232429111:23873046011",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=p_n_g-1003232429111%3A23873046011&dc&qid=1790801937&rnid=23873040011&ref=sr_nr_p_n_g-1003232429111_1&ds=v1%3AzE7JIy2sO%2FFCBbGoRNftNrGYxXI%2BHZqjoA8o9IJdbKc",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_n_g-1003232429111%3A23873046011"
+    },
+    {
+     "position": 2,
+     "name": "Polished",
+     "rh": "p_n_g-1003232429111:23873045011",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=p_n_g-1003232429111%3A23873045011&dc&qid=1790801937&rnid=23873040011&ref=sr_nr_p_n_g-1003232429111_2&ds=v1%3ADIFQ0VQ3FARpSY86cD54F4GdHtBO66QB4GRnGnaPOgc",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_n_g-1003232429111%3A23873045011"
+    },
+    {
+     "position": 3,
+     "name": "Matte",
+     "rh": "p_n_g-1003232429111:213326698011",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=p_n_g-1003232429111%3A213326698011&dc&qid=1790801937&rnid=23873040011&ref=sr_nr_p_n_g-1003232429111_3&ds=v1%3AFOKKlj5C1cnAeNJzM75pBi3E%2BOph5f3CcyJuyAD6c60",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_n_g-1003232429111%3A213326698011"
+    },
+    {
+     "position": 4,
+     "name": "Painted",
+     "rh": "p_n_g-1003232429111:23873047011",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=p_n_g-1003232429111%3A23873047011&dc&qid=1790801937&rnid=23873040011&ref=sr_nr_p_n_g-1003232429111_4&ds=v1%3A4bEH0kFQWPrQc4eEf0qNbTLvJ6oc34otSHrsAa%2BXlyc",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_n_g-1003232429111%3A23873047011"
+    },
+    {
+     "position": 5,
+     "name": "Brushed",
+     "rh": "p_n_g-1003232429111:23873044011",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=p_n_g-1003232429111%3A23873044011&dc&qid=1790801937&rnid=23873040011&ref=sr_nr_p_n_g-1003232429111_5&ds=v1%3A29DWeKx8xYXWJ9Wem0Xyp8Fx8U2x%2FfoZE0bD1n%2BpHyw",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_n_g-1003232429111%3A23873044011"
+    },
+    {
+     "position": 6,
+     "name": "Unfinished",
+     "rh": "p_n_g-1003232429111:23873043011",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=p_n_g-1003232429111%3A23873043011&dc&qid=1790801937&rnid=23873040011&ref=sr_nr_p_n_g-1003232429111_6&ds=v1%3APG0rn4ga9BmAN60I2me1W9Y6slEJhx2bV0J%2BglEMrw4",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_n_g-1003232429111%3A23873043011"
+    }
+   ],
+   "brands": [
+    {
+     "position": 1,
+     "name": "NUPTIO",
+     "rh": "p_123:581911",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=p_123%3A581911&dc&qid=1790801937&rnid=85457740011&ref=sr_nr_p_123_1&ds=v1%3AfDcFV53XeI5JXTEU850AEq3dfQmI9W2Xmh6o4HDzPCY",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_123%3A581911"
+    },
+    {
+     "position": 2,
+     "name": "Mud Pie",
+     "rh": "p_123:233423",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=p_123%3A233423&dc&qid=1790801937&rnid=85457740011&ref=sr_nr_p_123_2&ds=v1%3ApnId6l4T7%2FwlEX0uOXPQLC9%2BOc67SbPJOEd6UNALlzI",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_123%3A233423"
+    }
+   ],
+   "seller": [
+    {
+     "position": 1,
+     "name": "Ashley Gifts",
+     "rh": "p_6:A11IBFWB2DINUM",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=p_6%3AA11IBFWB2DINUM&dc&qid=1790801937&rnid=331544011&ref=sr_nr_p_6_1&ds=v1%3Aeqc%2FTFHQf4zuQE%2FZ8xfRRuGp6BOXJiA5bdoE2wJBJ9A",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_6%3AA11IBFWB2DINUM"
+    },
+    {
+     "position": 2,
+     "name": "BeautyTime100",
+     "rh": "p_6:A3I65GOKIYJQJ4",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=p_6%3AA3I65GOKIYJQJ4&dc&qid=1790801937&rnid=331544011&ref=sr_nr_p_6_2&ds=v1%3AQIsnw0%2FPHlXYPwEOSH9osxRlrMv53aoxDHqM5b3qwA4",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_6%3AA3I65GOKIYJQJ4"
+    },
+    {
+     "position": 3,
+     "name": "Amazon Resale",
+     "rh": "p_6:A2L77EE7U53NWQ",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=p_6%3AA2L77EE7U53NWQ&dc&qid=1790801937&rnid=331544011&ref=sr_nr_p_6_3&ds=v1%3AQfkQTFQZ7JTzZP73Y03nfuur%2FUl45Nf0DkTaT%2B2gkao",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_6%3AA2L77EE7U53NWQ"
+    },
+    {
+     "position": 4,
+     "name": "SERENE SPACES LIVING",
+     "rh": "p_6:ALU87PZ1HHB40",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=p_6%3AALU87PZ1HHB40&dc&qid=1790801937&rnid=331544011&ref=sr_nr_p_6_4&ds=v1%3AK5lZchZ66jIRPw9tFmkkH6H6CAwNj9Ab5xnrPumj2lI",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_6%3AALU87PZ1HHB40"
+    },
+    {
+     "position": 5,
+     "name": "Martin Peng",
+     "rh": "p_6:A37U2PXEVSM674",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=p_6%3AA37U2PXEVSM674&dc&qid=1790801937&rnid=331544011&ref=sr_nr_p_6_5&ds=v1%3ABbe3l4rUn4x2V6eRcVyFOQuR2IhoB06LGnWa7ICCi%2BE",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_6%3AA37U2PXEVSM674"
+    },
+    {
+     "position": 6,
+     "name": "LEO AZEX®",
+     "rh": "p_6:A37HJA8Q358PSF",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=p_6%3AA37HJA8Q358PSF&dc&qid=1790801937&rnid=331544011&ref=sr_nr_p_6_6&ds=v1%3AUlkdPGiv7mdCJ9rChBxm%2BoDLLC6Jq5HnE%2BDc02ukxNo",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_6%3AA37HJA8Q358PSF"
+    },
+    {
+     "position": 7,
+     "name": "Looscent",
+     "rh": "p_6:A1EORQVSDU4218",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=p_6%3AA1EORQVSDU4218&dc&qid=1790801937&rnid=331544011&ref=sr_nr_p_6_7&ds=v1%3AJss1ZsamwpwbRE4UOxSbagElPdDfZYiJB5uDlsGR9Ag",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_6%3AA1EORQVSDU4218"
+    }
+   ],
+   "holiday": [
+    {
+     "position": 1,
+     "name": "Birthday",
+     "rh": "p_n_g-1001308960111:213325856011",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=p_n_g-1001308960111%3A213325856011&dc&qid=1790801937&rnid=17382059011&ref=sr_nr_p_n_g-1001308960111_1&ds=v1%3ANboLIbRsUbXIcYqw8t8iJYKNTlk%2FA6EYjTg73VuHZm0",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_n_g-1001308960111%3A213325856011"
+    },
+    {
+     "position": 2,
+     "name": "Winter Holidays",
+     "rh": "p_n_g-1001308960111:213325889011",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=p_n_g-1001308960111%3A213325889011&dc&qid=1790801937&rnid=17382059011&ref=sr_nr_p_n_g-1001308960111_2&ds=v1%3A4IY27ZqYYyxjvrNGjNua0TzjF3RKmcaMaQhkDaWIs28",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_n_g-1001308960111%3A213325889011"
+    },
+    {
+     "position": 3,
+     "name": "Wedding & Engagement",
+     "rh": "p_n_g-1001308960111:213325838011",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=p_n_g-1001308960111%3A213325838011&dc&qid=1790801937&rnid=17382059011&ref=sr_nr_p_n_g-1001308960111_3&ds=v1%3AfwfRtBR5Fx8kzfio8wnulqB1fYZEJs%2BWCLKGAkrci9U",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_n_g-1001308960111%3A213325838011"
+    },
+    {
+     "position": 4,
+     "name": "Anniversary",
+     "rh": "p_n_g-1001308960111:213325893011",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=p_n_g-1001308960111%3A213325893011&dc&qid=1790801937&rnid=17382059011&ref=sr_nr_p_n_g-1001308960111_4&ds=v1%3Ato3nJri31IL5JpurrDxzKqf6AcZCFnFsyJxE09WKvyY",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_n_g-1001308960111%3A213325893011"
+    },
+    {
+     "position": 5,
+     "name": "Christmas",
+     "rh": "p_n_g-1001308960111:213325877011",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=p_n_g-1001308960111%3A213325877011&dc&qid=1790801937&rnid=17382059011&ref=sr_nr_p_n_g-1001308960111_5&ds=v1%3AOipD%2F3p5Vzr93b6C5g6BzuZYSRBJtL3xNHr3bOG4ngw",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_n_g-1001308960111%3A213325877011"
+    },
+    {
+     "position": 6,
+     "name": "Easter",
+     "rh": "p_n_g-1001308960111:213325859011",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=p_n_g-1001308960111%3A213325859011&dc&qid=1790801937&rnid=17382059011&ref=sr_nr_p_n_g-1001308960111_6&ds=v1%3A2HFd46V0stpTxuBptYA%2B8bVt6nNtNi2X1JGVmMFCHAg",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_n_g-1001308960111%3A213325859011"
+    },
+    {
+     "position": 7,
+     "name": "Halloween",
+     "rh": "p_n_g-1001308960111:213325868011",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=p_n_g-1001308960111%3A213325868011&dc&qid=1790801937&rnid=17382059011&ref=sr_nr_p_n_g-1001308960111_7&ds=v1%3AaHggPXssHd5ltQUVOqj3KOan%2Fww4tD%2Bj92rpHpuzX5g",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_n_g-1001308960111%3A213325868011"
+    },
+    {
+     "position": 8,
+     "name": "Housewarming",
+     "rh": "p_n_g-1001308960111:213325850011",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=p_n_g-1001308960111%3A213325850011&dc&qid=1790801937&rnid=17382059011&ref=sr_nr_p_n_g-1001308960111_8&ds=v1%3Atpv92dMTfjZyrTDOa83nlsGN2x0sfuouFy8XdBQnZrM",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_n_g-1001308960111%3A213325850011"
+    },
+    {
+     "position": 9,
+     "name": "Mother's Day",
+     "rh": "p_n_g-1001308960111:213325878011",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=p_n_g-1001308960111%3A213325878011&dc&qid=1790801937&rnid=17382059011&ref=sr_nr_p_n_g-1001308960111_9&ds=v1%3AcqqDq0oWMkAW431MPIbmNxMQChCi6whlzw3UojkMxqA",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_n_g-1001308960111%3A213325878011"
+    },
+    {
+     "position": 10,
+     "name": "New Year",
+     "rh": "p_n_g-1001308960111:213325881011",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=p_n_g-1001308960111%3A213325881011&dc&qid=1790801937&rnid=17382059011&ref=sr_nr_p_n_g-1001308960111_10&ds=v1%3AVqKgOusntERwxQwjnjXwfuw7Zr0lMtqnYRAU0O9bfqo",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_n_g-1001308960111%3A213325881011"
+    },
+    {
+     "position": 11,
+     "name": "Seasons",
+     "rh": "p_n_g-1001308960111:213325900011",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=p_n_g-1001308960111%3A213325900011&dc&qid=1790801937&rnid=17382059011&ref=sr_nr_p_n_g-1001308960111_11&ds=v1%3AFCclUyjtiyZ%2Fds83yZiSU6vR%2FjSNOlUzHZxMZB3lErE",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_n_g-1001308960111%3A213325900011"
+    },
+    {
+     "position": 12,
+     "name": "Thanksgiving",
+     "rh": "p_n_g-1001308960111:213325865011",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=p_n_g-1001308960111%3A213325865011&dc&qid=1790801937&rnid=17382059011&ref=sr_nr_p_n_g-1001308960111_12&ds=v1%3AANfwXXyzY1tj8mDni%2FaA9JP1wWpegeIV3Gsyjr8PYqY",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_n_g-1001308960111%3A213325865011"
+    },
+    {
+     "position": 13,
+     "name": "Valentine's Day",
+     "rh": "p_n_g-1001308960111:213325840011",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=p_n_g-1001308960111%3A213325840011&dc&qid=1790801937&rnid=17382059011&ref=sr_nr_p_n_g-1001308960111_13&ds=v1%3Aal%2BhCftnMuXP3ktl76v1Nq5GevWwpSmIX84sAwbl6iU",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_n_g-1001308960111%3A213325840011"
+    },
+    {
+     "position": 14,
+     "name": "Wedding",
+     "rh": "p_n_g-1001308960111:213325846011",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=p_n_g-1001308960111%3A213325846011&dc&qid=1790801937&rnid=17382059011&ref=sr_nr_p_n_g-1001308960111_14&ds=v1%3AkCJuDUTirIsGEc%2BDn1cDXB7%2BewgJcOBGA4cFYP0Lw%2Fo",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_n_g-1001308960111%3A213325846011"
+    }
+   ],
+   "all_top_brands": [
+    {
+     "position": 1,
+     "name": "Top Brands",
+     "rh": "p_n_g-101014971069111:119653281011",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=p_n_g-101014971069111%3A119653281011&dc&qid=1790801937&rnid=119653280011&ref=sr_nr_p_n_g-101014971069111_1&ds=v1%3AFjQM%2BRTl8sMS1ObH6WLZdpG4gSWNyELf6Di7aQtFt4c",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_n_g-101014971069111%3A119653281011"
+    }
+   ],
+   "handmade_products": [
+    {
+     "position": 1,
+     "name": "Handmade",
+     "rh": "p_n_feature_thirty-four_browse-bin:217421938011",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=p_n_feature_thirty-four_browse-bin%3A217421938011&dc&qid=1790801937&rnid=217421937011&ref=sr_nr_p_n_feature_thirty-four_browse-bin_1&ds=v1%3AkyQNdkg5hYmEEWmMrd0QvVugBtgUHQWziw5os47FK7w",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_n_feature_thirty-four_browse-bin%3A217421938011"
+    }
+   ],
+   "department": [
+    {
+     "position": 1,
+     "name": "Candleholders",
+     "rh": "n:3734591",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=n%3A3734591&dc&qid=1790801937&rnid=2941120011&ref=sr_nr_n_1&ds=v1%3A5bGC2TTLskNuzQ9In1fvpFbpGCNyfJHekqrEjXRDCLM",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=n%3A3734591"
+    },
+    {
+     "position": 2,
+     "name": "Decorative Candle Lanterns",
+     "rh": "n:3734671",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=n%3A3734591%2Cn%3A3734671&dc&qid=1790801937&rnid=2941120011&ref=sr_nr_n_2&ds=v1%3A8GErc4bQjzvr6M%2F9oMmDfgHFweGT7r2qJ%2B1wztUPyns",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=n%3A3734591%2Cn%3A3734671"
+    },
+    {
+     "position": 3,
+     "name": "Hurricane Candleholders",
+     "rh": "n:3734731",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=n%3A3734591%2Cn%3A3734731&dc&qid=1790801937&rnid=2941120011&ref=sr_nr_n_3&ds=v1%3An0UrZDPIhdg1vHw38atOp5wqrNisQc9MwjuH7afyCsw",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=n%3A3734591%2Cn%3A3734731"
+    },
+    {
+     "position": 4,
+     "name": "Tools & Home Improvement",
+     "rh": "n:228013",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=n%3A228013&dc&qid=1790801937&rnid=2941120011&ref=sr_nr_n_4&ds=v1%3AzDBJSyV1ja6b8%2B%2Bzjos7nCN0i1%2Fuh3jXG2OR6ssMLkA",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=n%3A228013"
+    },
+    {
+     "position": 5,
+     "name": "Lighting & Ceiling Fans",
+     "rh": "n:495224",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=n%3A228013%2Cn%3A495224&dc&qid=1790801937&rnid=2941120011&ref=sr_nr_n_5&ds=v1%3AB8V8IBkfbkGSaqHIHs0hSfGc%2FdJfengIPaB0ZsfEm1g",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=n%3A228013%2Cn%3A495224"
+    },
+    {
+     "position": 6,
+     "name": "Oil Lamps & Accessories",
+     "rh": "n:10133745011",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=n%3A10133745011&dc&qid=1790801937&rnid=2941120011&ref=sr_nr_n_6&ds=v1%3ALVvnRhLna9na5CkpBJqzb8gkFPy0L2I208SNorQCcow",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=n%3A10133745011"
+    },
+    {
+     "position": 7,
+     "name": "Oil Lamps",
+     "rh": "n:3734721",
+     "link": "https://www.amazon.com/s?k=brass+hurricane+lantern&rh=n%3A10133745011%2Cn%3A3734721&dc&qid=1790801937&rnid=2941120011&ref=sr_nr_n_7&ds=v1%3AKB3KeuE%2Bnufkgen8DTS8Z2TU7pA3Gxgeup7B3VyMzhs",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=n%3A10133745011%2Cn%3A3734721"
+    }
+   ]
+  },
+  "serpapi_pagination": {
+   "current": 1,
+   "next": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=brass+hurricane+lantern&page=2"
+  }
+ }
+}

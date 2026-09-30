@@ -1,0 +1,1378 @@
+{
+ "engine": "amazon",
+ "params": {
+  "k": "brass hurricane lantern",
+  "amazon_domain": "amazon.com.au"
+ },
+ "fetched_at": "2026-09-30T20:59:03+00:00",
+ "data": {
+  "search_metadata": {
+   "id": "6abd781209a51adf24993fee",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/FFhs8OCgo5wHIXIajqoilgc2zMqXEi7L3JxpwdeWKMY/6abd781209a51adf24993fee.json",
+   "markdown_endpoint": "https://serpapi.com/searches/FFhs8OCgo5wHIXIajqoilgc2zMqXEi7L3JxpwdeWKMY/6abd781209a51adf24993fee.md",
+   "created_at": "2026-09-30 20:58:58 UTC",
+   "processed_at": "2026-09-30 20:58:58 UTC",
+   "amazon_url": "https://www.amazon.com.au/s?k=brass+hurricane+lantern",
+   "raw_html_file": "https://serpapi.com/searches/FFhs8OCgo5wHIXIajqoilgc2zMqXEi7L3JxpwdeWKMY/6abd781209a51adf24993fee.html",
+   "total_time_taken": 4.35
+  },
+  "search_parameters": {
+   "engine": "amazon",
+   "k": "brass hurricane lantern",
+   "amazon_domain": "amazon.com.au",
+   "device": "desktop"
+  },
+  "search_information": {
+   "total_results": 5570,
+   "query_displayed": "brass hurricane lantern",
+   "store": "gateway",
+   "page": 1
+  },
+  "organic_results": [
+   {
+    "position": 1,
+    "asin": "B0BG3F7NFD",
+    "title": "Vermont Lanterns - Brass Hurricane Lantern 12.5\" (Brass)",
+    "link": "https://www.amazon.com.au/Vermont-Lanterns-Brass-Hurricane-Lantern/dp/B0BG3F7NFD/ref=sr_1_1?keywords=brass+hurricane+lantern&qid=1790801940&sr=8-1",
+    "link_clean": "https://www.amazon.com.au/Vermont-Lanterns-Brass-Hurricane-Lantern/dp/B0BG3F7NFD/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&asin=B0BG3F7NFD&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/61CO8djruPL._AC_UL320_.jpg",
+    "rating": 4.3,
+    "reviews": 24,
+    "price": "$284.20",
+    "extracted_price": 284.2,
+    "purchase_options": [
+     {
+      "primary_price": "$284.20",
+      "extracted_primary_price": 284.2
+     }
+    ]
+   },
+   {
+    "position": 2,
+    "asin": "B09RWJPMMJ",
+    "title": "Dietz Dates Hurricane Lantern D78 Brass",
+    "link": "https://www.amazon.com.au/Dietz-D78-Brass-Hurricane-Lantern/dp/B09RWJPMMJ/ref=sr_1_2?keywords=brass+hurricane+lantern&qid=1790801940&sr=8-2",
+    "link_clean": "https://www.amazon.com.au/Dietz-D78-Brass-Hurricane-Lantern/dp/B09RWJPMMJ/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&asin=B09RWJPMMJ&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/61bdwTMNyrL._AC_UL320_.jpg",
+    "price": "$74.51",
+    "extracted_price": 74.51,
+    "offers": [
+     "13% off promotion available"
+    ],
+    "delivery": [
+     "FREE International delivery Mon, 12 Oct",
+     "Or fastest delivery Fri, 9 Oct"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "$74.51",
+      "extracted_primary_price": 74.51
+     }
+    ]
+   },
+   {
+    "position": 3,
+    "asin": "B0BG3GK49K",
+    "title": "Vermont Lanterns - Brass Hurricane Lantern 12.5\" (Antique Brass)",
+    "link": "https://www.amazon.com.au/Vermont-Lanterns-Hurricane-Lantern-Antique/dp/B0BG3GK49K/ref=sr_1_3?keywords=brass+hurricane+lantern&qid=1790801940&sr=8-3",
+    "link_clean": "https://www.amazon.com.au/Vermont-Lanterns-Hurricane-Lantern-Antique/dp/B0BG3GK49K/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&asin=B0BG3GK49K&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/61WtSKx25mL._AC_UL320_.jpg",
+    "rating": 4.3,
+    "reviews": 24,
+    "price": "$268.77",
+    "extracted_price": 268.77,
+    "stock": "Only 2 left in stock.",
+    "purchase_options": [
+     {
+      "primary_price": "$268.77",
+      "extracted_primary_price": 268.77
+     }
+    ]
+   },
+   {
+    "position": 4,
+    "asin": "B0FY5434HB",
+    "title": "Sziqiqi Hurricane Candle Holders for Pillar: Vintage Brass Candle Lantern with Glass Dome for Living Room - Set of 2 Metal Large Lanterns with Chain for Table Centrepiece Fireplace Outdoor",
+    "link": "https://www.amazon.com.au/Sziqiqi-Hurricane-Candle-Holders-Pillar/dp/B0FY5434HB/ref=sr_1_4?keywords=brass+hurricane+lantern&qid=1790801940&sr=8-4",
+    "link_clean": "https://www.amazon.com.au/Sziqiqi-Hurricane-Candle-Holders-Pillar/dp/B0FY5434HB/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&asin=B0FY5434HB&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/61n-ovsduKL._AC_UL320_.jpg",
+    "rating": 4.6,
+    "reviews": 75,
+    "price": "$103.93",
+    "extracted_price": 103.93,
+    "more_buying_choices": "$63.63 (2 new offers)",
+    "more_buying_choices_link": "https://www.amazon.com.au/gp/offer-listing/B0FY5434HB/ref=sr_1_4_olp?keywords=brass+hurricane+lantern&qid=1790801940&sr=8-4",
+    "purchase_options": [
+     {
+      "primary_price": "$103.93",
+      "extracted_primary_price": 103.93,
+      "more_buying_choices": "$63.63 (2 new offers)",
+      "more_buying_choices_link": "https://www.amazon.com.au/gp/offer-listing/B0FY5434HB/ref=sr_1_4_olp?keywords=brass+hurricane+lantern&qid=1790801940&sr=8-4"
+     }
+    ]
+   },
+   {
+    "position": 5,
+    "asin": "B0F23Y3H8Q",
+    "title": "Glass Hurricane Candle Holder Decorative Golden Candle Lantern",
+    "link": "https://www.amazon.com.au/Hurricane-Decorative-Lantern-Candlestick-Centerpieces/dp/B0F23Y3H8Q/ref=sr_1_5?keywords=brass+hurricane+lantern&qid=1790801940&sr=8-5",
+    "link_clean": "https://www.amazon.com.au/Hurricane-Decorative-Lantern-Candlestick-Centerpieces/dp/B0F23Y3H8Q/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&asin=B0F23Y3H8Q&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/81eM4PmUioL._AC_UL320_.jpg",
+    "rating": 4.6,
+    "reviews": 76,
+    "price": "$43.51",
+    "extracted_price": 43.51,
+    "delivery": [
+     "FREE delivery 14 - 20 Oct"
+    ],
+    "more_buying_choices": "$38.04 (29 new offers)",
+    "more_buying_choices_link": "https://www.amazon.com.au/gp/offer-listing/B0F23Y3H8Q/ref=sr_1_5_olp?keywords=brass+hurricane+lantern&qid=1790801940&sr=8-5",
+    "purchase_options": [
+     {
+      "primary_price": "$43.51",
+      "extracted_primary_price": 43.51,
+      "more_buying_choices": "$38.04 (29 new offers)",
+      "more_buying_choices_link": "https://www.amazon.com.au/gp/offer-listing/B0F23Y3H8Q/ref=sr_1_5_olp?keywords=brass+hurricane+lantern&qid=1790801940&sr=8-5"
+     }
+    ]
+   },
+   {
+    "position": 6,
+    "asin": "B0CP82JRKW",
+    "title": "5\" & 4\" Wide Versatile Metal Candle Holder In Antique Brass With Handmade Thick & Sturdy Glass Dome Cover For Pillar Candle & Plants, Industrial, Farmhouse, Shabby Chic Style (2, brass, Large & Small)",
+    "link": "https://www.amazon.com.au/Versatile-Candle-Handmade-Industrial-Farmhouse/dp/B0CP82JRKW/ref=sr_1_6_mod_primary_new?keywords=brass+hurricane+lantern&qid=1790801940&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=8-6",
+    "link_clean": "https://www.amazon.com.au/Versatile-Candle-Handmade-Industrial-Farmhouse/dp/B0CP82JRKW/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&asin=B0CP82JRKW&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/61SzM6wHD9L._AC_UL320_.jpg",
+    "rating": 4.6,
+    "reviews": 3,
+    "price": "$96.08",
+    "extracted_price": 96.08,
+    "purchase_options": [
+     {
+      "primary_price": "$96.08",
+      "extracted_primary_price": 96.08
+     },
+     {
+      "type": "Another way to buy",
+      "primary_price": "$102.77",
+      "extracted_primary_price": 102.77
+     }
+    ]
+   },
+   {
+    "position": 7,
+    "asin": "B0G8W3FD4L",
+    "title": "Metal Candle Holder with Handmade Glass Dome in Brass, 5\" & 4\" Wide Versatile Hurricane Glass Candle Holders Set of 2, for Pillar Candles & Plants (Brass)",
+    "link": "https://www.amazon.com.au/Ganwu-Handmade-Versatile-Hurricane-Holders/dp/B0G8W3FD4L/ref=sr_1_7?keywords=brass+hurricane+lantern&qid=1790801940&sr=8-7",
+    "link_clean": "https://www.amazon.com.au/Ganwu-Handmade-Versatile-Hurricane-Holders/dp/B0G8W3FD4L/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&asin=B0G8W3FD4L&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/71USk2OCnKL._AC_UL320_.jpg",
+    "rating": 4.8,
+    "reviews": 28,
+    "price": "$42.77",
+    "extracted_price": 42.77,
+    "delivery": [
+     "FREE delivery Mon, 19 Oct"
+    ],
+    "more_buying_choices": "$41.80 (18 new offers)",
+    "more_buying_choices_link": "https://www.amazon.com.au/gp/offer-listing/B0G8W3FD4L/ref=sr_1_7_olp?keywords=brass+hurricane+lantern&qid=1790801940&sr=8-7",
+    "purchase_options": [
+     {
+      "primary_price": "$42.77",
+      "extracted_primary_price": 42.77,
+      "more_buying_choices": "$41.80 (18 new offers)",
+      "more_buying_choices_link": "https://www.amazon.com.au/gp/offer-listing/B0G8W3FD4L/ref=sr_1_7_olp?keywords=brass+hurricane+lantern&qid=1790801940&sr=8-7"
+     }
+    ]
+   },
+   {
+    "position": 8,
+    "asin": "B0B34MJMLF",
+    "title": "Dates Dietz Hurricane Lantern D76 Brass",
+    "link": "https://www.amazon.com.au/Dates-Dietz-Hurricane-Lantern-Brass/dp/B0B34MJMLF/ref=sr_1_8?keywords=brass+hurricane+lantern&qid=1790801940&sr=8-8",
+    "link_clean": "https://www.amazon.com.au/Dates-Dietz-Hurricane-Lantern-Brass/dp/B0B34MJMLF/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&asin=B0B34MJMLF&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/71zqNfgi4GL._AC_UL320_.jpg",
+    "price": "$70.50",
+    "extracted_price": 70.5,
+    "delivery": [
+     "FREE International delivery 15 - 24 Oct",
+     "Or fastest delivery 13 - 22 Oct"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "$70.50",
+      "extracted_primary_price": 70.5
+     }
+    ]
+   },
+   {
+    "position": 9,
+    "asin": "B0H1L233VF",
+    "title": "Candle Holder Lanterns, Handcrafted Metal & Glass with Modern Aesthetic Design, Hurricane Pillar Candlestick Holders, Table or Hanging Decorations Set of 2, 5.1\" & 4.4\" Diameter, Gold",
+    "link": "https://www.amazon.com.au/Handcrafted-Aesthetic-Hurricane-Candlestick-Decorations/dp/B0H1L233VF/ref=sr_1_9?keywords=brass+hurricane+lantern&qid=1790801940&sr=8-9",
+    "link_clean": "https://www.amazon.com.au/Handcrafted-Aesthetic-Hurricane-Candlestick-Decorations/dp/B0H1L233VF/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&asin=B0H1L233VF&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/61j12Nk3B1L._AC_UL320_.jpg",
+    "rating": 5.0,
+    "reviews": 1,
+    "price": "$57.99",
+    "extracted_price": 57.99,
+    "delivery": [
+     "FREE delivery Sat, 3 Oct on your first order",
+     "Or fastest delivery available Today 5 pm - 10 pm"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "$57.99",
+      "extracted_primary_price": 57.99
+     }
+    ]
+   },
+   {
+    "position": 10,
+    "asin": "B0GXV2GD38",
+    "title": "5\" & 4\" Metal Candle Holder with Ribbed Glass Candle Lanterns Set of 2, Vintage Windproof Hurricane Pillar Candle Holder, Decorative Table Centerpiece Patio Decor, Brass",
+    "link": "https://www.amazon.com.au/Ganwu-Windproof-Hurricane-Decorative-Centerpiece/dp/B0GXV2GD38/ref=sr_1_10?keywords=brass+hurricane+lantern&qid=1790801940&sr=8-10",
+    "link_clean": "https://www.amazon.com.au/Ganwu-Windproof-Hurricane-Decorative-Centerpiece/dp/B0GXV2GD38/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&asin=B0GXV2GD38&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/71GLCyrsd-L._AC_UL320_.jpg",
+    "rating": 4.9,
+    "reviews": 22,
+    "price": "$52.78",
+    "extracted_price": 52.78,
+    "delivery": [
+     "FREE delivery Thu, 22 Oct"
+    ],
+    "more_buying_choices": "$52.50 (6 new offers)",
+    "more_buying_choices_link": "https://www.amazon.com.au/gp/offer-listing/B0GXV2GD38/ref=sr_1_10_olp?keywords=brass+hurricane+lantern&qid=1790801940&sr=8-10",
+    "purchase_options": [
+     {
+      "primary_price": "$52.78",
+      "extracted_primary_price": 52.78,
+      "more_buying_choices": "$52.50 (6 new offers)",
+      "more_buying_choices_link": "https://www.amazon.com.au/gp/offer-listing/B0GXV2GD38/ref=sr_1_10_olp?keywords=brass+hurricane+lantern&qid=1790801940&sr=8-10"
+     }
+    ]
+   },
+   {
+    "position": 11,
+    "asin": "B0HDNXKWV1",
+    "title": "2Pcs Wide Modern Farmhouse Metal Hurricane Candle Holder with Handmade Sturdy Glass Sleeve in Vintage Brass for Pillar Candle & Plants, Glass Hurricane Lantern, Industrial, Minimalistic",
+    "link": "https://www.amazon.com.au/Farmhouse-Hurricane-Handmade-Industrial-Minimalistic/dp/B0HDNXKWV1/ref=sr_1_11?keywords=brass+hurricane+lantern&qid=1790801940&sr=8-11",
+    "link_clean": "https://www.amazon.com.au/Farmhouse-Hurricane-Handmade-Industrial-Minimalistic/dp/B0HDNXKWV1/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&asin=B0HDNXKWV1&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/61VXn1SbtRL._AC_UL320_.jpg",
+    "price": "$59.99",
+    "extracted_price": 59.99,
+    "delivery": [
+     "FREE delivery Sat, 3 Oct",
+     "Or fastest delivery available Today 5 pm - 10 pm"
+    ],
+    "stock": "Only 4 left in stock.",
+    "purchase_options": [
+     {
+      "primary_price": "$59.99",
+      "extracted_primary_price": 59.99
+     }
+    ]
+   },
+   {
+    "position": 12,
+    "asin": "B0DYVH7KT6",
+    "title": "Oil Lamp - 4.75” Tall Nautical Lamp with Naval-Style Copper and Brass Body and Glass Bulb - Decorative Kerosene Lantern with Adjustable Wick- Oil Lamps for Indoor or Outdoor Use by Kings County Tools",
+    "link": "https://www.amazon.com.au/Oil-Lamp-Naval-Style-Decorative-Adjustable/dp/B0DYVH7KT6/ref=sr_1_12?keywords=brass+hurricane+lantern&qid=1790801940&sr=8-12",
+    "link_clean": "https://www.amazon.com.au/Oil-Lamp-Naval-Style-Decorative-Adjustable/dp/B0DYVH7KT6/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&asin=B0DYVH7KT6&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/71hofLFq-OL._AC_UL320_.jpg",
+    "rating": 4.2,
+    "reviews": 57,
+    "price": "$85.98",
+    "extracted_price": 85.98,
+    "purchase_options": [
+     {
+      "primary_price": "$85.98",
+      "extracted_primary_price": 85.98
+     }
+    ]
+   },
+   {
+    "position": 13,
+    "asin": "B0HKZPX6CF",
+    "title": "Vintage Hurricane Kerosene Lantern – 12-Inch Brass Oil Lamp with Glass Globe & Carrying Handle, Classic Metal Hanging Decorative Lantern for Camping, Emergency Lighting, Home Decor",
+    "link": "https://www.amazon.com.au/Vintage-Hurricane-Kerosene-Lantern-Decorative/dp/B0HKZPX6CF/ref=sr_1_13?keywords=brass+hurricane+lantern&qid=1790801940&sr=8-13",
+    "link_clean": "https://www.amazon.com.au/Vintage-Hurricane-Kerosene-Lantern-Decorative/dp/B0HKZPX6CF/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&asin=B0HKZPX6CF&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/611iLclugaL._AC_UL320_.jpg",
+    "price": "$64.14",
+    "extracted_price": 64.14,
+    "delivery": [
+     "FREE delivery 13 - 19 Oct"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "$64.14",
+      "extracted_primary_price": 64.14
+     }
+    ]
+   },
+   {
+    "position": 14,
+    "asin": "B0HGQGQC7Q",
+    "title": "7.5\" High Versatile Modern Metal Hurricane Lantern",
+    "link": "https://www.amazon.com.au/Versatile-Modern-Metal-Hurricane-Lantern/dp/B0HGQGQC7Q/ref=sr_1_14?keywords=brass+hurricane+lantern&qid=1790801940&sr=8-14",
+    "link_clean": "https://www.amazon.com.au/Versatile-Modern-Metal-Hurricane-Lantern/dp/B0HGQGQC7Q/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&asin=B0HGQGQC7Q&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/51bghvwdM0L._AC_UL320_.jpg",
+    "price": "$45.89",
+    "extracted_price": 45.89,
+    "delivery": [
+     "FREE delivery Sat, 3 Oct on your first order",
+     "Or fastest delivery available Today 5 pm - 10 pm"
+    ],
+    "stock": "Only 3 left in stock.",
+    "purchase_options": [
+     {
+      "primary_price": "$45.89",
+      "extracted_primary_price": 45.89
+     }
+    ]
+   },
+   {
+    "position": 15,
+    "asin": "B0F5X6H78J",
+    "title": "Candle Holder Lanterns, Handcrafted Metal & Glass with Modern Aesthetic Design, Hurricane Pillar Candlestick Holders, Table or Hanging Decorations Set of 2, 5.1\" & 4.4\" Diameter, Gold",
+    "link": "https://www.amazon.com.au/BUZFOWU-Handcrafted-Aesthetic-Candlestick-Decorations/dp/B0F5X6H78J/ref=sr_1_15?keywords=brass+hurricane+lantern&qid=1790801940&sr=8-15",
+    "link_clean": "https://www.amazon.com.au/BUZFOWU-Handcrafted-Aesthetic-Candlestick-Decorations/dp/B0F5X6H78J/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&asin=B0F5X6H78J&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/71EBvh25kgL._AC_UL320_.jpg",
+    "rating": 4.6,
+    "reviews": 40,
+    "price": "$36.88",
+    "extracted_price": 36.88,
+    "delivery": [
+     "FREE delivery Tue, 20 Oct"
+    ],
+    "more_buying_choices": "$30.09 (18 new offers)",
+    "more_buying_choices_link": "https://www.amazon.com.au/gp/offer-listing/B0F5X6H78J/ref=sr_1_15_olp?keywords=brass+hurricane+lantern&qid=1790801940&sr=8-15",
+    "purchase_options": [
+     {
+      "primary_price": "$36.88",
+      "extracted_primary_price": 36.88,
+      "more_buying_choices": "$30.09 (18 new offers)",
+      "more_buying_choices_link": "https://www.amazon.com.au/gp/offer-listing/B0F5X6H78J/ref=sr_1_15_olp?keywords=brass+hurricane+lantern&qid=1790801940&sr=8-15"
+     }
+    ]
+   },
+   {
+    "position": 16,
+    "asin": "B08BCDRF6D",
+    "title": "Rechargeable Vintage Hurricane Lantern, Metal Hanging Lantern with Dimmer Switch, 15 LEDs Battery Operated Lantern for Indoor or Outdoor Usage, Charging Cable and Battery Included (Antique Copper)",
+    "link": "https://www.amazon.com.au/Rechargeable-Hurricane-Operated-Charging-Included/dp/B08BCDRF6D/ref=sr_1_16?keywords=brass+hurricane+lantern&qid=1790801940&sr=8-16",
+    "link_clean": "https://www.amazon.com.au/Rechargeable-Hurricane-Operated-Charging-Included/dp/B08BCDRF6D/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&asin=B08BCDRF6D&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/61D+V+ufaXL._AC_UL320_.jpg",
+    "rating": 4.2,
+    "reviews": 654,
+    "price": "$28.99",
+    "extracted_price": 28.99,
+    "delivery": [
+     "FREE delivery Tue, 6 Oct on your first order"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "$28.99",
+      "extracted_primary_price": 28.99
+     }
+    ]
+   },
+   {
+    "position": 17,
+    "asin": "B079FD5QX5",
+    "title": "OZtrail Hurricane Lantern, 11-Inch",
+    "link": "https://www.amazon.com.au/Elemental-Hurricane-Lantern-11-Inch-Size/dp/B079FD5QX5/ref=sr_1_17?keywords=brass+hurricane+lantern&qid=1790801940&sr=8-17",
+    "link_clean": "https://www.amazon.com.au/Elemental-Hurricane-Lantern-11-Inch-Size/dp/B079FD5QX5/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&asin=B079FD5QX5&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/41D2B46pazL._AC_UL320_.jpg",
+    "rating": 3.4,
+    "reviews": 6,
+    "price": "$20.95",
+    "extracted_price": 20.95,
+    "delivery": [
+     "FREE delivery Tue, 6 Oct on your first order"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "$20.95",
+      "extracted_primary_price": 20.95
+     }
+    ]
+   },
+   {
+    "position": 18,
+    "asin": "B0FKH9X5K1",
+    "title": "5\"x7.5\" Versatile Modern Metal Hurricane Lantern with Handmade Sturdy Glass Dome for 3\" Pillar Candle & Plants (Brass, 5\"x7.5\" for 3\" Pillar)",
+    "link": "https://www.amazon.com.au/Twakutwaku-Versatile-Hurricane-Lantern-Handmade/dp/B0FKH9X5K1/ref=sr_1_18?keywords=brass+hurricane+lantern&qid=1790801940&sr=8-18",
+    "link_clean": "https://www.amazon.com.au/Twakutwaku-Versatile-Hurricane-Lantern-Handmade/dp/B0FKH9X5K1/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&asin=B0FKH9X5K1&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/51wRyCQ7oZL._AC_UL320_.jpg",
+    "rating": 4.5,
+    "reviews": 139,
+    "price": "$65.74",
+    "extracted_price": 65.74,
+    "delivery": [
+     "FREE delivery Sat, 3 Oct",
+     "Or fastest delivery available Today 5 pm - 10 pm"
+    ],
+    "stock": "Only 3 left in stock.",
+    "more_buying_choices": "$62.45 (2 new offers)",
+    "more_buying_choices_link": "https://www.amazon.com.au/gp/offer-listing/B0FKH9X5K1/ref=sr_1_18_olp?keywords=brass+hurricane+lantern&qid=1790801940&sr=8-18",
+    "purchase_options": [
+     {
+      "primary_price": "$65.74",
+      "extracted_primary_price": 65.74,
+      "more_buying_choices": "$62.45 (2 new offers)",
+      "more_buying_choices_link": "https://www.amazon.com.au/gp/offer-listing/B0FKH9X5K1/ref=sr_1_18_olp?keywords=brass+hurricane+lantern&qid=1790801940&sr=8-18"
+     }
+    ]
+   },
+   {
+    "position": 19,
+    "asin": "B0FWY9WPJ7",
+    "title": "Vintage Style Oil Lantern, Gold Brass Finish, Glass Hurricane Globe, Decorative Kerosene Lamp (Green Glass Lantern)",
+    "link": "https://www.amazon.com.au/Vintage-Lantern-Hurricane-Decorative-Kerosene/dp/B0FWY9WPJ7/ref=sr_1_19?keywords=brass+hurricane+lantern&qid=1790801940&sr=8-19",
+    "link_clean": "https://www.amazon.com.au/Vintage-Lantern-Hurricane-Decorative-Kerosene/dp/B0FWY9WPJ7/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&asin=B0FWY9WPJ7&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/6183JOxZAtL._AC_UL320_.jpg",
+    "price": "$136.81",
+    "extracted_price": 136.81,
+    "delivery": [
+     "FREE delivery 13 - 19 Oct"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "$136.81",
+      "extracted_primary_price": 136.81
+     }
+    ]
+   },
+   {
+    "position": 20,
+    "asin": "B0GX8X2FWQ",
+    "title": "Glass Hurricane Candle Holder Decorative Gold Candle Lantern, Pillar Candlestick Holders Set of 2, Hanging Metal Holder Modern Table Centerpieces, Antique Brass",
+    "link": "https://www.amazon.com.au/Glass-Hurricane-Candle-Holder-Centerpieces/dp/B0GX8X2FWQ/ref=sr_1_20?keywords=brass+hurricane+lantern&qid=1790801940&sr=8-20",
+    "link_clean": "https://www.amazon.com.au/Glass-Hurricane-Candle-Holder-Centerpieces/dp/B0GX8X2FWQ/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&asin=B0GX8X2FWQ&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/81MjBak6ANL._AC_UL320_.jpg",
+    "price": "$56.99",
+    "extracted_price": 56.99,
+    "delivery": [
+     "FREE delivery Sat, 3 Oct on your first order",
+     "Or fastest delivery available Today 5 pm - 10 pm"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "$56.99",
+      "extracted_primary_price": 56.99
+     }
+    ]
+   },
+   {
+    "position": 21,
+    "asin": "B0DXPSCRHH",
+    "title": "12\" Vintage Polished Brass Hurricane Lantern - Antique Style Kerosene Oil Lamp with Glass Globe and Hanging Handle for Home Decor, Emergency Lighting, Camping and Maritime Display",
+    "link": "https://www.amazon.com.au/Vintage-Polished-Brass-Hurricane-Lantern/dp/B0DXPSCRHH/ref=sr_1_21?keywords=brass+hurricane+lantern&qid=1790801940&sr=8-21",
+    "link_clean": "https://www.amazon.com.au/Vintage-Polished-Brass-Hurricane-Lantern/dp/B0DXPSCRHH/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&asin=B0DXPSCRHH&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/61FZdBlYSxL._AC_UL320_.jpg",
+    "rating": 3.0,
+    "reviews": 2,
+    "price": "$103.15",
+    "extracted_price": 103.15,
+    "purchase_options": [
+     {
+      "primary_price": "$103.15",
+      "extracted_primary_price": 103.15
+     }
+    ]
+   },
+   {
+    "position": 22,
+    "asin": "B0GV7F85MN",
+    "title": "Glass Hurricane Candle Holder Decorative Gold Candle Lantern, Pillar Candlestick Holders Set of 2, Hanging Metal Holder Modern Table Centerpieces (Vintage Brass Metal)",
+    "link": "https://www.amazon.com.au/Hurricane-Decorative-Lantern-Candlestick-Centerpieces/dp/B0GV7F85MN/ref=sr_1_22?keywords=brass+hurricane+lantern&qid=1790801940&sr=8-22",
+    "link_clean": "https://www.amazon.com.au/Hurricane-Decorative-Lantern-Candlestick-Centerpieces/dp/B0GV7F85MN/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&asin=B0GV7F85MN&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/61GCuGUp9sL._AC_UL320_.jpg",
+    "price": "$49.99",
+    "extracted_price": 49.99,
+    "delivery": [
+     "FREE delivery Tue, 6 Oct on your first order"
+    ],
+    "stock": "Only 2 left in stock.",
+    "purchase_options": [
+     {
+      "primary_price": "$49.99",
+      "extracted_primary_price": 49.99
+     }
+    ]
+   },
+   {
+    "position": 23,
+    "asin": "B0HKM4FY69",
+    "title": "Hurricane lamp, Oil Lamp, Hurricane(Brass)",
+    "link": "https://www.amazon.com.au/Hurricane-lamp-Oil-Lamp-Brass/dp/B0HKM4FY69/ref=sr_1_23?keywords=brass+hurricane+lantern&qid=1790801940&sr=8-23",
+    "link_clean": "https://www.amazon.com.au/Hurricane-lamp-Oil-Lamp-Brass/dp/B0HKM4FY69/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&asin=B0HKM4FY69&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/61RPbBhrTQL._AC_UL320_.jpg",
+    "price": "$168.16",
+    "extracted_price": 168.16,
+    "delivery": [
+     "FREE delivery 28 Oct - 3 Nov",
+     "Or fastest delivery 23 - 26 Oct"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "$168.16",
+      "extracted_primary_price": 168.16
+     }
+    ]
+   },
+   {
+    "position": 24,
+    "asin": "B0HHHB9YND",
+    "title": "Glass Lanterns Decorative Outdoor, Gold Hurricane Candle HoldersSet of 2 Hanging Lantern for Pillar Candles, Table Centerpiece for Home Thanksgiving Christmas Party",
+    "link": "https://www.amazon.com.au/Decorative-Hurricane-HoldersSet-Centerpiece-Thanksgiving/dp/B0HHHB9YND/ref=sr_1_24?keywords=brass+hurricane+lantern&qid=1790801940&sr=8-24",
+    "link_clean": "https://www.amazon.com.au/Decorative-Hurricane-HoldersSet-Centerpiece-Thanksgiving/dp/B0HHHB9YND/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&asin=B0HHHB9YND&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/71V+lgMHHBL._AC_UL320_.jpg",
+    "price": "$59.99",
+    "extracted_price": 59.99,
+    "delivery": [
+     "FREE delivery Sat, 3 Oct",
+     "Or fastest delivery available Today 5 pm - 10 pm"
+    ],
+    "stock": "Only 5 left in stock.",
+    "purchase_options": [
+     {
+      "primary_price": "$59.99",
+      "extracted_primary_price": 59.99
+     }
+    ]
+   },
+   {
+    "position": 25,
+    "asin": "B0HKNVSW6C",
+    "title": "Kings County Tools Brass Oil Lamp with Antique-Style Body, 9”x7.75”x16.75”",
+    "link": "https://www.amazon.com.au/Kings-County-Tools-Antique-Style-x16-75/dp/B0HKNVSW6C/ref=sr_1_25?keywords=brass+hurricane+lantern&qid=1790801940&sr=8-25",
+    "link_clean": "https://www.amazon.com.au/Kings-County-Tools-Antique-Style-x16-75/dp/B0HKNVSW6C/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&asin=B0HKNVSW6C&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/81CDFratRzL._AC_UL320_.jpg",
+    "price": "$256.09",
+    "extracted_price": 256.09,
+    "delivery": [
+     "Usually dispatched within 6 weeks"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "$256.09",
+      "extracted_primary_price": 256.09
+     }
+    ]
+   },
+   {
+    "position": 26,
+    "asin": "B0FXQ2SG8G",
+    "title": "6\" & 4\" Wide Modern Farmhouse Metal Hurricane Candle Holder with Handmade Sturdy Glass Sleeve in Antique Brass for Pillar Candle & Plants, Glass Hurricane Lantern, Industrial, Minimalistic",
+    "link": "https://www.amazon.com.au/Twakutwaku-Farmhouse-Hurricane-Industrial-Minimalistic/dp/B0FXQ2SG8G/ref=sr_1_26?keywords=brass+hurricane+lantern&qid=1790801940&sr=8-26",
+    "link_clean": "https://www.amazon.com.au/Twakutwaku-Farmhouse-Hurricane-Industrial-Minimalistic/dp/B0FXQ2SG8G/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&asin=B0FXQ2SG8G&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/71mwp4EuVEL._AC_UL320_.jpg",
+    "rating": 4.4,
+    "reviews": 158,
+    "price": "$100.19",
+    "extracted_price": 100.19,
+    "purchase_options": [
+     {
+      "primary_price": "$100.19",
+      "extracted_primary_price": 100.19
+     }
+    ]
+   },
+   {
+    "position": 27,
+    "asin": "B0H6HQTTPT",
+    "title": "Glass Hurricane Candle Holder Decorative Black Metal Pillar Candle Lantern",
+    "link": "https://www.amazon.com.au/Hurricane-Candle-Holder-Decorative-Lantern/dp/B0H6HQTTPT/ref=sr_1_27?keywords=brass+hurricane+lantern&qid=1790801940&sr=8-27",
+    "link_clean": "https://www.amazon.com.au/Hurricane-Candle-Holder-Decorative-Lantern/dp/B0H6HQTTPT/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&asin=B0H6HQTTPT&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/71gjydeviJL._AC_UL320_.jpg",
+    "price": "$61.99",
+    "extracted_price": 61.99,
+    "delivery": [
+     "FREE delivery Sat, 3 Oct",
+     "Or fastest delivery available Today 5 pm - 10 pm"
+    ],
+    "stock": "Only 2 left in stock.",
+    "purchase_options": [
+     {
+      "primary_price": "$61.99",
+      "extracted_primary_price": 61.99
+     }
+    ]
+   },
+   {
+    "position": 28,
+    "asin": "B0FRMBMN4X",
+    "title": "Vintage LED Hurricane Lantern, Warm White Battery Operated, Antique Metal Hanging Lantern with Dimmer Switch, 15 LEDs, 150 Lumen for Indoor or Outdoor Use",
+    "link": "https://www.amazon.com.au/Vintage-Hurricane-Lantern-Battery-Operated/dp/B0FRMBMN4X/ref=sr_1_28?keywords=brass+hurricane+lantern&qid=1790801940&sr=8-28",
+    "link_clean": "https://www.amazon.com.au/Vintage-Hurricane-Lantern-Battery-Operated/dp/B0FRMBMN4X/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&asin=B0FRMBMN4X&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/41axRny0mGL._AC_UL320_.jpg",
+    "price": "$37.99",
+    "extracted_price": 37.99,
+    "delivery": [
+     "FREE delivery Sat, 3 Oct on your first order",
+     "Or fastest delivery available Today 5 pm - 10 pm"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "$37.99",
+      "extracted_primary_price": 37.99
+     }
+    ]
+   },
+   {
+    "position": 29,
+    "asin": "B0H1WLZTMP",
+    "title": "Set of 2 Gold Hurricane Candle Holders, Spiral Metal Glass Candle Lanterns Holder, Modern Decorative Pillar Candle Stands for Wedding, Party, Home Decor, Centerpieces",
+    "link": "https://www.amazon.com.au/Hurricane-Holders-Lanterns-Decorative-Centerpieces/dp/B0H1WLZTMP/ref=sr_1_29?keywords=brass+hurricane+lantern&qid=1790801940&sr=8-29",
+    "link_clean": "https://www.amazon.com.au/Hurricane-Holders-Lanterns-Decorative-Centerpieces/dp/B0H1WLZTMP/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&asin=B0H1WLZTMP&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/61r6mqgPjVL._AC_UL320_.jpg",
+    "price": "$39.99",
+    "extracted_price": 39.99,
+    "delivery": [
+     "FREE delivery Sat, 3 Oct on your first order",
+     "Or fastest delivery available Today 5 pm - 10 pm"
+    ],
+    "stock": "Only 1 left in stock.",
+    "purchase_options": [
+     {
+      "primary_price": "$39.99",
+      "extracted_primary_price": 39.99
+     }
+    ]
+   },
+   {
+    "position": 30,
+    "asin": "B0FBRPY4JJ",
+    "options": "See options",
+    "options_link": "https://www.amazon.com.au/Hurricane-Handmade-Farmhouse-Industrial-Minimalistic/dp/B0FBRPY4JJ/ref=sr_1_30_so_CANDLE_HOLDER?keywords=brass+hurricane+lantern&qid=1790801940&sr=8-30",
+    "title": "4\" Wide Modern Metal Hurricane Lantern with Handmade Sturdy Glass Sleeve in Brass for 2\" Pillar Candle & Plants, Farmhouse Hurricane, Industrial, Minimalistic, Shabby Chic (1, Brass, 4\"x7.5\")",
+    "link": "https://www.amazon.com.au/Hurricane-Handmade-Farmhouse-Industrial-Minimalistic/dp/B0FBRPY4JJ/ref=sr_1_30?keywords=brass+hurricane+lantern&qid=1790801940&sr=8-30",
+    "link_clean": "https://www.amazon.com.au/Hurricane-Handmade-Farmhouse-Industrial-Minimalistic/dp/B0FBRPY4JJ/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&asin=B0FBRPY4JJ&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/61VZKb9kATL._AC_UL320_.jpg",
+    "rating": 4.4,
+    "reviews": 158,
+    "price": "$34.60",
+    "extracted_price": 34.6,
+    "purchase_options": [
+     {
+      "primary_price": "$34.60",
+      "extracted_primary_price": 34.6
+     }
+    ]
+   },
+   {
+    "position": 31,
+    "asin": "B0FGJRPFTP",
+    "title": "NUPTIO Glass Lanterns Decorative Outdoor: Gold Hurricane Candle Holders for Pillar Candles - Set of 2 Hanging Lantern for Home Thanksgiving Christmas Party Centerpiece",
+    "link": "https://www.amazon.com.au/NUPTIO-Glass-Lanterns-Decorative-Outdoor/dp/B0FGJRPFTP/ref=sr_1_31?keywords=brass+hurricane+lantern&qid=1790801940&sr=8-31",
+    "link_clean": "https://www.amazon.com.au/NUPTIO-Glass-Lanterns-Decorative-Outdoor/dp/B0FGJRPFTP/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&asin=B0FGJRPFTP&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/711pR3qn+nL._AC_UL320_.jpg",
+    "rating": 4.8,
+    "reviews": 152,
+    "price": "$96.10",
+    "extracted_price": 96.1,
+    "stock": "Only 1 left in stock.",
+    "purchase_options": [
+     {
+      "primary_price": "$96.10",
+      "extracted_primary_price": 96.1
+     }
+    ]
+   },
+   {
+    "position": 32,
+    "asin": "B0FBRR35RB",
+    "title": "3'3\" Wide Modern Metal Hurricane Lantern with Handmade Sturdy Glass Sleeve in Brass for Tealight Candle & Plants, Farmhouse Hurricane Industrial, Minimalistic, Shabby Chic (1, Brass, 3.3\"x5.2\")",
+    "link": "https://www.amazon.com.au/Hurricane-Handmade-Farmhouse-Industrial-Minimalistic/dp/B0FBRR35RB/ref=sr_1_32?keywords=brass+hurricane+lantern&qid=1790801940&sr=8-32",
+    "link_clean": "https://www.amazon.com.au/Hurricane-Handmade-Farmhouse-Industrial-Minimalistic/dp/B0FBRR35RB/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&asin=B0FBRR35RB&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/51BI3TYfIHL._AC_UL320_.jpg",
+    "rating": 4.4,
+    "reviews": 158,
+    "price": "$40.82",
+    "extracted_price": 40.82,
+    "purchase_options": [
+     {
+      "primary_price": "$40.82",
+      "extracted_primary_price": 40.82
+     }
+    ]
+   },
+   {
+    "position": 33,
+    "asin": "B0G1643G7L",
+    "title": "Vintage Oil Lamp, Hurricane Lamp, Emergency Kit, Hanging Kerosene Lantern for Indoor & Outdoor Use, 235 Bronze, Original",
+    "link": "https://www.amazon.com.au/Vintage-Hurricane-Emergency-Kerosene-Original/dp/B0G1643G7L/ref=sr_1_33?keywords=brass+hurricane+lantern&qid=1790801940&sr=8-33",
+    "link_clean": "https://www.amazon.com.au/Vintage-Hurricane-Emergency-Kerosene-Original/dp/B0G1643G7L/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&asin=B0G1643G7L&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/51Y9VYhr5YS._AC_UL320_.jpg",
+    "rating": 5.0,
+    "reviews": 1,
+    "price": "$35.99",
+    "extracted_price": 35.99,
+    "delivery": [
+     "FREE delivery Sat, 3 Oct on your first order",
+     "Or fastest delivery available Today 5 pm - 10 pm"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "$35.99",
+      "extracted_primary_price": 35.99
+     }
+    ]
+   },
+   {
+    "position": 34,
+    "asin": "B0HC3QF1D8",
+    "title": "Hurricane lamp, Oil Lamp, Hurricane(Brass)",
+    "link": "https://www.amazon.com.au/Hurricane-lamp-Oil-Lamp-Brass/dp/B0HC3QF1D8/ref=sr_1_34?keywords=brass+hurricane+lantern&qid=1790801940&sr=8-34",
+    "link_clean": "https://www.amazon.com.au/Hurricane-lamp-Oil-Lamp-Brass/dp/B0HC3QF1D8/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&asin=B0HC3QF1D8&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/61RPbBhrTQL._AC_UL320_.jpg",
+    "price": "$170.61",
+    "extracted_price": 170.61,
+    "delivery": [
+     "FREE delivery 19 - 23 Oct",
+     "Or fastest delivery 14 - 15 Oct"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "$170.61",
+      "extracted_primary_price": 170.61
+     }
+    ]
+   },
+   {
+    "position": 35,
+    "asin": "B0HBV7BRGG",
+    "title": "Vintage Metal Hurricane Kerosene Lantern, 25cm Oil Burning Lamp with Carry Handle & Hanging Loop for Camping Emergency Retro Home Decor，1",
+    "link": "https://www.amazon.com.au/Vintage-Hurricane-Kerosene-Lantern-Emergency/dp/B0HBV7BRGG/ref=sr_1_35?keywords=brass+hurricane+lantern&qid=1790801940&sr=8-35",
+    "link_clean": "https://www.amazon.com.au/Vintage-Hurricane-Kerosene-Lantern-Emergency/dp/B0HBV7BRGG/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&asin=B0HBV7BRGG&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/613zj2TYIgL._AC_UL320_.jpg",
+    "price": "$33.77",
+    "extracted_price": 33.77,
+    "delivery": [
+     "FREE delivery Sat, 3 Oct on your first order",
+     "Or fastest delivery available Today 5 pm - 10 pm"
+    ],
+    "stock": "Only 1 left in stock.",
+    "purchase_options": [
+     {
+      "primary_price": "$33.77",
+      "extracted_primary_price": 33.77
+     }
+    ]
+   },
+   {
+    "position": 36,
+    "asin": "B079FPJV8S",
+    "title": "OZtrail Hurricane Lantern, 9-inch Size",
+    "link": "https://www.amazon.com.au/Elemental-Hurricane-Lantern-9-Inch-Size/dp/B079FPJV8S/ref=sr_1_36?keywords=brass+hurricane+lantern&qid=1790801940&sr=8-36",
+    "link_clean": "https://www.amazon.com.au/Elemental-Hurricane-Lantern-9-Inch-Size/dp/B079FPJV8S/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&asin=B079FPJV8S&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/515+PtECIJL._AC_UL320_.jpg",
+    "rating": 3.7,
+    "reviews": 11,
+    "price": "$16.77",
+    "extracted_price": 16.77,
+    "delivery": [
+     "FREE delivery Tue, 6 Oct on your first order"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "$16.77",
+      "extracted_primary_price": 16.77
+     }
+    ]
+   },
+   {
+    "position": 37,
+    "asin": "B0HJGX5K24",
+    "title": "High Polish Gold Hurricane Kerosene Lantern, Functional Oil Lamp",
+    "link": "https://www.amazon.com.au/Polish-Hurricane-Kerosene-Lantern-Functional/dp/B0HJGX5K24/ref=sr_1_37?keywords=brass+hurricane+lantern&qid=1790801940&sr=8-37",
+    "link_clean": "https://www.amazon.com.au/Polish-Hurricane-Kerosene-Lantern-Functional/dp/B0HJGX5K24/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&asin=B0HJGX5K24&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/7194ibhwcJL._AC_UL320_.jpg",
+    "price": "$35.99",
+    "extracted_price": 35.99,
+    "delivery": [
+     "FREE delivery Sat, 3 Oct on your first order",
+     "Or fastest delivery available Today 5 pm - 10 pm"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "$35.99",
+      "extracted_primary_price": 35.99
+     }
+    ]
+   },
+   {
+    "position": 38,
+    "asin": "B0G2BF8RVR",
+    "options": "See options",
+    "options_link": "https://www.amazon.com.au/Elegant-Hurricane-Holders-Lanterns-Centerpieces/dp/B0G2BF8RVR/ref=sr_1_38_so_CANDLE_HOLDER?keywords=brass+hurricane+lantern&qid=1790801940&sr=8-38",
+    "badges": [
+     "Prime Big Deal"
+    ],
+    "title": "Elegant Glass Hurricane Candle Holders Set, Clear Glass and Bronze Metal, 2 Sizes 25cm/20.5cm Height, Hanging Lanterns with Chains for Indoor Outdoor Parties Table Centerpieces Decor (Gold)",
+    "link": "https://www.amazon.com.au/Elegant-Hurricane-Holders-Lanterns-Centerpieces/dp/B0G2BF8RVR/ref=sr_1_38?keywords=brass+hurricane+lantern&qid=1790801940&sr=8-38",
+    "link_clean": "https://www.amazon.com.au/Elegant-Hurricane-Holders-Lanterns-Centerpieces/dp/B0G2BF8RVR/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&asin=B0G2BF8RVR&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/61njOLaaABL._AC_UL320_.jpg",
+    "rating": 5.0,
+    "reviews": 1,
+    "price": "$46.39",
+    "extracted_price": 46.39,
+    "offers": [
+     "Exclusive Prime price"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "$46.39",
+      "extracted_primary_price": 46.39
+     }
+    ]
+   },
+   {
+    "position": 39,
+    "asin": "B0DRCPGP15",
+    "title": "Gugxiom 13.5*13.5*35cm+10*10*24cm Black Metal Lantern Decorative Set of 2",
+    "link": "https://www.amazon.com.au/Lantern-Decorative-Farmhouse-Hurricane-Vintage/dp/B0DRCPGP15/ref=sr_1_39?keywords=brass+hurricane+lantern&qid=1790801940&sr=8-39",
+    "link_clean": "https://www.amazon.com.au/Lantern-Decorative-Farmhouse-Hurricane-Vintage/dp/B0DRCPGP15/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&asin=B0DRCPGP15&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/613F0i3vqKL._AC_UL320_.jpg",
+    "rating": 4.2,
+    "reviews": 30,
+    "price": "$54.99",
+    "extracted_price": 54.99,
+    "save_with_coupon": "You pay $50.59 with coupon",
+    "delivery": [
+     "FREE delivery Sat, 3 Oct on your first order",
+     "Or fastest delivery available Today 5 pm - 10 pm"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "$54.99",
+      "extracted_primary_price": 54.99
+     }
+    ]
+   },
+   {
+    "position": 40,
+    "asin": "B0G4D5TJJ1",
+    "options": "See options",
+    "options_link": "https://www.amazon.com.au/Hurricane-Holders-Lanterns-Decorative-Farmhouse/dp/B0G4D5TJJ1/ref=sr_1_40_so_CANDLE_HOLDER?keywords=brass+hurricane+lantern&qid=1790801940&sr=8-40",
+    "badges": [
+     "Prime Big Deal"
+    ],
+    "title": "Modern Glass Hurricane Candle Holders, 2 Piece Metal Hanging Lanterns with Chains, Decorative Indoor Pillar Candle Holders for Rustic Farmhouse Home Table Decor (Gold)",
+    "link": "https://www.amazon.com.au/Hurricane-Holders-Lanterns-Decorative-Farmhouse/dp/B0G4D5TJJ1/ref=sr_1_40?keywords=brass+hurricane+lantern&qid=1790801940&sr=8-40",
+    "link_clean": "https://www.amazon.com.au/Hurricane-Holders-Lanterns-Decorative-Farmhouse/dp/B0G4D5TJJ1/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&asin=B0G4D5TJJ1&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/61njOLaaABL._AC_UL320_.jpg",
+    "price": "$37.59",
+    "extracted_price": 37.59,
+    "offers": [
+     "Exclusive Prime price"
+    ],
+    "stock": "Only 4 left in stock.",
+    "purchase_options": [
+     {
+      "primary_price": "$37.59",
+      "extracted_primary_price": 37.59
+     }
+    ]
+   },
+   {
+    "position": 41,
+    "asin": "B0F8Q7XJLP",
+    "title": "Thous Winds Oil Lamp, Brass Vintage Oil Lantern, Windproof Light for Outdoor Camping Garden Home Decor -Luminara, with Storage Case",
+    "link": "https://www.amazon.com.au/Thous-Winds-Vintage-Windproof-Luminara/dp/B0F8Q7XJLP/ref=sr_1_41?keywords=brass+hurricane+lantern&qid=1790801940&sr=8-41",
+    "link_clean": "https://www.amazon.com.au/Thous-Winds-Vintage-Windproof-Luminara/dp/B0F8Q7XJLP/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&asin=B0F8Q7XJLP&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/71X595bLH3L._AC_UL320_.jpg",
+    "rating": 4.3,
+    "reviews": 14,
+    "price": "$73.37",
+    "extracted_price": 73.37,
+    "purchase_options": [
+     {
+      "primary_price": "$73.37",
+      "extracted_primary_price": 73.37
+     }
+    ]
+   },
+   {
+    "position": 42,
+    "asin": "B0C9ZLPDSB",
+    "title": "Large Chamber Oil Lamp, Vintage Glass Clear Kerosene Lamp Indoor Decorative Hurricane Lamp Oil Lantern for Tabletop Decor and Emergency Lighting Use Home Decor Lighting",
+    "link": "https://www.amazon.com.au/Kerosene-Decorative-Hurricane-Tabletop-Emergency/dp/B0C9ZLPDSB/ref=sr_1_42?keywords=brass+hurricane+lantern&qid=1790801940&sr=8-42",
+    "link_clean": "https://www.amazon.com.au/Kerosene-Decorative-Hurricane-Tabletop-Emergency/dp/B0C9ZLPDSB/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&asin=B0C9ZLPDSB&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/61iXztDm24L._AC_UL320_.jpg",
+    "price": "$64.27",
+    "extracted_price": 64.27,
+    "purchase_options": [
+     {
+      "primary_price": "$64.27",
+      "extracted_primary_price": 64.27
+     }
+    ]
+   },
+   {
+    "position": 43,
+    "asin": "B0FXPZ2NGK",
+    "title": "Hurricane Oil Lamp, Classic Kerosene Lamp, Kerosene Lantern, Vintage Oil Burning Lantern, Indoor & Outdoor Hanging, with Large Capacity, Safe Hanging, Emergency, Bronze",
+    "link": "https://www.amazon.com.au/Hurricane-Oil-Lamp-Kerosene-Emergency/dp/B0FXPZ2NGK/ref=sr_1_43?keywords=brass+hurricane+lantern&qid=1790801940&sr=8-43",
+    "link_clean": "https://www.amazon.com.au/Hurricane-Oil-Lamp-Kerosene-Emergency/dp/B0FXPZ2NGK/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&asin=B0FXPZ2NGK&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/51R9sWrD7tL._AC_UL320_.jpg",
+    "price": "$36.76",
+    "extracted_price": 36.76,
+    "delivery": [
+     "FREE delivery Sat, 3 Oct on your first order",
+     "Or fastest delivery available Today 5 pm - 10 pm"
+    ],
+    "stock": "Only 1 left in stock.",
+    "purchase_options": [
+     {
+      "primary_price": "$36.76",
+      "extracted_primary_price": 36.76
+     }
+    ]
+   },
+   {
+    "position": 44,
+    "asin": "B0DP2XJB9X",
+    "title": "Versatile Modern Farmhouse Metal Hurricane Lantern with Handmade Sturdy Glass Sleeve in Brass for Pillar Candle & Plants, Industrial, Minimalistic, Shabby Chic (1, Brass, 8\"x16\")",
+    "link": "https://www.amazon.com.au/Versatile-Farmhouse-Hurricane-Industrial-Minimalistic/dp/B0DP2XJB9X/ref=sr_1_44?keywords=brass+hurricane+lantern&qid=1790801940&sr=8-44",
+    "link_clean": "https://www.amazon.com.au/Versatile-Farmhouse-Hurricane-Industrial-Minimalistic/dp/B0DP2XJB9X/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&asin=B0DP2XJB9X&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/51SqJJB4+4L._AC_UL320_.jpg",
+    "price": "$120.13",
+    "extracted_price": 120.13,
+    "stock": "Only 4 left in stock.",
+    "purchase_options": [
+     {
+      "primary_price": "$120.13",
+      "extracted_primary_price": 120.13
+     }
+    ]
+   },
+   {
+    "position": 45,
+    "asin": "B0DDKS737K",
+    "options": "See options",
+    "options_link": "https://www.amazon.com.au/JHY-DESIGN-Lanterns-Moroccan-Decorative/dp/B0DDKS737K/ref=sr_1_45_so_CANDLE_HOLDER?keywords=brass+hurricane+lantern&qid=1790801940&sr=8-45",
+    "badges": [
+     "Prime Big Deal"
+    ],
+    "title": "JHY DESIGN Set of 2 Vintage Candle Lanterns 19\"&14''H Moroccan Decorative Metal Candle Holders with Hollow Pattern for Garden Porch Shelf Indoor Outdoor Parties Weddings Patio(White Brushed Gold)",
+    "link": "https://www.amazon.com.au/JHY-DESIGN-Lanterns-Moroccan-Decorative/dp/B0DDKS737K/ref=sr_1_45?keywords=brass+hurricane+lantern&qid=1790801940&sr=8-45",
+    "link_clean": "https://www.amazon.com.au/JHY-DESIGN-Lanterns-Moroccan-Decorative/dp/B0DDKS737K/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&asin=B0DDKS737K&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/81vwMMABW7L._AC_UL320_.jpg",
+    "rating": 4.6,
+    "reviews": 53,
+    "price": "$74.39",
+    "extracted_price": 74.39,
+    "offers": [
+     "Exclusive Prime price"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "$74.39",
+      "extracted_primary_price": 74.39
+     }
+    ]
+   },
+   {
+    "position": 46,
+    "asin": "B0G2L9RVWX",
+    "options": "See options",
+    "options_link": "https://www.amazon.com.au/Hurricane-Lanterns-Decorative-Versatile-Farmhouse/dp/B0G2L9RVWX/ref=sr_1_46_so_CANDLE_HOLDER?keywords=brass+hurricane+lantern&qid=1790801940&sr=8-46",
+    "badges": [
+     "Prime Big Deal"
+    ],
+    "title": "Glass Hurricane Candle Holder, 2 Pcs Pillar Candle Hanging Lanterns Decorative Indoor, with Hook Chains, Versatile Modern Metal Hurricane Lantern for Rustic Farmhouse Home Table Decor",
+    "link": "https://www.amazon.com.au/Hurricane-Lanterns-Decorative-Versatile-Farmhouse/dp/B0G2L9RVWX/ref=sr_1_46?keywords=brass+hurricane+lantern&qid=1790801940&sr=8-46",
+    "link_clean": "https://www.amazon.com.au/Hurricane-Lanterns-Decorative-Versatile-Farmhouse/dp/B0G2L9RVWX/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&asin=B0G2L9RVWX&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/61njOLaaABL._AC_UL320_.jpg",
+    "price": "$39.99",
+    "extracted_price": 39.99,
+    "offers": [
+     "Exclusive Prime price"
+    ],
+    "purchase_options": [
+     {
+      "primary_price": "$39.99",
+      "extracted_primary_price": 39.99
+     }
+    ]
+   },
+   {
+    "position": 47,
+    "asin": "B0FT3NX9ZR",
+    "title": "Hurricane Candle Holders Set of 2, 5\" & 4\" Metal and Glass Candle Lantern with Clear Dome for Pillar Candle, Wedding & Christmas Table Centerpiece, Farmhouse Home Decor (Brass, Large & Small)",
+    "link": "https://www.amazon.com.au/VAUWINEK-Hurricane-Christmas-Centerpiece-Farmhouse/dp/B0FT3NX9ZR/ref=sr_1_47?keywords=brass+hurricane+lantern&qid=1790801940&sr=8-47",
+    "link_clean": "https://www.amazon.com.au/VAUWINEK-Hurricane-Christmas-Centerpiece-Farmhouse/dp/B0FT3NX9ZR/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&asin=B0FT3NX9ZR&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/71vePILaf1L._AC_UL320_.jpg",
+    "rating": 4.9,
+    "reviews": 26,
+    "price": "$38.49",
+    "extracted_price": 38.49,
+    "delivery": [
+     "FREE delivery 23 - 29 Oct"
+    ],
+    "more_buying_choices": "$38.00 (6 new offers)",
+    "more_buying_choices_link": "https://www.amazon.com.au/gp/offer-listing/B0FT3NX9ZR/ref=sr_1_47_olp?keywords=brass+hurricane+lantern&qid=1790801940&sr=8-47",
+    "purchase_options": [
+     {
+      "primary_price": "$38.49",
+      "extracted_primary_price": 38.49,
+      "more_buying_choices": "$38.00 (6 new offers)",
+      "more_buying_choices_link": "https://www.amazon.com.au/gp/offer-listing/B0FT3NX9ZR/ref=sr_1_47_olp?keywords=brass+hurricane+lantern&qid=1790801940&sr=8-47"
+     }
+    ]
+   },
+   {
+    "position": 48,
+    "asin": "B0FB57GWJK",
+    "title": "Oil Lamp - 8” Tall Railroad Lantern with Brass Body and Glass Bulb - Decorative Kerosene Lantern with Adjustable Wick - Oil Lamps for Indoor or Outdoor Use by Kings County Tools",
+    "link": "https://www.amazon.com.au/Oil-Lamp-Railroad-Decorative-Adjustable/dp/B0FB57GWJK/ref=sr_1_48?keywords=brass+hurricane+lantern&qid=1790801940&sr=8-48",
+    "link_clean": "https://www.amazon.com.au/Oil-Lamp-Railroad-Decorative-Adjustable/dp/B0FB57GWJK/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&asin=B0FB57GWJK&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/71bpMH1s9dL._AC_UL320_.jpg",
+    "rating": 4.2,
+    "reviews": 13,
+    "price": "$183.67",
+    "extracted_price": 183.67,
+    "stock": "Only 2 left in stock.",
+    "purchase_options": [
+     {
+      "primary_price": "$183.67",
+      "extracted_primary_price": 183.67
+     }
+    ]
+   }
+  ],
+  "categories": [
+   {
+    "position": 1,
+    "name": "Fashion",
+    "link": "https://www.amazon.com.au/Amazon-Fashion/b/?ie=UTF8&node=4851856051&ref_=nav_cs_fashion",
+    "node": "4851856051",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&device=desktop&engine=amazon&node=4851856051"
+   },
+   {
+    "position": 2,
+    "name": "Home improvement",
+    "link": "https://www.amazon.com.au/tools-home-improvement-DIY/b/?ie=UTF8&node=4852033051&ref_=nav_cs_hi",
+    "node": "4852033051",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&device=desktop&engine=amazon&node=4852033051"
+   },
+   {
+    "position": 3,
+    "name": "Audible",
+    "link": "https://www.amazon.com.au/Audible-Books-and-Originals/b/?ie=UTF8&node=3969341051&ref_=nav_cs_audible",
+    "node": "3969341051",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&device=desktop&engine=amazon&node=3969341051"
+   },
+   {
+    "position": 4,
+    "name": "Home",
+    "link": "https://www.amazon.com.au/home-decor-furniture-bedding/b/?ie=UTF8&node=4851975051&ref_=nav_cs_home",
+    "node": "4851975051",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&device=desktop&engine=amazon&node=4851975051"
+   },
+   {
+    "position": 5,
+    "name": "Gift Cards",
+    "link": "https://www.amazon.com.au/gift-cards/b/?ie=UTF8&node=5264602051&ref_=nav_cs_gc",
+    "node": "5264602051",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&device=desktop&engine=amazon&node=5264602051"
+   },
+   {
+    "position": 6,
+    "name": "Electronics",
+    "link": "https://www.amazon.com.au/electronics-store/b/?ie=UTF8&node=4851799051&ref_=nav_cs_electronics",
+    "node": "4851799051",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&device=desktop&engine=amazon&node=4851799051"
+   },
+   {
+    "position": 7,
+    "name": "Amazon Renewed",
+    "link": "https://www.amazon.com.au/Certified-Refurbished-Pre-Owned/b/?ie=UTF8&node=6853442051&ref_=nav_cs_renewed",
+    "node": "6853442051",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&device=desktop&engine=amazon&node=6853442051"
+   },
+   {
+    "position": 8,
+    "name": "Toys & Games",
+    "link": "https://www.amazon.com.au/toys-games/b/?ie=UTF8&node=4852617051&ref_=nav_cs_toys",
+    "node": "4852617051",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&device=desktop&engine=amazon&node=4852617051"
+   },
+   {
+    "position": 9,
+    "name": "Video Games",
+    "link": "https://www.amazon.com.au/computer-video-games-hardware-accessories/b/?ie=UTF8&node=4852675051&ref_=nav_cs_video_games",
+    "node": "4852675051",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&device=desktop&engine=amazon&node=4852675051"
+   },
+   {
+    "position": 10,
+    "name": "Computers",
+    "link": "https://www.amazon.com.au/computer-pc-hardware-accessories/b/?ie=UTF8&node=4851683051&ref_=nav_cs_pc",
+    "node": "4851683051",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&device=desktop&engine=amazon&node=4851683051"
+   },
+   {
+    "position": 11,
+    "name": "Sports & Outdoors",
+    "link": "https://www.amazon.com.au/sports-fitness/b/?ie=UTF8&node=4852559051&ref_=nav_cs_sports",
+    "node": "4852559051",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&device=desktop&engine=amazon&node=4852559051"
+   },
+   {
+    "position": 12,
+    "name": "Automotive",
+    "link": "https://www.amazon.com.au/Automotive/b/?ie=UTF8&node=4851453051&ref_=nav_cs_automotive",
+    "node": "4851453051",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&device=desktop&engine=amazon&node=4851453051"
+   },
+   {
+    "position": 13,
+    "name": "Kindle Books",
+    "link": "https://www.amazon.com.au/Kindle-eBooks/b/?ie=UTF8&node=2496751051&ref_=nav_cs_kindle_books",
+    "node": "2496751051",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&device=desktop&engine=amazon&node=2496751051"
+   },
+   {
+    "position": 14,
+    "name": "Books",
+    "link": "https://www.amazon.com.au/books-store/b/?ie=UTF8&node=4851626051&ref_=nav_cs_books",
+    "node": "4851626051",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&device=desktop&engine=amazon&node=4851626051"
+   }
+  ],
+  "filters": {
+   "amazon_prime": [
+    {
+     "position": 1,
+     "name": "Ships from Australia",
+     "rh": "p_n_prime_domestic:6845356051",
+     "link": "https://www.amazon.com.au/s?k=brass+hurricane+lantern&rh=p_n_prime_domestic%3A6845356051&dc&qid=1790801940&rnid=6963563051&ref=sr_nr_p_n_prime_domestic_1&ds=v1%3ATb1PpWXcozam8WGuoJB%2F%2BZRqIvaZnmJDQGOm7HiEtcg",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_n_prime_domestic%3A6845356051"
+    },
+    {
+     "position": 2,
+     "name": "International Shipping",
+     "rh": "p_n_prime_domestic:6845357051",
+     "link": "https://www.amazon.com.au/s?k=brass+hurricane+lantern&rh=p_n_prime_domestic%3A6845357051&dc&qid=1790801940&rnid=6963563051&ref=sr_nr_p_n_prime_domestic_2&ds=v1%3Ai64TzfntC5vES6%2FmeVSco%2FlNpPaS%2BOTSPPpqXbyZ4SI",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_n_prime_domestic%3A6845357051"
+    }
+   ],
+   "delivery_day": [
+    {
+     "position": 1,
+     "name": "Get It Today",
+     "rh": "p_90:5383061051",
+     "link": "https://www.amazon.com.au/s?k=brass+hurricane+lantern&rh=p_90%3A5383061051&dc&qid=1790801940&rnid=5383060051&ref=sr_nr_p_90_1&ds=v1%3A6dGD5s631qal8%2BVw6GYNr3CeOzJ8qTIB5XzMq3K22Gc",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_90%3A5383061051"
+    },
+    {
+     "position": 2,
+     "name": "Get It by Tomorrow",
+     "rh": "p_90:5383062051",
+     "link": "https://www.amazon.com.au/s?k=brass+hurricane+lantern&rh=p_90%3A5383062051&dc&qid=1790801940&rnid=5383060051&ref=sr_nr_p_90_2&ds=v1%3AERfMcWPDECPnPgiZzbKck71PG4faTrW1srm%2FVLRG6jE",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_90%3A5383062051"
+    },
+    {
+     "position": 3,
+     "name": "Get It Within Two Days",
+     "rh": "p_90:5879026051",
+     "link": "https://www.amazon.com.au/s?k=brass+hurricane+lantern&rh=p_90%3A5879026051&dc&qid=1790801940&rnid=5383060051&ref=sr_nr_p_90_3&ds=v1%3A16B5CfiC9LgdJZWS8MVir%2BD%2FEw%2BmYg4tn78u3jEsDrE",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_90%3A5879026051"
+    },
+    {
+     "position": 4,
+     "name": "Free Delivery by Amazon",
+     "description": "Get FREE Shipping on eligible orders shipped by Amazon",
+     "rh": "p_n_free_shipping_eligible:5363790051",
+     "link": "https://www.amazon.com.au/s?k=brass+hurricane+lantern&rh=p_n_free_shipping_eligible%3A5363790051&dc&qid=1790801940&rnid=5363788051&ref=sr_nr_p_n_free_shipping_eligible_1&ds=v1%3AqiZXEGQfuZcWT3B6nP%2FnaJ%2F2GCHjcGspCAXUOwGrLrU",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_n_free_shipping_eligible%3A5363790051"
+    }
+   ],
+   "eligible_for_free_delivery": [
+    {
+     "position": 1,
+     "name": "Free Delivery by Amazon",
+     "description": "Get FREE Shipping on eligible orders shipped by Amazon",
+     "rh": "p_n_free_shipping_eligible:5363790051",
+     "link": "https://www.amazon.com.au/s?k=brass+hurricane+lantern&rh=p_n_free_shipping_eligible%3A5363790051&dc&qid=1790801940&rnid=5363788051&ref=sr_nr_p_n_free_shipping_eligible_1&ds=v1%3AqiZXEGQfuZcWT3B6nP%2FnaJ%2F2GCHjcGspCAXUOwGrLrU",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_n_free_shipping_eligible%3A5363790051"
+    }
+   ],
+   "customer_review": [
+    {
+     "position": 1,
+     "name": "& Up",
+     "rh": "p_72:2547912051",
+     "link": "https://www.amazon.com.au/s?k=brass+hurricane+lantern&rh=p_72%3A2547912051&dc&qid=1790801940&rnid=2547911051&ref=sr_nr_p_72_1&ds=v1%3AP89YG1FBPbsqd%2B%2Fvd0x8KjUj1U56Ah7iqb2QRieWWnM",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_72%3A2547912051"
+    }
+   ],
+   "brands": [
+    {
+     "position": 1,
+     "name": "Feuerhand",
+     "rh": "p_123:868569",
+     "link": "https://www.amazon.com.au/s?k=brass+hurricane+lantern&rh=p_123%3A868569&dc&qid=1790801940&rnid=23341319051&ref=sr_nr_p_123_1&ds=v1%3AEPEiTvu2PR9ocv13w6nSvDLXwFm92vK12%2BZN0RefXUY",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_123%3A868569"
+    }
+   ],
+   "condition": [
+    {
+     "position": 1,
+     "name": "New",
+     "rh": "p_n_condition-type:10284284051",
+     "link": "https://www.amazon.com.au/s?k=brass+hurricane+lantern&rh=p_n_condition-type%3A10284284051&dc&qid=1790801940&rnid=10284282051&ref=sr_nr_p_n_condition-type_1&ds=v1%3Ah5%2F5ddtnRN2bV5YezOep8Is4HwRuF94WqSmKndremcY",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_n_condition-type%3A10284284051"
+    }
+   ],
+   "seller": [
+    {
+     "position": 1,
+     "name": "FANGZAI",
+     "rh": "p_6:A1H9051TLRXK6M",
+     "link": "https://www.amazon.com.au/s?k=brass+hurricane+lantern&rh=p_6%3AA1H9051TLRXK6M&dc&qid=1790801940&rnid=4910514051&ref=sr_nr_p_6_1&ds=v1%3AjpTTjF8I7Zn15YvAZjxiASJRqP%2FDIlwQQw5LyuYUMBI",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_6%3AA1H9051TLRXK6M"
+    },
+    {
+     "position": 2,
+     "name": "Amazon US",
+     "rh": "p_6:A4XRJ8S0WXSO0",
+     "link": "https://www.amazon.com.au/s?k=brass+hurricane+lantern&rh=p_6%3AA4XRJ8S0WXSO0&dc&qid=1790801940&rnid=4910514051&ref=sr_nr_p_6_2&ds=v1%3AWOVmOQXvXsJMQtpLdSRtETXv1lTmr%2BCTbMZZwMrdCcw",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_6%3AA4XRJ8S0WXSO0"
+    },
+    {
+     "position": 3,
+     "name": "SCJXMY",
+     "rh": "p_6:A2OQ7S40ENLVCR",
+     "link": "https://www.amazon.com.au/s?k=brass+hurricane+lantern&rh=p_6%3AA2OQ7S40ENLVCR&dc&qid=1790801940&rnid=4910514051&ref=sr_nr_p_6_3&ds=v1%3A73J7NbcL5NuFbs0R%2BJ7b9FTryv61OQ5bxBoxbuj5q3w",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_6%3AA2OQ7S40ENLVCR"
+    },
+    {
+     "position": 4,
+     "name": "PQYXGS",
+     "rh": "p_6:A16HQJP2U4KQBU",
+     "link": "https://www.amazon.com.au/s?k=brass+hurricane+lantern&rh=p_6%3AA16HQJP2U4KQBU&dc&qid=1790801940&rnid=4910514051&ref=sr_nr_p_6_4&ds=v1%3AEioV%2BsDsaOg3JNJCuLUUba8A5Vbfgen3puvVYLbk0Yo",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_6%3AA16HQJP2U4KQBU"
+    },
+    {
+     "position": 5,
+     "name": "JKSSMB",
+     "rh": "p_6:A23WVYUMKSD0JA",
+     "link": "https://www.amazon.com.au/s?k=brass+hurricane+lantern&rh=p_6%3AA23WVYUMKSD0JA&dc&qid=1790801940&rnid=4910514051&ref=sr_nr_p_6_5&ds=v1%3AfRZ3V5DKK8GI4kG3WtCQCUMYfAWjMIMcCy%2FceMdmVRY",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_6%3AA23WVYUMKSD0JA"
+    },
+    {
+     "position": 6,
+     "name": "BestFind Hub",
+     "rh": "p_6:A343ED7UBICIRN",
+     "link": "https://www.amazon.com.au/s?k=brass+hurricane+lantern&rh=p_6%3AA343ED7UBICIRN&dc&qid=1790801940&rnid=4910514051&ref=sr_nr_p_6_6&ds=v1%3Adnhb0UoxewWh7uVbUeU7IORvwbLrSQTofpeJ3gKQfZ4",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_6%3AA343ED7UBICIRN"
+    },
+    {
+     "position": 7,
+     "name": "ZZTWER",
+     "rh": "p_6:A3B5NJKY52VGYH",
+     "link": "https://www.amazon.com.au/s?k=brass+hurricane+lantern&rh=p_6%3AA3B5NJKY52VGYH&dc&qid=1790801940&rnid=4910514051&ref=sr_nr_p_6_7&ds=v1%3AfNhsNJV4jqmh%2B255ceZaxwBuJp6bey268DLQu41KRIw",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_6%3AA3B5NJKY52VGYH"
+    }
+   ],
+   "availability": [
+    {
+     "position": 1,
+     "name": "Include Out of Stock",
+     "rh": "p_n_availability:4910513051",
+     "link": "https://www.amazon.com.au/s?k=brass+hurricane+lantern&rh=p_n_availability%3A4910513051&dc&qid=1790801940&rnid=4910511051&ref=sr_nr_p_n_availability_2&ds=v1%3AS5Dj3HnHjo4FX%2Faw6mLnVNc6L3PvPbB%2F2ddwaGNJmI0",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_n_availability%3A4910513051"
+    }
+   ],
+   "amazon_global_store": [
+    {
+     "position": 1,
+     "name": "Amazon Global Store",
+     "rh": "p_n_is-global-store-asin:7548311051",
+     "link": "https://www.amazon.com.au/s?k=brass+hurricane+lantern&rh=p_n_is-global-store-asin%3A7548311051&dc&qid=1790801940&rnid=7548310051&ref=sr_nr_p_n_is-global-store-asin_1&ds=v1%3ATbTSfEHPVQGU9%2B4CgdEpJqIDUkr9993yNYQRVdxaMpQ",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_n_is-global-store-asin%3A7548311051"
+    }
+   ],
+   "discount_range": [
+    {
+     "position": 1,
+     "name": "20% Off or More",
+     "rh": "p_n_best_pct_off_with_tax:10472062051",
+     "link": "https://www.amazon.com.au/s?k=brass+hurricane+lantern&rh=p_n_best_pct_off_with_tax%3A10472062051&dc&qid=1790801940&rnid=5403850051&ref=sr_nr_p_n_best_pct_off_with_tax_1&ds=v1%3AxysZnya%2FXPi%2BcH%2F3c1mp98QR9JHlsheKZoMc484%2B%2BCI",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_n_best_pct_off_with_tax%3A10472062051"
+    },
+    {
+     "position": 2,
+     "name": "30% Off or More",
+     "rh": "p_n_best_pct_off_with_tax:10472066051",
+     "link": "https://www.amazon.com.au/s?k=brass+hurricane+lantern&rh=p_n_best_pct_off_with_tax%3A10472066051&dc&qid=1790801940&rnid=5403850051&ref=sr_nr_p_n_best_pct_off_with_tax_2&ds=v1%3AqqmJ8UWE32nuHzofkn2mUdVcYsTA4MK0ZmF1E79lOUM",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_n_best_pct_off_with_tax%3A10472066051"
+    },
+    {
+     "position": 3,
+     "name": "40% Off or More",
+     "rh": "p_n_best_pct_off_with_tax:10472065051",
+     "link": "https://www.amazon.com.au/s?k=brass+hurricane+lantern&rh=p_n_best_pct_off_with_tax%3A10472065051&dc&qid=1790801940&rnid=5403850051&ref=sr_nr_p_n_best_pct_off_with_tax_3&ds=v1%3AdmI6XJJfFy9seXQU%2Be4VpRcNqdUR8nxuWX3F2%2BigNJM",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&device=desktop&engine=amazon&k=brass+hurricane+lantern&rh=p_n_best_pct_off_with_tax%3A10472065051"
+    }
+   ]
+  },
+  "serpapi_pagination": {
+   "current": 1,
+   "next": "https://serpapi.com/search.json?amazon_domain=amazon.com.au&device=desktop&engine=amazon&k=brass+hurricane+lantern&page=2"
+  }
+ }
+}

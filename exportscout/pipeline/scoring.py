@@ -131,7 +131,7 @@ def _fit_price_tier(c: BuyerCandidate, ladder: PriceLadder | None, quote: QuoteR
 
 
 def _fit_activity(c: BuyerCandidate) -> ScoreComponent:
-    """ads_active signal 10 (else any ad creatives 4) + news signal 5."""
+    """min(15, ads_active signal 10 (else any ad creatives 4) + news signal 5 + hiring signal 5)."""
     points, parts, ev = 0.0, [], []
     if ads := _signal_ids(c, "ads_active"):
         points += 10
@@ -144,7 +144,11 @@ def _fit_activity(c: BuyerCandidate) -> ScoreComponent:
         points += 5
         parts.append(_first_detail(c, "news") or "Recent news")
         ev += news
-    return _component(points, 15, "; ".join(parts) or "No recent ads or news found", ev)
+    if hiring := _signal_ids(c, "hiring"):
+        points += 5
+        parts.append(_first_detail(c, "hiring") or "Hiring a buyer")
+        ev += hiring
+    return _component(points, 15, "; ".join(parts) or "No recent ads, news or buying jobs found", ev)
 
 
 def _fit_size(c: BuyerCandidate) -> ScoreComponent:

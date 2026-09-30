@@ -7,7 +7,17 @@ import pytest
 from exportscout.config import category
 from exportscout.llm import prompts
 from exportscout.llm.client import LLM
-from exportscout.llm.tasks import SIGN_OFF, BriefText, clean_citations, tag_buyers, write_brief, write_pitches
+from exportscout.llm.tasks import (
+    SIGN_OFF,
+    BriefText,
+    brief_facts,
+    clean_citations,
+    market_keyword,
+    sorted_signals,
+    tag_buyers,
+    write_brief,
+    write_pitches,
+)
 from exportscout.models import (
     Brief,
     BuyerCandidate,
@@ -15,6 +25,8 @@ from exportscout.models import (
     DemandCard,
     Evidence,
     Listing,
+    MarketRow,
+    MarketScore,
     OriginShare,
     PriceLadder,
     ProductIdentity,
@@ -37,6 +49,7 @@ PROMPT_NAMES = {
     prompts.TAG_BUYERS: "tag_buyers",
     prompts.BRIEF: "brief",
     prompts.PITCHES: "pitches",
+    prompts.MARKET_KEYWORD: "market_keyword",
 }
 
 
@@ -268,6 +281,52 @@ def test_tag_buyers_llm_by_index(tmp_path):
     assert tag_buyers(llm, [], PRODUCT) == []
 
 
+def test_hiring_signals_sort_after_news():
+    c = buyer(
+        "X",
+        signals=[sig("phone", "Phone", "g:1:0"), sig("price_tier", "Tier", "g:1:1"), sig("hiring", "Hiring a Buyer", "g:1:2"), sig("news", "News", "g:1:3")],
+    )  # fmt: skip
+    assert [s.kind for s in sorted_signals(c)] == ["news", "hiring", "price_tier", "phone"]
+
+
+# --------------------------------------------------------------------------- market_keyword
+
+
+def test_market_keyword_fallback_translates_the_first_keyword():
+    assert market_keyword(None, PRODUCT, "de", CAT) == "Messing Windlicht"
+    assert market_keyword(None, PRODUCT, "fr", CAT) == "brass hurricane lantern"  # no word map: unchanged
+
+
+@pytest.mark.parametrize(
+    ("phrase", "expected"),
+    [
+        ('  "Messing Windlicht"  ', "Messing Windlicht"),
+        ("„Windlicht  Messing“\nor: Laterne Messing", "Windlicht Messing"),  # first line only
+        ("y" * 60, "y" * 60),
+        ("y" * 61, "Messing Windlicht"),  # too long -> fallback
+        ('""', "Messing Windlicht"),  # empty -> fallback
+        ("", "Messing Windlicht"),
+    ],
+)
+def test_market_keyword_guards_llm_output(tmp_path, phrase, expected):
+    captured = {}
+
+    def respond(kw):
+        captured["user"] = kw["messages"][0]["content"]
+        return {"phrase": phrase}
+
+    llm, fake = fake_llm(tmp_path, market_keyword=respond)
+    assert market_keyword(llm, PRODUCT, "de", CAT) == expected
+    assert fake.calls == ["market_keyword"]
+    data = json.loads(captured["user"].split("<data>\n", 1)[1].rsplit("\n</data>", 1)[0])
+    assert data == {"product_type": "brass hurricane lantern", "keywords": PRODUCT.keywords, "material": "brass", "language": "de"}
+
+
+def test_market_keyword_falls_back_when_llm_fails(tmp_path):
+    llm, _ = fake_llm(tmp_path, market_keyword=boom)
+    assert market_keyword(llm, PRODUCT, "de", CAT) == "Messing Windlicht"
+
+
 # --------------------------------------------------------------------------- brief + pitches
 
 EVIDENCE = [
@@ -385,6 +444,74 @@ def test_write_brief_falls_back_when_llm_fails(tmp_path):
     assert write_brief(llm, make_brief()) == write_brief(None, make_brief())
 
 
+MARKET_EVIDENCE = [
+    Evidence(id=f"amazon:eeee5555:{i}", engine="amazon", fetched_at="2026-10-01T09:00:00+00:00", title=f"Amazon.com.au lantern {i}")
+    for i in range(2)
+]
+
+
+def market_row(code, label, short, currency, *, margin, verdict, fob, fob_inr, duty, detail, score, ids, is_home=False):
+    quote = QuoteRange(currency=currency, retail_median=40.0, retail_ex_vat=36.0, fob_importer=round(fob / 1.8, 2), fob_retailer=fob,
+                       fob_retailer_inr=fob_inr, margin_retailer=margin, verdict=verdict)  # fmt: skip
+    return MarketRow(code=code, label=label, short_label=short, currency=currency, keyword="brass lantern", is_home=is_home,
+                     listings_n=40, quote=quote, duty_pct=duty, duty_detail=detail, score=MarketScore(total=score, components={}),
+                     evidence_ids=ids)  # fmt: skip
+
+
+def with_markets(brief, alt_verdict="go"):
+    rows = [
+        market_row("au", "Australia", "AU", "AUD", margin=0.54, verdict=alt_verdict, fob=18.2, fob_inr=1020.4, duty=0.0,
+                   detail="0% duty on Indian goods", score=82, ids=["amazon:eeee5555:0", "amazon:eeee5555:1", "google_trends:bbbb2222:0"]),
+        market_row("uk", "United Kingdom", "UK", "GBP", margin=0.38, verdict="go", fob=13.83, fob_inr=1555.9, duty=0.0,
+                   detail="0% duty on Indian goods", score=74, ids=["amazon:aaaa1111:0"], is_home=True),
+        market_row("us", "United States", "US", "USD", margin=0.12, verdict="tight", fob=10.2, fob_inr=897.6, duty=0.157,
+                   detail="10% base duty on Indian goods + 5.7% normal duty (HS 9405.50)", score=41, ids=["amazon:ffffffff:0"]),
+    ]  # fmt: skip
+    return brief.model_copy(update={"markets": rows, "evidence": brief.evidence + MARKET_EVIDENCE})
+
+
+def test_brief_facts_include_market_compare_lines():
+    assert "market_compare" not in brief_facts(make_brief())
+    facts = brief_facts(with_markets(make_brief()))
+    compare = facts["market_compare"]
+    assert "Amazon" in compare["method"] and compare["best_other_market"] == "Australia"
+    lines = compare["markets_best_first"]
+    assert [m["market"] for m in lines] == ["Australia", "United Kingdom", "United States"]
+    assert lines[0] == {
+        "market": "Australia",
+        "main_market": False,
+        "market_fit": "82/100",
+        "verdict": "GO",
+        "margin_at_direct_price": "54%",
+        "fob_ceiling_inr": 1020,
+        "duty_from_india": "0%",
+        "duty_detail": "0% duty on Indian goods",
+        "thin_data": False,
+        "evidence": ["amazon:eeee5555:0", "amazon:eeee5555:1"],
+    }
+    assert lines[1]["main_market"] is True
+    assert lines[2]["verdict"] == "TIGHT" and lines[2]["duty_from_india"] == "15.7%"
+    assert lines[2]["evidence"] == []  # unknown evidence IDs are never offered for citation
+    assert {"amazon:eeee5555:0", "amazon:eeee5555:1"} <= set(facts["evidence_titles"])
+
+
+def test_write_brief_fallback_names_the_best_other_market():
+    brief = with_markets(make_brief())
+    lines = write_brief(None, brief).summary_md.splitlines()
+    alt = next(line for line in lines if "Best other market" in line)
+    assert "quick Amazon-only scan: Australia" in alt and "54% margin at A$18.20 FOB (₹1,020)" in alt
+    assert "[ev:amazon:eeee5555:0]" in alt and "next market to try" not in alt  # the UK is GO
+    assert lines[-1].startswith("- Next step")
+
+    no_go = brief.model_copy(update={"quote": brief.quote.model_copy(update={"verdict": "no_go", "margin_retailer": 0.05})})
+    alt = next(line for line in write_brief(None, no_go).summary_md.splitlines() if "Best other market" in line)
+    assert alt.endswith("The UK margin is too thin, so it is the next market to try.")
+
+    both_no_go = with_markets(no_go.model_copy(update={"evidence": EVIDENCE}), alt_verdict="no_go")
+    assert "next market to try" not in write_brief(None, both_no_go).summary_md  # never push a NO-GO market
+    assert "Best other market" not in write_brief(None, make_brief()).summary_md
+
+
 def test_write_pitches_fallback_template():
     brief = make_brief()
     pitches = write_pitches(None, brief, brief.buyers)
@@ -452,3 +579,36 @@ def test_write_pitches_allows_the_quote_range(tmp_path):
     brief = with_margins(make_brief(), 0.05, 0.38)
     (p,) = write_pitches(llm, brief, brief.buyers[:1])
     assert p.body == body
+
+
+def test_write_pitches_payload_keeps_hiring_to_a_timing_note(tmp_path):
+    captured = {}
+
+    def respond(kw):
+        captured["user"] = kw["messages"][0]["content"]
+        return {"pitches": []}
+
+    llm, _ = fake_llm(tmp_path, pitches=respond)
+    brief = make_brief()
+    lantern, supplies = brief.buyers
+    lantern = lantern.model_copy(update={"signals": [*lantern.signals, sig("hiring", "Hiring a Lighting Buyer (5 days ago)", "google_jobs:hhhh8888:0")]})
+    supplies = supplies.model_copy(
+        update={"why": "Hiring a Homewares Buyer (2 days ago)", "signals": [sig("hiring", "Hiring a Homewares Buyer (2 days ago)", "google_jobs:hhhh8888:1")]}
+    )
+    write_pitches(llm, brief, [lantern, supplies])
+    first, second = json.loads(captured["user"].split("<data>\n", 1)[1].rsplit("\n</data>", 1)[0])["buyers"]
+    assert first["hiring"] == ["Hiring a Lighting Buyer (5 days ago)"]
+    assert first["signals"] == ["Sells brass lanterns", "Site says handmade in India"]  # hiring is not an opener
+    assert first["why"] == "Sells brass lanterns"
+    assert second["hiring"] == ["Hiring a Homewares Buyer (2 days ago)"] and second["why"] is None
+
+
+def test_fallback_pitch_does_not_overstate_india_from_a_job_ad():
+    brief = make_brief()
+    job_ad = sig("india_sourcing", "Their job ad mentions India: “sourcing trips to India”", "google_jobs:hhhh8888:0")
+    c = BuyerCandidate(name="Lamp House", signals=[sig("category_match", "Sells brass lanterns", "google:dddd4444:2"), job_ad])
+    (p,) = write_pitches(None, brief, [c])
+    assert "that you work with suppliers in India" in p.body and "already stock handmade pieces" not in p.body
+    site = c.model_copy(update={"signals": [*c.signals, sig("india_sourcing", "Site says handmade in India", "google:dddd4444:2")]})
+    (p,) = write_pitches(None, brief, [site])
+    assert "that you already stock handmade pieces from India" in p.body

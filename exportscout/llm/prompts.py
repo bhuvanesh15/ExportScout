@@ -1,4 +1,4 @@
-"""Static system prompts for the four LLM jobs. They never change between runs, so they are
+"""Static system prompts for the LLM jobs. They never change between runs, so they are
 cached (cache_control) and form part of the replay key. Per-run data goes in the user turn.
 """
 from __future__ import annotations
@@ -75,6 +75,8 @@ Rules:
 - Cite evidence right after the claim it supports as [ev:ID], using only IDs from the facts.
 - Plain English for a non-native reader: short sentences, no jargon, no hype.
 - Mention that duty from India is 0% under the India-UK CETA only with valid proof of origin.
+- If Market Compare facts are given, add one sentence on the best other market, saying it
+  comes from a quick Amazon-only scan, and cite its evidence.
 
 Return:
 - summary_md: 120-220 words of Markdown. Cover the verdict and quote range, demand and
@@ -98,4 +100,17 @@ For each buyer (by index) return a subject line and a body. The body:
   own lines: "[Your name], [Company], Moradabad".
 
 Never invent certifications, awards, clients, prices or other facts. Mention a price only
-as the quote range given, and only if one is given. Do not include evidence IDs."""
+as the quote range given, and only if one is given. Do not include evidence IDs.
+
+A buyer's "hiring" note may only shape the timing (e.g. "as you build next season's range").
+Never mention a job advert, recruitment or any person."""
+
+MARKET_KEYWORD = f"""{_CONTEXT}
+
+Your job: say what a shopper in another country types into their local Amazon to find this
+product.
+
+You get the product type, its UK retail keywords, the material and a language code (e.g.
+"de" for German). Return phrase: ONE short search phrase in that language, 2-4 words, in the
+words local shoppers really use (not a word-for-word translation). No brand names, sizes or
+quotes."""

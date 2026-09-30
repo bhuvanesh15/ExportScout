@@ -1,0 +1,15 @@
+{
+ "task": "write_brief",
+ "model": "claude-opus-5-5",
+ "created_at": "2026-09-30T20:59:17+00:00",
+ "output": {
+  "summary_md": "**Verdict: GO, with a market score estimate of 62/100.** Estimated quote range is £7.73 FOB via an importer (₹986, about 28% margin) to £13.92 FOB direct to a retailer (₹1,774, about 60% margin). Your cost is ₹710. UK shop prices have a median of £42.27 across 224 listings [ev:google_shopping:4a6b7706:0].\n\n**Demand and timing:** This demand estimate uses the broader term \"candle lantern\". Interest is 36/100, up 4% on last year. It peaks Oct–Dec, but buyers choose ranges around Apr–Jun, 7 months from now [ev:google_trends:734c2fba:0].\n\n**Competition and origin:** 5 of 6 Amazon products checked are made in China, and none in India. Only 7 of 60 eBay listings are in India [ev:ebay:ea8dfc0d:2]. Duty from India is 0% under the India-UK CETA, but only with valid proof of origin.\n\n**Top complaints:** thin, tinny metal [ev:amazon_product:6eb52424:review.1], loose glass or bent doors [ev:amazon_product:6eb52424:review.0], and glass broken in transit [ev:amazon_product:3a79d7c6:review.4].\n\n**Contact first:** Online Lighting (fit 74), which sells lantern pendants [ev:google_shopping:4a6b7706:29]. Next are Electricpoint (fit 72), which lists an antique brass lantern [ev:google_shopping:2ae8396b:1], and Kayu Home (fit 69), which sells brass lanterns [ev:google_shopping:4a6b7706:34].\n\nA quick Amazon-only scan shows Australia as the best other market (fit 80/100, 0% duty) [ev:amazon:619513d7:0].\n\n**Next step:** Fix the glass and packing issues, make samples, and email these three buyers before April.",
+  "spec_improvements": [
+   "Use a heavier brass gauge and state the thickness on the spec sheet so the lantern does not feel tinny.",
+   "Hold every glass panel with metal clips and silicone, and check each door and latch before packing.",
+   "Pack each lantern in a double-wall carton with moulded pulp inserts, mark it FRAGILE, and drop-test to ISTA 1A.",
+   "Deburr all edges and use a durable baked coating, with a finish check to catch paint chips.",
+   "For nested sets, pack each lantern separately or add a pull-tab insert so the smaller one lifts out easily."
+  ]
+ }
+}

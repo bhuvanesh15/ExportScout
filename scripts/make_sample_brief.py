@@ -22,7 +22,9 @@ from exportscout.models import (  # noqa: E402
     ChannelStats,
     DemandCard,
     Evidence,
+    JobPosting,
     Listing,
+    MarketRow,
     MarketScore,
     OriginShare,
     Pitch,
@@ -37,6 +39,34 @@ from exportscout.models import (  # noqa: E402
 
 OUT = ROOT / "tests" / "fixtures" / "sample_brief.json"
 FETCHED = "2026-09-30T09:15:00+00:00"
+SYMBOLS = {"GBP": "£", "USD": "$", "EUR": "€", "AUD": "A$", "AED": "AED "}
+COST_INR = 650 + 60  # unit cost + extra costs, as in the sample inputs
+
+# Market Compare: a quick Amazon-only scan per market. Prices, rates and scores are made up.
+# code, label, short label, currency, Amazon domain, keyword, sample FX (INR per unit), VAT, freight, duty,
+# duty detail, duty note, Trends interest, reviews on the top results, bought last month, prices
+OTHER_MARKETS = [
+    ("us", "United States", "US", "USD", "amazon.com", "brass hurricane lantern", 88.20, 0.0, 0.18, 0.157,
+     "10% Section 301 + 5.7% normal duty",
+     "Normal US duty for the HS line plus the 10% Section 301 duty on Indian goods (sample note).",
+     55, 9840, 3100,
+     [18.99, 19.99, 21.99, 22.99, 23.49, 24.99, 25.99, 26.99, 27.99, 27.99, 29.99, 31.99, 34.99, 36.99, 39.99, 44.99]),
+    ("de", "Germany", "DE", "EUR", "amazon.de", "Windlicht Messing", 97.50, 0.19, 0.15, 0.027,
+     "2.7% EU third-country duty",
+     "The India–EU FTA is concluded but not in force yet (sample note).",
+     18, 1310, 400,
+     [22.99, 24.99, 27.99, 29.99, 31.99, 33.99, 34.99, 35.99, 37.99, 39.99, 42.99, 46.99, 49.99, 54.99]),
+    ("ae", "United Arab Emirates", "UAE", "AED", "amazon.ae", "brass hurricane lantern", 24.10, 0.05, 0.10, 0.0,
+     "0% under the India–UAE CEPA",
+     "Needs a valid certificate of origin; the standard duty is 5% (sample note).",
+     24, 140, None,
+     [89.00, 119.00, 145.00, 199.00]),
+    ("au", "Australia", "AU", "AUD", "amazon.com.au", "brass hurricane lantern", 57.80, 0.10, 0.18, 0.0,
+     "0% under the India–Australia ECTA",
+     "Every tariff line is duty-free for Indian goods from 1 Jan 2026, with a certificate of origin (sample note).",
+     62, 2480, 900,
+     [49.95, 55.00, 59.99, 64.95, 69.99, 74.95, 76.99, 79.95, 84.99, 89.95, 99.00, 119.95]),
+]
 
 evidence: dict[str, Evidence] = {}
 
@@ -200,7 +230,9 @@ def main() -> None:
                     quotes=["Looks far more expensive than it was."], evidence_ids=[prod[0]]),
     ]
 
-    buyers = make_buyers(listings)
+    jobs = make_jobs()
+    buyers = make_buyers(listings, jobs)
+    markets = make_markets(listings, fx, fx_eid)
     pitches = [
         Pitch(
             buyer_name=b.name,
@@ -231,6 +263,7 @@ def main() -> None:
     score = MarketScore(total=sum(c.points for c in components.values()), components=components)
 
     news_eid = next(e.id for e in evidence.values() if e.engine == "google_news")
+    best = next(m for m in markets if not m.is_home)
     summary = (
         f"**Brass hurricane lanterns sell for £{ladder.min:.0f}–£{ladder.max:.0f} in the UK**, with a median of "
         f"£{ladder.p50:.2f} across {ladder.n} listings [ev:{listings[0].evidence_id}] [ev:{listings[13].evidence_id}]. "
@@ -240,7 +273,10 @@ def main() -> None:
         f"Two of the six top Amazon products checked are made in India [ev:{prod[0]}], so Indian lanterns already sell here. "
         f"The most common complaint is tarnishing [ev:{prod[1]}]; offering an anti-tarnish lacquer is an easy edge.\n\n"
         f"The top buyer, {buyers[0].name}, runs UK ads and has a trade-account page [ev:{buyers[0].signals[1].evidence_id}]. "
-        f"Homeware news mentions new independent stores opening [ev:{news_eid}].\n\n"
+        f"Homeware news mentions new independent stores opening [ev:{news_eid}], and {buyers[0].name} is hiring a "
+        f"lighting buyer [ev:{jobs[0].evidence_id}].\n\n"
+        f"Outside the UK, a quick Amazon scan ranks {best.label} next: about {best.quote.margin_retailer:.0%} margin "
+        f"at the retailer FOB, and duty is {best.duty_detail} [ev:{best.evidence_ids[0]}].\n\n"
         "_Sample data for UI development: every name and number here is fictional._"
     )
 
@@ -250,9 +286,13 @@ def main() -> None:
         StepEvent(step=3, name="Prices", message=f"Median £{ladder.p50:.2f} across {ladder.n} listings", credits_used=10),
         StepEvent(step=4, name="Origin", message="Of 6 products checked, 2 made in India, 3 in China, 1 unknown", credits_used=16),
         StepEvent(step=5, name="Reviews", message="Top complaint: tarnishing (31%), then broken in transit (22%)", credits_used=16),
-        StepEvent(step=6, name="Buyers", message="11 candidates → 5 after dedupe", credits_used=21),
-        StepEvent(step=7, name="Enrich", message="Enriched top 5 buyers (Search, Ads Transparency, News)", credits_used=31),
-        StepEvent(step=8, name="Write", message="Brief ready · 31 credits used", credits_used=31),
+        StepEvent(step=6, name="Buyers", message=f"11 candidates → 5 after dedupe; {len(jobs)} buying-role job ads",
+                  credits_used=23),
+        StepEvent(step=7, name="Enrich", message="Enriched top 5 buyers (Search, Ads Transparency, News)", credits_used=33),
+        StepEvent(step=8, name="Markets", message=(
+            f"Quick Amazon scan of {len(OTHER_MARKETS)} more markets: {best.label} next "
+            f"({best.quote.margin_retailer:.0%} margin); US duty 15.7%"), credits_used=42),
+        StepEvent(step=9, name="Write", message="Brief ready · 42 credits used", credits_used=42),
     ]
 
     brief = Brief(
@@ -274,7 +314,9 @@ def main() -> None:
         origin=origin,
         themes=themes,
         buyers=buyers,
+        jobs=jobs,
         market_score=score,
+        markets=markets,
         headline=f"Brass hurricane lantern → United Kingdom: GO ({score.total:.0f}/100) · sample data",
         summary_md=summary,
         spec_improvements=[t.fix for t in themes if t.fix],
@@ -285,15 +327,16 @@ def main() -> None:
             "SAMPLE DATA: this brief is fictional and exists only for UI development.",
             "Only 6 Amazon products were checked for country of origin; treat the India share as a rough signal.",
         ],
-        credits_used=31,
+        credits_used=42,
         created_at=FETCHED,
     )
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(brief.model_dump_json(indent=1), encoding="utf-8")
-    print(f"wrote {OUT.relative_to(ROOT)}: {len(listings)} listings, {len(buyers)} buyers, {len(brief.evidence)} evidence")
+    print(f"wrote {OUT.relative_to(ROOT)}: {len(listings)} listings, {len(buyers)} buyers, {len(markets)} markets, "
+          f"{len(jobs)} jobs, {len(brief.evidence)} evidence")
 
 
-def make_buyers(listings: list[Listing]) -> list[BuyerCandidate]:
+def make_buyers(listings: list[Listing], jobs: list[JobPosting]) -> list[BuyerCandidate]:
     specs = [
         ("Sample Lantern House", "lanternhouse.example", "online_brand", "London", 92, [34.99, 44.99, 45.0, 58.0]),
         ("Fictional Brass & Bloom", "brassandbloom.example", "retailer", "Manchester", 81, [39.95, 72.0, 89.0]),
@@ -320,6 +363,9 @@ def make_buyers(listings: list[Listing]) -> list[BuyerCandidate]:
         if rank == 1:
             news = ev("google_news", 'q="independent homeware store opening UK"', 0, "Sample: independent homeware chain opens two new stores", "news/0")
             signals.append(BuyerSignal(kind="news", detail="News: opening two new stores", evidence_id=news))
+        for job in jobs:
+            if job.company == name and not job.is_recruiter:
+                signals.append(BuyerSignal(kind="hiring", detail=f"Hiring a {job.title} ({job.posted})", evidence_id=job.evidence_id))
         fit = split_fit(target, signals)
         buyers.append(BuyerCandidate(
             name=name, domain=domain, kind=kind, city=city, website=site,
@@ -340,7 +386,7 @@ def split_fit(target: float, signals: list[BuyerSignal]) -> dict[str, ScoreCompo
         "category": ("Lantern range matches this product", "category_match"),
         "india": ("Stocks made-in-India products" if "india_sourcing" in by_kind else "No India sourcing seen", "india_sourcing"),
         "price_tier": ("Their median price supports our FOB range", "category_match"),
-        "activity": ("UK ads live in the last 30 days", "ads_active"),
+        "activity": ("UK ads live in the last 30 days" + ("; hiring a buyer now" if "hiring" in by_kind else ""), "ads_active"),
         "size": ("Independent size: a 30-worker unit can serve them", "trade_page"),
         "reachability": ("Website and trade page" + (", phone" if "phone" in by_kind else ""), "trade_page"),
     }
@@ -349,13 +395,128 @@ def split_fit(target: float, signals: list[BuyerSignal]) -> dict[str, ScoreCompo
     for name, max_pts in weights.items():
         detail, kind = details[name]
         pts = max_pts * ratio if name != "india" or "india_sourcing" in by_kind else 0.0
-        out[name] = ScoreComponent(
-            points=round(pts, 1), max_points=max_pts, detail=detail,
-            evidence_ids=[by_kind[kind]] if kind in by_kind else [],
-        )
+        ids = [by_kind[kind]] if kind in by_kind else []
+        if name == "activity" and "hiring" in by_kind:
+            ids.append(by_kind["hiring"])
+        out[name] = ScoreComponent(points=round(pts, 1), max_points=max_pts, detail=detail, evidence_ids=ids)
     shortfall = target - sum(c.points for c in out.values())
     out["category"].points = round(min(25, out["category"].points + shortfall), 1)
     return out
+
+
+def make_jobs() -> list[JobPosting]:
+    """Fictional Google Jobs ads for buying roles: company-level data only."""
+    specs = [
+        # company, title, location, via, posted, days, query, India, overseas, agency
+        ("Sample Lantern House", "Lighting Buyer", "London, UK", "LinkedIn", "5 days ago", 5.0, "lighting buyer",
+         False, True, False),
+        ("Example Home Group", "Assistant Homeware Buyer", "Manchester, UK", "Indeed", "2 days ago", 2.0, "homeware buyer",
+         True, True, False),
+        ("Imaginary Recruitment Partners", "Senior Buyer, Home Accessories", "London, UK", "Reed", "1 day ago", 1.0,
+         "homeware buyer", False, False, True),
+        ("Placeholder Living", "Product Developer, Home Décor", "Leeds, UK", "Totaljobs", "3 weeks ago", 21.0,
+         "homeware buyer", False, True, False),
+    ]
+    snippets = {
+        (False, True): "…regular sourcing trips to supplier factories overseas…",
+        (True, True): "…experience working with suppliers in India and the Far East…",
+    }
+    jobs = []
+    for i, (company, title, where, via, posted, days, query, india, overseas, agency) in enumerate(specs):
+        eid = ev("google_jobs", f'q="{query}" location="United Kingdom"', i, f"{company} is hiring: {title}", f"jobs/{i}",
+                 f"{where} · {posted} · via {via}")
+        jobs.append(JobPosting(
+            company=company, title=title, location=where, via=via, posted=posted, posted_days=days,
+            link=evidence[eid].url, query=query, mentions_india=india, mentions_overseas=overseas, is_recruiter=agency,
+            snippet=snippets.get((india, overseas)), evidence_id=eid,
+        ))
+    return jobs
+
+
+def sample_money(value: float, currency: str) -> str:
+    return f"{SYMBOLS.get(currency, currency + ' ')}{value:,.2f}"
+
+
+def work_back(prices: list[float], currency: str, fx: float, assumptions: dict[str, float],
+              eids: list[str]) -> tuple[PriceLadder, QuoteRange]:
+    """Amazon-only ladder and FOB quote for one market (same formula as the pipeline)."""
+    ladder = PriceLadder(
+        currency=currency, n=len(prices), min=min(prices), max=max(prices),
+        p25=percentile(prices, 0.25), p50=percentile(prices, 0.5), p75=percentile(prices, 0.75),
+        by_channel={"amazon": stats(prices)}, evidence_ids=eids,
+    )
+    a = assumptions
+    ex_vat = round(ladder.p50 / (1 + a["vat_rate"]), 2)
+    fob_r = round(ex_vat / a["retailer_markup"] / (1 + a["freight_ins_pct"] + a["duty_pct"]), 2)
+    fob_i = round(fob_r / a["importer_markup"], 2)
+    r_inr, i_inr = round(fob_r * fx, 1), round(fob_i * fx, 1)
+    margin_r, margin_i = round((r_inr - COST_INR) / r_inr, 3), round((i_inr - COST_INR) / i_inr, 3)
+    verdict = "go" if margin_r >= 0.25 else "tight" if margin_r >= 0.10 else "no_go"
+    quote = QuoteRange(
+        currency=currency, retail_median=ladder.p50, retail_ex_vat=ex_vat, fob_importer=fob_i, fob_retailer=fob_r,
+        fx_rate=fx, fob_importer_inr=i_inr, fob_retailer_inr=r_inr, unit_cost_inr=650, total_cost_inr=COST_INR,
+        margin_retailer=margin_r, margin_importer=margin_i, verdict=verdict, assumptions=a,
+    )
+    return ladder, quote
+
+
+def market_fit(quote: QuoteRange, trends: int, reviews: int, duty_detail: str, duty: float, n: int, thin: bool,
+               fx_eid: str, trends_eid: str, eids: list[str]) -> MarketScore:
+    """Market Fit: margin 40, demand 30, trade access 20, data depth 10 (sample weights)."""
+    margin = quote.margin_retailer or 0.0
+    fob = sample_money(quote.fob_retailer, quote.currency)
+    components = {
+        "margin": ScoreComponent(
+            points=round(40 * min(max(margin / 0.6, 0.0), 1.0), 1), max_points=40,
+            detail=f"{margin:.0%} margin at the retailer FOB ({fob} ≈ ₹{quote.fob_retailer_inr:,.0f}) against your ₹{COST_INR} cost",
+            evidence_ids=[fx_eid, *eids[:2]]),
+        "demand": ScoreComponent(
+            points=round(30 * (0.5 * trends / 100 + 0.5 * min(reviews / 8000, 1.0)), 1), max_points=30,
+            detail=f"Google Trends interest {trends}/100; {reviews:,} reviews on the top Amazon results",
+            evidence_ids=[trends_eid, *eids[:2]]),
+        "trade_access": ScoreComponent(
+            points=round(20 * (1 - min(duty / 0.2, 1.0)), 1), max_points=20, detail=f"{duty_detail} (HS 9405.50)"),
+        "data_depth": ScoreComponent(
+            points=round(10 * min(n / 16, 1.0), 1), max_points=10,
+            detail=f"{n} priced Amazon listings" + (": thin data, treat the median as rough" if thin else ""),
+            evidence_ids=eids[:3]),
+    }
+    return MarketScore(total=round(sum(c.points for c in components.values()), 1), components=components)
+
+
+def make_markets(listings: list[Listing], uk_fx: float, uk_fx_eid: str) -> list[MarketRow]:
+    """The UK row (from the Amazon UK listings) plus fictional quick scans of four more markets, best first."""
+    trends_eid = ev("google_trends", 'q="brass hurricane lantern" data_type="GEO_MAP_0" date="today 12-m"', 0,
+                    "Interest by country: brass hurricane lantern (sample)", "trends/countries")
+    uk_amazon = [x for x in listings if x.channel == "amazon" and x.price is not None]
+    home = ("uk", "United Kingdom", "UK", "GBP", "amazon.co.uk", "brass hurricane lantern", uk_fx, 0.20, 0.15, 0.0,
+            "0% under the India–UK CETA", "In force since 15 Jul 2026; needs a valid proof of origin (sample note).",
+            100, sum(x.reviews or 0 for x in uk_amazon), sum(x.bought_last_month or 0 for x in uk_amazon),
+            [x.price for x in uk_amazon])
+    rows = []
+    for spec in [home, *OTHER_MARKETS]:
+        code, label, short, cur, domain, keyword, fx, vat, freight, duty, detail, note, trends, reviews, bought, prices = spec
+        if code == "uk":
+            eids, fx_eid = [x.evidence_id for x in uk_amazon], uk_fx_eid
+        else:
+            q = f'amazon_domain="{domain}" k="{keyword}"'
+            eids = [ev("amazon", q, i, f"Sample brass lantern listing {i + 1} ({domain})", f"amazon-{code}/{i}")
+                    for i in range(len(prices))]
+            fx_eid = ev("google_finance", f'q="{cur}-INR"', 0, f"{cur} / INR (sample rate)", f"finance/{cur.lower()}-inr")
+        assumptions = {"vat_rate": vat, "retailer_markup": 2.2, "importer_markup": 1.8, "freight_ins_pct": freight,
+                       "duty_pct": duty}
+        ladder, quote = work_back(prices, cur, fx, assumptions, eids)
+        thin = len(prices) < 5
+        rows.append(MarketRow(
+            code=code, label=label, short_label=short, currency=cur, keyword=keyword, is_home=code == "uk",
+            listings_n=len(prices), ladder=ladder, quote=quote, fx_rate=fx, hs_code="9405.50", duty_pct=duty,
+            duty_detail=detail, duty_note=note, duty_sources=[f"https://example.com/sample/duty/{code}"],
+            last_verified="2026-09-30" if code == "uk" else "2026-10-01", trends_interest=trends,
+            review_depth=reviews, bought_last_month=bought,
+            score=market_fit(quote, trends, reviews, detail, duty, len(prices), thin, fx_eid, trends_eid, eids),
+            thin_data=thin, evidence_ids=[*eids, fx_eid, trends_eid],
+        ))
+    return sorted(rows, key=lambda r: -r.score.total)
 
 
 if __name__ == "__main__":

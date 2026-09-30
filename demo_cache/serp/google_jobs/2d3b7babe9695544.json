@@ -1,0 +1,36 @@
+{
+ "engine": "google_jobs",
+ "params": {
+  "q": "home accessories buyer",
+  "location": "United Kingdom",
+  "gl": "uk",
+  "hl": "en"
+ },
+ "fetched_at": "2026-09-30T20:58:47+00:00",
+ "data": {
+  "search_metadata": {
+   "id": "6abd7800eeabd36a3a5c697d",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/2PyC03S5VAhPBNDTVV0wrh4y3LNlAxNk4QDsv2LTACI/6abd7800eeabd36a3a5c697d.json",
+   "markdown_endpoint": "https://serpapi.com/searches/2PyC03S5VAhPBNDTVV0wrh4y3LNlAxNk4QDsv2LTACI/6abd7800eeabd36a3a5c697d.md",
+   "created_at": "2026-09-30 20:58:40 UTC",
+   "processed_at": "2026-09-30 20:58:40 UTC",
+   "google_jobs_url": "https://www.google.com/search?q=home+accessories+buyer&uule=w+CAIQICIOVW5pdGVkIEtpbmdkb20&hl=en&gl=uk&udm=8",
+   "raw_html_file": "https://serpapi.com/searches/2PyC03S5VAhPBNDTVV0wrh4y3LNlAxNk4QDsv2LTACI/6abd7800eeabd36a3a5c697d.html",
+   "total_time_taken": 6.99
+  },
+  "search_parameters": {
+   "q": "home accessories buyer",
+   "engine": "google_jobs",
+   "location_requested": "United Kingdom",
+   "location_used": "United Kingdom",
+   "google_domain": "google.com",
+   "hl": "en",
+   "gl": "uk"
+  },
+  "search_information": {
+   "jobs_results_state": "Fully empty"
+  },
+  "error": "Google hasn't returned any results for this query."
+ }
+}

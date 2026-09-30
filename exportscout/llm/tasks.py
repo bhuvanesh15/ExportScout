@@ -13,20 +13,33 @@ from pydantic import BaseModel, Field
 
 from exportscout.llm import prompts
 from exportscout.llm.client import LLM
-from exportscout.models import Brief, BuyerCandidate, BuyerKind, BuyerSignal, Pitch, ProductIdentity, ReviewTheme
+from exportscout.models import (
+    Brief,
+    BuyerCandidate,
+    BuyerKind,
+    BuyerSignal,
+    MarketRow,
+    Pitch,
+    ProductIdentity,
+    ReviewTheme,
+)
+from exportscout.pipeline import markets
 
 log = logging.getLogger(__name__)
 R = TypeVar("R")
 
 SIGN_OFF = "[Your name], [Company], Moradabad"
 MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
-SYMBOLS = {"GBP": "£", "INR": "₹", "USD": "$", "EUR": "€"}
+SYMBOLS = {"GBP": "£", "INR": "₹", "USD": "$", "EUR": "€", "AUD": "A$"}
+MAX_PHRASE_CHARS = 60  # longest Amazon search phrase accepted from market_keyword
+_QUOTES = "\"'“”„‟‘’‚‛«»‹›`"
 _SIGNAL_ORDER = [
     "category_match",
     "india_sourcing",
     "ads_active",
     "trade_page",
     "news",
+    "hiring",
     "price_tier",
     "showroom",
     "multi_engine",
@@ -59,6 +72,10 @@ class _PitchOut(BaseModel):
 
 class _PitchesOut(BaseModel):
     pitches: list[_PitchOut]
+
+
+class _MarketKeyword(BaseModel):
+    phrase: str
 
 
 # --------------------------------------------------------------------------- helpers
@@ -96,6 +113,11 @@ def pct(value: float | None, signed: bool = False) -> str | None:
     if value is None:
         return None
     return f"{value * 100:+.0f}%" if signed else f"{value * 100:.0f}%"
+
+
+def _pct1(value: float) -> str:
+    """One decimal, trailing zero dropped: 0.157 -> "15.7%", 0.1 -> "10%" (duty rates)."""
+    return f"{value * 100:.1f}".rstrip("0").rstrip(".") + "%"
 
 
 _CITE = re.compile(r"\[ev:\s*([^\]]*)\]")
@@ -199,6 +221,37 @@ def tag_buyers(llm: LLM | None, candidates: list[BuyerCandidate], product: Produ
     return run_with_fallback(llm, "tag_buyers", with_llm, lambda: fallback)
 
 
+# --------------------------------------------------------------------------- market_keyword
+
+
+def _clean_phrase(text: str) -> str | None:
+    """First non-empty line, spaces collapsed, surrounding quotes stripped; None if nothing is
+    left or it is longer than MAX_PHRASE_CHARS."""
+    line = next((ln for ln in text.splitlines() if ln.strip()), "")
+    phrase = " ".join(line.split()).strip(" " + _QUOTES).strip()
+    return phrase if 0 < len(phrase) <= MAX_PHRASE_CHARS else None
+
+
+def market_keyword(llm: LLM | None, product: ProductIdentity, language: str, category: dict[str, Any]) -> str:
+    """The Amazon search phrase for a market whose shoppers search in ``language`` (e.g. "de").
+    Fallback (no LLM, or an unusable answer): the category's word-map translation of the
+    first retail keyword."""
+    fallback = markets.translate_keyword(product.keywords[0] if product.keywords else product.product_type, language, category)
+
+    def with_llm(llm: LLM) -> str:
+        payload = {
+            "product_type": product.product_type,
+            "keywords": product.keywords,
+            "material": product.material,
+            "language": language,
+        }
+        user = f"<data>\n{dump(payload)}\n</data>"
+        out = llm.parse(task="market_keyword", system=prompts.MARKET_KEYWORD, user=user, schema=_MarketKeyword, effort="low")
+        return _clean_phrase(out.phrase) or fallback
+
+    return run_with_fallback(llm, "market_keyword", with_llm, lambda: fallback)
+
+
 # --------------------------------------------------------------------------- write_brief
 
 
@@ -299,8 +352,34 @@ def brief_facts(brief: Brief) -> dict[str, Any]:
             }
             for b in brief.buyers[:5]
         ]
+    if brief.markets:
+        facts["market_compare"] = {
+            "method": "quick scan: one Amazon search per market, worked back to FOB with that market's VAT, "
+            "markups, freight and duty (estimates)",
+            "markets_best_first": [_market_line(r, ev(r.evidence_ids, 2)) for r in brief.markets],
+        }
+        alt = markets.best_alternative(brief.markets)
+        if alt is not None:
+            facts["market_compare"]["best_other_market"] = alt.label
     facts["evidence_titles"] = {i: known[i].title[:120] for i in refs}
     return facts
+
+
+def _market_line(r: MarketRow, evidence: list[str]) -> dict[str, Any]:
+    """One Market Compare row for the writer: verdict, margin, FOB ₹ ceiling, duty, evidence."""
+    q = r.quote
+    return {
+        "market": r.label,
+        "main_market": r.is_home,
+        "market_fit": f"{r.score.total:.0f}/100" if r.score else None,
+        "verdict": (q.verdict if q else "unknown").replace("_", "-").upper(),
+        "margin_at_direct_price": pct(q.margin_retailer) if q else None,
+        "fob_ceiling_inr": round(q.fob_retailer_inr) if q and q.fob_retailer_inr is not None else None,
+        "duty_from_india": _pct1(r.duty_pct),
+        "duty_detail": r.duty_detail,
+        "thin_data": r.thin_data,
+        "evidence": evidence,
+    }
 
 
 def _complaint_fixes(brief: Brief) -> list[str]:
@@ -367,8 +446,31 @@ def _fallback_summary(brief: Brief) -> str:
     if top:
         names = ", ".join(f"{b.name}" + (f" (fit {b.fit_score:.0f}/100)" if b.fit_score is not None else "") for b in top)
         lines.append(f"Contact first: {names}.")
+    alternative = _alternative_line(brief, valid)
+    if alternative:
+        lines.append(alternative)
     lines.append("Next step: send photos, a spec sheet and samples to the top buyers.")
     return "\n".join(f"- {line}" for line in lines)  # the headline is shown above the summary
+
+
+def _alternative_line(brief: Brief, valid: set[str]) -> str | None:
+    """The best other market from Market Compare, if any; named as the next market to try when
+    the home verdict is NO-GO and the alternative clears the cost (GO or TIGHT)."""
+    alt = markets.best_alternative(brief.markets)
+    q = alt.quote if alt is not None else None
+    if alt is None or q is None or q.margin_retailer is None:
+        return None
+    s = (
+        f"Best other market in a quick Amazon-only scan: {alt.label}, with an estimated "
+        f"{pct(q.margin_retailer)} margin at {money(q.fob_retailer, q.currency)} FOB"
+    )
+    if q.fob_retailer_inr is not None:
+        s += f" ({money(q.fob_retailer_inr, 'INR')})"
+    s += _cite(alt.evidence_ids, valid) + "."
+    if brief.quote is not None and brief.quote.verdict == "no_go" and q.verdict in ("go", "tight"):
+        home = next((r.short_label or r.label for r in brief.markets if r.is_home), brief.market_label)
+        s += f" The {home} margin is too thin, so it is the next market to try."
+    return s
 
 
 def _fallback_brief(brief: Brief) -> BriefText:
@@ -401,6 +503,8 @@ def write_brief(llm: LLM | None, brief: Brief) -> BriefText:
 # --------------------------------------------------------------------------- write_pitches
 
 _MONEY = re.compile(r"(?:£|₹|\$|€|\bGBP\s?|\bINR\s?|\bRs\.?\s?)(\d[\d,]*(?:\.\d+)?)")
+_JOB_AD = "Their job ad"  # india_sourcing signals found in a Google Jobs ad start with this (buyers._india_detail)
+_HIRING_WORDS = re.compile(r"\b(?:hiring|recruit|job ad)", re.IGNORECASE)
 
 
 def _prices_ok(body: str, allowed: list[float]) -> bool:
@@ -482,7 +586,10 @@ def _fallback_pitch(brief: Brief, c: BuyerCandidate) -> Pitch:
     noticed = []
     if "category_match" in kinds:
         noticed.append(f"your {pt} range")
-    if "india_sourcing" in kinds:
+    india = [s for s in c.signals if s.kind == "india_sourcing"]
+    if india and all(s.detail.startswith(_JOB_AD) for s in india):
+        noticed.append("that you work with suppliers in India")  # a job ad mentions India: don't overstate it
+    elif india:
         noticed.append("that you already stock handmade pieces from India")
     if "ads_active" in kinds and len(noticed) < 2:
         noticed.append("that you are actively promoting your range in the UK")
@@ -518,6 +625,25 @@ def _fallback_pitch(brief: Brief, c: BuyerCandidate) -> Pitch:
     )
 
 
+def _pitch_record(i: int, c: BuyerCandidate) -> dict[str, Any]:
+    """One buyer for the pitch writer. Hiring signals go in a separate "hiring" note that the
+    prompt allows only for timing; a "why" line about hiring or a job ad is left out."""
+    why = c.why if c.why and not _HIRING_WORDS.search(c.why) else None
+    record: dict[str, Any] = {
+        "index": i,
+        "name": c.name,
+        "kind": c.kind,
+        "city": c.city,
+        "why": why,
+        "signals": [s.detail for s in sorted_signals(c) if s.kind != "hiring"][:4],
+        "texts": [t[:200] for t in c.seen_texts[:3]],
+    }
+    hiring = [s.detail for s in c.signals if s.kind == "hiring"]
+    if hiring:
+        record["hiring"] = hiring[:2]
+    return record
+
+
 def write_pitches(llm: LLM | None, brief: Brief, buyers: list[BuyerCandidate]) -> list[Pitch]:
     """A short English email per buyer, citing that buyer's own signals and the product's fixes."""
     fallback = [_fallback_pitch(brief, c) for c in buyers]
@@ -534,18 +660,7 @@ def write_pitches(llm: LLM | None, brief: Brief, buyers: list[BuyerCandidate]) -
             if brief.market == "uk"
             else None,
             "product_fixes": [{"complaint": t.label, "fix": t.fix} for t in _top_complaints(brief)],
-            "buyers": [
-                {
-                    "index": i,
-                    "name": c.name,
-                    "kind": c.kind,
-                    "city": c.city,
-                    "why": c.why,
-                    "signals": [s.detail for s in sorted_signals(c)[:4]],
-                    "texts": [t[:200] for t in c.seen_texts[:3]],
-                }
-                for i, c in enumerate(buyers)
-            ],
+            "buyers": [_pitch_record(i, c) for i, c in enumerate(buyers)],
         }
         user = f"<data>\n{dump(payload)}\n</data>"
         out = llm.parse(task="write_pitches", system=prompts.PITCHES, user=user, schema=_PitchesOut, effort="medium")

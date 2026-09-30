@@ -1,0 +1,427 @@
+{
+ "engine": "google_jobs",
+ "params": {
+  "q": "homeware buyer",
+  "location": "United Kingdom",
+  "gl": "uk",
+  "hl": "en"
+ },
+ "fetched_at": "2026-09-30T20:37:30+00:00",
+ "data": {
+  "search_metadata": {
+   "id": "6abd730abca7e5292ae8afe4",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/mS1CDoPo3zwJVg1junapqcKSqIeXJIzCA6s1c328JOc/6abd730abca7e5292ae8afe4.json",
+   "markdown_endpoint": "https://serpapi.com/searches/mS1CDoPo3zwJVg1junapqcKSqIeXJIzCA6s1c328JOc/6abd730abca7e5292ae8afe4.md",
+   "created_at": "2026-09-30 20:37:30 UTC",
+   "processed_at": "2026-09-30 20:37:30 UTC",
+   "google_jobs_url": "https://www.google.com/search?q=homeware+buyer&uule=w+CAIQICIOVW5pdGVkIEtpbmdkb20&hl=en&gl=uk&udm=8",
+   "raw_html_file": "https://serpapi.com/searches/mS1CDoPo3zwJVg1junapqcKSqIeXJIzCA6s1c328JOc/6abd730abca7e5292ae8afe4.html",
+   "total_time_taken": 0.4
+  },
+  "search_parameters": {
+   "q": "homeware buyer",
+   "engine": "google_jobs",
+   "location_requested": "United Kingdom",
+   "location_used": "United Kingdom",
+   "google_domain": "google.com",
+   "hl": "en",
+   "gl": "uk"
+  },
+  "filters": [
+   {
+    "name": "Remote",
+    "parameters": {
+     "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rt11Oc1rCwVOV971F8PT8zcaOIGPfYKC2YmKLFSTlsBDu6uUlMlZs45aGuDuwYp9eYMTTvmnNGf9v3gULEgXZV2lQLbG7Q2ITRwFTOqdTtyLbaQQkhFx1Xqwt4UPFj6sBRxeSK_da3NDJ_lb6imScRcfWlhA",
+     "q": "homeware buyer remote"
+    },
+    "link": "https://www.google.com/search?sca_esv=f3de7034d550a016&gl=uk&hl=en&sxsrf=APpeQnuVRYc-oXw6RA7RAOhHXwIEZqbalg:1790800650159&q=homeware+buyer+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rt11Oc1rCwVOV971F8PT8zcaOIGPfYKC2YmKLFSTlsBDu6uUlMlZs45aGuDuwYp9eYMTTvmnNGf9v3gULEgXZV2lQLbG7Q2ITRwFTOqdTtyLbaQQkhFx1Xqwt4UPFj6sBRxeSK_da3NDJ_lb6imScRcfWlhA&udm=8&sa=X&ved=2ahUKEwjqzvaklJeXAxXuJNAFHWalFRUQxKsJKAB6BAgYEAE&ictx=0",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=uk&google_domain=google.com&hl=en&location=United+Kingdom&q=homeware+buyer+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rt11Oc1rCwVOV971F8PT8zcaOIGPfYKC2YmKLFSTlsBDu6uUlMlZs45aGuDuwYp9eYMTTvmnNGf9v3gULEgXZV2lQLbG7Q2ITRwFTOqdTtyLbaQQkhFx1Xqwt4UPFj6sBRxeSK_da3NDJ_lb6imScRcfWlhA"
+   },
+   {
+    "name": "Date posted",
+    "options": [
+     {
+      "name": "Yesterday",
+      "parameters": {
+       "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rG01LnmfvnJTW_6ToXL_UJO3f-4dQG0zSyQejKDzcD4gg_VHZdQiysKJ20D6RmKcFAQFpM0eILV8-PxSWJ_vqDQbJ0qGd5C2gGLeMqcj0b0i7RJuS7mkWarCC00qyYjGKUztQIqskuOGJwniUCXYiANmysA3JphniAX8R_7VM683Wyz9grmVvoTYDzcdjTBpqhdIyZOFBLsPDC7xyVZrEd3omdrE73ZZpYHxS0GXQ-z4wXymqKnN9oUKuVMpe-oDHItw0eA_BuAu92o62suzkgA1frnHgEXZ7fkgAGy6q8HdaNMttu0UpLMgHsZ35NuBB7O313lg7g9AF7zpRdj0rC9gA7F0",
+       "q": "homeware buyer since yesterday"
+      },
+      "link": "https://www.google.com/search?sca_esv=f3de7034d550a016&gl=uk&hl=en&sxsrf=APpeQnuVRYc-oXw6RA7RAOhHXwIEZqbalg:1790800650159&q=homeware+buyer+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rG01LnmfvnJTW_6ToXL_UJO3f-4dQG0zSyQejKDzcD4gg_VHZdQiysKJ20D6RmKcFAQFpM0eILV8-PxSWJ_vqDQbJ0qGd5C2gGLeMqcj0b0i7RJuS7mkWarCC00qyYjGKUztQIqskuOGJwniUCXYiANmysA3JphniAX8R_7VM683Wyz9grmVvoTYDzcdjTBpqhdIyZOFBLsPDC7xyVZrEd3omdrE73ZZpYHxS0GXQ-z4wXymqKnN9oUKuVMpe-oDHItw0eA_BuAu92o62suzkgA1frnHgEXZ7fkgAGy6q8HdaNMttu0UpLMgHsZ35NuBB7O313lg7g9AF7zpRdj0rC9gA7F0&udm=8&sa=X&ved=2ahUKEwjqzvaklJeXAxXuJNAFHWalFRUQkbEKegQIGhAC",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=uk&google_domain=google.com&hl=en&location=United+Kingdom&q=homeware+buyer+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rG01LnmfvnJTW_6ToXL_UJO3f-4dQG0zSyQejKDzcD4gg_VHZdQiysKJ20D6RmKcFAQFpM0eILV8-PxSWJ_vqDQbJ0qGd5C2gGLeMqcj0b0i7RJuS7mkWarCC00qyYjGKUztQIqskuOGJwniUCXYiANmysA3JphniAX8R_7VM683Wyz9grmVvoTYDzcdjTBpqhdIyZOFBLsPDC7xyVZrEd3omdrE73ZZpYHxS0GXQ-z4wXymqKnN9oUKuVMpe-oDHItw0eA_BuAu92o62suzkgA1frnHgEXZ7fkgAGy6q8HdaNMttu0UpLMgHsZ35NuBB7O313lg7g9AF7zpRdj0rC9gA7F0"
+     },
+     {
+      "name": "Last 3 days",
+      "parameters": {
+       "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rzL30x91-518r7vIP4EVEkErN9UvSJw_fsfMSCzAyqvm66WlsnYsEVis2M95rmYYC9P3midyo--RPU_lMesFZQ0wTFJtV7-E69_JivbCWynfEAxo05S_a92dyt6eM-m69DRKVN_ddppZAdULlZgkd6ykIR93OKbyjl-IFE_eSFiVhkLG9WY0N3i29aQ6FocQ1fZNUrmDXidvHuBRBiqxkXN_3jVdzWMNgtXgmvK6nPkbSalARoBrcvdv0SF_Z54mUbH38bhf994kf0K9B-Xf-LEL6cfHTAKRH0Th__sr-XTllxTUmAwYW8Mx9MZySZBZNPTgms_kTrCTbaR9L_gbT7HBZwwM",
+       "q": "homeware buyer in the last 3 days"
+      },
+      "link": "https://www.google.com/search?sca_esv=f3de7034d550a016&gl=uk&hl=en&sxsrf=APpeQnuVRYc-oXw6RA7RAOhHXwIEZqbalg:1790800650159&q=homeware+buyer+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rzL30x91-518r7vIP4EVEkErN9UvSJw_fsfMSCzAyqvm66WlsnYsEVis2M95rmYYC9P3midyo--RPU_lMesFZQ0wTFJtV7-E69_JivbCWynfEAxo05S_a92dyt6eM-m69DRKVN_ddppZAdULlZgkd6ykIR93OKbyjl-IFE_eSFiVhkLG9WY0N3i29aQ6FocQ1fZNUrmDXidvHuBRBiqxkXN_3jVdzWMNgtXgmvK6nPkbSalARoBrcvdv0SF_Z54mUbH38bhf994kf0K9B-Xf-LEL6cfHTAKRH0Th__sr-XTllxTUmAwYW8Mx9MZySZBZNPTgms_kTrCTbaR9L_gbT7HBZwwM&udm=8&sa=X&ved=2ahUKEwjqzvaklJeXAxXuJNAFHWalFRUQkbEKegQIGhAD",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=uk&google_domain=google.com&hl=en&location=United+Kingdom&q=homeware+buyer+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rzL30x91-518r7vIP4EVEkErN9UvSJw_fsfMSCzAyqvm66WlsnYsEVis2M95rmYYC9P3midyo--RPU_lMesFZQ0wTFJtV7-E69_JivbCWynfEAxo05S_a92dyt6eM-m69DRKVN_ddppZAdULlZgkd6ykIR93OKbyjl-IFE_eSFiVhkLG9WY0N3i29aQ6FocQ1fZNUrmDXidvHuBRBiqxkXN_3jVdzWMNgtXgmvK6nPkbSalARoBrcvdv0SF_Z54mUbH38bhf994kf0K9B-Xf-LEL6cfHTAKRH0Th__sr-XTllxTUmAwYW8Mx9MZySZBZNPTgms_kTrCTbaR9L_gbT7HBZwwM"
+     },
+     {
+      "name": "Last week",
+      "parameters": {
+       "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rOXaF_MuSFyN549V3IFM46KKUNNJuF8p0bSJ7RNIrpXn001rbDV2LUDO6H-N45fYD7aQxcD2qNIx5sG7b6nA8-ZB9Qz1kQ0Nccc8X7ySst9hwOBA7HcIHLXxC1TQCzHlYA6G2bp7LVsrg973SjXls5VEnafNWOQ6npNY3wrOGALlokZFhHLTMJci_PMjJ3EbdbFcxuxm0wwf9He7TgzJm1qgnxIZQPc-azVLHIFj65N9CsWqFMKL6bOtJS9FZTFN8GH2CGEiex47Sw30pBXsElGQkQlGcKW4rEgXzhyibAbE5n0T88qPk5g7L-Jl0omfuQOpOGOFCdPC6IYxQNtYYBG9CZWY",
+       "q": "homeware buyer in the last week"
+      },
+      "link": "https://www.google.com/search?sca_esv=f3de7034d550a016&gl=uk&hl=en&sxsrf=APpeQnuVRYc-oXw6RA7RAOhHXwIEZqbalg:1790800650159&q=homeware+buyer+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rOXaF_MuSFyN549V3IFM46KKUNNJuF8p0bSJ7RNIrpXn001rbDV2LUDO6H-N45fYD7aQxcD2qNIx5sG7b6nA8-ZB9Qz1kQ0Nccc8X7ySst9hwOBA7HcIHLXxC1TQCzHlYA6G2bp7LVsrg973SjXls5VEnafNWOQ6npNY3wrOGALlokZFhHLTMJci_PMjJ3EbdbFcxuxm0wwf9He7TgzJm1qgnxIZQPc-azVLHIFj65N9CsWqFMKL6bOtJS9FZTFN8GH2CGEiex47Sw30pBXsElGQkQlGcKW4rEgXzhyibAbE5n0T88qPk5g7L-Jl0omfuQOpOGOFCdPC6IYxQNtYYBG9CZWY&udm=8&sa=X&ved=2ahUKEwjqzvaklJeXAxXuJNAFHWalFRUQkbEKegQIGhAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=uk&google_domain=google.com&hl=en&location=United+Kingdom&q=homeware+buyer+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rOXaF_MuSFyN549V3IFM46KKUNNJuF8p0bSJ7RNIrpXn001rbDV2LUDO6H-N45fYD7aQxcD2qNIx5sG7b6nA8-ZB9Qz1kQ0Nccc8X7ySst9hwOBA7HcIHLXxC1TQCzHlYA6G2bp7LVsrg973SjXls5VEnafNWOQ6npNY3wrOGALlokZFhHLTMJci_PMjJ3EbdbFcxuxm0wwf9He7TgzJm1qgnxIZQPc-azVLHIFj65N9CsWqFMKL6bOtJS9FZTFN8GH2CGEiex47Sw30pBXsElGQkQlGcKW4rEgXzhyibAbE5n0T88qPk5g7L-Jl0omfuQOpOGOFCdPC6IYxQNtYYBG9CZWY"
+     },
+     {
+      "name": "Last month",
+      "parameters": {
+       "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rnP76y5vvg6naf3NnP1n0utnTp0q59shddO843J-PUw8S4oFzk48Fopjd8i4HRvEeF5pbmUVKmIvjYB5hQucEVuWjjQ4jWNdlGz5rbtrViq_c0mFIO7yKS15lErLetoU6aAlbCtPUVv0rltd6Yspb6Zjl66eCwY9HZC8Q2Lx78hQtRHU9iGKoM9Pf8rjLw2v0GJPoiMo_-67j9sIV-nQNZ9NKgyVQ7023mixDxkXtmUM3gPQx-bP27D7i1DMv4XQPCBhs5NQIU6ICBo0jyirRiyTTlQPVY8S44UQy5qYeUsnFOyiM_nwTeMJ-7H7hZdbWpzi-wpnYOLbJ50PS-eAFI0zHHGA",
+       "q": "homeware buyer in the last month"
+      },
+      "link": "https://www.google.com/search?sca_esv=f3de7034d550a016&gl=uk&hl=en&sxsrf=APpeQnuVRYc-oXw6RA7RAOhHXwIEZqbalg:1790800650159&q=homeware+buyer+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rnP76y5vvg6naf3NnP1n0utnTp0q59shddO843J-PUw8S4oFzk48Fopjd8i4HRvEeF5pbmUVKmIvjYB5hQucEVuWjjQ4jWNdlGz5rbtrViq_c0mFIO7yKS15lErLetoU6aAlbCtPUVv0rltd6Yspb6Zjl66eCwY9HZC8Q2Lx78hQtRHU9iGKoM9Pf8rjLw2v0GJPoiMo_-67j9sIV-nQNZ9NKgyVQ7023mixDxkXtmUM3gPQx-bP27D7i1DMv4XQPCBhs5NQIU6ICBo0jyirRiyTTlQPVY8S44UQy5qYeUsnFOyiM_nwTeMJ-7H7hZdbWpzi-wpnYOLbJ50PS-eAFI0zHHGA&udm=8&sa=X&ved=2ahUKEwjqzvaklJeXAxXuJNAFHWalFRUQkbEKegQIGhAF",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=uk&google_domain=google.com&hl=en&location=United+Kingdom&q=homeware+buyer+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rnP76y5vvg6naf3NnP1n0utnTp0q59shddO843J-PUw8S4oFzk48Fopjd8i4HRvEeF5pbmUVKmIvjYB5hQucEVuWjjQ4jWNdlGz5rbtrViq_c0mFIO7yKS15lErLetoU6aAlbCtPUVv0rltd6Yspb6Zjl66eCwY9HZC8Q2Lx78hQtRHU9iGKoM9Pf8rjLw2v0GJPoiMo_-67j9sIV-nQNZ9NKgyVQ7023mixDxkXtmUM3gPQx-bP27D7i1DMv4XQPCBhs5NQIU6ICBo0jyirRiyTTlQPVY8S44UQy5qYeUsnFOyiM_nwTeMJ-7H7hZdbWpzi-wpnYOLbJ50PS-eAFI0zHHGA"
+     }
+    ]
+   },
+   {
+    "name": "Date posted",
+    "options": [
+     {
+      "name": "Yesterday",
+      "parameters": {
+       "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rG01LnmfvnJTW_6ToXL_UJO3f-4dQG0zSyQejKDzcD4gg_VHZdQiysKJ20D6RmKcFAQFpM0eILV8-PxSWJ_vqDQbJ0qGd5C2gGLeMqcj0b0i7RJuS7mkWarCC00qyYjGKUztQIqskuOGJwniUCXYiANmysA3JphniAX8R_7VM683Wyz9grmVvoTYDzcdjTBpqhdIyZOFBLsPDC7xyVZrEd3omdrE73ZZpYHxS0GXQ-z4wXymqKnN9oUKuVMpe-oDHItw0eA_BuAu92o62suzkgA1frnHgEXZ7fkgAGy6q8HdaNMttu0UpLMgHsZ35NuBB7O313lg7g9AF7zpRdj0rC9gA7F0",
+       "q": "homeware buyer since yesterday"
+      },
+      "link": "https://www.google.com/search?sca_esv=f3de7034d550a016&gl=uk&hl=en&sxsrf=APpeQnuVRYc-oXw6RA7RAOhHXwIEZqbalg:1790800650159&q=homeware+buyer+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rG01LnmfvnJTW_6ToXL_UJO3f-4dQG0zSyQejKDzcD4gg_VHZdQiysKJ20D6RmKcFAQFpM0eILV8-PxSWJ_vqDQbJ0qGd5C2gGLeMqcj0b0i7RJuS7mkWarCC00qyYjGKUztQIqskuOGJwniUCXYiANmysA3JphniAX8R_7VM683Wyz9grmVvoTYDzcdjTBpqhdIyZOFBLsPDC7xyVZrEd3omdrE73ZZpYHxS0GXQ-z4wXymqKnN9oUKuVMpe-oDHItw0eA_BuAu92o62suzkgA1frnHgEXZ7fkgAGy6q8HdaNMttu0UpLMgHsZ35NuBB7O313lg7g9AF7zpRdj0rC9gA7F0&udm=8&sa=X&ved=2ahUKEwjqzvaklJeXAxXuJNAFHWalFRUQkbEKegQIGhAC",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=uk&google_domain=google.com&hl=en&location=United+Kingdom&q=homeware+buyer+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rG01LnmfvnJTW_6ToXL_UJO3f-4dQG0zSyQejKDzcD4gg_VHZdQiysKJ20D6RmKcFAQFpM0eILV8-PxSWJ_vqDQbJ0qGd5C2gGLeMqcj0b0i7RJuS7mkWarCC00qyYjGKUztQIqskuOGJwniUCXYiANmysA3JphniAX8R_7VM683Wyz9grmVvoTYDzcdjTBpqhdIyZOFBLsPDC7xyVZrEd3omdrE73ZZpYHxS0GXQ-z4wXymqKnN9oUKuVMpe-oDHItw0eA_BuAu92o62suzkgA1frnHgEXZ7fkgAGy6q8HdaNMttu0UpLMgHsZ35NuBB7O313lg7g9AF7zpRdj0rC9gA7F0"
+     },
+     {
+      "name": "Last 3 days",
+      "parameters": {
+       "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rzL30x91-518r7vIP4EVEkErN9UvSJw_fsfMSCzAyqvm66WlsnYsEVis2M95rmYYC9P3midyo--RPU_lMesFZQ0wTFJtV7-E69_JivbCWynfEAxo05S_a92dyt6eM-m69DRKVN_ddppZAdULlZgkd6ykIR93OKbyjl-IFE_eSFiVhkLG9WY0N3i29aQ6FocQ1fZNUrmDXidvHuBRBiqxkXN_3jVdzWMNgtXgmvK6nPkbSalARoBrcvdv0SF_Z54mUbH38bhf994kf0K9B-Xf-LEL6cfHTAKRH0Th__sr-XTllxTUmAwYW8Mx9MZySZBZNPTgms_kTrCTbaR9L_gbT7HBZwwM",
+       "q": "homeware buyer in the last 3 days"
+      },
+      "link": "https://www.google.com/search?sca_esv=f3de7034d550a016&gl=uk&hl=en&sxsrf=APpeQnuVRYc-oXw6RA7RAOhHXwIEZqbalg:1790800650159&q=homeware+buyer+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rzL30x91-518r7vIP4EVEkErN9UvSJw_fsfMSCzAyqvm66WlsnYsEVis2M95rmYYC9P3midyo--RPU_lMesFZQ0wTFJtV7-E69_JivbCWynfEAxo05S_a92dyt6eM-m69DRKVN_ddppZAdULlZgkd6ykIR93OKbyjl-IFE_eSFiVhkLG9WY0N3i29aQ6FocQ1fZNUrmDXidvHuBRBiqxkXN_3jVdzWMNgtXgmvK6nPkbSalARoBrcvdv0SF_Z54mUbH38bhf994kf0K9B-Xf-LEL6cfHTAKRH0Th__sr-XTllxTUmAwYW8Mx9MZySZBZNPTgms_kTrCTbaR9L_gbT7HBZwwM&udm=8&sa=X&ved=2ahUKEwjqzvaklJeXAxXuJNAFHWalFRUQkbEKegQIGhAD",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=uk&google_domain=google.com&hl=en&location=United+Kingdom&q=homeware+buyer+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rzL30x91-518r7vIP4EVEkErN9UvSJw_fsfMSCzAyqvm66WlsnYsEVis2M95rmYYC9P3midyo--RPU_lMesFZQ0wTFJtV7-E69_JivbCWynfEAxo05S_a92dyt6eM-m69DRKVN_ddppZAdULlZgkd6ykIR93OKbyjl-IFE_eSFiVhkLG9WY0N3i29aQ6FocQ1fZNUrmDXidvHuBRBiqxkXN_3jVdzWMNgtXgmvK6nPkbSalARoBrcvdv0SF_Z54mUbH38bhf994kf0K9B-Xf-LEL6cfHTAKRH0Th__sr-XTllxTUmAwYW8Mx9MZySZBZNPTgms_kTrCTbaR9L_gbT7HBZwwM"
+     },
+     {
+      "name": "Last week",
+      "parameters": {
+       "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rOXaF_MuSFyN549V3IFM46KKUNNJuF8p0bSJ7RNIrpXn001rbDV2LUDO6H-N45fYD7aQxcD2qNIx5sG7b6nA8-ZB9Qz1kQ0Nccc8X7ySst9hwOBA7HcIHLXxC1TQCzHlYA6G2bp7LVsrg973SjXls5VEnafNWOQ6npNY3wrOGALlokZFhHLTMJci_PMjJ3EbdbFcxuxm0wwf9He7TgzJm1qgnxIZQPc-azVLHIFj65N9CsWqFMKL6bOtJS9FZTFN8GH2CGEiex47Sw30pBXsElGQkQlGcKW4rEgXzhyibAbE5n0T88qPk5g7L-Jl0omfuQOpOGOFCdPC6IYxQNtYYBG9CZWY",
+       "q": "homeware buyer in the last week"
+      },
+      "link": "https://www.google.com/search?sca_esv=f3de7034d550a016&gl=uk&hl=en&sxsrf=APpeQnuVRYc-oXw6RA7RAOhHXwIEZqbalg:1790800650159&q=homeware+buyer+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rOXaF_MuSFyN549V3IFM46KKUNNJuF8p0bSJ7RNIrpXn001rbDV2LUDO6H-N45fYD7aQxcD2qNIx5sG7b6nA8-ZB9Qz1kQ0Nccc8X7ySst9hwOBA7HcIHLXxC1TQCzHlYA6G2bp7LVsrg973SjXls5VEnafNWOQ6npNY3wrOGALlokZFhHLTMJci_PMjJ3EbdbFcxuxm0wwf9He7TgzJm1qgnxIZQPc-azVLHIFj65N9CsWqFMKL6bOtJS9FZTFN8GH2CGEiex47Sw30pBXsElGQkQlGcKW4rEgXzhyibAbE5n0T88qPk5g7L-Jl0omfuQOpOGOFCdPC6IYxQNtYYBG9CZWY&udm=8&sa=X&ved=2ahUKEwjqzvaklJeXAxXuJNAFHWalFRUQkbEKegQIGhAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=uk&google_domain=google.com&hl=en&location=United+Kingdom&q=homeware+buyer+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rOXaF_MuSFyN549V3IFM46KKUNNJuF8p0bSJ7RNIrpXn001rbDV2LUDO6H-N45fYD7aQxcD2qNIx5sG7b6nA8-ZB9Qz1kQ0Nccc8X7ySst9hwOBA7HcIHLXxC1TQCzHlYA6G2bp7LVsrg973SjXls5VEnafNWOQ6npNY3wrOGALlokZFhHLTMJci_PMjJ3EbdbFcxuxm0wwf9He7TgzJm1qgnxIZQPc-azVLHIFj65N9CsWqFMKL6bOtJS9FZTFN8GH2CGEiex47Sw30pBXsElGQkQlGcKW4rEgXzhyibAbE5n0T88qPk5g7L-Jl0omfuQOpOGOFCdPC6IYxQNtYYBG9CZWY"
+     },
+     {
+      "name": "Last month",
+      "parameters": {
+       "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rnP76y5vvg6naf3NnP1n0utnTp0q59shddO843J-PUw8S4oFzk48Fopjd8i4HRvEeF5pbmUVKmIvjYB5hQucEVuWjjQ4jWNdlGz5rbtrViq_c0mFIO7yKS15lErLetoU6aAlbCtPUVv0rltd6Yspb6Zjl66eCwY9HZC8Q2Lx78hQtRHU9iGKoM9Pf8rjLw2v0GJPoiMo_-67j9sIV-nQNZ9NKgyVQ7023mixDxkXtmUM3gPQx-bP27D7i1DMv4XQPCBhs5NQIU6ICBo0jyirRiyTTlQPVY8S44UQy5qYeUsnFOyiM_nwTeMJ-7H7hZdbWpzi-wpnYOLbJ50PS-eAFI0zHHGA",
+       "q": "homeware buyer in the last month"
+      },
+      "link": "https://www.google.com/search?sca_esv=f3de7034d550a016&gl=uk&hl=en&sxsrf=APpeQnuVRYc-oXw6RA7RAOhHXwIEZqbalg:1790800650159&q=homeware+buyer+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rnP76y5vvg6naf3NnP1n0utnTp0q59shddO843J-PUw8S4oFzk48Fopjd8i4HRvEeF5pbmUVKmIvjYB5hQucEVuWjjQ4jWNdlGz5rbtrViq_c0mFIO7yKS15lErLetoU6aAlbCtPUVv0rltd6Yspb6Zjl66eCwY9HZC8Q2Lx78hQtRHU9iGKoM9Pf8rjLw2v0GJPoiMo_-67j9sIV-nQNZ9NKgyVQ7023mixDxkXtmUM3gPQx-bP27D7i1DMv4XQPCBhs5NQIU6ICBo0jyirRiyTTlQPVY8S44UQy5qYeUsnFOyiM_nwTeMJ-7H7hZdbWpzi-wpnYOLbJ50PS-eAFI0zHHGA&udm=8&sa=X&ved=2ahUKEwjqzvaklJeXAxXuJNAFHWalFRUQkbEKegQIGhAF",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=uk&google_domain=google.com&hl=en&location=United+Kingdom&q=homeware+buyer+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rnP76y5vvg6naf3NnP1n0utnTp0q59shddO843J-PUw8S4oFzk48Fopjd8i4HRvEeF5pbmUVKmIvjYB5hQucEVuWjjQ4jWNdlGz5rbtrViq_c0mFIO7yKS15lErLetoU6aAlbCtPUVv0rltd6Yspb6Zjl66eCwY9HZC8Q2Lx78hQtRHU9iGKoM9Pf8rjLw2v0GJPoiMo_-67j9sIV-nQNZ9NKgyVQ7023mixDxkXtmUM3gPQx-bP27D7i1DMv4XQPCBhs5NQIU6ICBo0jyirRiyTTlQPVY8S44UQy5qYeUsnFOyiM_nwTeMJ-7H7hZdbWpzi-wpnYOLbJ50PS-eAFI0zHHGA"
+     }
+    ]
+   },
+   {
+    "name": "Job type",
+    "options": [
+     {
+      "name": "Full-time",
+      "parameters": {
+       "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rP6IsMU_F3ttMEle30y56bQc7VjpObyTtlOEolfjGiqt2BQv-IF_2C74kOQ9ou9UZlYhvrZtF2HlvEu-ALHAzwqAp7KmhPVROBfzhNObvDMrXBEP20HWeUTGvbIMLKO5X5sUXWJtIddQEEyaEXc94CXnwnbVb-vpoNCWU3uKivGksWWoAYwzuRafBe2MkRP1ZROznbM0FS95V8hITEe8faASwZiAv5VFs4dOCpOmbRteK07cL7KGJxymGG32GfY44ky4kvWppdTieHsVSMWyOKfNpoQ4x1hXFK_-V9S1A_0WTitorEHEDqI847K7dyr3efghznQ",
+       "q": "homeware buyer Full-time"
+      },
+      "link": "https://www.google.com/search?sca_esv=f3de7034d550a016&gl=uk&hl=en&sxsrf=APpeQnuVRYc-oXw6RA7RAOhHXwIEZqbalg:1790800650159&q=homeware+buyer+Full-time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rP6IsMU_F3ttMEle30y56bQc7VjpObyTtlOEolfjGiqt2BQv-IF_2C74kOQ9ou9UZlYhvrZtF2HlvEu-ALHAzwqAp7KmhPVROBfzhNObvDMrXBEP20HWeUTGvbIMLKO5X5sUXWJtIddQEEyaEXc94CXnwnbVb-vpoNCWU3uKivGksWWoAYwzuRafBe2MkRP1ZROznbM0FS95V8hITEe8faASwZiAv5VFs4dOCpOmbRteK07cL7KGJxymGG32GfY44ky4kvWppdTieHsVSMWyOKfNpoQ4x1hXFK_-V9S1A_0WTitorEHEDqI847K7dyr3efghznQ&udm=8&sa=X&ved=2ahUKEwjqzvaklJeXAxXuJNAFHWalFRUQkbEKegQIGxAC",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=uk&google_domain=google.com&hl=en&location=United+Kingdom&q=homeware+buyer+Full-time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rP6IsMU_F3ttMEle30y56bQc7VjpObyTtlOEolfjGiqt2BQv-IF_2C74kOQ9ou9UZlYhvrZtF2HlvEu-ALHAzwqAp7KmhPVROBfzhNObvDMrXBEP20HWeUTGvbIMLKO5X5sUXWJtIddQEEyaEXc94CXnwnbVb-vpoNCWU3uKivGksWWoAYwzuRafBe2MkRP1ZROznbM0FS95V8hITEe8faASwZiAv5VFs4dOCpOmbRteK07cL7KGJxymGG32GfY44ky4kvWppdTieHsVSMWyOKfNpoQ4x1hXFK_-V9S1A_0WTitorEHEDqI847K7dyr3efghznQ"
+     },
+     {
+      "name": "Part-time",
+      "parameters": {
+       "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rP6IsMU_F3ttMEle30y56bQc7VjpObyTtlOEolfjGiqvvpkkBcneh-dxpGjEDPmJTnVP71lOqDizuiwyPVkc8Sx793i0lIyuFdXlQBYGjk5C_OA-d0nuT8sei88WczNsxRRxRp8M0ANZnrHOsKDvLDXn3PgSH0k0iVhwxzK1l5b9IqigF74W8WnN-SeryzkMgtE2P9_ymzA8J3CIOLu7bpQsZL9l8VmMm258UCBncjgx-6R04cQvFeaRpfMHv4SVNBKcPaKOZcQaxTyrFQ6fDVHKRVFIuZr48CwVpb9TJ5m7Bj8GhmnkxbkvsdyaG95kEdNQYxQ",
+       "q": "homeware buyer Part-time"
+      },
+      "link": "https://www.google.com/search?sca_esv=f3de7034d550a016&gl=uk&hl=en&sxsrf=APpeQnuVRYc-oXw6RA7RAOhHXwIEZqbalg:1790800650159&q=homeware+buyer+Part-time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rP6IsMU_F3ttMEle30y56bQc7VjpObyTtlOEolfjGiqvvpkkBcneh-dxpGjEDPmJTnVP71lOqDizuiwyPVkc8Sx793i0lIyuFdXlQBYGjk5C_OA-d0nuT8sei88WczNsxRRxRp8M0ANZnrHOsKDvLDXn3PgSH0k0iVhwxzK1l5b9IqigF74W8WnN-SeryzkMgtE2P9_ymzA8J3CIOLu7bpQsZL9l8VmMm258UCBncjgx-6R04cQvFeaRpfMHv4SVNBKcPaKOZcQaxTyrFQ6fDVHKRVFIuZr48CwVpb9TJ5m7Bj8GhmnkxbkvsdyaG95kEdNQYxQ&udm=8&sa=X&ved=2ahUKEwjqzvaklJeXAxXuJNAFHWalFRUQkbEKegQIGxAD",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=uk&google_domain=google.com&hl=en&location=United+Kingdom&q=homeware+buyer+Part-time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rP6IsMU_F3ttMEle30y56bQc7VjpObyTtlOEolfjGiqvvpkkBcneh-dxpGjEDPmJTnVP71lOqDizuiwyPVkc8Sx793i0lIyuFdXlQBYGjk5C_OA-d0nuT8sei88WczNsxRRxRp8M0ANZnrHOsKDvLDXn3PgSH0k0iVhwxzK1l5b9IqigF74W8WnN-SeryzkMgtE2P9_ymzA8J3CIOLu7bpQsZL9l8VmMm258UCBncjgx-6R04cQvFeaRpfMHv4SVNBKcPaKOZcQaxTyrFQ6fDVHKRVFIuZr48CwVpb9TJ5m7Bj8GhmnkxbkvsdyaG95kEdNQYxQ"
+     },
+     {
+      "name": "Contract",
+      "parameters": {
+       "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rsI-_RTWtFmJIINpGc1Q5cHbVZhBMJolNJ_i2GYsUJH-j6OePNqNVqdEs3ba01tGssLBhCbp7x4VHO0ESzDw92ZI03HDMB9qPhrh3O495yW6GeA8_w5gZUM0knb01A2NYUJcDZ08Ew9XR0yvw2iapznqxzVTEt_42aLKb68iJlkSLi3pstBh9S8V7RV6FputYkgEMsi2VzbZn6ZO0ZEi8o8Q6GgYXVlLLC_YBEwkLt1TTRi4MQPJsVt2rSdN-Fd1OONlbGH82z53VpQY_nYYd9WIkNCZMFrVbUVeJGjKFkDVB7tYh",
+       "q": "homeware buyer contract"
+      },
+      "link": "https://www.google.com/search?sca_esv=f3de7034d550a016&gl=uk&hl=en&sxsrf=APpeQnuVRYc-oXw6RA7RAOhHXwIEZqbalg:1790800650159&q=homeware+buyer+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsI-_RTWtFmJIINpGc1Q5cHbVZhBMJolNJ_i2GYsUJH-j6OePNqNVqdEs3ba01tGssLBhCbp7x4VHO0ESzDw92ZI03HDMB9qPhrh3O495yW6GeA8_w5gZUM0knb01A2NYUJcDZ08Ew9XR0yvw2iapznqxzVTEt_42aLKb68iJlkSLi3pstBh9S8V7RV6FputYkgEMsi2VzbZn6ZO0ZEi8o8Q6GgYXVlLLC_YBEwkLt1TTRi4MQPJsVt2rSdN-Fd1OONlbGH82z53VpQY_nYYd9WIkNCZMFrVbUVeJGjKFkDVB7tYh&udm=8&sa=X&ved=2ahUKEwjqzvaklJeXAxXuJNAFHWalFRUQkbEKegQIGxAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=uk&google_domain=google.com&hl=en&location=United+Kingdom&q=homeware+buyer+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsI-_RTWtFmJIINpGc1Q5cHbVZhBMJolNJ_i2GYsUJH-j6OePNqNVqdEs3ba01tGssLBhCbp7x4VHO0ESzDw92ZI03HDMB9qPhrh3O495yW6GeA8_w5gZUM0knb01A2NYUJcDZ08Ew9XR0yvw2iapznqxzVTEt_42aLKb68iJlkSLi3pstBh9S8V7RV6FputYkgEMsi2VzbZn6ZO0ZEi8o8Q6GgYXVlLLC_YBEwkLt1TTRi4MQPJsVt2rSdN-Fd1OONlbGH82z53VpQY_nYYd9WIkNCZMFrVbUVeJGjKFkDVB7tYh"
+     },
+     {
+      "name": "Internship",
+      "parameters": {
+       "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rl9LbzRe_jshG1H24DTsSsll5UIfAbgDh0AkBu_Gla9YLZUlP2WXSpquRTCeUpNuloZQySZtcETUV5rtFgd9iwJKkgn0XlirWxrGDY9Y9ieE6YLDHIu7B4fsCx3OptsPkYY3OmW5bTtcDI4fcXZgc62MsM_TCBdbeu5Etx2B7TT3pQ2HiTjorZDV8OJZsDRu3ELQwfz3x8vxH_eqTI-IIJyWO6nYJ7wXZak0N2jl_uqDKREb6cnbkuv2Fw0b9ozBm4fHgx1mtjJTuugJG4R1tGkuiH0YHCDeM72loBcPWnDUW2xEI",
+       "q": "homeware buyer Internship"
+      },
+      "link": "https://www.google.com/search?sca_esv=f3de7034d550a016&gl=uk&hl=en&sxsrf=APpeQnuVRYc-oXw6RA7RAOhHXwIEZqbalg:1790800650159&q=homeware+buyer+Internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rl9LbzRe_jshG1H24DTsSsll5UIfAbgDh0AkBu_Gla9YLZUlP2WXSpquRTCeUpNuloZQySZtcETUV5rtFgd9iwJKkgn0XlirWxrGDY9Y9ieE6YLDHIu7B4fsCx3OptsPkYY3OmW5bTtcDI4fcXZgc62MsM_TCBdbeu5Etx2B7TT3pQ2HiTjorZDV8OJZsDRu3ELQwfz3x8vxH_eqTI-IIJyWO6nYJ7wXZak0N2jl_uqDKREb6cnbkuv2Fw0b9ozBm4fHgx1mtjJTuugJG4R1tGkuiH0YHCDeM72loBcPWnDUW2xEI&udm=8&sa=X&ved=2ahUKEwjqzvaklJeXAxXuJNAFHWalFRUQkbEKegQIGxAF",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=uk&google_domain=google.com&hl=en&location=United+Kingdom&q=homeware+buyer+Internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rl9LbzRe_jshG1H24DTsSsll5UIfAbgDh0AkBu_Gla9YLZUlP2WXSpquRTCeUpNuloZQySZtcETUV5rtFgd9iwJKkgn0XlirWxrGDY9Y9ieE6YLDHIu7B4fsCx3OptsPkYY3OmW5bTtcDI4fcXZgc62MsM_TCBdbeu5Etx2B7TT3pQ2HiTjorZDV8OJZsDRu3ELQwfz3x8vxH_eqTI-IIJyWO6nYJ7wXZak0N2jl_uqDKREb6cnbkuv2Fw0b9ozBm4fHgx1mtjJTuugJG4R1tGkuiH0YHCDeM72loBcPWnDUW2xEI"
+     }
+    ]
+   },
+   {
+    "name": "Job type",
+    "options": [
+     {
+      "name": "Full-time",
+      "parameters": {
+       "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rP6IsMU_F3ttMEle30y56bQc7VjpObyTtlOEolfjGiqt2BQv-IF_2C74kOQ9ou9UZlYhvrZtF2HlvEu-ALHAzwqAp7KmhPVROBfzhNObvDMrXBEP20HWeUTGvbIMLKO5X5sUXWJtIddQEEyaEXc94CXnwnbVb-vpoNCWU3uKivGksWWoAYwzuRafBe2MkRP1ZROznbM0FS95V8hITEe8faASwZiAv5VFs4dOCpOmbRteK07cL7KGJxymGG32GfY44ky4kvWppdTieHsVSMWyOKfNpoQ4x1hXFK_-V9S1A_0WTitorEHEDqI847K7dyr3efghznQ",
+       "q": "homeware buyer Full-time"
+      },
+      "link": "https://www.google.com/search?sca_esv=f3de7034d550a016&gl=uk&hl=en&sxsrf=APpeQnuVRYc-oXw6RA7RAOhHXwIEZqbalg:1790800650159&q=homeware+buyer+Full-time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rP6IsMU_F3ttMEle30y56bQc7VjpObyTtlOEolfjGiqt2BQv-IF_2C74kOQ9ou9UZlYhvrZtF2HlvEu-ALHAzwqAp7KmhPVROBfzhNObvDMrXBEP20HWeUTGvbIMLKO5X5sUXWJtIddQEEyaEXc94CXnwnbVb-vpoNCWU3uKivGksWWoAYwzuRafBe2MkRP1ZROznbM0FS95V8hITEe8faASwZiAv5VFs4dOCpOmbRteK07cL7KGJxymGG32GfY44ky4kvWppdTieHsVSMWyOKfNpoQ4x1hXFK_-V9S1A_0WTitorEHEDqI847K7dyr3efghznQ&udm=8&sa=X&ved=2ahUKEwjqzvaklJeXAxXuJNAFHWalFRUQkbEKegQIGxAC",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=uk&google_domain=google.com&hl=en&location=United+Kingdom&q=homeware+buyer+Full-time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rP6IsMU_F3ttMEle30y56bQc7VjpObyTtlOEolfjGiqt2BQv-IF_2C74kOQ9ou9UZlYhvrZtF2HlvEu-ALHAzwqAp7KmhPVROBfzhNObvDMrXBEP20HWeUTGvbIMLKO5X5sUXWJtIddQEEyaEXc94CXnwnbVb-vpoNCWU3uKivGksWWoAYwzuRafBe2MkRP1ZROznbM0FS95V8hITEe8faASwZiAv5VFs4dOCpOmbRteK07cL7KGJxymGG32GfY44ky4kvWppdTieHsVSMWyOKfNpoQ4x1hXFK_-V9S1A_0WTitorEHEDqI847K7dyr3efghznQ"
+     },
+     {
+      "name": "Part-time",
+      "parameters": {
+       "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rP6IsMU_F3ttMEle30y56bQc7VjpObyTtlOEolfjGiqvvpkkBcneh-dxpGjEDPmJTnVP71lOqDizuiwyPVkc8Sx793i0lIyuFdXlQBYGjk5C_OA-d0nuT8sei88WczNsxRRxRp8M0ANZnrHOsKDvLDXn3PgSH0k0iVhwxzK1l5b9IqigF74W8WnN-SeryzkMgtE2P9_ymzA8J3CIOLu7bpQsZL9l8VmMm258UCBncjgx-6R04cQvFeaRpfMHv4SVNBKcPaKOZcQaxTyrFQ6fDVHKRVFIuZr48CwVpb9TJ5m7Bj8GhmnkxbkvsdyaG95kEdNQYxQ",
+       "q": "homeware buyer Part-time"
+      },
+      "link": "https://www.google.com/search?sca_esv=f3de7034d550a016&gl=uk&hl=en&sxsrf=APpeQnuVRYc-oXw6RA7RAOhHXwIEZqbalg:1790800650159&q=homeware+buyer+Part-time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rP6IsMU_F3ttMEle30y56bQc7VjpObyTtlOEolfjGiqvvpkkBcneh-dxpGjEDPmJTnVP71lOqDizuiwyPVkc8Sx793i0lIyuFdXlQBYGjk5C_OA-d0nuT8sei88WczNsxRRxRp8M0ANZnrHOsKDvLDXn3PgSH0k0iVhwxzK1l5b9IqigF74W8WnN-SeryzkMgtE2P9_ymzA8J3CIOLu7bpQsZL9l8VmMm258UCBncjgx-6R04cQvFeaRpfMHv4SVNBKcPaKOZcQaxTyrFQ6fDVHKRVFIuZr48CwVpb9TJ5m7Bj8GhmnkxbkvsdyaG95kEdNQYxQ&udm=8&sa=X&ved=2ahUKEwjqzvaklJeXAxXuJNAFHWalFRUQkbEKegQIGxAD",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=uk&google_domain=google.com&hl=en&location=United+Kingdom&q=homeware+buyer+Part-time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rP6IsMU_F3ttMEle30y56bQc7VjpObyTtlOEolfjGiqvvpkkBcneh-dxpGjEDPmJTnVP71lOqDizuiwyPVkc8Sx793i0lIyuFdXlQBYGjk5C_OA-d0nuT8sei88WczNsxRRxRp8M0ANZnrHOsKDvLDXn3PgSH0k0iVhwxzK1l5b9IqigF74W8WnN-SeryzkMgtE2P9_ymzA8J3CIOLu7bpQsZL9l8VmMm258UCBncjgx-6R04cQvFeaRpfMHv4SVNBKcPaKOZcQaxTyrFQ6fDVHKRVFIuZr48CwVpb9TJ5m7Bj8GhmnkxbkvsdyaG95kEdNQYxQ"
+     },
+     {
+      "name": "Contract",
+      "parameters": {
+       "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rsI-_RTWtFmJIINpGc1Q5cHbVZhBMJolNJ_i2GYsUJH-j6OePNqNVqdEs3ba01tGssLBhCbp7x4VHO0ESzDw92ZI03HDMB9qPhrh3O495yW6GeA8_w5gZUM0knb01A2NYUJcDZ08Ew9XR0yvw2iapznqxzVTEt_42aLKb68iJlkSLi3pstBh9S8V7RV6FputYkgEMsi2VzbZn6ZO0ZEi8o8Q6GgYXVlLLC_YBEwkLt1TTRi4MQPJsVt2rSdN-Fd1OONlbGH82z53VpQY_nYYd9WIkNCZMFrVbUVeJGjKFkDVB7tYh",
+       "q": "homeware buyer contract"
+      },
+      "link": "https://www.google.com/search?sca_esv=f3de7034d550a016&gl=uk&hl=en&sxsrf=APpeQnuVRYc-oXw6RA7RAOhHXwIEZqbalg:1790800650159&q=homeware+buyer+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsI-_RTWtFmJIINpGc1Q5cHbVZhBMJolNJ_i2GYsUJH-j6OePNqNVqdEs3ba01tGssLBhCbp7x4VHO0ESzDw92ZI03HDMB9qPhrh3O495yW6GeA8_w5gZUM0knb01A2NYUJcDZ08Ew9XR0yvw2iapznqxzVTEt_42aLKb68iJlkSLi3pstBh9S8V7RV6FputYkgEMsi2VzbZn6ZO0ZEi8o8Q6GgYXVlLLC_YBEwkLt1TTRi4MQPJsVt2rSdN-Fd1OONlbGH82z53VpQY_nYYd9WIkNCZMFrVbUVeJGjKFkDVB7tYh&udm=8&sa=X&ved=2ahUKEwjqzvaklJeXAxXuJNAFHWalFRUQkbEKegQIGxAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=uk&google_domain=google.com&hl=en&location=United+Kingdom&q=homeware+buyer+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsI-_RTWtFmJIINpGc1Q5cHbVZhBMJolNJ_i2GYsUJH-j6OePNqNVqdEs3ba01tGssLBhCbp7x4VHO0ESzDw92ZI03HDMB9qPhrh3O495yW6GeA8_w5gZUM0knb01A2NYUJcDZ08Ew9XR0yvw2iapznqxzVTEt_42aLKb68iJlkSLi3pstBh9S8V7RV6FputYkgEMsi2VzbZn6ZO0ZEi8o8Q6GgYXVlLLC_YBEwkLt1TTRi4MQPJsVt2rSdN-Fd1OONlbGH82z53VpQY_nYYd9WIkNCZMFrVbUVeJGjKFkDVB7tYh"
+     },
+     {
+      "name": "Internship",
+      "parameters": {
+       "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rl9LbzRe_jshG1H24DTsSsll5UIfAbgDh0AkBu_Gla9YLZUlP2WXSpquRTCeUpNuloZQySZtcETUV5rtFgd9iwJKkgn0XlirWxrGDY9Y9ieE6YLDHIu7B4fsCx3OptsPkYY3OmW5bTtcDI4fcXZgc62MsM_TCBdbeu5Etx2B7TT3pQ2HiTjorZDV8OJZsDRu3ELQwfz3x8vxH_eqTI-IIJyWO6nYJ7wXZak0N2jl_uqDKREb6cnbkuv2Fw0b9ozBm4fHgx1mtjJTuugJG4R1tGkuiH0YHCDeM72loBcPWnDUW2xEI",
+       "q": "homeware buyer Internship"
+      },
+      "link": "https://www.google.com/search?sca_esv=f3de7034d550a016&gl=uk&hl=en&sxsrf=APpeQnuVRYc-oXw6RA7RAOhHXwIEZqbalg:1790800650159&q=homeware+buyer+Internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rl9LbzRe_jshG1H24DTsSsll5UIfAbgDh0AkBu_Gla9YLZUlP2WXSpquRTCeUpNuloZQySZtcETUV5rtFgd9iwJKkgn0XlirWxrGDY9Y9ieE6YLDHIu7B4fsCx3OptsPkYY3OmW5bTtcDI4fcXZgc62MsM_TCBdbeu5Etx2B7TT3pQ2HiTjorZDV8OJZsDRu3ELQwfz3x8vxH_eqTI-IIJyWO6nYJ7wXZak0N2jl_uqDKREb6cnbkuv2Fw0b9ozBm4fHgx1mtjJTuugJG4R1tGkuiH0YHCDeM72loBcPWnDUW2xEI&udm=8&sa=X&ved=2ahUKEwjqzvaklJeXAxXuJNAFHWalFRUQkbEKegQIGxAF",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=uk&google_domain=google.com&hl=en&location=United+Kingdom&q=homeware+buyer+Internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rl9LbzRe_jshG1H24DTsSsll5UIfAbgDh0AkBu_Gla9YLZUlP2WXSpquRTCeUpNuloZQySZtcETUV5rtFgd9iwJKkgn0XlirWxrGDY9Y9ieE6YLDHIu7B4fsCx3OptsPkYY3OmW5bTtcDI4fcXZgc62MsM_TCBdbeu5Etx2B7TT3pQ2HiTjorZDV8OJZsDRu3ELQwfz3x8vxH_eqTI-IIJyWO6nYJ7wXZak0N2jl_uqDKREb6cnbkuv2Fw0b9ozBm4fHgx1mtjJTuugJG4R1tGkuiH0YHCDeM72loBcPWnDUW2xEI"
+     }
+    ]
+   }
+  ],
+  "jobs_results": [
+   {
+    "title": "Homeware Buyer (Full-time and Part-time options)",
+    "company_name": "Fashion & Retail Personnel Ltd",
+    "location": "United Kingdom",
+    "via": "Talents By StudySmarter",
+    "share_link": "https://www.google.com/search?ibp=htl;jobs&q=homeware+buyer&htidocid=JfgNWuSbQxj0Bb7rAAAAAA%3D%3D&hl=en-GB&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_yWNMQrCQBAAsc0TrLYSFUyCYKOdRVS0CIK1XJLlcnLZDbcbjJ1_8Dc-x5cYsRmYYpjoPYoOe27wbgLCtntggGnWeb9Q1yAYqiA3Qf_GrTommcHn-YIbFyBoQlkDE-yYrcfxplZtZZ0kIj62okZdGZfcJExYcJ8MkfxwlXr4td4oXpertI9bsvM0M1IPA5jAGdU4DzkGYSL0cNIKHMGFnGIFR0e24uYLoJijxb0AAAA&shmds=v1_ARwrE21s3VrmZtOXQBbpgQh0Po4AN3VefglCl2JgF3xDpbBwVA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=homeware+buyer&htidocid=JfgNWuSbQxj0Bb7rAAAAAA%3D%3D",
+    "extensions": [
+     "Full–time"
+    ],
+    "source_link": "https://talents.studysmarter.co.uk/companies/fashion-retail-personnel-ltd/homeware-buyer-full-time-and-part-time-options-20567882/",
+    "job_title": "Homeware Buyer (Full-time and Part-time options)",
+    "description": "This is a creative and commercially focused Homeware Buying role working in a non-corporate environment for a very successful business where employees are valued. Day to day you will develop ranges across textiles, décor, lighting, soft furnishings and furniture; lead supplier meetings, manage negotiations and oversee product quality; conduct trend analysis, competitor research and identify new opportunities; manage the critical path; mentor an assistant; and liaise with internal teams and external business partners. If you love the idea of being part of a multi million pound business but with the freedom, creativity and agility of a small business, and you have the drive to create your own success, then this might just be the perfect move you have been looking for! On offer is an extremely competitive benefits package inclusive of hybrid/flexi working, bonus and life assurance. Full-time hours are preferred, but part-time will also be considered.",
+    "apply_options": [
+     {
+      "title": "Talents By StudySmarter",
+      "link": "https://talents.studysmarter.co.uk/companies/fashion-retail-personnel-ltd/homeware-buyer-full-time-and-part-time-options-20567882/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+     }
+    ],
+    "job_id": "eyJqb2JfdGl0bGUiOiJIb21ld2FyZSBCdXllciAoRnVsbC10aW1lIGFuZCBQYXJ0LXRpbWUgb3B0aW9ucykiLCJjb21wYW55X25hbWUiOiJGYXNoaW9uIFx1MDAyNiBSZXRhaWwgUGVyc29ubmVsIEx0ZCIsImh0aWRvY2lkIjoiSmZnTld1U2JReGowQmI3ckFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU9WVzVwZEdWa0lFdHBibWRrYjIwIiwiZ2wiOiJ1ayIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTamRxYXpnNVNqaDJVbUk0VWtaaExVMVpOR3hKYURkNGJ6TlpNVWR5WVhneVdXNUdSblJYYlZJME1EWkpORTVuT1haYWRuQkZjMk5aY1ZocWRuSXhOM0pVZFRkSlpsOTRTa2hMYWpnelkydDJXVkpOVERoVFpIVnVVVk5ST1RsV2IwOU5hbmR2Y1c1cGJFNWthR3BNWWxwUE1EbERSVWR5Tm1ndE1VSjNZbEJ4UTJoQ2VVZ1NGME51VHpsaGRYRm9RMlUzU25kT05GQTFjM0pYY1VGRkdpSkJSSE55T1daUlkxWktVVUpYVXpOV1JWaDZYM042VXpWME4wbDNPVFJLY1c5biIsImZjdiI6IjMiLCJmY19pZCI6IkpmZ05XdVNiUXhqMEJiN3JBQUFBQUE9PSJ9"
+   },
+   {
+    "title": "Senior Buyer - Homeware | Flexible Hours & Staff Discounts",
+    "company_name": "Michael Page",
+    "location": "United Kingdom",
+    "via": "Talents By StudySmarter",
+    "share_link": "https://www.google.com/search?ibp=htl;jobs&q=homeware+buyer&htidocid=YKJk6-xzvdWNBxUTAAAAAA%3D%3D&hl=en-GB&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xWNMQrCQBQFsc0RLORVFoKJCDbaiaggghCsZbP-bFY2-8P-DUaw8A7exCN5EmMzxcAwyWeQ5Dl5ywHr9kEBU-y5prsKhCe2jjpbOOpdGwRj5FGVJTZWNLc-Cr6vN25cQEgFXYE9dszG0XBVxdjIMstEXGokqmh1qrnO2FPBXdZH8sdFqn7VOBXpMl_MurTxZjI6Wl0pcjgpQ7AeZ28jXXGw3ly5_gGCUGUttQAAAA&shmds=v1_ARwrE23WKz17ftcPi80Kl-9AcqKOm2hMBq_uUvNkqINcixRYNw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=homeware+buyer&htidocid=YKJk6-xzvdWNBxUTAAAAAA%3D%3D",
+    "thumbnail": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N__AABEIADgAOAMBIgACEQEDEQH_xAAaAAEAAgMBAAAAAAAAAAAAAAAABgcDBAUC_8QAJhAAAQQBBAEDBQAAAAAAAAAAAQACAxEEBRITIQYiJDEUM1FSYf_EABUBAQEAAAAAAAAAAAAAAAAAAAAC_8QAGREBAAIDAAAAAAAAAAAAAAAAAAIRARJB_9oADAMBAAIRAxEAPwC8UREBERAREQEREBFw_MMfUsnRizRpJY8xsrZIzG8tstO4Ncf1JAB_hKimIfLsfUJcqTGzSzImfIQ55kONG_6QljG3tJY3nA6PbDV3TqxG-ix0UGhm8lwsvLkdHmZUE8zg30AFvoxwHtB3bR94ltEek9We_ByvLMvAkblQSwvEUZ2wsIL6Dd5BA6dvDhV9tqh3YaieIodqGJrjdZ1PUsV-Xw48jXwwNmd7hvBtLGsNsaN53bqJtvx2uVka95S0BjG-5jL4mx8IqWWpuNjuunECB920UewL6YjYsZFoaK_KfgNdnOLpS51F0ZYdtnbYod1QPQv5oIpG-iIgIiICx_Tw84n4o-YDaJNo3V-LWREBERAREQEREBERAREQf__Z.jpeg",
+    "extensions": [
+     "£36k–£60k a year",
+     "Full–time"
+    ],
+    "source_link": "https://talents.studysmarter.co.uk/companies/michael-page/senior-buyer-homeware-flexible-hours-staff-discounts-32161162/",
+    "job_title": "Senior Buyer - Homeware | Flexible Hours & Staff Discounts",
+    "description": "A well-established retail organisation is seeking a Senior Buyer who will lead procurement activities, manage stock levels, and maintain supplier relationships. The ideal candidate will have experience in procurement, strong negotiation skills, and an analytical mindset. This role offers flexible work patterns and employee discounts, making it an attractive opportunity for those passionate about delivering value in a dynamic environment. #J-18808-Ljbffr",
+    "apply_options": [
+     {
+      "title": "Talents By StudySmarter",
+      "link": "https://talents.studysmarter.co.uk/companies/michael-page/senior-buyer-homeware-flexible-hours-staff-discounts-32161162/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+     }
+    ],
+    "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQnV5ZXIgLSBIb21ld2FyZSB8IEZsZXhpYmxlIEhvdXJzIFx1MDAyNiBTdGFmZiBEaXNjb3VudHMiLCJjb21wYW55X25hbWUiOiJNaWNoYWVsIFBhZ2UiLCJodGlkb2NpZCI6IllLSms2LXh6dmRXTkJ4VVRBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lPVlc1cGRHVmtJRXRwYm1ka2IyMCIsImdsIjoidWsiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU1RZMFlsWm5iamd0YzFCdmVqaFJUM05qTUUwMmVFZHNPRGhxVXpSM1Z6bHJZMlJXZW5waGRGWk1iR1pmVURWUlIzWndUVTFEZFhCa2VtbDNSazA1YVZNNVZGOXZOVVJoTlRCbGFXSkdaRVpQVFZGM01WWklOSFJsYTFocE1VRlZjbDl1YkVGMmJUZHFNR2wyU0VkZlduRmtVMHN0WkcweVQwUXRNa3hSZDJOVGFqVkNUVVlTRjBOdVR6bGhkWEZvUTJVM1NuZE9ORkExYzNKWGNVRkZHaUpCUkhOeU9XWlVUblp1VWxaaWIxSjJWR1ZUVkZrM1ZtVkhhVWRRU2sxc2NDMUIiLCJmY3YiOiIzIiwiZmNfaWQiOiJZS0prNi14enZkV05CeFVUQUFBQUFBPT0ifQ=="
+   },
+   {
+    "title": "Senior Buyer, Furniture & Homeware | Global Sourcing",
+    "company_name": "Victorian Plumbing",
+    "location": "United Kingdom",
+    "via": "Talents By StudySmarter",
+    "share_link": "https://www.google.com/search?ibp=htl;jobs&q=homeware+buyer&htidocid=BSWwwfBCC1AJFJEfAAAAAA%3D%3D&hl=en-GB&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xWOPQoCMRSEsd0jWL1CLEQ2IthoZ-EKIgiLtkuSfWQjSd6SH1zBwjt4E4_kScw2w0zxzUzxnRTnGp0mD_v0RL-EQ_JOx-QR5nAkiw-e7QsqQ4IbqCl5qZ2C3_sDdxIQkHvZATmoiJTB6a6LsQ9bxkIwpQqRRy1LSZaRQ0EDy1AYpQldbu4Nj9isN6uh7J1azG5aRvKaO7iYZMW4pB1c8yNs4ZRjS_YPRQlUk7UAAAA&shmds=v1_ARwrE23o5t6QvUCRspRT2BXsYY_JzP8DA8OA4rC8iglWxlhzdQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=homeware+buyer&htidocid=BSWwwfBCC1AJFJEfAAAAAA%3D%3D",
+    "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAY1BMVEVZu2RYu2Njv21QuFz___9Kt1dUuV-U0JrE5Md2xX5Nt1nW7Nix3LXu9-_a7tzo9OmMzZPg8eJ7x4OCyYmp2a6j1qi33rvL581EtVJww3me1KPQ6tOIzI8jrTf1-vVqwXM3skcLasbKAAABVklEQVRIie2V3W6EIBCFwWGGkV9ZV2Rdq33_pyx222Szml70pmniFwMKnAEPExDNLxHyl4iTk5OTv4IQYKslfRdP9Q_ALamJgMyaELHRAAiErUU0ZBCOJHKbiS5KZYLcO81tvLPqs7_q5PLsw2xTPlDKhgcj0SuNkmbrmxguRXPj35bMbfCCJyUXPBImFXFWY6kfuLDwQ-R-GeM9OdemHJZJwZFQyKIVZyXkZ5T6mNsKNwmtEY1cTduIhtbjwxsHFe-fMQEN-AKGijFF51KsKKb6_TXh7vAvUXWb8eCiv3inx87HEPUSte2ib1NI1WIQdciLknpFWxPkqeOYddDBTXFgkaJmx-ndv7vJoc786i6mx0rzFr_3fh6v2uoYu6BzfbO-5yt342hff5Za-RAOhbYNJ1NTgba9J4DClmta1cWC2Zkkn8p933qYOXv9rvW8SU9OTv4lH4vYEVVtQDW_AAAAAElFTkSuQmCC.png",
+    "extensions": [
+     "£36k–£60k a year",
+     "Full–time"
+    ],
+    "source_link": "https://talents.studysmarter.co.uk/companies/victorian-plumbing/senior-buyer-furniture-homeware-global-sourcing-20905205/",
+    "job_title": "Senior Buyer, Furniture & Homeware | Global Sourcing",
+    "description": "A home furnishing company is seeking an experienced Senior Buyer to shape their product offerings in furniture and homewares. This role demands an individual with a passion for home décor, a track record of successful supplier management, and the ability to drive product and pricing strategies. The ideal candidate will bring substantial experience from the furniture and homeware industry, along with strong analytical and negotiation skills. The position is office-based full-time with a commitment to fostering an inclusive work environment. #J-18808-Ljbffr\n\nExperience: 5 years required",
+    "apply_options": [
+     {
+      "title": "Talents By StudySmarter",
+      "link": "https://talents.studysmarter.co.uk/companies/victorian-plumbing/senior-buyer-furniture-homeware-global-sourcing-20905205/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+     }
+    ],
+    "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQnV5ZXIsIEZ1cm5pdHVyZSBcdTAwMjYgSG9tZXdhcmUgfCBHbG9iYWwgU291cmNpbmciLCJjb21wYW55X25hbWUiOiJWaWN0b3JpYW4gUGx1bWJpbmciLCJodGlkb2NpZCI6IkJTV3d3ZkJDQzFBSkZKRWZBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lPVlc1cGRHVmtJRXRwYm1ka2IyMCIsImdsIjoidWsiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU3pSM2ExUk9TVk5hYUhCT09UbEdXVW96V21wMk5GTmlaaTA0WlVkaWJYVXdOR3N5TldwVGVraHFTWHBHVFVWbWVtUlRlbTF1TURObmF6TldTbWhuTVV4UGNIVTNjVmQ2Tm5oR2NqbEdPVFZPU2w5QmQwZDRNVWQzTm1ST1FWTlRSRTh6Um5oU1p6bDRNVVpLYlRKQllVVm9jVmwxWWpJNVUwMXZWMGx3WHpaM1oySnFlakFTRjBOdVR6bGhkWEZvUTJVM1NuZE9ORkExYzNKWGNVRkZHaUpCUkhOeU9XWlNjRkJWUmpCdFVtTnRPSEpSZFU1WGVtcEZVVGRWTlZaWlkwSjMiLCJmY3YiOiIzIiwiZmNfaWQiOiJCU1d3d2ZCQ0MxQUpGSkVmQUFBQUFBPT0ifQ=="
+   },
+   {
+    "title": "Senior Homeware Buyer – Fast-Paced, Trend-Led Retailer",
+    "company_name": "Online Home Shop",
+    "location": "United Kingdom",
+    "via": "Talents By StudySmarter",
+    "share_link": "https://www.google.com/search?ibp=htl;jobs&q=homeware+buyer&htidocid=nbOH3MYCdww9sDJdAAAAAA%3D%3D&hl=en-GB&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_y2OvQrCMBRGce0jOF0cxTYiuOjmoIKCP9W5pOmliaT3hiRi3XwHX8Un8kms4vJN53C-5NVLDjmSYQ9rbvAmPcLiekcP78cTljLEdC8VViM4eaQq3WIFR4zS2D9y4RICSq80MMGKubbYn-sYXZgJEYLN6hBlNCpT3AgmLLkVnRS-UwTdBZ2VEYvJdNxmjurhYEfWEP7-QK7ZgSE4k4ldemOorrj5ACqB5iG3AAAA&shmds=v1_ARwrE22ZjjXyu5PVZ9RcG6l5zMlKQsUOYYWcpqIFzoqHal-2iA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=homeware+buyer&htidocid=nbOH3MYCdww9sDJdAAAAAA%3D%3D",
+    "thumbnail": "https://serpapi.com/searches/6abd730abca7e5292ae8afe4/images/AUbS5x8x-xYvt3vevnLh0Jy2BhscaZhKdwkUTTl30m4.jpeg",
+    "extensions": [
+     "£36k–£60k a year",
+     "Full–time"
+    ],
+    "source_link": "https://talents.studysmarter.co.uk/companies/online-home-shop/senior-homeware-buyer-fast-paced-trend-led-retailer-14031612/",
+    "job_title": "Senior Homeware Buyer – Fast-Paced, Trend-Led Retailer",
+    "description": "🚀 We’re Hiring: Senior Homeware Buyer 📍 Location: Manchester HQ 🕒 Full-time OFFICE BASED | Competitive Salary + Perks We’re on a mission to redefine home shopping in the UK . Our brand is growing faster than ever, launching hundreds of new products each season, and building a loyal, expanding customer base. We need a Senior Homeware Buyer who thrives in a high-velocity, trend-led environment , can lead ranges from concept to shelf, and isn’t afraid to move fast to drive sales and impact. If you’re ambitious, creative, commercially savvy, and ready to see your work nationwide within months , this is your next role. 💥 Why You’ll Love Working Here High-Velocity Growth – We operate at the speed of fast-fashion, not traditional retail. If you love working fast and seeing immediate results, you’ll fit right in. Big Impact from Day One – Own your ranges end-to-end, shape product strategy, and see your collections succeed across the UK. Innovative, Trend-Led Culture – We thrive on bold ideas, trend spotting, and customer-first thinking. Incredible Team Environment – Fast, focused, supportive — we achieve more together. 🛍️ What You’ll Be Doing Lead the creation and development of fast-moving, trend-led homeware ranges that excite our customers. Inspire and manage a high-performing team of merchandisers, buyers, assistant buyers, and admin assistants. Analyse sales data in real-time to identify winners, act quickly on underperformers, and adjust range strategy accordingly. Oversee the end-to-end product development process , from concept to final sign-off. Collaborate with Far East suppliers to meet aggressive deadlines without compromising quality. Introduce bold, trend-forward ideas while staying true to customer needs and commercial targets. Conduct market and competitor analysis , ensuring our ranges are always ahead of trends. Support eCommerce campaigns and shoots, ensuring products tell a compelling story online . Work cross-functionally to hit every launch date , every time. 💡 Who You Are 4–8 years of buying experience in fast-moving, trend-led homeware, lifestyle, or fast-fashion brands. Proven track record of long-term impact in one or two businesses , not frequent short stints. Creative yet commercial — you understand what sells, why it sells, and how to scale it fast. Experienced in end-to-end product development and leading ranges that deliver results. Data-driven, confident in using insights to make quick, informed decisions . Exceptional organisational, communication, and leadership skills. Excel-savvy, detail-oriented, and trend-curious , always looking for what’s next. Comfortable in a fast-paced, high-growth environment where speed and agility are key. 👀 Why This Role is Different At OHS, you won’t just join a team — you’ll be part of a fast-moving retail success story . We need buyers who want to build, lead, and make a real impact in a business that moves at the speed of fast fashion. If you’re ambitious, strategic, and ready to drive rapid growth in homeware , this is your next career move. 📩 Apply now and help shape the future of home shopping in the UK.\n\nExperience: 5 years required",
+    "apply_options": [
+     {
+      "title": "Talents By StudySmarter",
+      "link": "https://talents.studysmarter.co.uk/companies/online-home-shop/senior-homeware-buyer-fast-paced-trend-led-retailer-14031612/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+     }
+    ],
+    "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgSG9tZXdhcmUgQnV5ZXIg4oCTIEZhc3QtUGFjZWQsIFRyZW5kLUxlZCBSZXRhaWxlciIsImNvbXBhbnlfbmFtZSI6Ik9ubGluZSBIb21lIFNob3AiLCJodGlkb2NpZCI6Im5iT0gzTVlDZHd3OXNESmRBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lPVlc1cGRHVmtJRXRwYm1ka2IyMCIsImdsIjoidWsiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwVERKVE0wWjJiV1owVG5GSGNGUjRObGxRZVdOcWJtdDFhR0ZVY0VSV1FVZDRXVmRhVEVvd1luZ3hlVVJGWTNsdlVqWllORnBZWDFGbE9ESkpabGRwYTJzelNYaE1jbTEzZFVGWVltTmlkSE5tWkdSSk1FNTVWREk1ZEU5MFpYRkhVM0JyYWxOaGJHTm9NalJRV0VsM2JXZG9PUzFWYjBOQlRqQkhWVk0yUzFONE5ubzFVbmNTRjBOdVR6bGhkWEZvUTJVM1NuZE9ORkExYzNKWGNVRkZHaUpCUkhOeU9XWlJla3AxU2xOYWVHTjFRVVpuTVhRMWJtRlpXakJ3WVROU2RuQjMiLCJmY3YiOiIzIiwiZmNfaWQiOiJuYk9IM01ZQ2R3dzlzREpkQUFBQUFBPT0ifQ=="
+   },
+   {
+    "title": "Global Sourcing Homewares Buyer - Creative Ranges",
+    "company_name": "TipTopJob",
+    "location": "United Kingdom",
+    "via": "Talents By StudySmarter",
+    "share_link": "https://www.google.com/search?ibp=htl;jobs&q=homeware+buyer&htidocid=rNfj2VGDkJaowJhbAAAAAA%3D%3D&hl=en-GB&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xWOMQ7CMBAERZsnQHM1EjFCooGOFEGhg1BHjnNyjByf5XMgdPyBP_AwXoJptlhpZjf7zLKqtNRKCxcagzJOw5EGfMiADIfxiQFWUASU0dwRztLp1H9fb7hRC4wyqB7IQUmkLc73fYyed0Iw21xzTJTKFQ2CHLY0iQTxPxru04C3MmKz2a6n3Du9XNTG1-SrJDYOrs5E7OCUHnU0_ADO7Ea0qQAAAA&shmds=v1_ARwrE21YuU-NSKYgX1ZHgKhO5kQLW55PMpe9DhkvfSlH0JlIHw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=homeware+buyer&htidocid=rNfj2VGDkJaowJhbAAAAAA%3D%3D",
+    "extensions": [
+     "£36k–£60k a year",
+     "Full–time"
+    ],
+    "source_link": "https://talents.studysmarter.co.uk/companies/tiptopjob/global-sourcing-homewares-buyer-creative-ranges-23182647/",
+    "job_title": "Global Sourcing Homewares Buyer - Creative Ranges",
+    "description": "A leading homewares retailer in West Yorkshire is seeking an experienced Homewares Buyer to develop diverse product offerings. The role offers autonomy in a competitive, fast-paced environment, requiring at least 3 years of buying experience, strong negotiation skills, and expertise in product development. This position promotes a hybrid working model and a competitive salary, with applications closing on January 12, 2026. #J-18808-Ljbffr\n\nExperience: 3 years required",
+    "apply_options": [
+     {
+      "title": "Talents By StudySmarter",
+      "link": "https://talents.studysmarter.co.uk/companies/tiptopjob/global-sourcing-homewares-buyer-creative-ranges-23182647/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+     }
+    ],
+    "job_id": "eyJqb2JfdGl0bGUiOiJHbG9iYWwgU291cmNpbmcgSG9tZXdhcmVzIEJ1eWVyIC0gQ3JlYXRpdmUgUmFuZ2VzIiwiY29tcGFueV9uYW1lIjoiVGlwVG9wSm9iIiwiaHRpZG9jaWQiOiJyTmZqMlZHRGtKYW93SmhiQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJT1ZXNXBkR1ZrSUV0cGJtZGtiMjAiLCJnbCI6InVrIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFMzaGFkekJIUkhNMWRVMHdXa3RwU0c4dGVFOW9Ua0U0Um5aS1pHWmZjVkF4YVVjNFVVRnZkWFZNTkZrd1ZtNHphUzFGZEZoYWJuUmplalJFTlVKU2RUbDFZMkpWVlhFeU5FRktjbWhYWjFaUmVWQnRjazFJTWxkelIydFJUM1JoVm5Kc2FtMW5VMUJLTXpndGVrcG1XbFY2U2tKd1gzQnROMTk1TkdOd2FsbFlhM0puU0djU0YwTnVUemxoZFhGb1EyVTNTbmRPTkZBMWMzSlhjVUZGR2lKQlJITnlPV1pUYnpkVlpuTmxZa2RyTUdGVWFHMVJTM2N4YW5CaFV5MHlla3RCIiwiZmN2IjoiMyIsImZjX2lkIjoick5majJWR0RrSmFvd0poYkFBQUFBQT09In0="
+   },
+   {
+    "title": "Homeware Assistant Buyer – Maternity Cover, Hybrid London",
+    "company_name": "QVC, Inc.",
+    "location": "United Kingdom",
+    "via": "Talents By StudySmarter",
+    "share_link": "https://www.google.com/search?ibp=htl;jobs&q=homeware+buyer&htidocid=Q59KfBvdzLJpRpFEAAAAAA%3D%3D&hl=en-GB&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_x2NMQ6CQBBFY8sRtJnamMWY2GilFGLUwkRtycJOYA3MkJ1VofMOXsQzeRJXm1_8_Pdf9B5Ep5QbfGiHsBKx4jV5WN96dPB5vuCgPTqyvoeE7-gmkPa5swb2TIbpP7lyDoLaFRWEZsNc1jhcVt63sohjkVqV4dXbQhXcxEyYcxcHSH6RSRXUbR002Ww-7VRL5Xh0vCQT2FKhwBKcgx4N7CyVhpsvCI-wNrMAAAA&shmds=v1_ARwrE23TkjOmiFXTyPDrMSk9o88WQLL0YdV_dOQiA4q-ZTtF_A&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=homeware+buyer&htidocid=Q59KfBvdzLJpRpFEAAAAAA%3D%3D",
+    "extensions": [
+     "£27k–£33k a year",
+     "Full–time"
+    ],
+    "source_link": "https://talents.studysmarter.co.uk/companies/qvc-inc/homeware-assistant-buyer-maternity-cover-hybrid-london-51867236/",
+    "job_title": "Homeware Assistant Buyer – Maternity Cover, Hybrid London",
+    "description": "QVC Group in London is seeking an Assistant Buyer, Homeware on a maternity cover basis to support the buying and merchandising team in developing a compelling homeware range. The role is hybrid and onsite at Chiswick Park, West London at least two days a week.\n\nYou will collate sales data, manage samples, coordinate supplier queries, and prepare packs for meetings. You should have experience in buying/merchandising or retail administration, strong organisational and analytical skills, and the\n\n #J-18808-Ljbffr\n\nExperience: 1 year required",
+    "apply_options": [
+     {
+      "title": "Talents By StudySmarter",
+      "link": "https://talents.studysmarter.co.uk/companies/qvc-inc/homeware-assistant-buyer-maternity-cover-hybrid-london-51867236/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+     }
+    ],
+    "job_id": "eyJqb2JfdGl0bGUiOiJIb21ld2FyZSBBc3Npc3RhbnQgQnV5ZXIg4oCTIE1hdGVybml0eSBDb3ZlciwgSHlicmlkIExvbmRvbiIsImNvbXBhbnlfbmFtZSI6IlFWQywgSW5jLiIsImh0aWRvY2lkIjoiUTU5S2ZCdmR6TEpwUnBGRUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU9WVzVwZEdWa0lFdHBibWRrYjIwIiwiZ2wiOiJ1ayIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBURWxKZW1jNU9GRTVYelZDYVdReVRHcExjRFpNVFVkWWEySlZXblYwTkRsUU5YSm5SSEJhYlVkcloxWnVVbmh2TWtaUGFUbGZka2hsVW0xRlRubGtXWEF3VVZkdU9VOTNibEpxZEU5VloxTkdibFJZT1hndGQyOVJlVmt3TVVWSk1sUXRhbWd5VDFCSldUWnpjWGwxUVhGTWJWRlBRemhLYW01UGEwNXpjQzFLY1c5NVVEVVNGME51VHpsaGRYRm9RMlUzU25kT05GQTFjM0pYY1VGRkdpSkJSSE55T1daVVdXVkhhRlJqUzNWNE5GWnJVSHAzY1ZCcVREaEdiamwxVkZabiIsImZjdiI6IjMiLCJmY19pZCI6IlE1OUtmQnZkekxKcFJwRkVBQUFBQUE9PSJ9"
+   },
+   {
+    "title": "Hybrid Homeware Junior Buyer: Growth & Negotiation",
+    "company_name": "QVC",
+    "location": "United Kingdom",
+    "via": "Talents By StudySmarter",
+    "share_link": "https://www.google.com/search?ibp=htl;jobs&q=homeware+buyer&htidocid=aHMWm9YuJcBEDC3fAAAAAA%3D%3D&hl=en-GB&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xWNMQ6CQBBFY0tvYzWVhQVrTGy00wIiiYmFtmSBye4a2CE7Q4DOO3gCr-ZJXJtfvLyXn3wWSZHPVXAN5NThqAPCZfCOApyGGcMBskCjWFjDFQ2J0-LIw_f1hidVwKhDbSGSjMi0uDpakZ4PSjG3qWGJep3W1CnyWNGkYsT_KdnGq77VguVuv53S3pvN8vY4g_Nw906wgcJ501D3A-fJ582kAAAA&shmds=v1_ARwrE21V-dst6hVSse3sn_gaRShhwz6eC2kNp6rNdb3EiEHo-g&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=homeware+buyer&htidocid=aHMWm9YuJcBEDC3fAAAAAA%3D%3D",
+    "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAgVBMVEX____7ysT1cVr1cVv6wbn829f1c137z8r5rqQmMUkjL0cAFjcSIj71eGP1dmAZJ0EIHDoeK0Tm5-m-wMUADjP0Z074p5v3lIWQk5ykp653fIfO0NPx8vM0PVL-7uv-9PPc3eBtcn-BhpBDS147RFibn6ZZX26ytbsAACliZ3UAAC872g1lAAABYElEQVRIie3W21KDMBAG4BS1mmTbXUiqBEJLoRTr-z-g4IgV7JQtTu_472Dnm8lhk4kQc-6W3RM7ux5cbAJmNos-DFbLB0bWq2AIl6-PjLyt_8DgmbMWL8sZ_gf61MWxS2-F-d4SIALpJLoFFjZUSFoTKrQxH5Yg6eDSKEqrjCQdubDEEE33UYPCIw8WEB78uRRJRRUH5lai_12LSFrPgPuQTK8mHGAxDr1VBzFIs8Tj0BC6ISxQ56PQAQ3bRRgAMwpj1NHAiZTA3Q9eGmrNGWqqMR44kYQ2GoUClBo4TyoT47BAqHq19k-3Q9eg17LbtTbNcSbZ7f_1Jq-1hJ_1ce-E8tyD149VQVLHXVv7E8hM8GBzAUikkzOmbsd8grDMeVAYBBVCk492a46gtHQs2MytbG4rIPt1pBOLEDNhez8ak37PNE2yig0vZoa3wcmPh6nPlakPpO2CnS1nLeZMyycpVB18c3E7qwAAAABJRU5ErkJggg.png",
+    "extensions": [
+     "£30k–£40k a year",
+     "Full–time"
+    ],
+    "source_link": "https://talents.studysmarter.co.uk/companies/qvc/hybrid-homeware-junior-buyer-growth-negotiation-36250003/",
+    "job_title": "Hybrid Homeware Junior Buyer: Growth & Negotiation",
+    "description": "A leading retail company in Greater London is seeking an experienced Junior Buyer for Home. In this hybrid role, you will work onsite at the head office 2 days a week while sourcing a unique product portfolio targeted for QVC UK's strategy. Responsibilities include negotiating product costs, evaluating vendors, and implementing pricing strategies. Ideal candidates should have a background as an Assistant Buyer or Junior Buyer and possess excellent negotiation skills. Benefits include competitive compensation and a supportive work environment. #J-18808-Ljbffr",
+    "apply_options": [
+     {
+      "title": "Talents By StudySmarter",
+      "link": "https://talents.studysmarter.co.uk/companies/qvc/hybrid-homeware-junior-buyer-growth-negotiation-36250003/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+     }
+    ],
+    "job_id": "eyJqb2JfdGl0bGUiOiJIeWJyaWQgSG9tZXdhcmUgSnVuaW9yIEJ1eWVyOiBHcm93dGggXHUwMDI2IE5lZ290aWF0aW9uIiwiY29tcGFueV9uYW1lIjoiUVZDIiwiaHRpZG9jaWQiOiJhSE1XbTlZdUpjQkVEQzNmQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJT1ZXNXBkR1ZrSUV0cGJtZGtiMjAiLCJnbCI6InVrIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFRHRXlMV2hRWmpOVmNtZ3lOazh6Ykd3MldHdE5kSE5KYjJad1kyWklSbkZPTmpGVFprTjJUWE5VT1U1dGNrRmljV3huUjJsVlgwSk1hazV5VERRNGVYTndVVzgzTUhSb1pVZDBXVVJwVkhWRE9FdHRUMHRJVkRNeFVVOXFkbVpMU1VnMGQxUlRWMDVrTFZRMFV5MWFlRFJNZDFWNlNrdFJSa3BOT1VkcFMwb3RjblYzUm1zU0YwTnVUemxoZFhGb1EyVTNTbmRPTkZBMWMzSlhjVUZGR2lKQlJITnlPV1pSYkUxc1VtbHVTbVJJUW10dWVtNXhZbkoxT1dzNWMwSTRlbTkzIiwiZmN2IjoiMyIsImZjX2lkIjoiYUhNV205WXVKY0JFREMzZkFBQUFBQT09In0="
+   },
+   {
+    "title": "Freelance Buyer: Gifts, Homeware & Accessories",
+    "company_name": "FASHION PERSONNEL",
+    "location": "United Kingdom",
+    "via": "Talents By StudySmarter",
+    "share_link": "https://www.google.com/search?ibp=htl;jobs&q=homeware+buyer&htidocid=WpndYD2gOpDsDsYpAAAAAA%3D%3D&hl=en-GB&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXMTwqCQBSAcdp6hFYPghYRGkEbWxn4JwqNpLWM40sndJ7Mm8h23aFjdKtOkm2-3e9zPhMnjgxiK7RE2N2faHyI1dXyEhLq8CEMwhwCKZGZjEKG7-sNNyqBURjZAGmIieoWp9vG2p59z2Nu3ZqtsEq6kjqPNJY0eCPifwpuxmvfCovFerMa3F7Xi1kU5Mk-S-EUnvMsTcMjKA0XrSxWcFC6rqj7ATKW21GuAAAA&shmds=v1_ARwrE20QOKGzG2ZtvYZSytRBpCxd6ZKk5QYCvR_Cf2tMuuXIuw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=homeware+buyer&htidocid=WpndYD2gOpDsDsYpAAAAAA%3D%3D",
+    "extensions": [
+     "Contractor"
+    ],
+    "source_link": "https://talents.studysmarter.co.uk/companies/fashion-personnel/freelance-buyer-gifts-homeware-accessories-17506831/",
+    "job_title": "Freelance Buyer: Gifts, Homeware & Accessories",
+    "description": "A creative organisation in London is seeking a freelance assistant/junior buyer for a temporary position. The role involves product development across gifting and homeware, managing the product lifecycle, and collaborating with teams to ensure product quality and alignment. Candidates should have buying experience, strong organisational skills, and an eye for detail. This role offers competitive hourly pay and holiday entitlement. #J-18808-Ljbffr",
+    "apply_options": [
+     {
+      "title": "Talents By StudySmarter",
+      "link": "https://talents.studysmarter.co.uk/companies/fashion-personnel/freelance-buyer-gifts-homeware-accessories-17506831/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+     }
+    ],
+    "job_id": "eyJqb2JfdGl0bGUiOiJGcmVlbGFuY2UgQnV5ZXI6IEdpZnRzLCBIb21ld2FyZSBcdTAwMjYgQWNjZXNzb3JpZXMiLCJjb21wYW55X25hbWUiOiJGQVNISU9OIFBFUlNPTk5FTCIsImh0aWRvY2lkIjoiV3BuZFlEMmdPcERzRHNZcEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU9WVzVwZEdWa0lFdHBibWRrYjIwIiwiZ2wiOiJ1ayIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBUR2N4Y1hFd2FFZEZNRVY2VFVSdFdWSjZkRGxNZUhJM1dXeFpVR2RhWlZGaGVIWlZVa3M0ZW5WZk1XcHVURzk1TkRsRWVUVlBiMkpUTTFKM1ZFTnlNRGRUYUhWS1FtdFJOMnRtVVZKeE1rWnBSWFpqTFc1VmNuTkpORWxKVVV4Q0xVdEZjbVIyTlhFeE9WZ3hhMVpXTWt0MlRHaEJSWHBHU2pjMmVYVklRelYzVWt0bGRITVNGME51VHpsaGRYRm9RMlUzU25kT05GQTFjM0pYY1VGRkdpSkJSSE55T1daVWJUaG5jVEJhZWpWRmJXeFRhV1J4Um10TU4wczVlR0pQWmkxUiIsImZjdiI6IjMiLCJmY19pZCI6IldwbmRZRDJnT3BEc0RzWXBBQUFBQUE9PSJ9"
+   },
+   {
+    "title": "Category Buyer: Bathroom & Homeware, Fast-Paced Retail",
+    "company_name": "Victorian Plumbing",
+    "location": "United Kingdom",
+    "via": "Talents By StudySmarter",
+    "share_link": "https://www.google.com/search?ibp=htl;jobs&q=homeware+buyer&htidocid=LvNHPwauVyQt7Bw0AAAAAA%3D%3D&hl=en-GB&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xWNMQrCQBBFsfUIVlOIhWgigk3sFFSwMAjahslm2Kzs7oTdEU3nHbyKJ_Ikrs2DX7z_hp_B8LRFIc2hh829p1DABqUNzA4mcGBHDww0gx1GmZeoqIEzCRoL39cbblxDJAyqBfawZ9aWRutWpItFnsdoMx0FxahMscvZU83PPEnxjyq26bqzKV8tV4tn1nk9HV-NEg4GPZT27mrjNRgPF28kpY9pNux-og0KnrcAAAA&shmds=v1_ARwrE23k2S7zwdWbjKp_ypXAcwTkEl1Dg2TENU5vSIgZo1FxSg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=homeware+buyer&htidocid=LvNHPwauVyQt7Bw0AAAAAA%3D%3D",
+    "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAY1BMVEVZu2RYu2Njv21QuFz___9Kt1dUuV-U0JrE5Md2xX5Nt1nW7Nix3LXu9-_a7tzo9OmMzZPg8eJ7x4OCyYmp2a6j1qi33rvL581EtVJww3me1KPQ6tOIzI8jrTf1-vVqwXM3skcLasbKAAABVklEQVRIie2V3W6EIBCFwWGGkV9ZV2Rdq33_pyx222Szml70pmniFwMKnAEPExDNLxHyl4iTk5OTv4IQYKslfRdP9Q_ALamJgMyaELHRAAiErUU0ZBCOJHKbiS5KZYLcO81tvLPqs7_q5PLsw2xTPlDKhgcj0SuNkmbrmxguRXPj35bMbfCCJyUXPBImFXFWY6kfuLDwQ-R-GeM9OdemHJZJwZFQyKIVZyXkZ5T6mNsKNwmtEY1cTduIhtbjwxsHFe-fMQEN-AKGijFF51KsKKb6_TXh7vAvUXWb8eCiv3inx87HEPUSte2ib1NI1WIQdciLknpFWxPkqeOYddDBTXFgkaJmx-ndv7vJoc786i6mx0rzFr_3fh6v2uoYu6BzfbO-5yt342hff5Za-RAOhbYNJ1NTgba9J4DClmta1cWC2Zkkn8p933qYOXv9rvW8SU9OTv4lH4vYEVVtQDW_AAAAAElFTkSuQmCC.png",
+    "extensions": [
+     "£55k–£65k a year",
+     "Full–time"
+    ],
+    "source_link": "https://talents.studysmarter.co.uk/companies/victorian-plumbing/category-buyer-bathroom-homeware-fast-paced-retail-49552433/",
+    "job_title": "Category Buyer: Bathroom & Homeware, Fast-Paced Retail",
+    "description": "Victorian Plumbing is seeking a Category Buyer to lead end-to-end category management across bathroom ranges, from development to supplier partnerships and asset execution. You’ll own the product lifecycle, drive commercial performance, and collaborate with Supply Chain, Marketing, and Web teams to keep stock healthy and imagery compelling.\n\nBased at Leyland HQ, the role suits a fast-paced buyer with strong negotiation skills and a track record in retail or ecommerce.\n\n #J-18808-Ljbffr\n\nExperience: 2 years required",
+    "apply_options": [
+     {
+      "title": "Talents By StudySmarter",
+      "link": "https://talents.studysmarter.co.uk/companies/victorian-plumbing/category-buyer-bathroom-homeware-fast-paced-retail-49552433/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+     }
+    ],
+    "job_id": "eyJqb2JfdGl0bGUiOiJDYXRlZ29yeSBCdXllcjogQmF0aHJvb20gXHUwMDI2IEhvbWV3YXJlLCBGYXN0LVBhY2VkIFJldGFpbCIsImNvbXBhbnlfbmFtZSI6IlZpY3RvcmlhbiBQbHVtYmluZyIsImh0aWRvY2lkIjoiTHZOSFB3YXVWeVF0N0J3MEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU9WVzVwZEdWa0lFdHBibWRrYjIwIiwiZ2wiOiJ1ayIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBURlZGWW5GaVFYWTRVbGhLVEcxZmExUnpWa1V0ZUdGTVduQjVkamh6WkdkTlRrdE5XRTlMTFhWVU5FSnlaSFpTTTJGM2EzWTBYelppWVUxSGJtZEphazV5ZDNVdE1VSlNjV1kxTkZveFFtZzJNMWh0V0dreFMwOTROM2RtYnpOc1FUQlJPWGR3VTJwSmRXOVVkbmsyU2tOSExTMHRSbUoyYmxaS1ZtRXdURmh3T1VONFpIWVNGME51VHpsaGRYRm9RMlUzU25kT05GQTFjM0pYY1VGRkdpSkJSSE55T1daVWRFZFNRMDlYVkRWM1NUaFlUR3ByY0RsRk5TMVVTVTlRT0VaMyIsImZjdiI6IjMiLCJmY19pZCI6Ikx2TkhQd2F1VnlRdDdCdzBBQUFBQUE9PSJ9"
+   },
+   {
+    "title": "Homeware Assistant Buyer: Sourcing & Supplier Negotiations",
+    "company_name": "Michael Page",
+    "location": "United Kingdom",
+    "via": "Talents By StudySmarter",
+    "share_link": "https://www.google.com/search?ibp=htl;jobs&q=homeware+buyer&htidocid=OjcLMAjMM87Y0Mg3AAAAAA%3D%3D&hl=en-GB&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xWOMQrCQBBFsc0RLGQqC4tEBJtYaaMgihCsw2YdNiObnWVngrHzDt7EI3kSY_O7997PPpOsOnCHD5MQtiIkaoLCrn9iKqHiPlkKDuZQ9TF6wgRndKxklDgIfF9vuHMDgibZFjjAntl5nG5a1ShlUYj43I1SJZtb7goO2PBQjJD8p5Z2LEdvFOvVejnkMbjF7ES2NejhYhwCBbgGUrzBcbxy4-4HVsFNqbUAAAA&shmds=v1_ARwrE23a6s5Rjnc3BuJBTrajwnaEA_lMWIGv26sKLu_wIrGAWQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=homeware+buyer&htidocid=OjcLMAjMM87Y0Mg3AAAAAA%3D%3D",
+    "thumbnail": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N__AABEIADgAOAMBIgACEQEDEQH_xAAaAAEAAgMBAAAAAAAAAAAAAAAABgcDBAUC_8QAJhAAAQQBBAEDBQAAAAAAAAAAAQACAxEEBRITIQYiJDEUM1FSYf_EABUBAQEAAAAAAAAAAAAAAAAAAAAC_8QAGREBAAIDAAAAAAAAAAAAAAAAAAIRARJB_9oADAMBAAIRAxEAPwC8UREBERAREQEREBFw_MMfUsnRizRpJY8xsrZIzG8tstO4Ncf1JAB_hKimIfLsfUJcqTGzSzImfIQ55kONG_6QljG3tJY3nA6PbDV3TqxG-ix0UGhm8lwsvLkdHmZUE8zg30AFvoxwHtB3bR94ltEek9We_ByvLMvAkblQSwvEUZ2wsIL6Dd5BA6dvDhV9tqh3YaieIodqGJrjdZ1PUsV-Xw48jXwwNmd7hvBtLGsNsaN53bqJtvx2uVka95S0BjG-5jL4mx8IqWWpuNjuunECB920UewL6YjYsZFoaK_KfgNdnOLpS51F0ZYdtnbYod1QPQv5oIpG-iIgIiICx_Tw84n4o-YDaJNo3V-LWREBERAREQEREBERAREQf__Z.jpeg",
+    "extensions": [
+     "£28k–£32k a year",
+     "Full–time"
+    ],
+    "source_link": "https://talents.studysmarter.co.uk/companies/michael-page/homeware-assistant-buyer-sourcing-supplier-negotiations-38733139/",
+    "job_title": "Homeware Assistant Buyer: Sourcing & Supplier Negotiations",
+    "description": "A reputable retail organisation in Chesterfield is looking for an Assistant Buyer to support procurement in the homeware sector. This role offers a competitive salary ranging from £28,000 to £32,000 per annum and opportunities for career progression. The ideal candidate should have a background in retail, excellent organisational skills, and strong communication abilities. Join a dedicated team committed to quality and efficiency in the procurement process. #J-18808-Ljbffr\n\nExperience: 3 years required",
+    "apply_options": [
+     {
+      "title": "Talents By StudySmarter",
+      "link": "https://talents.studysmarter.co.uk/companies/michael-page/homeware-assistant-buyer-sourcing-supplier-negotiations-38733139/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+     }
+    ],
+    "job_id": "eyJqb2JfdGl0bGUiOiJIb21ld2FyZSBBc3Npc3RhbnQgQnV5ZXI6IFNvdXJjaW5nIFx1MDAyNiBTdXBwbGllciBOZWdvdGlhdGlvbnMiLCJjb21wYW55X25hbWUiOiJNaWNoYWVsIFBhZ2UiLCJodGlkb2NpZCI6Ik9qY0xNQWpNTTg3WTBNZzNBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lPVlc1cGRHVmtJRXRwYm1ka2IyMCIsImdsIjoidWsiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU1dOMFJtSXRkVGRhUVZSUk5ETlZUMVJwWXpKRWJXNDRlRlJMV25kMFQzSlViMjlDTFVkdmNWWkVOVFZEUTFJMGJqaDJUbTlrU25wTFp6bDRRMFZsY1d0eU5ISm9VbmgwWjBNNGJIRTVRazFUYjFWUWRrbHlVWGRqV0RoM09FSmpWV3RsUVVReFIxQmxjbWRSWjFGUlNGTmxSWEp6YWtjNFFsSTNWVEpZTFZaMWVIRjVORk1TRjBOdVR6bGhkWEZvUTJVM1NuZE9ORkExYzNKWGNVRkZHaUpCUkhOeU9XWlNSSFIyY3psQ01sOXZlR1ZQZUhkUFZFcE1OMm90WTJ0NFYyaG4iLCJmY3YiOiIzIiwiZmNfaWQiOiJPamNMTUFqTU04N1kwTWczQUFBQUFBPT0ifQ=="
+   }
+  ],
+  "serpapi_pagination": {
+   "next_page_token": "eyJmYyI6IkV2Y0NDcmNDUVVwcFZEUjBUR1V0Vm5OMlMxZHhkR000TVZkcldtWXdUVlJOV204eldtaDVkMXBWY1Y5UFUybGFjRlp5WW1vMGNUQlVlbTV2WWpWQ2VXSmFRa2RzYkd0WWRrb3dhMkY1Vkc5Q2JVcGFVVVU0UjFOV1EyVllaVVZ1UVdkaE5GTTJWbVZFVlhaVk16bGFNR280Y1hoR1EwTXhMVWRvTkVGZkxXVnRSREZVTmxoQ0xYRnFjak0xZUU5WmExaENZa3BhWDFkSmRVdzVSV1k1Ukc5eFVuTktSV0UzVDBZdFFWTmZjVkZ5VEMxVU5IQXlRa05hUkdsVlNFcGxaekJGWVVwaWRYRmpZelpsYmpZd1ltUjZOMFpwYTJSeFFYQlhVR2xYWkRkaE1VMUxRVkp0WlV3eFRFSTJkalZQTWxnM09WSllOM0pvUkZvMFIySnhkVk4xY0UwdFZuRlJhMnBFY1ZCM2VGQktjek5ZVEVaMVpsQkhObmN4V0hGaGRXZzNjalk0ZWpoU2MzTjRWV2h0VGpCR1VtOVBWR1JzYjJnNWJHc1NGME51VHpsaGRYRm9RMlUzU25kT05GQTFjM0pYY1VGRkdpSkJSSE55T1daUlIwdE9aVUZoT0RoUFV6aFNUMGwxVmxjd1RTMWpVVmR2TW5WUiIsImZjdiI6IjMifQ==",
+   "next": "https://serpapi.com/search.json?engine=google_jobs&gl=uk&google_domain=google.com&hl=en&location=United+Kingdom&next_page_token=eyJmYyI6IkV2Y0NDcmNDUVVwcFZEUjBUR1V0Vm5OMlMxZHhkR000TVZkcldtWXdUVlJOV204eldtaDVkMXBWY1Y5UFUybGFjRlp5WW1vMGNUQlVlbTV2WWpWQ2VXSmFRa2RzYkd0WWRrb3dhMkY1Vkc5Q2JVcGFVVVU0UjFOV1EyVllaVVZ1UVdkaE5GTTJWbVZFVlhaVk16bGFNR280Y1hoR1EwTXhMVWRvTkVGZkxXVnRSREZVTmxoQ0xYRnFjak0xZUU5WmExaENZa3BhWDFkSmRVdzVSV1k1Ukc5eFVuTktSV0UzVDBZdFFWTmZjVkZ5VEMxVU5IQXlRa05hUkdsVlNFcGxaekJGWVVwaWRYRmpZelpsYmpZd1ltUjZOMFpwYTJSeFFYQlhVR2xYWkRkaE1VMUxRVkp0WlV3eFRFSTJkalZQTWxnM09WSllOM0pvUkZvMFIySnhkVk4xY0UwdFZuRlJhMnBFY1ZCM2VGQktjek5ZVEVaMVpsQkhObmN4V0hGaGRXZzNjalk0ZWpoU2MzTjRWV2h0VGpCR1VtOVBWR1JzYjJnNWJHc1NGME51VHpsaGRYRm9RMlUzU25kT05GQTFjM0pYY1VGRkdpSkJSSE55T1daUlIwdE9aVUZoT0RoUFV6aFNUMGwxVmxjd1RTMWpVVmR2TW5WUiIsImZjdiI6IjMifQ%3D%3D&q=homeware+buyer"
+  }
+ }
+}

@@ -1,7 +1,8 @@
 """Buyer discovery and enrichment (plan §5 steps 6-7).
 
-Discovery is free: it merges merchants, brands, web results and Maps places already fetched
-into ``BuyerCandidate``s. Enrichment spends 2-3 credits per candidate.
+Discovery is free: it merges merchants, brands, web results, Maps places and companies
+advertising buying jobs (Google Jobs) already fetched into ``BuyerCandidate``s. Enrichment
+spends 2-3 credits per candidate.
 
 OWNER: agent A.
 """
@@ -18,6 +19,7 @@ from exportscout.models import (
     BuyerKind,
     BuyerSignal,
     EvidenceStore,
+    JobPosting,
     Listing,
     Place,
     ProductDetail,
@@ -41,7 +43,11 @@ _ALWAYS_SKIP = (
     "wikipedia.org", "gov.uk", "linkedin.com", "trustpilot.com", "yell.com", "tiktok.com", "twitter.com", "x.com",
     "imdb.com", "bbc.co.uk", "theguardian.com", "dailymail.co.uk", "independent.co.uk", "telegraph.co.uk", "companieshouse.gov.uk",
 )  # fmt: skip
-_NO_BRAND = {"generic", "unbranded", "unknown", "na", "none", "nobrand", "brandless", "various"}
+# Placeholder brand names, and the ones job boards show for an undisclosed employer.
+_NO_BRAND = {
+    "generic", "unbranded", "unknown", "na", "none", "nobrand", "brandless", "various",
+    "confidential", "undisclosed", "anonymous",
+}  # fmt: skip
 _COMPANY_SUFFIX = re.compile(r"(?:[\s,]+(?:ltd|limited|plc|llp|inc|uk|&\s*co|and\s+co)\.?)+$", re.I)
 
 ENGINE_LABELS = {
@@ -50,6 +56,7 @@ ENGINE_LABELS = {
     "amazon": "Amazon",
     "google": "Google Search",
     "google_maps": "Google Maps",
+    "google_jobs": "Google Jobs",
 }
 _LISTING_ENGINE = {"lens": "google_lens", "google_shopping": "google_shopping", "amazon": "amazon"}
 
@@ -63,6 +70,7 @@ _INDIA_TEXT = re.compile(
 NEWS_RECENT_DAYS = 180
 MAX_NEWS_SIGNALS = 2
 MAX_SEEN_TEXTS = 40
+JOB_QUOTE_CHARS = 120  # job-ad snippet quoted in an india_sourcing signal
 
 
 # --------------------------------------------------------------------------- names and domains
@@ -162,6 +170,95 @@ def _category_hit(text: str | None, phrases: list[str]) -> str | None:
     return None
 
 
+# --------------------------------------------------------------------------- hiring (Google Jobs)
+
+
+def _words_key(name: str) -> str:
+    """Lowercase words for whole-word matching: "Hunter & Harvey Ltd." -> "hunter and harvey ltd"."""
+    return " ".join(re.findall(r"[a-z0-9]+", name.lower().replace("&", " and ")))
+
+
+def mark_recruiters(jobs: Iterable[JobPosting], category: dict[str, Any]) -> list[JobPosting]:
+    """Copies of ``jobs`` with ``is_recruiter=True`` when a posting is already flagged or its company
+    is a recruitment agency on category["recruiters"]. Names match on whole words in any case:
+    "Hays Specialist Recruitment" matches "hays", "Reedmace Homeware" does not match "reed"."""
+    agencies = [f" {key} " for key in (_words_key(str(r)) for r in category.get("recruiters") or []) if key]
+    out = []
+    for job in jobs:
+        name = f" {_words_key(job.company)} "
+        flag = job.is_recruiter or any(a in name for a in agencies)
+        out.append(job.model_copy(update={"is_recruiter": flag}))
+    return out
+
+
+def _company_words(name: str) -> list[str]:
+    return re.findall(r"[a-z0-9]+", _COMPANY_SUFFIX.sub("", name.strip()).lower().replace("&", "and"))
+
+
+def group_companies(jobs: Iterable[JobPosting]) -> list[JobPosting]:
+    """Copies of ``jobs`` with the name variants of one employer merged under its shortest name,
+    when one name's words start the other's: "QVC, Inc." -> "QVC"; "Dobbies Garden Centres" and
+    "Dobbies Central Support Office" -> "Dobbies". "Online Home Shop" and "Online Lighting" stay apart."""
+    jobs = list(jobs)
+    words = [_company_words(j.company) for j in jobs]
+    groups: list[tuple[list[str], str]] = []  # (words of the shortest name, that name)
+    for job, w in zip(jobs, words):
+        if not w:
+            continue
+        for i, (key, name) in enumerate(groups):
+            n = min(len(key), len(w))
+            if key[:n] == w[:n]:
+                if (len(w), len(job.company.strip())) < (len(key), len(name)):
+                    groups[i] = (w, job.company.strip())
+                break
+        else:
+            groups.append((w, job.company.strip()))
+
+    def canonical(w: list[str]) -> str | None:
+        return next((name for key, name in groups if w and key[: min(len(key), len(w))] == w[: min(len(key), len(w))]), None)
+
+    return [j.model_copy(update={"company": canonical(w) or j.company}) for j, w in zip(jobs, words)]
+
+
+def _a_or_an(title: str) -> str:
+    """ "Buyer" -> "a Buyer", "Assistant Buyer" -> "an Assistant Buyer"."""
+    return ("an " if re.match(r"[aeio]", title, re.I) else "a ") + title
+
+
+def _quote(snippet: str, limit: int = JOB_QUOTE_CHARS) -> str:
+    """About ``limit`` chars of a job-ad snippet around its India mention. "…" marks a cut; the
+    word at a cut (ours or the engine's) may be partial, so it goes unless it is the mention."""
+    raw = snippet.strip()
+    text = " ".join(raw.strip("…").split())
+    if not text:
+        return ""
+    m = re.search(r"\bindian?\b", text, re.I)
+    keep_from, keep_to = (m.start(), m.end()) if m else (len(text), 0)
+    start, end = 0, len(text)
+    if len(text) > limit:
+        start = max(0, keep_from - limit // 2) if keep_to > limit - 20 else 0
+        end = start + limit
+    head, tail = start > 0 or raw.startswith("…"), end < len(text) or raw.endswith("…")
+    if head and 0 <= (i := text.find(" ", start, end)) < keep_from:
+        start = i + 1
+    if tail and (j := text.rfind(" ", start, end)) >= keep_to:  # -1 (no space) never passes
+        end = j
+    return ("…" if head else "") + text[start:end].strip(" ,;:-–—") + ("…" if tail else "")
+
+
+def _hiring_detail(job: JobPosting) -> str:
+    """ "Hiring a Lighting Buyer (3 days ago)"."""
+    detail = f"Hiring {_a_or_an(job.title)}"
+    return f"{detail} ({job.posted})" if job.posted else detail
+
+
+def _india_detail(job: JobPosting) -> str:
+    quote = _quote(job.snippet or "")
+    if quote:
+        return f"Their job ad mentions India: “{quote}”"
+    return f"Their job ad for {_a_or_an(job.title)} mentions India"
+
+
 # --------------------------------------------------------------------------- discovery
 
 
@@ -180,7 +277,7 @@ def discovery_queries(product: ProductIdentity, market: dict[str, Any], category
 class _Mention:
     engine: str
     evidence_id: str
-    name: str | None = None  # explicit: merchant, brand or Maps title
+    name: str | None = None  # explicit: merchant, brand, Maps title or job-ad company
     derived_name: str | None = None  # guessed from a web page title
     host: str | None = None
     domain: str | None = None
@@ -189,10 +286,15 @@ class _Mention:
     currency: str | None = None
     reviews: int | None = None
     place: Place | None = None
+    job: JobPosting | None = None
 
 
 def _mentions(
-    listings: list[Listing], web: list[WebResult], places: list[Place], products: Iterable[ProductDetail]
+    listings: list[Listing],
+    web: list[WebResult],
+    places: list[Place],
+    products: Iterable[ProductDetail],
+    jobs: Iterable[JobPosting] = (),
 ) -> list[_Mention]:
     out: list[_Mention] = []
     for item in listings:
@@ -234,6 +336,9 @@ def _mentions(
                 place=pl,
             )
         )
+    for job in jobs:
+        texts = [job.title, job.snippet or ""]
+        out.append(_Mention("google_jobs", job.evidence_id, name=job.company, texts=texts, job=job))
     return out
 
 
@@ -278,13 +383,17 @@ def discover_candidates(
     products: Iterable[ProductDetail] = (),
     product: ProductIdentity | None = None,
     currency: str | None = None,
+    jobs: Iterable[JobPosting] = (),
 ) -> list[BuyerCandidate]:
-    """Merge merchants/brands from listings, web results and Maps places into candidates.
+    """Merge merchants/brands from listings, web results, Maps places and job ads into candidates.
 
     Dedupe by domain (fall back to normalised name). Skip marketplaces (category["marketplaces"]).
     Flag giants (category["giants"]). Add a "multi_engine" signal when seen in 2+ engines.
     ``products`` adds Amazon brands; ``product`` enables "category_match" signals;
-    ``currency`` keeps only listing prices in that currency (default: the most common one).
+    ``currency`` keeps only listing prices in that currency (default: the most common one);
+    ``jobs`` (Google Jobs ads for buying roles) add the hiring companies, with a "hiring" signal and,
+    when an ad mentions India, an "india_sourcing" one. Recruitment agencies (``is_recruiter``, or
+    named in category["recruiters"]) never become candidates.
     """
     marketplaces = list(category.get("marketplaces") or [])
     giants = list(category.get("giants") or [])
@@ -292,10 +401,11 @@ def discover_candidates(
     if currency is None:
         counts = Counter(l.currency for l in listings if l.price is not None and l.currency)
         currency = counts.most_common(1)[0][0] if counts else None
+    hiring = [j for j in mark_recruiters(jobs, category) if not j.is_recruiter]
 
     by_domain: dict[str, list[_Mention]] = {}
     name_only: list[_Mention] = []
-    for raw in _mentions(listings, web, places, products):
+    for raw in _mentions(listings, web, places, products, hiring):
         m = _clean_mention(raw, excluded, marketplaces)
         if m is None:
             continue
@@ -337,7 +447,7 @@ def _guess_kind(ms: list[_Mention], places: list[Place]) -> BuyerKind:
         return "wholesaler"
     if "import" in words:
         return "importer"
-    engines = {m.engine for m in ms}
+    engines = {m.engine for m in ms} - {"google_jobs"}  # a job ad says nothing about how they sell
     if places or engines & {"google_lens", "google_shopping"}:
         return "retailer"
     if engines == {"amazon"}:
@@ -389,6 +499,16 @@ def _build(
     if phone and phone_src:
         add("phone", f"Phone on Google Maps: {phone}", phone_src.evidence_id)
 
+    # Most recent job ad first; ads without a posting date last.
+    jobs = sorted(
+        (m.job for m in ms if m.job is not None), key=lambda j: (j.posted_days is None, j.posted_days or 0.0)
+    )
+    if jobs:
+        add("hiring", _hiring_detail(jobs[0]), jobs[0].evidence_id)
+        india = next((j for j in jobs if j.mentions_india), None)
+        if india is not None:
+            add("india_sourcing", _india_detail(india), india.evidence_id)
+
     place_reviews = [p.reviews for p in places if p.reviews is not None]
     other_reviews = [m.reviews for m in ms if m.reviews is not None and m.engine == "google_shopping"]
     review_count = max(place_reviews) if place_reviews else (max(other_reviews) if other_reviews else None)
@@ -420,6 +540,7 @@ def prior_score(candidate: BuyerCandidate) -> float:
     score = 2.0 * max(len(set(candidate.sources)) - 1, 0)
     score += 2.0 if "category_match" in kinds else 0.0
     score += 1.5 if "google_lens" in candidate.sources else 0.0  # sells a look-alike
+    score += 1.5 if "hiring" in kinds else 0.0  # hiring a buyer: sourcing right now
     score += 1.0 if candidate.listing_prices else 0.0
     score += 1.0 if candidate.kind in ("wholesaler", "importer") else 0.0
     score += 0.5 if candidate.phone else 0.0

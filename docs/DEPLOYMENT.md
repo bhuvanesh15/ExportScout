@@ -33,10 +33,10 @@ streamlit run app.py
 ```
 
 The app opens at <http://localhost:8501>. Using it:
-1. In the sidebar, leave **Demo Mode** on.
+1. In the sidebar, leave **Demo Mode** and **Compare other markets** on.
 2. Pick a demo product.
 3. Press **Scout the UK market**.
-4. Go through the **Brief**, **Buyers**, **Pitch** and **Evidence** tabs.
+4. Go through the **Brief**, **Markets**, **Buyers**, **Pitch** and **Evidence** tabs.
 
 Run the tests (offline, zero credits):
 
@@ -62,7 +62,7 @@ The public deployment runs **Demo Mode only**. No API keys go on the server, so 
 6. Open the app URL in a **private/incognito window**. The hackathon requires links to open without asking for access. Then:
    - pick each demo product
    - run it
-   - check all four tabs
+   - check all five tabs
 
 **Notes**
 - Community Cloud apps **sleep after a period without traffic**. Open the URL shortly before judging or recording so it's awake.
@@ -87,7 +87,7 @@ Live mode runs **locally** with your own keys.
 | Variable | Purpose |
 |---|---|
 | `SERPAPI_API_KEY` (or `SERPAPI_KEY`) | SerpApi searches |
-| `ANTHROPIC_API_KEY` | The LLM steps: keywords, review themes, buyer tags, brief and pitch text. Without it, the deterministic fallbacks are used |
+| `ANTHROPIC_API_KEY` | The LLM steps: keywords, the German search phrase for Amazon.de, review themes, buyer tags, brief and pitch text. Without it, the deterministic fallbacks are used |
 
 You can set them in either place:
 - **A `.env` file:** copy `.env.example` to `.env`. It is gitignored.
@@ -105,14 +105,15 @@ python scripts/record_demo.py --verify     # replay with keys hidden: must show 
 
 ## Credit safety
 
-The free SerpApi plan has 250 searches a month. ExportScout protects them in five ways:
+The free SerpApi plan has 250 searches a month. ExportScout protects them in six ways:
 
 | Safeguard | Where |
 |---|---|
 | Demo Mode is on by default, even when a key is present | `app.py` sidebar |
 | Live mode reuses any recorded response before spending a credit (`prefer_fixtures`) | `exportscout/serp/client.py`, `make_clients` in `exportscout/agent/orchestrator.py` |
 | A local SQLite cache with a time-to-live per engine; identical searches are free | `exportscout/serp/client.py` (`TTL_HOURS`) |
-| A per-run budget (default 35, adjustable 15–60); the agent stops searching and builds the brief from what it has | the sidebar and the orchestrator |
+| A per-run budget (default 45, adjustable 15–60); the agent stops searching and builds the brief from what it has | the sidebar and the orchestrator |
+| **Compare other markets** can be switched off. It adds about 9 credits to a live run (4 Amazon searches, 1 Trends request, 4 exchange rates, which are cached and shared), and enrichment keeps them back. It is free in Demo Mode | the sidebar; `MARKETS_RESERVE` in the orchestrator |
 | Recording refuses to start if it could leave fewer than 20 searches | `scripts/record_demo.py` (`RESERVE`) |
 
 The Account API used for the "searches left" meter is free.
@@ -124,5 +125,6 @@ The Account API used for the "searches left" meter is free.
 | "This input isn't in the Demo Mode recordings" | Use a demo product, or run locally in live mode |
 | The Demo Mode toggle is greyed out | No SerpApi key was found, so Demo Mode is locked on. This is expected on the public deployment |
 | `streamlit` not found | Run it through the venv: `.venv\Scripts\python -m streamlit run app.py` |
-| Live run shows "Credit budget reached" | Raise the budget in the sidebar, or re-run: cached searches are free |
+| Live run shows "Credit budget reached" | Raise the budget in the sidebar, untick **Compare other markets**, or re-run: cached searches are free |
+| The Markets tab says "No market comparison in this brief" | **Compare other markets** was off for that run. Tick it in the sidebar and scout again |
 | PowerShell blocks `activate` | Skip activation and call `.venv\Scripts\python` directly, as shown above |

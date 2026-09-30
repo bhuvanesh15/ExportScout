@@ -1,0 +1,261 @@
+{
+ "engine": "google_trends",
+ "params": {
+  "q": "plant pot",
+  "date": "today 5-y",
+  "data_type": "GEO_MAP_0",
+  "cat": "11",
+  "region": "COUNTRY"
+ },
+ "fetched_at": "2026-09-30T20:37:57+00:00",
+ "data": {
+  "search_metadata": {
+   "id": "6abd732373d175be88369d32",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/J3k2xtowYLMhG0a_EA_sF126hmO4v9Yl-njkuJcEeNQ/6abd732373d175be88369d32.json",
+   "markdown_endpoint": "https://serpapi.com/searches/J3k2xtowYLMhG0a_EA_sF126hmO4v9Yl-njkuJcEeNQ/6abd732373d175be88369d32.md",
+   "created_at": "2026-09-30 20:37:55 UTC",
+   "processed_at": "2026-09-30 20:37:55 UTC",
+   "google_trends_url": "https://trends.google.com/trends/embed/explore/GEO_MAP?hl=en&tz=420&req=%7B%22comparisonItem%22%3A%5B%7B%22keyword%22%3A%22plant+pot%22%2C%22geo%22%3A%22%22%2C%22time%22%3A%22today+5-y%22%7D%5D%2C%22category%22%3A%2211%22%2C%22property%22%3A%22%22%7D",
+   "raw_html_file": "https://serpapi.com/searches/J3k2xtowYLMhG0a_EA_sF126hmO4v9Yl-njkuJcEeNQ/6abd732373d175be88369d32.html",
+   "prettify_html_file": "https://serpapi.com/searches/J3k2xtowYLMhG0a_EA_sF126hmO4v9Yl-njkuJcEeNQ/6abd732373d175be88369d32.prettify",
+   "total_time_taken": 1.95
+  },
+  "search_parameters": {
+   "engine": "google_trends",
+   "q": "plant pot",
+   "hl": "en",
+   "cat": "11",
+   "date": "today 5-y",
+   "tz": "420",
+   "data_type": "GEO_MAP_0",
+   "region": "COUNTRY"
+  },
+  "interest_by_region": [
+   {
+    "geo": "GB",
+    "location": "United Kingdom",
+    "max_value_index": 0,
+    "value": "100",
+    "extracted_value": 100
+   },
+   {
+    "geo": "AU",
+    "location": "Australia",
+    "max_value_index": 0,
+    "value": "85",
+    "extracted_value": 85
+   },
+   {
+    "geo": "NZ",
+    "location": "New Zealand",
+    "max_value_index": 0,
+    "value": "85",
+    "extracted_value": 85
+   },
+   {
+    "geo": "SH",
+    "location": "St. Helena",
+    "max_value_index": 0,
+    "value": "46",
+    "extracted_value": 46
+   },
+   {
+    "geo": "IE",
+    "location": "Ireland",
+    "max_value_index": 0,
+    "value": "45",
+    "extracted_value": 45
+   },
+   {
+    "geo": "ZA",
+    "location": "South Africa",
+    "max_value_index": 0,
+    "value": "34",
+    "extracted_value": 34
+   },
+   {
+    "geo": "CA",
+    "location": "Canada",
+    "max_value_index": 0,
+    "value": "31",
+    "extracted_value": 31
+   },
+   {
+    "geo": "US",
+    "location": "United States",
+    "max_value_index": 0,
+    "value": "27",
+    "extracted_value": 27
+   },
+   {
+    "geo": "NL",
+    "location": "Netherlands",
+    "max_value_index": 0,
+    "value": "27",
+    "extracted_value": 27
+   },
+   {
+    "geo": "AE",
+    "location": "United Arab Emirates",
+    "max_value_index": 0,
+    "value": "21",
+    "extracted_value": 21
+   },
+   {
+    "geo": "SG",
+    "location": "Singapore",
+    "max_value_index": 0,
+    "value": "20",
+    "extracted_value": 20
+   },
+   {
+    "geo": "BE",
+    "location": "Belgium",
+    "max_value_index": 0,
+    "value": "10",
+    "extracted_value": 10
+   },
+   {
+    "geo": "IN",
+    "location": "India",
+    "max_value_index": 0,
+    "value": "9",
+    "extracted_value": 9
+   },
+   {
+    "geo": "PH",
+    "location": "Philippines",
+    "max_value_index": 0,
+    "value": "7",
+    "extracted_value": 7
+   },
+   {
+    "geo": "MY",
+    "location": "Malaysia",
+    "max_value_index": 0,
+    "value": "6",
+    "extracted_value": 6
+   },
+   {
+    "geo": "PK",
+    "location": "Pakistan",
+    "max_value_index": 0,
+    "value": "6",
+    "extracted_value": 6
+   },
+   {
+    "geo": "CH",
+    "location": "Switzerland",
+    "max_value_index": 0,
+    "value": "4",
+    "extracted_value": 4
+   },
+   {
+    "geo": "DK",
+    "location": "Denmark",
+    "max_value_index": 0,
+    "value": "4",
+    "extracted_value": 4
+   },
+   {
+    "geo": "SE",
+    "location": "Sweden",
+    "max_value_index": 0,
+    "value": "3",
+    "extracted_value": 3
+   },
+   {
+    "geo": "FR",
+    "location": "France",
+    "max_value_index": 0,
+    "value": "2",
+    "extracted_value": 2
+   },
+   {
+    "geo": "BD",
+    "location": "Bangladesh",
+    "max_value_index": 0,
+    "value": "2",
+    "extracted_value": 2
+   },
+   {
+    "geo": "KR",
+    "location": "South Korea",
+    "max_value_index": 0,
+    "value": "2",
+    "extracted_value": 2
+   },
+   {
+    "geo": "SA",
+    "location": "Saudi Arabia",
+    "max_value_index": 0,
+    "value": "2",
+    "extracted_value": 2
+   },
+   {
+    "geo": "EG",
+    "location": "Egypt",
+    "max_value_index": 0,
+    "value": "2",
+    "extracted_value": 2
+   },
+   {
+    "geo": "DE",
+    "location": "Germany",
+    "max_value_index": 0,
+    "value": "1",
+    "extracted_value": 1
+   },
+   {
+    "geo": "ES",
+    "location": "Spain",
+    "max_value_index": 0,
+    "value": "1",
+    "extracted_value": 1
+   },
+   {
+    "geo": "TH",
+    "location": "Thailand",
+    "max_value_index": 0,
+    "value": "1",
+    "extracted_value": 1
+   },
+   {
+    "geo": "VN",
+    "location": "Vietnam",
+    "max_value_index": 0,
+    "value": "1",
+    "extracted_value": 1
+   },
+   {
+    "geo": "PL",
+    "location": "Poland",
+    "max_value_index": 0,
+    "value": "<1",
+    "extracted_value": 0
+   },
+   {
+    "geo": "ID",
+    "location": "Indonesia",
+    "max_value_index": 0,
+    "value": "<1",
+    "extracted_value": 0
+   },
+   {
+    "geo": "IT",
+    "location": "Italy",
+    "max_value_index": 0,
+    "value": "<1",
+    "extracted_value": 0
+   },
+   {
+    "geo": "BR",
+    "location": "Brazil",
+    "max_value_index": 0,
+    "value": "<1",
+    "extracted_value": 0
+   }
+  ]
+ }
+}
