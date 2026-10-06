@@ -1,9 +1,10 @@
 # ExportScout: submission form text
 
-Draft from plan §14. Fill in the links before submitting.
+Draft from plan §14.
 
 - **Repository:** `https://github.com/bhuvanesh15/ExportScout`
-- **Demo video:** `<video-url>`
+- **Live demo:** `https://exportscout-india.streamlit.app`
+- **Demo video:** `https://youtu.be/bKHpvZXYfY0`
 
 ## Title
 

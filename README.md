@@ -6,9 +6,9 @@
 ![Streamlit](https://img.shields.io/badge/UI-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 ![SerpApi](https://img.shields.io/badge/data-SerpApi%20%C2%B7%2013%20engines-2E7D32)
 ![Tests](https://img.shields.io/badge/tests-373%20passing-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-blue)
 
-<!-- live-demo: add the Streamlit Community Cloud URL here after deploying -->
+**▶ Live demo:** https://exportscout-india.streamlit.app (Demo Mode, no keys needed)  
+**🎬 Demo video:** https://youtu.be/bKHpvZXYfY0
 
 ExportScout helps a small Moradabad brassware exporter sell into the UK now that Indian handicrafts enter duty-free. The owner uploads one product photo, a unit cost in ₹ and an MOQ. An agent then searches the UK market through [SerpApi](https://serpapi.com) and returns:
 
@@ -405,7 +405,3 @@ As the hackathon rules require:
   - writing the brief and pitch emails, where every claim must cite an evidence ID
 
 All prices and scores are computed by deterministic Python, not by the model.
-
-## License
-
-MIT
